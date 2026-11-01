@@ -1,20 +1,22 @@
-{
-  "edition": "2026-11-01",
-  "articleId": "mercosul-efta-noruega-2026",
-  "postDate": "2026-11-01",
-  "network": "instagram",
-  "media": [
-    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-01-mercosul-efta-noruega-2026/slide1.png",
-    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-01-mercosul-efta-noruega-2026/slide2.png",
-    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-01-mercosul-efta-noruega-2026/slide3.png",
-    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-01-mercosul-efta-noruega-2026/slide4.png",
-    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-01-mercosul-efta-noruega-2026/slide5.png"
-  ],
-  "sources": [
-    "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/setembro/acordo-mercosul-efta-entra-em-vigor-mdic-lanca-painel-para-ampliar-acesso-as-novas-oportunidades",
-    "https://www.gov.br/siscomex/pt-br/noticias/noticias-siscomex-exportacao/comunicados/exportacao-no-2026-026"
-  ],
-  "status": "generated_locally_not_yet_published",
-  "publishedToInstagram": false,
-  "scheduledPostId": null
+﻿{
+    "edition":  "2026-11-01",
+    "articleId":  "mercosul-efta-noruega-2026",
+    "postDate":  "2026-11-01",
+    "network":  "instagram",
+    "media":  [
+                  "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-01-mercosul-efta-noruega-2026/slide1.png",
+                  "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-01-mercosul-efta-noruega-2026/slide2.png",
+                  "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-01-mercosul-efta-noruega-2026/slide3.png",
+                  "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-01-mercosul-efta-noruega-2026/slide4.png",
+                  "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-01-mercosul-efta-noruega-2026/slide5.png"
+              ],
+    "sources":  [
+                    "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/setembro/acordo-mercosul-efta-entra-em-vigor-mdic-lanca-painel-para-ampliar-acesso-as-novas-oportunidades",
+                    "https://www.gov.br/siscomex/pt-br/noticias/noticias-siscomex-exportacao/comunicados/exportacao-no-2026-026"
+                ],
+    "status":  "scheduled_buffer",
+    "publishedToInstagram":  false,
+    "scheduledPostId":  "6ae7934f411773964798fa69",
+    "publisher":  "buffer",
+    "scheduledAt":  "2026-11-01T19:39:00-03:00"
 }
