@@ -1,0 +1,27 @@
+{
+  "project": "Raven Crow",
+  "origin": "Conversa Timeline",
+  "sourceId": "JMZV2-6SwC4",
+  "sourceUrl": "https://www.youtube.com/watch?v=JMZV2-6SwC4",
+  "sourceDate": "2026-10-30",
+  "startSeconds": 964.8,
+  "endSeconds": 1045.1,
+  "speechEndSeconds": 1044.2,
+  "durationSeconds": 79.62,
+  "sha256": "b6b3f4b75b078a97d564b09971a39ff6c31052b105a0b64ee3f089b67378e46b",
+  "sizeBytes": 63286514,
+  "codec": "h264",
+  "audioCodec": "aac",
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "sourceReuse": "autorização declarada pelo titular em 31/10/2026; sem verificação documental externa",
+  "visualQa": "frames at 0.5,2,10,35,60,77,79s inspected",
+  "audioQa": "full FFmpeg decode passed; AAC packet guard passed, 0 discontinuities; natural silence at final 0.4s",
+  "subtitles": "32 blocks <=5 words",
+  "editorial": "Context of Venezuela TSJ sentences 155/156 in 2017; opinion analogy with Brazil marked as opinion; IACHR report crosschecked",
+  "broll": "none; no third-party images used",
+  "music": "none",
+  "createdFor": "Buffer Instagram/TikTok/YouTube after public HEAD and editorial QA"
+}
