@@ -1,0 +1,102 @@
+{
+  "articleId": "record-kids-classificacao-12-2026",
+  "status": "READY_FOR_BUFFER",
+  "style": "photo_editorial",
+  "assets": [
+    {
+      "file": "slide1.png",
+      "sha256": "ed52b2a664ff858997dff93296d85b5ae9bcab6a0e6d7d49492f1cece1e4d69d",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide2.png",
+      "sha256": "870198ec3304290f34195ab9f78f89edbef96830315621620f14cdc6a10dec4c",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide3.png",
+      "sha256": "d1523b86736d8eaa00f63b17fe7acc7a1f3da98d17f5a0b4fec1fe18a26c745e",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide4.png",
+      "sha256": "ede33b4bdeaf72c745ae27cc2e90bbbd1e7eb4197fcad6b4eea439aa18b64789",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide5.png",
+      "sha256": "ef44fc1be17380c495c1f0843fea4d0557018a862b132107872ca0da7a046c34",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "palette": {
+    "background": "#0D0E12",
+    "surface": "#18191F",
+    "text": "#F7F4ED",
+    "accent": "#E55E49",
+    "muted": "#A7A7AE"
+  },
+  "sources": [
+    {
+      "name": "DOU 29/10/2026, Portaria 2.272 reproduzida pelo Atlas Público",
+      "url": "https://atlaspublico.com.br/regulacao/dou/portaria-cgpcind-dsprad-sedigi-n-2-270-de-28-de-outubro-de-2026-885544"
+    },
+    {
+      "name": "Portal Mais360, 01/11/2026",
+      "url": "https://portalmais360.com.br/brasil/2026/11/01/ministerio-da-justica-classifica-desenhos-biblicos-da-record-como-improprios-para-menores-de-12-anos.html"
+    },
+    {
+      "name": "Macaíba Gospel, 01/11/2026",
+      "url": "https://macaibagospel.com.br/noticia/desenhos-biblicos-da-record-passam-a-ser-recomendados-para-maiores-de-12-anos-entenda"
+    }
+  ],
+  "photoCredits": [
+    {
+      "author": "Roque de Sá / Agência Senado",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Minist%C3%A9rio_da_Justi%C3%A7a.jpg",
+      "use": "slides 1, 3, 5",
+      "description": "Fachada do Ministério da Justiça, foto de arquivo de 2020; corte e escurecimento editorial"
+    },
+    {
+      "author": "Josue Marinho",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Brasilia_DF_Brasil_-_Ministerio_da_Justi%C3%A7a_-_panoramio.jpg",
+      "use": "slides 2, 4",
+      "description": "Palácio da Justiça em Brasília, imagem de arquivo; corte e escurecimento editorial"
+    }
+  ],
+  "slotId": "2026-11-01T20:10:00-03:00|IG|record-kids-classificacao-12-2026",
+  "mediaHash": "384d931aa45ef1ce5d1606e3f5ec9b6fb8c1d1e093518739fd5145d5cd8e5d98",
+  "qa": {
+    "editorial": "REVIEWED",
+    "visual": "REVIEWED",
+    "sourceVerification": "PASS",
+    "imageRights": "ATTRIBUTION_IN_CAPTION",
+    "dimensions": "PASS",
+    "deduplication": "PASS",
+    "reviewedAt": "2026-11-01T22:44:04.876885+00:00"
+  },
+  "media": [
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-01-record-kids-classificacao-12-2026/slide1.png",
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-01-record-kids-classificacao-12-2026/slide2.png",
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-01-record-kids-classificacao-12-2026/slide3.png",
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-01-record-kids-classificacao-12-2026/slide4.png",
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-01-record-kids-classificacao-12-2026/slide5.png"
+  ]
+}
