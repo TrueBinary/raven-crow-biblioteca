@@ -11,7 +11,7 @@ def patch(path,fn):
     if s!=t:path.write_text(t,encoding='utf-8')
 def common(s,is_news):
     if 'raven-analytics.js' not in s:
-        src='raven-analytics.js' if is_news else 'public/raven-analytics.js'
+        src='raven-analytics.js'
         s=s.replace('</body>',f'<script defer src="{src}"></script></body>',1)
     if 'rel="canonical"' not in s:
         target=BASE+('/noticias.html' if is_news else '/')
