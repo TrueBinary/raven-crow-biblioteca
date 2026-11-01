@@ -1,0 +1,15 @@
+NOTA FISCAL DE SERVIÇOS: A MUDANÇA COMEÇA HOJE.
+
+Desde 1º de novembro de 2026, microempresas e empresas de pequeno porte optantes pelo Simples Nacional devem emitir a NFS-e de serviços pelo Emissor Nacional, via web ou API. A regra decorre da Resolução CGSN nº 191/2026. Atenção à data de competência: documentos relativos a serviços anteriores à mudança têm regras específicas para emissão retroativa.
+
+Na leitura do Corvo Investigador, padronizar pode reduzir a fragmentação entre sistemas municipais. Mas uma obrigação centralizada também exige disponibilidade, segurança, suporte e custos de adaptação razoáveis. A intenção de simplificar não basta: o resultado deve ser medido pela experiência real de quem trabalha e empreende.
+
+O contraponto: um padrão nacional pode facilitar integração, fiscalização e operação para empresas que atendem clientes em vários municípios. Não se trata de afirmar que o sistema falhou, e sim de cobrar que cumpra o que promete.
+
+Fontes oficiais: Receita Federal (14/08/2026) https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-e-epp-a-partir-de-1o-de-novembro-de-2026 ; Portal NFS-e (29/10/2026) https://www.gov.br/nfse/pt-br/noticias/nfs-e-informa-diretrizes-sobre-a-obrigatoriedade-da-emissao-da-nfs-e-nacional-para-optantes-do-simples-nacional/
+
+Fotografias ilustrativas de arquivo, Serpro Brasil (2024), CC BY 2.0, recortadas e escurecidas para a composição: https://commons.wikimedia.org/wiki/File:2024-12-27_Visita_da_Receita_Federal_ao_Centro_de_Dados_de_Bras%C3%ADlia_-_001.jpg e https://commons.wikimedia.org/wiki/File:2024-12-27_Visita_da_Receita_Federal_ao_Centro_de_Dados_de_Bras%C3%ADlia_-_002.jpg . As fotos não documentam a implantação da NFS-e em novembro de 2026.
+
+Acompanhe a Coluna do Corvo no link da bio.
+
+#SimplesNacional #NFSe #Empreendedorismo #ReformaTributaria #RavenCrow

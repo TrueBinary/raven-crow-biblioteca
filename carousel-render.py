@@ -78,16 +78,26 @@ def render_photo_slide(slide,index,total,brand_logo=None):
     if brand_logo:
         logo=Image.open(brand_logo).convert("RGBA");logo.thumbnail((115,115))
         im.alpha_composite(logo,(900,85))
-    y=740
-    d.text((64,y),slide["section"].upper(),font=face(30,True),fill=PALETTE["accent"]);y+=56
+    y=708
+    d.text((64,y),slide["section"].upper(),font=face(30,True),fill=PALETTE["accent"]);y+=54
     title=slide["title"].upper()
-    for size in (87,78,70,62,54):
+    body=slide.get("body","")
+    body_font=face(31)
+    body_lines=lines(d,body,body_font,925) if body else []
+    if len(body_lines)>4: raise ValueError("Photo supporting text exceeds four lines")
+    for size in (82,74,66,58,50,44):
         f=face(size,True);wrapped=lines(d,title,f,935)
-        if y+len(wrapped)*int(size*1.07)<1198:break
-    if y+len(wrapped)*int(size*1.07)>=1198:raise ValueError("Photo headline overflow")
+        projected=y+len(wrapped)*int(size*1.07)+24+len(body_lines)*42
+        if projected<1200:break
+    if projected>=1200:raise ValueError("Photo headline/support overflow")
     for line in wrapped:
         d.text((64,y),line,font=f,fill=PALETTE["text"],stroke_width=2,stroke_fill=PALETTE["background"])
         y+=int(size*1.07)
+    if body_lines:
+        y+=20
+        for line in body_lines:
+            d.text((64,y),line,font=body_font,fill=PALETTE["text"],stroke_width=1,stroke_fill=PALETTE["background"])
+            y+=42
     d.rectangle((64,1225,1018,1230),fill=PALETTE["accent"])
     d.text((64,1255),"O CORVO INVESTIGADOR",font=face(27,True),fill=PALETTE["text"])
     d.text((944,1255),f"{index:02}/{total:02}",font=face(24,True),fill=PALETTE["text"])
@@ -107,6 +117,6 @@ def main():
             assert chk.format=="PNG" and chk.size==(W,H)
         assets.append({"file":path.name,"sha256":hashlib.sha256(path.read_bytes()).hexdigest(),"size":[W,H]})
     (out/"caption.txt").write_text(spec["caption"],encoding="utf-8")
-    (out/"manifest.json").write_text(json.dumps({"articleId":spec["articleId"],"status":"RENDERED_NEEDS_EDITORIAL_REVIEW","assets":assets,"palette":PALETTE},ensure_ascii=False,indent=2),encoding="utf-8")
+    (out/"manifest.json").write_text(json.dumps({"articleId":spec["articleId"],"status":"RENDERED_NEEDS_EDITORIAL_REVIEW","style":spec.get("style","classic"),"assets":assets,"palette":PALETTE,"sources":spec.get("sources",[]),"photoCredits":spec.get("photoCredits",[])},ensure_ascii=False,indent=2),encoding="utf-8")
     print(json.dumps({"status":"RENDERED_NEEDS_EDITORIAL_REVIEW","assets":len(assets)}))
 if __name__=="__main__":main()

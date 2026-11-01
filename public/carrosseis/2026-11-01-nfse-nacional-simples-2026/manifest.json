@@ -1,0 +1,91 @@
+{
+  "articleId": "nfse-nacional-simples-2026",
+  "status": "READY_FOR_BUFFER",
+  "style": "photo_editorial",
+  "assets": [
+    {
+      "file": "slide1.png",
+      "sha256": "21d76b6ac55fec1b474b26d804b67ca712503ad3a382dba436b322f12189d21f",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide2.png",
+      "sha256": "a4a2cacafacc0a2ac9d0e72352e06df1d94562f3ed9a35d1940cbed16d5c99fb",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide3.png",
+      "sha256": "fd2afdcdc2e455d2c824cd8adf59a47f0da65347e8826219d97e569d7b49974d",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide4.png",
+      "sha256": "ef124ff9d22fdd8dec341ebf09f07e00d7d24c3dc47eea029527022f134db131",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide5.png",
+      "sha256": "387bb8158f3e3ce58c52e723a6f9b8c480db83e1470d7c4641cb39eba8fc65ef",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "palette": {
+    "background": "#0D0E12",
+    "surface": "#18191F",
+    "text": "#F7F4ED",
+    "accent": "#E55E49",
+    "muted": "#A7A7AE"
+  },
+  "sources": [
+    {
+      "name": "Receita Federal, Resolução CGSN 191/2026, orientação 14/08/2026",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-e-epp-a-partir-de-1o-de-novembro-de-2026"
+    },
+    {
+      "name": "Portal NFS-e, diretrizes de competência, 29/10/2026",
+      "url": "https://www.gov.br/nfse/pt-br/noticias/nfs-e-informa-diretrizes-sobre-a-obrigatoriedade-da-emissao-da-nfs-e-nacional-para-optantes-do-simples-nacional/"
+    }
+  ],
+  "photoCredits": [
+    {
+      "author": "Serpro Brasil",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:2024-12-27_Visita_da_Receita_Federal_ao_Centro_de_Dados_de_Bras%C3%ADlia_-_001.jpg",
+      "use": "slides 2,4",
+      "description": "Imagem de arquivo do Serpro, 2024; ilustrativa"
+    },
+    {
+      "author": "Serpro Brasil",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:2024-12-27_Visita_da_Receita_Federal_ao_Centro_de_Dados_de_Bras%C3%ADlia_-_002.jpg",
+      "use": "slides 1,3,5",
+      "description": "Imagem de arquivo do Serpro, 2024; ilustrativa"
+    }
+  ],
+  "slotId": "2026-11-01T19:10:00-03:00|IG|nfse-nacional-simples-2026",
+  "mediaHash": "e57bdc03b7df15fca3e1e44e6708bba8d95d9f03687dcaf617e492b67119915c",
+  "qa": {
+    "editorial": "REVIEWED",
+    "visual": "REVIEWED",
+    "sourceVerification": "PASS",
+    "imageRights": "ATTRIBUTION_IN_CAPTION",
+    "dimensions": "PASS",
+    "deduplication": "PASS",
+    "reviewedAt": "2026-11-01T21:38:05.391620+00:00"
+  }
+}
