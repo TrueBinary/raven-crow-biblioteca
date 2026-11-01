@@ -1,10 +1,34 @@
 {
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
-  "edition": "31/10/2026",
-  "updatedAt": "2026-10-31T18:00:00-03:00",
+  "edition": "01/11/2026",
+  "updatedAt": "2026-11-01T09:54:40-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "mercosul-efta-noruega-2026",
+      "category": "ECONOMIA",
+      "date": "2026-11-01",
+      "title": "Brasil e Noruega abrem tarifas: menos barreiras, mais concorrência",
+      "subtitle": "O acordo Mercosul–EFTA começa a valer entre os dois países neste 1º de novembro. O ganho potencial dependerá de empresas, consumidores e regras efetivamente aplicadas.",
+      "facts": "O acordo Mercosul–EFTA passa a valer nas relações entre Brasil e Noruega em 1º de novembro de 2026, conforme o MDIC. Na Noruega, 249 linhas tarifárias de vestuário e têxteis confeccionados, antes sujeitas a tarifas de 5,6% a 10,7%, passam a tarifa zero para produtos elegíveis do Mercosul. A tarifa de 21% sobre fermento de panificação e leveduras inativas também é eliminada. O Siscomex anunciou modelos de licença de exportação para cotas destinadas à Noruega a partir desta data; os benefícios dependem das condições e regras de origem de cada produto.",
+      "analysis": "A novidade de 1º de novembro não é a assinatura de um tratado — ocorrida em setembro de 2025 —, mas a entrada em vigor de preferências comerciais entre Brasil e Noruega. A diferença é importante: a promessa diplomática agora passa a ter consequências para quem produz, importa, exporta e compra. A redução de tarifas pode abrir espaço a negócios antes inviáveis, mas não garante contratos, competitividade ou crescimento automático das exportações.\n\nNa perspectiva editorial do Raven Crow, inspirada no direito natural, na proteção da propriedade privada e na tradição da economia austríaca, o comércio é sobretudo uma relação voluntária entre pessoas e empresas. Uma tarifa funciona como barreira estatal que altera preços relativos e transfere custos para consumidores e cadeias produtivas. Reduzi-la devolve margem de escolha a agentes privados. Esse benefício não precisa ser confundido com a ideia de que o governo cria riqueza por decreto: são empresários, trabalhadores e consumidores que precisam descobrir quais trocas valem a pena.\n\nHá, porém, uma distância entre tarifa nominal zero e mercado realmente aberto. Regras de origem, cotas agrícolas, requisitos técnicos, logística e custos de conformidade continuam existindo. O próprio acordo prevê cronogramas de desgravação de até 15 anos para tarifas brasileiras, enquanto a Noruega elimina imediatamente diversas tarifas industriais e pesqueiras. O custo de oportunidade de manter proteção interna por tanto tempo é adiar acesso a insumos e concorrência, mas a transição também impõe custos concretos a setores menos preparados. A medida deve ser julgada pelos preços, pela produtividade e pela liberdade efetiva de comerciar — não pelo número de anúncios oficiais.",
+      "counterpoint": "Uma leitura favorável à transição gradual sustenta que a abertura abrupta pode pressionar empresas e empregos em setores expostos à concorrência externa e que regras sanitárias e de origem protegem padrões legítimos. Também é verdade que uma preferência tarifária não elimina custos logísticos nem assegura que consumidores recebam integralmente os ganhos. O teste honesto será observar os resultados ao longo do tempo, inclusive quem se beneficia e quem arca com os custos de adaptação.",
+      "sources": [
+        {
+          "name": "MDIC — Acordo Mercosul–EFTA abre oportunidades para exportações à Noruega, 31/10/2026",
+          "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/outubro/acordo-mercosul-efta-abre-novas-oportunidades-para-exportacoes-brasileiras-a-noruega-em-1o-de-novembro"
+        },
+        {
+          "name": "Siscomex — Exportação nº 026/2026, 23/10/2026",
+          "url": "https://www.gov.br/siscomex/pt-br/noticias/noticias-siscomex-exportacao/comunicados/exportacao-no-2026-026/"
+        },
+        {
+          "name": "MDIC — Regras de cotas para exportadores à Noruega, 20/10/2026",
+          "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/outubro/brasil-define-regras-para-exportadores-acessarem-cotas-do-acordo-mercosul2013efta-na-noruega"
+        }
+      ]
+    },
     {
       "id": "eleicoes-2026",
       "category": "INSTITUIÇÕES",
@@ -42,26 +66,6 @@
         {
           "name": "Agência Brasil — reportagem sobre dívida e déficit",
           "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/divida-publica-fica-em-829-do-pib-e-deficit-soma-r-55-bilhoes"
-        }
-      ]
-    },
-    {
-      "id": "inflacao-poder-compra",
-      "category": "MOEDA",
-      "date": "2026-10-31",
-      "title": "Inflação: números do IPCA e poder de compra não são a mesma conversa",
-      "subtitle": "Um índice nacional sintetiza preços; cada orçamento sente uma cesta diferente.",
-      "facts": "O IBGE informou IPCA acumulado de 4,58% em doze meses até setembro de 2026. Esse é um índice agregado de preços ao consumidor; famílias com hábitos de consumo distintos podem perceber variações diferentes.",
-      "analysis": "A perspectiva monetária liberal chama atenção para as consequências da inflação sobre planejamento, poupança e contratos. É importante, contudo, distinguir a origem de choques de preços, decisões de política monetária, câmbio e alterações de oferta, em vez de atribuir todo movimento do índice a uma causa única.",
-      "counterpoint": "A estabilização de preços depende também de expectativas, dinâmica fiscal, produtividade, choques de oferta e política monetária; conclusões causais exigem dados adicionais.",
-      "sources": [
-        {
-          "name": "IBGE — indicadores econômicos / IPCA",
-          "url": "https://www.ibge.gov.br/indicadores-economicos/ipca.html"
-        },
-        {
-          "name": "Banco Central — panorama econômico",
-          "url": "https://www.bcb.gov.br/"
         }
       ]
     }
