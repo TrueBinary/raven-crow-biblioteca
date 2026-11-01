@@ -1,6 +1,6 @@
 {
   "articleId": "nfse-nacional-simples-2026",
-  "status": "READY_FOR_BUFFER",
+  "status": "SCHEDULED",
   "style": "photo_editorial",
   "assets": [
     {
@@ -87,5 +87,13 @@
     "dimensions": "PASS",
     "deduplication": "PASS",
     "reviewedAt": "2026-11-01T21:38:05.391620+00:00"
+  },
+  "buffer": {
+    "postId": "6ae7b17f2da2578c18833677",
+    "status": "scheduled",
+    "scheduledFor": "2026-11-01T19:10:00-03:00",
+    "channelId": "6ae77c99e29c69a1712a83e4",
+    "permalink": null,
+    "verifiedAt": "2026-11-01T21:39:28.459543+00:00"
   }
 }

@@ -5,9 +5,11 @@
       "slotId": "2026-11-01T19:10:00-03:00|IG|nfse-nacional-simples-2026",
       "articleId": "nfse-nacional-simples-2026",
       "mediaHash": "e57bdc03b7df15fca3e1e44e6708bba8d95d9f03687dcaf617e492b67119915c",
-      "status": "ASSETS_APPROVED",
+      "status": "SCHEDULED",
       "targetTime": "2026-11-01T19:10:00-03:00",
-      "postId": null
+      "postId": "6ae7b17f2da2578c18833677",
+      "scheduledFor": "2026-11-01T19:10:00-03:00",
+      "permalink": null
     }
   ]
 }
