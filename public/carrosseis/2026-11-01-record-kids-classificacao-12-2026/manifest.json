@@ -1,6 +1,6 @@
 {
   "articleId": "record-kids-classificacao-12-2026",
-  "status": "READY_FOR_BUFFER",
+  "status": "SCHEDULED",
   "style": "photo_editorial",
   "assets": [
     {
@@ -98,5 +98,12 @@
     "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-01-record-kids-classificacao-12-2026/slide3.png",
     "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-01-record-kids-classificacao-12-2026/slide4.png",
     "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-01-record-kids-classificacao-12-2026/slide5.png"
-  ]
+  ],
+  "buffer": {
+    "postId": "6ae7c121902c3fb1debfe1e8",
+    "status": "scheduled",
+    "scheduledFor": "2026-11-01T20:10:00-03:00",
+    "channelId": "6ae77c99e29c69a1712a83e4",
+    "permalink": null
+  }
 }

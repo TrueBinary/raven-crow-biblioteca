@@ -15,9 +15,11 @@
       "slotId": "2026-11-01T20:10:00-03:00|IG|record-kids-classificacao-12-2026",
       "articleId": "record-kids-classificacao-12-2026",
       "mediaHash": "384d931aa45ef1ce5d1606e3f5ec9b6fb8c1d1e093518739fd5145d5cd8e5d98",
-      "status": "ASSETS_APPROVED",
+      "status": "SCHEDULED",
       "targetTime": "2026-11-01T20:10:00-03:00",
-      "postId": null
+      "postId": "6ae7c121902c3fb1debfe1e8",
+      "scheduledFor": "2026-11-01T20:10:00-03:00",
+      "permalink": null
     }
   ]
 }
