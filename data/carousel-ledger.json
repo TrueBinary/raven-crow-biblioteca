@@ -50,6 +50,14 @@
       "postId": "6ae854b1ca68b566b62d5869",
       "scheduledFor": "2026-11-02T18:00:00-03:00",
       "permalink": null
+    },
+    {
+      "slotId": "2026-11-03T00:00:00-03:00|IG|fala-politica-contexto-checagem-2026",
+      "articleId": "fala-politica-contexto-checagem-2026",
+      "mediaHash": "2c0e5c8497adb9784de5c85dc18a471514ae89149599a900890e4f26fa40a795",
+      "status": "ASSETS_APPROVED",
+      "targetTime": "2026-11-03T00:00:00-03:00",
+      "postId": null
     }
   ]
 }

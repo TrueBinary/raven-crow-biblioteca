@@ -1,0 +1,91 @@
+{
+  "articleId": "fala-politica-contexto-checagem-2026",
+  "status": "READY_FOR_BUFFER",
+  "style": "photo_editorial",
+  "assets": [
+    {
+      "file": "slide1.png",
+      "sha256": "d5149a65ab2f028417a1d6f722d84ee73126612e0c0b7f79f41f1554eb981f9c",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide2.png",
+      "sha256": "e22cf7ceb9a23685936670964bbc92ac1073512db773af54a0258fe37714f0f7",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide3.png",
+      "sha256": "699e9337b86a8ca3ff388480663d8ebc49e9f7609dfe431482e11783aa6e7144",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide4.png",
+      "sha256": "8c6a307ca55253d167d7fa0876a40caece701a37258b60c0d1298ff9245336ee",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide5.png",
+      "sha256": "99cd947dcde17158bda30ed90ad202c94fcff8b489fb63cfeea822caa3c85a40",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "palette": {
+    "background": "#0D0E12",
+    "surface": "#18191F",
+    "text": "#F7F4ED",
+    "accent": "#E55E49",
+    "muted": "#A7A7AE"
+  },
+  "sources": [
+    {
+      "name": "Senado Verifica — clickbait e títulos exagerados",
+      "url": "https://www12.senado.leg.br/verifica/materias-especiais/2026/clickbait-descubra-como-titulos-exagerados-podem-enganar-voce"
+    },
+    {
+      "name": "TSE — falas fora de contexto e desinformação",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Marco/ultimo-video-da-webserie-201cv-de-verdade201d-alerta-desconfie-de-conteudos-que-possam-parecer-artificiais"
+    }
+  ],
+  "photoCredits": [
+    {
+      "author": "Agência Senado",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Entrevista_Coletiva_(51714368087).jpg",
+      "use": "slides 1, 3, 5",
+      "description": "Foto de arquivo ilustrativa; não representa a fala analisada"
+    },
+    {
+      "author": "Agência Senado",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Presid%C3%AAncia_do_Senado_-_Entrevista_coletiva_(52782014514).jpg",
+      "use": "slides 2, 4",
+      "description": "Foto de arquivo ilustrativa; não representa a fala analisada"
+    }
+  ],
+  "slotId": "2026-11-03T00:00:00-03:00|IG|fala-politica-contexto-checagem-2026",
+  "mediaHash": "2c0e5c8497adb9784de5c85dc18a471514ae89149599a900890e4f26fa40a795",
+  "qa": {
+    "editorial": "REVIEWED",
+    "visual": "REVIEWED",
+    "sourceVerification": "PASS",
+    "imageRights": "ATTRIBUTION_IN_CAPTION",
+    "dimensions": "PASS",
+    "deduplication": "PASS",
+    "reviewedAt": "2026-11-02T09:17:04.079388+00:00"
+  }
+}
