@@ -1,0 +1,84 @@
+{
+  "articleId": "socrates-perguntas-verdade-2026",
+  "status": "READY_FOR_BUFFER",
+  "style": "photo_editorial",
+  "assets": [
+    {
+      "file": "slide1.png",
+      "sha256": "b5fc068dacb5294e325cb6e137ae08354a4e2a5c493a8e68f1a6ee0bf080dd05",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide2.png",
+      "sha256": "cd2455176c631e5d7929af5945c1360cdcd49acc3944f98c73126a3f406a24fa",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide3.png",
+      "sha256": "baca5a6fad80a31379a446d3ef753a5ebbff74065e29badcc8cdf95b64bcbb23",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide4.png",
+      "sha256": "072e069e8038de7a39e68dd0ae9e90a9504f37490b15c74b45ff7ce579f52411",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide5.png",
+      "sha256": "1f47fab464d29466256b33396ef700269a888138c51039fafb85be80df20da5a",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "palette": {
+    "background": "#0D0E12",
+    "surface": "#18191F",
+    "text": "#F7F4ED",
+    "accent": "#E55E49",
+    "muted": "#A7A7AE"
+  },
+  "sources": [
+    {
+      "name": "Platão — Apologia de Sócrates, seção 38",
+      "url": "https://bookstacks.org/en/authors/plato/apology/section-38"
+    },
+    {
+      "name": "Stanford Encyclopedia of Philosophy — Socrates",
+      "url": "https://plato.stanford.edu/entries/socrates/"
+    }
+  ],
+  "photoCredits": [
+    {
+      "author": "Derek Key",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Socrates_statue_at_the_Louvre,_8_April_2013.jpg",
+      "use": "slides 1–5",
+      "description": "Fotografia de 2013 de busto romano de Sócrates no Louvre; recortada e escurecida"
+    }
+  ],
+  "slotId": "2026-11-03T06:00:00-03:00|IG|socrates-perguntas-verdade-2026",
+  "mediaHash": "cc6040f107ee7b64bbc1a948c04019f242d7798dcc05ca3e96ed3c6bd56649d1",
+  "qa": {
+    "editorial": "REVIEWED",
+    "visual": "REVIEWED",
+    "sourceVerification": "PASS",
+    "imageRights": "ATTRIBUTION_IN_CAPTION",
+    "dimensions": "PASS",
+    "deduplication": "PASS",
+    "reviewedAt": "2026-11-02T09:20:24.732744+00:00"
+  }
+}
