@@ -1,0 +1,84 @@
+{
+  "articleId": "voto-distrital-representacao-2026",
+  "status": "READY_FOR_BUFFER",
+  "style": "photo_editorial",
+  "assets": [
+    {
+      "file": "slide1.png",
+      "sha256": "a7db6d5f3ebd3af6b4e1c241147174d64e8da01922aa668f7e857df8f1b24b4f",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide2.png",
+      "sha256": "34dc729824c4bbe20091522bc204ba34490a3dfbda86ac6a9f6e6ff579a605ac",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide3.png",
+      "sha256": "6293de4052c6d6978e18ab481887c25db235b8405641365c12798db78ca333d3",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide4.png",
+      "sha256": "91972b64d909cd48f115f7aeffa83a2e2196d560239679e07c0aaf004b580672",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide5.png",
+      "sha256": "b1d18384bdf7049b7aff1050bc4ccfe5d8a3be9ec110f4a86ccd7336493ca5d5",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "palette": {
+    "background": "#0D0E12",
+    "surface": "#18191F",
+    "text": "#F7F4ED",
+    "accent": "#E55E49",
+    "muted": "#A7A7AE"
+  },
+  "sources": [
+    {
+      "name": "TSE — eleições majoritárias e proporcionais",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2024/Agosto/conheca-as-diferencas-entre-eleicoes-majoritaria-e-proporcional"
+    },
+    {
+      "name": "Câmara dos Deputados — eleições 2026",
+      "url": "https://especial.camara.leg.br/eleicoes-2026/eleicoes-2026-como-funciona/"
+    }
+  ],
+  "photoCredits": [
+    {
+      "author": "Leandro Neumann Ciuffo",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:C%C3%A2mara_dos_Deputados_(5944392503).jpg",
+      "use": "slides 1–5",
+      "description": "Fotografia documental da Câmara, ilustrativa; não representa proposta aprovada em 2026"
+    }
+  ],
+  "slotId": "2026-11-02T12:00:00-03:00|IG|voto-distrital-representacao-2026",
+  "mediaHash": "526c7650efec79bfb1707199a6fcd80c8ef9b0ba0664d26ca476974ea8e201df",
+  "qa": {
+    "editorial": "REVIEWED",
+    "visual": "REVIEWED",
+    "sourceVerification": "PASS",
+    "imageRights": "ATTRIBUTION_IN_CAPTION",
+    "dimensions": "PASS",
+    "deduplication": "PASS",
+    "reviewedAt": "2026-11-02T09:13:38.681814+00:00"
+  }
+}

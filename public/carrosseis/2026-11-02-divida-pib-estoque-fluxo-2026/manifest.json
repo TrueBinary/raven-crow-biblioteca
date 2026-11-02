@@ -1,0 +1,84 @@
+{
+  "articleId": "divida-pib-estoque-fluxo-2026",
+  "status": "READY_FOR_BUFFER",
+  "style": "photo_editorial",
+  "assets": [
+    {
+      "file": "slide1.png",
+      "sha256": "813376a82145f346ea8ba8c3137351a9d81651f84ea45568358c27fa5ff76006",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide2.png",
+      "sha256": "cdf1c02b4f9f05021a1c184c634ccc0ba79392d49f8cf9a343165126d1953348",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide3.png",
+      "sha256": "6486eef1ed66548678beab18645ab8681e157743802cd0eeba193c2dbe2ffb3e",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide4.png",
+      "sha256": "29e0eb4314fb2b0c18b14b2ec676e32dbb891b64e9713514f97aebb9324b5b65",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide5.png",
+      "sha256": "535a498e7d7dc5fa9ae12cee9ff867df076f364c73942520319955482eae309d",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "palette": {
+    "background": "#0D0E12",
+    "surface": "#18191F",
+    "text": "#F7F4ED",
+    "accent": "#E55E49",
+    "muted": "#A7A7AE"
+  },
+  "sources": [
+    {
+      "name": "Banco Central — estatísticas fiscais",
+      "url": "https://www.bcb.gov.br/estatisticas/estatisticasfiscais"
+    },
+    {
+      "name": "Banco Central — indicadores fiscais",
+      "url": "https://www.bcb.gov.br/content/estatisticas/notas_metodologicas/estatisticas-fiscais/estatisticasfiscais.pdf"
+    }
+  ],
+  "photoCredits": [
+    {
+      "author": "Banco Central do Brasil",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio_%22Sede%22_do_Banco_Central_do_Brasil_em_Bras%C3%ADlia.jpg",
+      "use": "slides 1–5",
+      "description": "Foto ilustrativa do edifício do BC, não representa uma operação financeira"
+    }
+  ],
+  "slotId": "2026-11-02T18:00:00-03:00|IG|divida-pib-estoque-fluxo-2026",
+  "mediaHash": "693a35777ae42b6832dd867cf7626eecb0bc28da6dc85bf21c295aea46b22210",
+  "qa": {
+    "editorial": "REVIEWED",
+    "visual": "REVIEWED",
+    "sourceVerification": "PASS",
+    "imageRights": "ATTRIBUTION_IN_CAPTION",
+    "dimensions": "PASS",
+    "deduplication": "PASS",
+    "reviewedAt": "2026-11-02T09:13:38.806004+00:00"
+  }
+}
