@@ -1,0 +1,66 @@
+{
+  "articleId": "separacao-poderes-freios-contrapesos-2026",
+  "style": "raven_reference_v2",
+  "status": "RENDERED_NEEDS_QA",
+  "assets": [
+    {
+      "file": "slide1.png",
+      "sha256": "fa5ec5b12945df17d7edda195b1999df218c90c55b13472e88a4c3b671af3136",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide2.png",
+      "sha256": "146d4f0d5f98625e339391658002f9fcc519d507157b66aac686bb5597a14ccc",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide3.png",
+      "sha256": "2111ebc05b6936c50202bfb0379b21fdb69098302e3c61c6ef9f49c987d28c92",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide4.png",
+      "sha256": "8324e4c36f8e2b9be196ec91fdcc7f24760b36cab32f57eb618ac923fd0ab8ee",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide5.png",
+      "sha256": "6b1f1cb8a17e10806cb1ef70f9b64586383dcafb6aeaa5e123c81a8c6e50fc16",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Constituição Federal — artigos 2, 49 e 102",
+      "url": "https://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/constituicao"
+    },
+    {
+      "name": "Câmara dos Deputados — Constituição de 1988",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/constituicao-federal/index.html/CF1988.html/"
+    }
+  ],
+  "photoCredits": [
+    {
+      "author": "Pedro França / Agência Senado",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Congresso_Nacional_(28348723292).jpg",
+      "use": "slides 1–5",
+      "description": "Congresso Nacional em 2016; foto ilustrativa, recortada e escurecida"
+    }
+  ]
+}

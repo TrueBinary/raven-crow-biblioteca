@@ -1,0 +1,66 @@
+{
+  "articleId": "inflacao-desacelera-precos-nao-caem-2026",
+  "style": "raven_reference_v2",
+  "status": "RENDERED_NEEDS_QA",
+  "assets": [
+    {
+      "file": "slide1.png",
+      "sha256": "619ac3ae28f0a0ba9176d7cc5b9eb1e19796e27ed9543dc130ac1dc7283e5500",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide2.png",
+      "sha256": "86468a4d48923091ba28fcb397a0f762456340efa60216b8b5054914e9a6eb70",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide3.png",
+      "sha256": "bbb538dd4a042405445b21bd3a7cc323fd30d56a4951a44b8a680720ef1951a7",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide4.png",
+      "sha256": "fdc2c32bcea042415b03dfd6c31ed6e30ec03ee2865b5e44f0c255b32dc9a591",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide5.png",
+      "sha256": "35c0d9548c909586c2df3d1da36e164b9e5f061b2c859227b78af4fa31815824",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Banco Central — O que é inflação",
+      "url": "https://www.bcb.gov.br/controleinflacao/oqueinflacao/"
+    },
+    {
+      "name": "IBGE — IPCA",
+      "url": "https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indicenacional-de-precos-ao-consumidor-amplo.html"
+    }
+  ],
+  "photoCredits": [
+    {
+      "author": "Simon Helle Nielsen",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Supermarket_in_2006_(646332846).jpg",
+      "use": "slides 1–5",
+      "description": "Supermercado japonês em 2006, foto ilustrativa; não representa preços brasileiros atuais"
+    }
+  ]
+}

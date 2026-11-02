@@ -1,0 +1,66 @@
+{
+  "articleId": "socrates-perguntas-verdade-2026",
+  "style": "raven_reference_v2",
+  "status": "RENDERED_NEEDS_QA",
+  "assets": [
+    {
+      "file": "slide1.png",
+      "sha256": "e800251e924c9ab9ef648a2e43de23462e4fcf70d0cfe9525c90e68c9237eff5",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide2.png",
+      "sha256": "ccb7233557bf5c6e18f6c6c84330af89874164638cc7e4d159c17236552cee25",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide3.png",
+      "sha256": "1d2a514ac4681644814868397765a5c3ce8f785780e7d80e10ac167c995fc910",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide4.png",
+      "sha256": "a900d4bc18ad56aec9a9aefdcbecc2a7ba0ad6f882749fc08dc6f0719a79b077",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide5.png",
+      "sha256": "9d8a95ab50d1034226691e1b159f581977232bb1fe787a8380aa352c9902de16",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Platão — Apologia de Sócrates, seção 38",
+      "url": "https://bookstacks.org/en/authors/plato/apology/section-38"
+    },
+    {
+      "name": "Stanford Encyclopedia of Philosophy — Socrates",
+      "url": "https://plato.stanford.edu/entries/socrates/"
+    }
+  ],
+  "photoCredits": [
+    {
+      "author": "Derek Key",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Socrates_statue_at_the_Louvre,_8_April_2013.jpg",
+      "use": "slides 1–5",
+      "description": "Fotografia de 2013 de busto romano de Sócrates no Louvre; recortada e escurecida"
+    }
+  ]
+}
