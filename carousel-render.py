@@ -107,12 +107,12 @@ def main():
     p=argparse.ArgumentParser();p.add_argument("spec");p.add_argument("output");p.add_argument("--logo");a=p.parse_args()
     spec=json.loads(Path(a.spec).read_text(encoding="utf-8"))
     slides=spec["slides"]
-    if len(slides)!=5 or not all(all(k in s for k in ("title","body","section")) for s in slides):
-        raise ValueError("Exactly five complete slides required")
+    if not 3 <= len(slides) <= 5 or not all(all(k in s for k in ("title","body","section")) for s in slides):
+        raise ValueError("Three to five complete slides required")
     if a.logo and not Path(a.logo).is_file():raise FileNotFoundError(a.logo)
     out=Path(a.output);out.mkdir(parents=True,exist_ok=True);assets=[]
     for i,s in enumerate(slides,1):
-        path=out/f"slide{i}.png";renderer=render_photo_slide if spec.get("style")=="photo_editorial" else render_slide;renderer(s,i,5,a.logo).save(path,optimize=True)
+        path=out/f"slide{i}.png";renderer=render_photo_slide if spec.get("style")=="photo_editorial" else render_slide;renderer(s,i,len(slides),a.logo).save(path,optimize=True)
         with Image.open(path) as chk:
             assert chk.format=="PNG" and chk.size==(W,H)
         assets.append({"file":path.name,"sha256":hashlib.sha256(path.read_bytes()).hexdigest(),"size":[W,H]})
