@@ -1,0 +1,85 @@
+{
+  "articleId": "inflacao-desacelera-precos-nao-caem-2026",
+  "status": "READY_FOR_BUFFER",
+  "style": "photo_editorial",
+  "assets": [
+    {
+      "file": "slide1.png",
+      "sha256": "4e6bd12f84c4bd851bb0a7e19acd373a1e47de7075725191b361470352856fe3",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide2.png",
+      "sha256": "f88b2d25b7120b6c649fbb3a3c99b159f14f17c70afe3db40914e6090039757a",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide3.png",
+      "sha256": "48c1b697591900bab0d09a8aaa03308a81d4f6bd5714dafb491b2266204fc640",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide4.png",
+      "sha256": "dee60738e7de388e48843301021325b992616378b06a88b54d3ccd6b7c15d077",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide5.png",
+      "sha256": "463e93834af0637ace1218792703788187fc98ded14cea4a3a6e9a59cf54d822",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "palette": {
+    "background": "#0D0E12",
+    "surface": "#18191F",
+    "text": "#F7F4ED",
+    "accent": "#E55E49",
+    "muted": "#A7A7AE"
+  },
+  "sources": [
+    {
+      "name": "Banco Central — O que é inflação",
+      "url": "https://www.bcb.gov.br/controleinflacao/oqueinflacao/"
+    },
+    {
+      "name": "IBGE — IPCA",
+      "url": "https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indicenacional-de-precos-ao-consumidor-amplo.html"
+    }
+  ],
+  "photoCredits": [
+    {
+      "author": "Simon Helle Nielsen",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Supermarket_in_2006_(646332846).jpg",
+      "use": "slides 1–5",
+      "description": "Supermercado japonês em 2006, foto ilustrativa; não representa preços brasileiros atuais"
+    }
+  ],
+  "topicKey": "inflacao-desaceleracao-precos",
+  "slotId": "2026-11-03T18:00:00-03:00|IG|inflacao-desacelera-precos-nao-caem-2026",
+  "mediaHash": "780a9a7bef1d980ee57a338ba9edfc1c120ffdb1234ad291749dc05b10b27790",
+  "qa": {
+    "editorial": "REVIEWED",
+    "visual": "REVIEWED",
+    "sourceVerification": "PASS",
+    "imageRights": "ATTRIBUTION_IN_CAPTION",
+    "dimensions": "PASS",
+    "deduplication": "PASS",
+    "reviewedAt": "2026-11-02T15:22:02.291524+00:00"
+  }
+}

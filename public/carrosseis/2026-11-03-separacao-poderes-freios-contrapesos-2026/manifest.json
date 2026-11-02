@@ -1,0 +1,85 @@
+{
+  "articleId": "separacao-poderes-freios-contrapesos-2026",
+  "status": "READY_FOR_BUFFER",
+  "style": "photo_editorial",
+  "assets": [
+    {
+      "file": "slide1.png",
+      "sha256": "a2ea9d2b4e4fbf8cd57ede484816209b1116d7130c4170517d55312dcf864b38",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide2.png",
+      "sha256": "49b622edb70009822564b7ade2cf6c6ea7666464570a82ea4fdfd6a6a62fdc4a",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide3.png",
+      "sha256": "69e8f9207f3f874f2adadb4d44e1e91ab65d018b0cb321761239070c2e137a2a",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide4.png",
+      "sha256": "3dadf73693103d715ee6d39936477c02238187ad537e8d61e562b4ecea35c1ed",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide5.png",
+      "sha256": "9e41632734dead700da7c87246b5657d768074bd887a1d63d1de646faec13eaa",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "palette": {
+    "background": "#0D0E12",
+    "surface": "#18191F",
+    "text": "#F7F4ED",
+    "accent": "#E55E49",
+    "muted": "#A7A7AE"
+  },
+  "sources": [
+    {
+      "name": "Constituição Federal — artigos 2, 49 e 102",
+      "url": "https://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/constituicao"
+    },
+    {
+      "name": "Câmara dos Deputados — Constituição de 1988",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/constituicao-federal/index.html/CF1988.html/"
+    }
+  ],
+  "photoCredits": [
+    {
+      "author": "Pedro França / Agência Senado",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Congresso_Nacional_(28348723292).jpg",
+      "use": "slides 1–5",
+      "description": "Congresso Nacional em 2016; foto ilustrativa, recortada e escurecida"
+    }
+  ],
+  "topicKey": "separacao-poderes-freios-contrapesos",
+  "slotId": "2026-11-03T12:00:00-03:00|IG|separacao-poderes-freios-contrapesos-2026",
+  "mediaHash": "fc570ed9fd6a73607ef36407bc115aba4605fb3c6b7e5a8b3f27bbb2ca1dee01",
+  "qa": {
+    "editorial": "REVIEWED",
+    "visual": "REVIEWED",
+    "sourceVerification": "PASS",
+    "imageRights": "ATTRIBUTION_IN_CAPTION",
+    "dimensions": "PASS",
+    "deduplication": "PASS",
+    "reviewedAt": "2026-11-02T15:22:02.090691+00:00"
+  }
+}

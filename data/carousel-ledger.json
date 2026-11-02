@@ -5,21 +5,23 @@
       "slotId": "2026-11-01T19:10:00-03:00|IG|nfse-nacional-simples-2026",
       "articleId": "nfse-nacional-simples-2026",
       "mediaHash": "e57bdc03b7df15fca3e1e44e6708bba8d95d9f03687dcaf617e492b67119915c",
-      "status": "SCHEDULED",
+      "status": "SENT",
       "targetTime": "2026-11-01T19:10:00-03:00",
       "postId": "6ae7b17f2da2578c18833677",
       "scheduledFor": "2026-11-01T19:10:00-03:00",
-      "permalink": null
+      "permalink": null,
+      "sentAt": "2026-11-01T19:10:33-03:00"
     },
     {
       "slotId": "2026-11-01T20:10:00-03:00|IG|record-kids-classificacao-12-2026",
       "articleId": "record-kids-classificacao-12-2026",
       "mediaHash": "384d931aa45ef1ce5d1606e3f5ec9b6fb8c1d1e093518739fd5145d5cd8e5d98",
-      "status": "SCHEDULED",
+      "status": "SENT",
       "targetTime": "2026-11-01T20:10:00-03:00",
       "postId": "6ae7c121902c3fb1debfe1e8",
       "scheduledFor": "2026-11-01T20:10:00-03:00",
-      "permalink": null
+      "permalink": null,
+      "sentAt": "2026-11-01T20:10:44-03:00"
     },
     {
       "slotId": "2026-11-02T06:00:00-03:00|IG|direito-natural-direito-positivo-2026",
@@ -29,17 +31,19 @@
       "targetTime": "2026-11-02T06:00:00-03:00",
       "postId": "6ae7fe05ab5edfbf4a4fc26a",
       "scheduledFor": "2026-11-02T06:00:00-03:00",
-      "permalink": null
+      "permalink": null,
+      "sentAt": "2026-11-02T06:01:54-03:00"
     },
     {
       "slotId": "2026-11-02T12:00:00-03:00|IG|voto-distrital-representacao-2026",
       "articleId": "voto-distrital-representacao-2026",
       "mediaHash": "526c7650efec79bfb1707199a6fcd80c8ef9b0ba0664d26ca476974ea8e201df",
-      "status": "SCHEDULED",
+      "status": "SENT",
       "targetTime": "2026-11-02T12:00:00-03:00",
       "postId": "6ae854ab3847393f5f435e50",
       "scheduledFor": "2026-11-02T12:00:00-03:00",
-      "permalink": null
+      "permalink": null,
+      "sentAt": "2026-11-02T12:20:01-03:00"
     },
     {
       "slotId": "2026-11-02T18:00:00-03:00|IG|divida-pib-estoque-fluxo-2026",
@@ -70,6 +74,24 @@
       "postId": "6ae85645dd7a4869734e0ee1",
       "scheduledFor": "2026-11-03T06:00:00-03:00",
       "permalink": null
+    },
+    {
+      "slotId": "2026-11-03T12:00:00-03:00|IG|separacao-poderes-freios-contrapesos-2026",
+      "articleId": "separacao-poderes-freios-contrapesos-2026",
+      "mediaHash": "fc570ed9fd6a73607ef36407bc115aba4605fb3c6b7e5a8b3f27bbb2ca1dee01",
+      "status": "ASSETS_APPROVED",
+      "targetTime": "2026-11-03T12:00:00-03:00",
+      "postId": null,
+      "topicKey": "separacao-poderes-freios-contrapesos"
+    },
+    {
+      "slotId": "2026-11-03T18:00:00-03:00|IG|inflacao-desacelera-precos-nao-caem-2026",
+      "articleId": "inflacao-desacelera-precos-nao-caem-2026",
+      "mediaHash": "780a9a7bef1d980ee57a338ba9edfc1c120ffdb1234ad291749dc05b10b27790",
+      "status": "ASSETS_APPROVED",
+      "targetTime": "2026-11-03T18:00:00-03:00",
+      "postId": null,
+      "topicKey": "inflacao-desaceleracao-precos"
     }
   ]
 }
