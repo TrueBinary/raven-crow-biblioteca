@@ -1,0 +1,25 @@
+/* Raven Crow editorial system. Uses the existing brand logo, never replaces it. */
+:root{color-scheme:dark;--bg:#0D0E12;--surface:#18191F;--white:#F7F4ED;--accent:#E55E49;--stroke:#35353B}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--white)}
+a:focus-visible,button:focus-visible{outline:3px solid var(--accent);outline-offset:4px}
+.site-header,body>header{background:rgba(13,14,18,.97);border-bottom:2px solid #742d2b}
+.brand,.mark .brand{font-family:'Barlow Condensed',Impact,'Arial Narrow',sans-serif;font-weight:900;letter-spacing:.035em}
+.hero{background:linear-gradient(110deg,rgba(13,14,18,.96),rgba(13,14,18,.78)),radial-gradient(ellipse at 82% 75%,#7b2e2b 0%,transparent 60%);border-bottom:3px solid var(--accent)}
+.hero h1,.hero h1 em,.section-title,.sec-head h2,.method h2,.bottom-title,.article h2{font-family:'Barlow Condensed',Impact,'Arial Narrow',sans-serif;font-weight:900;letter-spacing:-.012em;text-transform:uppercase}
+.hero h1{max-width:950px;font-size:clamp(58px,10vw,125px);line-height:.89}
+.hero h1 em{color:var(--accent)}
+.kicker,.eyebrow{color:var(--accent);font-weight:800;letter-spacing:.12em}
+.book,.article,.rules{border-radius:3px;background:var(--surface);border:1px solid var(--stroke);border-left:4px solid var(--accent)}
+.book:hover,.article:hover{border-color:#915149}
+.btn,.top-cta,.networks a,.tab,.ribbon span{border-radius:3px}
+.btn-primary,.btn,.tab[aria-pressed=true]{font-weight:800}
+.support-band{background:#1c171a;border-color:#7c3734}
+.support-band h2,.support-inner h2{letter-spacing:-.02em}
+.article h2{font-size:clamp(36px,5vw,62px);line-height:.98}
+.article .subtitle{max-width:64ch}
+.column-paragraph,.part p{max-width:72ch}
+.sources{border-top:2px solid var(--accent)}
+.rules,.disclose{border-radius:3px}
+@media(max-width:700px){.hero{padding-top:56px;padding-bottom:55px}.hero h1{font-size:clamp(52px,12vw,80px)}.article{padding:20px}.brand{font-size:21px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{animation-duration:.01ms!important;transition-duration:.01ms!important}}

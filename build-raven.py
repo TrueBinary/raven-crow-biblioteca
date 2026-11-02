@@ -50,4 +50,6 @@ for a in data['articles']:
 from xml.sax.saxutils import escape
 (ROOT/'public/sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join('<url><loc>'+escape(u)+'</loc></url>\n' for u in urls)+'</urlset>',encoding='utf-8')
 (ROOT/'public/robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: '+BASE+'/sitemap.xml\n',encoding='utf-8')
+# Apply the shared Raven Crow theme to regenerated article pages.
+exec((ROOT/'apply-editorial-theme.py').read_text(encoding='utf-8'))
 print('Generated',len(urls)-2,'article pages; SEO, CTA and analytics hooks updated')
