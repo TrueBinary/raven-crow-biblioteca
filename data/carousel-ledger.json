@@ -65,9 +65,11 @@
       "slotId": "2026-11-03T06:00:00-03:00|IG|socrates-perguntas-verdade-2026",
       "articleId": "socrates-perguntas-verdade-2026",
       "mediaHash": "cc6040f107ee7b64bbc1a948c04019f242d7798dcc05ca3e96ed3c6bd56649d1",
-      "status": "ASSETS_APPROVED",
+      "status": "SCHEDULED",
       "targetTime": "2026-11-03T06:00:00-03:00",
-      "postId": null
+      "postId": "6ae85645dd7a4869734e0ee1",
+      "scheduledFor": "2026-11-03T06:00:00-03:00",
+      "permalink": null
     }
   ]
 }

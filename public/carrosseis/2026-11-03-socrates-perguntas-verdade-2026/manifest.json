@@ -1,6 +1,6 @@
 {
   "articleId": "socrates-perguntas-verdade-2026",
-  "status": "READY_FOR_BUFFER",
+  "status": "SCHEDULED",
   "style": "photo_editorial",
   "assets": [
     {
@@ -80,5 +80,14 @@
     "dimensions": "PASS",
     "deduplication": "PASS",
     "reviewedAt": "2026-11-02T09:20:24.732744+00:00"
-  }
+  },
+  "postId": "6ae85645dd7a4869734e0ee1",
+  "scheduledFor": "2026-11-03T06:00:00-03:00",
+  "media": [
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-03-socrates-perguntas-verdade-2026/slide1.png",
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-03-socrates-perguntas-verdade-2026/slide2.png",
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-03-socrates-perguntas-verdade-2026/slide3.png",
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-03-socrates-perguntas-verdade-2026/slide4.png",
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-03-socrates-perguntas-verdade-2026/slide5.png"
+  ]
 }
