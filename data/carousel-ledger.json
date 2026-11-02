@@ -43,7 +43,10 @@
       "postId": "6ae8ce3c8fb087d74fb75e63",
       "scheduledFor": "2026-11-02T12:00:00-03:00",
       "permalink": null,
-      "sentAt": "2026-11-02T12:03:16-03:00"
+      "sentAt": "2026-11-02T12:03:16-03:00",
+      "duplicatePostIds": ["6ae854ab3847393f5f435e50"],
+      "duplicateSentAt": "2026-11-02T12:19:26-03:00",
+      "incident": "Two Buffer posts confirmed sent for this same topic on 02/11; do not retry"
     },
     {
       "slotId": "2026-11-02T18:00:00-03:00|IG|divida-pib-estoque-fluxo-2026",
