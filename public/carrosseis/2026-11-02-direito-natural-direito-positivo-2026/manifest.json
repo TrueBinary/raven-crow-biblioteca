@@ -1,6 +1,6 @@
 {
   "articleId": "direito-natural-direito-positivo-2026",
-  "status": "READY_FOR_BUFFER",
+  "status": "SCHEDULED",
   "style": "photo_editorial",
   "assets": [
     {
@@ -91,5 +91,20 @@
     "dimensions": "PASS",
     "deduplication": "PASS",
     "reviewedAt": "2026-11-02T03:03:52.722509+00:00"
-  }
+  },
+  "media": [
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-02-direito-natural-direito-positivo-2026/slide1.png",
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-02-direito-natural-direito-positivo-2026/slide2.png",
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-02-direito-natural-direito-positivo-2026/slide3.png",
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-02-direito-natural-direito-positivo-2026/slide4.png",
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-02-direito-natural-direito-positivo-2026/slide5.png"
+  ],
+  "buffer": {
+    "postId": "6ae7fe05ab5edfbf4a4fc26a",
+    "status": "scheduled",
+    "scheduledFor": "2026-11-02T06:00:00-03:00",
+    "channelId": "6ae77c99e29c69a1712a83e4",
+    "permalink": null
+  },
+  "topicKey": "direito-natural-vs-positivo"
 }
