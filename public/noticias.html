@@ -25,10 +25,11 @@ async function loadNews(){
  if(!data.articles.length){root.append(el('p','','Não há análises publicadas nesta edição.'))}
  for(const a of data.articles){
   const card=el('article','article');card.id=a.id;
-  card.append(el('div','eyebrow',a.category+' · '+a.date),el('h2','',a.title),el('p','subtitle',a.subtitle));
-  paragraph(card,a.facts,'column-lead');paragraph(card,a.analysis,'column-view');paragraph(card,a.counterpoint,'column-context');
-  const sources=el('div','sources');sources.append(el('b','','Fontes: '));
-  for(const s of a.sources||[]){if(!/^https:\/\//.test(s.url))continue;const anchor=el('a','',s.name+' ↗');anchor.href=s.url;anchor.target='_blank';anchor.rel='noopener noreferrer';sources.append(anchor)}card.append(sources);const read=el('a','back','Ler análise em página própria →');read.href='noticias/'+encodeURIComponent(a.id)+'/';card.append(read);root.append(card);
+  const url='noticias/'+encodeURIComponent(a.id)+'/';
+  const link=el('a','article-preview');link.href=url;
+  link.setAttribute('aria-label','Ler matéria completa: '+a.title);
+  link.append(el('div','eyebrow',a.category+' · '+a.date),el('h2','',a.title),el('p','subtitle',a.subtitle||''),el('span','article-read','LER MATÉRIA COMPLETA ↗'));
+  card.append(link);root.append(card);
  }
 }
 loadNews().catch(()=>{document.getElementById('updated').textContent='Coluna temporariamente indisponível';document.getElementById('articles').replaceChildren(el('p','danger','Não foi possível carregar a edição. Confira as fontes originais ou tente novamente.'))});

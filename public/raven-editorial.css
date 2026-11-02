@@ -41,3 +41,13 @@ a:focus-visible,button:focus-visible{outline:3px solid var(--accent);outline-off
 .editorial-front+.hero{padding:55px 0;background:#15151a}
 .editorial-front+.hero h1{font-size:clamp(45px,6vw,76px)}
 @media(max-width:800px){.editorial-grid{grid-template-columns:1fr}.editorial-lead{grid-row:auto;min-height:440px}.editorial-story{min-height:180px}.editorial-lead h2{font-size:clamp(49px,11vw,78px)}}
+
+/* News index is a teaser list; full article lives on its own canonical URL. */
+.article-preview{display:block;color:var(--white);text-decoration:none}
+.article-preview h2{max-width:25ch}
+.article-preview .subtitle{max-width:70ch;line-height:1.55}
+.article-preview:hover h2,.article-preview:focus-visible h2{color:var(--accent)}
+.article-read{display:inline-block;margin-top:14px;font-size:12px;font-weight:900;letter-spacing:.1em;color:var(--accent)}
+.article:has(.article-preview){padding:0;overflow:hidden}
+.article-preview{padding:30px}
+@media(max-width:620px){.article-preview{padding:22px}}
