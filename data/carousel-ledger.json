@@ -79,19 +79,21 @@
       "slotId": "2026-11-03T12:00:00-03:00|IG|separacao-poderes-freios-contrapesos-2026",
       "articleId": "separacao-poderes-freios-contrapesos-2026",
       "mediaHash": "fc570ed9fd6a73607ef36407bc115aba4605fb3c6b7e5a8b3f27bbb2ca1dee01",
-      "status": "ASSETS_APPROVED",
+      "status": "SCHEDULED",
       "targetTime": "2026-11-03T12:00:00-03:00",
-      "postId": null,
-      "topicKey": "separacao-poderes-freios-contrapesos"
+      "postId": "6ae8ab2531e164b233ed23dd",
+      "topicKey": "separacao-poderes-freios-contrapesos",
+      "scheduledFor": "2026-11-03T12:00:00-03:00"
     },
     {
       "slotId": "2026-11-03T18:00:00-03:00|IG|inflacao-desacelera-precos-nao-caem-2026",
       "articleId": "inflacao-desacelera-precos-nao-caem-2026",
       "mediaHash": "780a9a7bef1d980ee57a338ba9edfc1c120ffdb1234ad291749dc05b10b27790",
-      "status": "ASSETS_APPROVED",
+      "status": "SCHEDULED",
       "targetTime": "2026-11-03T18:00:00-03:00",
-      "postId": null,
-      "topicKey": "inflacao-desaceleracao-precos"
+      "postId": "6ae8ab352426d4fa3504b257",
+      "topicKey": "inflacao-desaceleracao-precos",
+      "scheduledFor": "2026-11-03T18:00:00-03:00"
     }
   ]
 }

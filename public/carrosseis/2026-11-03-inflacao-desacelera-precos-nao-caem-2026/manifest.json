@@ -1,6 +1,6 @@
 {
   "articleId": "inflacao-desacelera-precos-nao-caem-2026",
-  "status": "READY_FOR_BUFFER",
+  "status": "SCHEDULED",
   "style": "photo_editorial",
   "assets": [
     {
@@ -81,5 +81,14 @@
     "dimensions": "PASS",
     "deduplication": "PASS",
     "reviewedAt": "2026-11-02T15:22:02.291524+00:00"
-  }
+  },
+  "postId": "6ae8ab352426d4fa3504b257",
+  "scheduledFor": "2026-11-03T18:00:00-03:00",
+  "media": [
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-03-inflacao-desacelera-precos-nao-caem-2026/slide1.png",
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-03-inflacao-desacelera-precos-nao-caem-2026/slide2.png",
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-03-inflacao-desacelera-precos-nao-caem-2026/slide3.png",
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-03-inflacao-desacelera-precos-nao-caem-2026/slide4.png",
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-03-inflacao-desacelera-precos-nao-caem-2026/slide5.png"
+  ]
 }
