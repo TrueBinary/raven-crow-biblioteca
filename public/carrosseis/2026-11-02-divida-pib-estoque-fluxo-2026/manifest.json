@@ -1,6 +1,6 @@
 {
   "articleId": "divida-pib-estoque-fluxo-2026",
-  "status": "READY_FOR_BUFFER",
+  "status": "SCHEDULED",
   "style": "photo_editorial",
   "assets": [
     {
@@ -80,5 +80,14 @@
     "dimensions": "PASS",
     "deduplication": "PASS",
     "reviewedAt": "2026-11-02T09:13:38.806004+00:00"
-  }
+  },
+  "postId": "6ae854b1ca68b566b62d5869",
+  "scheduledFor": "2026-11-02T18:00:00-03:00",
+  "media": [
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-02-divida-pib-estoque-fluxo-2026/slide1.png",
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-02-divida-pib-estoque-fluxo-2026/slide2.png",
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-02-divida-pib-estoque-fluxo-2026/slide3.png",
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-02-divida-pib-estoque-fluxo-2026/slide4.png",
+    "https://raven-crow-biblioteca.onrender.com/carrosseis/2026-11-02-divida-pib-estoque-fluxo-2026/slide5.png"
+  ]
 }

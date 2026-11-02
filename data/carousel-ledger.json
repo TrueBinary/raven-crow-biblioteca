@@ -25,7 +25,7 @@
       "slotId": "2026-11-02T06:00:00-03:00|IG|direito-natural-direito-positivo-2026",
       "articleId": "direito-natural-direito-positivo-2026",
       "mediaHash": "94d42cfd9a8dc0544d2eb00ce2fbbf5ed303dc34e4338efaa639f59b7a1aca95",
-      "status": "SCHEDULED",
+      "status": "SENT",
       "targetTime": "2026-11-02T06:00:00-03:00",
       "postId": "6ae7fe05ab5edfbf4a4fc26a",
       "scheduledFor": "2026-11-02T06:00:00-03:00",
@@ -35,17 +35,21 @@
       "slotId": "2026-11-02T12:00:00-03:00|IG|voto-distrital-representacao-2026",
       "articleId": "voto-distrital-representacao-2026",
       "mediaHash": "526c7650efec79bfb1707199a6fcd80c8ef9b0ba0664d26ca476974ea8e201df",
-      "status": "ASSETS_APPROVED",
+      "status": "SCHEDULED",
       "targetTime": "2026-11-02T12:00:00-03:00",
-      "postId": null
+      "postId": "6ae854ab3847393f5f435e50",
+      "scheduledFor": "2026-11-02T12:00:00-03:00",
+      "permalink": null
     },
     {
       "slotId": "2026-11-02T18:00:00-03:00|IG|divida-pib-estoque-fluxo-2026",
       "articleId": "divida-pib-estoque-fluxo-2026",
       "mediaHash": "693a35777ae42b6832dd867cf7626eecb0bc28da6dc85bf21c295aea46b22210",
-      "status": "ASSETS_APPROVED",
+      "status": "SCHEDULED",
       "targetTime": "2026-11-02T18:00:00-03:00",
-      "postId": null
+      "postId": "6ae854b1ca68b566b62d5869",
+      "scheduledFor": "2026-11-02T18:00:00-03:00",
+      "permalink": null
     }
   ]
 }
