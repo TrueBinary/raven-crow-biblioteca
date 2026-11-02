@@ -1,19 +1,21 @@
-/* Raven Crow: AdSense ready but disabled until publisher approval. */
+/* Raven Crow — Google AdSense, controlled placements only. */
 (() => {
   'use strict';
-  const publisher = ''; // ca-pub-XXXXXXXXXXXXXXXX
-  const placements = [['editorial-feed', ''], ['biblioteca', '']]; // numeric ad unit IDs
-  if (!/^ca-pub-\d{16}$/.test(publisher)) return;
+  const publisher = 'ca-pub-9229550453313503';
+  // Manual units can be enabled later with the actual numeric slot IDs.
+  const placements = [['editorial-feed', ''], ['biblioteca', '']];
   const active = placements.filter(([id, slot]) => document.getElementById(id) && /^\d+$/.test(slot));
-  if (!active.length) return;
-  const style = document.createElement('style');
-  style.textContent = '.rc-ad{max-width:1150px;margin:32px auto;padding:0 24px;clear:both}.rc-ad-label{display:block;margin:0 0 8px;color:#b5b2b0;font:11px sans-serif;text-transform:uppercase;letter-spacing:.08em}.rc-ad ins{display:block;min-height:90px}';
-  document.head.append(style);
+  if (document.querySelector('script[data-raven-adsense]')) return;
   const loader = document.createElement('script');
   loader.async = true;
   loader.crossOrigin = 'anonymous';
-  loader.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=' + encodeURIComponent(publisher);
-  document.head.append(loader);
+  loader.dataset.ravenAdsense = 'true';
+  loader.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=' + publisher;
+  document.head.appendChild(loader);
+  if (!active.length) return;
+  const style = document.createElement('style');
+  style.textContent = '.rc-ad{max-width:1150px;margin:32px auto;padding:0 24px;clear:both}.rc-ad-label{display:block;margin:0 0 8px;color:#b5b2b0;font:11px sans-serif;text-transform:uppercase;letter-spacing:.08em}.rc-ad ins{display:block;min-height:90px}';
+  document.head.appendChild(style);
   for (const [id, slot] of active) {
     const wrapper = document.createElement('aside');
     wrapper.className = 'rc-ad';
