@@ -40,60 +40,73 @@
       "mediaHash": "526c7650efec79bfb1707199a6fcd80c8ef9b0ba0664d26ca476974ea8e201df",
       "status": "SENT",
       "targetTime": "2026-11-02T12:00:00-03:00",
-      "postId": "6ae854ab3847393f5f435e50",
+      "postId": "6ae8ce3c8fb087d74fb75e63",
       "scheduledFor": "2026-11-02T12:00:00-03:00",
       "permalink": null,
-      "sentAt": "2026-11-02T12:20:01-03:00"
+      "sentAt": "2026-11-02T12:03:16-03:00"
     },
     {
       "slotId": "2026-11-02T18:00:00-03:00|IG|divida-pib-estoque-fluxo-2026",
       "articleId": "divida-pib-estoque-fluxo-2026",
       "mediaHash": "693a35777ae42b6832dd867cf7626eecb0bc28da6dc85bf21c295aea46b22210",
-      "status": "SCHEDULED",
+      "status": "SENT",
       "targetTime": "2026-11-02T18:00:00-03:00",
       "postId": "6ae854b1ca68b566b62d5869",
       "scheduledFor": "2026-11-02T18:00:00-03:00",
-      "permalink": null
+      "permalink": null,
+      "sentAt": "2026-11-02T18:02:06-03:00"
     },
     {
       "slotId": "2026-11-03T00:00:00-03:00|IG|fala-politica-contexto-checagem-2026",
       "articleId": "fala-politica-contexto-checagem-2026",
-      "mediaHash": "2c0e5c8497adb9784de5c85dc18a471514ae89149599a900890e4f26fa40a795",
+      "mediaHash": "3d231556a88d4251f05f187091ae3b002a39d052dc309589618c4c11a19abab8",
       "status": "SCHEDULED",
       "targetTime": "2026-11-03T00:00:00-03:00",
       "postId": "6ae8554955a230dd71a035bd",
       "scheduledFor": "2026-11-03T00:00:00-03:00",
-      "permalink": null
+      "permalink": null,
+      "assetPath": "public/carrosseis/2026-11-03-fala-politica-contexto-checagem-2026-brand-v2",
+      "assetStyle": "raven_reference_v2",
+      "httpsVerified": true
     },
     {
       "slotId": "2026-11-03T06:00:00-03:00|IG|socrates-perguntas-verdade-2026",
       "articleId": "socrates-perguntas-verdade-2026",
-      "mediaHash": "cc6040f107ee7b64bbc1a948c04019f242d7798dcc05ca3e96ed3c6bd56649d1",
+      "mediaHash": "38151468c5c24ac2a505e1a0a9e83a6282b0d171f87a18745f875024af2ce941",
       "status": "SCHEDULED",
       "targetTime": "2026-11-03T06:00:00-03:00",
       "postId": "6ae85645dd7a4869734e0ee1",
       "scheduledFor": "2026-11-03T06:00:00-03:00",
-      "permalink": null
+      "permalink": null,
+      "assetPath": "public/carrosseis/2026-11-03-socrates-perguntas-verdade-2026-brand-v2",
+      "assetStyle": "raven_reference_v2",
+      "httpsVerified": true
     },
     {
       "slotId": "2026-11-03T12:00:00-03:00|IG|separacao-poderes-freios-contrapesos-2026",
       "articleId": "separacao-poderes-freios-contrapesos-2026",
-      "mediaHash": "fc570ed9fd6a73607ef36407bc115aba4605fb3c6b7e5a8b3f27bbb2ca1dee01",
+      "mediaHash": "94a2aa6964ccbb10ded4a51a9cfc93c0e1d6c70745c64c4cbd7e7486bc665fe2",
       "status": "SCHEDULED",
       "targetTime": "2026-11-03T12:00:00-03:00",
       "postId": "6ae8ab2531e164b233ed23dd",
       "topicKey": "separacao-poderes-freios-contrapesos",
-      "scheduledFor": "2026-11-03T12:00:00-03:00"
+      "scheduledFor": "2026-11-03T12:00:00-03:00",
+      "assetPath": "public/carrosseis/2026-11-03-separacao-poderes-freios-contrapesos-2026-brand-v2",
+      "assetStyle": "raven_reference_v2",
+      "httpsVerified": true
     },
     {
       "slotId": "2026-11-03T18:00:00-03:00|IG|inflacao-desacelera-precos-nao-caem-2026",
       "articleId": "inflacao-desacelera-precos-nao-caem-2026",
-      "mediaHash": "780a9a7bef1d980ee57a338ba9edfc1c120ffdb1234ad291749dc05b10b27790",
+      "mediaHash": "a28f5af22647cebcdd6c95a2a400096235a350092b0cd2529edd01900321fa7c",
       "status": "SCHEDULED",
       "targetTime": "2026-11-03T18:00:00-03:00",
       "postId": "6ae8ab352426d4fa3504b257",
       "topicKey": "inflacao-desaceleracao-precos",
-      "scheduledFor": "2026-11-03T18:00:00-03:00"
+      "scheduledFor": "2026-11-03T18:00:00-03:00",
+      "assetPath": "public/carrosseis/2026-11-03-inflacao-desacelera-precos-nao-caem-2026-brand-v2",
+      "assetStyle": "raven_reference_v2",
+      "httpsVerified": true
     }
   ]
 }
