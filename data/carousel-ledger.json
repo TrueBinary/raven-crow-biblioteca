@@ -44,7 +44,9 @@
       "scheduledFor": "2026-11-02T12:00:00-03:00",
       "permalink": null,
       "sentAt": "2026-11-02T12:03:16-03:00",
-      "duplicatePostIds": ["6ae854ab3847393f5f435e50"],
+      "duplicatePostIds": [
+        "6ae854ab3847393f5f435e50"
+      ],
       "duplicateSentAt": "2026-11-02T12:19:26-03:00",
       "incident": "Two Buffer posts confirmed sent for this same topic on 02/11; do not retry"
     },
@@ -63,14 +65,15 @@
       "slotId": "2026-11-03T00:00:00-03:00|IG|fala-politica-contexto-checagem-2026",
       "articleId": "fala-politica-contexto-checagem-2026",
       "mediaHash": "3d231556a88d4251f05f187091ae3b002a39d052dc309589618c4c11a19abab8",
-      "status": "SCHEDULED",
+      "status": "SENT",
       "targetTime": "2026-11-03T00:00:00-03:00",
       "postId": "6ae8554955a230dd71a035bd",
       "scheduledFor": "2026-11-03T00:00:00-03:00",
       "permalink": null,
       "assetPath": "public/carrosseis/2026-11-03-fala-politica-contexto-checagem-2026-brand-v2",
       "assetStyle": "raven_reference_v2",
-      "httpsVerified": true
+      "httpsVerified": true,
+      "sentAt": "2026-11-03T00:02:12-03:00"
     },
     {
       "slotId": "2026-11-03T06:00:00-03:00|IG|socrates-perguntas-verdade-2026",
@@ -79,11 +82,12 @@
       "status": "SCHEDULED",
       "targetTime": "2026-11-03T06:00:00-03:00",
       "postId": "6ae85645dd7a4869734e0ee1",
-      "scheduledFor": "2026-11-03T06:00:00-03:00",
+      "scheduledFor": "2026-11-10T18:21:00-03:00",
       "permalink": null,
       "assetPath": "public/carrosseis/2026-11-03-socrates-perguntas-verdade-2026-brand-v2",
       "assetStyle": "raven_reference_v2",
-      "httpsVerified": true
+      "httpsVerified": true,
+      "incident": "Buffer dueAt is 10 Nov 18:21 BRT; original 03 Nov 06h slot was missed. Do not backfill or duplicate."
     },
     {
       "slotId": "2026-11-03T12:00:00-03:00|IG|separacao-poderes-freios-contrapesos-2026",
