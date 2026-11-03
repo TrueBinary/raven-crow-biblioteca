@@ -32,13 +32,10 @@
 (function () {
   const id = 'c8a6205ec43c05a0993cdf30f17a8269';
   if (document.getElementById('container-' + id)) return;
-  // posição alta mas fora da dobra e nunca no meio de um parágrafo:
-  // home depois das "Últimas análises", coluna antes da lista de edições, artigo depois da 1ª seção
-  const feed = document.getElementById('editorial-feed'), edicao = document.getElementById('edicao');
-  const main = document.querySelector('main'), paras = document.querySelectorAll('main > p');
-  const place = feed ? b => feed.after(b) : edicao ? b => edicao.before(b)
-    : paras.length >= 3 ? b => paras[1].after(b) : main ? b => main.append(b) : null;
-  if (!place) return;
+  // no fim da página (fim do <main>, antes do rodapé), depois de todo o conteúdo — pedido do dono em 03/11
+  const main = document.querySelector('main');
+  if (!main) return;
+  const place = b => main.append(b);
   // cartão discreto separado do editorial
   const box = document.createElement('aside');
   box.setAttribute('aria-label', 'Publicidade');
