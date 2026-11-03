@@ -35,19 +35,32 @@
   const anchor = document.getElementById('edicao') || document.getElementById('biblioteca');
   const main = document.querySelector('main');
   if (!anchor && !main) return;
+  // sempre depois do conteúdo (nunca no topo nem no meio do texto), em cartão discreto separado do editorial
   const box = document.createElement('aside');
   box.setAttribute('aria-label', 'Publicidade');
-  box.style.cssText = 'max-width:1150px;margin:32px auto;padding:0 24px';
-  box.innerHTML = '<span style="display:block;margin:0 0 8px;color:#b5b2b0;font:11px sans-serif;text-transform:uppercase;letter-spacing:.08em">Publicidade</span><div id="container-' + id + '"></div>';
-  if (anchor) anchor.after(box); else main.append(box);
-  // só mostra o rótulo quando o anúncio chega (zona pendente ou bloqueador = nada visível)
   box.hidden = true;
-  const slot = box.lastElementChild;
+  box.style.cssText = 'max-width:1150px;margin:40px auto;padding:0 16px;contain:layout';
+  box.innerHTML = '<div style="border:1px solid #35353b;border-radius:12px;background:#18191f;padding:14px 16px">'
+    + '<span style="display:block;margin:0 0 10px;color:#8f8c8a;font:600 10px/1 sans-serif;text-transform:uppercase;letter-spacing:.14em">Publicidade</span>'
+    + '<div id="container-' + id + '"></div></div>';
+  if (anchor) anchor.after(box); else main.append(box);
+  // só aparece quando o anúncio chega (zona pendente ou bloqueador = nada visível)
+  const slot = document.getElementById('container-' + id);
   new MutationObserver((_, mo) => { if (slot.children.length) { box.hidden = false; mo.disconnect(); } })
     .observe(slot, {childList: true, subtree: true});
-  const s = document.createElement('script');
-  s.async = true;
-  s.dataset.cfasync = 'false';
-  s.src = 'https://bauval.org/21/' + id;
-  document.body.append(s);
+  const load = () => {
+    const s = document.createElement('script');
+    s.async = true;
+    s.dataset.cfasync = 'false';
+    s.src = 'https://bauval.org/21/' + id;
+    document.body.append(s);
+  };
+  // baixa o script só quando o leitor chega perto do fim: não pesa na abertura e o bloco surge fora da tela (sem pulo de layout)
+  if (!('IntersectionObserver' in window)) return load();
+  const marker = document.createElement('div');
+  marker.style.height = '1px';
+  box.before(marker);
+  const io = new IntersectionObserver(es => { if (es.some(e => e.isIntersecting)) { io.disconnect(); load(); } },
+    {rootMargin: '0px 0px 800px 0px'});
+  io.observe(marker);
 })();
