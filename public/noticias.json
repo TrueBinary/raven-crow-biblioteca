@@ -1,10 +1,34 @@
 {
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
-  "edition": "02/11/2026",
-  "updatedAt": "2026-11-02T09:58:32-03:00",
+  "edition": "03/11/2026",
+  "updatedAt": "2026-11-03T09:20:58-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "sac-atendimento-humano-2026",
+      "category": "ECONOMIA",
+      "date": "2026-11-03",
+      "title": "Atendimento humano obrigatório: o direito do consumidor e o custo da nova regra",
+      "subtitle": "O Decreto nº 13.135/2026 entrou em vigor em 2 de novembro e amplia obrigações de SAC. Mais acesso para o cliente, mas também custos de operação e riscos de burocratização.",
+      "facts": "O Decreto federal nº 13.135, de 9 de outubro de 2026, publicado em 13 de outubro, entrou em vigor em 2 de novembro, vinte dias depois da publicação. Para fornecedores abrangidos pelo art. 1º — setores regulados pelo Executivo federal conforme critérios dos reguladores e serviços financeiros digitais supervisionados pelo Banco Central —, exige atendimento humano por telefone e por canais eletrônicos entre 8h e 20h, sete dias por semana, ressalvadas exceções regulamentadas. Pelo menos um canal eletrônico deve funcionar 24 horas por dia. O prazo de espera telefônica é de até 20 segundos em no mínimo 80% dos atendimentos e de até cinco minutos nos demais, salvo regra setorial específica. O decreto assegura opção de cancelamento no SAC e nos canais de contratação e prazo de até sete dias corridos para responder demandas não urgentes. Plataformas de intermediação, transporte por aplicativo e entrega devem prestar informações sobre seus modelos de atendimento à Senacon, obrigação que não significa sujeição automática de todas elas a todas as regras gerais do SAC.",
+      "analysis": "Uma reclamação que se perde entre menus, robôs e transferências é um custo real imposto ao consumidor. Tempo de espera, informação incompleta e obstáculos para cancelar um serviço reduzem o valor do contrato que a pessoa acreditou ter celebrado. A entrada em vigor das novas regras de SAC em 2 de novembro enfrenta esse problema com exigências objetivas: atendimento humano em horários definidos, canais acessíveis e cancelamento sem uma peregrinação burocrática. O resultado desejável é simples: que o consumidor consiga exercer os direitos previstos no próprio contrato e na legislação, sem precisar disputar com um sistema desenhado para desencorajá-lo.\n\nNa perspectiva editorial do Raven Crow, inspirada no direito natural, na liberdade contratual, na propriedade privada e na tradição da economia austríaca, contratos dependem de consentimento informado e de condições efetivas para exigir seu cumprimento. Se a empresa pode vender em segundos, mas cria obstáculos artificiais para encerrar o serviço, há uma assimetria que compromete a liberdade de escolha. A defesa da propriedade e da livre iniciativa não exige tolerância a práticas opacas. Transparência, reputação e concorrência são mecanismos importantes para disciplinar fornecedores, e uma intervenção estatal deve ser julgada por sua necessidade, precisão e efeitos concretos.\n\nO problema é que uma boa finalidade não elimina os custos de oportunidade da regulação. Exigir atendentes humanos durante doze horas diárias, inclusive nos fins de semana, pode elevar despesas de pessoal, treinamento e sistemas; parte desses custos pode aparecer em preços, margens menores ou menos investimentos em atendimento automatizado eficiente. Isso não prova que a regra seja ruim, mas impede que seus benefícios sejam anunciados como gratuitos. Empresas de tamanhos diferentes enfrentam capacidades de adaptação diferentes, e regras setoriais precisam respeitar essa diversidade. O decreto permite inteligência artificial para triagem e resolução de demandas, desde que não afaste a opção de contato humano no período exigido: portanto, não se trata de uma proibição de robôs.\n\nHá também uma distinção jurídica essencial. As regras gerais de SAC não se estendem indistintamente a todo comércio eletrônico; o próprio decreto delimita os fornecedores abrangidos, enquanto plataformas de intermediação, entregas e transporte têm dever específico de apresentar dados à Senacon. Transformar essa obrigação de informação em afirmação de que todo aplicativo terá de oferecer o mesmo atendimento seria exagerar o alcance da norma. O teste a partir de agora será medir se reclamações são resolvidas com mais rapidez e menor custo total para o consumidor, sem converter proteção legítima em barreira desproporcional à entrada de concorrentes.",
+      "counterpoint": "A defesa da nova regulamentação argumenta que a experiência demonstrou limites da autorregulação: empresas podem lucrar com cancelamentos difíceis, longas esperas e informações pouco claras, enquanto consumidores isolados têm baixo poder de negociação. Regras mínimas e fiscalização podem reduzir abusos e tornar a competição mais leal. Esse argumento merece consideração, especialmente em serviços essenciais e mercados concentrados. A avaliação equilibrada deve comparar a melhora efetiva no atendimento com custos de conformidade, preços e possíveis efeitos sobre empresas menores, sem presumir que qualquer regulação seja automaticamente benéfica ou nociva.",
+      "sources": [
+        {
+          "name": "Presidência da República — Decreto nº 13.135, de 9/10/2026, publicado no DOU em 13/10/2026 (texto integral na Biblioteca Digital do MJSP)",
+          "url": "https://bibliotecadigital.mj.gov.br/bitstream/1/17722/1/DEC_PR_2026_13135.html"
+        },
+        {
+          "name": "Ministério da Justiça — Novo decreto do SAC amplia proteção ao consumidor, 13/10/2026 (atualizado em 28/10)",
+          "url": "https://www.gov.br/mj/pt-br/assuntos/noticias/novo-decreto-do-sac-amplia-protecao-ao-consumidor-e-estabelece-regras-de-atendimento"
+        },
+        {
+          "name": "Agência Brasil — Novas regras de atendimento ao consumidor começam a valer hoje, 02/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/novas-regras-de-atendimento-ao-consumidor-comecam-valer-hoje"
+        }
+      ]
+    },
     {
       "id": "record-kids-classificacao-12-anos-2026",
       "category": "INSTITUIÇÕES",
@@ -54,26 +78,6 @@
         {
           "name": "MDIC — Regras de cotas para exportadores à Noruega, 20/10/2026",
           "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/outubro/brasil-define-regras-para-exportadores-acessarem-cotas-do-acordo-mercosul2013efta-na-noruega"
-        }
-      ]
-    },
-    {
-      "id": "eleicoes-2026",
-      "category": "INSTITUIÇÕES",
-      "date": "2026-10-31",
-      "title": "Após a eleição: o voto confere poder ou impõe limites?",
-      "subtitle": "O que o resultado de 2026 diz — e o que ele não pode decidir.",
-      "facts": "O Tribunal Superior Eleitoral anunciou em 25 de outubro a reeleição de Luiz Inácio Lula da Silva, com 64.256.232 votos válidos (51,79%). Flávio Bolsonaro obteve 59.826.041 votos (48,21%).",
-      "analysis": "Na leitura editorial do Raven Crow, influenciada pelo direito natural e pela crítica liberal à concentração do poder, vencer uma eleição legitima o exercício de competências constitucionais — não uma licença irrestrita para interferir na vida alheia. O resultado apertado reforça a necessidade de freios institucionais, regras claras, liberdade de expressão e limites ao Executivo. Isso é um argumento normativo, não um dado do TSE.",
-      "counterpoint": "A perspectiva democrática sustenta que eleições dão mandato para políticas públicas e que a legitimidade também inclui representatividade, negociação legislativa e proteção de direitos sociais. Os dois lados precisam explicar quais limites constitucionais aceitam.",
-      "sources": [
-        {
-          "name": "TSE — anúncio oficial do segundo turno",
-          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026"
-        },
-        {
-          "name": "TSE — resultados por município e zona",
-          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/resultados-do-2o-turno-das-eleicoes-2026-estao-disponiveis-em-pagina-do-tse"
         }
       ]
     }
