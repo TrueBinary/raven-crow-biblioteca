@@ -43,9 +43,9 @@
   const box = document.createElement('aside');
   box.setAttribute('aria-label', 'Publicidade');
   box.hidden = true;
-  // overflow:hidden segura banner mais largo que a tela (no celular ele alargava a página e cortava o texto)
-  box.style.cssText = 'max-width:1150px;margin:40px auto;padding:0 16px;contain:layout;overflow:hidden';
-  box.innerHTML = '<div style="border:1px solid #35353b;border-radius:12px;background:#18191f;padding:14px 16px;overflow:hidden;max-width:100%">'
+  // sem overflow:hidden: os termos da Adsterra proíbem esconder o anúncio, mesmo em parte
+  box.style.cssText = 'max-width:1150px;margin:40px auto;padding:0 16px;contain:layout';
+  box.innerHTML = '<div style="border:1px solid #35353b;border-radius:12px;background:#18191f;padding:14px 16px">'
     + '<span style="display:block;margin:0 0 10px;color:#8f8c8a;font:600 10px/1 sans-serif;text-transform:uppercase;letter-spacing:.14em">Publicidade</span>'
     + '<div id="container-' + id + '"></div></div>';
   place(box);
