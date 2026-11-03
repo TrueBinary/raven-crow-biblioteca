@@ -93,14 +93,15 @@
       "slotId": "2026-11-03T12:00:00-03:00|IG|separacao-poderes-freios-contrapesos-2026",
       "articleId": "separacao-poderes-freios-contrapesos-2026",
       "mediaHash": "94a2aa6964ccbb10ded4a51a9cfc93c0e1d6c70745c64c4cbd7e7486bc665fe2",
-      "status": "SCHEDULED",
+      "status": "SENT",
       "targetTime": "2026-11-03T12:00:00-03:00",
       "postId": "6ae8ab2531e164b233ed23dd",
       "topicKey": "separacao-poderes-freios-contrapesos",
       "scheduledFor": "2026-11-03T12:00:00-03:00",
       "assetPath": "public/carrosseis/2026-11-03-separacao-poderes-freios-contrapesos-2026-brand-v2",
       "assetStyle": "raven_reference_v2",
-      "httpsVerified": true
+      "httpsVerified": true,
+      "sentAt": "2026-11-03T12:05:11-03:00"
     },
     {
       "slotId": "2026-11-03T18:00:00-03:00|IG|inflacao-desacelera-precos-nao-caem-2026",
