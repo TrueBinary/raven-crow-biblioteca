@@ -26,3 +26,23 @@
        book_id:link.closest('[data-id]')?.dataset.id || null});
   });
 })();
+
+/* Raven Crow: Native Banner da Adsterra enquanto o AdSense não aprova. Um por página, rotulado.
+   Bloco separado do PostHog para não depender da config dele. Sem popunder/Social Bar/SmartLink. */
+(function () {
+  const id = 'c8a6205ec43c05a0993cdf30f17a8269';
+  if (document.getElementById('container-' + id)) return;
+  const anchor = document.getElementById('edicao') || document.getElementById('biblioteca');
+  const main = document.querySelector('main');
+  if (!anchor && !main) return;
+  const box = document.createElement('aside');
+  box.setAttribute('aria-label', 'Publicidade');
+  box.style.cssText = 'max-width:1150px;margin:32px auto;padding:0 24px';
+  box.innerHTML = '<span style="display:block;margin:0 0 8px;color:#b5b2b0;font:11px sans-serif;text-transform:uppercase;letter-spacing:.08em">Publicidade</span><div id="container-' + id + '"></div>';
+  if (anchor) anchor.after(box); else main.append(box);
+  const s = document.createElement('script');
+  s.async = true;
+  s.dataset.cfasync = 'false';
+  s.src = 'https://bauval.org/21/' + id;
+  document.body.append(s);
+})();
