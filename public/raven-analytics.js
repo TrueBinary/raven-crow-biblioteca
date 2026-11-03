@@ -40,6 +40,11 @@
   box.style.cssText = 'max-width:1150px;margin:32px auto;padding:0 24px';
   box.innerHTML = '<span style="display:block;margin:0 0 8px;color:#b5b2b0;font:11px sans-serif;text-transform:uppercase;letter-spacing:.08em">Publicidade</span><div id="container-' + id + '"></div>';
   if (anchor) anchor.after(box); else main.append(box);
+  // só mostra o rótulo quando o anúncio chega (zona pendente ou bloqueador = nada visível)
+  box.hidden = true;
+  const slot = box.lastElementChild;
+  new MutationObserver((_, mo) => { if (slot.children.length) { box.hidden = false; mo.disconnect(); } })
+    .observe(slot, {childList: true, subtree: true});
   const s = document.createElement('script');
   s.async = true;
   s.dataset.cfasync = 'false';
