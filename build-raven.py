@@ -2,7 +2,7 @@ from pathlib import Path
 import json,html,re,os
 from urllib.parse import urlparse
 ROOT=Path(__file__).resolve().parent
-BASE='https://raven-crow-biblioteca.onrender.com'
+BASE='https://ravencrow.cloud'
 pix='https://pixgg.com/ravencrow'
 root=ROOT/'index.html'; news=ROOT/'public/noticias.html'
 def patch(path,fn):
@@ -69,15 +69,20 @@ RC_CSS=("body.rc-news{margin:0;min-height:100vh;background:#0a0a0b radial-gradie
  ".rc-foot{display:flex;justify-content:space-between;gap:16px;padding-top:22px;padding-bottom:40px;border-top:1px solid #3a1a1c;font:600 12px 'DM Sans',sans-serif;letter-spacing:.08em;text-transform:uppercase;color:#cfc9c3}.rc-foot b{color:#e0262c;font-weight:800}"
  "@media(max-width:640px){body.rc-news{border-left-width:6px}.rc-top{padding-top:18px}.rc-logo{width:44px;height:44px}.rc-line nav{display:none}.rc-foot{flex-direction:column}}")
 urls=[BASE+'/',BASE+'/noticias.html']
-for a in data['articles']:
-    slug=a['id']
+# Edição atual primeiro, depois o arquivo do mais recente ao mais antigo: o primeiro id visto prevalece.
+editions=[data]+[json.loads(p.read_text(encoding='utf-8')) for p in sorted((ROOT/'public/arquivo').glob('noticias-*.json'),reverse=True)]
+articles={}
+for ed in editions:
+    for a in ed.get('articles',[]):articles.setdefault(a.get('id'),(a,ed.get('updatedAt','')))
+for a,updated in articles.values():
+    slug=str(a.get('id') or '')
     if not re.fullmatch(r'[a-z0-9-]{3,100}',slug):continue
     dest=out/slug;dest.mkdir(exist_ok=True)
     url=BASE+'/noticias/'+slug+'/'
     urls.append(url)
     esc=lambda v:html.escape(str(v or ''),quote=True)
     sources=''.join('<li><a rel="noopener noreferrer" target="_blank" href="'+esc(s['url'])+'">'+esc(s.get('name','Fonte'))+'</a></li>' for s in a.get('sources',[]) if urlparse(s.get('url','')).scheme=='https')
-    schema={'@context':'https://schema.org','@type':'Article','headline':a['title'],'description':a.get('subtitle',''),'datePublished':a['date'],'dateModified':data['updatedAt'],'author':{'@type':'Organization','name':'Raven Crow'},'publisher':{'@type':'Organization','name':'Raven Crow'},'mainEntityOfPage':url,'isAccessibleForFree':True}
+    schema={'@context':'https://schema.org','@type':'Article','headline':a['title'],'description':a.get('subtitle',''),'datePublished':a['date'],'dateModified':updated,'author':{'@type':'Organization','name':'Raven Crow'},'publisher':{'@type':'Organization','name':'Raven Crow'},'mainEntityOfPage':url,'isAccessibleForFree':True}
     page='''<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#0d0e12"><title>'''+esc(a['title'])+''' | Coluna do Corvo</title><meta name="description" content="'''+esc(a.get('subtitle','')[:155])+'''"><link rel="canonical" href="'''+url+'''"><meta property="og:type" content="article"><meta property="og:title" content="'''+esc(a['title'])+'''"><meta property="og:description" content="'''+esc(a.get('subtitle',''))+'''"><meta property="og:url" content="'''+url+'''"><script type="application/ld+json">'''+json.dumps(schema,ensure_ascii=False).replace('<','\\u003c')+'''</script><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@800;900&family=DM+Sans:wght@400;500;600;700;800&display=swap"><style>'''+RC_CSS+'''</style></head><body class="rc-news"><header class="rc-top"><div class="rc-line"><a class="rc-brand" href="../../index.html"><i aria-hidden="true"></i>RAVEN CROW</a><nav aria-label="Seções"><a href="../../noticias.html">Coluna do Corvo</a><a href="../../index.html#biblioteca">Biblioteca</a></nav></div><img class="rc-logo" src="../../raven-logo.webp" alt="" width="56" height="56"></header><main><span class="rc-pill">'''+esc(a.get('category','ANÁLISE'))+''' / Análise e opinião</span><h1>'''+title_html(a['title'])+'''</h1><p><strong>'''+esc(a.get('subtitle',''))+'''</strong></p><h2>O que <em>aconteceu</em></h2><p>'''+esc(a.get('facts',''))+'''</p><h2>Análise do <em>Corvo</em></h2><p>'''+esc(a.get('analysis',''))+'''</p><h2><em>Contraponto</em></h2><p>'''+esc(a.get('counterpoint',''))+'''</p><h2><em>Fontes</em></h2><ul>'''+sources+'''</ul><aside class="cta"><h2>Apoie o <em>Corvo</em></h2><p>Contribua voluntariamente via Pix ou conheça os livros recomendados na Biblioteca do Corvo.</p><a class="btn" href="'''+pix+'''" data-track="pix" data-placement="artigo">Apoiar via Pix <span aria-hidden="true">→</span></a> &nbsp; <a href="../../index.html#biblioteca" data-track="library">Ver livros ↗</a></aside></main><footer class="rc-foot"><span>O Corvo Investigador / '''+br_date(a['date'])+'''</span><b>Raven Crow</b></footer><script defer src="../../raven-analytics.js"></script></body></html>'''
     (dest/'index.html').write_text(page,encoding='utf-8')
 from xml.sax.saxutils import escape
