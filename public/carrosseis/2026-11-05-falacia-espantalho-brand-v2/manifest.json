@@ -1,0 +1,54 @@
+{
+  "articleId": "2026-11-05-falacia-espantalho",
+  "style": "raven_reference_v2",
+  "status": "RENDERED_NEEDS_QA",
+  "assets": [
+    {
+      "file": "slide1.png",
+      "sha256": "c0b092de8b9e3c1df7a73b2ea7072a6022c1d83135dcbd63e53dbbb532118511",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide2.png",
+      "sha256": "349ebd0383e84ffbaa7b498d3ba4cac48799ccf8874a5443cb01e72b70338b81",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide3.png",
+      "sha256": "b5d366b884274c006f81613eea14d00049e62a69dde0e18e5fd456122075c7ad",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide4.png",
+      "sha256": "68bb30a702aac7879458a6551cd653d95c585ddcaf532c95e0fd9107bc6fcd90",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide5.png",
+      "sha256": "bdf39a54399ca601fccc9910503902d28b24f0598e7385f1d361b7a38a7a6580",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Referência",
+      "url": "https://iep.utm.edu/fallacy/"
+    }
+  ],
+  "photoCredits": []
+}

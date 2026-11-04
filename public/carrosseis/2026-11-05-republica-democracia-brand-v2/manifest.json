@@ -1,0 +1,54 @@
+{
+  "articleId": "2026-11-05-republica-democracia",
+  "style": "raven_reference_v2",
+  "status": "RENDERED_NEEDS_QA",
+  "assets": [
+    {
+      "file": "slide1.png",
+      "sha256": "458f9ad28df7759a92487b3e57a6c50ae100ac732e9f5b182302f411bbff027d",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide2.png",
+      "sha256": "9641fa02153e85d44559274edef2960fde611d3dd10ef332975c7bf11e55063f",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide3.png",
+      "sha256": "1f2f483f695659bcd430d33c52f0b90c5d7ab995a682009ce08000bea26a0a45",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide4.png",
+      "sha256": "1d91012e30e16f4f4312074d22abc3b55c22f653df198406f3c67d15b0e68a11",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide5.png",
+      "sha256": "fb99f53058dc8272da8043cf866f7054a9d71de0f44b2008eab4a5f301c0df69",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Referência",
+      "url": "https://www.britannica.com/topic/republic-government"
+    }
+  ],
+  "photoCredits": []
+}

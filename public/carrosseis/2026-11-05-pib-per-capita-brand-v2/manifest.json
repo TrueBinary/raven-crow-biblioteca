@@ -1,0 +1,54 @@
+{
+  "articleId": "2026-11-05-pib-per-capita",
+  "style": "raven_reference_v2",
+  "status": "RENDERED_NEEDS_QA",
+  "assets": [
+    {
+      "file": "slide1.png",
+      "sha256": "97a86e672182867f6ba75257a2bfd9b608839455d45eec87392074a48ad55630",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide2.png",
+      "sha256": "b12997211138a656bbd74daee3a69289776c25c13869ff8720de30be557465e0",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide3.png",
+      "sha256": "b5a2198d8caf44e2a5c6b0060fbad045d3b1041446f0b4fabbd70e62a3ecbac0",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide4.png",
+      "sha256": "818a4eb6a5f4e909d290f493d03ea45fc29a0ea36be3eb2ad5ee6a61b99a71ad",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide5.png",
+      "sha256": "347b82d072657a287a6f8ea2117c9f4401cc311fac7c7064850fb51b61af68be",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Referência",
+      "url": "https://www.ibge.gov.br/explica/pib.php"
+    }
+  ],
+  "photoCredits": []
+}

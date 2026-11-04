@@ -1,0 +1,42 @@
+{
+  "articleId": "2026-11-05-pib-per-capita",
+  "topicKey": "2026-11-05-pib-per-capita",
+  "style": "raven_reference_v2",
+  "sources": [
+    {
+      "name": "Referência",
+      "url": "https://www.ibge.gov.br/explica/pib.php"
+    }
+  ],
+  "photoCredits": [],
+  "slides": [
+    {
+      "section": "ECONOMIA / CONCEITOS",
+      "title": "PIB MAIOR SIGNIFICA VIDA MELHOR?",
+      "body": "PIB mede produção econômica, não diretamente bem-estar."
+    },
+    {
+      "section": "EXPLICAÇÃO",
+      "title": "O QUE É PIB PER CAPITA?",
+      "body": "É o PIB dividido pelo número de habitantes."
+    },
+    {
+      "section": "CONTEXTO",
+      "title": "UMA MÉDIA NÃO CONTA TUDO",
+      "body": "O indicador não revela sozinho a distribuição da renda."
+    },
+    {
+      "section": "CONTRAPONTO",
+      "title": "E O CUSTO DE VIDA?",
+      "body": "Poder de compra e acesso a serviços exigem outros indicadores."
+    },
+    {
+      "section": "SÍNTESE / CTA",
+      "title": "COMPARE COM CONTEXTO",
+      "body": "Analise renda, preços, desigualdade e condições de vida.",
+      "cta1": "LEIA AS FONTES",
+      "cta2": "NA LEGENDA"
+    }
+  ],
+  "caption": "PIB MAIOR SIGNIFICA VIDA MELHOR?\n\nPIB MAIOR SIGNIFICA VIDA MELHOR?: PIB mede produção econômica, não diretamente bem-estar.\n\nO QUE É PIB PER CAPITA?: É o PIB dividido pelo número de habitantes.\n\nUMA MÉDIA NÃO CONTA TUDO: O indicador não revela sozinho a distribuição da renda.\n\nE O CUSTO DE VIDA?: Poder de compra e acesso a serviços exigem outros indicadores.\n\nCOMPARE COM CONTEXTO: Analise renda, preços, desigualdade e condições de vida.\n\nFonte: https://www.ibge.gov.br/explica/pib.php\n\n#RavenCrow #OCorvoInvestigador"
+}
