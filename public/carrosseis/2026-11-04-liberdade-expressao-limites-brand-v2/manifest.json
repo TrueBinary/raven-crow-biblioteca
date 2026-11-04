@@ -1,0 +1,62 @@
+{
+  "articleId": "2026-11-04-liberdade-expressao-limites",
+  "style": "raven_reference_v2",
+  "status": "LOCAL_QA_PASSED_HTTPS_PENDING",
+  "assets": [
+    {
+      "file": "slide1.png",
+      "sha256": "d349601eb1f0249c3b985824ebed7ba1eecd0a9a6b76e00ee275f4804bab8078",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide2.png",
+      "sha256": "156fe202ef15d0bc478583f47610de7c57b0c9ea1f88ad9142dcf3e2737f6c96",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide3.png",
+      "sha256": "6594ff482c27a80fc0e5df62eda5aa16d366fbb5e0c95fa34fc6c375da61877e",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide4.png",
+      "sha256": "bbca8e9e8893eee9e0bc381acb962cc602a98b68778869821000a2f98677da87",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide5.png",
+      "sha256": "59af04d9355dffa6846245eee8fa0c7cd0802885f7a6fab1273a805c6ef44895",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Fonte de referência",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+    }
+  ],
+  "photoCredits": [],
+  "mediaHash": "b49741e7fe699cbecbb9cc36cf20de001798d071626e4abac489de4a6cdcfe4d",
+  "qa": {
+    "dimensions": "PASS",
+    "hashes": "PASS",
+    "visualCoverInnerCTA": "REVIEWED",
+    "sourceLinks": "IN_CAPTION",
+    "https": "PENDING"
+  }
+}

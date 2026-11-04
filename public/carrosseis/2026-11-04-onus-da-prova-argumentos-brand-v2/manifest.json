@@ -1,0 +1,62 @@
+{
+  "articleId": "2026-11-04-onus-da-prova-argumentos",
+  "style": "raven_reference_v2",
+  "status": "LOCAL_QA_PASSED_HTTPS_PENDING",
+  "assets": [
+    {
+      "file": "slide1.png",
+      "sha256": "8e3801d6200034c71721ad394d006f73de624a9b15ef31674c2059a81db73832",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide2.png",
+      "sha256": "ebdabfef16e2850da2ece07db12e50d61868745a9b5b8358c939b1bef6e09835",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide3.png",
+      "sha256": "dc06b18664f4cd403cd0a977ea6e59877bd92984f5ad13d848772d5c117a6d8f",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide4.png",
+      "sha256": "3f3ba817c5bad3c18407ae2feddeaf834e6c35f85d7e03efb3372dd57ff78c2a",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide5.png",
+      "sha256": "4b18834252810d193372d53b7c5e50c887d660c1563d219b42ad0165399c8d2e",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Fonte de referência",
+      "url": "https://plato.stanford.edu/entries/epistemology/"
+    }
+  ],
+  "photoCredits": [],
+  "mediaHash": "db9ceae5f8821950ef2dc4a6fdc7d72d40e305d0704b21a6654b7a5412e60238",
+  "qa": {
+    "dimensions": "PASS",
+    "hashes": "PASS",
+    "visualCoverInnerCTA": "REVIEWED",
+    "sourceLinks": "IN_CAPTION",
+    "https": "PENDING"
+  }
+}

@@ -88,8 +88,13 @@ def render(slide,idx,total,logo,date):
         end=title(d,text,265,420,initial=137)
         d.rectangle((58,end+18,335,end+32),fill=RED)
         body(d,content,end+58,830,fontsize=37)
-        if not slide.get("image"):raise ValueError("Cover requires documentary photo")
-        photo_strip(im,slide["image"],y=max(725,end+155))
+        if slide.get("image"):
+            photo_strip(im,slide["image"],y=max(725,end+155))
+        else:
+            d.rounded_rectangle((58,850,1020,1195),radius=15,outline=RED,width=5)
+            d.text((90,900),"RAVEN CROW",font=font(90,True),fill=WHITE)
+            d.line((90,1020,950,1020),fill=RED,width=8)
+            d.text((90,1050),"ANÁLISE  /  CONTEXTO",font=font(48,True),fill=RED)
         # re-add footer over the photo
         d=ImageDraw.Draw(im)
         d.rectangle((0,1237,W,1350),fill=DARK)
@@ -104,8 +109,8 @@ def render(slide,idx,total,logo,date):
             y=body(d,content,end+75,920,fontsize=52)
             box_y=max(940,y+70)
             d.rounded_rectangle((58,box_y,1024,1160),radius=10,fill="#9B2530")
-            d.text((88,box_y+39),"LEIA A ANÁLISE",font=font(58,True),fill=WHITE)
-            d.text((88,box_y+106),"NA COLUNA DO CORVO  →",font=font(40,True),fill=WHITE)
+            d.text((88,box_y+39),slide.get("cta1","LEIA A ANÁLISE"),font=font(58,True),fill=WHITE)
+            d.text((88,box_y+106),slide.get("cta2","NA COLUNA DO CORVO  →"),font=font(40,True),fill=WHITE)
         else:
             # Divide the exact source sentence into three editorial reading beats.
             words=content.split()

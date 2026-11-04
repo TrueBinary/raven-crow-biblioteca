@@ -1,0 +1,62 @@
+{
+  "articleId": "2026-11-04-custo-oportunidade-escolhas",
+  "style": "raven_reference_v2",
+  "status": "LOCAL_QA_PASSED_HTTPS_PENDING",
+  "assets": [
+    {
+      "file": "slide1.png",
+      "sha256": "6b2f93a4972396558f5c5385babbce997c75016d58e0c65b35742e3f8c622914",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide2.png",
+      "sha256": "b6915b2e5d24e8058f73ae6ea98c4475accb24fd203bdef670b2139ad170d8c1",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide3.png",
+      "sha256": "625a1d2d593cf42f0c85ef215cb79a86db2131a71d6bf69475c5f0d7ab49ffe1",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide4.png",
+      "sha256": "408a7c5c935def6765b65e96182d7430ea08070893cd75a5446786dccc23c654",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide5.png",
+      "sha256": "a5aaabe9b0305ed5ceabc640359289a595acae170501b2dd5460620369ef74d7",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Fonte de referência",
+      "url": "https://www.britannica.com/money/opportunity-cost"
+    }
+  ],
+  "photoCredits": [],
+  "mediaHash": "d45b8a105e7d50ba20cfcdf34c8c032246f6a4330fc711ffc15e8f110aa05c1e",
+  "qa": {
+    "dimensions": "PASS",
+    "hashes": "PASS",
+    "visualCoverInnerCTA": "REVIEWED",
+    "sourceLinks": "IN_CAPTION",
+    "https": "PENDING"
+  }
+}
