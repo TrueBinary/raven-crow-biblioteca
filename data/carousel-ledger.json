@@ -76,18 +76,18 @@
       "sentAt": "2026-11-03T00:02:12-03:00"
     },
     {
-      "slotId": "2026-11-03T06:00:00-03:00|IG|socrates-perguntas-verdade-2026",
+      "slotId": "2026-11-04T06:00:00-03:00|IG|socrates-perguntas-verdade-2026",
       "articleId": "socrates-perguntas-verdade-2026",
       "mediaHash": "38151468c5c24ac2a505e1a0a9e83a6282b0d171f87a18745f875024af2ce941",
       "status": "SCHEDULED",
-      "targetTime": "2026-11-03T06:00:00-03:00",
+      "targetTime": "2026-11-04T06:00:00-03:00",
       "postId": "6ae85645dd7a4869734e0ee1",
-      "scheduledFor": "2026-11-10T18:21:00-03:00",
+      "scheduledFor": "2026-11-04T06:00:00-03:00",
       "permalink": null,
       "assetPath": "public/carrosseis/2026-11-03-socrates-perguntas-verdade-2026-brand-v2",
       "assetStyle": "raven_reference_v2",
       "httpsVerified": true,
-      "incident": "Buffer dueAt is 10 Nov 18:21 BRT; original 03 Nov 06h slot was missed. Do not backfill or duplicate."
+      "incident": "03 Nov 06h missed; existing post rescheduled to 04 Nov 06h; confirmed by Buffer edit"
     },
     {
       "slotId": "2026-11-03T12:00:00-03:00|IG|separacao-poderes-freios-contrapesos-2026",
@@ -107,14 +107,15 @@
       "slotId": "2026-11-03T18:00:00-03:00|IG|inflacao-desacelera-precos-nao-caem-2026",
       "articleId": "inflacao-desacelera-precos-nao-caem-2026",
       "mediaHash": "a28f5af22647cebcdd6c95a2a400096235a350092b0cd2529edd01900321fa7c",
-      "status": "SCHEDULED",
+      "status": "SENT",
       "targetTime": "2026-11-03T18:00:00-03:00",
       "postId": "6ae8ab352426d4fa3504b257",
       "topicKey": "inflacao-desaceleracao-precos",
       "scheduledFor": "2026-11-03T18:00:00-03:00",
       "assetPath": "public/carrosseis/2026-11-03-inflacao-desacelera-precos-nao-caem-2026-brand-v2",
       "assetStyle": "raven_reference_v2",
-      "httpsVerified": true
+      "httpsVerified": true,
+      "sentAt": "2026-11-03T18:03:15-03:00"
     }
   ]
-}
+}\n
