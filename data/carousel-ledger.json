@@ -165,6 +165,57 @@
       "httpsVerified": true,
       "qa": "PASS",
       "sourceHost": "raw.githubusercontent.com (commit-pinned)"
+    },
+    {
+      "slotId": "2026-11-05T06:00:00-03:00|IG|2026-11-05-republica-democracia",
+      "articleId": "2026-11-05-republica-democracia",
+      "topicKey": "2026-11-05-republica-democracia",
+      "mediaHash": "21c8810c4094d30f3a8abd2729ff0345bc37e2b069ec0df1f4eea2779a7c30bc",
+      "status": "SCHEDULED",
+      "targetTime": "2026-11-05T06:00:00-03:00",
+      "scheduledFor": "2026-11-05T06:00:00-03:00",
+      "postId": "6aeb48862652cc015f73de1c",
+      "assetPath": "public/carrosseis/2026-11-05-republica-democracia-brand-v2",
+      "assetStyle": "raven_reference_v2",
+      "mediaVersion": "18e03e5",
+      "httpsVerified": true,
+      "qa": "PASS",
+      "sourceHost": "raw.githubusercontent.com (commit-pinned)",
+      "sourceCommit": "18e03e5"
+    },
+    {
+      "slotId": "2026-11-05T12:00:00-03:00|IG|2026-11-05-falacia-espantalho",
+      "articleId": "2026-11-05-falacia-espantalho",
+      "topicKey": "2026-11-05-falacia-espantalho",
+      "mediaHash": "ac3a7bfbe3e7f560c490ca0c27757edf0351844c2810df8531d4ec3f0abbcaff",
+      "status": "SCHEDULED",
+      "targetTime": "2026-11-05T12:00:00-03:00",
+      "scheduledFor": "2026-11-05T12:00:00-03:00",
+      "postId": "6aeb48902652cc015f73ee34",
+      "assetPath": "public/carrosseis/2026-11-05-falacia-espantalho-brand-v2",
+      "assetStyle": "raven_reference_v2",
+      "mediaVersion": "18e03e5",
+      "httpsVerified": true,
+      "qa": "PASS",
+      "sourceHost": "raw.githubusercontent.com (commit-pinned)",
+      "sourceCommit": "18e03e5"
+    },
+    {
+      "slotId": "2026-11-05T18:00:00-03:00|IG|2026-11-05-pib-per-capita",
+      "articleId": "2026-11-05-pib-per-capita",
+      "topicKey": "2026-11-05-pib-per-capita",
+      "mediaHash": "8d3a28f80e8e0fb9fc5f3baeaf2e9235c2e22e6a17b42f55edd273a2d4ad81e4",
+      "status": "SCHEDULED",
+      "targetTime": "2026-11-05T18:00:00-03:00",
+      "scheduledFor": "2026-11-05T18:00:00-03:00",
+      "postId": "6aeb489692ddc1c762945124",
+      "assetPath": "public/carrosseis/2026-11-05-pib-per-capita-brand-v2",
+      "assetStyle": "raven_reference_v2",
+      "mediaVersion": "18e03e5",
+      "httpsVerified": true,
+      "qa": "PASS",
+      "sourceHost": "raw.githubusercontent.com (commit-pinned)",
+      "sourceCommit": "18e03e5"
     }
   ]
 }
