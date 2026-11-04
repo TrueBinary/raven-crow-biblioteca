@@ -123,7 +123,7 @@
       "articleId": "2026-11-04-onus-da-prova-argumentos",
       "topicKey": "2026-11-04-onus-da-prova-argumentos",
       "mediaHash": "db9ceae5f8821950ef2dc4a6fdc7d72d40e305d0704b21a6654b7a5412e60238",
-      "status": "SCHEDULED",
+      "status": "SENT",
       "targetTime": "2026-11-04T12:00:00-03:00",
       "scheduledFor": "2026-11-04T12:00:00-03:00",
       "postId": "6aeaf589961fae078abfa529",
@@ -132,14 +132,16 @@
       "mediaVersion": "8342108f224b57895d94ac80e289dc82f0584440",
       "httpsVerified": true,
       "qa": "PASS",
-      "sourceHost": "raw.githubusercontent.com (commit-pinned)"
+      "sourceHost": "raw.githubusercontent.com (commit-pinned)",
+      "sentAt": "2026-11-04T12:03:01.305-03:00",
+      "confirmedBy": "Buffer get_post 2026-11-04"
     },
     {
       "slotId": "2026-11-04T18:00:00-03:00|IG|2026-11-04-custo-oportunidade-escolhas",
       "articleId": "2026-11-04-custo-oportunidade-escolhas",
       "topicKey": "2026-11-04-custo-oportunidade-escolhas",
       "mediaHash": "d45b8a105e7d50ba20cfcdf34c8c032246f6a4330fc711ffc15e8f110aa05c1e",
-      "status": "SCHEDULED",
+      "status": "SENT",
       "targetTime": "2026-11-04T18:00:00-03:00",
       "scheduledFor": "2026-11-04T18:00:00-03:00",
       "postId": "6aeaf58b20b88292aa73a6bf",
@@ -148,7 +150,9 @@
       "mediaVersion": "8342108f224b57895d94ac80e289dc82f0584440",
       "httpsVerified": true,
       "qa": "PASS",
-      "sourceHost": "raw.githubusercontent.com (commit-pinned)"
+      "sourceHost": "raw.githubusercontent.com (commit-pinned)",
+      "sentAt": "2026-11-04T18:02:50.102-03:00",
+      "confirmedBy": "Buffer get_post 2026-11-04"
     },
     {
       "slotId": "2026-11-05T00:00:00-03:00|IG|2026-11-04-liberdade-expressao-limites",
