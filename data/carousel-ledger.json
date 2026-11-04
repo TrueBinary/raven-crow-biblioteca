@@ -79,7 +79,7 @@
       "slotId": "2026-11-04T06:00:00-03:00|IG|socrates-perguntas-verdade-2026",
       "articleId": "socrates-perguntas-verdade-2026",
       "mediaHash": "38151468c5c24ac2a505e1a0a9e83a6282b0d171f87a18745f875024af2ce941",
-      "status": "SCHEDULED",
+      "status": "SENT",
       "targetTime": "2026-11-04T06:00:00-03:00",
       "postId": "6ae85645dd7a4869734e0ee1",
       "scheduledFor": "2026-11-04T06:00:00-03:00",
@@ -87,7 +87,8 @@
       "assetPath": "public/carrosseis/2026-11-03-socrates-perguntas-verdade-2026-brand-v2",
       "assetStyle": "raven_reference_v2",
       "httpsVerified": true,
-      "incident": "03 Nov 06h missed; existing post rescheduled to 04 Nov 06h; confirmed by Buffer edit"
+      "incident": "03 Nov 06h missed; existing post rescheduled to 04 Nov 06h; confirmed by Buffer edit",
+      "sentAt": "2026-11-04T06:04:44.791-03:00"
     },
     {
       "slotId": "2026-11-03T12:00:00-03:00|IG|separacao-poderes-freios-contrapesos-2026",
@@ -116,6 +117,54 @@
       "assetStyle": "raven_reference_v2",
       "httpsVerified": true,
       "sentAt": "2026-11-03T18:03:15-03:00"
+    },
+    {
+      "slotId": "2026-11-04T12:00:00-03:00|IG|2026-11-04-onus-da-prova-argumentos",
+      "articleId": "2026-11-04-onus-da-prova-argumentos",
+      "topicKey": "2026-11-04-onus-da-prova-argumentos",
+      "mediaHash": "db9ceae5f8821950ef2dc4a6fdc7d72d40e305d0704b21a6654b7a5412e60238",
+      "status": "SCHEDULED",
+      "targetTime": "2026-11-04T12:00:00-03:00",
+      "scheduledFor": "2026-11-04T12:00:00-03:00",
+      "postId": "6aeaf589961fae078abfa529",
+      "assetPath": "public/carrosseis/2026-11-04-onus-da-prova-argumentos-brand-v2",
+      "assetStyle": "raven_reference_v2",
+      "mediaVersion": "8342108f224b57895d94ac80e289dc82f0584440",
+      "httpsVerified": true,
+      "qa": "PASS",
+      "sourceHost": "raw.githubusercontent.com (commit-pinned)"
+    },
+    {
+      "slotId": "2026-11-04T18:00:00-03:00|IG|2026-11-04-custo-oportunidade-escolhas",
+      "articleId": "2026-11-04-custo-oportunidade-escolhas",
+      "topicKey": "2026-11-04-custo-oportunidade-escolhas",
+      "mediaHash": "d45b8a105e7d50ba20cfcdf34c8c032246f6a4330fc711ffc15e8f110aa05c1e",
+      "status": "SCHEDULED",
+      "targetTime": "2026-11-04T18:00:00-03:00",
+      "scheduledFor": "2026-11-04T18:00:00-03:00",
+      "postId": "6aeaf58b20b88292aa73a6bf",
+      "assetPath": "public/carrosseis/2026-11-04-custo-oportunidade-escolhas-brand-v2",
+      "assetStyle": "raven_reference_v2",
+      "mediaVersion": "8342108f224b57895d94ac80e289dc82f0584440",
+      "httpsVerified": true,
+      "qa": "PASS",
+      "sourceHost": "raw.githubusercontent.com (commit-pinned)"
+    },
+    {
+      "slotId": "2026-11-05T00:00:00-03:00|IG|2026-11-04-liberdade-expressao-limites",
+      "articleId": "2026-11-04-liberdade-expressao-limites",
+      "topicKey": "2026-11-04-liberdade-expressao-limites",
+      "mediaHash": "b49741e7fe699cbecbb9cc36cf20de001798d071626e4abac489de4a6cdcfe4d",
+      "status": "SCHEDULED",
+      "targetTime": "2026-11-05T00:00:00-03:00",
+      "scheduledFor": "2026-11-05T00:00:00-03:00",
+      "postId": "6aeaf58d1d881477a612cbc6",
+      "assetPath": "public/carrosseis/2026-11-04-liberdade-expressao-limites-brand-v2",
+      "assetStyle": "raven_reference_v2",
+      "mediaVersion": "8342108f224b57895d94ac80e289dc82f0584440",
+      "httpsVerified": true,
+      "qa": "PASS",
+      "sourceHost": "raw.githubusercontent.com (commit-pinned)"
     }
   ]
-}\n
+}

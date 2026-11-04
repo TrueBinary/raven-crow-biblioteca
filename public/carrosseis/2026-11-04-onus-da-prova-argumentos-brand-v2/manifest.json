@@ -1,7 +1,7 @@
 {
   "articleId": "2026-11-04-onus-da-prova-argumentos",
   "style": "raven_reference_v2",
-  "status": "LOCAL_QA_PASSED_HTTPS_PENDING",
+  "status": "BUFFER_SCHEDULED",
   "assets": [
     {
       "file": "slide1.png",
@@ -57,6 +57,9 @@
     "hashes": "PASS",
     "visualCoverInnerCTA": "REVIEWED",
     "sourceLinks": "IN_CAPTION",
-    "https": "PENDING"
-  }
+    "https": "PASS_200_SHA256_MATCH"
+  },
+  "postId": "6aeaf589961fae078abfa529",
+  "scheduledFor": "2026-11-04T12:00:00-03:00",
+  "mediaVersion": "8342108f224b57895d94ac80e289dc82f0584440"
 }
