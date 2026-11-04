@@ -1,10 +1,30 @@
 {
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
-  "edition": "03/11/2026",
-  "updatedAt": "2026-11-03T09:20:58-03:00",
+  "edition": "04/11/2026",
+  "updatedAt": "2026-11-04T09:17:30-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "cmo-creditos-roraima-regra-de-ouro-2026",
+      "category": "ECONOMIA",
+      "date": "2026-11-04",
+      "title": "R$ 115 milhões para Roraima e R$ 185,5 bilhões em debate: quem paga a conta?",
+      "subtitle": "Comissão do Congresso aprovou crédito para serviços ligados à migração venezuelana, mas adiou votação de crédito bilionário para benefícios. A diferença entre necessidade pública e disciplina fiscal exige atenção.",
+      "facts": "Em 3 de novembro de 2026, a Comissão Mista de Orçamento aprovou o PLN 27/2026, crédito especial de R$ 115 milhões para saúde, educação e segurança pública em Roraima, diante do fluxo de venezuelanos; o texto ainda precisa passar pelo Plenário do Congresso. A CMO adiou para a semana seguinte a votação do PLN 23/2026, que propunha crédito suplementar de R$ 185,5 bilhões para benefícios previdenciários e sociais. O Executivo solicitou reduzir esse segundo valor a R$ 149,4 bilhões, segundo o relator Hugo Leal. A operação está ligada à exigência constitucional conhecida como regra de ouro; o montante do crédito suplementar já consta do Orçamento, mas depende de autorização específica.",
+      "analysis": "A votação de 3 de novembro expõe dois problemas diferentes que não deveriam ser misturados. O primeiro é concreto e localizado: o aumento do fluxo migratório em Roraima pressiona serviços que precisam funcionar para residentes e recém-chegados. O crédito de R$ 115 milhões aprovado pela comissão pode aliviar essa pressão, mas aprovação em comissão não é dinheiro automaticamente liberado, nem demonstra por si só eficiência na aplicação. É preciso acompanhar a votação final e o destino de cada real.\n\nO segundo problema é estrutural. O adiamento de um crédito suplementar de R$ 185,5 bilhões, com pedido governamental de redução para R$ 149,4 bilhões, recoloca em discussão a dependência de autorizações excepcionais ligadas à regra de ouro. Na perspectiva editorial do Raven Crow, orientada pelo direito natural, pela propriedade privada, pelos limites do Estado e pela tradição da economia austríaca, endividamento público não apaga custos: desloca escolhas para contribuintes presentes e futuros, restringe investimentos privados e pode elevar o preço do capital. O orçamento é uma disputa por recursos escassos, não uma fonte ilimitada de direitos financiáveis sem contrapartida.\n\nEssa leitura não autoriza ignorar necessidades humanas urgentes nem tratar todos os gastos como equivalentes. O teste responsável é perguntar se os valores estão corretamente dimensionados, se há transparência na execução, se existem alternativas menos custosas e se o benefício público justifica o ônus. A própria ressalva do relator sobre não naturalizar o financiamento recorrente de despesas correntes por dívida merece escrutínio. Mais importante que a manchete dos bilhões será a fiscalização do que o Congresso autorizar e do que efetivamente for gasto.",
+      "counterpoint": "Há uma defesa consistente das medidas: a União precisa assegurar continuidade de benefícios legalmente devidos e apoiar serviços locais sob pressão migratória, sem interromper pagamentos por uma restrição contábil. O crédito suplementar mencionado já estava previsto no Orçamento, e sua autorização não deve ser confundida automaticamente com gasto adicional de mesmo valor. A regra de ouro admite mecanismos constitucionais de exceção. Uma crítica equilibrada deve avaliar a necessidade e a execução efetiva, e não presumir irregularidade ou desperdício apenas pelo tamanho das cifras.",
+      "sources": [
+        {
+          "name": "Agência Câmara de Notícias — Comissão Mista de Orçamento aprova crédito de R$ 115 milhões para atender venezuelanos em Roraima, 03/11/2026 (atualizada em 04/11)",
+          "url": "https://www.camara.leg.br/noticias/1315391-comissao-mista-de-orcamento-aprova-credito-de-r%24-115-milhoes-para-atender-venezuelanos-em-roraima"
+        },
+        {
+          "name": "Agência Câmara — PLN 23/2026 e PLN 27/2026, tramitação e íntegra das propostas (links na notícia oficial)",
+          "url": "https://www.camara.leg.br/noticias/1315391-comissao-mista-de-orcamento-aprova-credito-de-r%24-115-milhoes-para-atender-venezuelanos-em-roraima"
+        }
+      ]
+    },
     {
       "id": "sac-atendimento-humano-2026",
       "category": "ECONOMIA",
@@ -54,30 +74,6 @@
         {
           "name": "Guiame — reportagem atualizada em 02/11/2026 sobre o programa",
           "url": "https://guiame.com.br/amp/gospel/noticias/governo-federal-retira-classificacao-livre-de-desenhos-biblicos-da-record.html"
-        }
-      ]
-    },
-    {
-      "id": "mercosul-efta-noruega-2026",
-      "category": "ECONOMIA",
-      "date": "2026-11-01",
-      "title": "Brasil e Noruega abrem tarifas: menos barreiras, mais concorrência",
-      "subtitle": "O acordo Mercosul–EFTA começa a valer entre os dois países neste 1º de novembro. O ganho potencial dependerá de empresas, consumidores e regras efetivamente aplicadas.",
-      "facts": "O acordo Mercosul–EFTA passa a valer nas relações entre Brasil e Noruega em 1º de novembro de 2026, conforme o MDIC. Na Noruega, 249 linhas tarifárias de vestuário e têxteis confeccionados, antes sujeitas a tarifas de 5,6% a 10,7%, passam a tarifa zero para produtos elegíveis do Mercosul. A tarifa de 21% sobre fermento de panificação e leveduras inativas também é eliminada. O Siscomex anunciou modelos de licença de exportação para cotas destinadas à Noruega a partir desta data; os benefícios dependem das condições e regras de origem de cada produto.",
-      "analysis": "A novidade de 1º de novembro não é a assinatura de um tratado — ocorrida em setembro de 2025 —, mas a entrada em vigor de preferências comerciais entre Brasil e Noruega. A diferença é importante: a promessa diplomática agora passa a ter consequências para quem produz, importa, exporta e compra. A redução de tarifas pode abrir espaço a negócios antes inviáveis, mas não garante contratos, competitividade ou crescimento automático das exportações.\n\nNa perspectiva editorial do Raven Crow, inspirada no direito natural, na proteção da propriedade privada e na tradição da economia austríaca, o comércio é sobretudo uma relação voluntária entre pessoas e empresas. Uma tarifa funciona como barreira estatal que altera preços relativos e transfere custos para consumidores e cadeias produtivas. Reduzi-la devolve margem de escolha a agentes privados. Esse benefício não precisa ser confundido com a ideia de que o governo cria riqueza por decreto: são empresários, trabalhadores e consumidores que precisam descobrir quais trocas valem a pena.\n\nHá, porém, uma distância entre tarifa nominal zero e mercado realmente aberto. Regras de origem, cotas agrícolas, requisitos técnicos, logística e custos de conformidade continuam existindo. O próprio acordo prevê cronogramas de desgravação de até 15 anos para tarifas brasileiras, enquanto a Noruega elimina imediatamente diversas tarifas industriais e pesqueiras. O custo de oportunidade de manter proteção interna por tanto tempo é adiar acesso a insumos e concorrência, mas a transição também impõe custos concretos a setores menos preparados. A medida deve ser julgada pelos preços, pela produtividade e pela liberdade efetiva de comerciar — não pelo número de anúncios oficiais.",
-      "counterpoint": "Uma leitura favorável à transição gradual sustenta que a abertura abrupta pode pressionar empresas e empregos em setores expostos à concorrência externa e que regras sanitárias e de origem protegem padrões legítimos. Também é verdade que uma preferência tarifária não elimina custos logísticos nem assegura que consumidores recebam integralmente os ganhos. O teste honesto será observar os resultados ao longo do tempo, inclusive quem se beneficia e quem arca com os custos de adaptação.",
-      "sources": [
-        {
-          "name": "MDIC — Acordo Mercosul–EFTA abre oportunidades para exportações à Noruega, 31/10/2026",
-          "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/outubro/acordo-mercosul-efta-abre-novas-oportunidades-para-exportacoes-brasileiras-a-noruega-em-1o-de-novembro"
-        },
-        {
-          "name": "Siscomex — Exportação nº 026/2026, 23/10/2026",
-          "url": "https://www.gov.br/siscomex/pt-br/noticias/noticias-siscomex-exportacao/comunicados/exportacao-no-2026-026/"
-        },
-        {
-          "name": "MDIC — Regras de cotas para exportadores à Noruega, 20/10/2026",
-          "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/outubro/brasil-define-regras-para-exportadores-acessarem-cotas-do-acordo-mercosul2013efta-na-noruega"
         }
       ]
     }
