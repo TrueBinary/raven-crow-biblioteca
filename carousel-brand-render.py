@@ -1,5 +1,5 @@
 """Raven Crow visual standard: reference-style editorial carousel, no publishing side effects."""
-import argparse, json, hashlib, math, random
+import argparse, json, hashlib, math, random, re
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont, ImageEnhance, ImageFilter
 W,H=1080,1350
@@ -28,9 +28,15 @@ def title(d,s,y,max_height,accent=True,x=58,width=960,initial=128):
         if len(ls)*step<=max_height:break
     if len(ls)*step>max_height:raise ValueError("headline overflow: "+s)
     for i,line in enumerate(ls):
-        # Last line carries the brand accent, as in the supplied reference.
-        color=RED if accent and i==len(ls)-1 else WHITE
-        d.text((x,y+i*step),line,font=f,fill=color,stroke_width=0)
+        if accent and len(ls)==1 and " " in line:
+            # Single-line headline: only the decisive last word is red.
+            prefix,last=line.rsplit(" ",1)
+            prefix+=" "
+            d.text((x,y+i*step),prefix,font=f,fill=WHITE)
+            d.text((x+d.textlength(prefix,font=f),y+i*step),last,font=f,fill=RED)
+        else:
+            color=RED if accent and i==len(ls)-1 else WHITE
+            d.text((x,y+i*step),line,font=f,fill=color,stroke_width=0)
     return y+len(ls)*step
 def body(d,s,y,limit,fontsize=45,x=62,width=935):
     for sz in range(fontsize,27,-2):
@@ -78,6 +84,45 @@ def photo_strip(im,image,y=825,bottom=1235):
         dr.line((0,yy,W,yy),fill=(9,9,13,alpha))
     src=Image.alpha_composite(src.convert("RGBA"),layer).convert("RGB")
     im.paste(src,(0,y))
+def editorial_beats(text):
+    """Keep complete sentences intact; never cut slide copy into arbitrary thirds."""
+    sentences=[part.strip() for part in re.split(r"(?<=[.!?])\s+",text.strip()) if part.strip()]
+    if len(sentences)<=3:return sentences
+    return sentences[:2]+[" ".join(sentences[2:])]
+
+def slide_points(slide):
+    """Up to three editorial beats; the supplied reference uses three icon rows."""
+    if "points" not in slide:
+        return [{"text":text,"icon":name} for text,name in zip(editorial_beats(slide.get("body","")),("package","factory","handshake"))]
+    points=slide["points"]
+    if not isinstance(points,list) or not 1<=len(points)<=3:
+        raise ValueError("Use one to three meaningful points, not arbitrary chunks")
+    for point in points:
+        if not isinstance(point,dict) or not str(point.get("text","")).strip():
+            raise ValueError("Each point needs a nonempty text")
+    return points
+
+def line_icon(d,kind,x,y):
+    """Simple original monoline pictograms, like the Mercosul/EFTA reference."""
+    color=WHITE
+    if kind=="package":
+        d.polygon([(x+18,y+25),(x+52,y+10),(x+86,y+25),(x+52,y+41)],outline=color,width=4)
+        d.line((x+18,y+25,x+18,y+78,x+52,y+95,x+86,y+78,x+86,y+25),fill=color,width=4)
+        d.line((x+52,y+41,x+52,y+95),fill=color,width=4)
+    elif kind=="factory":
+        d.line((x+14,y+85,x+14,y+47,x+40,y+66,x+40,y+47,x+65,y+65,x+65,y+37,x+91,y+37,x+91,y+85,x+14,y+85),fill=color,width=4)
+        d.line((x+72,y+37,x+72,y+15,x+86,y+15,x+86,y+37),fill=color,width=4)
+        for dx in (31,50,72):
+            d.rectangle((x+dx,y+71,x+dx+9,y+80),outline=color,width=2)
+    elif kind=="handshake":
+        d.line((x+8,y+47,x+28,y+23,x+49,y+43,x+60,y+33,x+91,y+54),fill=color,width=5)
+        d.line((x+8,y+47,x+25,y+72,x+39,y+60,x+62,y+82,x+91,y+54),fill=color,width=5)
+        d.line((x+35,y+51,x+67,y+74),fill=color,width=4)
+        d.line((x+29,y+61,x+54,y+82),fill=color,width=4)
+    else:
+        d.ellipse((x+18,y+18,x+88,y+88),outline=color,width=4)
+        d.line((x+34,y+54,x+48,y+68,x+74,y+38),fill=color,width=5)
+
 def render(slide,idx,total,logo,date):
     im,d=base(logo,idx,total,date)
     section=slide.get("section","RAVEN CROW").upper()
@@ -91,10 +136,13 @@ def render(slide,idx,total,logo,date):
         if slide.get("image"):
             photo_strip(im,slide["image"],y=max(725,end+155))
         else:
-            d.rounded_rectangle((58,850,1020,1195),radius=15,outline=RED,width=5)
-            d.text((90,900),"RAVEN CROW",font=font(90,True),fill=WHITE)
-            d.line((90,1020,950,1020),fill=RED,width=8)
-            d.text((90,1050),"ANÁLISE  /  CONTEXTO",font=font(48,True),fill=RED)
+            # No unrelated stock image or generic presentation card as a substitute.
+            # Keep the same bold documentary cover grid, without inventing a photo.
+            d.rectangle((58,867,1024,1188),outline="#6E252E",width=3)
+            d.rectangle((58,867,76,1188),fill=RED)
+            d.text((110,916),"O CORVO",font=font(100,True),fill=WHITE)
+            d.text((110,1020),"INVESTIGADOR",font=font(100,True),fill=RED)
+            d.line((110,1145,905,1145),fill=RED,width=6)
         # re-add footer over the photo
         d=ImageDraw.Draw(im)
         d.rectangle((0,1237,W,1350),fill=DARK)
@@ -102,35 +150,35 @@ def render(slide,idx,total,logo,date):
         d.text((58,1274),"O CORVO INVESTIGADOR  /  "+date,font=font(22),fill=WHITE)
         d.text((920,1270),f"{idx:02}/{total:02}",font=font(29,True),fill=RED)
     else:
-        d.text((58,173),section[:42],font=font(27,True),fill=RED)
-        end=title(d,text,262,390,initial=120)
+        # The image reference has NO redundant category label on interiors.
+        end=title(d,text,242,410,initial=120)
         d.rectangle((58,end+18,300,end+29),fill=RED)
         if idx==total:
             y=body(d,content,end+75,920,fontsize=52)
             box_y=max(940,y+70)
-            d.rounded_rectangle((58,box_y,1024,1160),radius=10,fill="#9B2530")
-            d.text((88,box_y+39),slide.get("cta1","LEIA A ANÁLISE"),font=font(58,True),fill=WHITE)
-            d.text((88,box_y+106),slide.get("cta2","NA COLUNA DO CORVO  →"),font=font(40,True),fill=WHITE)
+            if box_y>=1080:raise ValueError("CTA has no safe vertical space")
+            d.rounded_rectangle((58,box_y,1024,1160),radius=10,fill=RED)
+            call1=slide.get("cta1","LEIA A ANÁLISE COMPLETA").upper()
+            call2=slide.get("cta2","NA COLUNA DO CORVO").upper()
+            for sz in range(53,31,-2):
+                if d.textbbox((0,0),call1,font=font(sz,True))[2]<815:break
+            d.text((88,box_y+35),call1,font=font(sz,True),fill=WHITE)
+            d.text((88,box_y+102),call2,font=font(38,True),fill=WHITE)
+            # White forward arrow is a graphic element, not a fake clickable button.
+            d.line((947,box_y+104,991,box_y+104),fill=WHITE,width=7)
+            d.line((975,box_y+88,991,box_y+104,975,box_y+120),fill=WHITE,width=7)
         else:
-            # Divide the exact source sentence into three editorial reading beats.
-            words=content.split()
-            cuts=[round(len(words)/3),round(2*len(words)/3)]
-            chunks=[" ".join(words[:cuts[0]])," ".join(words[cuts[0]:cuts[1]])," ".join(words[cuts[1]:])]
-            row_start=max(end+70,645)
-            row_step=min(184,(1190-row_start)//3)
-            for j,chunk in enumerate(chunks):
-                if not chunk:continue
+            # Mercosul/EFTA: real editorial beats (never split by number of words).
+            points=slide_points(slide)
+            row_start=max(end+70,560)
+            row_step=min(232,(1185-row_start)//max(1,len(points)))
+            if row_step<142:raise ValueError("Headline leaves no space for interior points")
+            for j,point in enumerate(points):
                 y=row_start+j*row_step
-                d.rounded_rectangle((60,y,174,y+112),radius=10,outline="#842833",width=4)
-                if j==0:
-                    d.rectangle((91,y+28,144,y+83),outline=WHITE,width=5)
-                elif j==1:
-                    d.ellipse((91,y+25,136,y+70),outline=WHITE,width=5)
-                    d.line((131,y+70,153,y+92),fill=WHITE,width=5)
-                else:
-                    d.line((89,y+57,112,y+82,153,y+26),fill=WHITE,width=6)
-                body(d,chunk,y+12,y+122,fontsize=43,x=214,width=795)
-                d.line((60,y+row_step-18,1025,y+row_step-18),fill="#64202B",width=2)
+                d.rounded_rectangle((64,y,180,y+114),radius=9,outline="#912933",width=4)
+                line_icon(d,point.get("icon",("package","factory","handshake")[j]),70,y+6)
+                body(d,point["text"],y+8,y+row_step-22,fontsize=43,x=212,width=805)
+                d.line((62,y+row_step-16,1022,y+row_step-16),fill="#64202B",width=2)
     return im
 def main():
     ap=argparse.ArgumentParser();ap.add_argument("spec");ap.add_argument("out");ap.add_argument("--logo",required=True);ap.add_argument("--date",default="03 NOV 2026");a=ap.parse_args()
@@ -146,6 +194,6 @@ def main():
             if check.size!=(W,H):raise ValueError("invalid size")
         assets.append({"file":p.name,"sha256":hashlib.sha256(p.read_bytes()).hexdigest(),"size":[W,H]})
     (out/"caption.txt").write_text(spec["caption"],encoding="utf-8")
-    (out/"manifest.json").write_text(json.dumps({"articleId":spec["articleId"],"style":"raven_reference_v2","status":"RENDERED_NEEDS_QA","assets":assets,"sources":spec.get("sources",[]),"photoCredits":spec.get("photoCredits",[])},ensure_ascii=False,indent=2),encoding="utf-8")
+    (out/"manifest.json").write_text(json.dumps({"articleId":spec["articleId"],"style":"raven_reference_v2","designProfile":"mercosul_efta_2026_11_02_locked","status":"RENDERED_NEEDS_QA","visualQa":{"cover":False,"interior":False,"cta":False},"httpsVerified":False,"assets":assets,"sources":spec.get("sources",[]),"photoCredits":spec.get("photoCredits",[])},ensure_ascii=False,indent=2),encoding="utf-8")
     print(json.dumps({"articleId":spec["articleId"],"count":len(assets),"status":"RENDERED_NEEDS_QA"}))
 if __name__=="__main__":main()
