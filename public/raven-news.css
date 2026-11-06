@@ -1,0 +1,30 @@
+/* Raven Crow news index. Home and news use identical magazine cards. */
+:root{color-scheme:dark;--rnc-red:#d42d36;--rnc-white:#f5f2f1;--rnc-line:#39363b}
+html{scroll-behavior:smooth}
+body.rc-news-index{margin:0;background:#0a0b0d;color:var(--rnc-white);font:16px/1.55 'DM Sans',Arial,sans-serif}
+.rc-news-intro{max-width:1180px;margin:0 auto;padding:61px 24px 25px;border-bottom:1px solid var(--rnc-line)}
+.rc-news-eyebrow{color:#e87c82;font-size:11px;font-weight:800;letter-spacing:.17em;margin:0}
+.rc-news-intro h1{font:900 clamp(65px,9vw,115px)/.92 'Barlow Condensed',Impact,sans-serif;letter-spacing:-.015em;margin:22px 0 24px}
+.rc-news-intro h1 em{color:#e03942;font-style:normal}
+.rc-news-intro-bar{display:flex;justify-content:space-between;gap:18px;align-items:end}
+.rc-news-intro-bar p{max-width:675px;margin:0;color:#d1cccd;font-size:clamp(15px,2.1vw,20px)}
+#news-count{flex-shrink:0;font-size:12px;font-weight:800;color:#ff8a8f;white-space:nowrap}
+.rc-news-index .rc-magazine{padding-top:24px}
+.rc-news-index .rc-mag-hero{scroll-margin-top:105px}
+.rc-news-index .rc-mag-item{scroll-margin-top:105px}
+.rc-news-index .rc-mag-item h3{line-height:1.1}
+.rc-news-index .rc-mag-hero-content{padding:33px}
+.rc-news-index .rc-mag-photo-credits{margin-top:20px}
+.rc-news-noscript{max-width:1180px;margin:0 auto;padding:30px 24px}.rc-news-noscript a{color:#e7dfe0}
+.rc-news-next{max-width:1132px;border-top:2px solid #aa252e;margin:30px auto 60px;padding:30px 24px 0;display:flex;align-items:center;justify-content:space-between;gap:30px}
+.rc-news-next span{font-size:11px;color:#ff858a;font-weight:800;letter-spacing:.14em}
+.rc-news-next h2{font:900 clamp(28px,4vw,43px)/1 'Barlow Condensed',Impact,sans-serif;margin:10px 0}
+.rc-news-next p{font-size:14px;color:#c4bfc2;margin:0;max-width:560px}
+.rc-news-next nav{display:flex;gap:12px;flex-wrap:wrap}
+.rc-news-next nav a{background:#b71f29;color:#fff;text-decoration:none;font-size:13px;font-weight:800;border-radius:4px;padding:12px 16px;white-space:nowrap}
+.rc-news-next nav a+ a{background:transparent;border:1px solid #8f343b}
+.rc-news-next nav a:hover{background:#df3942}
+.rc-news-footer{max-width:1180px;margin:auto;border-top:1px solid #363137;padding:24px;color:#aba5a8;font-size:12px}
+.rc-news-footer a{color:#e8dee0;text-decoration:none}
+@media(max-width:700px){.rc-news-intro{padding:40px 18px 20px}.rc-news-intro h1{font-size:clamp(57px,12vw,81px)}.rc-news-intro-bar{align-items:start;flex-direction:column}.rc-news-next{margin:28px 18px 45px;padding:24px 0;display:block}.rc-news-next nav{margin-top:19px}.rc-news-index .rc-mag-hero-content{padding:23px 17px}.rc-news-index .rc-mag-item{grid-template-columns:105px minmax(0,1fr)}.rc-news-footer{padding:22px 18px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}

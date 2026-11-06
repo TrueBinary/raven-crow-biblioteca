@@ -10,6 +10,9 @@ on:
       - 'public/arquivo/**'
       - 'public/coluna-ensaios.json'
       - 'build-column.py'
+      - 'build-news-index.py'
+      - 'build-library.py'
+      - 'index.html'
 permissions:
   contents: write
 jobs:
@@ -22,8 +25,10 @@ jobs:
           python-version: '3.12'
       - run: python build-raven.py
       - run: python build-column.py
+      - run: python build-news-index.py
+      - run: python build-library.py
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index.html public/noticias.html public/noticias public/sitemap.xml public/robots.txt public/raven-analytics.js public/editorial-feed.json public/editorial-images.json public/editorial/covers public/editorial/photos public/editorial-photo-credits.json public/creditos-fotos.html public/coluna.html public/coluna
+          git add index.html public/noticias.html public/noticias public/sitemap.xml public/robots.txt public/raven-analytics.js public/editorial-feed.json public/editorial-images.json public/editorial/covers public/editorial/photos public/editorial-photo-credits.json public/creditos-fotos.html public/coluna.html public/coluna public/livros.html public/livros.json
           if ! git diff --cached --quiet; then git commit -m "Atualizar paginas indexaveis da Coluna"; git push; fi
