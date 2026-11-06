@@ -18,6 +18,15 @@ class VisualFidelity(unittest.TestCase):
   data=json.loads((ROOT/'public/editorial-feed.json').read_text(encoding='utf-8'))
   self.assertGreaterEqual(len(data['articles']),6)
   self.assertEqual(len({a['id'] for a in data['articles']}),len(data['articles']))
+ def test_generated_covers_for_every_article(self):
+  import json
+  data=json.loads((ROOT/'public/editorial-feed.json').read_text(encoding='utf-8'))
+  manifest=json.loads((ROOT/'public/editorial-images.json').read_text(encoding='utf-8'))
+  for article in data['articles']:
+   self.assertIn(article['id'],manifest['covers'])
+   path=ROOT/'public'/manifest['covers'][article['id']]
+   self.assertTrue(path.exists(),str(path))
+   self.assertIn('<svg',path.read_text(encoding='utf-8'))
  def test_photo_responsive_styles(self):
   css=(ROOT/'public/raven-unified.css').read_text(encoding='utf-8')
   self.assertIn('.rc-mag-hero-image',css)

@@ -6,8 +6,9 @@ const imagePath=(a,assets)=>{
  const explicit=typeof a.image==='string'?a.image:'';
  if(/^\/?(?:images|editorial)\/[a-zA-Z0-9/_-]+\.(?:jpg|jpeg|png|webp)$/.test(explicit))return explicit.replace(/^\//,'');
  const key=String(a.id||'').replace(/-2026$/,'');
- const folder=assets.find(x=>x.endsWith('-'+a.id)||x.endsWith('-'+key)||x.includes(key));
- return folder?'carrosseis/'+folder+'/slide1.png':null;
+ const folders=Array.isArray(assets.carousels)?assets.carousels:[];
+ const folder=folders.find(x=>x.endsWith('-'+a.id)||x.endsWith('-'+key)||x.includes(key));
+ return folder?'carrosseis/'+folder+'/slide1.png':(assets.covers&&assets.covers[a.id])||null;
 };
 const readingTime=a=>Math.max(2,Math.ceil(((a.facts||'')+' '+(a.analysis||'')+' '+(a.counterpoint||'')).split(/\s+/).length/210));
 const formatDate=date=>{if(!/^\d{4}-\d{2}-\d{2}$/.test(date||''))return 'Raven Crow';const [y,m,d]=date.split('-');return d+'/'+m+'/'+y};
@@ -15,7 +16,7 @@ const image=(path,cls,alt,eager=false)=>{const el=make('img',cls);el.src=path;el
 try{
 const [response,manifest]=await Promise.all([fetch('editorial-feed.json',{cache:'no-store'}),fetch('editorial-images.json').then(r=>r.ok?r.json():[]).catch(()=>[])]);
 if(!response.ok)throw Error('feed unavailable');
-const feed=await response.json(),stories=Array.isArray(feed.articles)?feed.articles.slice(0,8):[],assets=Array.isArray(manifest)?manifest:[];
+const feed=await response.json(),stories=Array.isArray(feed.articles)?feed.articles.slice(0,8):[],assets=manifest&&typeof manifest==='object'?manifest:{};
 if(!stories.length){root.hidden=true;return}
 root.textContent='';root.classList.add('rc-magazine');
 const main=make('div','rc-mag-main'),side=make('aside','rc-mag-side');root.append(main,side);
