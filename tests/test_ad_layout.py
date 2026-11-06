@@ -12,8 +12,8 @@ class AdLayoutTest(unittest.TestCase):
  def test_shared_header(self):
   home=(ROOT/'index.html').read_text(encoding='utf-8')
   news=(ROOT/'public/noticias.html').read_text(encoding='utf-8')
-  self.assertIn('class="site-header"',news)
-  self.assertIn('class="wrap header-in"',news)
+  self.assertIn('class="rc-global-header"',news)
+  self.assertIn('class="rc-global-nav"',news)
   self.assertIn('raven-unified.css',home)
   self.assertIn('raven-unified.css',news)
 if __name__=='__main__':unittest.main()
