@@ -21,7 +21,7 @@ if(!stories.length){root.hidden=true;return}
 root.textContent='';root.classList.add('rc-magazine');
 const main=make('div','rc-mag-main'),side=make('aside','rc-mag-side');root.append(main,side);
 const lead=stories[0],hero=make('a','rc-mag-hero');hero.href='noticias/'+encodeURIComponent(lead.id)+'/';
-const leadImage=imagePath(lead,assets);if(leadImage)hero.append(image(leadImage,'rc-mag-hero-image','Arte editorial da matéria: '+lead.title,true));
+const leadImage=imagePath(lead,assets);if(assets.photos&&assets.photos[lead.id])hero.append(image(assets.photos[lead.id],'rc-mag-hero-image','Fotografia da matéria: '+lead.title,true));
 const heroContent=make('div','rc-mag-hero-content');
 heroContent.append(make('span','rc-mag-tag',lead.category||'Notícias'),make('h2','',lead.title),make('p','',lead.subtitle||'Confira os fatos e a análise completa.'));
 heroContent.append(make('span','rc-mag-meta',formatDate(lead.date)+'  ·  '+readingTime(lead)+' min de leitura'));hero.append(heroContent);main.append(hero);
