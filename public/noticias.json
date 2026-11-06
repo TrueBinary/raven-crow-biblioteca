@@ -1,10 +1,38 @@
 {
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
-  "edition": "04/11/2026",
-  "updatedAt": "2026-11-04T09:17:30-03:00",
+  "edition": "06/11/2026",
+  "updatedAt": "2026-11-06T18:02:30-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "gecex-prorroga-imposto-exportacao-petroleo-2026",
+      "category": "ECONOMIA",
+      "date": "2026-11-06",
+      "title": "Imposto de 12% sobre petróleo fica até dezembro: o custo de governar por exceções",
+      "subtitle": "Resolução Gecex nº 977 estende a tributação das exportações de petróleo bruto até 31 de dezembro; medida reacende debate sobre abastecimento, segurança jurídica e investimentos.",
+      "facts": "A Resolução Gecex nº 977, assinada em 5 de novembro e publicada no Diário Oficial da União em 6 de novembro de 2026, prorrogou até 31 de dezembro a alíquota de 12% do imposto sobre exportação de óleos brutos de petróleo e minerais betuminosos classificados na NCM 2709. A norma entra em vigor em 7 de novembro e remete à Resolução Gecex nº 938, de 9 de julho. A medida é objeto de controvérsia no setor petrolífero e de disputas judiciais, sem que a publicação desta resolução represente decisão definitiva sobre sua constitucionalidade.",
+      "analysis": "A prorrogação anunciada em 6 de novembro recoloca uma pergunta incômoda no centro da política econômica: até quando uma intervenção apresentada como excepcional pode se transformar em regra previsível? O governo sustenta a necessidade de proteger o abastecimento interno de derivados em um ambiente internacional incerto. Mas uma alíquota de 12% sobre a exportação de petróleo bruto altera o retorno esperado de investimentos e a escolha entre vender ao mercado externo ou ao doméstico. O custo não desaparece porque a cobrança se apresenta como instrumento regulatório.\n\nNa perspectiva opinativa do Raven Crow, ancorada na propriedade privada, nos limites do Estado e na tradição da economia austríaca, preços e lucros são sinais para coordenar produção, risco e investimento. Tributar uma operação para favorecer outro objetivo pode deslocar capital e criar incentivos que o governo não controla integralmente. O custo de oportunidade inclui projetos que deixam de ser iniciados, capacidade futura que demora a chegar e menor previsibilidade para empresas e trabalhadores. Isso não prova, por si, que a medida causará desabastecimento ou queda imediata da produção: exige acompanhamento de dados.\n\nHá ainda uma questão institucional. A continuidade do imposto por resoluções administrativas, após a perda de validade da medida provisória que o instituiu, gerou questionamentos jurídicos. Não cabe transformar essas contestações em sentença já proferida. Cabe, sim, exigir clareza sobre fundamento legal, duração, resultados e estratégia de saída. O contribuinte e o investidor precisam saber quais regras prevalecerão amanhã. Segurança energética não deveria ser pretexto para abandonar segurança jurídica.",
+      "counterpoint": "O argumento favorável à prorrogação é relevante: conflitos internacionais podem afetar oferta e preços de combustíveis, e o governo tem responsabilidade de preservar o abastecimento e mitigar choques ao consumidor. O imposto de exportação também pode ser usado como instrumento de política comercial. Seus defensores sustentam que a medida protege o mercado interno; avaliar essa hipótese exige observar produção, refino, preços e oferta efetiva, e não apenas presumir que toda intervenção fracassa.",
+      "sources": [
+        {
+          "name": "Diário Oficial da União — Resolução Gecex nº 977, de 05/11/2026, publicada em 06/11/2026",
+          "url": "https://www.in.gov.br/web/dou/-/resolucao-gecex-n-977-de-5-de-novembro-de-2026-742148477"
+        },
+        {
+          "name": "Ministério do Desenvolvimento, Indústria, Comércio e Serviços — deliberação original Gecex, 09/07/2026",
+          "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/julho/gecex-delibera-sobre-imposto-de-exportacao-de-petroleo"
+        },
+        {
+          "name": "Reuters — Brazil extends oil export tax through year end, 06/11/2026",
+          "url": "https://www.reuters.com/business/energy/brazil-extends-oil-export-tax-through-year-end-advances-us-reciprocity-process-2026-11-06/"
+        },
+        {
+          "name": "Correio Braziliense — Governo prorroga imposto de 12% sobre exportação de petróleo, 06/11/2026",
+          "url": "https://www.correiobraziliense.com.br/economia/2026/11/7534300-governo-prorroga-imposto-de-12-sobre-exportacao-de-petroleo-ate-dezembro.html"
+        }
+      ]
+    },
     {
       "id": "cmo-creditos-roraima-regra-de-ouro-2026",
       "category": "ECONOMIA",
