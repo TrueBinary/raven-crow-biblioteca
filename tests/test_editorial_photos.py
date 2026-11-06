@@ -23,4 +23,18 @@ class EditorialPhotoTests(unittest.TestCase):
     result=fetch_photos(Path(t),[{'id':'mercosul-efta','title':'Mercosul e EFTA fecham acordo'}])
    self.assertIn('mercosul-efta',result)
    self.assertEqual(result['mercosul-efta']['license'],'CC BY-SA 4.0')
+ def test_updates_cached_photo_if_curated_source_changed(self):
+  import json
+  from editorial_photos import CURATED_FILES
+  slug='eleicoes-2026'
+  correct=CURATED_FILES[slug]
+  candidate={'title':correct,'license':'Public domain','url':'https://upload.wikimedia.org/wikipedia/commons/a/ab/urna.jpg','page':'https://commons.wikimedia.org/wiki/File:Brazilian_DRE_voting_machine_for_2022_elections.jpg','width':1200,'height':800,'artist':'Archive'}
+  with TemporaryDirectory() as t:
+   p=Path(t); folder=p/'editorial'/'photos';folder.mkdir(parents=True)
+   (folder/(slug+'.jpg')).write_bytes(b'old')
+   (p/'editorial-photo-credits.json').write_text(json.dumps({slug:{'path':'editorial/photos/'+slug+'.jpg','commons_title':'File:Old unrelated photo.jpg'}}),encoding='utf-8')
+   with patch('editorial_photos.lookup_commons',return_value=candidate),patch('editorial_photos.download_photo',return_value=b'\\xff\\xd8\\xff'+b'0'*5000):
+    result=fetch_photos(p,[{'id':slug,'title':'Após eleição'}])
+   self.assertEqual(result[slug]['commons_title'],correct)
+   self.assertGreater((folder/(slug+'.jpg')).stat().st_size,1000)
 if __name__=='__main__':unittest.main()

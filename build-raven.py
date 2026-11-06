@@ -1,7 +1,7 @@
 from pathlib import Path
 import json,html,re,os
 from editorial_covers import build_covers
-from editorial_photos import fetch_photos
+from editorial_photos import fetch_photos, render_credits_page
 from urllib.parse import urlparse
 ROOT=Path(__file__).resolve().parent
 BASE='https://ravencrow.cloud'
@@ -76,7 +76,10 @@ editions=[data]+[json.loads(p.read_text(encoding='utf-8')) for p in sorted((ROOT
 articles={}
 for ed in editions:
     for a in ed.get('articles',[]):articles.setdefault(a.get('id'),(a,ed.get('updatedAt','')))
-(ROOT/'public/editorial-images.json').write_text(json.dumps({'carousels':sorted(p.parent.name for p in (ROOT/'public/carrosseis').glob('*/slide1.png')),'covers':build_covers(ROOT/'public',[a for a,_ in articles.values()]),'photos':{k:v['path'] for k,v in fetch_photos(ROOT/'public',[a for a,_ in articles.values()]).items()}},ensure_ascii=False,indent=2),encoding='utf-8')
+all_news_articles=[a for a,_ in articles.values()]
+photo_credits=fetch_photos(ROOT/'public',all_news_articles)
+render_credits_page(ROOT/'public',photo_credits,all_news_articles)
+(ROOT/'public/editorial-images.json').write_text(json.dumps({'carousels':sorted(p.parent.name for p in (ROOT/'public/carrosseis').glob('*/slide1.png')),'covers':build_covers(ROOT/'public',all_news_articles),'photos':{k:v['path'] for k,v in photo_credits.items()}},ensure_ascii=False,indent=2),encoding='utf-8')
 (ROOT/'public/editorial-feed.json').write_text(json.dumps({'articles':[a for a,_ in sorted(articles.values(),key=lambda pair:pair[0].get('date',''),reverse=True)]},ensure_ascii=False,indent=2),encoding='utf-8')
 for a,updated in articles.values():
     slug=str(a.get('id') or '')

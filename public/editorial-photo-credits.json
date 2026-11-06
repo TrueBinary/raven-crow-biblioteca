@@ -1,1 +1,58 @@
-{}
+{
+  "cmo-creditos-roraima-regra-de-ouro-2026": {
+    "path": "editorial/photos/cmo-creditos-roraima-regra-de-ouro-2026.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Brasilia_National_Congress_Buildings.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Cayambe",
+    "commons_title": "File:Brasilia National Congress Buildings.jpg",
+    "illustrative": true
+  },
+  "sac-atendimento-humano-2026": {
+    "path": "editorial/photos/sac-atendimento-humano-2026.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Callcentre.jpg",
+    "license": "Public domain",
+    "artist": "Petiatil (talk) on Wikipedia-en.",
+    "commons_title": "File:Callcentre.jpg",
+    "illustrative": true
+  },
+  "record-kids-classificacao-12-anos-2026": {
+    "path": "editorial/photos/record-kids-classificacao-12-anos-2026.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Holy_bible_book.jpg",
+    "license": "Public domain",
+    "artist": "Leon Brooks",
+    "commons_title": "File:Holy bible book.jpg",
+    "illustrative": true
+  },
+  "mercosul-efta-noruega-2026": {
+    "path": "editorial/photos/mercosul-efta-noruega-2026.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Nossa_Bras%C3%ADlia_-_Bandeira_Nacional_(27878027722).jpg",
+    "license": "CC BY 2.0",
+    "artist": "Agência Brasília from Brasília, Brasil",
+    "commons_title": "File:Nossa Brasília - Bandeira Nacional (27878027722).jpg",
+    "illustrative": true
+  },
+  "eleicoes-2026": {
+    "path": "editorial/photos/eleicoes-2026.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Brazilian_DRE_voting_machine_for_2022_elections.jpg",
+    "license": "Public domain",
+    "artist": "Superior Electoral Court of Brazil",
+    "commons_title": "File:Brazilian DRE voting machine for 2022 elections.jpg",
+    "illustrative": true
+  },
+  "contas-publicas-2026": {
+    "path": "editorial/photos/contas-publicas-2026.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio_%22Sede%22_do_Banco_Central_do_Brasil_em_Bras%C3%ADlia.jpg",
+    "license": "CC BY 2.0",
+    "artist": "Banco Central do Brasil",
+    "commons_title": "File:Edifício \"Sede\" do Banco Central do Brasil em Brasília.jpg",
+    "illustrative": true
+  },
+  "inflacao-poder-compra": {
+    "path": "editorial/photos/inflacao-poder-compra.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:20_Brazilian_Real_banknote_featuring_a_Golden_Lion_Tamarin_monkey.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Oleg Yunakov",
+    "commons_title": "File:20 Brazilian Real banknote featuring a Golden Lion Tamarin monkey.jpg",
+    "illustrative": true
+  }
+}

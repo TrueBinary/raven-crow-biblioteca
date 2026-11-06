@@ -142,3 +142,13 @@ body,body.rc-unified-news{background:var(--rc-bg);color:var(--rc-cream)}
 @media(prefers-reduced-motion:reduce){.rc-mag-item-image{transition:none}.rc-mag-item:hover .rc-mag-item-image{transform:none}}
 
 @media(max-width:700px){.rc-mag-hero{min-height:0;display:block}.rc-mag-hero-content{padding:24px 18px}.rc-mag-hero-content h2{font-size:clamp(30px,7.5vw,42px);line-height:1.08;max-width:none;overflow-wrap:break-word;margin:16px 0 12px}.rc-mag-hero-content p{font-size:14px;line-height:1.48}.rc-mag-hero .rc-mag-meta{display:block;margin-top:16px}}
+
+/* Photographic news cards: no cropped headline embedded inside thumbnails. */
+.rc-mag-thumbnail-empty{background:radial-gradient(circle at 65% 20%,#3d131b 0%,#16171b 70%)!important;border:1px solid #51252b;overflow:hidden}
+.rc-mag-placeholder{display:block;max-width:75%;max-height:80%;width:auto;height:auto;object-fit:contain;opacity:.72;filter:drop-shadow(0 3px 12px rgba(0,0,0,.45))}
+.rc-mag-photo-credits{display:block;font:600 12px/1.5 'DM Sans',Arial,sans-serif;color:#a9a6a8;text-decoration:underline;text-underline-offset:3px;margin:15px 0 5px}
+.rc-mag-photo-credits:hover,.rc-mag-photo-credits:focus-visible{color:#ff8a8f}
+.rc-mag-side .rc-ad-slot{width:100%;align-items:center;margin:0 0 28px}
+.rc-mag-side .rc-ad-frame{min-height:600px;width:160px;overflow:hidden}
+.rc-ad-slot.rc-ad-unfilled{display:none!important}
+@media(max-width:900px){.rc-mag-side .rc-ad-slot{display:none!important}.rc-mag-photo-credits{font-size:11px}}

@@ -7,7 +7,9 @@ class MobileRegression(unittest.TestCase):
   self.assertIn('.rc-global-nav a:not(.top-cta){display:inline-flex',css)
  def test_hero_does_not_overlay_text_on_generated_cover(self):
   js=(ROOT/'public/raven-frontpage.js').read_text(encoding='utf-8')
-  self.assertIn('assets.photos&&assets.photos[lead.id]',js)
+  self.assertIn('const leadPhoto=imagePath(lead,assets)',js)
+  self.assertIn('if(leadPhoto)',js)
+  self.assertNotIn("'carrosseis/'+folder+'/slide1.png'",js)
   self.assertIn('rc-mag-hero-image',js)
  def test_mobile_title_legible(self):
   css=(ROOT/'public/raven-unified.css').read_text(encoding='utf-8')

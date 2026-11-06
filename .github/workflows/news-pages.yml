@@ -22,5 +22,5 @@ jobs:
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index.html public/noticias.html public/noticias public/sitemap.xml public/robots.txt public/raven-analytics.js public/editorial-feed.json public/editorial-images.json public/editorial/covers public/editorial/photos public/editorial-photo-credits.json
+          git add index.html public/noticias.html public/noticias public/sitemap.xml public/robots.txt public/raven-analytics.js public/editorial-feed.json public/editorial-images.json public/editorial/covers public/editorial/photos public/editorial-photo-credits.json public/creditos-fotos.html
           if ! git diff --cached --quiet; then git commit -m "Atualizar paginas indexaveis da Coluna"; git push; fi
