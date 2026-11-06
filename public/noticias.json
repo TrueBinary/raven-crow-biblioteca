@@ -2,9 +2,33 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "06/11/2026",
-  "updatedAt": "2026-11-06T18:42:49-03:00",
+  "updatedAt": "2026-11-06T20:03:31-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "cnpe-aprova-plano-transicao-energetica-2026",
+      "category": "ECONOMIA",
+      "date": "2026-11-06",
+      "title": "Transição energética aprovada: quem vai pagar pelas escolhas do governo?",
+      "subtitle": "CNPE aprova o Plante com ciclos de quatro anos; desafio é conciliar segurança energética, investimentos e liberdade de inovação.",
+      "facts": "Em 6 de novembro de 2026, o Conselho Nacional de Política Energética aprovou o Plano Nacional de Transição Energética (Plante), instrumento da política instituída pela Resolução CNPE nº 5/2024. O plano articula estratégia de longo prazo e ciclos de implementação de quatro anos. Segundo o Ministério de Minas e Energia, a consulta pública recebeu mais de 1.400 contribuições e resultou em mais de 400 ajustes. A resolução também cria grupo técnico para monitorar e revisar a execução. A aprovação do plano não equivale à proibição imediata da produção de petróleo ou à imposição automática de todas as medidas discutidas.",
+      "analysis": "O Brasil aprovou um roteiro para sua transição energética, mas o teste decisivo começa depois da cerimônia: quais escolhas serão feitas, por quem e com qual custo? Planejar investimentos e organizar dados pode reduzir incertezas. Não elimina, porém, a escassez de capital, nem a necessidade de escolher entre projetos concorrentes. Cada incentivo público reservado a uma tecnologia deixa de estar disponível para outra finalidade.\n\nDa perspectiva editorial do Raven Crow, fundada nos limites do Estado, na propriedade privada e na tradição da economia austríaca, a transição mais robusta é aquela em que preços, concorrência e empreendedorismo ajudam a descobrir soluções. Uma diretriz estatal não conhece antecipadamente todas as inovações possíveis, tampouco substitui o cálculo econômico descentralizado. A previsibilidade das regras e a proteção de contratos importam tanto quanto a ambição ambiental.\n\nIsso não torna irrelevantes a poluição, as emissões ou os custos impostos a terceiros. O direito natural à integridade das pessoas e ao uso legítimo da propriedade exige que danos sejam tratados com seriedade. A pergunta institucional é como responsabilizar quem causa prejuízos sem converter cada objetivo público em uma autorização ilimitada para escolher vencedores econômicos.\n\nO Plante terá ciclos de quatro anos e monitoramento técnico. Cabe agora exigir indicadores públicos, avaliação de resultados, transparência sobre subsídios e comparação entre alternativas. Sem isso, a palavra transição pode esconder transferência de custos ao consumidor e ao contribuinte. Com regras claras, pode abrir espaço para investimentos que não dependam de favores permanentes do governo.",
+      "counterpoint": "Defensores do planejamento nacional argumentam que redes elétricas, pesquisa, segurança de abastecimento e externalidades climáticas exigem coordenação de longo prazo que decisões isoladas de mercado não asseguram. A consulta pública e os ciclos de revisão podem permitir correções e previsibilidade. O mérito dessas promessas dependerá das medidas efetivamente adotadas, de sua transparência e dos resultados mensuráveis.",
+      "sources": [
+        {
+          "name": "Ministério de Minas e Energia — CNPE aprova Plano Nacional de Transição Energética, 06/11/2026",
+          "url": "https://www.gov.br/mme/pt-br/assuntos/noticias/novembro-26/cnpe-aprova-plano-nacional-de-transicao-energetica/"
+        },
+        {
+          "name": "Agência Gov — CNPE aprova cinco resoluções, 06/11/2026",
+          "url": "https://agenciagov.ebc.com.br/noticias/202611/cnpe-aprova-cinco-resolucoes-para-impulsionar-a-transicao-energetica-no-brasil"
+        },
+        {
+          "name": "eixos — CNPE aprova Plano Nacional de Transição Energética, 06/11/2026",
+          "url": "https://eixos.com.br/transicao-energetica/cnpe-aprova-plano-nacional-de-transicao-energetica-acoes-serao-revistas-a-cada-quatro-anos/"
+        }
+      ]
+    },
     {
       "id": "costanza-pena-taxem-os-pobres-paraguai-2026",
       "category": "MUNDO",
