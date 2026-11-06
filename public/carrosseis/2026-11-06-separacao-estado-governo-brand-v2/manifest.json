@@ -2,13 +2,13 @@
   "articleId": "2026-11-06-separacao-estado-governo",
   "style": "raven_reference_v2",
   "designProfile": "mercosul_efta_2026_11_02_locked",
-  "status": "RENDERED_NEEDS_QA",
+  "status": "QA_PASS",
   "visualQa": {
-    "cover": false,
-    "interior": false,
-    "cta": false
+    "cover": true,
+    "interior": true,
+    "cta": true
   },
-  "httpsVerified": false,
+  "httpsVerified": true,
   "assets": [
     {
       "file": "slide1.png",
@@ -57,5 +57,7 @@
       "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
     }
   ],
-  "photoCredits": []
+  "photoCredits": [],
+  "sourceCommit": "e8096f599dc0b804e9c84270bec7a1923143444d",
+  "reviewNote": "Manual contact-sheet QA + 20/20 PNG HTTPS 200 + original logo + primary reference review 2026-11-06"
 }
