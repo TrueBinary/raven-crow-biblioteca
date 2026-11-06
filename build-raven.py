@@ -74,6 +74,8 @@ editions=[data]+[json.loads(p.read_text(encoding='utf-8')) for p in sorted((ROOT
 articles={}
 for ed in editions:
     for a in ed.get('articles',[]):articles.setdefault(a.get('id'),(a,ed.get('updatedAt','')))
+(ROOT/'public/editorial-images.json').write_text(json.dumps(sorted(p.parent.name for p in (ROOT/'public/carrosseis').glob('*/slide1.png')),ensure_ascii=False,indent=2),encoding='utf-8')
+(ROOT/'public/editorial-feed.json').write_text(json.dumps({'articles':[a for a,_ in sorted(articles.values(),key=lambda pair:pair[0].get('date',''),reverse=True)]},ensure_ascii=False,indent=2),encoding='utf-8')
 for a,updated in articles.values():
     slug=str(a.get('id') or '')
     if not re.fullmatch(r'[a-z0-9-]{3,100}',slug):continue
