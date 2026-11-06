@@ -292,6 +292,24 @@
       "sourceHost": "raw.githubusercontent.com (commit-pinned)",
       "sourceCommit": "e8096f599dc0b804e9c84270bec7a1923143444d",
       "confirmedBy": "Buffer get_post 2026-11-06; 5 PNG assets; status scheduled"
+    },
+    {
+      "slotId": "2026-11-07T18:00:00-03:00|IG|2026-11-07-liberdade-negativa-positiva",
+      "articleId": "2026-11-07-liberdade-negativa-positiva",
+      "topicKey": "2026-11-07-liberdade-negativa-positiva",
+      "mediaHash": "ee629681560717e80b9a880d4a36f9d2a93ef2fc5203c6ecda782121032d8427",
+      "status": "SCHEDULED",
+      "targetTime": "2026-11-07T18:00:00-03:00",
+      "scheduledFor": "2026-11-07T18:00:00-03:00",
+      "postId": "6aedf047bbaeea3ce9f60ce1",
+      "assetPath": "public/carrosseis/2026-11-07-liberdade-negativa-positiva-brand-v2",
+      "assetStyle": "raven_reference_v2",
+      "mediaVersion": "6a9a0be2a1b7dad2c4d0d40baf2f040a8033facc",
+      "httpsVerified": true,
+      "qa": "PASS",
+      "sourceHost": "raw.githubusercontent.com (commit-pinned)",
+      "sourceCommit": "6a9a0be2a1b7dad2c4d0d40baf2f040a8033facc",
+      "confirmedBy": "Buffer get_post 2026-11-06; 5 PNG assets; status scheduled"
     }
   ]
 }
