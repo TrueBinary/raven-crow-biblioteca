@@ -1,0 +1,61 @@
+{
+  "articleId": "2026-11-07-liberdade-negativa-positiva",
+  "topicKey": "2026-11-07-liberdade-negativa-positiva",
+  "style": "raven_reference_v2",
+  "designProfile": "mercosul_efta_2026_11_02_locked",
+  "sources": [
+    {
+      "name": "Stanford Encyclopedia of Philosophy — Positive and Negative Liberty (rev. 2026)",
+      "url": "https://plato.stanford.edu/entries/liberty-positive-negative/"
+    }
+  ],
+  "photoCredits": [],
+  "slides": [
+    {
+      "section": "FILOSOFIA / HISTÓRIA",
+      "title": "LIBERDADE É SÓ NÃO SER PROIBIDO?",
+      "body": "Na filosofia política, liberdade pode significar coisas diferentes."
+    },
+    {
+      "section": "EXPLICAÇÃO",
+      "title": "LIBERDADE NEGATIVA",
+      "body": "É a ausência de interferência de outras pessoas nas suas escolhas.",
+      "points": [
+        {
+          "icon": "package",
+          "text": "É a ausência de interferência de outras pessoas nas suas escolhas."
+        }
+      ]
+    },
+    {
+      "section": "CONTEXTO",
+      "title": "LIBERDADE POSITIVA",
+      "body": "É poder orientar a própria vida e agir conforme seus objetivos.",
+      "points": [
+        {
+          "icon": "factory",
+          "text": "É poder orientar a própria vida e agir conforme seus objetivos."
+        }
+      ]
+    },
+    {
+      "section": "CONTRAPONTO",
+      "title": "E QUAL É O RISCO?",
+      "body": "Isaiah Berlin alertou: impor uma ideia de vida correta pode ameaçar a liberdade.",
+      "points": [
+        {
+          "icon": "handshake",
+          "text": "Isaiah Berlin alertou: impor uma ideia de vida correta pode ameaçar a liberdade."
+        }
+      ]
+    },
+    {
+      "section": "SÍNTESE / CTA",
+      "title": "QUE LIBERDADE VOCÊ DEFENDE?",
+      "body": "Uma ideia pergunta quem interfere. A outra, quem controla as próprias decisões.",
+      "cta1": "LEIA AS FONTES",
+      "cta2": "NA LEGENDA"
+    }
+  ],
+  "caption": "LIBERDADE É SÓ NÃO SER PROIBIDO?\n\nIsaiah Berlin ajudou a popularizar duas maneiras de pensar a liberdade: a negativa, ligada à ausência de interferência, e a positiva, ligada à autonomia. As duas levantam perguntas importantes — inclusive sobre quando proteger a liberdade vira justificativa para limitar escolhas.\n\nFonte: Stanford Encyclopedia of Philosophy — https://plato.stanford.edu/entries/liberty-positive-negative/\n\n#RavenCrow #FilosofiaPolitica #Liberdade"
+}

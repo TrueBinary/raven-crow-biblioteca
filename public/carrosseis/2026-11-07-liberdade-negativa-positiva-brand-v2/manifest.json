@@ -1,0 +1,61 @@
+{
+  "articleId": "2026-11-07-liberdade-negativa-positiva",
+  "style": "raven_reference_v2",
+  "designProfile": "mercosul_efta_2026_11_02_locked",
+  "status": "RENDERED_NEEDS_QA",
+  "visualQa": {
+    "cover": false,
+    "interior": false,
+    "cta": false
+  },
+  "httpsVerified": false,
+  "assets": [
+    {
+      "file": "slide1.png",
+      "sha256": "573b102d8056d0b6a726a1a353c3714e75fa57e17420aece7083d1452c0db16f",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide2.png",
+      "sha256": "59a187429c5bd32ccd9e2ea1e31d709f73d116dd0537d36c19d4f1c8c2db0544",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide3.png",
+      "sha256": "18da4716b30738ba388d36c6365072de61a67c6a629f43201dfea8817c98965f",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide4.png",
+      "sha256": "3d310d8bb1c6357b7446820a10ee10db66355d00a84f618c1fe020dc79077d7b",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide5.png",
+      "sha256": "332df5287ba3580081e70e57f6b28a5a8c0dd61c542f1266533a1f94210e83e3",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Stanford Encyclopedia of Philosophy — Positive and Negative Liberty (rev. 2026)",
+      "url": "https://plato.stanford.edu/entries/liberty-positive-negative/"
+    }
+  ],
+  "photoCredits": []
+}
