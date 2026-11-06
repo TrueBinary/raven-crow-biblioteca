@@ -1,0 +1,61 @@
+{
+  "articleId": "2026-11-06-separacao-estado-governo",
+  "style": "raven_reference_v2",
+  "designProfile": "mercosul_efta_2026_11_02_locked",
+  "status": "RENDERED_NEEDS_QA",
+  "visualQa": {
+    "cover": false,
+    "interior": false,
+    "cta": false
+  },
+  "httpsVerified": false,
+  "assets": [
+    {
+      "file": "slide1.png",
+      "sha256": "4e52357f62161e1686d7ba29e33f86ea20f97028169d356e06157186b597a6a9",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide2.png",
+      "sha256": "8080b79c28d9b0441c02f1f4caa710790679c9e4f077c0fea4c4738da927d7c2",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide3.png",
+      "sha256": "b995d558da010b6daf7a3418e93b9f489ca361ea925964f88bbed0da393a5000",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide4.png",
+      "sha256": "6ab04468439788dfefd007c8c253464f7511b076714cd47daaec33538d4ac625",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide5.png",
+      "sha256": "bfdb0ef44ced27ca34a577ba6695407014247237e0b99401390068b2819ea574",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Fonte de referência",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+    }
+  ],
+  "photoCredits": []
+}

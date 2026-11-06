@@ -1,0 +1,61 @@
+{
+  "articleId": "2026-11-06-poder-de-compra-salario-real",
+  "topicKey": "2026-11-06-poder-de-compra-salario-real",
+  "style": "raven_reference_v2",
+  "designProfile": "mercosul_efta_2026_11_02_locked",
+  "sources": [
+    {
+      "name": "Fonte primária",
+      "url": "https://www.ibge.gov.br/explica/inflacao.php"
+    }
+  ],
+  "photoCredits": [],
+  "slides": [
+    {
+      "section": "ECONOMIA",
+      "title": "SEU SALÁRIO SUBIU. VOCÊ FICOU MAIS RICO?",
+      "body": "Receber mais reais não significa, necessariamente, comprar mais coisas."
+    },
+    {
+      "section": "EXPLICAÇÃO",
+      "title": "SALÁRIO REAL",
+      "body": "Considera o poder de compra: quanto a renda permite adquirir.",
+      "points": [
+        {
+          "icon": "package",
+          "text": "Considera o poder de compra: quanto a renda permite adquirir."
+        }
+      ]
+    },
+    {
+      "section": "CONTEXTO",
+      "title": "O QUE MUDA?",
+      "body": "Se os preços crescem mais que a renda, o poder de compra diminui.",
+      "points": [
+        {
+          "icon": "package",
+          "text": "Se os preços crescem mais que a renda, o poder de compra diminui."
+        }
+      ]
+    },
+    {
+      "section": "CONTRAPONTO",
+      "title": "NÃO É TUDO IGUAL",
+      "body": "A inflação média não reflete exatamente a cesta de consumo de cada família.",
+      "points": [
+        {
+          "icon": "package",
+          "text": "A inflação média não reflete exatamente a cesta de consumo de cada família."
+        }
+      ]
+    },
+    {
+      "section": "SÍNTESE / CTA",
+      "title": "OLHE ALÉM DO REAJUSTE",
+      "body": "Compare aumento salarial, inflação e despesas reais da sua casa.",
+      "cta1": "LEIA AS FONTES",
+      "cta2": "NA LEGENDA"
+    }
+  ],
+  "caption": "SEU SALÁRIO SUBIU. VOCÊ FICOU MAIS RICO?\n\nSALÁRIO NOMINAL: É o valor recebido em reais, sem descontar a variação dos preços.\nSALÁRIO REAL: Considera o poder de compra: quanto a renda permite adquirir.\nO QUE MUDA?: Se os preços crescem mais que a renda, o poder de compra diminui.\nNÃO É TUDO IGUAL: A inflação média não reflete exatamente a cesta de consumo de cada família.\nOLHE ALÉM DO REAJUSTE: Compare aumento salarial, inflação e despesas reais da sua casa.\n\nFonte: https://www.ibge.gov.br/explica/inflacao.php\n#RavenCrow #OCorvoInvestigador"
+}

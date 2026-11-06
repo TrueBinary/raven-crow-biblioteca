@@ -1,0 +1,61 @@
+{
+  "articleId": "2026-11-06-poder-de-compra-salario-real",
+  "style": "raven_reference_v2",
+  "designProfile": "mercosul_efta_2026_11_02_locked",
+  "status": "RENDERED_NEEDS_QA",
+  "visualQa": {
+    "cover": false,
+    "interior": false,
+    "cta": false
+  },
+  "httpsVerified": false,
+  "assets": [
+    {
+      "file": "slide1.png",
+      "sha256": "ef4e96b0f6a07cf014662069bbe963743274f86122d1ddcca2f0967ce65b42e4",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide2.png",
+      "sha256": "21e3d20f028b4638e79a6a68523db7739a6eaca0a3115887a1341ef95aab331e",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide3.png",
+      "sha256": "46ee0d583d1a50341a3b3aab1a8aaf70462ef0a832c51ac85b742e214b6dc360",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide4.png",
+      "sha256": "e4bb40aeb8c05651406bc5b9ef19c9b6fa8cd5356194983e8b7af5fe77d21302",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide5.png",
+      "sha256": "015956b48e43dcdc557ad25b8740ca995939620146e0ab8d09843e8526f476e5",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Fonte primária",
+      "url": "https://www.ibge.gov.br/explica/inflacao.php"
+    }
+  ],
+  "photoCredits": []
+}

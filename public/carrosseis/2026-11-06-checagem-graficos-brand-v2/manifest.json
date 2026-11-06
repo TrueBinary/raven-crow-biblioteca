@@ -1,0 +1,61 @@
+{
+  "articleId": "2026-11-06-checagem-graficos",
+  "style": "raven_reference_v2",
+  "designProfile": "mercosul_efta_2026_11_02_locked",
+  "status": "RENDERED_NEEDS_QA",
+  "visualQa": {
+    "cover": false,
+    "interior": false,
+    "cta": false
+  },
+  "httpsVerified": false,
+  "assets": [
+    {
+      "file": "slide1.png",
+      "sha256": "121443aa39d3b44ce11f9d6e2dc31e11c82b1bc44dc9f77caa80e8e09df03d85",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide2.png",
+      "sha256": "b12d160f3511833098c0648f647dedf802f0102556b67e03ff0cd30ca654f7d7",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide3.png",
+      "sha256": "7f943084278c23189c01d969f2efc56a835975eb7d8f09a0cb8ac8059a73290d",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide4.png",
+      "sha256": "ef3bfeff8b6d71717fad4d393cb25eb4cf873efba4e6c7cabc3661c3da2fb62c",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide5.png",
+      "sha256": "241f6981351cdb4d0f5c983d90eee5ed71bb0aa00c5371b1c05f97961e40d73a",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Fonte de referência",
+      "url": "https://www.ibge.gov.br/estatisticas/"
+    }
+  ],
+  "photoCredits": []
+}

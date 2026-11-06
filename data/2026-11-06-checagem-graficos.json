@@ -1,0 +1,61 @@
+{
+  "articleId": "2026-11-06-checagem-graficos",
+  "topicKey": "2026-11-06-checagem-graficos",
+  "style": "raven_reference_v2",
+  "sources": [
+    {
+      "name": "Fonte de referência",
+      "url": "https://www.ibge.gov.br/estatisticas/"
+    }
+  ],
+  "photoCredits": [],
+  "slides": [
+    {
+      "section": "CHECAGEM DE FATOS",
+      "title": "UM GRÁFICO PODE ENGANAR SEM MENTIR?",
+      "body": "Um eixo vertical truncado pode ampliar diferenças visuais."
+    },
+    {
+      "section": "EXPLICAÇÃO",
+      "title": "LEIA O PERÍODO",
+      "body": "Comparar meses diferentes pode mudar a interpretação de uma tendência.",
+      "points": [
+        {
+          "icon": "package",
+          "text": "Comparar meses diferentes pode mudar a interpretação de uma tendência."
+        }
+      ]
+    },
+    {
+      "section": "CONTEXTO",
+      "title": "PROCURE A FONTE",
+      "body": "Confirme definição, unidade e metodologia do indicador.",
+      "points": [
+        {
+          "icon": "package",
+          "text": "Confirme definição, unidade e metodologia do indicador."
+        }
+      ]
+    },
+    {
+      "section": "CONTRAPONTO",
+      "title": "NEM TODO RECORTE É FRAUDE",
+      "body": "Recortes podem ser legítimos quando explicitados e contextualizados.",
+      "points": [
+        {
+          "icon": "package",
+          "text": "Recortes podem ser legítimos quando explicitados e contextualizados."
+        }
+      ]
+    },
+    {
+      "section": "SÍNTESE / CTA",
+      "title": "ANTES DE COMPARTILHAR",
+      "body": "Cheque escala, data, fonte e denominador.",
+      "cta1": "LEIA AS FONTES",
+      "cta2": "NA LEGENDA"
+    }
+  ],
+  "caption": "UM GRÁFICO PODE ENGANAR SEM MENTIR?\n\nVEJA A ESCALA: Um eixo vertical truncado pode ampliar diferenças visuais.\nLEIA O PERÍODO: Comparar meses diferentes pode mudar a interpretação de uma tendência.\nPROCURE A FONTE: Confirme definição, unidade e metodologia do indicador.\nNEM TODO RECORTE É FRAUDE: Recortes podem ser legítimos quando explicitados e contextualizados.\nANTES DE COMPARTILHAR: Cheque escala, data, fonte e denominador.\nFonte: https://www.ibge.gov.br/estatisticas/\n#RavenCrow #OCorvoInvestigador",
+  "designProfile": "mercosul_efta_2026_11_02_locked"
+}

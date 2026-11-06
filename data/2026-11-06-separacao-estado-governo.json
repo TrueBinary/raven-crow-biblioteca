@@ -1,0 +1,61 @@
+{
+  "articleId": "2026-11-06-separacao-estado-governo",
+  "topicKey": "2026-11-06-separacao-estado-governo",
+  "style": "raven_reference_v2",
+  "sources": [
+    {
+      "name": "Fonte de referência",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+    }
+  ],
+  "photoCredits": [],
+  "slides": [
+    {
+      "section": "POLÍTICA / INSTITUIÇÕES",
+      "title": "ESTADO E GOVERNO SÃO A MESMA COISA?",
+      "body": "Estado reúne instituições permanentes; governos mudam conforme regras políticas."
+    },
+    {
+      "section": "EXPLICAÇÃO",
+      "title": "O QUE PERMANECE?",
+      "body": "Órgãos, leis e competências não desaparecem com uma troca de mandato.",
+      "points": [
+        {
+          "icon": "package",
+          "text": "Órgãos, leis e competências não desaparecem com uma troca de mandato."
+        }
+      ]
+    },
+    {
+      "section": "CONTEXTO",
+      "title": "QUEM EXERCE O PODER?",
+      "body": "Um governo dirige políticas públicas dentro dos limites constitucionais.",
+      "points": [
+        {
+          "icon": "package",
+          "text": "Um governo dirige políticas públicas dentro dos limites constitucionais."
+        }
+      ]
+    },
+    {
+      "section": "CONTRAPONTO",
+      "title": "MAS HÁ CONTINUIDADE",
+      "body": "Governos podem alterar prioridades e estruturas, respeitando a lei.",
+      "points": [
+        {
+          "icon": "package",
+          "text": "Governos podem alterar prioridades e estruturas, respeitando a lei."
+        }
+      ]
+    },
+    {
+      "section": "SÍNTESE / CTA",
+      "title": "CONFUNDIR OS DOIS ATRAPALHA",
+      "body": "Avalie instituições e governantes separadamente.",
+      "cta1": "LEIA AS FONTES",
+      "cta2": "NA LEGENDA"
+    }
+  ],
+  "caption": "ESTADO E GOVERNO SÃO A MESMA COISA?\n\nESTADO NÃO É GOVERNO: Estado reúne instituições permanentes; governos mudam conforme regras políticas.\nO QUE PERMANECE?: Órgãos, leis e competências não desaparecem com uma troca de mandato.\nQUEM EXERCE O PODER?: Um governo dirige políticas públicas dentro dos limites constitucionais.\nMAS HÁ CONTINUIDADE: Governos podem alterar prioridades e estruturas, respeitando a lei.\nCONFUNDIR OS DOIS ATRAPALHA: Avalie instituições e governantes separadamente.\nFonte: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm\n#RavenCrow #OCorvoInvestigador",
+  "designProfile": "mercosul_efta_2026_11_02_locked"
+}

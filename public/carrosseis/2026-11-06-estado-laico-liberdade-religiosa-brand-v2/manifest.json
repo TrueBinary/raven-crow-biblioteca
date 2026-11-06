@@ -1,0 +1,61 @@
+{
+  "articleId": "2026-11-06-estado-laico-liberdade-religiosa",
+  "style": "raven_reference_v2",
+  "designProfile": "mercosul_efta_2026_11_02_locked",
+  "status": "RENDERED_NEEDS_QA",
+  "visualQa": {
+    "cover": false,
+    "interior": false,
+    "cta": false
+  },
+  "httpsVerified": false,
+  "assets": [
+    {
+      "file": "slide1.png",
+      "sha256": "6daa8570e9874ad38fe9349347fbc6c790da4cf2bdaf05036742731d317cbaae",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide2.png",
+      "sha256": "96f92d0a83a48e80d3f4ee8fb90a8602e69013594a5f30bf29568eff5ab22b49",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide3.png",
+      "sha256": "caeb54cc687fd83961d811347c14062d746595425d577a192ac16055b49ce35b",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide4.png",
+      "sha256": "51580ac2ba6728eb53e5d14b5645d18645cb6985d78b029e1e605602d8e1ec04",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "file": "slide5.png",
+      "sha256": "57fd48de533cf1feb8c2cf45fe1ff103143a1c622769a66aa04f5a29d20a8ed9",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Fonte primária",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+    }
+  ],
+  "photoCredits": []
+}
