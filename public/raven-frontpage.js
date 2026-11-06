@@ -8,7 +8,7 @@ const imagePath=(a,assets)=>{
  const key=String(a.id||'').replace(/-2026$/,'');
  const folders=Array.isArray(assets.carousels)?assets.carousels:[];
  const folder=folders.find(x=>x.endsWith('-'+a.id)||x.endsWith('-'+key)||x.includes(key));
- return folder?'carrosseis/'+folder+'/slide1.png':(assets.covers&&assets.covers[a.id])||null;
+ return (assets.photos&&assets.photos[a.id])||(folder?'carrosseis/'+folder+'/slide1.png':null)||(assets.covers&&assets.covers[a.id])||null;
 };
 const readingTime=a=>Math.max(2,Math.ceil(((a.facts||'')+' '+(a.analysis||'')+' '+(a.counterpoint||'')).split(/\s+/).length/210));
 const formatDate=date=>{if(!/^\d{4}-\d{2}-\d{2}$/.test(date||''))return 'Raven Crow';const [y,m,d]=date.split('-');return d+'/'+m+'/'+y};

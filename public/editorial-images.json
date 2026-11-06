@@ -24,6 +24,8 @@
     "2026-11-06-checagem-graficos-brand-v2",
     "2026-11-06-direito-natural-positivo-brand-v2",
     "2026-11-06-divida-pib-estoque-fluxo-brand-v2",
+    "2026-11-06-estado-laico-liberdade-religiosa-brand-v2",
+    "2026-11-06-poder-de-compra-salario-real-brand-v2",
     "2026-11-06-separacao-estado-governo-brand-v2"
   ],
   "covers": {
@@ -34,5 +36,6 @@
     "eleicoes-2026": "editorial/covers/eleicoes-2026.svg",
     "contas-publicas-2026": "editorial/covers/contas-publicas-2026.svg",
     "inflacao-poder-compra": "editorial/covers/inflacao-poder-compra.svg"
-  }
+  },
+  "photos": {}
 }
