@@ -1,0 +1,39 @@
+/* Shared editorial identity for home and news */
+.rc-home-columns{max-width:1150px;margin:auto;padding:0 24px;display:grid;grid-template-columns:minmax(0,1fr) 180px;gap:28px;align-items:start}
+.rc-home-columns .intro{padding:64px 0;grid-template-columns:1fr;gap:22px}
+.rc-news-columns{display:grid;grid-template-columns:minmax(0,1fr) 180px;gap:28px;align-items:start}
+.rc-ad-slot{display:flex;align-items:center;flex-direction:column;gap:10px;margin:32px 0 40px}
+.rc-ad-label{color:#b5b2b0;font:700 10px 'DM Sans',sans-serif;letter-spacing:.18em}
+.rc-ad-frame{width:160px;min-height:600px;overflow:hidden}
+body.rc-unified-news{border-left:0;background:#0d0e12;color:#f7f4ed;font:15px/1.55 'DM Sans',sans-serif}
+.rc-unified-news .container{max-width:1150px}
+.rc-unified-news .site-header{position:sticky;top:0;z-index:20;background:#0d0e12e8;border-bottom:1px solid #27282e;backdrop-filter:blur(16px)}
+.rc-unified-news .site-header .wrap{max-width:1150px;margin:auto;padding:0 24px}
+.rc-unified-news .header-in{min-height:72px;display:flex;justify-content:space-between;align-items:center;gap:18px;padding:8px 0}
+.rc-unified-news .mark{display:flex;align-items:center;gap:12px;text-decoration:none;color:#f7f4ed}
+.rc-unified-news .logo{width:48px;height:48px;display:flex;align-items:center;justify-content:center;border:0;background:transparent;padding:0}
+.rc-unified-news .logo img{width:48px;height:48px;object-fit:contain;border:0;border-radius:0;padding:0}
+.rc-unified-news .brand{font:800 23px/1 'Barlow Condensed',sans-serif;letter-spacing:.04em;white-space:normal}
+.rc-unified-news .brand small{display:block;font:700 10px/1.6 'DM Sans',sans-serif;letter-spacing:.26em;color:#cf6c5b}
+.rc-unified-news .site-header nav{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+.rc-unified-news .site-header nav a{font:700 13px 'DM Sans',sans-serif;color:#c0bdba;text-decoration:none;letter-spacing:normal;text-transform:none}
+.rc-unified-news .site-header nav a:hover{color:#ff907a}
+.rc-unified-news .site-header .top-cta{padding:10px 15px;border:1px solid #35353b;border-radius:8px;background:#212127}
+.rc-unified-news .hero{padding:85px 0 70px;background:radial-gradient(ellipse at 80% 20%,#7b25252d,transparent 44%);border-bottom:1px solid #35353b}
+.rc-unified-news .hero .eyebrow{color:#f08370;font:800 11px 'DM Sans',sans-serif;letter-spacing:.24em}
+.rc-unified-news .hero .eyebrow:before{height:2px;background:#e55e49}
+.rc-unified-news .hero h1{font:900 clamp(58px,10vw,119px)/.88 'Barlow Condensed',sans-serif;letter-spacing:-.005em;margin:22px 0 25px}
+.rc-unified-news .hero h1:after{display:none}
+.rc-unified-news .hero h1 em{color:#e55e49}
+.rc-unified-news .hero p{max-width:630px;color:#c7c3c0;font-size:17px;line-height:1.7}
+.rc-unified-news .ribbon span{background:#24242a;border:1px solid #3d3b43;color:#e1dcda;border-radius:8px}
+.rc-unified-news .article{background:linear-gradient(145deg,#1d1e25,#16171d);border:1px solid #37383f;border-radius:14px;padding:26px}
+.rc-unified-news .article .eyebrow{background:transparent;color:#e28a79;padding:0}
+.rc-unified-news .article h2{font:900 clamp(32px,5vw,52px)/.98 'Barlow Condensed',sans-serif}
+.rc-unified-news .article h2 em{color:#e55e49}
+.rc-unified-news .article-read{color:#f09380}
+.rc-unified-news #apoie-coluna>div{background:#24191c!important;border:1px solid #854a45!important;border-radius:12px!important}
+.rc-unified-news #apoie-coluna a[data-track=pix]{background:#e55e49!important;color:#161217!important;border-radius:9px!important}
+.rc-unified-news .rules{border-radius:13px;background:#211b1d;border:1px solid #4b3c3b}
+@media(max-width:900px){.rc-home-columns,.rc-news-columns{display:block}.rc-ad-slot{display:none}.rc-home-columns .intro{grid-template-columns:1fr 1fr}}
+@media(max-width:650px){.rc-unified-news .header-in{flex-wrap:wrap;justify-content:center}.rc-unified-news .site-header nav{justify-content:center;gap:8px}.rc-unified-news .site-header nav a{font-size:11px;padding:7px 9px}.rc-unified-news .hero{padding:60px 0 50px}.rc-unified-news .container{padding:0 18px}.rc-home-columns{padding:0 18px}.rc-home-columns .intro{grid-template-columns:1fr}}
