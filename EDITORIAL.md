@@ -17,3 +17,11 @@
 
 ## Identidade visual dos carrosséis — regra vigente (02/11/2026)
 A referência visual enviada pelo proprietário (capa Brasil/Noruega, lâminas O QUE MUDA? e E O BRASIL, GANHA?) é OBRIGATÓRIA para todo carrossel novo. Consultar `CAROUSEL-VISUAL-STANDARD.md` antes de planejar, renderizar, aprovar ou agendar. Substitui as recomendações visuais conflitantes acima. O estilo `classic` do renderer antigo não atende à referência e não deve ser aprovado para novos posts. Não confundir alteração de diretriz com atualização dos posts já agendados.
+
+
+## Coluna do Corvo — ensaios permanentes (06/11/2026)
+
+- `public/coluna.html` é o portal editorial de **Política e sociedade, Filosofia e ideias, Fé e família**, com arquivo dinâmico que recupera **todas** as análises existentes de `public/editorial-feed.json`. Não substituir o arquivo por botão simples de redirecionamento.
+- Os ensaios originais ficam em `public/coluna-ensaios.json` (campos `id`, `section`, `date`, `title`, `subtitle`, `eyebrow`, `paragraphs`, `sources`). Para acrescentar uma nova reflexão, adicionar entrada e executar `python build-column.py`. O workflow `news-pages.yml` também atualiza a seção automaticamente.
+- Usar voz autoral do Corvo Investigador e distinguir **opinião** de notícia verificável. Em política, discutir instituições e políticas com fontes, contrapontos e sem propaganda eleitoral. Em filosofia, não fabricar citações ou atribuições. Em reflexões católicas, deixar explícita a perspectiva cristã e consultar textos originais (Catecismo, Suma Teológica, documentos pontifícios), respeitando a dignidade de pessoas em arranjos familiares diferentes.
+- Preservar o acervo antigo, os artigos jornalísticos e seus IDs, as páginas de leitura, a navegação responsiva e a identidade de fundo escuro, vermelho/coral e branco. Nunca apagar ensaios publicados ao criar outros.

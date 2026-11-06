@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-06",
+  "essays": [
+    {
+      "id": "familia-crista-primeira-escola-de-amor",
+      "section": "Fé e família",
+      "date": "2026-11-06",
+      "title": "A família não é uma ideia abstrata: é a primeira escola do amor",
+      "subtitle": "Uma reflexão cristã sobre presença, educação, perdão e responsabilidade entre gerações.",
+      "eyebrow": "REFLEXÃO CRISTÃ",
+      "paragraphs": [
+        "Há uma diferença entre dizer que a família é importante e tratar a vida familiar como uma responsabilidade concreta. A primeira afirmação cabe em um cartaz; a segunda aparece na rotina, nas conversas difíceis, no cuidado com quem adoece, no compromisso de educar e na disposição de permanecer presente.",
+        "Na tradição católica, a família é compreendida como uma comunidade de pessoas. O Catecismo da Igreja Católica a apresenta também como «Igreja doméstica»: um espaço no qual a fé pode ser vivida no cotidiano, pela oração, pelo exemplo e pela caridade. Essa é uma afirmação de fé, não uma descrição obrigatória da experiência de todas as famílias.",
+        "A educação de uma criança não pode ser reduzida a notas, consumo ou cumprimento de horários. Uma casa ensina também pelo modo como os adultos lidam com a verdade, a palavra dada, o dinheiro, a diferença, a reconciliação e o trabalho. O que fica na memória dos filhos muitas vezes é menos o discurso e mais aquilo que viram acontecer.",
+        "João Paulo II, em Familiaris Consortio, descreve a família a partir de vínculos de amor e comunhão e recorda responsabilidades tanto dos pais quanto da sociedade. Não é um chamado a idealizar a casa como se ela fosse imune a conflitos. Pelo contrário: o amor exige paciência, justiça, limites e, sobretudo, responsabilidade pelos mais frágeis.",
+        "A valorização cristã da família não deve servir para humilhar quem vive sozinho, quem perdeu seus pais ou quem atravessa uma história familiar dolorosa. A própria tradição cristã reconhece a necessidade de acolhimento e solidariedade. Defender a família, nessa perspectiva, inclui proteger a dignidade de cada pessoa e combater a violência dentro de casa.",
+        "Quando se fala em reconstruir laços familiares, a pergunta útil não é apenas o que o Estado ou a cultura deveriam fazer. É também o que cada pessoa pode começar a viver: oferecer tempo, ensinar com coerência, ouvir sem desprezo, respeitar os idosos, cuidar dos filhos e pedir perdão quando erra. É nessa escala humana que uma convicção deixa de ser slogan e se torna presença."
+      ],
+      "sources": [
+        {
+          "title": "Catecismo da Igreja Católica, §§ 2201–2206 — A família no plano de Deus",
+          "url": "https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_two/article_4/i_the_family_in_gods_plan.index.html"
+        },
+        {
+          "title": "Catecismo da Igreja Católica, §§ 1655–1658 — Igreja doméstica",
+          "url": "https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_7/vi_the_domestic_church.html"
+        },
+        {
+          "title": "João Paulo II, Familiaris Consortio (1981)",
+          "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html"
+        }
+      ]
+    },
+    {
+      "id": "direito-natural-lei-e-justica",
+      "section": "Filosofia e ideias",
+      "date": "2026-11-06",
+      "title": "Quando a lei é legal, mas a pergunta sobre a justiça permanece",
+      "subtitle": "Direito natural, lei positiva e a antiga questão dos limites da autoridade humana.",
+      "eyebrow": "ENSAIO FILOSÓFICO",
+      "paragraphs": [
+        "Uma lei pode ter sido aprovada segundo todos os procedimentos previstos e ainda despertar uma pergunta filosófica: ela é justa? Distinguir legalidade e justiça não significa desprezar as instituições. Significa reconhecer que o direito opera com regras, enquanto a reflexão moral pergunta pelos fins e razões dessas regras.",
+        "Na tradição de Tomás de Aquino, o direito natural está ligado à razão prática e à busca de bens humanos. Na Suma Teológica, especialmente na questão 94 da primeira parte da segunda parte, ele investiga os princípios da lei natural, sua universalidade e a maneira como são conhecidos. Não se trata de uma fórmula pronta para resolver cada controvérsia contemporânea.",
+        "O direito positivo, por sua vez, torna concretas inúmeras decisões da vida coletiva: prazos, competências, procedimentos, sanções. A previsibilidade dessas normas tem valor próprio. A dificuldade surge quando se imagina que o simples fato de uma regra existir encerra toda discussão sobre sua legitimidade moral.",
+        "Também há objeções importantes à ideia de uma lei natural: pessoas razoáveis divergem profundamente sobre a natureza humana e os bens que devem orientar a vida pública. Numa sociedade plural, qualquer apelo a princípios morais precisa ser discutido com argumentos públicos, respeito às pessoas e atenção às consequências.",
+        "Talvez a função mais útil da filosofia não seja oferecer uma sentença rápida, mas impedir duas reduções: a de que toda lei escrita já é justa e a de que uma convicção individual basta para dispensar leis e garantias. Entre essas posições existe o trabalho paciente de fundamentar, revisar e limitar o exercício do poder.",
+        "É nesse ponto que direito natural e direito positivo permanecem em diálogo. Não como slogans rivais, mas como formas diferentes de responder à pergunta sobre o que se deve fazer e sobre quais razões podem obrigar outras pessoas."
+      ],
+      "sources": [
+        {
+          "title": "Tomás de Aquino, Suma Teológica, I-II, questão 94 — Lei natural",
+          "url": "https://www.newadvent.org/summa/2094.htm"
+        }
+      ]
+    },
+    {
+      "id": "poder-politico-responsabilidade-e-limites",
+      "section": "Política e sociedade",
+      "date": "2026-11-06",
+      "title": "Poder político não é cheque em branco",
+      "subtitle": "Representação, responsabilidade institucional e os limites que permanecem depois de uma eleição.",
+      "eyebrow": "OPINIÃO POLÍTICA",
+      "paragraphs": [
+        "Uma eleição define representantes para funções públicas. Ela não elimina divergências, não suspende direitos e não transforma uma autoridade em proprietária das instituições. A legitimidade do voto convive com outras exigências da vida constitucional.",
+        "A Constituição brasileira estabelece que o poder emana do povo e é exercido por representantes eleitos ou diretamente, nos termos do próprio texto constitucional. A mesma Constituição distribui competências, reconhece garantias e cria procedimentos de controle. A democracia depende dessa combinação, não apenas de um resultado eleitoral.",
+        "Quando o debate público se concentra exclusivamente em nomes e disputas de ocasião, fica mais difícil discutir os limites das funções públicas. Quais decisões exigem transparência? Como a sociedade acompanha gastos e políticas? Qual é o papel das garantias individuais quando uma maioria política deseja avançar depressa?",
+        "Há quem enfatize a capacidade de governar e entregar resultados; há quem destaque os riscos de concentrar decisões. Essas preocupações não precisam ser apresentadas como inimigas. Instituições capazes de agir também precisam prestar contas, e mecanismos de controle devem evitar tanto arbitrariedades quanto bloqueios sem fundamento.",
+        "Uma reflexão editorial sobre liberdade pode, portanto, começar por perguntas simples: o cidadão conhece as regras que o afetam? Pode contestar uma decisão? Recebe razões verificáveis? Há caminhos para corrigir abusos sem depender da boa vontade de quem está no poder?",
+        "Um voto não encerra a conversa entre governantes e governados. Depois dele, continuam a fiscalização, a crítica fundamentada, a participação cívica e o compromisso de reconhecer a dignidade de quem pensa de outro modo."
+      ],
+      "sources": [
+        {
+          "title": "Constituição da República Federativa do Brasil de 1988",
+          "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+        },
+        {
+          "title": "Arquivo Raven Crow — Após a eleição: o voto confere poder ou impõe limites?",
+          "url": "https://ravencrow.cloud/noticias/eleicoes-2026/"
+        }
+      ]
+    }
+  ]
+}
