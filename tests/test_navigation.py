@@ -16,6 +16,10 @@ class NavigationTests(unittest.TestCase):
    s=(ROOT/name).read_text(encoding='utf-8')
    self.assertIn('class="rc-search-toggle"',s)
    self.assertIn('class="rc-menu-toggle"',s)
+ def test_sitemap_includes_navigation_pages(self):
+  s=(ROOT/'public/sitemap.xml').read_text(encoding='utf-8')
+  for page in ['coluna','livros','apoie','sobre']:
+   self.assertIn('https://ravencrow.cloud/'+page+'.html',s)
  def test_support_link(self):
   s=(ROOT/'public/apoie.html').read_text(encoding='utf-8')
   self.assertIn('https://pixgg.com/ravencrow',s)

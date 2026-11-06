@@ -68,7 +68,7 @@ RC_CSS=("body.rc-news{margin:0;min-height:100vh;background:#0a0a0b radial-gradie
  ".rc-news .btn{display:inline-flex;align-items:center;gap:12px;background:#c8202a;color:#fff;text-decoration:none;font:800 14px/1.25 'DM Sans',sans-serif;letter-spacing:.05em;text-transform:uppercase;padding:14px 20px;border-radius:6px}.rc-news .btn:hover{background:#e0262c}"
  ".rc-foot{display:flex;justify-content:space-between;gap:16px;padding-top:22px;padding-bottom:40px;border-top:1px solid #3a1a1c;font:600 12px 'DM Sans',sans-serif;letter-spacing:.08em;text-transform:uppercase;color:#cfc9c3}.rc-foot b{color:#e0262c;font-weight:800}"
  "@media(max-width:640px){body.rc-news{border-left-width:6px}.rc-top{padding-top:18px}.rc-logo{width:44px;height:44px}.rc-line nav{display:none}.rc-foot{flex-direction:column}}")
-urls=[BASE+'/',BASE+'/noticias.html']
+urls=[BASE+'/',BASE+'/noticias.html']+[BASE+'/'+name+'.html' for name in ('coluna','livros','apoie','sobre')]
 # Edição atual primeiro, depois o arquivo do mais recente ao mais antigo: o primeiro id visto prevalece.
 editions=[data]+[json.loads(p.read_text(encoding='utf-8')) for p in sorted((ROOT/'public/arquivo').glob('noticias-*.json'),reverse=True)]
 articles={}
