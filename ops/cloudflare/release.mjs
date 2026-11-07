@@ -5,6 +5,7 @@ import { getSourceManifest } from './inventory.mjs';
 import { syncMedia } from './r2-sync.mjs';
 import { verifyHost } from './verify-domain.mjs';
 import { validateSiteContent, gitSource } from './content-integrity.mjs';
+import { validatePublicPages } from './public-pages.mjs';
 
 const git = (...a) => execFileSync('git', a, { encoding: 'utf8', maxBuffer: 64 << 20 }).trim();
 const HOSTS = ['https://ravencrow.cloud/', 'https://www.ravencrow.cloud/', 'https://ravencrow.cloud/editorial-feed.json'];
@@ -26,8 +27,8 @@ const defaults = {
   headSha: () => git('rev-parse', 'HEAD'),
   commitExists: sha => { try { git('cat-file', '-e', sha + '^{commit}'); return true; } catch { return false; } },
   validate: sha => {
-    const base = validateCommit(sha), content = validateSiteContent(gitSource(sha));
-    return { errors: [...base.errors, ...content.errors], warnings: content.warnings };
+    const src = gitSource(sha), base = validateCommit(sha), content = validateSiteContent(src), pages = validatePublicPages(src);
+    return { errors: [...base.errors, ...content.errors, ...pages.errors], warnings: [...content.warnings, ...pages.warnings] };
   },
   manifest: sha => getSourceManifest(sha),
   sync: opts => syncMedia(opts),

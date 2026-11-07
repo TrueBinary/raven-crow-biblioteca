@@ -88,3 +88,11 @@ test('ETag match returns 304', async () => {
   const r = await call('/clips/aa.mp4', { headers: { 'If-None-Match': '"etag-clips/aa.mp4"' } });
   assert.equal(r.status, 304);
 });
+
+test('hash-named clips are immutable; HTML/JSON stay short-lived', async () => {
+  assert.equal((await call('/clips/aa.mp4')).headers.get('cache-control'), 'public, max-age=300');
+  const sha = 'b'.repeat(64);
+  const e = { RAVEN_MEDIA: bucket({ ...FILES, [`clips/${sha}.mp4`]: MP4, [`clips/${sha}.jpg`]: Buffer.from('j') }) };
+  for (const ext of ['mp4', 'jpg']) assert.equal((await call(`/clips/${sha}.${ext}`, {}, e)).headers.get('cache-control'), 'public, max-age=31536000, immutable');
+  assert.equal((await call('/')).headers.get('cache-control'), 'public, max-age=60');
+});
