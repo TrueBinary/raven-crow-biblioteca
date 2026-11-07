@@ -4,10 +4,13 @@ const root=document.getElementById('editorial-feed');
 if(!root)return;
 const make=(tag,cls,txt)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(txt!=null)e.textContent=txt;return e};
 const imagePath=(a,assets)=>{
- const explicit=typeof a.image==='string'?a.image:'';
- if(/^\/?(?:images|editorial)\/[a-zA-Z0-9/_-]+\.(?:jpg|jpeg|png|webp)$/.test(explicit))return explicit.replace(/^\//,'');
+ // Same-origin absolute URLs (https://ravencrow.cloud/x.jpg) are treated as site-relative paths.
+ const explicit=(typeof a.image==='string'?a.image:'').replace(/^https:\/\/(?:www\.)?ravencrow\.cloud\//,'');
+ if(/^\/?(?:(?:images|editorial)\/)?[a-zA-Z0-9/_-]+\.(?:jpg|jpeg|png|webp)$/.test(explicit)&&!explicit.includes('..'))return explicit.replace(/^\//,'');
  const photo=(assets.photos||{})[a.id];
- return typeof photo==='string'&&/^editorial\/photos\/[a-z0-9-]+\.jpg$/.test(photo)?photo:null;
+ if(typeof photo==='string'&&/^editorial\/photos\/[a-z0-9-]+\.jpg$/.test(photo))return photo;
+ const cover=(assets.covers||{})[a.id];
+ return typeof cover==='string'&&/^editorial\/covers\/[a-z0-9-]+\.svg$/.test(cover)?cover:null;
 };
 const readingTime=a=>Math.max(2,Math.ceil(((a.facts||'')+' '+(a.analysis||'')+' '+(a.counterpoint||'')).split(/\s+/).length/210));
 const formatDate=date=>{if(!/^\d{4}-\d{2}-\d{2}$/.test(date||''))return 'Raven Crow';const [y,m,d]=date.split('-');return d+'/'+m+'/'+y};
