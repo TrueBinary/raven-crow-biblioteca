@@ -103,5 +103,18 @@ class SeoBuilderTests(unittest.TestCase):
         self.assertEqual(later.count('"@type": "Article"'), 1)
 
 
+    def test_published_article_without_canonical_gets_safe_canonical(self):
+        page = self.root / "public/noticias/estudo-tributacao/index.html"
+        before = page.read_text(encoding="utf-8")
+        expected = "https://ravencrow.cloud/noticias/estudo-tributacao/"
+        page.write_text(before.replace('<link rel="canonical" href="' + expected + '">', ""),
+                        encoding="utf-8")
+        build(self.root)
+        after = page.read_text(encoding="utf-8")
+        self.assertIn('<link rel="canonical" href="' + expected + '">', after)
+        self.assertIn('"@type": "Article"', after)
+        self.assertIn(expected, (self.root / "public/sitemap.xml").read_text(encoding="utf-8"))
+
+
 if __name__ == "__main__":
     unittest.main()

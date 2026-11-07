@@ -43,10 +43,23 @@ def _write_if_changed(path: Path, content: str):
         path.write_text(content, encoding="utf-8")
 
 
-def _published(path: Path, canonical: str):
-    return path.is_file() and bool(re.search(
-        r'<link\s+rel="canonical"\s+href="' + re.escape(canonical) + r'"',
-        path.read_text(encoding="utf-8")))
+def _published(path: Path, canonical: str, *, allow_missing=False):
+    if not path.is_file():
+        return False
+    text = path.read_text(encoding="utf-8")
+    if re.search(r'<link\s+rel="canonical"\s+href="' + re.escape(canonical) + r'"', text):
+        return True
+    # Only pages already present in the approved editorial JSON may ask
+    # for this repair. Never overwrite a conflicting canonical.
+    if not allow_missing or re.search(r'<link[^>]*rel=["\']canonical["\']', text, re.I):
+        return False
+    if not all(marker in text for marker in ("<head", "</head>", "<title>", "<body")):
+        return False
+    text = text.replace("</head>",
+                        '<link rel="canonical" href="' + html_escape(canonical, quote=True) + '"></head>',
+                        1)
+    _write_if_changed(path, text)
+    return True
 
 
 def _news_data(pub: Path):
@@ -149,7 +162,7 @@ def build(root: Path) -> dict:
         url = BASE + "/noticias/" + slug + "/"
         file = pub / "noticias" / slug / "index.html"
         published = _date(item.get("date"))
-        if not published or not _published(file, url):
+        if not published or not _published(file, url, allow_missing=True):
             continue
         modified = _article_date(item) or published
         photo = pub / "editorial" / "photos" / (slug + ".jpg")
@@ -181,7 +194,7 @@ def build(root: Path) -> dict:
         url = BASE + "/coluna/" + slug + "/"
         file = pub / "coluna" / slug / "index.html"
         published = _date(item.get("date"))
-        if not published or not _published(file, url):
+        if not published or not _published(file, url, allow_missing=True):
             continue
         article = {
             "@type": "Article", "@id": url + "#article",
