@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "governo-lista-27-minerais-criticos-estrategicos-2026",
+      "category": "ECONOMIA",
+      "title": "Brasil define 27 minerais estratégicos e abre disputa por incentivos",
+      "subtitle": "Nova lista federal prioriza lítio, terras raras e outras matérias-primas; política prevê instrumentos de financiamento e critérios para projetos.",
+      "facts": "O Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos aprovou em 5 de novembro de 2026 uma lista oficial de 27 substâncias prioritárias. Segundo o Ministério do Desenvolvimento, Indústria, Comércio e Serviços, a classificação considera riscos geopolíticos, concentração da oferta, possibilidades de substituição e dependência externa. A classe de maior prioridade inclui terras raras, grafita, lítio, níquel, cobalto, cobre, manganês, silício e urânio. A lista orienta o acesso a mecanismos de fomento, mas não representa liberação automática de recursos nem início imediato de novos empreendimentos.",
+      "analysis": "A decisão tenta deslocar o Brasil da condição de exportador de matérias-primas para uma posição de maior processamento e valor agregado. O desafio econômico está em distinguir projetos com retorno real de investimentos sustentados por benefícios públicos. O financiamento pode reduzir barreiras de entrada, mas também transfere riscos ao contribuinte. Critérios transparentes, concorrência e previsibilidade regulatória serão fundamentais para avaliar se a política atrai capital produtivo ou apenas favorece grupos com acesso ao Estado.",
+      "counterpoint": "O governo argumenta que a coordenação pública pode reduzir vulnerabilidades de abastecimento e apoiar investimentos iniciais de alto risco. Críticos podem questionar o custo fiscal, a seleção de beneficiários e os riscos ambientais da mineração. A aprovação da lista, isoladamente, não demonstra que esses benefícios ou prejuízos já ocorreram.",
+      "sources": [
+        {
+          "name": "MDIC — lista oficial de minerais críticos",
+          "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/novembro/governo-federal-aprova-lista-brasileira-de-minerais-criticos-e-estrategicos/"
+        },
+        {
+          "name": "CNN Brasil — reportagem independente",
+          "url": "https://www.cnnbrasil.com.br/infra/brasil-define-lista-de-minerais-criticos-e-estrategicos-entenda/"
+        }
+      ],
+      "date": "2026-11-06"
+    },
+    {
       "id": "santiago-pena-preso-apos-impeachment-2026",
       "category": "MUNDO",
       "date": "2026-11-06",
@@ -212,4 +232,4 @@
       ]
     }
   ]
-}
+}\n
