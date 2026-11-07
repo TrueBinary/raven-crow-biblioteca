@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "id": "trf3-suspende-liminar-tres-bets-cda-2026",
+      "title": "TRF3 volta a barrar três bets: o custo de uma licença revogada",
+      "subtitle": "Tribunal suspende autorização provisória da CDA Gaming em disputa sobre proteção de apostadores e segurança jurídica.",
+      "facts": "Em 6 de novembro de 2026, o presidente do Tribunal Regional Federal da 3ª Região, Luís Antonio Johonsom di Salvo, suspendeu os efeitos da liminar que permitia à CDA Gaming retomar provisoriamente suas operações. A medida alcança Casa de Apostas, Betsul e Jogo Online. A decisão acolheu pedido da União e restabeleceu para a empresa os efeitos da Medida Provisória nº 1.394/2026. A controvérsia sobre a constitucionalidade da medida ainda não recebeu decisão definitiva do STF.",
+      "analysis": "Na perspectiva opinativa do Raven Crow, fundada no direito natural, na propriedade privada e nos limites do Estado, o episódio expõe os custos de oportunidade da instabilidade regulatória. Quando o governo autoriza uma atividade mediante pagamento e posteriormente modifica unilateralmente suas condições, os investidores precisam considerar um risco político adicional, potencialmente encarecendo projetos futuros. A tradição austríaca chama atenção para o conhecimento disperso e as consequências não pretendidas da intervenção. Isso não elimina os danos associados ao vício em apostas, mas exige uma discussão proporcional sobre liberdade, responsabilidade e previsibilidade jurídica.",
+      "counterpoint": "A União sustenta que a aplicação uniforme da política pública é necessária para proteger consumidores, famílias e apostadores dos danos das apostas. A empresa questiona a revogação antecipada de autorização onerosa. A suspensão da liminar não representa julgamento definitivo da constitucionalidade da MP nem decisão final sobre indenização.",
+      "category": "Justiça e economia",
+      "sources": [
+        {
+          "name": "TRF3 — comunicado oficial",
+          "url": "https://web.trf3.jus.br/noticias/Noticiar/ExibirNoticia/447746-presidente-do-trf3-suspende-liminar-que-restabelecia"
+        },
+        {
+          "name": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/presidente-do-trf-3-suspende-liminar-e-volta-a-barrar-tres-sites-de-apostas.shtml"
+        },
+        {
+          "name": "AGU — comunicado oficial",
+          "url": "https://www.gov.br/agu/pt-br/comunicacao/noticias/justica-suspende-autorizacao-para-funcionamento-de-empresa-de-apostas/"
+        }
+      ],
+      "date": "2026-11-06"
+    },
+    {
       "id": "governo-lista-27-minerais-criticos-estrategicos-2026",
       "category": "ECONOMIA",
       "title": "Brasil define 27 minerais estratégicos e abre disputa por incentivos",
