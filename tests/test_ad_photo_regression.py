@@ -45,15 +45,22 @@ class AdPhotoRegressionTests(unittest.TestCase):
         js=(ROOT/'public/raven-frontpage.js').read_text(encoding='utf-8')
         self.assertIn('creditos-fotos.html',js)
 
-    def test_seven_existing_articles_have_relevant_jpeg_sources(self):
+    def test_licensed_photos_are_attributed_and_seven_curated_sources_remain(self):
         import json
-        from editorial_photos import LICENSES
+        from editorial_photos import LICENSES, CURATED_FILES
         public=ROOT/'public'
         credits=json.loads((public/'editorial-photo-credits.json').read_text(encoding='utf-8'))
         stories=json.loads((public/'editorial-feed.json').read_text(encoding='utf-8'))['articles']
+        story_ids={a['id'] for a in stories}
+        self.assertTrue(set(CURATED_FILES).issubset(story_ids))
+        for slug in CURATED_FILES:
+            self.assertIn(slug,credits,slug)
         for article in stories:
             slug=article['id']
-            self.assertIn(slug,credits,slug)
+            if slug not in credits:
+                # Breaking news without a licensed photo must never receive a fake attribution.
+                self.assertFalse((public/'editorial/photos'/(slug+'.jpg')).exists(),slug)
+                continue
             record=credits[slug]
             self.assertIn(record['license'],LICENSES)
             self.assertTrue(record['source'].startswith('https://commons.wikimedia.org/'))
