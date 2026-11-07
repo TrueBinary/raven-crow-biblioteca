@@ -75,14 +75,16 @@ export async function runHandoff({root=ROOT,now=new Date(),dryRun=true}={}) {
       bufferNote:'no Buffer API call performed; existing local publisher must reconcile and schedule'};
   }finally {unlock()}
 }
+export function exitCodeForStatus(status) {
+  return ['FAILED_HOSTING','BLOCKED_QA','SLOT_OCCUPIED'].includes(status)?2:0;
+}
 async function main(){
   const [mode]=process.argv.slice(2);
   if(!['--check','--run'].includes(mode))
     throw Error('Usage: node reserva-site-handoff.mjs --check|--run');
   const result=await runHandoff({dryRun:mode==='--check'});
   console.log(JSON.stringify(result));
-  if(['FAILED_HOSTING','NO_FREE_SLOT','ALREADY_RUNNING','SLOT_OCCUPIED','BLOCKED_QA'].includes(result.status))
-    process.exitCode=2;
+  process.exitCode=exitCodeForStatus(result.status);
 }
 if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)){
   main().catch(e=>{console.error('RESERVA_TRANSPORT_BLOCKED: '+String(e.message||e));process.exitCode=2});

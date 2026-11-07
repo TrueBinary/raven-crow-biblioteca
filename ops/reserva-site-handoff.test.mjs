@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
-import {readTransportOccupancy, acquireTransportLock} from './reserva-site-handoff.mjs';
+import {readTransportOccupancy, acquireTransportLock, exitCodeForStatus} from './reserva-site-handoff.mjs';
 
 const tmp=()=>fs.mkdtempSync(path.join(os.tmpdir(),'raven-reserva-handoff-test-'));
 const wj=(pathName,data)=>{fs.mkdirSync(path.dirname(pathName),{recursive:true});fs.writeFileSync(pathName,JSON.stringify(data))};
@@ -23,6 +23,14 @@ test('fails closed for missing or malformed ledgers',()=>{
   wj(path.join(root,'data','buffer-hourly-ledger.json'),{jobs:{}});
   assert.throws(()=>readTransportOccupancy(root),/publications/);
  }finally{fs.rmSync(root,{recursive:true,force:true})}
+});
+test('lack of available slot is idle, while real transport failure returns error',()=>{
+ assert.equal(exitCodeForStatus('NO_FREE_SLOT'),0);
+ assert.equal(exitCodeForStatus('ALREADY_RUNNING'),0);
+ assert.equal(exitCodeForStatus('NO_APPROVED_DRAFT'),0);
+ assert.equal(exitCodeForStatus('READY_FOR_BUFFER'),0);
+ assert.equal(exitCodeForStatus('FAILED_HOSTING'),2);
+ assert.equal(exitCodeForStatus('BLOCKED_QA'),2);
 });
 test('lock prevents two transport workers running simultaneously and never steals another lock',()=>{
  const root=tmp();try{
