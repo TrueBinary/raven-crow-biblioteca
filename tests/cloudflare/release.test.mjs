@@ -81,3 +81,19 @@ test('workflow serialises releases, keeps secrets off PRs and never commits', ()
   assert.doesNotMatch(y, /git (commit|push)/);
   assert.match(y, /workflow_run:/);
 });
+
+test('release step fails when release.mjs fails, and publishes the commit the test job pinned', () => {
+  const y = readFileSync(new URL('../../.github/workflows/cloudflare-site-release.yml', import.meta.url), 'utf8');
+  const release = y.slice(y.indexOf('  release:'));
+  assert.match(release, /shell: bash/, 'tee must not hide a failing release (pipefail)');
+  assert.match(release, /ref: \$\{\{ needs\.test\.outputs\.sha \}\}/, 'release must check out the SHA the test job ran on');
+  assert.match(y.slice(0, y.indexOf('  release:')), /outputs:\s*\n\s*sha:/, 'test job must export the pinned SHA');
+});
+
+test('workflow has no ${{ }} inside a one-line { } map or run: { } (both break YAML parsing on GitHub)', () => {
+  const y = readFileSync(new URL('../../.github/workflows/cloudflare-site-release.yml', import.meta.url), 'utf8');
+  for (const line of y.split('\n')) {
+    assert.doesNotMatch(line, /:\s*\{[^}\n]*\$\{\{/, line);
+    assert.doesNotMatch(line, /^\s*run:\s*\{/, line);
+  }
+});

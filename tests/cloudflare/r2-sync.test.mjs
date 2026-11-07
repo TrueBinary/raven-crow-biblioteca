@@ -107,3 +107,41 @@ test('site text files are updated in place; media with the same key still blocks
   assert.deepEqual(r2.failed.map(f => f.key), ['clips/ab.mp4']);
   assert.deepEqual(api2.puts, []);
 });
+
+function repoWith(files) {
+  const dir = mkdtempSync(join(tmpdir(), 'r2o-'));
+  const git = (...a) => execFileSync('git', ['-C', dir, ...a], { encoding: 'utf8' });
+  git('init', '-q');
+  for (const [p, b] of Object.entries(files)) { mkdirSync(join(dir, p, '..'), { recursive: true }); writeFileSync(join(dir, p), b); }
+  git('add', '-A');
+  git('-c', 'user.name=t', '-c', 'user.email=t@t', 'commit', '-qm', 'x');
+  return dir;
+}
+const NEW_ARTICLE = {
+  'index.html': '<h1>home</h1>',
+  'public/editorial-feed.json': '{"articles":[{"id":"nova-2026"}]}',
+  'public/sitemap.xml': '<urlset/>',
+  'public/noticias/nova-2026/index.html': '<p>nova</p>',
+  'public/editorial/photos/nova-2026.jpg': 'jpg',
+  ['public/clips/' + 'c'.repeat(64) + '.mp4']: 'mp4',
+};
+
+test('uploads media first, then new pages, and entry files (home, feed, sitemap) last', async t => {
+  const dir = repoWith(NEW_ARTICLE); t.after(() => rmSync(dir, { recursive: true, force: true }));
+  const api = fakeApi();
+  const r = await syncMedia({ gitRef: 'HEAD', repo: dir, api, maxConcurrency: 4 });
+  assert.equal(r.failed.length, 0);
+  const pos = k => api.puts.indexOf(k);
+  for (const media of ['editorial/photos/nova-2026.jpg', 'clips/' + 'c'.repeat(64) + '.mp4']) assert.ok(pos(media) < pos('noticias/nova-2026/index.html'), media);
+  for (const entry of ['index.html', 'editorial-feed.json', 'sitemap.xml']) assert.ok(pos('noticias/nova-2026/index.html') < pos(entry), entry);
+});
+
+test('a failed phase stops later phases, so the feed never links to a missing page', async t => {
+  const dir = repoWith(NEW_ARTICLE); t.after(() => rmSync(dir, { recursive: true, force: true }));
+  const api = fakeApi();
+  const put = api.put;
+  api.put = async (k, b, m) => { if (k === 'noticias/nova-2026/index.html') { const e = Error('HTTP 400'); e.status = 400; throw e; } return put(k, b, m); };
+  const r = await syncMedia({ gitRef: 'HEAD', repo: dir, api });
+  assert.deepEqual(r.failed.map(f => f.key), ['noticias/nova-2026/index.html']);
+  for (const entry of ['index.html', 'editorial-feed.json', 'sitemap.xml']) assert.equal(api.objects.has(entry), false, entry);
+});
