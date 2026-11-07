@@ -32,3 +32,9 @@ No secrets here: endpoints, record types, IDs and check results only.
 - Why the flag stays on: approved clips land in GitHub main before reaching R2; until the main->R2 release is automatic (Task 6) the fallback keeps new clips playable. Set `GITHUB_FALLBACK` to anything else (or remove it) to serve R2 only.
 - Evidence: apex/www probe 9/9; `/`, `/noticias.html`, `/sitemap.xml`, `/editorial-feed.json`, `/raven-frontpage.js`, newest clip all 200 `r2`; clip Range 206; `/__migration/import` 404.
 - Rollback: `POST /accounts/<account>/workers/scripts/raven-crow-site-production/deployments` with `{"strategy":"percentage","versions":[{"version_id":"b9785878-fb3d-4fb6-91b0-727aa6fc9df8","percentage":100}]}`.
+
+## 2026-11-07 — Worker deploy (Task 8)
+
+- Version `2dd11af1-4d81-4ef6-a164-fffb1c1c037a` from commit e9e3085: hash-named clips (`clips/<sha256>.mp4|jpg`) served with `Cache-Control: public, max-age=31536000, immutable`; HTML/JSON/XML 60 s; other assets 300 s. Bindings unchanged (`RAVEN_MEDIA`, `GITHUB_FALLBACK=1`).
+- Evidence: probe 9/9; `/` and feed 60 s; clip mp4/jpg immutable, served from `r2`; Range 206 on www.
+- Rollback: deployments API to version `fc40f4a6-3994-4b6f-8acd-9957155edaea`.
