@@ -48,6 +48,12 @@ export function validateSiteContent(src) {
       const img = images[kind]?.[id];
       if (typeof img === 'string' && !src.exists('public/' + img)) errors.push(`${id}: image ${img} missing`);
     }
+    if (typeof a.image === 'string' && a.image) {
+      // Mirrors the front page's same-site check (public/raven-frontpage.js).
+      const m = a.image.match(/^(?:https:\/\/(?:www\.)?ravencrow\.cloud\/)?(\/?(?:images\/|editorial\/)?[a-zA-Z0-9/_-]+\.(?:jpg|jpeg|png|webp))$/);
+      if (!m || a.image.includes('..')) warnings.push(id + ': external image ignored by front page');
+      else { const rel = m[1].replace(/^\//, ''); if (!src.exists('public/' + rel)) errors.push(`${id}: image ${rel} missing`); }
+    }
     if (images.photos?.[id] && !credits[id]) errors.push(id + ': photo without credit');
   }
 

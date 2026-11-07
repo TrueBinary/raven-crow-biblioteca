@@ -16,6 +16,11 @@ try {
   git -C $ReleaseTree fetch -q origin main
   $sha = (git -C $ReleaseTree rev-parse origin/main).Trim()
   if ((Test-Path $last) -and ((Get-Content $last -Raw).Trim() -eq $sha)) { exit 0 }  # nothing new
+  if (Test-Path $last) {
+    $prev = (Get-Content $last -Raw).Trim()
+    git -C $ReleaseTree merge-base --is-ancestor $prev $sha
+    if ($LASTEXITCODE -eq 1) { Log "SKIP $sha`: not a descendant of last released $prev"; exit 0 }
+  }
   # No-checkout worktree: moving HEAD only, no files are written.
   git -C $ReleaseTree reset -q --soft $sha
   # Touching the cf CLI refreshes its short-lived OAuth token, which release.mjs reuses.

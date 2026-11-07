@@ -76,3 +76,18 @@ test('article missing from sitemap is a warning, not a release blocker', () => {
   assert.deepEqual(r.errors, []);
   assert.match(r.warnings.join('\n'), /def-2026: not in sitemap/);
 });
+
+const withImage = image => site({ 'public/editorial-feed.json': JSON.stringify({ articles: [{ ...article('abc-2026'), image }, article('def-2026')] }) });
+
+test('explicit article image: same-site path missing is an error, present passes', () => {
+  assert.match(errs(withImage('https://ravencrow.cloud/santiago-pena-original.jpg')), /abc-2026: image santiago-pena-original\.jpg missing/);
+  assert.match(errs(withImage('/images/x.png')), /abc-2026: image images\/x\.png missing/);
+  const ok = site({ 'public/editorial-feed.json': JSON.stringify({ articles: [{ ...article('abc-2026'), image: 'https://ravencrow.cloud/santiago-pena-original.jpg' }, article('def-2026')] }), 'public/santiago-pena-original.jpg': 'jpg' });
+  assert.deepEqual(validateSiteContent(ok).errors, []);
+});
+
+test('explicit article image on another host is a warning only', () => {
+  const r = validateSiteContent(withImage('https://example.com/a.jpg'));
+  assert.deepEqual(r.errors, []);
+  assert.match(r.warnings.join('\n'), /abc-2026: external image ignored by front page/);
+});
