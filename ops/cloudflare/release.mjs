@@ -4,11 +4,12 @@ import { createHash } from 'node:crypto';
 import { getSourceManifest } from './inventory.mjs';
 import { syncMedia } from './r2-sync.mjs';
 import { verifyHost } from './verify-domain.mjs';
+import { validateSiteContent, gitSource } from './content-integrity.mjs';
 
 const git = (...a) => execFileSync('git', a, { encoding: 'utf8', maxBuffer: 64 << 20 }).trim();
 const HOSTS = ['https://ravencrow.cloud/', 'https://www.ravencrow.cloud/', 'https://ravencrow.cloud/editorial-feed.json'];
 
-// Minimal publish gate; Task 5 extends it with editorial integrity checks.
+// Structural publish gate; editorial integrity lives in content-integrity.mjs.
 export function validateCommit(sha) {
   const errors = [];
   const files = new Set(git('ls-tree', '-r', '--name-only', sha, '--', 'index.html', 'public').split('\n'));
@@ -24,7 +25,10 @@ export function validateCommit(sha) {
 const defaults = {
   headSha: () => git('rev-parse', 'HEAD'),
   commitExists: sha => { try { git('cat-file', '-e', sha + '^{commit}'); return true; } catch { return false; } },
-  validate: validateCommit,
+  validate: sha => {
+    const base = validateCommit(sha), content = validateSiteContent(gitSource(sha));
+    return { errors: [...base.errors, ...content.errors], warnings: content.warnings };
+  },
   manifest: sha => getSourceManifest(sha),
   sync: opts => syncMedia(opts),
   verify: url => verifyHost(url, { expectedMarker: 'r2' }),
@@ -35,8 +39,9 @@ export async function releaseSite({ commitSha, dryRun = false, deps = {}, log = 
   if (!/^[a-f0-9]{40}$/.test(commitSha || '') || !d.commitExists(commitSha)) throw Error('unknown commit: ' + commitSha);
   if (d.headSha() !== commitSha) throw Error('checked-out HEAD is not the pinned commit');
 
-  const { errors } = d.validate(commitSha);
+  const { errors, warnings = [] } = d.validate(commitSha);
   if (errors.length) throw Error('content validation failed: ' + errors.join('; '));
+  for (const w of warnings) log('warning: ' + w);
 
   const manifest = await d.manifest(commitSha);
   const manifestSha = createHash('sha256').update(JSON.stringify(manifest.map(m => [m.key, m.size, m.sha256]).sort())).digest('hex');
