@@ -48,12 +48,12 @@ test('uploads missing objects, skips existing identical ones, preserves hash-nam
 
 test('same key with different size or content stops everything, no overwrite', async t => {
   const dir = repo(); t.after(() => rmSync(dir, { recursive: true, force: true }));
-  for (const bad of [Buffer.from('zz'), Buffer.from('zzz')]) {
-    const api = fakeApi({ 'a.txt': bad });
+  for (const bad of [Buffer.from('zz'), Buffer.from([9, 9, 9, 9, 9])]) {
+    const api = fakeApi({ 'clips/ab.mp4': bad });
     const r = await syncMedia({ gitRef: 'HEAD', repo: dir, api });
     assert.equal(r.uploaded, 0);
     assert.deepEqual(api.puts, []);
-    assert.deepEqual(r.failed.map(f => f.key), ['a.txt']);
+    assert.deepEqual(r.failed.map(f => f.key), ['clips/ab.mp4']);
     assert.match(r.failed[0].reason, /differs/);
   }
 });
@@ -92,4 +92,18 @@ test('extra objects in R2 are never deleted', async t => {
   const api = fakeApi({ 'old/legacy.mp4': Buffer.from('old') });
   await syncMedia({ gitRef: 'HEAD', repo: dir, api });
   assert.ok(api.objects.has('old/legacy.mp4'));
+});
+
+test('site text files are updated in place; media with the same key still blocks', async t => {
+  const dir = repo(); t.after(() => rmSync(dir, { recursive: true, force: true }));
+  const api = fakeApi({ 'index.html': Buffer.from('<h1>old</h1>'), 'a.txt': FILES['public/a.txt'], 'clips/ab.mp4': FILES['public/clips/ab.mp4'] });
+  const r = await syncMedia({ gitRef: 'HEAD', repo: dir, api });
+  assert.equal(r.failed.length, 0);
+  assert.equal(r.updated, 1);
+  assert.deepEqual(api.objects.get('index.html'), FILES['index.html']);
+
+  const api2 = fakeApi({ 'clips/ab.mp4': Buffer.from([9, 9, 9, 9, 9]) });
+  const r2 = await syncMedia({ gitRef: 'HEAD', repo: dir, api: api2 });
+  assert.deepEqual(r2.failed.map(f => f.key), ['clips/ab.mp4']);
+  assert.deepEqual(api2.puts, []);
 });
