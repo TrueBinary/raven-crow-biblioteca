@@ -9,23 +9,28 @@ const md5 = b => createHash('md5').update(b).digest('hex');
 const srcPath = key => (key === 'index.html' ? 'index.html' : 'public/' + key);
 const readBlob = (repo, ref, key) => execFileSync('git', ['-C', repo, 'show', `${ref}:${srcPath(key)}`], { maxBuffer: MAX_PUT + 1 });
 // ETag of a single-part R2 upload is the MD5 of the body; multipart ETags contain '-'.
+// Site text and generated cover art are rebuilt in place; media (clips, photos) is immutable.
+export const isMutable = key => /\.(?:html|json|xml|txt|js|mjs|css)$/.test(key) || /^editorial\/covers\/[a-z0-9-]+\.svg$/.test(key);
 const sameContent = (obj, buf) => obj.size === buf.length && (!obj.etag || obj.etag.includes('-') || obj.etag.replace(/"/g, '') === md5(buf));
 
 export async function syncMedia({ gitRef, repo = process.cwd(), api = cloudflareApi(), dryRun = false, only = null, maxConcurrency = 3, retryDelayMs = 2000, log = () => {} }) {
   const commit = execFileSync('git', ['-C', repo, 'rev-parse', gitRef], { encoding: 'utf8' }).trim();
   const source = await getSourceManifest(commit, { repo });
   const dest = new Map((await api.list()).map(o => [o.key, o]));
-  const result = { commit, uploaded: 0, skipped: 0, verified: 0, failed: [], planned: [] };
+  const result = { commit, uploaded: 0, updated: 0, skipped: 0, verified: 0, failed: [], planned: [] };
 
   // Check every existing key first: any conflict aborts before a single write.
   const todo = [];
   for (const s of source) {
     const d = dest.get(s.key);
     if (!d) { todo.push(s); continue; }
-    if (!sameContent(d, readBlob(repo, commit, s.key))) result.failed.push({ key: s.key, reason: `existing object differs (r2 ${d.size} B, git ${s.size} B)` });
+    if (!sameContent(d, readBlob(repo, commit, s.key))) {
+      if (isMutable(s.key)) { todo.push({ ...s, update: true }); continue; }
+      result.failed.push({ key: s.key, reason: `existing object differs (r2 ${d.size} B, git ${s.size} B)` });
+    }
     else { result.skipped++; result.verified++; }
   }
-  result.planned = todo.map(s => ({ key: s.key, size: s.size }));
+  result.planned = todo.map(s => ({ key: s.key, size: s.size, update: !!s.update }));
   if (result.failed.length || dryRun) return result;
   if (only) todo.splice(0, todo.length, ...todo.filter(s => only.has(s.key)));
 
@@ -43,7 +48,8 @@ export async function syncMedia({ gitRef, repo = process.cwd(), api = cloudflare
       }
       if (!stored) { result.failed.push({ key: s.key, reason: 'upload failed: ' + (lastErr?.message || 'unknown') }); continue; }
       if (!sameContent(stored, buf)) { result.failed.push({ key: s.key, reason: 'verify failed after upload' }); continue; }
-      result.uploaded++; result.verified++;
+      if (s.update) result.updated++; else result.uploaded++;
+      result.verified++;
       log(`OK ${s.key} ${s.size}`);
     }
   }
@@ -76,7 +82,7 @@ if (import.meta.url === `file:///${process.argv[1]?.replace(/\\/g, '/')}`) {
   const only = args.find(a => a.startsWith('--only='))?.slice(7).split(',');
   const r = await syncMedia({ gitRef: args.find(a => !a.startsWith('--')) || 'origin/main', dryRun: args.includes('--dry-run'), only: only && new Set(only), log: m => console.error(m) });
   const bytes = r.planned.reduce((a, x) => a + x.size, 0);
-  console.log(JSON.stringify({ commit: r.commit, uploaded: r.uploaded, skipped: r.skipped, verified: r.verified, failed: r.failed, plannedCount: r.planned.length, plannedBytes: bytes }, null, 1));
+  console.log(JSON.stringify({ commit: r.commit, uploaded: r.uploaded, updated: r.updated, skipped: r.skipped, verified: r.verified, failed: r.failed, plannedCount: r.planned.length, plannedBytes: bytes }, null, 1));
   process.exitCode = r.failed.length ? 2 : 0;
 }
 

@@ -1,0 +1,45 @@
+name: Cloudflare site release
+# Publishes main to the private R2 bucket behind ravencrow.cloud. Never commits, so it cannot loop.
+on:
+  push:
+    branches: [main]
+    paths: ['index.html', 'public/**', 'ops/cloudflare/**']
+  # Commits pushed by news-pages.yml use GITHUB_TOKEN and do not fire `push`.
+  workflow_run:
+    workflows: ['Atualizar paginas da Coluna']
+    types: [completed]
+  workflow_dispatch:
+  pull_request:
+    paths: ['ops/cloudflare/**', 'tests/cloudflare/**', '.github/workflows/cloudflare-site-release.yml']
+permissions:
+  contents: read
+concurrency:
+  group: cloudflare-site-release
+  cancel-in-progress: false
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { sparse-checkout: "ops\ntests\n.github\nindex.html\npublic/*.json\npublic/*.js", sparse-checkout-cone-mode: false }
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+      - run: RAVEN_OFFLINE=1 node --test 'tests/cloudflare/*.test.mjs'
+  release:
+    needs: test
+    if: github.event_name != 'pull_request' && (github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success')
+    runs-on: ubuntu-latest
+    environment: cloudflare-production
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main, fetch-depth: 1 }
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+      - name: Release pinned commit to R2
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: node ops/cloudflare/release.mjs "$(git rev-parse HEAD)" | tee release-summary.json
+      - name: Summary
+        if: always()
+        run: { echo '```json'; cat release-summary.json 2>/dev/null; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
