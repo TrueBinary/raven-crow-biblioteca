@@ -81,7 +81,26 @@ test('MP4: GET 200, HEAD 200 without body, ranges 206/416', async () => {
   assert.deepEqual([bad.status, bad.headers.get('content-range')], [416, 'bytes */100']);
 
   const malformed = await call('/clips/aa.mp4', { headers: { Range: 'bytes=abc' } });
-  assert.equal(malformed.status, 416);
+  assert.equal(malformed.status, 200);
+});
+
+test('RFC 9110: invalid/multi-range ignored (200), unsatisfiable stays 416', async () => {
+  for (const v of ['bytes=abc', 'items=0-1', 'bytes=0-1,4-5']) { const r = await call('/clips/aa.mp4', { headers: { Range: v } }); assert.deepEqual([r.status, (await r.arrayBuffer()).byteLength], [200, 100], v); }
+  const z = await call('/clips/aa.mp4', { headers: { Range: 'bytes=-0' } });
+  assert.deepEqual([z.status, z.headers.get('content-range')], [416, 'bytes */100']);
+});
+
+test('If-None-Match: *, lists and weak tags match; 304 carries ETag and Cache-Control', async () => {
+  for (const v of ['*', '"x", "etag-clips/aa.mp4"', 'W/"etag-clips/aa.mp4"']) {
+    const r = await call('/clips/aa.mp4', { headers: { 'If-None-Match': v } });
+    assert.deepEqual([r.status, r.headers.get('etag'), r.headers.get('cache-control')], [304, '"etag-clips/aa.mp4"', 'public, max-age=300'], v);
+  }
+  assert.equal((await call('/clips/aa.mp4', { headers: { 'If-None-Match': '"nope"' } })).status, 200);
+});
+
+test('migration health reports production', async () => {
+  assert.deepEqual(await (await call('/__raven_migration_health')).json(), { status: 'production', R2: true, domainCutover: true, githubFallback: false });
+  assert.equal((await (await call('/__raven_migration_health', {}, env({ GITHUB_FALLBACK: '1' }))).json()).githubFallback, true);
 });
 
 test('ETag match returns 304', async () => {
