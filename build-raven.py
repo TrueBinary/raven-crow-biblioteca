@@ -100,4 +100,6 @@ from xml.sax.saxutils import escape
 (ROOT/'public/robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: '+BASE+'/sitemap.xml\n',encoding='utf-8')
 # Apply the shared Raven Crow theme to regenerated article pages.
 exec((ROOT/'apply-editorial-theme.py').read_text(encoding='utf-8'))
+from raven_seo import build as build_seo
+build_seo(ROOT)
 print('Generated',len(urls)-2,'article pages; SEO, CTA and analytics hooks updated')

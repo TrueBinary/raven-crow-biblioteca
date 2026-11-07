@@ -51,4 +51,6 @@ page='''<!doctype html><html lang="pt-BR"><head>
 <script defer src="raven-frontpage.js"></script><script defer src="raven-analytics.js"></script>
 </body></html>'''
 (PUBLIC/'noticias.html').write_text(page,encoding='utf-8')
+from raven_seo import build as build_seo
+build_seo(ROOT)
 print(f'News index generated with {len(links)} published article links')

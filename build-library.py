@@ -87,4 +87,6 @@ page+='''</div>
 <script defer src="raven-books.js"></script><script defer src="raven-analytics.js"></script>
 </body></html>'''
 (PUBLIC/'livros.html').write_text(page,encoding='utf-8')
+from raven_seo import build as build_seo
+build_seo(ROOT)
 print('Imported',len(books),'books from homepage, built the independent catalogue page')

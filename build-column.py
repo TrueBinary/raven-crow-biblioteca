@@ -121,4 +121,6 @@ for essay in ESSAYS:
     target=PUBLIC/"coluna"/slug
     target.mkdir(parents=True,exist_ok=True)
     (target/"index.html").write_text(article,encoding="utf-8")
+from raven_seo import build as build_seo
+build_seo(ROOT)
 print("Generated",len(ESSAYS),"Raven Crow essays and an opinion archive hub")
