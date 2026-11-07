@@ -42,4 +42,5 @@ jobs:
         run: node ops/cloudflare/release.mjs "$(git rev-parse HEAD)" | tee release-summary.json
       - name: Summary
         if: always()
-        run: { echo '```json'; cat release-summary.json 2>/dev/null; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+        run: |
+          { echo '```json'; cat release-summary.json 2>/dev/null; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
