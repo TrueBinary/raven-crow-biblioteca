@@ -1,0 +1,82 @@
+// Idempotent, delete-free Git -> R2 sync for the Raven Crow site. Verifies size + MD5 ETag per object.
+import { execFileSync } from 'node:child_process';
+import { createHash } from 'node:crypto';
+import { readFileSync } from 'node:fs';
+import { getSourceManifest, listR2All } from './inventory.mjs';
+
+const MAX_PUT = 300 * 1024 * 1024; // REST object PUT limit
+const md5 = b => createHash('md5').update(b).digest('hex');
+const srcPath = key => (key === 'index.html' ? 'index.html' : 'public/' + key);
+const readBlob = (repo, ref, key) => execFileSync('git', ['-C', repo, 'show', `${ref}:${srcPath(key)}`], { maxBuffer: MAX_PUT + 1 });
+// ETag of a single-part R2 upload is the MD5 of the body; multipart ETags contain '-'.
+const sameContent = (obj, buf) => obj.size === buf.length && (!obj.etag || obj.etag.includes('-') || obj.etag.replace(/"/g, '') === md5(buf));
+
+export async function syncMedia({ gitRef, repo = process.cwd(), api = cloudflareApi(), dryRun = false, only = null, maxConcurrency = 3, retryDelayMs = 2000, log = () => {} }) {
+  const commit = execFileSync('git', ['-C', repo, 'rev-parse', gitRef], { encoding: 'utf8' }).trim();
+  const source = await getSourceManifest(commit, { repo });
+  const dest = new Map((await api.list()).map(o => [o.key, o]));
+  const result = { commit, uploaded: 0, skipped: 0, verified: 0, failed: [], planned: [] };
+
+  // Check every existing key first: any conflict aborts before a single write.
+  const todo = [];
+  for (const s of source) {
+    const d = dest.get(s.key);
+    if (!d) { todo.push(s); continue; }
+    if (!sameContent(d, readBlob(repo, commit, s.key))) result.failed.push({ key: s.key, reason: `existing object differs (r2 ${d.size} B, git ${s.size} B)` });
+    else { result.skipped++; result.verified++; }
+  }
+  result.planned = todo.map(s => ({ key: s.key, size: s.size }));
+  if (result.failed.length || dryRun) return result;
+  if (only) todo.splice(0, todo.length, ...todo.filter(s => only.has(s.key)));
+
+  let next = 0;
+  async function worker() {
+    while (next < todo.length) {
+      const s = todo[next++];
+      const buf = readBlob(repo, commit, s.key);
+      if (buf.length !== s.size || createHash('sha256').update(buf).digest('hex') !== s.sha256) { result.failed.push({ key: s.key, reason: 'source changed during sync' }); continue; }
+      if (buf.length > MAX_PUT) { result.failed.push({ key: s.key, reason: 'larger than REST PUT limit' }); continue; }
+      let stored, lastErr;
+      for (let attempt = 1; attempt <= 3 && !stored; attempt++) {
+        try { stored = await api.put(s.key, buf, s.mime); }
+        catch (e) { lastErr = e; if (!(e.status === 429 || e.status >= 500)) break; await new Promise(r => setTimeout(r, retryDelayMs * attempt)); }
+      }
+      if (!stored) { result.failed.push({ key: s.key, reason: 'upload failed: ' + (lastErr?.message || 'unknown') }); continue; }
+      if (!sameContent(stored, buf)) { result.failed.push({ key: s.key, reason: 'verify failed after upload' }); continue; }
+      result.uploaded++; result.verified++;
+      log(`OK ${s.key} ${s.size}`);
+    }
+  }
+  await Promise.all(Array.from({ length: Math.max(1, maxConcurrency) }, worker));
+  return result;
+}
+
+// shortcut: falls back to the cf CLI OAuth login file for local runs; CI must set CLOUDFLARE_API_TOKEN.
+function token() {
+  if (process.env.CLOUDFLARE_API_TOKEN) return process.env.CLOUDFLARE_API_TOKEN;
+  const cfg = JSON.parse(readFileSync(process.env.APPDATA + '/xdg.config/cloudflare/config/default.json', 'utf8'));
+  return cfg.oauth_token;
+}
+
+export function cloudflareApi({ accountId = process.env.CLOUDFLARE_ACCOUNT_ID, bucket = 'raven-crow-media' } = {}) {
+  const base = () => `https://api.cloudflare.com/client/v4/accounts/${accountId}/r2/buckets/${bucket}/objects/`;
+  return {
+    list: () => listR2All({ accountId, bucket, token: token() }),
+    async put(key, body, mime) {
+      const res = await fetch(base() + key.split('/').map(encodeURIComponent).join('/'), { method: 'PUT', headers: { Authorization: 'Bearer ' + token(), 'Content-Type': mime }, body });
+      const j = await res.json().catch(() => null);
+      if (!res.ok || !j?.success) { const e = Error('HTTP ' + res.status + ' ' + JSON.stringify(j?.errors || '')); e.status = res.status; throw e; }
+      return { key, size: Number(j.result.size), etag: j.result.etag };
+    },
+  };
+}
+
+if (import.meta.url === `file:///${process.argv[1]?.replace(/\\/g, '/')}`) {
+  const args = process.argv.slice(2);
+  const only = args.find(a => a.startsWith('--only='))?.slice(7).split(',');
+  const r = await syncMedia({ gitRef: args.find(a => !a.startsWith('--')) || 'origin/main', dryRun: args.includes('--dry-run'), only: only && new Set(only), log: m => console.error(m) });
+  const bytes = r.planned.reduce((a, x) => a + x.size, 0);
+  console.log(JSON.stringify({ commit: r.commit, uploaded: r.uploaded, skipped: r.skipped, verified: r.verified, failed: r.failed, plannedCount: r.planned.length, plannedBytes: bytes }, null, 1));
+  process.exitCode = r.failed.length ? 2 : 0;
+}
+
