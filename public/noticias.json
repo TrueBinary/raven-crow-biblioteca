@@ -2,9 +2,29 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "07/11/2026",
-  "updatedAt": "2026-11-07T17:03:13-03:00",
+  "updatedAt": "2026-11-07T19:31:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "tse-admite-acao-novo-lula-alckmin-abuso-poder-2026-11-07",
+      "category": "POLÍTICA",
+      "date": "2026-11-07",
+      "title": "Lula pode perder o mandato? TSE admite ação por suposto abuso de poder nas eleições",
+      "subtitle": "Corregedor do TSE aceitou o processamento de ação do Novo contra Lula e Alckmin; partido pede cassação e inelegibilidade, mas ainda não houve julgamento de mérito.",
+      "facts": "Em 5 de novembro de 2026, o corregedor-geral da Justiça Eleitoral, ministro Ricardo Villas Bôas Cueva, admitiu uma Ação de Investigação Judicial Eleitoral (Aije) apresentada pelo Partido Novo contra o presidente reeleito Luiz Inácio Lula da Silva e o vice Geraldo Alckmin. O partido alega suposto abuso de poder político na campanha de 2026 e questiona 35 medidas provisórias e decretos editados entre janeiro e outubro que criaram ou ampliaram benefícios sociais e econômicos, incluindo iniciativas relacionadas ao Bolsa Família e a combustíveis. Segundo o Tribunal Superior Eleitoral, o ministro entendeu que a petição atende aos requisitos para tramitar e determinou a notificação dos investigados, que terão cinco dias para apresentar defesa. O Novo pede cassação dos registros ou diplomas e inelegibilidade por oito anos. O TSE ressalta que admitir a ação não equivale a reconhecer abuso nem a decidir sobre cassação. Não se trata de um processo de impeachment na Câmara dos Deputados.",
+      "analysis": "A controvérsia expõe uma pergunta institucional importante: onde termina a administração legítima de políticas públicas e começa o uso eleitoral da máquina do Estado? Benefícios sociais podem ser necessários e legais, mas sua expansão perto da eleição exige transparência sobre custos, critérios e finalidade. Na avaliação editorial do Raven Crow, nenhum governante deveria transformar recursos públicos em vantagem pessoal de campanha. Ao mesmo tempo, o calendário eleitoral, isoladamente, não prova desvio de finalidade. A investigação deve examinar documentos, contexto e efeitos concretos, respeitando o contraditório e a presunção de regularidade até decisão fundamentada. Confundir a abertura de uma investigação com uma cassação consumada prejudica a informação pública.",
+      "counterpoint": "O governo e a defesa dos investigados poderão argumentar que medidas econômicas e sociais fazem parte das atribuições legítimas do Executivo e respondem a necessidades da população, independentemente do calendário eleitoral. O TSE ainda não analisou o mérito nem estabeleceu culpa. A tramitação poderá resultar em diferentes desfechos, inclusive improcedência. Impeachment e cassação eleitoral são procedimentos jurídicos distintos.",
+      "sources": [
+        {
+          "name": "Tribunal Superior Eleitoral — corregedor-geral admite ação do Novo (05/11/2026)",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Novembro/corregedor-geral-admite-acao-do-novo-contra-lula-e-alckmin-por-suposto-abuso-do-poder-politico-nas-eleicoes"
+        },
+        {
+          "name": "Exame — TSE aceita ação contra Lula e Alckmin por alegado abuso de poder (05/11/2026)",
+          "url": "https://exame.com/brasil/tse-aceita-acao-do-novo-contra-lula-e-alckmin-por-abuso-de-poder-nas-eleicoes//"
+        }
+      ]
+    },
     {
       "id": "sc-tres-tornados-duas-microexplosoes-2026-11-07",
       "category": "BRASIL",
