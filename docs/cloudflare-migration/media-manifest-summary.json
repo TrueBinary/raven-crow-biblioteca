@@ -1,0 +1,14 @@
+{
+  "verifiedAt": "2026-11-07T18:20:15Z",
+  "gitRef": "origin/main",
+  "commit": "f606d288af794a2391f98634454379901758f1bb",
+  "bucket": "raven-crow-media",
+  "sourceFiles": 351,
+  "sourceBytes": 2370361991,
+  "mp4": 65,
+  "r2Objects": 351,
+  "r2Bytes": 2370361991,
+  "missing": 0,
+  "different": 0,
+  "verification": "size + MD5 ETag per object on upload; 65/65 MP4 HEAD 200 X-Raven-Migration-Stage r2 and Range 0-15 -> 206 via https://ravencrow.cloud; largest MP4 sha256 equals key"
+}
