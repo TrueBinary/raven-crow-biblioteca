@@ -34,10 +34,21 @@ export async function syncMedia({ gitRef, repo = process.cwd(), api = cloudflare
   if (result.failed.length || dryRun) return result;
   if (only) todo.splice(0, todo.length, ...todo.filter(s => only.has(s.key)));
 
-  let next = 0;
-  async function worker() {
-    while (next < todo.length) {
-      const s = todo[next++];
+  // Phases keep links valid mid-sync: media, then pages/assets, then the entry files that link to them.
+  // A failed phase stops the run, so the feed never points at an object that did not make it.
+  for (const phase of [0, 1, 2]) {
+    const batch = todo.filter(s => phaseOf(s.key) === phase);
+    await runBatch(batch);
+    if (result.failed.length) break;
+  }
+  return result;
+
+  async function runBatch(batch) {
+    let next = 0;
+    await Promise.all(Array.from({ length: Math.max(1, maxConcurrency) }, () => worker()));
+    async function worker() {
+    while (next < batch.length) {
+      const s = batch[next++];
       const buf = readBlob(repo, commit, s.key);
       if (buf.length !== s.size || createHash('sha256').update(buf).digest('hex') !== s.sha256) { result.failed.push({ key: s.key, reason: 'source changed during sync' }); continue; }
       if (buf.length > MAX_PUT) { result.failed.push({ key: s.key, reason: 'larger than REST PUT limit' }); continue; }
@@ -52,10 +63,12 @@ export async function syncMedia({ gitRef, repo = process.cwd(), api = cloudflare
       result.verified++;
       log(`OK ${s.key} ${s.size}`);
     }
+    }
   }
-  await Promise.all(Array.from({ length: Math.max(1, maxConcurrency) }, worker));
-  return result;
 }
+
+const ENTRY = new Set(['index.html', 'editorial-feed.json', 'noticias.json', 'noticias.html', 'coluna.html', 'coluna-ensaios.json', 'livros.html', 'livros.json', 'editorial-images.json', 'sitemap.xml']);
+export const phaseOf = key => (ENTRY.has(key) ? 2 : isMutable(key) ? 1 : 0);
 
 // shortcut: falls back to the cf CLI OAuth login file for local runs; CI must set CLOUDFLARE_API_TOKEN.
 function token() {

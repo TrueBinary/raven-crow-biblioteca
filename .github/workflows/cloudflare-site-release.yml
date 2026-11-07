@@ -19,9 +19,17 @@ concurrency:
 jobs:
   test:
     runs-on: ubuntu-latest
+    outputs:
+      sha: ${{ steps.pin.outputs.sha }}
     steps:
+      # workflow_run fires after news-pages pushed its own commit, which is newer than head_sha: take main's tip once, here.
       - uses: actions/checkout@v4
-        with: { sparse-checkout: "ops\ntests\n.github\nindex.html\npublic/*.json\npublic/*.js", sparse-checkout-cone-mode: false }
+        with:
+          ref: ${{ github.event_name == 'workflow_run' && 'main' || github.sha }}
+          sparse-checkout: "ops\ntests\n.github\nindex.html\npublic/*.json\npublic/*.js"
+          sparse-checkout-cone-mode: false
+      - id: pin
+        run: echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
       - uses: actions/setup-node@v4
         with: { node-version: '22' }
       - run: RAVEN_OFFLINE=1 node --test 'tests/cloudflare/*.test.mjs'
@@ -31,15 +39,19 @@ jobs:
     runs-on: ubuntu-latest
     environment: cloudflare-production
     steps:
+      # Exactly the commit the test job ran on, never a newer main.
       - uses: actions/checkout@v4
-        with: { ref: main, fetch-depth: 1 }
+        with:
+          ref: ${{ needs.test.outputs.sha }}
+          fetch-depth: 1
       - uses: actions/setup-node@v4
         with: { node-version: '22' }
       - name: Release pinned commit to R2
+        shell: bash  # -eo pipefail: a failing release.mjs must fail the job despite tee
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-        run: node ops/cloudflare/release.mjs "$(git rev-parse HEAD)" | tee release-summary.json
+        run: node ops/cloudflare/release.mjs "${{ needs.test.outputs.sha }}" | tee release-summary.json
       - name: Summary
         if: always()
         run: |
