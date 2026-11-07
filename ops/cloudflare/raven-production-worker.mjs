@@ -1,4 +1,5 @@
-// Cloudflare R2 staging: no production route. Import endpoint is secret-protected.
+// Raven Crow production Worker: serves the site from private R2 (RAVEN_MEDIA). No import endpoint.
+// GitHub Raw fallback only when env.GITHUB_FALLBACK === "1" (temporary, until main->R2 sync is automatic).
 const BASE='https://raw.githubusercontent.com/TrueBinary/raven-crow-biblioteca/main/';
 const MIME={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.mjs':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.xml':'application/xml; charset=utf-8','.txt':'text/plain; charset=utf-8','.svg':'image/svg+xml','.png':'image/png','.jpg':'image/jpeg','.jpeg':'image/jpeg','.webp':'image/webp','.gif':'image/gif','.ico':'image/x-icon','.woff2':'font/woff2','.mp4':'video/mp4','.pdf':'application/pdf'};
 export const mimeFor=k=>MIME[/\.[^./]+$/.exec(k.toLowerCase())?.[0]]||'application/octet-stream';
@@ -15,7 +16,7 @@ export default {async fetch(req,env){
  if(path.startsWith('/__migration/'))return new Response('Not Found',{status:404});
  if(req.method!=='GET'&&req.method!=='HEAD')return new Response('Method Not Allowed',{status:405,headers:{Allow:'GET, HEAD'}});
  const key=resolveKey(path);if(!key)return new Response('Invalid path',{status:400});
- const head=await env.RAVEN_MEDIA.head(key);if(!head)return fallback(req,key);
+ const head=await env.RAVEN_MEDIA.head(key);if(!head)return env.GITHUB_FALLBACK==='1'?fallback(req,key):new Response('Not Found',{status:404,headers:{'Cache-Control':'public, max-age=60'}});
  if(req.headers.get('If-None-Match')===head.httpEtag)return new Response(null,{status:304,headers:{ETag:head.httpEtag}});
  if(req.method==='HEAD')return respond(key,head,'HEAD',null);
  const range=parseByteRange(req.headers.get('Range'),head.size);
