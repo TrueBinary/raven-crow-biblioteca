@@ -6,6 +6,37 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "santiago-pena-preso-apos-impeachment-2026",
+      "category": "MUNDO",
+      "date": "2026-11-06",
+      "title": "Ex-presidente do Paraguai, Santiago Peña, é preso após impeachment",
+      "subtitle": "Destituído pelo Senado nesta sexta-feira (6), Peña foi detido em sua residência em Assunção. Investigação envolve a crise do Ueno Bank.",
+      "facts": "O ex-presidente do Paraguai Santiago Peña foi detido em sua residência em Assunção nesta sexta-feira, 6 de novembro de 2026, após ser destituído do cargo pelo Senado. O Ministério Público determinou a detenção por suspeitas de lesão de confiança e outros possíveis crimes relacionados à crise do Ueno Bank. A agência EFE e a emissora paraguaia Telefuturo confirmaram o cumprimento da medida em sua casa.\n\nO Senado aprovou a destituição com os votos dos 44 senadores presentes. Pedro Alliana, até então vice-presidente, assumiu a Presidência. A crise política se agravou após a intervenção do Banco Central no Ueno Bank, instituição que atendia milhões de clientes e concentrava depósitos de entidades públicas.\n\nA investigação também alcança o ex-presidente do Banco Central do Paraguai Carlos Carvallo. Peña deverá ser apresentado ao Ministério Público para os procedimentos legais. A detenção não equivale a condenação criminal.",
+      "analysis": "A destituição e a detenção do ex-presidente representam uma crise institucional de grande dimensão no Paraguai. O foco imediato das autoridades é apurar responsabilidades pela gestão de recursos públicos e pela supervisão do sistema bancário, enquanto depositantes buscam recuperar o acesso ao dinheiro.\n\nA transição para Pedro Alliana não encerra as investigações. A transparência sobre as decisões tomadas por dirigentes bancários, reguladores e autoridades políticas será decisiva para a confiança nas instituições.",
+      "counterpoint": "Santiago Peña negou irregularidades. As suspeitas devem ser investigadas com respeito à presunção de inocência e ao devido processo legal. A prisão domiciliar não constitui prova de culpa.",
+      "sources": [
+        {
+          "name": "EFE — Polícia confirma detenção de Santiago Peña, 06/11/2026",
+          "url": "https://efe.com/mundo/2026-11-06/santiago-pena-orden-captura-presidente-paraguay-destitucion/"
+        },
+        {
+          "name": "Telefuturo — Detenção do ex-presidente Santiago Peña, 06/11/2026",
+          "url": "https://www.telefuturo.com.py/imputan-y-ordenan-detencion-del-ex-presidente-santiago-pena"
+        },
+        {
+          "name": "Associated Press — Presidente destituído é colocado em prisão domiciliar, 06/11/2026",
+          "url": "https://apnews.com/article/e84f5ada84e8c747329ec82fabb46e4d"
+        },
+        {
+          "name": "ABC Color — Fiscalía ordena detención, 06/11/2026",
+          "url": "https://www.abc.com.py/finanzas-personales/2026/11/06/fiscalia-ordena-detencion-del-expresidente-santiago-pena/"
+        }
+      ],
+      "image": "https://raw.githubusercontent.com/TrueBinary/raven-crow-biblioteca/instagram-media/public/santiago-pena-original.jpg",
+      "imageAlt": "Retrato de arquivo de Santiago Peña (2024)",
+      "imageCredit": "Presidência da República do Equador / Wikimedia Commons (domínio público)"
+    },
+    {
       "id": "cnpe-aprova-plano-transicao-energetica-2026",
       "category": "ECONOMIA",
       "date": "2026-11-06",
