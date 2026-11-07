@@ -10,7 +10,9 @@ GitHub main (TrueBinary/raven-crow-biblioteca)
    ▼
 release.mjs  ── integrity gate (content-integrity + public-pages) ── delete-free sync ──▶ R2 bucket raven-crow-media
    ▲  runs: GitHub Actions (cloudflare-site-release.yml) — locked by GitHub billing today
-   │        Windows task "Raven Crow - release site R2" every 15 min (release-local.ps1) — active
+   │        Windows task "Raven Crow - release site R2" every 15 min (release-local.ps1) — active:
+   │        1) runs the 4 builders in raven-builder-outputs-20261107, commits generated pages/covers/photos
+   │           (news-pages.yml paths) and pushes them to main if both validators pass; 2) releases main to R2
 Worker raven-crow-site-production  ◀── routes ravencrow.cloud/*, www.ravencrow.cloud/* (DNS AAAA 100:: proxied)
    └─ serves R2; GITHUB_FALLBACK=1 serves GitHub Raw for keys not yet released (header x-raven-migration-stage)
 ```
@@ -31,6 +33,8 @@ The health check covers: apex + www (no Render, TLS, Worker marker), feed JSON w
 ## Incidents
 
 **Apex or www 503 / `x-render-routing`** — DNS was pointed back at Render. Restore `AAAA 100::` proxied for the host (see OPERATIONS-LEDGER) and re-run the domain check.
+
+**Release log `PAGES FAILED` / `PAGES BLOCKED`** — a builder crashed or the generated pages fail a validator; nothing was pushed. Read the lines below it in the log.
 
 **Release log `FAILED` or `RELEASE BLOCKED`** — read the reason line:
 - `content validation failed` → an editorial file is broken (invalid JSON, missing page, sitemap URL without page, canonical/CSS/ads/PostHog). Nothing was published; fix the content in Git. The site keeps serving the previous release.

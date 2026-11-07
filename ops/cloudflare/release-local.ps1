@@ -1,7 +1,8 @@
-# Local stand-in for the GitHub Actions release while Actions is unavailable.
-# Runs from Task Scheduler; only reads Git and writes to R2. Never commits, resets files or touches other worktrees.
+# Local stand-in for GitHub Actions (news-pages.yml + release) while Actions is unavailable.
+# Runs from Task Scheduler. Writes only to its own two worktrees, to main (generated pages, fast-forward) and to R2.
 param(
   [string]$ReleaseTree = 'D:\CorteFlow\work\raven-cf-release',
+  [string]$BuildTree = 'D:\CorteFlow\work\raven-builder-outputs-20261107',
   [string]$LogDir = 'D:\CorteFlow\work\raven-cf-release-logs',
   [string]$AccountId = 'f6140a337d3b05e5e27c7f64ed166134'
 )
@@ -12,7 +13,34 @@ $log = Join-Path $LogDir 'release.log'
 $last = Join-Path $LogDir 'last-released-sha.txt'
 function Log($m) { "$(Get-Date -Format s) $m" | Add-Content -Encoding utf8 $log }
 
+# What news-pages.yml did: regenerate pages/covers for new news commits and push them to main.
+function Update-Pages {
+  $ErrorActionPreference = 'Continue'
+  git -C $BuildTree fetch -q origin main
+  git -C $BuildTree reset -q --hard origin/main
+  git -C $BuildTree clean -fdq -- index.html public  # own worktree: drop leftovers of earlier runs
+  Push-Location $BuildTree
+  try {
+    foreach ($b in 'build-raven.py', 'build-column.py', 'build-news-index.py', 'build-library.py') {
+      $o = & python $b 2>&1
+      if ($LASTEXITCODE -ne 0) { Log "PAGES FAILED $b`: $((($o | Out-String).Trim() -split "\r?\n")[-1])"; return }
+    }
+    git add index.html public/noticias.html public/noticias public/sitemap.xml public/robots.txt public/raven-analytics.js public/editorial-feed.json public/editorial-images.json public/editorial/covers public/editorial/photos public/editorial-photo-credits.json public/creditos-fotos.html public/coluna.html public/coluna public/livros.html public/livros.json
+    git diff --cached --quiet
+    if ($LASTEXITCODE -eq 0) { return }  # builders produced nothing new
+    git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "Atualizar paginas indexaveis da Coluna"
+    foreach ($v in 'content-integrity.mjs', 'public-pages.mjs') {
+      $o = & node (Join-Path $PSScriptRoot $v) HEAD 2>&1
+      if ($LASTEXITCODE -ne 0) { Log "PAGES BLOCKED by $v (not pushed)"; ($o | Out-String) -split "\r?\n" | Where-Object { $_ -match '"[^"]+: |missing|no page' } | ForEach-Object { Log "  $_" }; return }
+    }
+    git push -q origin HEAD:main 2>&1 | Out-Null
+    if ($LASTEXITCODE -ne 0) { Log "PAGES push rejected (main moved); retrying next run"; return }
+    Log "PAGES pushed $(git rev-parse --short HEAD)"
+  } finally { Pop-Location }
+}
+
 try {
+  Update-Pages
   git -C $ReleaseTree fetch -q origin main
   $sha = (git -C $ReleaseTree rev-parse origin/main).Trim()
   if ((Test-Path $last) -and ((Get-Content $last -Raw).Trim() -eq $sha)) { exit 0 }  # nothing new
