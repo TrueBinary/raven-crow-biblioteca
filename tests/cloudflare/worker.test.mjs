@@ -132,3 +132,11 @@ test('translated editions: /en, /es and /<lang>/noticias/<id> map to their index
   assert.equal(resolveKey('/es/noticias/abc-def/'), 'es/noticias/abc-def/index.html');
   assert.equal(resolveKey('/fr/noticias/abc-def'), 'fr/noticias/abc-def');
 });
+
+test('every HTML page gets the same favicon links in <head>, unless it already declares one', async () => {
+  const e = env({ RAVEN_MEDIA: bucket({ ...FILES, 'index.html': Buffer.from('<html><head><title>x</title></head><body>a</body></html>'), 'noticias/abc-def/index.html': Buffer.from('<html><head><link rel="icon" href="x.ico"></head><body>b</body></html>') }) });
+  const home = await (await call('/', {}, e)).text();
+  assert.match(home, /<link rel="icon" href="\/favicon\.ico" sizes="48x48">.*<link rel="apple-touch-icon" href="\/raven-logo\.webp"><\/head>/);
+  const art = await (await call('/noticias/abc-def/', {}, e)).text();
+  assert.equal((art.match(/rel="icon"/g) || []).length, 1);
+});
