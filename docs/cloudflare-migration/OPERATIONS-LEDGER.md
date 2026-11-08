@@ -54,3 +54,8 @@ No secrets here: endpoints, record types, IDs and check results only.
 
 - Version `62ee25cc-a3ae-4d11-b5c6-ba189b47b9d4` from commit 459d0f5: `/en`, `/es` and `/<lang>/noticias/<id>` without trailing slash map to their index.html.
 - Rollback: deployments API to version `38f7a94a-a704-4d18-b62b-d3a730f24cb4`.
+
+## 2026-11-08 — Worker deploy (favicon)
+
+- Version `ae91889c-b7b7-4afb-84e8-3e0e2595997b` from commit e1adee1: same favicon links (favicon.ico, raven-logo.webp, apple-touch-icon) in `<head>` of every HTML page lacking one.
+- Rollback: deployments API to version `62ee25cc-a3ae-4d11-b5c6-ba189b47b9d4`.
