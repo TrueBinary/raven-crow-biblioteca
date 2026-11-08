@@ -83,3 +83,8 @@ body.rc-column{background:var(--column-bg);color:var(--column-ink);font-family:'
 @media(prefers-reduced-motion:reduce){.rc-col-card{transition:none}}
 
 @media(max-width:650px){.rc-col-feature-mark span{left:auto;right:15px;top:9px}.rc-col-feature-mark strong{font-size:50px;line-height:.88}}
+
+/* Documentary photo on essay pages (optional; only when credited in editorial-photo-credits.json) */
+.rc-col-story-photo{margin:0 0 28px;border:1px solid rgba(255,255,255,.12);border-radius:10px;overflow:hidden;background:#111216}
+.rc-col-story-photo img{display:block;width:100%;height:auto;max-height:520px;object-fit:cover}
+.rc-col-story-photo figcaption{padding:10px 14px;font-size:.82rem;line-height:1.4;color:rgba(255,255,255,.72);border-top:2px solid #E42E3B}

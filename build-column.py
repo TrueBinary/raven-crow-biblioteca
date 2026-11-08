@@ -6,11 +6,14 @@ from pathlib import Path
 from html import escape
 import json
 import re
+from column_photos import photo_figure
 
 ROOT=Path(__file__).resolve().parent
 PUBLIC=ROOT/"public"
 BASE="https://ravencrow.cloud"
 ESSAYS=json.loads((PUBLIC/"coluna-ensaios.json").read_text(encoding="utf-8"))["essays"]
+try:PHOTO_CREDITS=json.loads((PUBLIC/"editorial-photo-credits.json").read_text(encoding="utf-8"))
+except (FileNotFoundError,ValueError):PHOTO_CREDITS={}
 source=(PUBLIC/"coluna.html").read_text(encoding="utf-8")
 match=re.search(r'<header class="rc-global-header">.*?</header>',source,re.S)
 if not match:raise ValueError("Existing shared Raven Crow header missing")
@@ -113,6 +116,7 @@ for essay in ESSAYS:
   <h1>{h(essay["title"])}</h1><p class="rc-col-story-dek">{h(essay["subtitle"])}</p>
   <p class="rc-col-story-byline">O Corvo Investigador · Raven Crow · {h(essay["date"][8:10])}/{h(essay["date"][5:7])}/{h(essay["date"][:4])}</p>
  </header>
+ {photo_figure(slug,PHOTO_CREDITS,PUBLIC,essay["title"])}
  <article class="rc-col-story-body">{paragraphs}</article>
  <section class="rc-col-sources" aria-labelledby="sources-heading"><h2 id="sources-heading">Fontes e leituras</h2><ul>{sources}</ul><p>Este texto é um ensaio de interpretação. As fontes citadas permitem consultar as obras e documentos originais.</p></section>
  <div class="rc-col-story-back"><a href="coluna.html">← Voltar à Coluna do Corvo</a><a href="apoie.html">Apoie o projeto ↗</a></div>
