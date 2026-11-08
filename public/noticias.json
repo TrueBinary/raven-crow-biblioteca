@@ -2,9 +2,48 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "08/11/2026",
-  "updatedAt": "2026-11-08T13:05:12-03:00",
+  "updatedAt": "2026-11-08T13:26:30-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "temporal-rio-270-mil-sem-luz-enem-2026-11-08",
+      "category": "BRASIL",
+      "date": "2026-11-08",
+      "title": "Temporal deixa mais de 270 mil clientes sem luz no Rio em dia de Enem",
+      "subtitle": "Balanço divulgado ao meio-dia aponta interrupções na área da Enel; queda de torres atingiu linha que alimenta sistema de captação de água na Grande Rio.",
+      "facts": "Mais de 270 mil clientes estavam sem energia elétrica na área atendida pela Enel no estado do Rio de Janeiro neste domingo, 8 de novembro de 2026, após a tempestade e as fortes rajadas de vento de sábado (7), segundo levantamento divulgado pelo UOL às 12h14 com base no mapa da concessionária. O total é um retrato daquele horário, não um balanço definitivo, e pode variar conforme as equipes restabeleçam o serviço. A Enel informou ter normalizado o fornecimento para 71% dos clientes atingidos pelas chuvas. Nove locais de prova do Enem ficaram temporariamente sem energia, mas tiveram o serviço restabelecido, de acordo com a reportagem. Entre os municípios com maior número de unidades afetadas constavam Araruama, Campos dos Goytacazes e Duque de Caxias. A CNN Brasil informou que o temporal derrubou torres de alta tensão da linha Magé–Alcântara, estrutura que fornece eletricidade ao sistema de captação e tratamento de água Imunana–Laranjal, na Região Metropolitana. Na capital, o Centro de Operações do Rio confirmou que a cidade retornou ao Estágio 1 às 5h de domingo após a redução dos impactos da chuva.",
+      "analysis": "O alcance do apagão mostra como um evento meteorológico pode comprometer serviços essenciais ao mesmo tempo: eletricidade, mobilidade, aplicação de provas e infraestrutura de água. A queda de torres em uma linha ligada ao sistema Imunana–Laranjal merece acompanhamento especial, mas a interrupção da alimentação elétrica não comprova, por si só, suspensão do abastecimento de água. Transparência sobre as áreas ainda afetadas, prazos realistas para religação e redundância de infraestrutura são prioridades imediatas. Após a emergência, concessionárias e órgãos reguladores devem apurar a resistência da rede e a efetividade dos planos de contingência, sem atribuir responsabilidade antes dos resultados técnicos.",
+      "counterpoint": "A Enel informou que grande parte dos clientes inicialmente afetados já havia recuperado a energia, e os nove locais de prova do Enem citados tiveram o fornecimento normalizado. Não há fundamento para tratar o número de 270 mil como permanente ou para afirmar que o exame inteiro foi interrompido. A prefeitura do Rio também reduziu seu estágio operacional na manhã de domingo, embora o impacto em outros municípios tenha persistido.",
+      "sources": [
+        {
+          "name": "UOL — 270 mil sem energia no RJ; 08/11/2026, 12h14",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/08/temporal-deixa-quase-200-mil-sem-luz-no-rio-em-dia-de-enem.ghtm"
+        },
+        {
+          "name": "CNN Brasil — queda de torres da Enel, 08/11/2026",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/temporal-no-rio-de-janeiro-destroi-torres-de-alta-tensao-da-enel/"
+        },
+        {
+          "name": "Agência Brasil — temporal no Rio, 07/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/rio-de-janeiro-registra-chuva-intensa-e-rajadas-de-vento"
+        },
+        {
+          "name": "COR-Rio — retorno ao Estágio 1, 08/11/2026",
+          "url": "https://cor.rio/municipio-do-rio-de-janeiro-retornou-ao-estagio-1-as-5h-deste-domingo-8-11-26/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Enchente_no_bairro_do_Catete.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Alberto Lemos / Wikimedia Commons",
+          "license": "CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Enchente_no_bairro_do_Catete.jpg",
+          "caption": "FOTO DE ARQUIVO (novembro de 2019): alagamento nas ruas do Catete, no Rio de Janeiro. Imagem ilustrativa de Alberto Lemos, não retrata o temporal de 07/11/2026 ou a falta de energia."
+        }
+      ]
+    },
     {
       "id": "usina-zaporizhzhia-sem-energia-externa-geradores-2026-11-08",
       "category": "MUNDO",
