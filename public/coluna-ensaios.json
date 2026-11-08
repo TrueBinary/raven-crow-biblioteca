@@ -3,6 +3,80 @@
   "updatedAt": "2026-11-08",
   "essays": [
     {
+      "id": "quando-o-estado-quer-ser-o-sindico-da-sua-consciencia-2026-11-08",
+      "section": "Filosofia e ideias",
+      "date": "2026-11-08",
+      "title": "O Estado quer ser síndico até da sua consciência",
+      "subtitle": "João Paulo II, o princípio da subsidiariedade e a velha tentação de transformar ajuda em autorização para mandar na vida alheia.",
+      "eyebrow": "OPINIÃO",
+      "paragraphs": [
+        "Há um tipo de governante que entra na vida pública prometendo resolver os problemas da vizinhança e, cinco minutos depois, já está escolhendo a cor da toalha de mesa de cada apartamento. Começa com a boa intenção de ajudar; termina com uma portaria determinando o horário permitido para a avó oferecer café. O poder tem essa curiosa vocação de síndico: quanto mais distante está da cozinha, mais certeza demonstra sobre o que falta na geladeira.",
+        "Existe uma palavra antiga para o antídoto: subsidiariedade. O Catecismo da Igreja Católica, nos parágrafos 1883 a 1885, explica que uma estrutura social maior não deve retirar de uma comunidade menor as tarefas que ela pode cumprir, mas ajudá-la quando necessário. Isso não é um slogan de campanha nem uma licença para abandonar os frágeis. É uma pergunta sobre competência e proximidade: por que transferir para um gabinete distante aquilo que uma família, uma associação, uma escola ou uma comunidade pode resolver com responsabilidade?",
+        "Em 1991, João Paulo II tratou do assunto no parágrafo 48 de Centesimus Annus. Ele reconheceu que a economia precisa de segurança jurídica, propriedade protegida, moeda estável e serviços públicos eficientes. Também admitiu intervenção estatal diante de monopólios e situações excepcionais. Ao mesmo tempo, criticou um Estado assistencial que substitui a sociedade, enfraquece suas energias e multiplica repartições. O diagnóstico é mais interessante que o grito de torcida: nem a ausência absoluta do Estado, nem a ideia de que ele deva dirigir cada detalhe da existência.",
+        "Imagine a associação de moradores que decide consertar a praça. Os vizinhos conhecem a árvore caída, o brinquedo quebrado e o idoso que precisa de um banco. Então chega a Superintendência Federal de Assuntos Relativos ao Banco da Praça, com três formulários, quatro carimbos e uma audiência pública para definir se sentar constitui atividade recreativa. Dois anos depois, a praça continua sem banco, mas já ganhou um manual de governança e uma subsecretaria de almofadas. A cena é inventada; o risco que ela satiriza é real: confundir o crescimento da máquina com a solução do problema.",
+        "Seria confortável concluir que basta deixar tudo com famílias e entidades privadas. Não basta. Há crianças negligenciadas, idosos abandonados, violência doméstica, pobreza e comunidades sem recursos. A própria doutrina social católica exige solidariedade, justiça e proteção concreta. Em 2020, o papa Francisco explicou que, quando famílias e grupos locais não conseguem cumprir objetivos essenciais, cabe às instâncias superiores oferecer os meios necessários. Subsidiariedade sem solidariedade vira desculpa para omissão; solidariedade sem subsidiariedade corre o risco de transformar cidadãos em dependentes permanentes de uma fila.",
+        "Também não convém romantizar o pequeno poder. Um dirigente de associação pode ser autoritário, um empresário pode abusar de sua posição, uma família pode falhar gravemente. A escala local não santifica ninguém. A diferença está na responsabilidade verificável: quem decide deve responder por consequências, respeitar direitos e aceitar correção. O princípio não pergunta apenas quem manda menos; pergunta quem consegue servir melhor, com limites e sem confiscar a iniciativa dos demais.",
+        "No fundo, uma sociedade livre não é aquela em que ninguém ajuda ninguém. É aquela em que ajudar não significa tomar o lugar de quem poderia agir. O Estado pode proteger a praça, garantir segurança e socorrer quem ficou para trás; não precisa reivindicar a autoria de cada gesto de cuidado. Quando a autoridade esquece essa distinção, até a caridade ganha número de protocolo. E o vizinho, que só queria oferecer um banco à senhora da esquina, descobre que a bondade foi indeferida por falta de reconhecimento de firma."
+      ],
+      "sources": [
+        {
+          "title": "Catecismo da Igreja Católica, §§ 1882–1885 e 1894 — subsidiariedade",
+          "url": "https://www.vatican.va/archive/cathechism_po/index_new/p3s1cap2_1877-1948_po.html"
+        },
+        {
+          "title": "João Paulo II, Centesimus Annus (1991), § 48 — Estado, sociedade e economia",
+          "url": "https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html"
+        },
+        {
+          "title": "Papa Francisco, Audiência Geral de 23/09/2020 — subsidiariedade e esperança",
+          "url": "https://www.vatican.va/content/francesco/pt/audiences/2020/documents/papa-francesco_20200923_udienza-generale.html"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/George_H_W_Bush_and_Pope_John_Paul_II_%28cropped%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Casa Branca / Wikimedia Commons (recorte por Stv26)",
+          "license": "Domínio público — obra oficial do governo federal dos Estados Unidos (PD-USGov); Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:George_H_W_Bush_and_Pope_John_Paul_II_(cropped).jpg",
+          "caption": "FOTO DE ARQUIVO (08/11/1991), Vaticano: João Paulo II durante encontro com o presidente norte-americano George H. W. Bush. Imagem recortada de fotografia oficial da Casa Branca; não retrata um acontecimento recente."
+        }
+      ],
+      "en": {
+        "title": "The state wants to manage even your conscience",
+        "subtitle": "John Paul II, subsidiarity, and the old temptation to turn helping others into permission to control their lives.",
+        "eyebrow": "OPINION",
+        "section": "Philosophy and ideas",
+        "paragraphs": [
+          "There is a kind of politician who enters public life promising to solve the neighborhood's problems and, five minutes later, is choosing the color of everyone's tablecloth. It begins with a good intention to help and ends with a building regulation specifying when Grandma may serve coffee. Power has an odd instinct to become the building manager: the farther it is from the kitchen, the more confidently it claims to know what is missing from the fridge.",
+          "An old word offers an antidote: subsidiarity. Paragraphs 1883–1885 of the Catechism of the Catholic Church explain that a larger social institution should not take over tasks that smaller communities can perform, but should support them when needed. This is neither a campaign slogan nor permission to abandon vulnerable people. It is a question of responsibility and proximity: why hand a distant office what a family, association, school, or neighborhood can handle responsibly?",
+          "In 1991, John Paul II addressed this in paragraph 48 of Centesimus Annus. He recognized that an economy needs legal certainty, protected property, stable money, and efficient public services. He also allowed for state intervention in cases involving monopolies and exceptional circumstances. Yet he criticized a welfare state that replaces society, drains its energies, and multiplies bureaucracies. That is more thoughtful than a political chant: neither the total absence of government nor the belief that it must manage every detail of life.",
+          "Picture neighbors deciding to repair a public square. They know which tree has fallen, which playground fixture is broken, and which elderly resident needs a bench. Then arrives the Federal Office for Matters Relating to Park Benches, bearing three forms, four stamps, and a public hearing to determine whether sitting counts as recreation. Two years later the square still lacks a bench, but it boasts a governance manual and a deputy department for cushions. The scene is fictional; the danger it mocks is real: mistaking a growing administrative machine for a solved problem.",
+          "It would be convenient to conclude that families and private groups can simply handle everything. They cannot. Some children are neglected, older people abandoned, homes are violent, and communities lack resources. Catholic social teaching itself calls for solidarity, justice, and concrete protection. In 2020, Pope Francis explained that when families and local groups cannot meet essential goals, higher institutions should provide the necessary support. Subsidiarity without solidarity becomes an excuse for neglect; solidarity without subsidiarity risks making citizens permanent dependents of a queue.",
+          "Nor should small-scale power be romanticized. A neighborhood association leader can be authoritarian, a business owner can abuse their position, and a family can fail badly. Being local does not make anyone holy. What matters is accountable responsibility: decision-makers must answer for consequences, respect rights, and accept correction. The principle asks not only who governs less, but who can serve better without taking away everyone else's initiative.",
+          "Ultimately, a free society is not one where nobody helps anyone. It is one where helping does not mean replacing people who can act for themselves. Government can protect the square, provide security, and help those left behind without claiming credit for every act of care. When authority forgets the distinction, even charity gets a case number. And the neighbor who only wanted to offer an elderly woman a bench discovers that kindness has been rejected for lack of a notarized signature."
+        ],
+        "photo_caption": "ARCHIVE PHOTO (November 8, 1991), Vatican City: John Paul II during a meeting with U.S. President George H. W. Bush. Cropped White House photograph; not a recent event."
+      },
+      "es": {
+        "title": "El Estado quiere administrar hasta tu conciencia",
+        "subtitle": "Juan Pablo II, la subsidiariedad y la vieja tentación de convertir la ayuda en permiso para controlar la vida ajena.",
+        "eyebrow": "OPINIÓN",
+        "section": "Filosofía e ideas",
+        "paragraphs": [
+          "Hay un tipo de gobernante que llega a la vida pública prometiendo resolver los problemas del barrio y, cinco minutos después, ya está eligiendo el color del mantel de cada vivienda. Empieza con la buena intención de ayudar y termina con un reglamento que fija a qué hora la abuela puede servir café. El poder tiene una extraña vocación de administrador de consorcio: cuanto más lejos está de la cocina, más seguro se muestra de saber qué falta en la nevera.",
+          "Existe una palabra antigua para el antídoto: subsidiariedad. Los párrafos 1883 a 1885 del Catecismo de la Iglesia Católica explican que una institución social mayor no debe quitar a las comunidades menores las tareas que pueden cumplir, sino apoyarlas cuando sea necesario. No es un eslogan electoral ni una excusa para abandonar a los vulnerables. Es una pregunta sobre responsabilidad y cercanía: ¿por qué entregar a un despacho lejano lo que una familia, una asociación, una escuela o un barrio pueden resolver responsablemente?",
+          "En 1991, Juan Pablo II abordó esta cuestión en el párrafo 48 de Centesimus Annus. Reconoció que la economía necesita seguridad jurídica, propiedad protegida, moneda estable y servicios públicos eficientes. También admitió la intervención estatal ante monopolios y situaciones excepcionales. Al mismo tiempo, criticó un Estado asistencial que sustituye a la sociedad, agota sus energías y multiplica oficinas. El planteamiento es más interesante que un grito partidario: ni ausencia absoluta del Estado ni la idea de que deba administrar cada detalle de la vida.",
+          "Imaginemos a unos vecinos que deciden reparar una plaza. Conocen el árbol caído, el juego roto y al anciano que necesita un banco. Entonces aparece la Superintendencia Federal de Asuntos Relativos a los Bancos de Plaza, con tres formularios, cuatro sellos y una audiencia pública para decidir si sentarse constituye actividad recreativa. Dos años después, la plaza sigue sin banco, pero ya tiene manual de gobernanza y subsecretaría de cojines. La escena es ficticia; el riesgo que satiriza es real: confundir el crecimiento de la maquinaria administrativa con la solución de un problema.",
+          "Sería cómodo concluir que las familias y las entidades privadas pueden encargarse de todo. No pueden. Hay niños desatendidos, ancianos abandonados, violencia doméstica, pobreza y comunidades sin recursos. La propia doctrina social católica exige solidaridad, justicia y protección concreta. En 2020, el papa Francisco explicó que, cuando las familias y los grupos locales no pueden cumplir objetivos esenciales, las instituciones superiores deben ofrecer los medios necesarios. Subsidiariedad sin solidaridad se vuelve excusa para la omisión; solidaridad sin subsidiariedad puede convertir a los ciudadanos en dependientes permanentes de una fila.",
+          "Tampoco conviene idealizar el poder pequeño. Un dirigente vecinal puede ser autoritario, un empresario puede abusar de su posición y una familia puede fallar gravemente. La cercanía no santifica a nadie. Lo decisivo es la responsabilidad comprobable: quien decide debe responder por las consecuencias, respetar los derechos y aceptar correcciones. El principio no pregunta solo quién manda menos, sino quién puede servir mejor sin arrebatar la iniciativa ajena.",
+          "En el fondo, una sociedad libre no es aquella donde nadie ayuda a nadie. Es aquella donde ayudar no significa sustituir a quien puede actuar. El Estado puede proteger la plaza, garantizar seguridad y socorrer a quienes se han quedado atrás sin adjudicarse cada gesto de cuidado. Cuando la autoridad olvida esa diferencia, hasta la caridad recibe número de expediente. Y el vecino que solo quería ofrecer un banco a una señora descubre que su bondad fue rechazada por falta de firma certificada."
+        ],
+        "photo_caption": "FOTO DE ARCHIVO (8 de noviembre de 1991), Ciudad del Vaticano: Juan Pablo II durante un encuentro con el presidente estadounidense George H. W. Bush. Fotografía oficial recortada; no retrata un hecho reciente."
+      }
+    },
+    {
       "id": "lula-bola-dos-outros-soberania-seletiva-2026-11-08",
       "section": "Política e sociedade",
       "date": "2026-11-08",
