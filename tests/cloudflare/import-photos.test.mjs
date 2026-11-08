@@ -89,3 +89,37 @@ test('extra in-text photos: slot 2/3 with placement become <id>--N', t => {
   assert.ok(existsSync(join(s.site, 'public/editorial/photos/nova-2026--2.jpg')));
   assert.match(r.skipped.find(x => x.reason.includes('slot')).reason, /slot/);
 });
+
+test('linked photos: article "photos" with an https url on an allowed host are downloaded with credit', async t => {
+  const { importLinkedPhotos } = await import('../../ops/cloudflare/import-photos.mjs');
+  const s = setup({ items: [] }); t.after(() => rmSync(s.root, { recursive: true, force: true }));
+  const p = over => ({ url: 'https://agenciabrasil.ebc.com.br/foto.jpg', uso_liberado: true, credit: 'Fulano/Agência Brasil', license: 'uso com crédito', source_article: 'https://agenciabrasil.ebc.com.br/x', ...over });
+  writeFileSync(join(s.site, 'public', 'noticias.json'), JSON.stringify({ articles: [
+    { id: 'nova-2026', photos: [p({ caption: 'Praça' }), p({ slot: 2, placement: 'fatos' }), p({ slot: 3, url: 'https://site-qualquer.com/a.jpg' })] },
+    { id: 'velha-2026', photos: [p({ uso_liberado: false })] },
+  ] }));
+  const asked = [];
+  const fetchFn = async url => { asked.push(url); return new Response(JPG, { status: 200 }); };
+  const r = await importLinkedPhotos({ siteRoot: s.site, fetchFn });
+  assert.deepEqual(r.imported, ['nova-2026', 'nova-2026--2']);
+  assert.deepEqual(asked, ['https://agenciabrasil.ebc.com.br/foto.jpg', 'https://agenciabrasil.ebc.com.br/foto.jpg']);
+  assert.deepEqual(readFileSync(join(s.site, 'public/editorial/photos/nova-2026.jpg')), JPG);
+  const c = JSON.parse(readFileSync(join(s.site, 'public/editorial-photo-credits.json'), 'utf8'));
+  assert.equal(c['nova-2026'].caption, 'Praça');
+  assert.equal(c['nova-2026--2'].placement, 'fatos');
+  assert.ok(r.skipped.some(x => /host/.test(x.reason)));
+  assert.ok(r.skipped.some(x => /uso_liberado/.test(x.reason)));
+  const again = await importLinkedPhotos({ siteRoot: s.site, fetchFn });
+  assert.deepEqual(again.imported, []);
+});
+
+test('linked photos: non-JPEG or failed download is skipped, nothing written', async t => {
+  const { importLinkedPhotos } = await import('../../ops/cloudflare/import-photos.mjs');
+  const s = setup({ items: [] }); t.after(() => rmSync(s.root, { recursive: true, force: true }));
+  writeFileSync(join(s.site, 'public', 'noticias.json'), JSON.stringify({ articles: [{ id: 'nova-2026', photos: [{ url: 'https://upload.wikimedia.org/a.jpg', uso_liberado: true, credit: 'A', license: 'CC BY 4.0', source_article: 'https://commons.wikimedia.org/x' }] }] }));
+  const r = await importLinkedPhotos({ siteRoot: s.site, fetchFn: async () => new Response('<html>', { status: 200 }) });
+  assert.deepEqual(r.imported, []);
+  assert.equal(existsSync(join(s.site, 'public/editorial/photos/nova-2026.jpg')), false);
+  const r2 = await importLinkedPhotos({ siteRoot: s.site, fetchFn: async () => new Response('x', { status: 404 }) });
+  assert.match(r2.skipped[0].reason, /download/);
+});
