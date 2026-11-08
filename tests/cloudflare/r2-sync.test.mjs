@@ -5,7 +5,7 @@ import { mkdtempSync, mkdirSync, writeFileSync, rmSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
-import { syncMedia } from '../../ops/cloudflare/r2-sync.mjs';
+import { syncMedia, isMutable } from '../../ops/cloudflare/r2-sync.mjs';
 
 const md5 = b => createHash('md5').update(b).digest('hex');
 const FILES = { 'index.html': Buffer.from('<h1>x</h1>'), 'public/a.txt': Buffer.from('aaa'), 'public/clips/ab.mp4': Buffer.from([0, 1, 2, 3, 4]) };
@@ -155,4 +155,10 @@ test('token file being rewritten by the cf CLI is retried, not a failed release'
   spawn(process.execPath, ['-e', `setTimeout(()=>require('fs').writeFileSync(${JSON.stringify(f)},JSON.stringify({oauth_token:'abc'})),300)`], { stdio: 'ignore' });
   assert.equal(readTokenFile(f, { tries: 30, waitMs: 100 }), 'abc');
   assert.throws(() => readTokenFile(join(dir, 'never.json'), { tries: 2, waitMs: 10 }), /ENOENT/);
+});
+
+test('favicon.ico is site chrome and may be replaced; clips and photos stay immutable', () => {
+  assert.equal(isMutable('favicon.ico'), true);
+  assert.equal(isMutable('clips/aa.mp4'), false);
+  assert.equal(isMutable('noticias/fotos/x.jpg'), false);
 });
