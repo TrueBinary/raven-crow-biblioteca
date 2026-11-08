@@ -7,6 +7,17 @@ from html import escape
 import json
 import re
 from column_photos import photo_figure
+from news_i18n import hreflang
+
+# Translated essays: "en"/"es" block {title, subtitle, eyebrow, section, paragraphs:[...], photo_caption} -> /<lang>/coluna/<id>/.
+COL_LANGS={
+ "en":{"tag":"Opinion","crumb":"The Crow's Column","sources":"Sources and further reading","note":"This text is an interpretive essay. The sources listed let you consult the original works and documents.","back":"← Read in Portuguese","support":"Support the project ↗","by":"The Crow Investigator","foot":"© Raven Crow · Editorial opinion"},
+ "es":{"tag":"Opinión","crumb":"La Columna del Cuervo","sources":"Fuentes y lecturas","note":"Este texto es un ensayo de interpretación. Las fuentes citadas permiten consultar las obras y documentos originales.","back":"← Leer en portugués","support":"Apoya el proyecto ↗","by":"El Cuervo Investigador","foot":"© Raven Crow · Opinión editorial"},
+}
+def essay_block(essay,lang):
+    b=essay.get(lang)
+    ok=isinstance(b,dict) and isinstance(b.get("title"),str) and b["title"].strip() and isinstance(b.get("paragraphs"),list) and b["paragraphs"] and all(isinstance(p,str) and p.strip() for p in b["paragraphs"])
+    return b if ok else None
 
 ROOT=Path(__file__).resolve().parent
 PUBLIC=ROOT/"public"
@@ -122,9 +133,37 @@ for essay in ESSAYS:
  <div class="rc-col-story-back"><a href="coluna.html">← Voltar à Coluna do Corvo</a><a href="apoie.html">Apoie o projeto ↗</a></div>
 </main><footer class="rc-col-footer"><div>© Raven Crow · Opinião editorial</div><div><a href="coluna.html">Outros ensaios</a> · <a href="index.html">Início</a></div></footer>
 <script defer src="raven-analytics.js"></script></body></html>'''
+    tr={l:f"{BASE}/{l}/coluna/{slug}/" for l in COL_LANGS if essay_block(essay,l)}
+    canon=f'<link rel="canonical" href="{h(url)}">'
+    if tr:article=article.replace(canon,canon+hreflang(url,tr),1)
     target=PUBLIC/"coluna"/slug
     target.mkdir(parents=True,exist_ok=True)
     (target/"index.html").write_text(article,encoding="utf-8")
+    for lang,lurl in tr.items():
+        b,L=essay_block(essay,lang),COL_LANGS[lang]
+        credits=dict(PHOTO_CREDITS)
+        if slug in credits:credits[slug]={**credits[slug],"caption":str(b.get("photo_caption") or "")}
+        paras="".join(f"<p>{h(p)}</p>" for p in b["paragraphs"])
+        page=f'''{meta(b["title"],b.get("subtitle",""),lurl,article=True,base=True)}
+<body class="rc-subpage rc-column rc-column-article">{HEADER}
+<main class="rc-col-story" id="main-content">
+ <nav class="rc-col-breadcrumb" aria-label="Breadcrumb"><a href="coluna/{slug}/" hreflang="pt-BR">{L["crumb"]}</a> <span aria-hidden="true">/</span> {h(b.get("section") or essay["section"])}</nav>
+ <header class="rc-col-story-header">
+  <span class="rc-col-story-tag">{h(b.get("eyebrow") or essay["eyebrow"])} · {L["tag"]}</span>
+  <h1>{h(b["title"])}</h1><p class="rc-col-story-dek">{h(b.get("subtitle",""))}</p>
+  <p class="rc-col-story-byline">{L["by"]} · Raven Crow · {h(essay["date"])}</p>
+ </header>
+ {photo_figure(slug,credits,PUBLIC,b["title"])}
+ <article class="rc-col-story-body">{paras}</article>
+ <section class="rc-col-sources" aria-labelledby="sources-heading"><h2 id="sources-heading">{L["sources"]}</h2><ul>{sources}</ul><p>{L["note"]}</p></section>
+ <div class="rc-col-story-back"><a href="coluna/{slug}/" hreflang="pt-BR">{L["back"]}</a><a href="apoie.html">{L["support"]}</a></div>
+</main><footer class="rc-col-footer"><div>{L["foot"]}</div><div><a href="{lang}/">Raven Crow · {lang.upper()}</a> · <a href="index.html">Raven Crow</a></div></footer>
+<script defer src="raven-analytics.js"></script></body></html>'''
+        page=page.replace('<html lang="pt-BR">',f'<html lang="{lang}">',1).replace('<base href="../../">','<base href="../../../">',1)
+        page=page.replace(canon.replace(h(url),h(lurl)),canon.replace(h(url),h(lurl))+hreflang(url,tr),1)
+        d=PUBLIC/lang/"coluna"/slug
+        d.mkdir(parents=True,exist_ok=True)
+        (d/"index.html").write_text(page,encoding="utf-8")
 from raven_seo import build as build_seo
 build_seo(ROOT)
 print("Generated",len(ESSAYS),"Raven Crow essays and an opinion archive hub")

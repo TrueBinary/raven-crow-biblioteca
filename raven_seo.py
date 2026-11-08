@@ -244,8 +244,9 @@ def build(root: Path) -> dict:
     for lang in ("en", "es"):
         if (pub / lang / "index.html").is_file():
             entries.append((BASE + "/" + lang + "/", None))
-        for f in sorted((pub / lang / "noticias").glob("*/index.html")):
-            entries.append((BASE + "/" + lang + "/noticias/" + f.parent.name + "/", None))
+        for kind in ("noticias", "coluna"):
+            for f in sorted((pub / lang / kind).glob("*/index.html")):
+                entries.append((BASE + "/" + lang + "/" + kind + "/" + f.parent.name + "/", None))
     sitemap = ['<?xml version="1.0" encoding="UTF-8"?>',
                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for url, modified in entries:
