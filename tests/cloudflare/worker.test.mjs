@@ -120,7 +120,7 @@ test('HTML pages get the social bar script just before </body>; other files unto
   const e = env({ RAVEN_MEDIA: bucket({ ...FILES, 'index.html': Buffer.from('<html><body><h1>home</h1></body></html>') }) });
   const r = await call('/', {}, e);
   const html = await r.text();
-  assert.match(html, /<h1>home<\/h1><script data-cfasync="false" src="https:\/\/bauval\.org\/14\/4615ad4de14cf536c88fee7d3ea00470"><\/script><\/body>/);
+  assert.match(html, /<h1>home<\/h1><script data-cfasync="false" src="https:\/\/bauval\.org\/14\/4615ad4de14cf536c88fee7d3ea00470"><\/script><div class="gtranslate_wrapper"><\/div>.*cdn\.gtranslate\.net\/widgets\/latest\/float\.js" defer><\/script><\/body>/);
   assert.equal(r.headers.get('content-length'), String(Buffer.byteLength(html)));
   assert.equal(await (await call('/raven-frontpage.js', {}, e)).text(), '1');
 });
