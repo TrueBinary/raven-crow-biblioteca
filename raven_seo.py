@@ -206,8 +206,12 @@ def build(root: Path) -> dict:
             "mainEntityOfPage": {"@type": "WebPage", "@id": url},
             "isAccessibleForFree": True,
         }
+        photo = pub / "editorial" / "photos" / (slug + ".jpg")
+        image = BASE + "/editorial/photos/" + slug + ".jpg" if photo.is_file() else None
+        if image:
+            article["image"] = image
         _metadata(file, [article, _crumbs("Coluna", item.get("title", ""), url)],
-                  published=published, modified=article["dateModified"])
+                  published=published, modified=article["dateModified"], image=image)
         entries.append((url, article["dateModified"]))
 
     home = root / "index.html"
