@@ -66,3 +66,13 @@ test('a broken manifest is reported, not fatal', t => {
   assert.deepEqual(r.imported, []);
   assert.match(r.skipped[0].reason, /manifest/);
 });
+
+test('accepts photos for Coluna essays (ids from coluna-ensaios.json) and keeps the caption', t => {
+  const s = setup({ items: [ok({ article_id: 'ensaio-teste', caption: 'Plenário do Senado (foto de arquivo)' })] });
+  t.after(() => rmSync(s.root, { recursive: true, force: true }));
+  writeFileSync(join(s.site, 'public', 'coluna-ensaios.json'), JSON.stringify({ essays: [{ id: 'ensaio-teste' }] }));
+  const r = importPhotos({ siteRoot: s.site, dropRoot: s.dropRoot });
+  assert.deepEqual(r.imported, ['ensaio-teste']);
+  const c = JSON.parse(readFileSync(join(s.site, 'public/editorial-photo-credits.json'), 'utf8'))['ensaio-teste'];
+  assert.equal(c.caption, 'Plenário do Senado (foto de arquivo)');
+});
