@@ -28,7 +28,7 @@ function Update-Pages {
       $o = & python $b 2>&1
       if ($LASTEXITCODE -ne 0) { Log "PAGES FAILED $b`: $((($o | Out-String).Trim() -split "\r?\n")[-1])"; return }
     }
-    git add index.html public/noticias.html public/noticias public/sitemap.xml public/robots.txt public/raven-analytics.js public/editorial-feed.json public/editorial-images.json public/editorial/covers public/editorial/photos public/editorial-photo-credits.json public/creditos-fotos.html public/coluna.html public/coluna public/livros.html public/livros.json public/en public/es
+    git add index.html public/noticias.html public/noticias public/sitemap.xml public/robots.txt public/raven-analytics.js public/editorial-feed.json public/editorial-images.json public/editorial/covers public/editorial/photos public/editorial-photo-credits.json public/creditos-fotos.html public/coluna.html public/coluna public/livros.html public/livros.json public/en public/es public/sitemap-news.xml
     git diff --cached --quiet
     if ($LASTEXITCODE -eq 0) { return }  # builders produced nothing new
     git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "Atualizar paginas indexaveis da Coluna"
