@@ -240,6 +240,12 @@ def build(root: Path) -> dict:
                 graph[0]["mainEntity"] = listing
             _metadata(file, graph)
 
+    # Translated editions (news_i18n.py): /<lang>/ and every /<lang>/noticias/<id>/ page that exists.
+    for lang in ("en", "es"):
+        if (pub / lang / "index.html").is_file():
+            entries.append((BASE + "/" + lang + "/", None))
+        for f in sorted((pub / lang / "noticias").glob("*/index.html")):
+            entries.append((BASE + "/" + lang + "/noticias/" + f.parent.name + "/", None))
     sitemap = ['<?xml version="1.0" encoding="UTF-8"?>',
                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for url, modified in entries:
