@@ -38,3 +38,9 @@ No secrets here: endpoints, record types, IDs and check results only.
 - Version `2dd11af1-4d81-4ef6-a164-fffb1c1c037a` from commit e9e3085: hash-named clips (`clips/<sha256>.mp4|jpg`) served with `Cache-Control: public, max-age=31536000, immutable`; HTML/JSON/XML 60 s; other assets 300 s. Bindings unchanged (`RAVEN_MEDIA`, `GITHUB_FALLBACK=1`).
 - Evidence: probe 9/9; `/` and feed 60 s; clip mp4/jpg immutable, served from `r2`; Range 206 on www.
 - Rollback: deployments API to version `fc40f4a6-3994-4b6f-8acd-9957155edaea`.
+
+## 2026-11-08 — Worker deploy (social bar)
+
+- Version `48656803-7585-49f1-87be-a7d6c104d812` from commit a4ad38e (includes d967ce9): social bar script appended before `</body>` on every 200 HTML response. Bindings unchanged.
+- Evidence: `/`, `/noticias.html` and an article page carry the script once; JS/health untouched.
+- Rollback: deployments API to version `2dd11af1-4d81-4ef6-a164-fffb1c1c037a`.
