@@ -145,3 +145,14 @@ test('a failed phase stops later phases, so the feed never links to a missing pa
   assert.deepEqual(r.failed.map(f => f.key), ['noticias/nova-2026/index.html']);
   for (const entry of ['index.html', 'editorial-feed.json', 'sitemap.xml']) assert.equal(api.objects.has(entry), false, entry);
 });
+
+test('token file being rewritten by the cf CLI is retried, not a failed release', async t => {
+  const { readTokenFile } = await import('../../ops/cloudflare/r2-sync.mjs');
+  const { spawn } = await import('node:child_process');
+  const dir = mkdtempSync(join(tmpdir(), 'tok-')); t.after(() => rmSync(dir, { recursive: true, force: true }));
+  const f = join(dir, 'default.json');
+  // The reader is synchronous, so the late write must come from another process.
+  spawn(process.execPath, ['-e', `setTimeout(()=>require('fs').writeFileSync(${JSON.stringify(f)},JSON.stringify({oauth_token:'abc'})),300)`], { stdio: 'ignore' });
+  assert.equal(readTokenFile(f, { tries: 30, waitMs: 100 }), 'abc');
+  assert.throws(() => readTokenFile(join(dir, 'never.json'), { tries: 2, waitMs: 10 }), /ENOENT/);
+});
