@@ -142,5 +142,29 @@
     "artist": "Fernando Frazão/Agência Brasil",
     "illustrative": false,
     "caption": "Foto de arquivo: edifício-sede da Petrobras, no Centro do Rio de Janeiro. Imagem ilustrativa, não retrata a resolução do Gecex."
+  },
+  "familia-crista-primeira-escola-de-amor": {
+    "path": "editorial/photos/familia-crista-primeira-escola-de-amor.jpg",
+    "source": "https://agenciabrasil.ebc.com.br/foto/2025-04/missa-de-lava-pes-1744931907-4",
+    "license": "Agência Brasil: uso fotojornalístico gratuito com crédito obrigatório (https://www.gov.br/pt-br/servicos/acessar-material-fotojornalistico-gratuitamente)",
+    "artist": "Paulo Pinto/Agência Brasil",
+    "illustrative": false,
+    "caption": "Fiéis, incluindo uma família com um bebê, durante a Missa de Lava-pés na Catedral da Sé, em São Paulo (17/04/2025); imagem ilustrativa de arquivo"
+  },
+  "direito-natural-lei-e-justica": {
+    "path": "editorial/photos/direito-natural-lei-e-justica.jpg",
+    "source": "https://agenciabrasil.ebc.com.br/foto/2019-10/fachada-do-supremo-tribunal-federal-stf-1581292376-4",
+    "license": "Agência Brasil: uso fotojornalístico gratuito com crédito obrigatório (https://www.gov.br/pt-br/servicos/acessar-material-fotojornalistico-gratuitamente)",
+    "artist": "Marcello Casal Jr/Agência Brasil",
+    "illustrative": false,
+    "caption": "Fachada do Supremo Tribunal Federal com a estátua A Justiça, de Alfredo Ceschiatti, em primeiro plano (Brasília, 2019); imagem ilustrativa de arquivo"
+  },
+  "poder-politico-responsabilidade-e-limites": {
+    "path": "editorial/photos/poder-politico-responsabilidade-e-limites.jpg",
+    "source": "https://agenciabrasil.ebc.com.br/foto/2020-03/cupula-plenario-da-camara-dos-deputados-congresso-nacional-1585699228",
+    "license": "Agência Brasil: uso fotojornalístico gratuito com crédito obrigatório (https://www.gov.br/pt-br/servicos/acessar-material-fotojornalistico-gratuitamente)",
+    "artist": "Marcello Casal Jr/Agência Brasil",
+    "illustrative": false,
+    "caption": "Congresso Nacional em Brasília, com as torres e a cúpula do Plenário da Câmara dos Deputados (foto de arquivo); imagem ilustrativa de arquivo"
   }
 }
