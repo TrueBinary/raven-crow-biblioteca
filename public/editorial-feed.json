@@ -302,6 +302,10 @@
         {
           "name": "Agência Brasil, orientações de redação",
           "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/cartilha-reune-orientacoes-para-redacao-do-enem-2026"
+        },
+        {
+          "name": "Brasil Escola e UNIP — live do primeiro dia do Enem 2026 (08/11/2026)",
+          "url": "https://vestibular.brasilescola.uol.com.br/enem/ao-vivo-enem"
         }
       ],
       "photos": [
@@ -324,6 +328,9 @@
         "category": "EDUCATION",
         "photo_captions": {
           "1": "ARCHIVE PHOTO (August 26, 2007): Enem participants in Brasília; not the 2026 exam."
+        },
+        "video_captions": {
+          "1": "Brasil Escola Oficial and UNIP livestream discussing the essay and the Language and Humanities exams on the first day of Enem 2026."
         }
       },
       "es": {
@@ -335,8 +342,19 @@
         "category": "EDUCACIÓN",
         "photo_captions": {
           "1": "FOTO DE ARCHIVO (26 de agosto de 2007): participantes del Enem en Brasilia; no muestra el examen de 2026."
+        },
+        "video_captions": {
+          "1": "Transmisión de Brasil Escola Oficial y UNIP sobre la redacción y las pruebas de Lenguajes y Ciencias Humanas del primer día del Enem 2026."
         }
-      }
+      },
+      "videos": [
+        {
+          "youtube": "https://www.youtube.com/watch?v=n55uLtubOzE",
+          "placement": "analise",
+          "caption": "Live do Brasil Escola Oficial e UNIP comenta a redação e as provas de Linguagens e Ciências Humanas do primeiro dia do Enem 2026.",
+          "credit": "Brasil Escola Oficial"
+        }
+      ]
     },
     {
       "id": "colisao-trens-egito-sete-mortos-2026-11-08",
