@@ -3,6 +3,7 @@
 param(
   [string]$ReleaseTree = 'D:\CorteFlow\work\raven-cf-release',
   [string]$BuildTree = 'D:\CorteFlow\work\raven-builder-outputs-20261107',
+  [string]$PhotoInbox = 'D:\RavenNewsEngine\imagens_para_claude',
   [string]$LogDir = 'D:\CorteFlow\work\raven-cf-release-logs',
   [string]$AccountId = 'f6140a337d3b05e5e27c7f64ed166134'
 )
@@ -21,6 +22,8 @@ function Update-Pages {
   git -C $BuildTree clean -fdq -- index.html public  # own worktree: drop leftovers of earlier runs
   Push-Location $BuildTree
   try {
+    # Cleared photos the news agent dropped in its inbox go in before the builders (they win over automatic Commons photos).
+    & node (Join-Path $PSScriptRoot 'import-photos.mjs') $BuildTree $PhotoInbox 2>&1 | Where-Object { "$_" -match '^PHOTO' } | ForEach-Object { Log "$_" }
     foreach ($b in 'build-raven.py', 'build-column.py', 'build-news-index.py', 'build-library.py') {
       $o = & python $b 2>&1
       if ($LASTEXITCODE -ne 0) { Log "PAGES FAILED $b`: $((($o | Out-String).Trim() -split "\r?\n")[-1])"; return }
