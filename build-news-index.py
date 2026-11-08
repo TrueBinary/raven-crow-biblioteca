@@ -51,6 +51,14 @@ page='''<!doctype html><html lang="pt-BR"><head>
 <script defer src="raven-frontpage.js"></script><script defer src="raven-analytics.js"></script>
 </body></html>'''
 (PUBLIC/'noticias.html').write_text(page,encoding='utf-8')
+# Homepage: plain links to the newest articles inside .rc-mag-main, so crawlers find them without running JS.
+# raven-frontpage.js empties .rc-mag-main and draws the magazine on top, so the visible page does not change.
+latest=sorted((a for a in articles if re.fullmatch(r'[a-z0-9-]{3,100}',str(a.get('id','')))),key=lambda a:a.get('date',''),reverse=True)[:12]
+static='<ul class="rc-static-links">'+''.join(f'<li><a href="noticias/{escape(a["id"],quote=True)}/">{escape(a.get("title",""))}</a></li>' for a in latest)+'</ul>'
+home_now=(ROOT/'index.html').read_text(encoding='utf-8')
+home_new=re.sub(r'<div class="rc-mag-main">(?:<ul class="rc-static-links">.*?</ul>)?</div>',lambda m:'<div class="rc-mag-main">'+static+'</div>',home_now,count=1,flags=re.S)
+if 'rc-static-links' not in home_new:raise RuntimeError('Homepage .rc-mag-main container missing')
+if home_new!=home_now:(ROOT/'index.html').write_text(home_new,encoding='utf-8')
 from raven_seo import build as build_seo
 build_seo(ROOT)
 print(f'News index generated with {len(links)} published article links')
