@@ -5,7 +5,7 @@ Safe to call after any of the existing site builders.
 """
 from __future__ import annotations
 
-from datetime import date
+from datetime import date, datetime, timedelta, timezone
 from html import escape as html_escape
 import json
 from pathlib import Path
@@ -143,7 +143,7 @@ def _metadata(path: Path, graph: list, *, published=None, modified=None, image=N
     _write_if_changed(path, page)
 
 
-def build(root: Path) -> dict:
+def build(root: Path, today: date | None = None) -> dict:
     root = Path(root)
     pub = root / "public"
     news = _news_data(pub)
@@ -158,6 +158,7 @@ def build(root: Path) -> dict:
             entries.append((url, None))
 
     linked_news = []
+    recent_news = []
     for slug, item in sorted(news.items(), key=lambda kv: (kv[1].get("date", ""), kv[0]), reverse=True):
         url = BASE + "/noticias/" + slug + "/"
         file = pub / "noticias" / slug / "index.html"
@@ -189,6 +190,7 @@ def build(root: Path) -> dict:
                   published=published, modified=modified, image=image)
         entries.append((url, modified))
         linked_news.append((url, item.get("title", "")))
+        recent_news.append((url, item.get("title", ""), published))
 
     for slug, item in sorted(essays.items()):
         url = BASE + "/coluna/" + slug + "/"
@@ -265,7 +267,32 @@ def build(root: Path) -> dict:
                        "</url>")
     sitemap.append("</urlset>")
     _write_if_changed(pub / "sitemap.xml", "\n".join(sitemap) + "\n")
-    return {"sitemap_urls": len(entries), "news": len(linked_news), "essays": len(essays)}
+    news_count = _write_news_sitemap(pub, recent_news, today)
+    return {"sitemap_urls": len(entries), "news": len(linked_news), "essays": len(essays), "news_sitemap": news_count}
+
+
+def _write_news_sitemap(pub: Path, items, today=None):
+    """Google News sitemap: only articles published in the last two days (max 1000), refreshed on every build."""
+    today = today or datetime.now(timezone(timedelta(hours=-3))).date()  # Brasília, sem horário de verão
+    oldest = (today - timedelta(days=2)).isoformat()
+    recent = [x for x in items if x[2] >= oldest][:1000]
+    rows = ['<?xml version="1.0" encoding="UTF-8"?>',
+            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
+            'xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">']
+    for url, title, published in recent:
+        rows.append("  <url><loc>" + xml_escape(url) + "</loc><news:news><news:publication>"
+                    "<news:name>Raven Crow</news:name><news:language>pt</news:language></news:publication>"
+                    "<news:publication_date>" + published + "</news:publication_date>"
+                    "<news:title>" + xml_escape(title) + "</news:title></news:news></url>")
+    rows.append("</urlset>")
+    _write_if_changed(pub / "sitemap-news.xml", "\n".join(rows) + "\n")
+    # robots.txt é reescrito pelo build-raven.py; garante a linha do sitemap de notícias depois dele
+    robots = pub / "robots.txt"
+    line = "Sitemap: " + BASE + "/sitemap-news.xml"
+    text = robots.read_text(encoding="utf-8") if robots.exists() else "User-agent: *\nAllow: /\nSitemap: " + BASE + "/sitemap.xml\n"
+    if line not in text:
+        _write_if_changed(robots, text.rstrip("\n") + "\n" + line + "\n")
+    return len(recent)
 
 
 if __name__ == "__main__":

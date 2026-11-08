@@ -48,6 +48,21 @@ class SeoBuilderTests(unittest.TestCase):
     def tearDown(self):
         self.tmp.cleanup()
 
+    def test_news_sitemap_only_recent_published_articles(self):
+        from datetime import date
+        pub = self.root / "public"
+        build(self.root, today=date(2026, 11, 7))
+        tree = ET.parse(pub / "sitemap-news.xml").getroot()
+        ns = {"s": "http://www.sitemaps.org/schemas/sitemap/0.9", "n": "http://www.google.com/schemas/sitemap-news/0.9"}
+        urls = [u.find("s:loc", ns).text for u in tree.findall("s:url", ns)]
+        self.assertEqual(urls, ["https://ravencrow.cloud/noticias/estudo-tributacao/"])  # rascunho sem página fica fora
+        self.assertEqual(tree.find(".//n:publication_date", ns).text, "2026-11-05")
+        self.assertEqual(tree.find(".//n:name", ns).text, "Raven Crow")
+        self.assertIn("Sitemap: https://ravencrow.cloud/sitemap-news.xml", (pub / "robots.txt").read_text(encoding="utf-8"))
+        build(self.root, today=date(2026, 11, 9))  # 4 dias depois: sai do sitemap de notícias
+        self.assertEqual(ET.parse(pub / "sitemap-news.xml").getroot().findall("s:url", ns), [])
+        self.assertEqual((pub / "robots.txt").read_text(encoding="utf-8").count("sitemap-news.xml"), 1)
+
     def test_sitemap_only_has_rendered_canonical_pages_with_true_dates(self):
         build(self.root)
         tree = ET.parse(self.root / "public" / "sitemap.xml")
