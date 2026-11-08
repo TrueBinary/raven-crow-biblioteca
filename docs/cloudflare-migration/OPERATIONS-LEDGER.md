@@ -44,3 +44,8 @@ No secrets here: endpoints, record types, IDs and check results only.
 - Version `48656803-7585-49f1-87be-a7d6c104d812` from commit a4ad38e (includes d967ce9): social bar script appended before `</body>` on every 200 HTML response. Bindings unchanged.
 - Evidence: `/`, `/noticias.html` and an article page carry the script once; JS/health untouched.
 - Rollback: deployments API to version `2dd11af1-4d81-4ef6-a164-fffb1c1c037a`.
+
+## 2026-11-08 — Worker deploy (GTranslate)
+
+- Version `38f7a94a-a704-4d18-b62b-d3a730f24cb4` from commit ae54001: GTranslate float switcher (pt default; en, es, fr, de, it; bottom-left) after the social bar, before `</body>`.
+- Rollback: deployments API to version `48656803-7585-49f1-87be-a7d6c104d812`.
