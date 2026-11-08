@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "id": "usina-zaporizhzhia-sem-energia-externa-geradores-2026-11-08",
+      "category": "MUNDO",
+      "date": "2026-11-08",
+      "title": "Maior usina nuclear da Europa perde energia externa e depende de geradores na Ucrânia",
+      "subtitle": "AIEA confirma desconexão da rede em Zaporizhzhia; diesel disponível para cerca de duas semanas e causa do desligamento ainda desconhecida.",
+      "facts": "A usina nuclear de Zaporizhzhia, no sudeste da Ucrânia e sob controle russo desde 2022, voltou a perder neste domingo, 8 de novembro de 2026, toda a alimentação elétrica externa após a desconexão da linha Ferosplavna. A Agência Internacional de Energia Atômica (AIEA) informou que geradores a diesel estão fornecendo eletricidade para manter os sistemas essenciais, incluindo o resfriamento do combustível nuclear. Segundo a agência, a origem e o local exatos da desconexão ainda não foram determinados. Há combustível suficiente para manter um número limitado de geradores por aproximadamente duas semanas. A linha principal Dniprovska já estava indisponível desde outubro. A administração instalada pela Rússia disse que a proteção automática desligou a linha e afirmou que os níveis de radiação estavam normais; essa última avaliação foi apresentada pela administração da usina, não como medição independente publicada nesta matéria. Os seis reatores não estão gerando eletricidade, mas ainda precisam de resfriamento.",
+      "analysis": "O episódio expõe a vulnerabilidade de uma instalação nuclear que, mesmo desligada, continua dependendo de eletricidade constante para proteger seu combustível. A autonomia estimada dos geradores não é prazo para um acidente, mas uma margem operacional que exige abastecimento e manutenção confiáveis. A guerra tornou o reparo das linhas de transmissão dependente de negociações e cessar-fogo locais. A prioridade deveria ser preservar equipes técnicas, permitir acesso de inspetores internacionais e restabelecer rotas redundantes de energia, independentemente de quem controla militarmente o território. Uma crise nuclear não respeitaria as fronteiras das partes envolvidas.",
+      "counterpoint": "A administração nomeada pela Rússia sustenta que os sistemas de segurança estão operacionais e que a radiação permanece normal. A AIEA confirma a utilização de geradores, mas ressalta que a causa da desconexão não foi identificada. Portanto, não há base para afirmar vazamento radioativo, explosão ou falha iminente do resfriamento. O risco estrutural é real, mas a situação imediata deve ser acompanhada por boletins técnicos, sem alarmismo.",
+      "sources": [
+        {
+          "name": "AIEA — informação técnica divulgada em 08/11/2026, reproduzida pela Reuters",
+          "url": "https://www.reuters.com/world/zaporizhzhia-nuclear-plant-loses-external-power-supply-russian-installed-2026-11-08/"
+        },
+        {
+          "name": "Associated Press — cobertura independente da interrupção de energia, 08/11/2026",
+          "url": "https://apnews.com/article/e64dd583955f11e4cf08ef5af6eaf35b"
+        },
+        {
+          "name": "UOL — usina nuclear tem diesel para duas semanas, 08/11/2026",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/08/usina-nuclear-na-ucrania-tem-diesel-para-duas-semanas-apos-apagao.ghtm"
+        }
+      ]
+    },
+    {
       "id": "israel-herzog-escolhe-eisenkot-formar-governo-2026-11-08",
       "category": "INTERNACIONAL",
       "date": "2026-11-08",
