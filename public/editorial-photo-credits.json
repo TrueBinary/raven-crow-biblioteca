@@ -54,5 +54,29 @@
     "artist": "Oleg Yunakov",
     "commons_title": "File:20 Brazilian Real banknote featuring a Golden Lion Tamarin monkey.jpg",
     "illustrative": true
+  },
+  "lula-sanciona-enamed-obrigatorio-medicina-2026": {
+    "path": "editorial/photos/lula-sanciona-enamed-obrigatorio-medicina-2026.jpg",
+    "source": "https://agenciabrasil.ebc.com.br/foto/2026-11/sancao-do-pl-que-institui-o-enamed-1793997740-2",
+    "license": "Agência Brasil: uso fotojornalístico gratuito com crédito obrigatório (https://www.gov.br/pt-br/servicos/acessar-material-fotojornalistico-gratuitamente)",
+    "artist": "Valter Campanato/Agência Brasil",
+    "caption": "Cerimônia de sanção da lei do Enamed, 06/11/2026",
+    "illustrative": false
+  },
+  "trf3-suspende-liminar-tres-bets-cda-2026": {
+    "path": "editorial/photos/trf3-suspende-liminar-tres-bets-cda-2026.jpg",
+    "source": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-suspende-decisao-que-liberou-o-funcionamento-de-tres-bets",
+    "license": "Agência Brasil: uso fotojornalístico gratuito com crédito obrigatório (https://www.gov.br/pt-br/servicos/acessar-material-fotojornalistico-gratuitamente)",
+    "artist": "Fabio Rodrigues-Pozzebom/Agência Brasil",
+    "caption": "Foto ilustrativa da reportagem",
+    "illustrative": true
+  },
+  "santiago-pena-preso-apos-impeachment-2026": {
+    "path": "editorial/photos/santiago-pena-preso-apos-impeachment-2026.jpg",
+    "source": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/ex-presidente-do-paraguai-presta-depoimento-ao-ministerio-publico",
+    "license": "Agência Brasil: uso fotojornalístico gratuito com crédito obrigatório (https://www.gov.br/pt-br/servicos/acessar-material-fotojornalistico-gratuitamente)",
+    "artist": "Fernando Frazão/Agência Brasil",
+    "caption": "Foto de arquivo, 07/12/2023",
+    "illustrative": true
   }
 }
