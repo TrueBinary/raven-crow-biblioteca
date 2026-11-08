@@ -1,6 +1,59 @@
 {
   "articles": [
     {
+      "id": "incendio-lanchas-itapema-canto-da-praia-2026-11-08",
+      "date": "2026-11-08",
+      "category": "BRASIL",
+      "title": "Incêndio atinge lanchas no Canto da Praia, em Itapema, e mobiliza bombeiros",
+      "subtitle": "Equipes foram acionadas às 14h21 deste domingo; número de embarcações atingidas, prejuízos e causa ainda não têm confirmação oficial.",
+      "facts": "Um incêndio atingiu embarcações na região do Canto da Praia, em Itapema, no litoral de Santa Catarina, na tarde deste domingo, 8 de novembro de 2026. Segundo o portal regional TopElegance, que cita o registro operacional dos bombeiros, o acionamento ocorreu às 14h21 na Rua 109B. A reportagem informou que equipes de combate ao fogo atuavam com três viaturas, dois jet skis e apoio de outras embarcações. O portal Jornal Razão também noticiou o incêndio e a presença de fumaça escura visível da orla, conforme reportagem repercutida pelo Questões do Universo. As informações disponíveis até o momento não permitem confirmar oficialmente quantas lanchas foram destruídas, se houve vítimas ou qual foi a origem do fogo. A operação de atendimento ainda estava em andamento nas atualizações iniciais.",
+      "analysis": "A ocorrência ilustra as dificuldades do combate a incêndios em embarcações atracadas próximas umas das outras: a propagação das chamas pode ser rápida e o acesso das equipes de emergência depende de condições marítimas, posicionamento dos barcos e disponibilidade de equipamentos. A confirmação de danos, eventuais vítimas e causas deve vir de vistorias e informes das autoridades competentes. Para os moradores e visitantes, a prioridade imediata é manter distância da área de atendimento e não interferir na circulação dos bombeiros. Não há, nesta apuração, base para atribuir responsabilidade a proprietários, tripulantes ou operadores da estrutura náutica.",
+      "counterpoint": "O TopElegance relatou, com base em sua apuração, que mais de cinco embarcações teriam sido atingidas e mencionou uma estimativa de prejuízo superior a R$ 100 milhões. Esses números não foram confirmados oficialmente e, por isso, não são apresentados como fatos estabelecidos. A versão de que o fogo teria começado em uma lancha menor também permanece preliminar. As informações sobre vítimas e causa precisam ser atualizadas com dados do Corpo de Bombeiros e da investigação.",
+      "sources": [
+        {
+          "name": "TopElegance — reportagem local, 08/11/2026",
+          "url": "https://www.topelegance.com.br/incendio/incendio-atinge-lanchas-em-itapema"
+        },
+        {
+          "name": "Jornal Razão — incêndio repercutido por Questões do Universo, 08/11/2026",
+          "url": "https://qtu.com.br/urgente-incendio-se-espalha-entre-lanchas-e-fumaca-preta-toma-o-canto-da-praia-em-itapema"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Itapema_Beach.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "FeBozza / Wikimedia Commons",
+          "license": "CC BY-SA 3.0 - https://creativecommons.org/licenses/by-sa/3.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Itapema_Beach.jpg",
+          "caption": "FOTO DE ARQUIVO (01/01/2015): vista da Praia do Canto, em Itapema (SC). Imagem ilustrativa; não registra o incêndio nas lanchas em 08/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Fire engulfs boats in Itapema, southern Brazil, prompting emergency response",
+        "subtitle": "Firefighters were called at 2:21 p.m. Sunday; the number of vessels affected, financial losses and cause remain unconfirmed by authorities.",
+        "facts": "A fire struck boats in the Canto da Praia area of Itapema, in Brazil's southern state of Santa Catarina, on Sunday afternoon, November 8, 2026. Regional news outlet TopElegance, citing the firefighters' operational record, reported that emergency crews were dispatched at 2:21 p.m. to Rua 109B. Its reporting said the response involved three fire vehicles, two jet skis and support boats. Jornal Razão also reported the fire and dark smoke visible from the waterfront, in a report republished by Questões do Universo. The information available so far does not establish an official count of destroyed vessels, whether anyone was injured, or the cause of the fire. Emergency operations were still underway in the initial reports.",
+        "analysis": "Fires involving boats moored close together can spread rapidly, while firefighters may face difficulties accessing vessels and working from the water. The scale of the damage, any casualties and the cause will need to be established through inspections and official statements. Residents and visitors should stay clear of the emergency response area. There is no evidence in the reporting reviewed to assign responsibility to boat owners, crews or marina operators.",
+        "counterpoint": "TopElegance reported that more than five vessels may have been affected and cited a possible loss exceeding R$ 100 million. Neither figure has been officially confirmed, so they should not be treated as established facts. Its account that the blaze began on a smaller boat is also preliminary. Casualty and cause information awaits confirmation from firefighters and investigators.",
+        "category": "BRAZIL",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (January 1, 2015): view of Praia do Canto in Itapema, Santa Catarina, Brazil. Illustrative image; it does not depict the November 8, 2026 boat fire."
+        }
+      },
+      "es": {
+        "title": "Un incendio afecta a embarcaciones en Itapema, Brasil, y moviliza a los bomberos",
+        "subtitle": "Los equipos fueron alertados a las 14:21 del domingo; las autoridades aún no confirman cuántas embarcaciones resultaron afectadas, los daños ni la causa.",
+        "facts": "Un incendio afectó a embarcaciones en la zona de Canto da Praia, en Itapema, estado brasileño de Santa Catarina, durante la tarde del domingo 8 de noviembre de 2026. El medio regional TopElegance, que cita el registro operativo de los bomberos, informó que la alerta se recibió a las 14:21 en la Rua 109B. Según su cobertura, participaron tres vehículos de bomberos, dos motos acuáticas y embarcaciones de apoyo. Jornal Razão también informó del incendio y de una columna de humo oscuro visible desde la costa, en una noticia reproducida por Questões do Universo. La información disponible todavía no permite confirmar oficialmente el número de barcos destruidos, la existencia de víctimas ni el origen del fuego. El operativo seguía en marcha en los primeros reportes.",
+        "analysis": "Los incendios en embarcaciones amarradas muy cerca unas de otras pueden propagarse con rapidez, mientras que el acceso de los equipos de emergencia depende de las condiciones marítimas y de los medios disponibles. Las inspecciones y los informes oficiales deberán determinar los daños, las posibles víctimas y las causas. Se recomienda a residentes y visitantes mantenerse alejados de la zona de intervención. La información examinada no permite atribuir responsabilidades a propietarios, tripulaciones u operadores náuticos.",
+        "counterpoint": "TopElegance informó que podrían haberse visto afectadas más de cinco embarcaciones y mencionó posibles pérdidas superiores a R$ 100 millones. Ninguna de esas cifras cuenta con confirmación oficial y no debe presentarse como un hecho establecido. La versión de que las llamas comenzaron en una lancha pequeña también es preliminar. Los datos sobre víctimas y causas deberán ser confirmados por los bomberos y los investigadores.",
+        "category": "BRASIL",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (1 de enero de 2015): vista de Praia do Canto, en Itapema, Santa Catarina, Brasil. Imagen ilustrativa; no muestra el incendio de embarcaciones del 8 de noviembre de 2026."
+        }
+      }
+    },
+    {
       "id": "enem-2026-redacao-valorizacao-sus-direito-universal",
       "date": "2026-11-08",
       "category": "EDUCAÇÃO",
