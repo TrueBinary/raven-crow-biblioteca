@@ -244,13 +244,19 @@ def build(root: Path) -> dict:
                 graph[0]["mainEntity"] = listing
             _metadata(file, graph)
 
-    # Translated editions (news_i18n.py): /<lang>/ and every /<lang>/noticias/<id>/ page that exists.
+    # Translated editions (news_i18n.py, build-column.py): each page reuses the lastmod of its Portuguese original.
+    mods = {u: m for u, m in entries if m}
     for lang in ("en", "es"):
-        if (pub / lang / "index.html").is_file():
-            entries.append((BASE + "/" + lang + "/", None))
+        pages = []
         for kind in ("noticias", "coluna"):
             for f in sorted((pub / lang / kind).glob("*/index.html")):
-                entries.append((BASE + "/" + lang + "/" + kind + "/" + f.parent.name + "/", None))
+                pages.append((BASE + "/" + lang + "/" + kind + "/" + f.parent.name + "/", mods.get(BASE + "/" + kind + "/" + f.parent.name + "/")))
+        if (pub / lang / "index.html").is_file():
+            entries.append((BASE + "/" + lang + "/", max((m for _, m in pages if m), default=None)))
+        entries.extend(pages)
+    # Hubs (home, noticias.html, coluna.html...) change whenever any article does: use the newest article date.
+    newest = max((m for _, m in entries if m), default=None)
+    entries = [(u, m or (newest if u == BASE + "/" or u.endswith(".html") else None)) for u, m in entries]
     sitemap = ['<?xml version="1.0" encoding="UTF-8"?>',
                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for url, modified in entries:
