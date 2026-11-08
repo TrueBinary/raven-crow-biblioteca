@@ -81,6 +81,30 @@
       ]
     },
     {
+      "id": "temporal-sao-paulo-dois-desaparecidos-buscas-2026-11-08",
+      "category": "BRASIL",
+      "date": "2026-11-08",
+      "title": "Temporal em São Paulo deixa dois desaparecidos; bombeiros fazem buscas na capital e em Lins",
+      "subtitle": "Jovem foi levado pela correnteza no Capão Redondo e homem desapareceu após embarcação virar no interior; buscas continuam neste domingo.",
+      "facts": "As fortes chuvas que atingiram o estado de São Paulo no sábado, 7 de novembro de 2026, deixaram ao menos duas pessoas desaparecidas, segundo informações divulgadas pela Defesa Civil e pelo Corpo de Bombeiros e reproduzidas por veículos jornalísticos neste domingo, 8. Na zona sul da capital, um jovem de 20 anos foi levado pela correnteza de um córrego na região da rua Goioxim, na Vila Fazzeoni, no Capão Redondo. Equipes de resgate realizaram buscas no córrego e em estruturas de drenagem da região. Em Lins, no interior paulista, um homem de aproximadamente 50 anos desapareceu após o naufrágio de embarcações no Rio Dourado durante o temporal. Outros quatro ocupantes foram localizados. Os balanços refletem as informações disponíveis até o início da tarde de domingo e podem mudar conforme as operações avancem.",
+      "analysis": "Os desaparecimentos mostram que os impactos de um temporal vão além de alagamentos e transtornos no trânsito: correntezas urbanas e cursos d'água podem se tornar ameaças imediatas à vida. O caso na capital concentra a atenção sobre o risco em áreas próximas a córregos e sistemas de drenagem, enquanto a ocorrência em Lins evidencia perigos também em atividades fluviais durante condições meteorológicas adversas. A prioridade operacional é localizar as vítimas e manter a população afastada de áreas inundadas; qualquer avaliação sobre responsabilidades e eventuais falhas de infraestrutura deve se apoiar em perícias e informações oficiais posteriores.",
+      "counterpoint": "As circunstâncias exatas em que o jovem entrou no córrego ainda são objeto de relatos divergentes e não devem ser apresentadas como conclusão policial. Tampouco há confirmação de morte dos desaparecidos nas fontes consultadas. O volume de chuva e a gravidade dos impactos variaram entre municípios, de modo que os dois casos não demonstram, por si, uma causa única ou falha específica de gestão.",
+      "sources": [
+        {
+          "name": "CNN Brasil — desaparecidos após temporal, 08/11/2026",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/homem-esta-desaparecido-apos-ser-arrastado-por-enxurrada-na-zona-sul-de-sp/"
+        },
+        {
+          "name": "Metrópoles — balanço de dois desaparecidos, 08/11/2026",
+          "url": "https://www.metropoles.com/sao-paulo/sobe-para-2-o-numero-de-desaparecidos-apos-temporal-atingir-estado-de-sp"
+        },
+        {
+          "name": "UOL/Agência Estado — buscas no Capão Redondo, 08/11/2026",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/08/homem-e-arrastado-pelas-chuvas-no-capao-redondo-e-esta-desaparecido.htm"
+        }
+      ]
+    },
+    {
       "id": "economista-schwartsman-lula-responsabilidade-fiscal-2026-11-07",
       "category": "ECONOMIA",
       "title": "Economista diz que Lula não tem responsabilidade fiscal e herdou superávit em 2022",
