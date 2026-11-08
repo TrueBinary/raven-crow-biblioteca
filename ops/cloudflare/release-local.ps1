@@ -55,7 +55,7 @@ try {
   & "$env:APPDATA\npm\cf.cmd" auth whoami *> $null
   $env:CLOUDFLARE_ACCOUNT_ID = $AccountId
   $cfFile = Join-Path $env:APPDATA 'xdg.config\cloudflare\config\default.json'
-  if (-not (Test-Path $cfFile)) { Log "cf login file not visible: $cfFile (USER=$env:USERNAME, PROFILE=$env:USERPROFILE)" }
+  if (-not $env:CLOUDFLARE_API_TOKEN -and -not (Test-Path $cfFile)) { Log "cf login file not visible: $cfFile (USER=$env:USERNAME, PROFILE=$env:USERPROFILE)" }
   Push-Location $ReleaseTree
   # PS 5.1 turns native stderr lines into terminating errors under 'Stop'; node logs progress there.
   $ErrorActionPreference = 'Continue'
