@@ -11,7 +11,11 @@ const json=(o,status=200)=>new Response(JSON.stringify(o),{status,headers:{'Cont
 const cache=k=>/^clips\/[a-f0-9]{64}\.(?:mp4|jpg)$/.test(k)?'public, max-age=31536000, immutable':/\.(?:html|json|xml)$/.test(k)?'public, max-age=60':'public, max-age=300';
 function respond(key,obj,method,range){const h=new Headers();obj.writeHttpMetadata(h);h.set('Content-Type',mimeFor(key));h.set('Accept-Ranges','bytes');if(obj.httpEtag)h.set('ETag',obj.httpEtag);h.set('X-Raven-Migration-Stage','r2');h.set('Cache-Control',cache(key));h.set('Content-Length',String(range?.length??obj.size));if(range)h.set('Content-Range','bytes '+range.offset+'-'+(range.offset+range.length-1)+'/'+obj.size);return new Response(method==='HEAD'?null:obj.body,{status:range?206:200,headers:h})}
 async function fallback(req,key){try{const h=new Headers();for(const f of ['Range','If-None-Match','If-Modified-Since']){const v=req.headers.get(f);if(v)h.set(f,v)}const up=await fetch(new Request(new URL(src(key),BASE),{method:req.method,headers:h}));const out=new Headers();for(const f of ['Content-Length','Content-Range','ETag','Last-Modified','Accept-Ranges']){const v=up.headers.get(f);if(v)out.set(f,v)}out.set('Content-Type',mimeFor(key));out.set('Cache-Control',cache(key));out.set('X-Raven-Migration-Stage','github-fallback');return new Response(req.method==='HEAD'?null:up.body,{status:up.status,headers:out})}catch{return new Response('Staging source unavailable',{status:502})}}
-export default {async fetch(req,env){
+// Social bar ad: appended before </body> of every full HTML page, so it loads after the content and never blocks it.
+const SOCIAL_BAR='<script data-cfasync="false" src="https://bauval.org/14/4615ad4de14cf536c88fee7d3ea00470"></script>';
+async function withSocialBar(r){if(r.status!==200||!r.body||!(r.headers.get('Content-Type')||'').startsWith('text/html'))return r;const html=await r.text();const i=html.lastIndexOf('</body>');if(i<0)return new Response(html,{status:200,headers:r.headers});const out=html.slice(0,i)+SOCIAL_BAR+html.slice(i);const h=new Headers(r.headers);h.set('Content-Length',String(new TextEncoder().encode(out).length));h.delete('ETag');return new Response(out,{status:200,headers:h})}
+export default {async fetch(req,env){return withSocialBar(await handle(req,env))}};
+async function handle(req,env){
  const path=new URL(req.url).pathname;
  if(path==='/__raven_migration_health')return json({status:'production',R2:true,domainCutover:true,githubFallback:env.GITHUB_FALLBACK==='1'});
  if(path.startsWith('/__migration/'))return new Response('Not Found',{status:404});
@@ -24,4 +28,4 @@ export default {async fetch(req,env){
  if(range?.invalid)return new Response(null,{status:416,headers:{'Content-Range':'bytes */'+head.size,'Accept-Ranges':'bytes'}});
  const body=await env.RAVEN_MEDIA.get(key,range?{range}:undefined);
  return body?respond(key,body,'GET',range):new Response('Not Found',{status:404});
-}};
+}
