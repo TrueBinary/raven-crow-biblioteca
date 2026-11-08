@@ -4,7 +4,7 @@ from pathlib import Path
 import re
 
 
-def photo_figure(slug: str, credits: dict, public: Path, title: str) -> str:
+def photo_figure(slug: str, credits: dict, public: Path, title: str, prefix: str = "") -> str:
     """Return the <figure> for the essay's credited photo, or "" when there is none or it is incomplete."""
     c = credits.get(slug) or {}
     path = c.get("path", "")
@@ -13,5 +13,5 @@ def photo_figure(slug: str, credits: dict, public: Path, title: str) -> str:
     caption = c.get("caption") or ""
     credit = "Foto: " + c["artist"]
     text = f"{caption} · {credit}" if caption else credit
-    return (f'<figure class="rc-col-story-photo"><img src="{escape(path, quote=True)}" alt="{escape(caption or title, quote=True)}" '
+    return (f'<figure class="rc-col-story-photo"><img src="{escape(prefix + path, quote=True)}" alt="{escape(caption or title, quote=True)}" '
             f'loading="eager" decoding="async"><figcaption>{escape(text)}</figcaption></figure>')
