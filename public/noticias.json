@@ -2,9 +2,52 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "08/11/2026",
-  "updatedAt": "2026-11-08T18:01:20-03:00",
+  "updatedAt": "2026-11-08T19:02:44-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "rolandia-parana-adolescente-morre-correnteza-jovens-encontrados-2026-11-08",
+      "date": "2026-11-08",
+      "category": "BRASIL",
+      "title": "Adolescente morre em correnteza no Paraná; dois jovens desaparecidos são encontrados vivos",
+      "subtitle": "Caso ocorreu durante temporal no sábado (7), em Rolândia; buscas foram encerradas no domingo após rapazes retornarem para casa.",
+      "facts": "Uma adolescente morreu após ser arrastada pela correnteza de um córrego na região do Jardim Monte Carlo, em Rolândia, no norte do Paraná, durante o temporal de sábado, 7 de novembro de 2026. Segundo reportagem da Tarobá baseada em boletim de ocorrência da Polícia Militar, um grupo de oito jovens estava nas proximidades do curso d'água quando houve o acidente. A jovem, identificada como Kauane em parte da cobertura, foi localizada sem vida pelas equipes de resgate. Dois rapazes, de 17 e 18 anos, também foram dados como desaparecidos. Na manhã de domingo, 8 de novembro, a informação foi atualizada: os dois conseguiram sair da água e voltaram por conta própria para suas casas, encerrando as buscas. A idade da vítima apareceu de forma divergente nas primeiras notícias: algumas mencionaram 14 anos, enquanto a reportagem atualizada da Tarobá, citando a ocorrência policial, informou 12 anos. As circunstâncias exatas da morte seguem sujeitas à apuração das autoridades.",
+      "analysis": "O episódio mostra como o nível de rios e córregos pode subir rapidamente durante temporais, mesmo quando as pessoas já estão próximas das margens. A primeira cobertura da ocorrência descreveu dois jovens desaparecidos, mas a informação foi superada pela confirmação de que ambos estavam vivos em casa. Essa mudança é essencial para evitar que alertas de busca continuem circulando depois de encerrada a operação. A apuração também deve separar dados confirmados, como a localização dos rapazes e a morte da adolescente, de detalhes ainda inconsistentes sobre a idade e a dinâmica do acidente.",
+      "counterpoint": "Os relatos iniciais divergiram quanto à idade da vítima e à quantidade de pessoas diretamente levadas pela água. A Tarobá citou boletim da Polícia Militar ao informar 12 anos, mas outras publicações mencionaram 14; por isso, a manchete não fixa uma idade. Não há elementos suficientes para atribuir negligência a qualquer participante. As fotografias da cobertura jornalística não foram reutilizadas porque não foi demonstrada autorização de republicação. O site deve utilizar sua capa gráfica automática até que exista imagem pertinente e devidamente licenciada.",
+      "sources": [
+        {
+          "name": "Tarobá — Jovens desaparecidos em rio de Rolândia sobrevivem e voltam para casa (08/11/2026)",
+          "url": "https://taroba.com.br/noticias/cidade/jovens-desaparecidos-em-rio-de-rolandia-sobrevivem-e-voltam-para-casa"
+        },
+        {
+          "name": "Canal 38 — Dois adolescentes desaparecidos são encontrados em casa (08/11/2026)",
+          "url": "https://canal38.com.br/dois-adolescentes-que-estavam-desaparecidos-apos-supostamente-serem-arrastados-pela-correnteza-sao-encontrados-em-casa-em-rolandia/"
+        },
+        {
+          "name": "TNOnline — Buscas retomadas e boletim da PM (08/11/2026)",
+          "url": "https://tnonline.uol.com.br/noticias/parana/buscas-por-dois-jovens-desaparecidos-em-rio-sao-retomadas-neste-domingo-em-rolandia-1172042"
+        }
+      ],
+      "photos": [],
+      "en": {
+        "title": "Teenage girl dies in Paraná floodwaters; two missing youths found alive",
+        "subtitle": "The incident occurred during a storm in Rolândia on November 7; searches ended on November 8 after the two young men returned home.",
+        "facts": "A teenage girl died after being swept away by a stream during a storm in the Jardim Monte Carlo area of Rolândia, in Brazil's Paraná state, on Saturday, November 7, 2026. According to a Tarobá report citing a Military Police incident record, a group of eight young people were near the water when the accident occurred. The girl, identified as Kauane in some reports, was found dead by rescuers. Two young men, aged 17 and 18, were initially reported missing. On Sunday, November 8, authorities learned that both had managed to get out of the water and returned home on their own, bringing the search to an end. Initial reports gave conflicting ages for the victim: some said 14, while Tarobá's updated account citing the police record said 12. The precise circumstances of the death remain under investigation.",
+        "analysis": "The incident illustrates how streams and rivers can rise rapidly during heavy rain, even when people are near their banks. Early reports described two missing youths, but that information was superseded by confirmation that both were alive at home. Updating the story matters to prevent outdated search alerts from circulating. Reporting must also distinguish confirmed facts, including the girl's death and the two youths' return, from conflicting details about her age and the sequence of events.",
+        "counterpoint": "Early accounts differed over the victim's age and how many people were swept away. Tarobá cited a Military Police report in giving her age as 12, while other reports said 14, so the headline does not specify an age. Available evidence does not establish negligence by anyone involved. News outlets' photographs were not republished because reuse permission could not be verified. The site's automatic graphic cover should be used until a suitable licensed photograph is available.",
+        "category": "BRAZIL",
+        "photo_captions": {}
+      },
+      "es": {
+        "title": "Muere una adolescente arrastrada por la corriente en Paraná; hallan vivos a dos jóvenes",
+        "subtitle": "El suceso ocurrió durante una tormenta en Rolândia el 7 de noviembre; la búsqueda terminó el 8 de noviembre cuando los jóvenes regresaron a casa.",
+        "facts": "Una adolescente murió tras ser arrastrada por la corriente de un arroyo durante una tormenta en la zona de Jardim Monte Carlo, en Rolândia, estado brasileño de Paraná, el sábado 7 de noviembre de 2026. Según Tarobá, que cita un registro de la Policía Militar, un grupo de ocho jóvenes estaba cerca del agua cuando ocurrió el accidente. Los rescatistas encontraron sin vida a la joven, identificada como Kauane en parte de la cobertura. Dos muchachos de 17 y 18 años fueron declarados desaparecidos inicialmente. El domingo 8 de noviembre se confirmó que ambos habían conseguido salir del agua y regresar a sus casas por sus propios medios, por lo que terminó la búsqueda. Las primeras informaciones ofrecieron edades contradictorias para la víctima: algunas indicaron 14 años, mientras que Tarobá, citando el registro policial, señaló 12. Las circunstancias precisas de la muerte siguen bajo investigación.",
+        "analysis": "El caso demuestra cómo el nivel de ríos y arroyos puede aumentar rápidamente durante las tormentas, incluso cerca de sus orillas. Las primeras noticias hablaban de dos desaparecidos, pero la información quedó superada cuando se confirmó que ambos estaban vivos en sus casas. Es importante actualizar estos datos para evitar la circulación de alertas de búsqueda obsoletas. La cobertura también debe separar los hechos confirmados de los detalles contradictorios sobre la edad de la víctima y la secuencia del accidente.",
+        "counterpoint": "Los relatos iniciales difirieron sobre la edad de la víctima y el número de personas arrastradas por el agua. Tarobá citó un informe de la Policía Militar para indicar 12 años, mientras otros medios publicaron 14; por eso el titular no precisa la edad. No hay pruebas suficientes para atribuir negligencia a ninguno de los involucrados. No se reutilizaron las fotografías de los medios porque no se pudo verificar una autorización de republicación. El sitio debe utilizar su portada gráfica automática hasta disponer de una fotografía adecuada y autorizada.",
+        "category": "BRASIL",
+        "photo_captions": {}
+      }
+    },
     {
       "id": "acidente-barra-mansa-carro-lago-dez-mortos-2026-11-08",
       "date": "2026-11-08",
