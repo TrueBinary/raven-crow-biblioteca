@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "id": "israel-herzog-escolhe-eisenkot-formar-governo-2026-11-08",
+      "category": "INTERNACIONAL",
+      "date": "2026-11-08",
+      "title": "Israel: Herzog escolhe rival de Netanyahu para tentar formar governo",
+      "subtitle": "Gadi Eisenkot recebe a primeira chance de montar uma coalizão após 67 recomendações no Parlamento; a decisão não significa posse nem maioria assegurada.",
+      "facts": "Na noite de sábado, 7 de novembro de 2026, o presidente de Israel, Isaac Herzog, anunciou que dará a Gadi Eisenkot, líder do partido Yashar e ex-chefe das Forças Armadas, a primeira oportunidade de formar o próximo governo. A entrega formal do mandato está prevista para domingo, 8 de novembro, às 17h no horário israelense. Nas consultas realizadas após as eleições parlamentares de 27 de outubro, representantes de 67 dos 120 deputados recomendaram Eisenkot; 46 recomendaram o atual primeiro-ministro, Benjamin Netanyahu, e sete não indicaram candidato. As recomendações não são votos garantidos para uma coalizão. Eisenkot terá inicialmente 28 dias para tentar formar governo, com possibilidade de prorrogação por até 14 dias. Até a conclusão das negociações, Netanyahu não foi substituído.",
+      "analysis": "A escolha de Herzog é um revés político para Netanyahu, mas não uma troca automática de governo. A diferença entre receber indicações e reunir os 61 votos necessários à maioria parlamentar é o centro da crise: interesses de partidos árabes, religiosos e de diferentes correntes do campo oposicionista podem determinar o resultado. A pressão para retirar Netanyahu do poder não resolve, sozinha, os conflitos sobre serviço militar, segurança e composição do gabinete. O teste decisivo será a capacidade de Eisenkot de transformar apoios circunstanciais em um acordo de governo verificável, sem confundir oposição ao premiê com consenso sobre o que virá depois.",
+      "counterpoint": "Netanyahu ainda lidera o Likud e mantém apoio de um bloco expressivo de deputados. Ele defende um governo de unidade nacional e alerta contra uma coalizão dependente de partidos árabes. Por outro lado, Eisenkot diz que buscará parceiros que aceitem princípios comuns de segurança e governabilidade. Nenhum dos dois blocos elegeu, isoladamente, uma maioria parlamentar; se Eisenkot não conseguir formar governo, outros candidatos poderão receber a oportunidade. Não há posse de um novo primeiro-ministro confirmada nesta etapa.",
+      "sources": [
+        {
+          "name": "Presidência de Israel — resultado das consultas parlamentares, 05/11/2026",
+          "url": "https://www.president.gov.il/en/president-herzog-concludes-round-of-consultations-with-knesset-factions-at-the-presidents-residence/"
+        },
+        {
+          "name": "Associated Press — decisão anunciada em 07/11/2026",
+          "url": "https://apnews.com/article/israel-elections-75934bfce1f2f2e43e1823de3761b12d"
+        },
+        {
+          "name": "Anadolu Agency — anúncio e prazo do mandato, 07–08/11/2026",
+          "url": "https://www.aa.com.tr/en/middle-east/israels-president-says-will-task-eisenkot-with-forming-next-government/4115508"
+        },
+        {
+          "name": "The Times of Israel — comunicado da Presidência em 07/11/2026",
+          "url": "https://www.timesofisrael.com/liveblog_entry/herzog-announces-he-will-task-eisenkot-tomorrow-with-forming-new-government-after-meeting-him-and-netanyahu/"
+        }
+      ]
+    },
+    {
       "id": "economista-schwartsman-lula-responsabilidade-fiscal-2026-11-07",
       "category": "ECONOMIA",
       "title": "Economista diz que Lula não tem responsabilidade fiscal e herdou superávit em 2022",
