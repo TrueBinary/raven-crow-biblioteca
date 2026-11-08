@@ -160,7 +160,13 @@ for essay in ESSAYS:
 </main><footer class="rc-col-footer"><div>{L["foot"]}</div><div><a href="{lang}/">Raven Crow · {lang.upper()}</a> · <a href="index.html">Raven Crow</a></div></footer>
 <script defer src="raven-analytics.js"></script></body></html>'''
         page=page.replace('<html lang="pt-BR">',f'<html lang="{lang}">',1).replace('<base href="../../">','<base href="../../../">',1)
-        page=page.replace(canon.replace(h(url),h(lurl)),canon.replace(h(url),h(lurl))+hreflang(url,tr),1)
+        image=f"{BASE}/editorial/photos/{slug}.jpg" if (PUBLIC/"editorial"/"photos"/f"{slug}.jpg").is_file() else None
+        schema={"@context":"https://schema.org","@type":"Article","headline":b["title"],"description":b.get("subtitle",""),"genre":L["tag"],
+                "inLanguage":lang,"datePublished":essay["date"],"author":{"@type":"Organization","name":"Raven Crow"},
+                "publisher":{"@type":"Organization","name":"Raven Crow"},"mainEntityOfPage":lurl,"isAccessibleForFree":True,**({"image":image} if image else {})}
+        extra=(f'<meta property="og:image" content="{image}"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{image}">' if image else "")
+        extra+='<script type="application/ld+json">'+json.dumps(schema,ensure_ascii=False).replace("<","\u003c")+"</script>"
+        page=page.replace(canon.replace(h(url),h(lurl)),canon.replace(h(url),h(lurl))+hreflang(url,tr)+extra,1)
         d=PUBLIC/lang/"coluna"/slug
         d.mkdir(parents=True,exist_ok=True)
         (d/"index.html").write_text(page,encoding="utf-8")
