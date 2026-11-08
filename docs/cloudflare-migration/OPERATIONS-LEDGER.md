@@ -49,3 +49,8 @@ No secrets here: endpoints, record types, IDs and check results only.
 
 - Version `38f7a94a-a704-4d18-b62b-d3a730f24cb4` from commit ae54001: GTranslate float switcher (pt default; en, es, fr, de, it; bottom-left) after the social bar, before `</body>`.
 - Rollback: deployments API to version `48656803-7585-49f1-87be-a7d6c104d812`.
+
+## 2026-11-08 — Worker deploy (en/es editions)
+
+- Version `62ee25cc-a3ae-4d11-b5c6-ba189b47b9d4` from commit 459d0f5: `/en`, `/es` and `/<lang>/noticias/<id>` without trailing slash map to their index.html.
+- Rollback: deployments API to version `38f7a94a-a704-4d18-b62b-d3a730f24cb4`.

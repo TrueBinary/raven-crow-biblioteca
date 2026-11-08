@@ -49,7 +49,7 @@ The health check covers: apex + www (no Render, TLS, Worker marker), feed JSON w
 
 | What | How | Note |
 | --- | --- | --- |
-| Worker code | Cloudflare API `POST /accounts/<acct>/workers/scripts/raven-crow-site-production/deployments` `{"strategy":"percentage","versions":[{"version_id":"<previous>","percentage":100}]}` | versions: `38f7a94a` (current) → `48656803` → `2dd11af1` → `fc40f4a6` → `b9785878`; all still listed |
+| Worker code | Cloudflare API `POST /accounts/<acct>/workers/scripts/raven-crow-site-production/deployments` `{"strategy":"percentage","versions":[{"version_id":"<previous>","percentage":100}]}` | versions: `62ee25cc` (current) → `38f7a94a` → `48656803` → `2dd11af1` → `fc40f4a6` → `b9785878`; all still listed |
 | DNS | restore the records in OPERATIONS-LEDGER | Render is suspended: returning to it brings the 503 back |
 | Content | revert the commit in Git; the next release re-syncs text files | media is never deleted, old objects stay in R2 |
 | Release automation | disable the Windows task "Raven Crow - release site R2" | the site keeps serving the last release |
