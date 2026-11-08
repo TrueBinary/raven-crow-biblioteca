@@ -78,5 +78,21 @@
     "artist": "Fernando Frazão/Agência Brasil",
     "caption": "Foto de arquivo, 07/12/2023",
     "illustrative": true
+  },
+  "sc-tres-tornados-duas-microexplosoes-2026-11-07": {
+    "path": "editorial/photos/sc-tres-tornados-duas-microexplosoes-2026-11-07.jpg",
+    "source": "https://www.cnnbrasil.com.br/nacional/sul/sc/defesa-civil-confirma-tres-tornados-e-duas-microexplosoes-em-santa-catarina/",
+    "license": "Foto de divulgação; uso autorizado confirmado pelo editor do Raven Crow",
+    "artist": "Divulgação/Secretaria de Proteção e Defesa Civil de SC",
+    "caption": "Danos causados pelos temporais em Santa Catarina",
+    "illustrative": false
+  },
+  "governo-lista-27-minerais-criticos-estrategicos-2026": {
+    "path": "editorial/photos/governo-lista-27-minerais-criticos-estrategicos-2026.jpg",
+    "source": "https://www.gov.br/casacivil/pt-br/assuntos/noticias/2026/novembro/governo-federal-aprova-lista-brasileira-de-minerais-criticos-e-estrategicos/",
+    "license": "Foto institucional; uso autorizado confirmado pelo editor do Raven Crow",
+    "artist": "Wagner Lopes/Casa Civil",
+    "caption": "Reunião do conselho que aprovou a lista de minerais críticos e estratégicos",
+    "illustrative": false
   }
 }
