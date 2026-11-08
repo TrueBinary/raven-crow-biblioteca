@@ -1,18 +1,8 @@
 name: Atualizar paginas da Coluna
+# Disabled 2026-11-08: GitHub Actions is billing-locked; the PC release (ops/cloudflare/release-local.ps1) builds pages every 15 min.
+# To re-enable, restore the push trigger from git history.
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'public/noticias.json'
-      - 'build-raven.py'
-      - 'editorial_covers.py'
-      - 'editorial_photos.py'
-      - 'public/arquivo/**'
-      - 'public/coluna-ensaios.json'
-      - 'build-column.py'
-      - 'build-news-index.py'
-      - 'build-library.py'
-      - 'index.html'
+  workflow_dispatch:
 permissions:
   contents: write
 jobs:
