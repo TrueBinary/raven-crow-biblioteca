@@ -1,6 +1,63 @@
 {
   "articles": [
     {
+      "id": "selic-1375-credito-empresas-244-juros-2026-11-08",
+      "date": "2026-11-08",
+      "category": "ECONOMIA",
+      "title": "Selic de 13,75% e crédito empresarial de 24,4%: por que a taxa anunciada difere do juro pago pelas empresas",
+      "subtitle": "Taxa básica mantida em novembro contrasta com a média do crédito livre às pessoas jurídicas em setembro; spread, risco e encargos explicam parte da diferença.",
+      "facts": "O Comitê de Política Monetária (Copom) manteve a taxa Selic em 13,75% ao ano em 4 de novembro de 2026, interrompendo a sequência de reduções. Já a nota de Estatísticas Monetárias e de Crédito do Banco Central publicada em 29 de outubro informa que, em setembro, a taxa média de juros das operações de crédito com recursos livres para pessoas jurídicas alcançou 24,4% ao ano, alta de 0,4 ponto percentual ante agosto. A distância entre as duas referências é de 10,65 pontos percentuais, mas elas não medem a mesma coisa: a Selic é a taxa básica de política monetária, enquanto os 24,4% representam a média de empréstimos empresariais em diferentes modalidades e condições. O Banco Central também informou que a taxa média de novas contratações de crédito no sistema financeiro, incluindo pessoas físicas e jurídicas, foi de 32,4% ao ano em setembro; esse número não deve ser apresentado como taxa específica para empresas.",
+      "analysis": "A Selic influencia o custo de captação e as condições financeiras, mas não corresponde à taxa final oferecida a uma empresa. Entre os fatores que compõem o preço de um empréstimo estão risco de inadimplência, custos administrativos, impostos, exigências de capital, prazo, garantias e margem da instituição financeira. No crédito livre empresarial, a taxa média de setembro subiu de 24,0% para 24,4% ao ano; o Banco Central destacou o aumento de 1,4 ponto percentual no capital de giro com prazo superior a 365 dias. Para um negócio que precisa financiar estoque, equipamentos ou fluxo de caixa, essa diferença pode pressionar o custo operacional e as decisões de investimento. Além da taxa nominal anunciada, o empresário deve comparar o Custo Efetivo Total (CET) da proposta concreta, que reúne juros e encargos aplicáveis. Os dados agregados não significam que toda empresa pague exatamente 24,4%, nem demonstram que uma empresa específica tenha contratado nessa taxa.",
+      "counterpoint": "A comparação não prova que o Banco Central ou o governo estejam ocultando o juro real pago por empresas: os dois indicadores são publicados oficialmente e têm finalidades distintas. Bancos argumentam que o spread remunera riscos e custos da intermediação; críticos apontam concentração bancária, competição insuficiente e encargos como fatores que podem elevar o crédito. A política de juros busca conter a inflação, mas seu efeito sobre empréstimos pode ocorrer com atraso. Também há modalidades de crédito direcionado e operações com garantias que apresentam custos diferentes da média do crédito livre.",
+      "sources": [
+        {
+          "name": "Banco Central — Estatísticas Monetárias e de Crédito, 29/10/2026",
+          "url": "https://www.bcb.gov.br/content/estatisticas/hist_estatisticasmonetariascredito/202610_Texto_de_estatisticas_monetarias_e_de_credito.pdf"
+        },
+        {
+          "name": "Banco Central — Histórico de taxas Selic",
+          "url": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+        },
+        {
+          "name": "UOL Economia — Copom mantém Selic, 04/11/2026",
+          "url": "https://economia.uol.com.br/noticias/redacao/2026/11/04/banco-central-taxa-de-juros-selic-copom.ghtm"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://live.staticflickr.com/8665/16011635094_c1fb871c24_o.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Jonas Pereira / Agência Senado",
+          "license": "CC BY 2.0 - https://creativecommons.org/licenses/by/2.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio_sede_do_Banco_Central_do_Brasil_(16011635094).jpg",
+          "caption": "FOTO DE ARQUIVO (23/02/2015): sede do Banco Central em Brasília. Imagem ilustrativa; não registra a decisão do Copom de novembro de 2026 nem operações de crédito empresarial."
+        }
+      ],
+      "en": {
+        "title": "Brazil's 13.75% Selic rate versus 24.4% corporate borrowing costs: why the figures differ",
+        "subtitle": "November's benchmark rate contrasts with September's average interest rate on unrestricted corporate credit; lending spreads, risk and fees help explain the gap.",
+        "facts": "Brazil's Monetary Policy Committee (Copom) kept the Selic benchmark rate at 13.75% per year on November 4, 2026, pausing a series of cuts. Central Bank credit statistics published on October 29 show that the average interest rate on unrestricted credit to businesses reached 24.4% per year in September, up 0.4 percentage points from August. The gap is 10.65 percentage points, but these figures measure different things: Selic is a monetary policy benchmark, while 24.4% is an average across business lending products and conditions. The Central Bank also reported a 32.4% annual average for all new credit contracts in September, including households and businesses; that figure is not a business-only borrowing rate.",
+        "analysis": "The Selic influences funding costs and financial conditions but is not the final rate quoted to a company. Loan pricing reflects default risk, administration, taxes, capital requirements, maturities, collateral and bank margins. The average rate for unrestricted corporate credit rose from 24.0% to 24.4% per year in September; the Central Bank highlighted a 1.4-percentage-point increase in working-capital loans with maturities above 365 days. Borrowing to finance inventory, equipment or cash flow can therefore carry substantial costs. Companies should compare the total effective cost of each offer, including interest and applicable charges. The published average does not mean every business pays 24.4%, or that a particular borrower contracted a loan at that rate.",
+        "counterpoint": "The comparison does not show that the government or Central Bank concealed the actual cost of corporate borrowing: both indicators are published and serve different purposes. Lenders cite risk and intermediation costs as reasons for spreads, while critics highlight banking competition, market concentration and fees. Monetary policy aims to contain inflation, and its effect on lending rates may be delayed. Directed lending and collateral-backed products can also carry different rates.",
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (February 23, 2015): Central Bank headquarters in Brasília. Illustrative image; it does not depict the November 2026 Copom decision or corporate loans."
+        }
+      },
+      "es": {
+        "title": "Selic del 13,75% frente al 24,4% del crédito empresarial en Brasil: por qué difieren las tasas",
+        "subtitle": "La tasa de referencia mantenida en noviembre contrasta con el promedio del crédito libre a empresas en septiembre; riesgo, márgenes y cargos explican parte de la diferencia.",
+        "facts": "El Comité de Política Monetaria (Copom) de Brasil mantuvo la tasa Selic en el 13,75% anual el 4 de noviembre de 2026, interrumpiendo una serie de recortes. Las estadísticas de crédito del Banco Central publicadas el 29 de octubre indican que el interés medio de los préstamos con recursos libres a empresas llegó al 24,4% anual en septiembre, 0,4 puntos porcentuales más que en agosto. La diferencia es de 10,65 puntos porcentuales, pero las cifras miden conceptos distintos: la Selic es una referencia de política monetaria, mientras que el 24,4% es un promedio de diversas modalidades y condiciones de préstamos empresariales. El Banco Central también informó una tasa media del 32,4% anual para todas las nuevas operaciones de crédito de septiembre, incluidas personas y empresas; esa cifra no representa exclusivamente el crédito empresarial.",
+        "analysis": "La Selic influye en los costos de financiación y las condiciones monetarias, pero no equivale al interés final ofrecido a una empresa. El precio de un préstamo incluye riesgo de impago, administración, impuestos, requisitos de capital, plazo, garantías y márgenes bancarios. El interés medio del crédito libre empresarial pasó del 24,0% al 24,4% anual en septiembre; el Banco Central destacó un aumento de 1,4 puntos porcentuales en préstamos de capital de trabajo con plazo superior a 365 días. Financiar inventario, equipos o liquidez puede, por tanto, tener un costo considerable. Las empresas deben comparar el costo efectivo total de cada oferta, incluidos los intereses y cargos aplicables. El promedio no significa que todas las compañías paguen exactamente el 24,4% ni que un prestatario concreto haya contratado a esa tasa.",
+        "counterpoint": "La comparación no demuestra que el gobierno o el Banco Central oculten el costo del crédito empresarial: ambos indicadores se publican oficialmente y tienen objetivos diferentes. Los bancos citan riesgos y costos de intermediación para explicar sus márgenes, mientras que los críticos señalan la concentración bancaria, la competencia y los cargos. La política monetaria busca contener la inflación y sus efectos sobre los préstamos pueden tardar. Las líneas dirigidas y los préstamos con garantías también pueden tener costos distintos.",
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (23 de febrero de 2015): sede del Banco Central en Brasilia. Imagen ilustrativa; no muestra la decisión del Copom de noviembre de 2026 ni operaciones de crédito empresarial."
+        }
+      }
+    },
+    {
       "id": "incendio-lanchas-itapema-canto-da-praia-2026-11-08",
       "date": "2026-11-08",
       "category": "BRASIL",
