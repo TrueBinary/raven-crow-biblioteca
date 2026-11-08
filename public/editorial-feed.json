@@ -1,6 +1,63 @@
 {
   "articles": [
     {
+      "id": "enem-2026-redacao-valorizacao-sus-direito-universal",
+      "date": "2026-11-08",
+      "category": "EDUCAÇÃO",
+      "title": "Enem 2026 tem valorização do SUS como tema da redação",
+      "subtitle": "Ministro da Educação anunciou a proposta sobre saúde como direito universal; mais de cinco milhões de pessoas estão inscritas.",
+      "facts": "O tema da redação do Exame Nacional do Ensino Médio (Enem) 2026, aplicado neste domingo, 8 de novembro, é “A valorização do Sistema Único de Saúde (SUS) como direito universal”. O ministro da Educação, Leonardo Barchini, divulgou a proposta, confirmada por veículos independentes. O primeiro dia reúne redação, 45 questões de Linguagens e 45 de Ciências Humanas. Segundo o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), há 5.051.345 inscrições confirmadas. A redação exige um texto dissertativo-argumentativo com defesa de uma tese e proposta de intervenção respeitosa dos direitos humanos. A segunda etapa, com Matemática e Ciências da Natureza, será realizada em 15 de novembro. O anúncio do tema não significa que todos os candidatos já tenham terminado as provas.",
+      "analysis": "A proposta convida os candidatos a refletir sobre a distância entre o direito constitucional à saúde e o atendimento disponível na prática. É possível discutir as desigualdades regionais no acesso a consultas e tratamentos, os desafios de financiamento e gestão, o papel da vacinação e da atenção básica e a importância da prevenção. Reconhecer os resultados positivos do sistema público não impede avaliar criticamente suas limitações. O desempenho na redação depende da coerência argumentativa, da qualidade do repertório e da proposta de intervenção.",
+      "counterpoint": "Especialistas consideram o tema acessível, mas alertam que elogios genéricos ao SUS não substituem argumentos consistentes. Filas, desigualdades de atendimento e gestão de recursos são questões legítimas de análise. A correção não pressupõe uma orientação político-partidária específica; avalia competências de escrita, argumentação e respeito aos direitos humanos.",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo, 08/11/2026",
+          "url": "https://www1.folha.uol.com.br/educacao/2026/11/tema-da-redacao-do-enem-2026-e-a-valorizacao-do-sus-como-direito-universal.shtml"
+        },
+        {
+          "name": "UOL Educação, 08/11/2026",
+          "url": "https://educacao.uol.com.br/noticias/2026/11/08/tema-redacao-enem-2026-valorizacao-sus.ghtm"
+        },
+        {
+          "name": "Agência Brasil, orientações de redação",
+          "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/cartilha-reune-orientacoes-para-redacao-do-enem-2026"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Participantes_do_Enem.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Wilson Dias/Agência Brasil",
+          "license": "Creative Commons Atribuição 3.0 Brasil (CC BY 3.0 BR)",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Participantes_do_Enem.jpg",
+          "caption": "FOTO DE ARQUIVO (26/08/2007): participantes do Enem em Brasília; não retrata a prova de 2026."
+        }
+      ],
+      "en": {
+        "title": "Brazil's Enem 2026 essay focuses on valuing universal public healthcare",
+        "subtitle": "Education minister announces essay prompt on healthcare as a universal right; more than five million people registered.",
+        "facts": "The essay topic for Brazil's Exame Nacional do Ensino Médio (Enem, national secondary education examination) in 2026, held on Sunday, November 8, is “Valuing the Unified Health System (SUS) as a universal right.” Education Minister Leonardo Barchini announced the prompt, which independent news organizations confirmed. The first day includes an essay, 45 Language questions and 45 Humanities questions. According to the Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep, Brazil's education assessment institute), 5,051,345 people registered. Candidates must write an argumentative essay defending a thesis and proposing an intervention that respects human rights. The second exam day, covering Mathematics and Natural Sciences, is scheduled for November 15. The announcement does not mean all candidates have finished the test.",
+        "analysis": "The topic invites candidates to examine the gap between a constitutional right to healthcare and actual access to services. They may discuss regional disparities in appointments and treatment, funding and management challenges, vaccination, primary care and prevention. Recognizing the achievements of public healthcare does not prevent a critical examination of its shortcomings. A strong essay depends on coherent reasoning, relevant evidence and a credible proposal.",
+        "counterpoint": "Education specialists say the topic is approachable but generic praise for the SUS is no substitute for a reasoned argument. Waiting lists, unequal access and resource management are legitimate concerns. Grading does not require a particular party-political position; it assesses writing, argumentation and respect for human rights.",
+        "category": "EDUCATION",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (August 26, 2007): Enem participants in Brasília; not the 2026 exam."
+        }
+      },
+      "es": {
+        "title": "El Enem 2026 de Brasil propone valorar el SUS como derecho universal",
+        "subtitle": "El ministro de Educación anuncia el tema de la redacción sobre la salud como derecho universal; hay más de cinco millones de inscritos.",
+        "facts": "El tema de la redacción del Exame Nacional do Ensino Médio (Enem, examen nacional de enseñanza secundaria de Brasil) de 2026, celebrado este domingo 8 de noviembre, es «La valoración del Sistema Único de Salud (SUS) como derecho universal». El ministro de Educación, Leonardo Barchini, anunció la propuesta, confirmada por medios independientes. La primera jornada incluye la redacción, 45 preguntas de Lenguajes y 45 de Ciencias Humanas. Según el Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep, instituto brasileño de evaluación educativa), hay 5.051.345 inscripciones confirmadas. Los participantes deben escribir un texto argumentativo con una tesis y una propuesta de intervención respetuosa de los derechos humanos. La segunda jornada, de Matemáticas y Ciencias Naturales, será el 15 de noviembre. El anuncio del tema no significa que todos hayan terminado el examen.",
+        "analysis": "La propuesta invita a reflexionar sobre la distancia entre el derecho constitucional a la salud y el acceso real a los servicios. Es posible examinar desigualdades regionales en consultas y tratamientos, dificultades de financiación y gestión, vacunación, atención primaria y prevención. Reconocer los logros del sistema público no impide analizar sus deficiencias. Una buena redacción exige argumentos coherentes, ejemplos pertinentes y una propuesta viable.",
+        "counterpoint": "Los especialistas consideran el tema accesible, pero advierten que elogiar al SUS de forma genérica no sustituye los argumentos sólidos. Las listas de espera, las desigualdades y la gestión de recursos son cuestiones legítimas. La evaluación no exige una posición político-partidista: valora la escritura, la argumentación y el respeto de los derechos humanos.",
+        "category": "EDUCACIÓN",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (26 de agosto de 2007): participantes del Enem en Brasilia; no muestra el examen de 2026."
+        }
+      }
+    },
+    {
       "id": "colisao-trens-egito-sete-mortos-2026-11-08",
       "category": "MUNDO",
       "date": "2026-11-08",
