@@ -53,6 +53,34 @@
       ]
     },
     {
+      "id": "polonia-luto-nacional-ataque-cracovia-2026-11-08",
+      "category": "INTERNACIONAL",
+      "date": "2026-11-08",
+      "title": "Polônia decreta luto nacional após ataque a tiros que matou seis em Cracóvia",
+      "subtitle": "Decreto presidencial estabelece luto em 8 e 9 de novembro; autoridades investigam motivação do atirador e mortes de três familiares encontradas em outra cidade.",
+      "facts": "A Polônia iniciou neste domingo, 8 de novembro de 2026, dois dias de luto nacional pelas vítimas de um ataque a tiros ocorrido no sábado, 7 de novembro, na praça central de Cracóvia. Segundo comunicado oficial do gabinete do primeiro-ministro Donald Tusk, seis pessoas morreram e 16 ficaram feridas, incluindo o suspeito. O homem, de 24 anos segundo o governo polonês, entrou de carro na praça e disparou contra pessoas no local. Policiais o feriram e detiveram. Na residência ligada ao suspeito, em Ostrowiec Świętokrzyski, foram encontrados os corpos de três familiares, caso também sob investigação. Um decreto presidencial, publicado em 7 de novembro, determinou luto nacional para 8 e 9 de novembro, com bandeiras a meio mastro em edifícios públicos. A contagem de feridos varia entre atualizações jornalísticas, que podem incluir ou excluir o atirador; esta matéria utiliza o balanço divulgado pelo governo polonês.",
+      "analysis": "A decisão de decretar luto nacional mostra a dimensão excepcional do ataque para a Polônia, onde episódios de violência armada em massa são incomuns. O desafio imediato é preservar provas, identificar a sequência dos fatos e esclarecer como o agressor obteve e transportou armamento, sem antecipar conclusões sobre sua motivação. Há também uma questão institucional: reforçar a proteção de espaços públicos sem transformar uma tragédia em justificativa automática para medidas indiscriminadas contra cidadãos que não têm relação com o crime. Uma resposta proporcional depende de investigação transparente, proteção das vítimas e avaliação posterior de falhas concretas de segurança.",
+      "counterpoint": "O ministro do Interior polonês relatou indícios de simpatia do suspeito por ideias ultranacionalistas, mas a motivação precisa e eventuais vínculos organizados continuam sujeitos à investigação. Autoridades também precisam esclarecer a relação entre o ataque em Cracóvia e as mortes encontradas na residência familiar. Medidas reforçadas de segurança podem ser necessárias em locais de grande circulação, mas sua eficácia e proporcionalidade devem ser avaliadas com dados e sem atribuir responsabilidade coletiva a grupos políticos.",
+      "sources": [
+        {
+          "name": "Gabinete do primeiro-ministro da Polônia — balanço e pronunciamento de Donald Tusk, 07/11/2026",
+          "url": "https://www.gov.pl/web/premier/premier-w-obliczu-tragedii-w-krakowie-zobaczylismy-to-co-w-ludziach-najlepsze--odwage-policjantow-poswiecenie-ratownikow-i-bezinteresowna-pomoc-ludzi"
+        },
+        {
+          "name": "Governo polonês — decreto de luto nacional, 07/11/2026",
+          "url": "https://www.gov.pl/web/uw-lubuski/8-i-9-listopada-w-calej-polsce-obowiazuje-zaloba-narodowa"
+        },
+        {
+          "name": "Associated Press — apuração sobre ataque em Cracóvia, 08/11/2026",
+          "url": "https://apnews.com/article/69a65400657ffd0c8b3fa104bd472b97"
+        },
+        {
+          "name": "Reuters — ataque em Cracóvia e investigação, 07/11/2026",
+          "url": "https://www.reuters.com/world/europe/two-kiled-least-10-injured-shooting-polish-city-krakow-tvn24-reports-2026-11-07/"
+        }
+      ]
+    },
+    {
       "id": "economista-schwartsman-lula-responsabilidade-fiscal-2026-11-07",
       "category": "ECONOMIA",
       "title": "Economista diz que Lula não tem responsabilidade fiscal e herdou superávit em 2022",
