@@ -59,3 +59,8 @@ No secrets here: endpoints, record types, IDs and check results only.
 
 - Version `ae91889c-b7b7-4afb-84e8-3e0e2595997b` from commit e1adee1: same favicon links (favicon.ico, raven-logo.webp, apple-touch-icon) in `<head>` of every HTML page lacking one.
 - Rollback: deployments API to version `62ee25cc-a3ae-4d11-b5c6-ba189b47b9d4`.
+
+## 2026-11-08 20:06 — Worker 41b1e7ca: favicon em alta resolução
+- Ícones gerados do logo "Corvo no machado" (favicon.ico 16/32/48, icon-192, icon-512, apple-touch-icon 180) — site main b76d40b.
+- Worker ICONS aponta para os PNGs (fbcc84f); deploy 100% em 41b1e7ca com OK do usuário. Rollback: ae91889c.
+- Release das 20:02 travou: favicon.ico era tratado como mídia imutável no R2 (r2 9608 B ≠ git 5569 B). Fix 0c08093: `isMutable('favicon.ico')` = true; clips/fotos continuam imutáveis.
