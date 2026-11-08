@@ -73,8 +73,15 @@ export const phaseOf = key => (ENTRY.has(key) ? 2 : isMutable(key) ? 1 : 0);
 // shortcut: falls back to the cf CLI OAuth login file for local runs; CI must set CLOUDFLARE_API_TOKEN.
 function token() {
   if (process.env.CLOUDFLARE_API_TOKEN) return process.env.CLOUDFLARE_API_TOKEN;
-  const cfg = JSON.parse(readFileSync(process.env.APPDATA + '/xdg.config/cloudflare/config/default.json', 'utf8'));
-  return cfg.oauth_token;
+  return readTokenFile(process.env.APPDATA + '/xdg.config/cloudflare/config/default.json');
+}
+
+// The cf CLI rewrites this file when it refreshes the OAuth token; a read can land in that gap.
+export function readTokenFile(path, { tries = 20, waitMs = 500 } = {}) {
+  for (let i = 1; ; i++) {
+    try { return JSON.parse(readFileSync(path, 'utf8')).oauth_token; }
+    catch (e) { if (i >= tries) throw e; Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, waitMs); }
+  }
 }
 
 export function cloudflareApi({ accountId = process.env.CLOUDFLARE_ACCOUNT_ID, bucket = 'raven-crow-media' } = {}) {
