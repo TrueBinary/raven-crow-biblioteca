@@ -1,6 +1,63 @@
 {
   "articles": [
     {
+      "id": "palmeiras-vence-vasco-penaltis-final-copa-brasil-2026-11-08",
+      "date": "2026-11-08",
+      "category": "ESPORTE",
+      "title": "Palmeiras elimina Vasco nos pênaltis e enfrentará Grêmio na final da Copa do Brasil",
+      "subtitle": "Após perder por 2 a 1 em São Januário, equipe paulista venceu a disputa por 5 a 4; Carlos Miguel defendeu duas cobranças.",
+      "facts": "O Palmeiras se classificou para a final da Copa do Brasil neste domingo, 8 de novembro de 2026, ao superar o Vasco por 5 a 4 na disputa de pênaltis em São Januário, no Rio de Janeiro. No tempo normal, o Vasco venceu por 2 a 1, com gols de Colidio e Puma Rodríguez, enquanto Piquerez marcou para o Palmeiras. Como a equipe paulista havia vencido o jogo de ida por 1 a 0, o confronto ficou empatado no placar agregado e foi decidido nas penalidades. O goleiro Carlos Miguel defendeu as cobranças de Lescano e Andrés Gómez. Giay desperdiçou uma cobrança pelo Palmeiras, mas Vitor Roque, Gustavo Gómez, Ramón Sosa, Andreas Pereira e Marlon Freitas converteram as suas. O Palmeiras enfrentará o Grêmio na final em jogo único, marcada para 6 de dezembro, no estádio Mané Garrincha, em Brasília. A classificação foi relatada independentemente por Folha de S.Paulo e UOL.",
+      "analysis": "O resultado expõe a diferença entre vencer a partida e avançar em um mata-mata. O Vasco conseguiu reverter a vantagem palmeirense durante os 90 minutos, mas não confirmou a classificação nos pênaltis. Carlos Miguel foi decisivo ao defender duas cobranças, embora a vitória não possa ser atribuída exclusivamente ao goleiro: os cinco acertos dos cobradores do Palmeiras também foram necessários. A final contra o Grêmio reeditará a decisão de 2020 e oferece ao Palmeiras a chance de conquistar novamente a Copa do Brasil.",
+      "counterpoint": "A vitória vascaína por 2 a 1 no tempo normal não foi suficiente para a classificação porque o Palmeiras havia vencido a ida por 1 a 0. O desempenho do Vasco não deve ser resumido apenas à eliminação: a equipe levou o confronto às penalidades. A fotografia licenciada que acompanha a reportagem mostra São Januário em 2016, não a partida de 8 de novembro de 2026; imagens atuais de agências e veículos não foram reproduzidas sem licença.",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo — Palmeiras bate Vasco nos pênaltis (08/11/2026)",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/11/palmeiras-bate-vasco-nos-penaltis-e-esta-na-final-da-copa-do-brasil.shtml"
+        },
+        {
+          "name": "UOL — Vasco x Palmeiras, semifinal da Copa do Brasil (08/11/2026)",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/08/vasco-palmeiras-copa-do-brasil-semifinal.ghtm"
+        },
+        {
+          "name": "UOL — Carlos Miguel decisivo nos pênaltis (08/11/2026)",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/08/carlos-miguel-volta-a-decidir-nos-penaltis-e-poe-palmeiras-em-outra-final.ghtm"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Est%C3%A1dio_de_S%C3%A3o_Janu%C3%A1rio.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Bernardo1989 / Wikimedia Commons",
+          "license": "CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_de_S%C3%A3o_Janu%C3%A1rio.jpg",
+          "caption": "FOTO DE ARQUIVO (04/05/2016): Estádio de São Januário, no Rio de Janeiro. Imagem ilustrativa do local da semifinal; NÃO retrata Vasco x Palmeiras de 08/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Palmeiras beat Vasco on penalties to reach Brazilian Cup final against Grêmio",
+        "subtitle": "A 2–1 defeat at São Januário was followed by a 5–4 shootout win, with Carlos Miguel saving two penalties.",
+        "facts": "Palmeiras reached the Copa do Brasil final on Sunday, November 8, 2026, by defeating Vasco 5–4 on penalties at São Januário stadium in Rio de Janeiro. Vasco won the match 2–1 in regulation time through goals from Colidio and Puma Rodríguez, while Piquerez scored for Palmeiras. Palmeiras had won the first leg 1–0, leaving the aggregate score level and sending the tie to a shootout. Goalkeeper Carlos Miguel saved attempts by Lescano and Andrés Gómez. Giay missed for Palmeiras, but Vitor Roque, Gustavo Gómez, Ramón Sosa, Andreas Pereira and Marlon Freitas scored their penalties. Palmeiras will face Grêmio in a one-off final on December 6, 2026, at Mané Garrincha stadium in Brasília. Folha de S.Paulo and UOL independently reported the qualification.",
+        "analysis": "The result highlights the distinction between winning a match and advancing in a two-legged knockout tie. Vasco overturned Palmeiras' advantage during regulation time but failed to complete the job in the shootout. Carlos Miguel's two saves were pivotal, yet all five successful Palmeiras penalties also mattered. The final against Grêmio will reprise the 2020 decider and offer Palmeiras another chance to lift the Copa do Brasil.",
+        "counterpoint": "Vasco's 2–1 regulation-time victory was not enough because Palmeiras had won the first leg 1–0. Vasco's performance should not be reduced to the elimination alone: the team forced the tie to penalties. The licensed archive photograph shows São Januário in 2016, not the match on November 8, 2026. Contemporary agency photographs were not reused without permission.",
+        "category": "SPORTS",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (May 4, 2016): São Januário stadium in Rio de Janeiro, the venue of the semifinal. This photograph does NOT show the Vasco–Palmeiras match on November 8, 2026."
+        }
+      },
+      "es": {
+        "title": "Palmeiras elimina a Vasco en los penaltis y jugará la final de la Copa de Brasil ante Grêmio",
+        "subtitle": "Tras perder 2-1 en São Januário, el equipo paulista ganó la tanda 5-4; Carlos Miguel detuvo dos disparos.",
+        "facts": "Palmeiras se clasificó para la final de la Copa do Brasil el domingo 8 de noviembre de 2026 tras derrotar a Vasco por 5-4 en la tanda de penaltis en el estadio São Januário de Río de Janeiro. Vasco ganó el partido por 2-1, con goles de Colidio y Puma Rodríguez, mientras Piquerez marcó para Palmeiras. Como el equipo paulista había ganado la ida por 1-0, la eliminatoria terminó empatada en el global y se resolvió desde los once metros. El portero Carlos Miguel detuvo los lanzamientos de Lescano y Andrés Gómez. Giay falló para Palmeiras, pero Vitor Roque, Gustavo Gómez, Ramón Sosa, Andreas Pereira y Marlon Freitas anotaron sus penaltis. Palmeiras se enfrentará a Grêmio en una final a partido único el 6 de diciembre de 2026, en el estadio Mané Garrincha de Brasilia. Folha de S.Paulo y UOL informaron de la clasificación de forma independiente.",
+        "analysis": "El resultado ilustra la diferencia entre ganar un partido y superar una eliminatoria a doble encuentro. Vasco logró remontar la ventaja del rival durante el tiempo reglamentario, pero no completó la clasificación en los penaltis. Las dos paradas de Carlos Miguel resultaron decisivas, aunque también fueron indispensables los cinco aciertos de los lanzadores de Palmeiras. La final ante Grêmio repetirá la de 2020 y ofrecerá a Palmeiras otra oportunidad de conquistar la Copa do Brasil.",
+        "counterpoint": "La victoria de Vasco por 2-1 en el tiempo reglamentario no bastó porque Palmeiras había ganado la ida por 1-0. El rendimiento de Vasco no debe resumirse únicamente en la eliminación: el equipo llevó la serie a los penaltis. La fotografía de archivo autorizada muestra São Januário en 2016, no el encuentro del 8 de noviembre de 2026. No se reutilizaron imágenes actuales de agencias sin autorización.",
+        "category": "DEPORTES",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (4 de mayo de 2016): estadio São Januário, en Río de Janeiro, sede de la semifinal. La imagen NO muestra el partido Vasco-Palmeiras del 8 de noviembre de 2026."
+        }
+      }
+    },
+    {
       "id": "rolandia-parana-adolescente-morre-correnteza-jovens-encontrados-2026-11-08",
       "date": "2026-11-08",
       "category": "BRASIL",
