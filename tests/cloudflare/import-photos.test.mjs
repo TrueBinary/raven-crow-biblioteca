@@ -76,3 +76,16 @@ test('accepts photos for Coluna essays (ids from coluna-ensaios.json) and keeps 
   const c = JSON.parse(readFileSync(join(s.site, 'public/editorial-photo-credits.json'), 'utf8'))['ensaio-teste'];
   assert.equal(c.caption, 'Plenário do Senado (foto de arquivo)');
 });
+
+test('extra in-text photos: slot 2/3 with placement become <id>--N', t => {
+  const s = setup({ items: [ok({ slot: 2, placement: 'fatos', caption: 'extra' }), ok({ slot: 7 }), ok({ slot: 3, placement: 'rodape' })] });
+  t.after(() => rmSync(s.root, { recursive: true, force: true }));
+  const r = importPhotos({ siteRoot: s.site, dropRoot: s.dropRoot });
+  assert.deepEqual(r.imported, ['nova-2026--2', 'nova-2026--3']);
+  const c = JSON.parse(readFileSync(join(s.site, 'public/editorial-photo-credits.json'), 'utf8'));
+  assert.equal(c['nova-2026--2'].path, 'editorial/photos/nova-2026--2.jpg');
+  assert.equal(c['nova-2026--2'].placement, 'fatos');
+  assert.equal(c['nova-2026--3'].placement, 'analise');
+  assert.ok(existsSync(join(s.site, 'public/editorial/photos/nova-2026--2.jpg')));
+  assert.match(r.skipped.find(x => x.reason.includes('slot')).reason, /slot/);
+});
