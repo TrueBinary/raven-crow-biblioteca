@@ -9,6 +9,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 from news_photos import news_figures
+from news_videos import news_videos
 
 REQUIRED = ("title", "facts", "analysis", "counterpoint")
 LANGS = {
@@ -87,6 +88,9 @@ def render_article(root: Path, a: dict, lang: str, updated: str, credits: dict, 
         if key in local:
             local[key] = {**local[key], "caption": str(caps.get(str(n)) or "")}
     figs = news_figures(slug, local, root / "public", b["title"], prefix="../../../")
+    vids = news_videos(a, prefix="../../../", captions=b.get("video_captions") if isinstance(b.get("video_captions"), dict) else None,
+                       play_label={"en": "Watch the video", "es": "Ver el video"}[lang])
+    figs = {k: figs[k] + vids[k] for k in figs}
     sources = "".join('<li><a rel="noopener noreferrer" target="_blank" href="' + _esc(s["url"]) + '">' + _esc(s.get("name", L["source"])) + "</a></li>"
                       for s in a.get("sources", []) if urlparse(s.get("url", "")).scheme == "https")
     schema = {"@context": "https://schema.org", "@type": "Article", "headline": b["title"], "description": b.get("subtitle", ""),
