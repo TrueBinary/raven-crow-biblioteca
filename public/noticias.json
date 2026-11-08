@@ -2,9 +2,51 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "08/11/2026",
-  "updatedAt": "2026-11-08T13:26:30-03:00",
+  "updatedAt": "2026-11-08T14:33:52-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "colisao-trens-egito-sete-mortos-2026-11-08",
+      "category": "MUNDO",
+      "date": "2026-11-08",
+      "title": "Colisão entre trens no Egito deixa ao menos 7 mortos e 112 feridos",
+      "subtitle": "Trem atingiu a traseira de outra composição ao sul do Cairo; autoridades investigam as causas do acidente.",
+      "facts": "Dois trens de passageiros colidiram neste domingo, 8 de novembro de 2026, na região de Al-Ayyat, província de Gizé, ao sul do Cairo, no Egito. Segundo o Ministério da Saúde egípcio, citado pela Reuters, o acidente deixou ao menos sete mortos e 112 feridos em balanço divulgado neste domingo. Um trem que seguia de Gizé para Faium atingiu a traseira de uma composição que viajava do Cairo para Assuã, informou a autoridade ferroviária egípcia. A colisão provocou o descarrilamento de vagões. Equipes de emergência trabalharam na remoção dos destroços e no atendimento às vítimas. O Ministério Público abriu investigação sobre as causas técnicas, enquanto o presidente Abdel Fattah al-Sisi ordenou a apuração urgente de eventuais responsabilidades. Os totais de vítimas são provisórios e podem ser atualizados.",
+      "analysis": "A colisão recoloca sob atenção a segurança da rede ferroviária egípcia, infraestrutura essencial para o transporte de passageiros e com histórico de acidentes graves. O choque traseiro não permite, por si só, concluir se houve falha humana, problema na sinalização, defeito mecânico ou outra circunstância. A investigação precisará examinar dados operacionais, condições da via e mecanismos de prevenção de colisões. Também será importante acompanhar a assistência aos feridos, a transparência dos próximos balanços oficiais e a retomada segura do tráfego na linha afetada.",
+      "counterpoint": "Embora acidentes anteriores e preocupações sobre a infraestrutura ferroviária do Egito sejam relevantes para contextualizar o episódio, não há confirmação de negligência ou de causa técnica específica neste caso. O governo egípcio afirma ter investido na modernização do setor. A relação entre investimentos, segurança e o acidente de 8 de novembro dependerá de evidências da investigação. Os números de mortos e feridos representam o balanço disponível no momento da apuração.",
+      "sources": [
+        {
+          "name": "Reuters — 7 mortos e 112 feridos; 08/11/2026",
+          "url": "https://www.reuters.com/world/africa/train-collision-egypts-giza-province-kills-4-injures-88-health-ministry-says-2026-11-08/"
+        },
+        {
+          "name": "Associated Press — colisão e investigação; 08/11/2026",
+          "url": "https://apnews.com/article/4ad591268ce015d85ae302e22185b235"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/El-Reef_El-Masry.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Michael Botros / Wikimedia Commons",
+          "license": "CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:El-Reef_El-Masry.jpg",
+          "caption": "FOTO DE ARQUIVO (05/10/2026): trem de passageiros circula por ferrovia rural no Egito. Imagem ilustrativa; não mostra a colisão de 08/11/2026 em Al-Ayyat, Gizé."
+        }
+      ],
+      "en": {
+        "title": "Train collision in Egypt kills at least 7 and injures 112",
+        "subtitle": "A train struck another from behind south of Cairo as Egyptian authorities launched an investigation into the cause.",
+        "facts": "Two passenger trains collided on Sunday, November 8, 2026, in Al-Ayyat, Giza province, south of Cairo, Egypt. Egypt's Health Ministry reported at least seven deaths and 112 injuries, according to Reuters' account of the latest tally. Egypt's railway authority said a train traveling from Giza to Fayoum struck the rear of another train heading from Cairo to Aswan, causing carriages to derail. Emergency teams attended to the injured and worked to clear wreckage from the tracks. The public prosecutor's office opened an investigation into the technical causes, while President Abdel Fattah al-Sisi called for a swift inquiry into possible responsibility. The casualty figures are provisional and may change as authorities release new information.",
+        "analysis": "The collision has renewed scrutiny of safety on Egypt's passenger rail network, an important transport system with a history of deadly accidents. A rear-end impact alone does not establish whether human error, a signaling problem, a mechanical failure or some other factor was responsible. Investigators will need to examine operating records, track conditions and collision-prevention safeguards. Updates on medical assistance, official casualty counts and the safe restoration of rail service will also be important.",
+        "counterpoint": "Past rail disasters and concerns about Egypt's infrastructure provide context, but they do not establish negligence or any specific technical cause in this collision. Egyptian authorities say they have invested in railway modernization. Any connection between those investments, operational safety and the November 8 crash must be assessed against the investigation's findings. The casualty figures reflect the available tally at the time of reporting.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (October 5, 2026): a passenger train travels through the Egyptian countryside. Illustrative image; it does not show the November 8, 2026 collision in Al-Ayyat, Giza."
+        }
+      }
+    },
     {
       "id": "temporal-rio-270-mil-sem-luz-enem-2026-11-08",
       "category": "BRASIL",
