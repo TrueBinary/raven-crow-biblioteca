@@ -13,6 +13,7 @@ export function importPhotos({ siteRoot, dropRoot }) {
   for (const f of ['public/noticias.json', 'public/editorial-feed.json']) {
     try { for (const a of readJson(join(siteRoot, f)).articles || []) if (a?.id) ids.add(a.id); } catch { /* file optional */ }
   }
+  try { for (const e of readJson(join(siteRoot, 'public/coluna-ensaios.json')).essays || []) if (e?.id) ids.add(e.id); } catch { /* file optional */ }
   const creditsPath = join(siteRoot, 'public/editorial-photo-credits.json');
   const credits = existsSync(creditsPath) ? readJson(creditsPath) : {};
 
@@ -27,7 +28,7 @@ export function importPhotos({ siteRoot, dropRoot }) {
       const id = it?.article_id;
       if (it?.uso_liberado !== true) { skip('uso_liberado is not true'); continue; }
       if (typeof id !== 'string' || !/^[a-z0-9-]{3,100}$/.test(id)) { skip('missing or invalid article_id'); continue; }
-      if (!ids.has(id)) { skip('article_id not in noticias.json'); continue; }
+      if (!ids.has(id)) { skip('article_id not in noticias.json, editorial-feed.json or coluna-ensaios.json'); continue; }
       if (credits[id]) { skip('article already has a photo'); continue; }
       if (!it.license || !it.credit) { skip('license and credit are required'); continue; }
       if (!/^https:\/\//.test(it.source_article || '')) { skip('source_article must be an https URL'); continue; }
@@ -38,7 +39,7 @@ export function importPhotos({ siteRoot, dropRoot }) {
       if (buf.length > MAX_BYTES || buf[0] !== 0xff || buf[1] !== 0xd8 || buf[2] !== 0xff) { skip('not a JPEG up to 3 MB'); continue; }
       if (it.sha256 && createHash('sha256').update(buf).digest('hex') !== it.sha256) { skip('sha256 does not match manifest'); continue; }
       copyFileSync(src, join(siteRoot, 'public/editorial/photos', id + '.jpg'));
-      credits[id] = { path: `editorial/photos/${id}.jpg`, source: it.source_article, license: it.license, artist: it.credit, illustrative: false };
+      credits[id] = { path: `editorial/photos/${id}.jpg`, source: it.source_article, license: it.license, artist: it.credit, illustrative: false, ...(it.caption ? { caption: String(it.caption) } : {}) };
       imported.push(id);
     }
   }
