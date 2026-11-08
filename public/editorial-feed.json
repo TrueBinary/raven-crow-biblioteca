@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": "economista-schwartsman-lula-responsabilidade-fiscal-2026-11-07",
+      "category": "ECONOMIA",
+      "title": "Economista diz que Lula não tem responsabilidade fiscal e herdou superávit em 2022",
+      "subtitle": "Alexandre Schwartsman, ex-diretor do Banco Central, critica o aumento de gastos e da dívida; governo afirma que as contas estão sob controle.",
+      "facts": "O economista Alexandre Schwartsman, ex-diretor do Banco Central, afirmou em entrevista ao UOL, repercutida em 6 de novembro de 2026, que o presidente Luiz Inácio Lula da Silva não tem responsabilidade com as contas públicas. Ao comentar a declaração do presidente de que seu histórico prova compromisso fiscal, ele disse: \"Se tivesse, não precisaria ficar falando\".\n\nSegundo Schwartsman, a dívida pública passou de cerca de 72% para mais de 86% do PIB até o fim de 2026, e as despesas federais cresceram cerca de R$ 430 bilhões desde 2022, já descontada a inflação. Ele também avaliou que o governo está despreparado para lidar com o problema. O ponto de partida citado no vídeo é verificável: em 2022, o Governo Central registrou superávit primário de R$ 54,1 bilhões, o primeiro resultado positivo desde 2013, segundo o Tesouro Nacional.",
+      "analysis": "A crítica toca no centro do debate econômico do terceiro mandato: o governo recebeu as contas no azul e ampliou despesas sociais e investimentos, apostando que o crescimento e o aumento de arrecadação sustentariam a trajetória da dívida. Para economistas como Schwartsman, a conta não fecha sem corte de gastos ou reformas, e o risco é pagar com juros altos e menos crescimento. O número que o leitor deve acompanhar é a relação dívida/PIB, que mede se o país consegue honrar o que deve.",
+      "counterpoint": "Lula rebateu as críticas e disse que ninguém pode falar mais de responsabilidade fiscal do que sua equipe econômica, afirmando que os mais pobres não pagarão a conta do ajuste. O projeto de Orçamento de 2027 prevê superávit primário de R$ 18,6 bilhões. Parte do resultado de 2022 também veio do adiamento de precatórios, ressalva feita pelo próprio Tesouro na época.",
+      "sources": [
+        {
+          "name": "Blog do BG — \"Lula não tem responsabilidade fiscal\", diz economista (06/11/2026)",
+          "url": "https://www.blogdobg.com.br/video-lula-nao-tem-responsabilidade-fiscal-e-governo-esta-despreparado-para-lidar-com-problemas-diz-economista/"
+        },
+        {
+          "name": "Poder360 — Governo fecha 2022 com superávit de R$ 54 bi, o 1º em 9 anos",
+          "url": "https://www.poder360.com.br/governo/governo-fecha-2022-com-superavit-de-r-54-bi-o-maior-em-9-anos/"
+        },
+        {
+          "name": "Jovem Pan — Lula rebate críticas sobre falta de responsabilidade fiscal",
+          "url": "https://jovempan.com.br/economia/macroeconomia/lula-rebate-criticas-sobre-falta-de-responsabilidade-fiscal-pobres-nao-pagarao-conta/"
+        }
+      ],
+      "video": "https://www.ravencrow.cloud/clips/12551029d0a6f7a582816c86e476347c099dffd7a1cfe6f3f53385b72856c239.mp4",
+      "video_credit": "Vídeo: Pleno.News, com trechos de entrevista de Alexandre Schwartsman ao UOL.",
+      "date": "2026-11-07"
+    },
+    {
       "id": "bancos-cortam-projecoes-pib-2027-2026-11-07",
       "category": "ECONOMIA",
       "date": "2026-11-07",
