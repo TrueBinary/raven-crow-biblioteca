@@ -10,7 +10,7 @@ const srcPath = key => (key === 'index.html' ? 'index.html' : 'public/' + key);
 const readBlob = (repo, ref, key) => execFileSync('git', ['-C', repo, 'show', `${ref}:${srcPath(key)}`], { maxBuffer: MAX_PUT + 1 });
 // ETag of a single-part R2 upload is the MD5 of the body; multipart ETags contain '-'.
 // Site text and generated cover art are rebuilt in place; media (clips, photos) is immutable.
-export const isMutable = key => /\.(?:html|json|xml|txt|js|mjs|css)$/.test(key) || /^editorial\/covers\/[a-z0-9-]+\.svg$/.test(key);
+export const isMutable = key => key === 'favicon.ico' || /\.(?:html|json|xml|txt|js|mjs|css)$/.test(key) || /^editorial\/covers\/[a-z0-9-]+\.svg$/.test(key);
 const sameContent = (obj, buf) => obj.size === buf.length && (!obj.etag || obj.etag.includes('-') || obj.etag.replace(/"/g, '') === md5(buf));
 
 export async function syncMedia({ gitRef, repo = process.cwd(), api = cloudflareApi(), dryRun = false, only = null, maxConcurrency = 3, retryDelayMs = 2000, log = () => {} }) {
