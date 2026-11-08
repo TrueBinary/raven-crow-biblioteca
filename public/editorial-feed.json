@@ -29,6 +29,30 @@
       ]
     },
     {
+      "id": "arabia-saudita-intercepta-misseis-houthis-riade-2026-11-08",
+      "category": "INTERNACIONAL",
+      "date": "2026-11-08",
+      "title": "Arábia Saudita intercepta mísseis houthis direcionados a Riad em nova escalada",
+      "subtitle": "Coalizão saudita relata a destruição de dois mísseis balísticos rumo à capital neste domingo; ataques e alertas também atingiram outras regiões do país.",
+      "facts": "Neste domingo, 8 de novembro de 2026, a coalizão liderada pela Arábia Saudita afirmou ter interceptado e destruído dois mísseis balísticos lançados pelos houthis do Iêmen em direção a Riad. Segundo a Reuters, a Defesa Civil emitiu alerta na região da capital pouco antes de moradores ouvirem explosões; depois, as autoridades informaram que o risco imediato havia passado. A coalizão também relatou a interceptação de um míssil balístico direcionado à Província Oriental e, em comunicado posterior, de dois mísseis de cruzeiro nas regiões de Riad e do sul. A Anadolu e a Al Jazeera noticiaram os anúncios do porta-voz militar saudita, Turki al-Maliki. As informações sobre interceptações são declarações oficiais sauditas; não equivalem à verificação independente de cada lançamento ou alvo. Não há confirmação, nas fontes consultadas, de vítimas causadas especificamente pelos dois mísseis balísticos dirigidos à capital neste domingo.",
+      "analysis": "A nova sequência de alertas evidencia como a guerra no Iêmen voltou a pressionar a segurança da Arábia Saudita e a infraestrutura de uma região central para o abastecimento mundial de petróleo. A distinção entre lançamentos, interceptações e danos efetivos é essencial: um alerta em Riad não significa que instalações tenham sido atingidas. Ainda assim, a necessidade de acionar defesas aéreas repetidamente amplia custos militares e incertezas para transporte, comércio e investimentos. Do ponto de vista econômico, o risco relevante não está apenas em um impacto direto sobre a produção de petróleo, mas na possibilidade de interrupções preventivas e de uma escalada regional prolongada.",
+      "counterpoint": "A coalizão saudita apresenta as interceptações como medidas defensivas contra ataques houthis. Os houthis, por sua vez, afirmam agir em resposta à campanha militar saudita no Iêmen. As versões sobre a responsabilidade por mortes de civis em ataques recentes no território iemenita são disputadas e não devem ser tratadas como comprovadas sem investigação independente. Os relatos de domingo não demonstram, por si só, que houve danos em Riad ou que os objetivos declarados de qualquer dos lados tenham sido alcançados.",
+      "sources": [
+        {
+          "name": "Reuters — interceptações anunciadas pela coalizão em 8 de novembro de 2026",
+          "url": "https://www.reuters.com/world/middle-east/loud-booms-heard-saudi-capital-riyadh-after-early-warning-alert-issued-2026-11-08/"
+        },
+        {
+          "name": "Anadolu Agency — dois mísseis balísticos e comunicados subsequentes, 8 de novembro de 2026",
+          "url": "https://www.aa.com.tr/en/world/saudi-led-coalition-says-it-intercepted-2-houthi-ballistic-missiles-over-riyadh/4115656"
+        },
+        {
+          "name": "Al Jazeera — ataques anunciados na capital e na Província Oriental, 8 de novembro de 2026",
+          "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province"
+        }
+      ]
+    },
+    {
       "id": "economista-schwartsman-lula-responsabilidade-fiscal-2026-11-07",
       "category": "ECONOMIA",
       "title": "Economista diz que Lula não tem responsabilidade fiscal e herdou superávit em 2022",
