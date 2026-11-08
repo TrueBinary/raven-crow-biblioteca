@@ -31,6 +31,8 @@ class NewsI18nTests(unittest.TestCase):
             self.assertIn("English caption", en)
             self.assertNotIn("Legenda", en)
             self.assertIn("8 de noviembre de 2026", es)
+            self.assertIn('"image": "https://b/editorial/photos/nova-2026.jpg"', en)
+            self.assertIn('<meta property="og:image" content="https://b/editorial/photos/nova-2026.jpg">', es)
             self.assertIn('src="../../../editorial/photos/nova-2026.jpg"', es)
             render_index(root, "es", [a], "", "https://b")
             self.assertIn("Gran noticia", (root / "public/es/index.html").read_text(encoding="utf-8"))

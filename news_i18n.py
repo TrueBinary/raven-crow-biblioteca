@@ -92,7 +92,13 @@ def render_article(root: Path, a: dict, lang: str, updated: str, credits: dict, 
     schema = {"@context": "https://schema.org", "@type": "Article", "headline": b["title"], "description": b.get("subtitle", ""),
               "inLanguage": lang, "datePublished": a["date"], "dateModified": updated, "author": {"@type": "Organization", "name": "Raven Crow"},
               "publisher": {"@type": "Organization", "name": "Raven Crow"}, "mainEntityOfPage": url, "isAccessibleForFree": True}
-    ld = '<meta property="og:type" content="article"><script type="application/ld+json">' + json.dumps(schema, ensure_ascii=False).replace("<", "\\u003c") + "</script>"
+    photo = root / "public" / "editorial" / "photos" / (slug + ".jpg")
+    image = f"{base}/editorial/photos/{slug}.jpg" if photo.is_file() else None
+    if image:
+        schema["image"] = image
+    og = (f'<meta property="og:image" content="{image}"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{image}">'
+          if image else "")
+    ld = og + '<meta property="og:type" content="article"><script type="application/ld+json">' + json.dumps(schema, ensure_ascii=False).replace("<", "\\u003c") + "</script>"
     alts = {l: url_of(base, l, slug) for l in langs_of(a)}
     h = L["h"]
     page = (_head(lang, b["title"] + " | Raven Crow", b.get("subtitle", ""), url, hreflang(pt_url, alts), css, ld)
