@@ -66,3 +66,13 @@
     {rootMargin: '0px 0px 800px 0px'});
   io.observe(marker);
 })();
+
+/* Raven Crow: leituras relacionadas nas matérias e na Coluna. Essas páginas já carregam este arquivo,
+   então o bloco chega a todas elas sem regenerar nenhuma página. */
+(function () {
+  if (!/\/(noticias|coluna)\/[a-z0-9-]+\/?$/.test(location.pathname)) return;
+  const s = document.createElement('script');
+  s.defer = true;
+  s.src = new URL('raven-related.js', document.currentScript && document.currentScript.src || location.origin + '/').href;
+  document.head.append(s);
+})();
