@@ -19,11 +19,21 @@ const GTRANSLATE='<div class="gtranslate_wrapper"></div><script>window.gtranslat
 const ICONS='<link rel="icon" href="/favicon.ico" sizes="48x48"><link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png"><link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png"><link rel="apple-touch-icon" href="/apple-touch-icon.png">';
 async function withSocialBar(r){if(r.status!==200||!r.body||!(r.headers.get('Content-Type')||'').startsWith('text/html'))return r;const html=await r.text();const i=html.lastIndexOf('</body>');if(i<0)return new Response(html,{status:200,headers:r.headers});let out=html.slice(0,i)+SOCIAL_BAR+GTRANSLATE+html.slice(i);const hd=out.indexOf('</head>');if(hd>=0&&!out.slice(0,hd).includes('rel="icon"'))out=out.slice(0,hd)+ICONS+out.slice(hd);const h=new Headers(r.headers);h.set('Content-Length',String(new TextEncoder().encode(out).length));h.delete('ETag');return new Response(out,{status:200,headers:h})}
 export default {async fetch(req,env){return withSocialBar(await handle(req,env))}};
+// Only section aliases without a dedicated index are redirected; article paths stay unchanged.
+const SECTION_REDIRECTS=Object.freeze({
+ '/noticias':['/noticias.html',301],'/noticias/':['/noticias.html',301],
+ '/coluna':['/coluna.html',301],'/coluna/':['/coluna.html',301],
+ '/en/noticias':['/en/',302],'/en/noticias/':['/en/',302],
+ '/es/noticias':['/es/',302],'/es/noticias/':['/es/',302],
+ '/en/coluna':['/en/',302],'/en/coluna/':['/en/',302],
+ '/es/coluna':['/es/',302],'/es/coluna/':['/es/',302],
+});
 async function handle(req,env){
  const path=new URL(req.url).pathname;
  if(path==='/__raven_migration_health')return json({status:'production',R2:true,domainCutover:true,githubFallback:env.GITHUB_FALLBACK==='1'});
  if(path.startsWith('/__migration/'))return new Response('Not Found',{status:404});
  if(req.method!=='GET'&&req.method!=='HEAD')return new Response('Method Not Allowed',{status:405,headers:{Allow:'GET, HEAD'}});
+ const section=SECTION_REDIRECTS[path];if(section)return new Response(null,{status:section[1],headers:{Location:section[0],'Cache-Control':'public, max-age=300'}});
  const key=resolveKey(path);if(!key)return new Response('Invalid path',{status:400});
  const head=await env.RAVEN_MEDIA.head(key);if(!head)return env.GITHUB_FALLBACK==='1'?fallback(req,key):new Response('Not Found',{status:404,headers:{'Cache-Control':'public, max-age=60'}});
  const inm=req.headers.get('If-None-Match');if(inm&&(inm.trim()==='*'||inm.split(',').some(t=>t.trim().replace(/^W\//,'')===head.httpEtag.replace(/^W\//,''))))return new Response(null,{status:304,headers:{ETag:head.httpEtag,'Cache-Control':cache(key)}});
