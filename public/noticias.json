@@ -2,9 +2,70 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "09/11/2026",
-  "updatedAt": "2026-11-09T08:58:27-03:00",
+  "updatedAt": "2026-11-09T09:59:37-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "iemen-ataques-al-shariya-44-mortos-2026-11-09",
+      "date": "2026-11-09",
+      "category": "MUNDO",
+      "title": "Houthis elevam para 44 o número de mortos em ataques aéreos perto de Sanaa, no Iêmen",
+      "subtitle": "Autoridades de saúde ligadas ao grupo relatam 21 crianças e dez mulheres entre os mortos; balanço não foi verificado de forma independente.",
+      "facts": "Autoridades de saúde controladas pelos houthis anunciaram nesta segunda-feira, 9 de novembro de 2026, que o número de mortos em bombardeios na vila de al-Shariya, na região de Bani Hushaysh, a leste de Sanaa, capital do Iêmen, subiu para 44. Segundo o porta-voz Anees al-Asbahi, entre os mortos estão 21 crianças e dez mulheres; outras 40 pessoas ficaram feridas, incluindo oito crianças e nove mulheres. As explosões atingiram casas no sábado, 7 de novembro. Equipes de resgate continuavam procurando desaparecidos, segundo as autoridades houthis. O grupo atribuiu os ataques à Arábia Saudita. O novo balanço foi divulgado pela Associated Press, pela AFP e pela agência Anadolu, mas os veículos não confirmaram independentemente os números ou a autoria. Em 7 de novembro, a Reuters havia informado 33 mortos e 39 feridos, com base em uma estimativa anterior das mesmas autoridades. Os confrontos entre os houthis, apoiados pelo Irã, e forças ligadas à Arábia Saudita se intensificaram desde julho, após o fim da relativa trégua que vigorava desde 2022.",
+      "analysis": "A elevação do balanço de vítimas reforça a gravidade da escalada militar em áreas habitadas do Iêmen, onde civis enfrentam riscos crescentes e dificuldades para obter atendimento médico. A presença de crianças e mulheres entre os mortos, conforme o relato das autoridades houthis, torna urgente a apuração independente das circunstâncias e da identificação dos alvos. As partes em conflito têm obrigações de proteção de civis previstas no direito internacional humanitário. A disputa também se conecta à escalada regional envolvendo ataques dos houthis à infraestrutura saudita e respostas militares. A prioridade imediata é a busca por desaparecidos, a assistência aos feridos e o acesso de observadores independentes ao local.",
+      "counterpoint": "O balanço de 44 mortos e 40 feridos provém do Ministério da Saúde administrado pelos houthis, parte diretamente envolvida no conflito. A AP, a Reuters e outros veículos não conseguiram verificar independentemente a contagem ou determinar a responsabilidade pelos ataques. Os houthis acusam a Arábia Saudita, mas a acusação não equivale a uma conclusão de investigação independente. A fotografia publicada é um registro de arquivo de uma rua de Sanaa em 28 de abril de 2015 e não mostra o ataque em al-Shariya.",
+      "sources": [
+        {
+          "name": "Associated Press — Houthi rebels say at least 44 killed in airstrike near Yemeni capital (09/11/2026)",
+          "url": "https://apnews.com/article/9b6fa963ea4766a08956e53506494468"
+        },
+        {
+          "name": "AFP/UOL — Número de mortos em ataque saudita contra o Iêmen sobe para 44, afirmam houthis (09/11/2026)",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/09/numero-de-mortos-em-ataque-saudita-contra-o-iemen-sobe-para-44-afirmam-houthis.htm"
+        },
+        {
+          "name": "Anadolu Agency — Yemen'deki Husiler: Suudi Arabistan'ın Sana'ya düzenlediği saldırılarda ölü sayısı 44’e yükseldi (09/11/2026)",
+          "url": "https://aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistanin-sanaya-duzenledigi-saldirilarda-olu-sayisi-44-e-yukseldi/4116389"
+        },
+        {
+          "name": "Reuters — Houthi-run health ministry says airstrikes kill 33 near Yemen capital (07/11/2026)",
+          "url": "https://www.reuters.com/world/middle-east/houthi-run-health-ministry-says-airstrikes-it-blames-saudi-arabia-kill-27-near-2026-11-07/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Street%2C_Sana%C3%A1%2C_Yemen.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Rod Waddington / Wikimedia Commons",
+          "license": "CC BY-SA 2.0 - https://creativecommons.org/licenses/by-sa/2.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Street,_Sana%C3%A1,_Yemen.jpg",
+          "caption": "FOTO DE ARQUIVO (28/04/2015): rua e construções na cidade antiga de Sanaa, Iêmen. Imagem ilustrativa da região; NÃO mostra os bombardeios em al-Shariya em 07/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Houthis say death toll from airstrikes near Yemen's Sanaa has risen to 44",
+        "subtitle": "Houthi-run health officials report 21 children and ten women among the dead; the toll has not been independently verified.",
+        "facts": "Health authorities run by Yemen's Houthi movement said on Monday, November 9, 2026, that the death toll from airstrikes on the village of al-Shariya, in Bani Hushaysh east of the capital Sanaa, had risen to 44. Spokesperson Anees al-Asbahi said the dead included 21 children and ten women, while 40 other people were injured, including eight children and nine women. The strikes hit homes on Saturday, November 7. Rescue teams were still searching for missing people, according to the Houthi authorities. The movement blamed Saudi Arabia. The updated figures were reported by the Associated Press, AFP and Anadolu Agency, but journalists could not independently confirm the numbers or responsibility. On November 7, Reuters had reported an earlier toll of 33 dead and 39 injured, citing the same authorities. Fighting between the Iran-backed Houthis and Saudi-linked forces has intensified since July, ending the relative calm that followed a 2022 truce.",
+        "analysis": "The higher reported death toll highlights the human cost of escalating fighting in populated areas of Yemen, where civilians face increasing danger and barriers to medical care. The reported deaths of women and children make independent verification of the circumstances and targets especially important. All parties are bound by international humanitarian law to protect civilians. The violence is also part of a wider regional escalation, including Houthi attacks on Saudi infrastructure and military responses. Immediate priorities include searching for missing people, treating the injured and allowing independent observers to reach the site.",
+        "counterpoint": "The figures of 44 dead and 40 injured come from a Houthi-run health ministry, an authority associated with one of the parties to the conflict. AP, Reuters and other news outlets have not independently verified the count or established responsibility. The Houthis blame Saudi Arabia, but their accusation is not an independently established finding. The accompanying photograph is an archive image of a street in Sanaa taken on April 28, 2015, and does not depict the al-Shariya attack.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (April 28, 2015): a street and buildings in the old city of Sanaa, Yemen. Illustrative regional image; it does NOT show the November 7, 2026 airstrikes on al-Shariya."
+        }
+      },
+      "es": {
+        "title": "Los hutíes elevan a 44 los muertos por bombardeos cerca de Saná, en Yemen",
+        "subtitle": "Autoridades sanitarias vinculadas al grupo contabilizan 21 niños y diez mujeres entre los fallecidos; la cifra no se ha verificado de forma independiente.",
+        "facts": "Las autoridades sanitarias controladas por los hutíes anunciaron el lunes 9 de noviembre de 2026 que la cifra de muertos por bombardeos contra la aldea de al-Shariya, en Bani Hushaysh, al este de Saná, capital de Yemen, había aumentado a 44. Según el portavoz Anees al-Asbahi, entre los fallecidos hay 21 niños y diez mujeres; otras 40 personas resultaron heridas, incluidos ocho niños y nueve mujeres. Los ataques alcanzaron viviendas el sábado 7 de noviembre. Los equipos de rescate seguían buscando desaparecidos, según las autoridades hutíes. El grupo responsabilizó a Arabia Saudita. La Associated Press, AFP y la agencia Anadolu difundieron el nuevo balance, aunque no pudieron confirmar de manera independiente las cifras ni la autoría. El 7 de noviembre, Reuters había informado de un balance anterior de 33 muertos y 39 heridos, citando a las mismas autoridades. Los combates entre los hutíes, respaldados por Irán, y fuerzas vinculadas a Arabia Saudita se han intensificado desde julio, poniendo fin a la relativa calma posterior a la tregua de 2022.",
+        "analysis": "El aumento de las víctimas notificadas refleja el costo humano de la escalada militar en zonas habitadas de Yemen, donde los civiles afrontan mayores riesgos y dificultades para recibir atención médica. La presencia de niños y mujeres entre los fallecidos, según la versión de las autoridades hutíes, exige una investigación independiente de las circunstancias y los objetivos atacados. Todas las partes deben respetar las normas del derecho internacional humanitario sobre protección de civiles. La violencia forma parte de una escalada regional que incluye ataques hutíes contra infraestructuras saudíes y respuestas militares. Las prioridades inmediatas son buscar a los desaparecidos, atender a los heridos y permitir el acceso de observadores independientes.",
+        "counterpoint": "Las cifras de 44 muertos y 40 heridos proceden de un ministerio de Salud administrado por los hutíes, parte directamente implicada en el conflicto. AP, Reuters y otros medios no han podido comprobar de forma independiente el balance ni determinar la responsabilidad. Los hutíes acusan a Arabia Saudita, pero esa acusación no constituye una conclusión independiente. La fotografía que acompaña esta noticia es una imagen de archivo de una calle de Saná tomada el 28 de abril de 2015 y no muestra el ataque contra al-Shariya.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (28 de abril de 2015): calle y edificios del casco antiguo de Saná, Yemen. Imagen ilustrativa de la región; NO muestra los bombardeos de al-Shariya del 7 de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "fux-suspende-processos-mp-bets-stf-2026-11-09",
       "date": "2026-11-09",
