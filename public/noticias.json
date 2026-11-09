@@ -2,9 +2,70 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "09/11/2026",
-  "updatedAt": "2026-11-09T04:49:05-03:00",
+  "updatedAt": "2026-11-09T05:13:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "cop31-comeca-antalya-turquia-negociacoes-climaticas-2026-11-09",
+      "date": "2026-11-09",
+      "category": "MUNDO",
+      "title": "COP31 começa na Turquia sob pressão por medidas concretas contra a crise climática",
+      "subtitle": "Conferência da ONU ocorre de 9 a 20 de novembro em Antalya; financiamento, adaptação e transição energética estão entre as prioridades.",
+      "facts": "A 31ª Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (COP31) começa nesta segunda-feira, 9 de novembro de 2026, em Antalya, na Turquia, e está programada para seguir até 20 de novembro. A ONU e a secretaria da convenção confirmam as datas e a sede. A presidência da conferência cabe à Turquia, sob o ministro Murat Kurum, enquanto a Austrália, representada pelo ministro Chris Bowen, lidera as negociações, em arranjo acordado entre os dois países. O encontro reúne delegações para discutir redução de emissões, adaptação aos efeitos do aquecimento global, financiamento climático e implementação de compromissos anteriores. Segundo a programação oficial da presidência turca, o primeiro dia é dedicado a alimentação, agricultura e saúde; a cúpula de chefes de Estado e de governo está marcada para 11 e 12 de novembro. A Associated Press informa que o encontro ocorre após um ano de eventos climáticos extremos e em meio a tensões energéticas internacionais. Até a manhã desta segunda-feira, a abertura cerimonial ainda estava prevista para as 11h locais, portanto a realização efetiva da cerimônia não é afirmada nesta reportagem.",
+      "analysis": "O desafio central da COP31 é transformar metas e declarações internacionais em políticas financiadas e mensuráveis. Países vulneráveis buscam recursos para adaptar cidades, infraestrutura e agricultura a ondas de calor, enchentes e secas, enquanto governos divergem sobre o ritmo de redução do uso de combustíveis fósseis. A presidência turca enfatiza implementação, eletrificação e redução de metano. O desenho de liderança compartilhada com a Austrália também exigirá coordenação política entre a condução formal da conferência e as negociações técnicas. Resultados concretos dependerão de compromissos verificáveis e da disposição dos países em financiá-los, não apenas de comunicados ao final do evento.",
+      "counterpoint": "As conferências climáticas têm histórico de decisões que avançam lentamente na execução, e a transição energética envolve custos e prioridades diferentes entre países industrializados, emergentes e exportadores de combustíveis fósseis. Há divergências legítimas sobre prazos, distribuição de responsabilidades e financiamento. A realização da COP31, por si só, não demonstra que novos acordos tenham sido alcançados. A imagem desta notícia é uma fotografia de arquivo de Antalya, de 2011, e não registra o evento de 2026.",
+      "sources": [
+        {
+          "name": "UNFCCC — UN Climate Change Conference, Antalya, November 2026",
+          "url": "https://unfccc.int/cop31"
+        },
+        {
+          "name": "Nações Unidas — COP31 to take place 9–20 November 2026 in Antalya",
+          "url": "https://www.un.org/en/climatechange/cop31"
+        },
+        {
+          "name": "COP31 Türkiye — Thematic days announced",
+          "url": "https://cop31.tr/news-detail/thematic-days-announced-2026"
+        },
+        {
+          "name": "Associated Press — Leaders gather in Turkey for UN climate summit (09/11/2026)",
+          "url": "https://apnews.com/article/edd587ab19f3b57848b50f9dc724ba82"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Antalya-Panorama.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Skarabeusz / Wikimedia Commons",
+          "license": "CC BY-SA 3.0 - https://creativecommons.org/licenses/by-sa/3.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Antalya-Panorama.jpg",
+          "caption": "FOTO DE ARQUIVO (26/08/2011): panorama da cidade de Antalya, Turquia. Imagem ilustrativa do município-sede da COP31; não retrata a conferência de 09/11/2026."
+        }
+      ],
+      "en": {
+        "title": "COP31 begins in Türkiye amid pressure for concrete climate action",
+        "subtitle": "The UN climate conference runs from November 9 to 20 in Antalya, with finance, adaptation and the energy transition high on the agenda.",
+        "facts": "The 31st Conference of the Parties to the United Nations Framework Convention on Climate Change (COP31) begins on Monday, November 9, 2026, in Antalya, Türkiye, and is scheduled to run until November 20. The United Nations and the convention secretariat confirm the dates and venue. Türkiye holds the conference presidency, led by Environment Minister Murat Kurum, while Australia's Climate Change Minister Chris Bowen chairs negotiations under a bilateral arrangement. Delegates are gathering to discuss emissions reductions, adaptation to global warming, climate finance and implementation of earlier commitments. According to the Turkish presidency's official programme, the first day's theme is food, agriculture and health; the summit of heads of state and government is scheduled for November 11 and 12. The Associated Press reports that the meeting follows a year of extreme weather amid international energy tensions. As of Monday morning, the ceremonial opening was still scheduled for 11 a.m. local time, so this report does not claim that the ceremony has already taken place.",
+        "analysis": "COP31's central test is whether international targets and declarations can become funded, measurable policies. Vulnerable countries are seeking support to adapt cities, infrastructure and agriculture to heatwaves, floods and droughts, while governments disagree over the pace of the shift away from fossil fuels. The Turkish presidency emphasizes implementation, electrification and methane reductions. The shared leadership arrangement with Australia will require coordination between the formal presidency and technical negotiations. Concrete outcomes will depend on verifiable commitments and the willingness to fund them, not just final statements.",
+        "counterpoint": "Climate summits have a record of slow implementation, and energy transitions carry different costs and priorities for industrialized, emerging and fossil-fuel-exporting economies. Disagreements over timelines, responsibility and funding are substantial. COP31's convening does not itself mean any new agreement has been reached. The accompanying photograph is an archival view of Antalya from 2011, not an image of the 2026 conference.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (August 26, 2011): panorama of Antalya, Türkiye, the host city of COP31. Illustrative city view; it does not depict the November 9, 2026 conference."
+        }
+      },
+      "es": {
+        "title": "La COP31 comienza en Turquía bajo presión para adoptar medidas climáticas concretas",
+        "subtitle": "La conferencia de la ONU se celebra del 9 al 20 de noviembre en Antalya; financiación, adaptación y transición energética centran la agenda.",
+        "facts": "La 31.ª Conferencia de las Partes de la Convención Marco de las Naciones Unidas sobre el Cambio Climático (COP31) comienza el lunes 9 de noviembre de 2026 en Antalya, Turquía, y está prevista hasta el 20 de noviembre. La ONU y la secretaría de la convención confirman las fechas y la sede. Turquía preside la conferencia, bajo la dirección del ministro Murat Kurum, mientras que el ministro australiano Chris Bowen dirige las negociaciones conforme a un acuerdo entre ambos países. Las delegaciones se reúnen para debatir la reducción de emisiones, la adaptación al calentamiento global, la financiación climática y el cumplimiento de compromisos anteriores. Según el programa oficial turco, la primera jornada está dedicada a alimentación, agricultura y salud; la cumbre de jefes de Estado y de Gobierno está prevista para el 11 y 12 de noviembre. Associated Press informa que la reunión llega tras un año de fenómenos meteorológicos extremos y en medio de tensiones energéticas internacionales. Hasta la mañana del lunes, la inauguración ceremonial seguía programada para las 11:00, hora local, por lo que esta nota no afirma que ya se haya celebrado.",
+        "analysis": "El principal desafío de la COP31 es convertir objetivos y declaraciones internacionales en políticas financiadas y medibles. Los países vulnerables buscan recursos para adaptar ciudades, infraestructuras y agricultura a olas de calor, inundaciones y sequías, mientras los gobiernos discrepan sobre el ritmo de reducción de los combustibles fósiles. La presidencia turca destaca la implementación, la electrificación y la reducción del metano. El liderazgo compartido con Australia también requerirá coordinación entre la presidencia formal y las negociaciones técnicas. Los resultados concretos dependerán de compromisos verificables y de la voluntad de financiarlos, no solo de comunicados finales.",
+        "counterpoint": "Las cumbres climáticas tienen antecedentes de aplicación lenta de sus decisiones, y la transición energética implica costes y prioridades distintos para economías industrializadas, emergentes y exportadoras de combustibles fósiles. Existen desacuerdos importantes sobre plazos, responsabilidades y financiación. La celebración de la COP31 no demuestra por sí sola que se hayan alcanzado nuevos acuerdos. La fotografía que acompaña esta noticia es una vista de archivo de Antalya de 2011, no una imagen de la conferencia de 2026.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (26 de agosto de 2011): panorámica de Antalya, Turquía, ciudad anfitriona de la COP31. Imagen ilustrativa; no muestra la conferencia del 9 de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "incendio-predio-taiyuan-china-14-mortos-2026-11-09",
       "date": "2026-11-09",
