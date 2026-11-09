@@ -1,6 +1,67 @@
 {
   "articles": [
     {
+      "id": "pm-atira-van-asa-sul-brasilia-mulher-morta-2026-11-09",
+      "date": "2026-11-09",
+      "category": "JUSTIÇA",
+      "title": "PM é preso após disparos em van que mataram mulher e feriram quatro em Brasília",
+      "subtitle": "Tiros foram registrados na Asa Sul na madrugada de domingo (8); entre as vítimas está outro policial. Motivação do ataque segue sob investigação.",
+      "facts": "Um policial militar do Distrito Federal foi preso após disparos contra ocupantes de uma van na SQS 302, na Asa Sul, em Brasília, por volta das 3h40 de domingo, 8 de novembro de 2026. Uma mulher de 26 anos, identificada pelo Correio Braziliense como Alessandra Andrade, morreu no local e outras quatro pessoas ficaram feridas. Segundo a Polícia Militar do Distrito Federal (PMDF), cerca de 16 pessoas retornavam de uma comemoração de aniversário em um veículo alugado. O autor apontado pela polícia, soldado Bruno Cardoso dos Passos, foi localizado e preso pela própria corporação. Entre os feridos está outro policial, Daniel Aquino, de 24 anos, que passou por cirurgia após ser baleado e continuava sob observação no Hospital de Base do Distrito Federal, conforme o Correio Braziliense. O velório de Alessandra foi marcado para esta segunda-feira, 9 de novembro, das 14h às 16h30, em Taguatinga. O caso foi encaminhado à Polícia Civil e a motivação ainda era investigada.",
+      "analysis": "A ocorrência levanta questões sobre a segurança de armas de fogo e o controle de conduta de agentes policiais fora do serviço. A prisão do suspeito, informada pela própria PMDF, é uma medida inicial; a apuração criminal deve estabelecer a sequência dos disparos, as circunstâncias e eventual responsabilidade. A tragédia também mostra a importância de distinguir informações preliminares de conclusões da investigação: a existência de um desentendimento foi relatada por veículos de imprensa, mas não comprova, por si só, qual foi a motivação. O acompanhamento do estado de saúde dos feridos e das decisões judiciais será essencial para novas atualizações.",
+      "counterpoint": "A PMDF afirmou que não compactua com a conduta descrita e anunciou providências nas esferas criminal, disciplinar e administrativa. Isso não substitui a investigação independente conduzida pela Polícia Civil nem implica conclusão antecipada sobre as circunstâncias exatas. O policial preso tem direito ao devido processo legal. A fotografia de arquivo desta reportagem, de viaturas da PMDF em cerimônia de 2019, é meramente ilustrativa: não mostra a van, a vítima, o suspeito ou o local do tiroteio.",
+      "sources": [
+        {
+          "name": "Agência Brasil — PM atira em van e mata uma mulher em Brasília (08/11/2026)",
+          "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/pm-atira-em-van-e-mata-uma-mulher-em-brasilia"
+        },
+        {
+          "name": "Correio Braziliense — PM que matou mulher atingiu outro policial na cabeça e a própria namorada (08/11/2026)",
+          "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7535085-pm-que-matou-mulher-atingiu-outro-policial-na-cabeca-e-a-propria-namorada.html"
+        },
+        {
+          "name": "Correio Braziliense — Corpo de jovem morta por PM será velado nesta segunda (08/11/2026)",
+          "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7535271-corpo-de-jovem-morta-por-pm-na-asa-sul-sera-velado-nesta-segunda.html"
+        },
+        {
+          "name": "Metrópoles — Policial militar é preso após atirar em amigos e matar mulher na Asa Sul (08/11/2026)",
+          "url": "https://www.metropoles.com/distrito-federal/na-mira/policial-militar-e-preso-apos-atirar-em-amigos-e-matar-mulher-na-asa-sul"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/PMDF_entrega_216_viaturas_e_22_%C3%B4nibus_novos_em_solenidade.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Vinícius de Melo / Agência Brasília",
+          "license": "CC BY 2.0 - https://creativecommons.org/licenses/by/2.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:PMDF_entrega_216_viaturas_e_22_%C3%B4nibus_novos_em_solenidade.jpg",
+          "caption": "FOTO DE ARQUIVO (17/10/2019): viaturas da Polícia Militar do Distrito Federal durante cerimônia de entrega em Brasília. Foto ilustrativa da corporação; NÃO retrata o tiroteio na Asa Sul de 08/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Brazilian military police officer arrested after van shooting leaves woman dead, four injured",
+        "subtitle": "The shooting took place in Brasília's Asa Sul district early on November 8. Another police officer was among those wounded; the motive remains under investigation.",
+        "facts": "A military police officer in Brazil's Federal District was arrested after shooting at people inside a van in the SQS 302 area of Asa Sul, Brasília, at about 3:40 a.m. on Sunday, November 8, 2026. A 26-year-old woman, identified by Correio Braziliense as Alessandra Andrade, died at the scene, and four other people were injured. According to the Polícia Militar do Distrito Federal (PMDF, Federal District Military Police), around 16 people were returning from a birthday celebration in a hired van. The officer identified by police, Bruno Cardoso dos Passos, was located and arrested by his own force. One of the injured, fellow officer Daniel Aquino, 24, underwent surgery after being shot and remained under observation at Brasília's Hospital de Base, Correio Braziliense reported. Alessandra's funeral viewing was scheduled for Monday, November 9, from 2 p.m. to 4:30 p.m. in Taguatinga. Civil police are investigating the case, and the motive remains unknown.",
+        "analysis": "The shooting raises questions about the handling of firearms and oversight of police conduct while off duty. The arrest reported by the PMDF is an initial step, not a substitute for determining the exact sequence of events and legal responsibility. News reports have described a possible argument, but such accounts do not, on their own, establish the motive. Future reporting should track the injured victims' recovery and the findings of investigators and courts.",
+        "counterpoint": "The PMDF said it does not condone the conduct and announced criminal, disciplinary and administrative measures. Those statements do not replace an independent civil-police investigation or amount to a final determination of what happened. The arrested officer is entitled to due process. The accompanying 2019 archive photograph shows PMDF patrol vehicles at a handover ceremony; it does not depict the van, suspect, victims or November 8 shooting.",
+        "category": "JUSTICE",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (October 17, 2019): Federal District Military Police vehicles at a handover ceremony in Brasília. Illustrative image; it does NOT show the shooting in Asa Sul on November 8, 2026."
+        }
+      },
+      "es": {
+        "title": "Detienen a un policía militar tras tiroteo contra una furgoneta en Brasilia: una mujer muerta y cuatro heridos",
+        "subtitle": "Los disparos ocurrieron en Asa Sul durante la madrugada del 8 de noviembre. Entre los heridos figura otro policía; se investiga el motivo.",
+        "facts": "Un agente de la Policía Militar del Distrito Federal de Brasil fue detenido después de disparar contra los ocupantes de una furgoneta en la SQS 302, en Asa Sul, Brasilia, hacia las 3:40 de la madrugada del domingo 8 de noviembre de 2026. Una mujer de 26 años, identificada por Correio Braziliense como Alessandra Andrade, murió en el lugar y otras cuatro personas resultaron heridas. Según la Polícia Militar do Distrito Federal (PMDF, Policía Militar del Distrito Federal), alrededor de 16 personas regresaban de una celebración de cumpleaños en un vehículo alquilado. El agente señalado por la policía, Bruno Cardoso dos Passos, fue localizado y detenido por la propia institución. Entre los heridos se encuentra otro agente, Daniel Aquino, de 24 años, quien fue operado tras recibir disparos y permanecía bajo observación en el Hospital de Base del Distrito Federal, según Correio Braziliense. El velatorio de Alessandra estaba previsto para el lunes 9 de noviembre, de 14:00 a 16:30, en Taguatinga. La Policía Civil investiga lo sucedido y aún no se ha determinado la motivación.",
+        "analysis": "El caso plantea preguntas sobre el manejo de armas de fuego y la supervisión de la conducta de agentes policiales fuera de servicio. La detención anunciada por la PMDF es un primer paso: la investigación deberá esclarecer la secuencia de los disparos y las posibles responsabilidades. Algunos medios mencionan una supuesta discusión, pero esa versión no demuestra por sí sola el motivo. El estado de los heridos y los avances judiciales deberán seguirse para informar de cualquier novedad.",
+        "counterpoint": "La PMDF afirmó que no tolera la conducta descrita y anunció medidas penales, disciplinarias y administrativas. Estas declaraciones no sustituyen la investigación de la Policía Civil ni equivalen a una conclusión definitiva. El agente detenido tiene derecho al debido proceso. La fotografía de archivo de 2019 muestra vehículos de la PMDF durante una ceremonia de entrega; no muestra la furgoneta, al sospechoso, a las víctimas ni el tiroteo del 8 de noviembre.",
+        "category": "JUSTICIA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (17 de octubre de 2019): vehículos de la Policía Militar del Distrito Federal durante una ceremonia en Brasilia. Imagen ilustrativa; NO muestra el tiroteo en Asa Sul del 8 de noviembre de 2026."
+        }
+      }
+    },
+    {
       "id": "g7-paris-rubio-ucrania-ira-brasil-2026-11-09",
       "date": "2026-11-09",
       "category": "MUNDO",
