@@ -2,9 +2,62 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "09/11/2026",
-  "updatedAt": "2026-11-09T11:16:06-03:00",
+  "updatedAt": "2026-11-09T12:07:34-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "norris-vence-gp-sao-paulo-mercedes-campea-construtores-2026-11-09",
+      "date": "2026-11-09",
+      "category": "ESPORTES",
+      "title": "Norris vence GP de São Paulo sob chuva e Mercedes conquista Mundial de Construtores",
+      "subtitle": "Britânico da McLaren triunfou em Interlagos no domingo (8); Verstappen foi segundo após largar em 21º, e Hadjar completou o pódio.",
+      "facts": "Lando Norris venceu o Grande Prêmio de São Paulo de Fórmula 1 disputado no domingo, 8 de novembro de 2026, no Autódromo José Carlos Pace, em Interlagos. O piloto da McLaren largou da pole position e completou a prova de 71 voltas sob condições climáticas variáveis, com chuva no início e no fim, cruzando a linha de chegada 14,6 segundos à frente de Max Verstappen. O holandês da Red Bull se recuperou da 21ª posição no grid para terminar em segundo, enquanto seu companheiro Isack Hadjar chegou em terceiro. George Russell terminou em quarto e Kimi Antonelli em quinto, pontuação suficiente para garantir à Mercedes o Campeonato Mundial de Construtores de 2026, o nono título da equipe. Oscar Piastri foi o sexto. Segundo o relato oficial da Fórmula 1, Norris conquistou sua terceira vitória da temporada. A prova exigiu mudanças de pneus e decisões estratégicas diante das alterações da pista.",
+      "analysis": "A vitória de Norris combinou velocidade em condições mistas e estratégia para reagir à chuva que voltou nas voltas finais. A recuperação de Verstappen, da 21ª posição ao segundo lugar, foi outro destaque esportivo do fim de semana. Para a Mercedes, o resultado coletivo de Russell e Antonelli garantiu matematicamente o título de construtores mesmo sem vitória na corrida. A disputa evidenciou como a gestão dos pneus e a leitura das mudanças de tempo podem alterar a classificação em Interlagos.",
+      "counterpoint": "A conquista do Mundial de Construtores pela Mercedes não significa que um piloto da equipe tenha vencido a corrida: o vencedor foi Norris, da McLaren. O título de pilotos de 2026 já havia sido assegurado por Kimi Antonelli no México, conforme a Reuters. A fotografia que acompanha a matéria é um registro de arquivo de Norris no GP da China em 21 de abril de 2024; não mostra a corrida de São Paulo de 8 de novembro de 2026.",
+      "sources": [
+        {
+          "name": "Formula 1 — Norris beats Verstappen in wet Sao Paulo GP thriller as Mercedes win Constructors' Championship (08/11/2026)",
+          "url": "https://www.formula1.com/en/latest/article/norris-beats-verstappen-in-wet-sao-paulo-gp-thriller-as-mercedes-win-constructors-championship.7JN7MXLZf5lk5l0C3gfKGI.7JN7MXLZf5lk5l0C3gfKGI"
+        },
+        {
+          "name": "Reuters — Norris wins in wet Brazil as Mercedes take constructors' title (08/11/2026)",
+          "url": "https://www.reuters.com/sports/formula1/norris-wins-brazil-mercedes-take-constructors-title-2026-11-08/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Lando_Norris%2CChinese_GP_2024_Race.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Liauzh / Wikimedia Commons",
+          "license": "CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Lando_Norris,Chinese_GP_2024_Race.jpg",
+          "caption": "FOTO DE ARQUIVO (21/04/2024): Lando Norris durante o GP da China de 2024. Não mostra a vitória em São Paulo em 08/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Norris wins rain-hit São Paulo Grand Prix as Mercedes seals constructors' title",
+        "subtitle": "McLaren's British driver won at Interlagos on Sunday, November 8; Verstappen climbed from 21st to second, with Hadjar third.",
+        "facts": "Lando Norris won the Formula 1 São Paulo Grand Prix on Sunday, November 8, 2026, at the José Carlos Pace circuit in Interlagos. The McLaren driver started on pole and completed the 71-lap race in changing conditions, with rain early and late in the event, finishing 14.6 seconds ahead of Max Verstappen. The Red Bull driver recovered from 21st on the grid to finish second, while teammate Isack Hadjar came third. Mercedes drivers George Russell and Kimi Antonelli finished fourth and fifth, earning enough points to secure the team's ninth Formula 1 Constructors' Championship. Oscar Piastri placed sixth. According to Formula 1's official race report, this was Norris's third win of the season. The race featured tyre changes and strategy calls as track conditions shifted.",
+        "analysis": "Norris combined pace and timely strategy as rain returned near the finish. Verstappen's recovery from 21st to second was another highlight. Mercedes secured the constructors' championship through the combined points scored by Russell and Antonelli despite not winning the race. The changing conditions underlined how tyre management and weather decisions can reshape the order at Interlagos.",
+        "counterpoint": "Mercedes winning the constructors' championship does not mean one of its drivers won the race: Norris drove for McLaren. Reuters reported that Antonelli had already clinched the 2026 drivers' title in Mexico. The accompanying photograph is an archival image of Norris at the Chinese Grand Prix on April 21, 2024, not the São Paulo race on November 8, 2026.",
+        "category": "SPORTS",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (April 21, 2024): Lando Norris at the 2024 Chinese Grand Prix. It does not show his São Paulo victory on November 8, 2026."
+        }
+      },
+      "es": {
+        "title": "Norris gana el Gran Premio de São Paulo bajo la lluvia y Mercedes conquista el título de constructores",
+        "subtitle": "El británico de McLaren ganó en Interlagos el domingo 8 de noviembre; Verstappen remontó del puesto 21 al segundo y Hadjar fue tercero.",
+        "facts": "Lando Norris ganó el Gran Premio de São Paulo de Fórmula 1 el domingo 8 de noviembre de 2026 en el circuito José Carlos Pace, en Interlagos. El piloto de McLaren salió desde la pole y completó las 71 vueltas en condiciones cambiantes, con lluvia al principio y al final, cruzando la meta 14,6 segundos por delante de Max Verstappen. El neerlandés de Red Bull remontó desde la posición 21 de la parrilla para acabar segundo, mientras que su compañero Isack Hadjar fue tercero. George Russell y Kimi Antonelli terminaron cuarto y quinto, sumando los puntos necesarios para asegurar a Mercedes su noveno Campeonato Mundial de Constructores. Oscar Piastri acabó sexto. Según el informe oficial de Fórmula 1, Norris logró su tercera victoria de la temporada. La carrera estuvo marcada por cambios de neumáticos y decisiones estratégicas ante la evolución de la pista.",
+        "analysis": "Norris combinó ritmo y estrategia cuando volvió la lluvia en las últimas vueltas. La remontada de Verstappen del puesto 21 al segundo fue otro de los momentos destacados. Mercedes aseguró el campeonato de constructores gracias a los puntos de Russell y Antonelli, pese a no ganar la carrera. Las condiciones variables mostraron la importancia de gestionar los neumáticos y anticipar el tiempo en Interlagos.",
+        "counterpoint": "El título de constructores de Mercedes no significa que uno de sus pilotos haya ganado la carrera: el vencedor fue Norris, de McLaren. Reuters informó que Antonelli ya había conseguido el título de pilotos de 2026 en México. La fotografía es de archivo: muestra a Norris en el Gran Premio de China el 21 de abril de 2024 y no la carrera de São Paulo del 8 de noviembre de 2026.",
+        "category": "DEPORTES",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (21 de abril de 2024): Lando Norris en el Gran Premio de China de 2024. No muestra su victoria en São Paulo el 8 de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "ataque-russo-deposito-alimentos-odesa-tres-mortos-2026-11-09",
       "date": "2026-11-09",
