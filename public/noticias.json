@@ -2,9 +2,66 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "09/11/2026",
-  "updatedAt": "2026-11-09T05:13:00-03:00",
+  "updatedAt": "2026-11-09T06:06:41-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "defesa-civil-riade-encerra-alerta-apos-ataques-houthis-2026-11-09",
+      "date": "2026-11-09",
+      "category": "MUNDO",
+      "title": "Defesa Civil da Arábia Saudita encerra alerta em Riad após novos ataques houthis",
+      "subtitle": "Autoridades declararam que o perigo havia passado na capital nesta segunda-feira; no domingo, destroços de um ataque interceptado atingiram prédio da Aramco, sem vítimas.",
+      "facts": "A Defesa Civil da Arábia Saudita informou nesta segunda-feira, 9 de novembro de 2026, que o perigo havia passado na cidade de Riad, pouco depois de emitir um alerta de possível ameaça. A informação foi noticiada pela Reuters e pelo jornal saudita Arab News. O órgão pediu à população que continuasse seguindo as orientações de segurança e evitasse aglomerações e gravações em locais sob risco. A advertência ocorre um dia após a interceptação de mísseis e drones lançados pelos houthis do Iêmen contra áreas da Arábia Saudita. No domingo, 8 de novembro, fragmentos de um ataque interceptado danificaram janelas de andares de um edifício da companhia petrolífera Aramco, no distrito financeiro de Riad. Segundo o Ministério da Energia saudita, os danos foram limitados e não houve mortos nem feridos nesse episódio. As autoridades sauditas informaram que sistemas de defesa aérea interceptaram projéteis em direção à capital e a outras regiões. Os houthis reivindicaram ataques, mas as versões sobre alvos e resultados devem ser atribuídas às respectivas partes.",
+      "analysis": "A emissão de alertas e a rápida comunicação de que o perigo passou mostram a importância de instruções oficiais em situações de ameaça aérea. Mesmo quando os projéteis são interceptados, os fragmentos podem atingir edifícios e colocar civis em risco, como ocorreu no incidente da Aramco. A continuidade dos lançamentos amplia a instabilidade regional e pode pressionar a segurança de infraestruturas econômicas e energéticas. Não há, porém, fundamento para afirmar que o alerta encerrado nesta segunda-feira signifique o fim da escalada ou que novos ataques sejam inevitáveis.",
+      "counterpoint": "O encerramento do alerta é uma informação pontual sobre a situação de segurança comunicada pela Defesa Civil, não uma declaração de cessar-fogo. Os relatos sobre autoria e alvos dos ataques são atribuídos às autoridades sauditas e aos houthis; a apuração independente dos detalhes militares é limitada. A fotografia que acompanha a reportagem é uma imagem de arquivo da cidade de Riad feita em abril de 2022, sem relação visual direta com o ataque.",
+      "sources": [
+        {
+          "name": "Reuters, 9 November 2026 — Saudi Arabia says danger passed in Riyadh after alert",
+          "url": "https://www.reuters.com/world/middle-east/saudi-arabia-says-danger-passed-riyadh-after-alert-day-after-houthi-attack-2026-11-09/"
+        },
+        {
+          "name": "Arab News, 9 November 2026 — Saudi Civil Defense lifts danger warning in Riyadh",
+          "url": "https://www.arabnews.com/saudi-arabia/saudi-civil-defense-lifts-danger-warning-in-riyadh-3010670"
+        },
+        {
+          "name": "Saudi Gazette, 8 November 2026 — Saudi air defenses intercept missiles targeting Riyadh",
+          "url": "https://saudigazette.com.sa/article/666074/saudi-arabia/saudi-air-defenses-intercept-3-ballistic-missiles-2-cruise-missiles-targeting-riyadh-other-regions"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Riyadh_skyline.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Thesadcactus / Wikimedia Commons",
+          "license": "CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Riyadh_skyline.jpg",
+          "caption": "FOTO DE ARQUIVO (20/04/2022): vista de Riad, Arábia Saudita, a partir do Bairro Diplomático. A imagem é ilustrativa e não mostra os ataques nem o alerta de 09/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Saudi Civil Defense lifts Riyadh danger alert after renewed Houthi attacks",
+        "subtitle": "Authorities gave the all-clear in the capital on Monday; debris from an intercepted attack damaged an Aramco building on Sunday, with no casualties reported.",
+        "facts": "Saudi Arabia's Civil Defense said on Monday, November 9, 2026, that danger had passed in Riyadh shortly after issuing an alert about a possible threat. Reuters and the Saudi newspaper Arab News reported the announcement. The agency urged residents to continue following safety instructions and avoid gathering or filming in areas at risk. The warning came a day after missiles and drones launched by Yemen's Houthis were intercepted over parts of Saudi Arabia. On Sunday, November 8, debris from an intercepted attack damaged windows on several floors of an Aramco office building in Riyadh's financial district. Saudi Arabia's Energy Ministry said damage was limited and no deaths or injuries occurred in that incident. Saudi officials reported air-defense interceptions over the capital and other regions. The Houthis claimed attacks, although statements about targets and outcomes should be attributed to the parties making them.",
+        "analysis": "The warning and subsequent all-clear underline the importance of timely official guidance during aerial threats. Intercepted projectiles can still produce dangerous debris, as the damage to the Aramco building illustrates. Repeated launches increase regional instability and raise concerns about the safety of economic and energy infrastructure. However, the lifting of Monday's alert does not establish that the wider escalation has ended or that another attack is certain.",
+        "counterpoint": "The all-clear was a specific Civil Defense safety update, not a ceasefire announcement. Accounts of responsibility and targeting are attributed to Saudi authorities and the Houthis, while independent verification of military details remains limited. The accompanying photograph is an archival view of Riyadh taken in April 2022 and does not depict the attack.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (April 20, 2022): Riyadh skyline viewed from the Diplomatic Quarter, Saudi Arabia. Illustrative image; it does not show the attacks or the November 9, 2026 alert."
+        }
+      },
+      "es": {
+        "title": "Defensa Civil saudí levanta la alerta de peligro en Riad tras nuevos ataques hutíes",
+        "subtitle": "Las autoridades declararon superado el peligro en la capital este lunes; fragmentos de un ataque interceptado dañaron el domingo un edificio de Aramco, sin víctimas.",
+        "facts": "La Defensa Civil de Arabia Saudita anunció el lunes 9 de noviembre de 2026 que había pasado el peligro en Riad, poco después de emitir una alerta por una posible amenaza. Reuters y el diario saudí Arab News informaron de la decisión. El organismo pidió a los residentes que continuaran siguiendo las instrucciones de seguridad y evitaran las aglomeraciones y las grabaciones en zonas de riesgo. La advertencia se produjo un día después de la interceptación de misiles y drones lanzados por los hutíes de Yemen hacia distintas zonas saudíes. El domingo 8 de noviembre, fragmentos de un ataque interceptado dañaron ventanas de varios pisos de un edificio de Aramco en el distrito financiero de Riad. El Ministerio de Energía saudí informó de daños limitados y aseguró que no hubo muertos ni heridos en ese incidente. Las autoridades comunicaron interceptaciones de proyectiles dirigidos a la capital y otras regiones. Los hutíes reivindicaron ataques, aunque las versiones sobre objetivos y resultados deben atribuirse a cada parte.",
+        "analysis": "La alerta y el posterior aviso de fin del peligro subrayan la importancia de las instrucciones oficiales oportunas ante amenazas aéreas. Incluso los proyectiles interceptados pueden producir fragmentos peligrosos, como muestra el daño al edificio de Aramco. La repetición de lanzamientos aumenta la inestabilidad regional y la preocupación por la seguridad de infraestructuras económicas y energéticas. Sin embargo, el levantamiento de la alerta del lunes no significa que haya terminado la escalada ni que sean inevitables nuevos ataques.",
+        "counterpoint": "El fin de la alerta fue una actualización puntual de seguridad de la Defensa Civil, no un anuncio de alto el fuego. Los relatos sobre la autoría y los objetivos se atribuyen a las autoridades saudíes y a los hutíes; la verificación independiente de los detalles militares sigue siendo limitada. La fotografía que acompaña la noticia es una vista de archivo de Riad tomada en abril de 2022 y no muestra el ataque.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (20 de abril de 2022): vista de Riad desde el Barrio Diplomático, Arabia Saudita. Imagen ilustrativa; no muestra los ataques ni la alerta del 9 de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "cop31-comeca-antalya-turquia-negociacoes-climaticas-2026-11-09",
       "date": "2026-11-09",
