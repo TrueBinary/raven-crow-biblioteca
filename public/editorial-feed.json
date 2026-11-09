@@ -1,6 +1,67 @@
 {
   "articles": [
     {
+      "id": "pf-investiga-ameacas-deputada-eleita-ana-elisa-2026-11-08",
+      "date": "2026-11-08",
+      "category": "JUSTIÇA",
+      "title": "PF investiga ameaças de morte e violência sexual contra deputada eleita Ana Elisa",
+      "subtitle": "Investigação em Divinópolis tem apoio da área de crimes cibernéticos; Ministério da Justiça confirma medidas de proteção à parlamentar.",
+      "facts": "A Polícia Federal informou neste domingo, 8 de novembro de 2026, que investiga ameaças dirigidas à deputada federal eleita Ana Elisa Santos Silva (PT-MG). A apuração é conduzida pela Delegacia da PF em Divinópolis, Minas Gerais, com apoio técnico da Diretoria de Combate a Crimes Cibernéticos. A corporação confirmou diligências especializadas e pedidos de cooperação policial internacional para identificar os responsáveis, sem divulgar detalhes por sigilo. A parlamentar relatou em vídeo publicado nas redes sociais o recebimento de mensagens com ameaças de morte e violência sexual, além de ataques racistas e misóginos. O Ministério da Justiça e Segurança Pública informou que medidas de proteção continuada e de proximidade já estão sendo executadas, sob coordenação de órgãos federais e estaduais. Não há, até o momento dessas notas oficiais, identificação pública dos responsáveis pelas ameaças.",
+      "analysis": "O caso destaca os desafios de investigar crimes praticados por meios eletrônicos, especialmente quando mensagens e contas podem exigir cooperação de plataformas ou autoridades estrangeiras. A confirmação da PF é sobre a existência da investigação e das diligências, não sobre a autoria das mensagens. A proteção anunciada pelo Ministério da Justiça responde ao risco relatado, enquanto a responsabilização criminal dependerá da identificação dos autores e da análise das provas. A publicidade do caso não substitui a apuração técnica.",
+      "counterpoint": "A parlamentar tem direito à proteção contra ameaças, independentemente de partido ou posição política. Ao mesmo tempo, a gravidade das denúncias não autoriza atribuir autoria a adversários, grupos ou pessoas sem provas. A investigação está sob sigilo, e os suspeitos, caso identificados, têm direito ao devido processo legal. Críticas políticas legítimas devem ser distinguidas de ameaças de violência e discriminação.",
+      "sources": [
+        {
+          "name": "Polícia Federal — nota oficial de 08/11/2026, 16h56",
+          "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/11/pf-investiga-ameacas-contra-deputada-federal-eleita-em-minas-gerais/"
+        },
+        {
+          "name": "Ministério da Justiça e Segurança Pública — nota oficial de 08/11/2026",
+          "url": "https://www.gov.br/mj/pt-br/assuntos/noticias/nota-a-imprensa-84"
+        },
+        {
+          "name": "Agência Brasil — 08/11/2026, 19h21",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/pf-investiga-ameacas-recebidas-pela-deputada-eleita-ana-elisa"
+        },
+        {
+          "name": "SBT News — 08/11/2026",
+          "url": "https://sbtnews.sbt.com.br/noticia/politica/pf-investiga-ameacas-contra-a-deputada-ana-elisa"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Ana_Elisa_TSE_2026.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Tribunal Superior Eleitoral (TSE) / Wikimedia Commons",
+          "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Ana_Elisa_TSE_2026.jpg",
+          "caption": "FOTO DE ARQUIVO (2026): retrato eleitoral de Ana Elisa Santos Silva, divulgado pelo TSE. Não retrata as ameaças nem a investigação da Polícia Federal."
+        }
+      ],
+      "en": {
+        "title": "Brazilian Federal Police investigate threats against newly elected lawmaker Ana Elisa",
+        "subtitle": "The investigation in Divinópolis is supported by cybercrime specialists; the Justice Ministry says protective measures are in place.",
+        "facts": "On Sunday, November 8, 2026, Brazil's Federal Police (PF) confirmed an investigation into threats against newly elected federal deputy Ana Elisa Santos Silva (PT-MG). The PF office in Divinópolis, Minas Gerais, is leading the case with support from the agency's cybercrime directorate. Investigators have begun specialized inquiries and requested international police cooperation to help identify those responsible, but details remain confidential. In a social-media video, the lawmaker-elect reported messages threatening her life and sexual violence, alongside racist and misogynistic abuse. Brazil's Ministry of Justice and Public Security said continuing close-protection measures are already being carried out through federal and state coordination. The official statements did not publicly identify the authors of the threats.",
+        "analysis": "The case illustrates the difficulties of investigating online threats, particularly when identifying accounts and messages may require cooperation from platforms or authorities abroad. The PF has confirmed the investigation and investigative steps, not the identity of the perpetrators. Protective measures address the reported risks, while criminal accountability will depend on evidence and identifying those responsible.",
+        "counterpoint": "Threats of violence warrant investigation and protection regardless of a lawmaker's party. But the seriousness of the allegations does not justify attributing responsibility to political opponents or particular groups without evidence. The inquiry is confidential, and any suspects retain due-process rights. Legitimate political criticism must be distinguished from threats and discriminatory abuse.",
+        "category": "JUSTICE",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (2026): Ana Elisa Santos Silva's official election portrait released by TSE (Brazil's Superior Electoral Court). It does not depict the threats or the police investigation."
+        }
+      },
+      "es": {
+        "title": "La Policía Federal de Brasil investiga amenazas contra la diputada electa Ana Elisa",
+        "subtitle": "La investigación en Divinópolis cuenta con especialistas en delitos informáticos; el Ministerio de Justicia confirma medidas de protección.",
+        "facts": "El domingo 8 de noviembre de 2026, la Policía Federal (PF) de Brasil confirmó que investiga amenazas contra la diputada federal electa Ana Elisa Santos Silva (PT-MG). La delegación de la PF en Divinópolis, Minas Gerais, dirige las pesquisas con apoyo de su unidad especializada en delitos informáticos. Los investigadores han iniciado diligencias especializadas y solicitado cooperación policial internacional para identificar a los responsables, aunque los detalles permanecen bajo reserva. En un video publicado en redes sociales, la diputada electa relató haber recibido mensajes con amenazas de muerte y violencia sexual, además de ataques racistas y misóginos. El Ministerio de Justicia y Seguridad Pública informó que ya se aplican medidas continuadas de protección cercana mediante coordinación federal y estatal. Las notas oficiales no identificaron públicamente a los autores de las amenazas.",
+        "analysis": "El caso pone de relieve las dificultades de investigar amenazas por internet, especialmente cuando la identificación de cuentas y mensajes requiere cooperación de plataformas o autoridades extranjeras. La PF confirmó la investigación y sus diligencias, no la identidad de los responsables. Las medidas de protección responden al riesgo denunciado, mientras que la responsabilidad penal dependerá de las pruebas y de la identificación de los autores.",
+        "counterpoint": "Las amenazas de violencia merecen investigación y protección con independencia del partido de la parlamentaria. Sin embargo, la gravedad de las denuncias no permite atribuir responsabilidades a adversarios políticos o grupos sin pruebas. La investigación está bajo reserva y cualquier sospechoso conserva el derecho al debido proceso. La crítica política legítima debe distinguirse de las amenazas y los ataques discriminatorios.",
+        "category": "JUSTICIA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (2026): retrato electoral oficial de Ana Elisa Santos Silva difundido por el TSE (Tribunal Superior Electoral de Brasil). No muestra las amenazas ni la investigación policial."
+        }
+      }
+    },
+    {
       "id": "lula-pronunciamento-divida-juros-responsabilidade-fiscal-2026-11-08",
       "date": "2026-11-08",
       "category": "POLÍTICA",
