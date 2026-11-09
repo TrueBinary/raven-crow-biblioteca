@@ -1,6 +1,63 @@
 {
   "articles": [
     {
+      "id": "g7-paris-rubio-ucrania-ira-brasil-2026-11-09",
+      "date": "2026-11-09",
+      "category": "MUNDO",
+      "title": "G7 se reúne em Paris para discutir Ucrânia, Irã e segurança; Brasil participa como convidado",
+      "subtitle": "Chanceleres iniciam dois dias de negociações em meio a tensões com Washington; Marco Rubio representa os Estados Unidos e Mauro Vieira participa pelo Brasil.",
+      "facts": "Os ministros das Relações Exteriores do G7 iniciaram nesta segunda-feira, 9 de novembro de 2026, uma reunião de dois dias em Paris, na França. A agenda inclui a guerra entre Rússia e Ucrânia, o conflito envolvendo o Irã, a segurança energética, ameaças cibernéticas e inteligência artificial. Os Estados Unidos são representados pelo secretário de Estado Marco Rubio. O Brasil participa como país convidado, representado pelo chanceler Mauro Vieira, conforme informações publicadas pela Folha de S.Paulo. A Associated Press relatou que Rubio afirmou não enxergar um avanço diplomático próximo nas negociações com o Irã, enquanto os aliados europeus buscam esclarecimentos sobre a posição americana em relação à Ucrânia e à segurança do continente. Segundo a Reuters, a reunião também ocorre depois das eleições legislativas americanas, que reduziram a força política dos republicanos no Congresso. A França indicou que o encontro não deverá terminar com um comunicado conjunto. As conversas seguem até terça-feira, 10 de novembro, e ainda não há acordo anunciado sobre os principais temas.",
+      "analysis": "O encontro evidencia como os aliados do G7 tentam conciliar interesses distintos em meio a crises simultâneas. Para os europeus, o apoio militar e energético à Ucrânia é especialmente urgente diante do risco de novos ataques à infraestrutura durante o inverno. Para Washington, a disputa sobre as condições de negociação com o Irã e a circulação de petróleo no Oriente Médio também ocupa posição central. A presença do Brasil, embora não seja membro do G7, abre espaço para participação diplomática em discussões de alcance global. Contudo, estar na reunião não significa que o país tenha poder de voto ou que esteja comprometido com todas as posições defendidas pelo grupo.",
+      "counterpoint": "A reunião ainda estava em andamento no momento da apuração, portanto não se deve apresentar propostas debatidas como decisões aprovadas. A ausência prevista de um comunicado conjunto não significa necessariamente fracasso das conversas, e diferenças diplomáticas podem persistir mesmo após acordos pontuais. Não há confirmação de encontro bilateral entre Mauro Vieira e Marco Rubio. A fotografia utilizada é um retrato oficial de arquivo do secretário americano, datado de janeiro de 2025, e não uma imagem da reunião em Paris.",
+      "sources": [
+        {
+          "name": "Associated Press — Rubio will discuss Iran, Ukraine, AI and more with G7 allies in France (09/11/2026)",
+          "url": "https://apnews.com/article/6cbc723412d6e7a1766537fa4bad8c86"
+        },
+        {
+          "name": "Reuters — G7 allies to assess impact of Trump's midterm setback at Paris talks (09/11/2026)",
+          "url": "https://www.reuters.com/world/americas/g7-allies-assess-impact-trumps-midterm-setback-paris-talks-2026-11-09/"
+        },
+        {
+          "name": "Folha de S.Paulo — G7 se reúne em Paris com atenção voltada ao tom da delegação dos EUA (07/11/2026)",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/11/g7-se-reune-em-paris-com-atencao-voltada-ao-tom-da-delegacao-dos-eua.shtml"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Official_portrait_of_Secretary_Marco_Rubio%2C_January_2025_%28cropped%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "U.S. Department of State / Wikimedia Commons",
+          "license": "Domínio público — obra oficial do governo federal dos EUA (17 U.S.C. § 105)",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Secretary_Marco_Rubio,_January_2025_(cropped).jpg",
+          "caption": "FOTO DE ARQUIVO (23/01/2025): retrato oficial de Marco Rubio, secretário de Estado dos Estados Unidos. Não mostra a reunião do G7 em Paris em 09/11/2026."
+        }
+      ],
+      "en": {
+        "title": "G7 foreign ministers meet in Paris on Ukraine, Iran and security, with Brazil attending as guest",
+        "subtitle": "The two-day talks bring together Western diplomats amid tensions with Washington; Marco Rubio represents the US and Mauro Vieira attends for Brazil.",
+        "facts": "G7 foreign ministers opened two days of talks in Paris, France, on Monday, November 9, 2026. Their agenda includes the Russia-Ukraine war, the conflict involving Iran, energy security, cyber threats and artificial intelligence. US Secretary of State Marco Rubio represents Washington. Brazil is attending as a guest country, represented by Foreign Minister Mauro Vieira, according to Folha de S.Paulo. The Associated Press reported that Rubio sees no imminent diplomatic breakthrough with Iran, while European allies are seeking clarity about US policy on Ukraine and European security. Reuters said the meeting follows US congressional elections that weakened Republicans' position in Congress. France has indicated that the gathering is not expected to produce a joint communiqué. Talks continue through Tuesday, November 10, and no agreement on the principal issues had been announced at the time of reporting.",
+        "analysis": "The meeting illustrates the difficulty of reconciling different national priorities during overlapping crises. European governments are focused on sustaining military and energy assistance for Ukraine as winter approaches and attacks on infrastructure remain a concern. Washington is also focused on Iran's negotiating conditions and energy flows through the Middle East. Brazil's participation offers a diplomatic opportunity, but guest status does not confer G7 membership or imply endorsement of every position discussed.",
+        "counterpoint": "The meeting was still under way when this report was prepared, so proposals under discussion must not be presented as adopted decisions. The anticipated lack of a joint communiqué does not necessarily mean the talks have failed. A bilateral meeting between Mauro Vieira and Marco Rubio has not been confirmed. The photograph is an official archival portrait of Rubio from January 2025, not a picture of the Paris meeting.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (January 23, 2025): official portrait of US Secretary of State Marco Rubio. It does not depict the G7 meeting in Paris on November 9, 2026."
+        }
+      },
+      "es": {
+        "title": "El G7 se reúne en París para abordar Ucrania, Irán y seguridad; Brasil participa como invitado",
+        "subtitle": "Los cancilleres celebran dos días de conversaciones en medio de tensiones con Washington; Marco Rubio representa a Estados Unidos y Mauro Vieira a Brasil.",
+        "facts": "Los ministros de Relaciones Exteriores del G7 iniciaron este lunes 9 de noviembre de 2026 una reunión de dos días en París, Francia. La agenda incluye la guerra entre Rusia y Ucrania, el conflicto con Irán, la seguridad energética, las amenazas cibernéticas y la inteligencia artificial. El secretario de Estado Marco Rubio representa a Estados Unidos. Brasil participa como país invitado, representado por el canciller Mauro Vieira, según Folha de S.Paulo. Associated Press informó que Rubio no ve próximo un avance diplomático con Irán, mientras los aliados europeos buscan aclaraciones sobre la política estadounidense hacia Ucrania y la seguridad europea. Reuters señaló que la cita ocurre tras unas elecciones legislativas estadounidenses que debilitaron a los republicanos en el Congreso. Francia indicó que no se prevé un comunicado conjunto al término del encuentro. Las conversaciones continúan hasta el martes 10 de noviembre y, al cierre de esta nota, no se había anunciado ningún acuerdo sobre los asuntos principales.",
+        "analysis": "La reunión muestra las dificultades para conciliar las prioridades nacionales ante varias crisis simultáneas. Los gobiernos europeos se concentran en mantener la ayuda militar y energética a Ucrania ante el invierno y el riesgo de nuevos ataques contra su infraestructura. Washington también prioriza las condiciones de negociación con Irán y los flujos de energía en Oriente Medio. La presencia de Brasil abre un espacio diplomático, pero su condición de invitado no supone pertenecer al G7 ni respaldar todas las posiciones discutidas.",
+        "counterpoint": "La reunión seguía en curso durante la elaboración de esta nota, por lo que las propuestas debatidas no deben presentarse como decisiones aprobadas. La posible ausencia de un comunicado conjunto no implica necesariamente que las conversaciones hayan fracasado. No se ha confirmado una reunión bilateral entre Mauro Vieira y Marco Rubio. La imagen es un retrato oficial de archivo de Rubio de enero de 2025, no una fotografía de la reunión en París.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (23 de enero de 2025): retrato oficial del secretario de Estado estadounidense Marco Rubio. No muestra la reunión del G7 en París del 9 de noviembre de 2026."
+        }
+      }
+    },
+    {
       "id": "trump-admite-salvaguardas-ia-sem-atrasar-eua-china-2026-11-09",
       "date": "2026-11-09",
       "category": "TECNOLOGIA",
