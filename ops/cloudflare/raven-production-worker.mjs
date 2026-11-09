@@ -28,6 +28,36 @@ const SECTION_REDIRECTS=Object.freeze({
  '/en/coluna':['/en/',302],'/en/coluna/':['/en/',302],
  '/es/coluna':['/es/',302],'/es/coluna/':['/es/',302],
 });
+// Show a branded error only for navigable pages, never for broken JS/CSS/media.
+async function notFound(req,env,path){
+ const isPage=!/\.[A-Za-z0-9]{1,8}$/.test(path)||path.endsWith('.html');
+ if(isPage){
+  try{
+   const page=await env.RAVEN_MEDIA.get('404.html');
+   if(page){
+    return new Response(req.method==='HEAD'?null:page.body,{status:404,headers:{
+     'Content-Type':'text/html; charset=utf-8',
+     'Cache-Control':'public, max-age=60',
+     'Content-Length':String(page.size),
+     'X-Robots-Tag':'noindex',
+     'X-Raven-Migration-Stage':'r2'
+    }});
+   }
+   // Temporary source until the regular 15-minute release copies 404.html to R2.
+   if(env.GITHUB_FALLBACK==='1'){
+    const upstream=await fallback(req,'404.html');
+    if(upstream.status===200){
+     const headers=new Headers(upstream.headers);
+     headers.set('Content-Type','text/html; charset=utf-8');
+     headers.set('Cache-Control','public, max-age=60');
+     headers.set('X-Robots-Tag','noindex');
+     return new Response(req.method==='HEAD'?null:upstream.body,{status:404,headers});
+    }
+   }
+  }catch{/* Preserve the existing 404 if the error page itself is unavailable. */}
+ }
+ return new Response(req.method==='HEAD'?null:'Not Found',{status:404,headers:{'Cache-Control':'public, max-age=60'}});
+}
 async function handle(req,env){
  const path=new URL(req.url).pathname;
  if(path==='/__raven_migration_health')return json({status:'production',R2:true,domainCutover:true,githubFallback:env.GITHUB_FALLBACK==='1'});
@@ -35,7 +65,14 @@ async function handle(req,env){
  if(req.method!=='GET'&&req.method!=='HEAD')return new Response('Method Not Allowed',{status:405,headers:{Allow:'GET, HEAD'}});
  const section=SECTION_REDIRECTS[path];if(section)return new Response(null,{status:section[1],headers:{Location:section[0],'Cache-Control':'public, max-age=300'}});
  const key=resolveKey(path);if(!key)return new Response('Invalid path',{status:400});
- const head=await env.RAVEN_MEDIA.head(key);if(!head)return env.GITHUB_FALLBACK==='1'?fallback(req,key):new Response('Not Found',{status:404,headers:{'Cache-Control':'public, max-age=60'}});
+ const head=await env.RAVEN_MEDIA.head(key);
+ if(!head){
+  if(env.GITHUB_FALLBACK==='1'){
+   const upstream=await fallback(req,key);
+   return upstream.status===404?notFound(req,env,path):upstream;
+  }
+  return notFound(req,env,path);
+ }
  const inm=req.headers.get('If-None-Match');if(inm&&(inm.trim()==='*'||inm.split(',').some(t=>t.trim().replace(/^W\//,'')===head.httpEtag.replace(/^W\//,''))))return new Response(null,{status:304,headers:{ETag:head.httpEtag,'Cache-Control':cache(key)}});
  if(req.method==='HEAD')return respond(key,head,'HEAD',null);
  const range=parseByteRange(req.headers.get('Range'),head.size);
