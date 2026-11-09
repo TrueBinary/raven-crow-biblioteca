@@ -5,52 +5,73 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#090b0f">
 <meta name="robots" content="noindex,follow">
-<title>404 — O corvo cortou a árvore errada | Raven Crow</title>
+<title>404 | O corvo cortou a árvore errada | Raven Crow</title>
 <meta name="description" content="Parece que o corvo cortou a árvore errada. Volte ao Raven Crow e encontre sua próxima leitura.">
 <link rel="icon" href="/favicon.ico" sizes="48x48">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700;800;900&family=DM+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
-:root{color-scheme:dark;--bg:#090b0f;--white:#f5f4ef;--muted:#a6a8b1;--line:#292c35;--red:#ef3641}
+:root{color-scheme:dark;--bg:#090b0f;--ink:#f5f4ef;--muted:#b8bac3;--line:#30323b;--red:#ef3641;--red-button:#b8202d}
 *{box-sizing:border-box}
-body{margin:0;min-height:100vh;background:radial-gradient(circle at 73% 39%,#2c1219 0,#101015 35%,#090b0f 72%);color:var(--white);font-family:"DM Sans",system-ui,sans-serif}
-body:before{content:"";position:fixed;inset:0;pointer-events:none;opacity:.12;background-image:linear-gradient(90deg,transparent 49%,#fff 50%,transparent 51%);background-size:7px 7px}
+html{scroll-behavior:smooth}
+body{margin:0;min-height:100dvh;background:linear-gradient(145deg,#111118 0%,#090b0f 54%,#160c12 100%);color:var(--ink);font-family:"DM Sans",system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+body:before{content:"";position:fixed;inset:0;pointer-events:none;opacity:.06;background-image:linear-gradient(90deg,transparent 49%,#fff 50%,transparent 51%);background-size:11px 11px}
 a{color:inherit;text-decoration:none}
 .shell{width:min(1180px,calc(100% - 42px));margin:auto}
-header{position:relative;z-index:2;padding:24px 0;border-bottom:1px solid #ffffff20}
+header{position:relative;z-index:2;padding:22px 0;border-bottom:1px solid #ffffff20}
 .header-row{display:flex;justify-content:space-between;align-items:center;gap:20px}
 .brand{display:flex;align-items:center;gap:12px;font-family:"Barlow Condensed",Impact,sans-serif;letter-spacing:.035em;font-weight:900;font-size:25px;line-height:.84}
 .brand img{height:46px;width:46px;object-fit:contain}
 .tag{font-size:11px;letter-spacing:.19em;text-transform:uppercase;color:var(--muted);font-weight:800}
-main{min-height:calc(100svh - 165px);display:grid;grid-template-columns:1.08fr .92fr;align-items:center;gap:32px;padding:72px 0}
-.copy{position:relative;z-index:1}
+main{min-height:calc(100dvh - 165px);display:grid;grid-template-columns:1.14fr .86fr;align-items:center;gap:24px;padding:48px 0}
+.copy{position:relative;z-index:1;animation:reveal .5s ease-out both}
 .eyebrow{display:flex;align-items:center;gap:12px;text-transform:uppercase;letter-spacing:.2em;color:#ff6871;font-size:12px;font-weight:800}
 .eyebrow:before{content:"";height:2px;width:34px;background:var(--red)}
-.error-code{font:900 clamp(110px,20vw,240px)/.82 "Barlow Condensed",Impact,sans-serif;letter-spacing:-.065em;color:#ffffff0b;-webkit-text-stroke:2px #ffffff25;margin:24px 0 -20px;user-select:none}
-h1{font:900 clamp(43px,5.5vw,79px)/.93 "Barlow Condensed",Impact,sans-serif;text-transform:uppercase;letter-spacing:-.018em;margin:0;max-width:750px}
+.error-code{font:900 clamp(96px,17vw,190px)/.86 "Barlow Condensed",Impact,sans-serif;letter-spacing:-.065em;color:#ffffff0b;-webkit-text-stroke:2px #ffffff2b;margin:14px 0 -11px;user-select:none}
+h1{font:900 clamp(46px,4.65vw,70px)/.97 "Barlow Condensed",Impact,sans-serif;text-transform:uppercase;letter-spacing:-.018em;margin:0;max-width:735px;text-wrap:balance}
 h1 span{color:var(--red)}
-.lead{color:var(--muted);font-size:17px;line-height:1.75;max-width:535px;margin:27px 0 30px}
+.lead{color:var(--muted);font-size:16px;line-height:1.68;max-width:515px;margin:22px 0 26px;text-wrap:pretty}
 .actions{display:flex;flex-wrap:wrap;gap:12px}
-.button{min-height:52px;padding:15px 21px;border:1px solid var(--line);border-radius:10px;display:inline-flex;align-items:center;gap:10px;font-weight:800;font-size:13px;transition:transform .15s,background .15s,border-color .15s}
-.button:hover{transform:translateY(-2px);border-color:#ffffff77}
-.button.primary{background:var(--red);border-color:var(--red);color:#fff}
-.button.primary:hover{background:#d92b35}
+.button{min-height:52px;padding:15px 21px;border:1px solid #51535c;border-radius:10px;display:inline-flex;align-items:center;justify-content:center;gap:10px;font-weight:800;font-size:13px;transition:transform .18s ease,background .18s ease,border-color .18s ease}
+.button:hover{transform:translateY(-2px);border-color:#fff9}
+.button:active{transform:translateY(1px)}
+.button.primary{background:var(--red-button);border-color:var(--red-button);color:#fff}
+.button.primary:hover{background:#9f1e2a}
 .button svg{height:17px;width:17px}
-.art{position:relative;min-height:430px;display:grid;place-items:center}
-.art:before{content:"";position:absolute;width:min(95%,490px);aspect-ratio:1;border:1px solid #ffffff13;border-radius:50%;box-shadow:0 0 0 38px #ffffff04,0 0 0 78px #ffffff04}
-.illustration{width:min(100%,550px);height:auto;position:relative;z-index:1;filter:drop-shadow(0 24px 38px #0009)}
-.art-note{position:absolute;bottom:2%;right:4%;font-size:11px;letter-spacing:.15em;color:#ffffff60;font-weight:800}
-footer{border-top:1px solid #ffffff18;padding:24px 0;color:#8a8c98;font-size:12px}
+a:focus-visible{outline:3px solid #fff;outline-offset:4px}
+.art{position:relative;min-height:410px;display:grid;place-items:center;animation:reveal .64s .08s ease-out both}
+.art:before{content:"";position:absolute;inset:11% 3% 13% 8%;border-left:2px solid #ef364147;transform:skewX(-12deg);background:linear-gradient(125deg,transparent 0 66%,#ef36410b 66% 80%,transparent 80%)}
+.illustration{width:min(100%,550px);height:auto;position:relative;z-index:1;filter:drop-shadow(0 22px 30px #0008)}
+.art-note{position:absolute;bottom:2%;right:4%;font-size:11px;letter-spacing:.15em;color:#ffffff75;font-weight:800}
+footer{border-top:1px solid #ffffff18;padding:24px 0;color:#aaabb4;font-size:12px}
 .footer-row{display:flex;justify-content:space-between;gap:20px}
-@media(max-width:850px){main{grid-template-columns:1fr;padding:45px 0 30px;gap:5px}.art{order:-1;min-height:270px}.illustration{max-width:365px}.error-code{font-size:150px;margin:0 0 -12px}.art-note{bottom:0;right:12%}h1{font-size:clamp(46px,10vw,72px)}}
-@media(max-width:470px){.tag{display:none}.shell{width:min(100% - 32px,1180px)}.art{min-height:225px}.illustration{max-width:300px}.art-note{display:none}.error-code{font-size:124px}.lead{font-size:15px}.button{justify-content:center;flex:1;white-space:nowrap}.footer-row{flex-direction:column;gap:8px}}
-@media(prefers-reduced-motion:reduce){.button{transition:none}}
+@keyframes reveal{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+@media(max-width:850px){
+main{min-height:0;grid-template-columns:1fr;align-items:start;padding:36px 0 30px;gap:10px}
+.copy{order:0}.art{order:1;min-height:250px}
+.illustration{max-width:345px}
+.error-code{font-size:125px;margin:15px 0 -9px}
+h1{font-size:clamp(44px,8vw,65px)}
+.lead{margin:20px 0 24px}
+.art-note{bottom:0;right:12%}
+}
+@media(max-width:470px){
+.tag{display:none}.shell{width:calc(100% - 32px)}
+main{padding:26px 0 22px;gap:0}
+.error-code{font-size:100px;margin:9px 0 -5px}
+h1{font-size:clamp(42px,10.6vw,52px);line-height:.97}
+.lead{font-size:15px;line-height:1.54;margin:16px 0 20px}
+.button{flex:1;white-space:nowrap;padding:14px 11px}
+.art{min-height:190px}.illustration{max-width:260px}.art-note{display:none}
+.footer-row{flex-direction:column;gap:8px}
+}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.copy,.art{animation:none}.button{transition:none}}
 </style>
 </head>
 <body>
 <header><div class="shell header-row">
-<a class="brand" href="/" aria-label="Raven Crow — início"><img src="/raven-logo.webp" alt=""><span>RAVEN<br>CROW</span></a>
+<a class="brand" href="/" aria-label="Raven Crow, início"><img src="/raven-logo.webp" alt=""><span>RAVEN<br>CROW</span></a>
 <span class="tag">NOTÍCIAS · IDEIAS · ANÁLISE</span>
 </div></header>
 <main class="shell">
@@ -58,7 +79,7 @@ footer{border-top:1px solid #ffffff18;padding:24px 0;color:#8a8c98;font-size:12p
 <div class="eyebrow">Rota não encontrada</div>
 <div class="error-code" aria-hidden="true">404</div>
 <h1 id="erro-titulo">Acho que o corvo<br><span>cortou a árvore errada.</span></h1>
-<p class="lead">A trilha que você procurava não existe — ou mudou de lugar. O machado está afiado, mas o endereço não ajudou. Vamos voltar para um caminho conhecido?</p>
+<p class="lead">A trilha que você procurava não existe ou mudou de lugar. O machado está afiado, mas o endereço não ajudou. Vamos voltar para um caminho conhecido?</p>
 <div class="actions">
 <a class="button primary" href="/"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m15 18-6-6 6-6"/></svg>Voltar ao início</a>
 <a class="button" href="/noticias.html">Ver notícias <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></a>
