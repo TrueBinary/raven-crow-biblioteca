@@ -2,9 +2,66 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "09/11/2026",
-  "updatedAt": "2026-11-09T14:08:00-03:00",
+  "updatedAt": "2026-11-09T15:06:45-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "omm-2026-quatro-anos-mais-quentes-relatorio-cop31-2026-11-09",
+      "date": "2026-11-09",
+      "category": "MEIO AMBIENTE",
+      "title": "ONU aponta 2026 entre os quatro anos mais quentes da história, com El Niño em intensificação",
+      "subtitle": "Relatório da Organização Meteorológica Mundial divulgado na abertura da COP31 aponta temperatura global 1,47 °C acima do período pré-industrial entre janeiro e setembro.",
+      "facts": "A Organização Meteorológica Mundial (OMM), agência especializada da ONU, divulgou nesta segunda-feira, 9 de novembro de 2026, durante a COP31 em Antalya, na Turquia, uma atualização sobre o estado do clima global. O documento informa que a temperatura média da superfície terrestre de janeiro a setembro de 2026 ficou aproximadamente 1,47 °C acima da média do período pré-industrial de 1850 a 1900. Segundo a OMM, 2026 deverá figurar entre os quatro anos mais quentes já registrados. Os últimos 12 anos, de 2015 a 2026, são os 12 mais quentes da série histórica. A organização aponta que o El Niño se intensificou desde agosto e poderá atingir força recorde em dezembro, elevando os riscos de calor extremo, secas e chuvas intensas até 2027. O relatório também registra níveis recordes de calor oceânico e do nível médio global do mar.",
+      "analysis": "Os dados colocam a abertura da COP31 diante de um desafio concreto: o aquecimento do planeta continua apesar das negociações internacionais para reduzir emissões. A OMM atribui a tendência de longo prazo à acumulação de gases de efeito estufa, enquanto o El Niño acrescenta variabilidade natural e pode elevar temporariamente as temperaturas. Para governos e municípios, o relatório reforça a importância de sistemas de alerta, planejamento urbano e preparação para extremos climáticos. O valor de 1,47 °C se refere à média de nove meses, não à temperatura definitiva do ano nem a uma constatação de que a meta de longo prazo do Acordo de Paris foi formalmente ultrapassada.",
+      "counterpoint": "A projeção para 2026 ainda é preliminar e poderá ser revista com os dados dos últimos meses do ano. A classificação entre os quatro anos mais quentes é uma estimativa baseada em observações disponíveis até setembro. Eventos meteorológicos isolados não devem ser atribuídos automaticamente à mudança climática sem estudos específicos. A fotografia utilizada é um registro de arquivo da sede da OMM em Genebra, de 19 de julho de 2014, e não documenta a coletiva da COP31.",
+      "sources": [
+        {
+          "name": "Organização Meteorológica Mundial — State of the Climate Update for COP31 (09/11/2026)",
+          "url": "https://public.wmo.int/resources/publication-series/state-of-climate-update-cop/state-of-climate-update-cop31"
+        },
+        {
+          "name": "Organização Meteorológica Mundial — State of the climate in 2026 gives new meaning to phrase off the charts (09/11/2026)",
+          "url": "https://wmo.int/media/news/state-of-climate-2026-gives-new-meaning-phrase-charts"
+        },
+        {
+          "name": "Agência Brasil/Reuters — ONU diz que 2026 será um dos anos mais quentes já registrados (09/11/2026)",
+          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/onu-diz-que-2026-sera-um-dos-anos-mais-quentes-ja-registrados"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Organisation_M%C3%A9t%C3%A9orologique_Mondiale_Si%C3%A8ge.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Handelsgeselschaft / Wikimedia Commons",
+          "license": "CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Organisation_M%C3%A9t%C3%A9orologique_Mondiale_Si%C3%A8ge.jpg",
+          "caption": "FOTO DE ARQUIVO (19/07/2014): sede da Organização Meteorológica Mundial em Genebra, Suíça. Não retrata a divulgação do relatório na COP31 em 09/11/2026."
+        }
+      ],
+      "en": {
+        "title": "UN says 2026 is set to rank among the four hottest years on record as El Niño strengthens",
+        "subtitle": "A World Meteorological Organization report released as COP31 opened finds global temperatures 1.47°C above pre-industrial levels from January through September.",
+        "facts": "The World Meteorological Organization (WMO), a United Nations specialized agency, released its global climate update on Monday, November 9, 2026, during COP31 in Antalya, Türkiye. The report says average global surface temperatures from January through September 2026 were approximately 1.47°C above the 1850–1900 pre-industrial baseline. The WMO expects 2026 to rank among the four hottest years on record. The 12 years from 2015 through 2026 are the warmest in the observational record. El Niño has strengthened since August and could reach record intensity in December, increasing risks of extreme heat, drought and heavy rainfall into 2027. The update also reports record ocean heat and global mean sea levels.",
+        "analysis": "The findings give COP31 a stark backdrop: global warming continues despite international negotiations to curb emissions. The WMO links the long-term trend to accumulated greenhouse gases, while El Niño adds natural variability that can temporarily lift temperatures. Governments face growing pressure to invest in early warnings, urban planning and resilience against climate extremes. The 1.47°C figure is a nine-month average, not a final full-year measurement or proof that the Paris Agreement's long-term warming threshold has formally been breached.",
+        "counterpoint": "The 2026 ranking remains provisional and may change as data for the final months become available. The projection draws on observations through September. Individual weather events cannot automatically be attributed to climate change without event-specific studies. The accompanying archive photograph shows WMO headquarters in Geneva on July 19, 2014, not the COP31 announcement.",
+        "category": "ENVIRONMENT",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (July 19, 2014): World Meteorological Organization headquarters in Geneva, Switzerland. This does not show the COP31 report announcement on November 9, 2026."
+        }
+      },
+      "es": {
+        "title": "La ONU sitúa a 2026 entre los cuatro años más cálidos registrados mientras se intensifica El Niño",
+        "subtitle": "Un informe de la Organización Meteorológica Mundial presentado al inicio de la COP31 sitúa la temperatura global 1,47 °C por encima del nivel preindustrial entre enero y septiembre.",
+        "facts": "La Organización Meteorológica Mundial (OMM), organismo especializado de la ONU, presentó el lunes 9 de noviembre de 2026, durante la COP31 en Antalya, Turquía, una actualización sobre el estado del clima mundial. Según el documento, la temperatura media de la superficie global entre enero y septiembre de 2026 fue aproximadamente 1,47 °C superior a la media preindustrial de 1850 a 1900. La OMM prevé que 2026 se sitúe entre los cuatro años más cálidos registrados. Los 12 años comprendidos entre 2015 y 2026 son los más cálidos de la serie histórica. El Niño se ha intensificado desde agosto y podría alcanzar una fuerza récord en diciembre, aumentando el riesgo de calor extremo, sequías y lluvias intensas hasta 2027. El informe también señala récords de calor oceánico y del nivel medio global del mar.",
+        "analysis": "Los datos marcan el inicio de la COP31: el calentamiento global continúa pese a las negociaciones internacionales para reducir emisiones. La OMM vincula la tendencia a largo plazo con la acumulación de gases de efecto invernadero, mientras que El Niño añade variabilidad natural y puede elevar temporalmente las temperaturas. Los gobiernos afrontan la necesidad de mejorar las alertas tempranas, la planificación urbana y la preparación ante fenómenos extremos. El dato de 1,47 °C corresponde a nueve meses, no a la media definitiva del año ni a una declaración de superación formal del objetivo de largo plazo del Acuerdo de París.",
+        "counterpoint": "La clasificación de 2026 sigue siendo provisional y podrá revisarse cuando se disponga de los datos de los últimos meses. La estimación utiliza observaciones hasta septiembre. No se puede atribuir automáticamente un fenómeno meteorológico concreto al cambio climático sin estudios específicos. La fotografía de archivo muestra la sede de la OMM en Ginebra el 19 de julio de 2014, no la presentación del informe en la COP31.",
+        "category": "MEDIO AMBIENTE",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (19 de julio de 2014): sede de la Organización Meteorológica Mundial en Ginebra, Suiza. No muestra la presentación del informe de la COP31 del 9 de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "noruega-anuncia-350-milhoes-fundo-amazonia-2026-11-09",
       "date": "2026-11-09",
