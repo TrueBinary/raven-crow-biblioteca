@@ -2,9 +2,66 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "09/11/2026",
-  "updatedAt": "2026-11-09T08:25:32-03:00",
+  "updatedAt": "2026-11-09T08:58:27-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "fux-suspende-processos-mp-bets-stf-2026-11-09",
+      "date": "2026-11-09",
+      "category": "JUSTIÇA",
+      "title": "Fux suspende processos contra proibição das bets até decisão definitiva do STF",
+      "subtitle": "Ministro acolhe pedido da PGR e interrompe ações nas instâncias inferiores sobre a MP 1.394/2026; constitucionalidade ainda será julgada.",
+      "facts": "O ministro Luiz Fux, do Supremo Tribunal Federal (STF), determinou a suspensão, em todo o país, dos processos judiciais nas instâncias inferiores que questionam a constitucionalidade da Medida Provisória 1.394/2026, que proíbe a exploração de apostas de quota fixa, as chamadas bets. A decisão foi assinada no domingo, 8 de novembro de 2026, e divulgada nesta segunda-feira, 9 de novembro. Fux atendeu a pedido da Procuradoria-Geral da República (PGR), apresentado na sexta-feira, 6 de novembro, diante de decisões divergentes que permitiam a algumas empresas continuar operando. A suspensão permanecerá até que o STF julgue definitivamente a controvérsia constitucional. Quatro ações diretas de inconstitucionalidade — ADIs 8.024, 8.027, 8.028 e 8.035 — estão relacionadas à disputa. A decisão individual do ministro ainda deverá ser submetida ao plenário. A medida não constitui julgamento definitivo da validade da proibição.",
+      "analysis": "A determinação procura evitar que decisões de juízes e tribunais diferentes produzam regimes desiguais para empresas sujeitas à mesma medida provisória. A PGR argumentou que liminares concedidas a operadores específicos criavam insegurança jurídica. O caso também coloca em confronto preocupações de saúde pública e endividamento associados às apostas e argumentos do setor sobre liberdade econômica, contratos e patrocínios esportivos. Suspender os processos não equivale a resolver essas questões: o STF ainda precisará examinar a constitucionalidade da norma e o alcance das restrições. A decisão do plenário será determinante para a segurança jurídica de consumidores, empresas e entidades esportivas.",
+      "counterpoint": "Representantes do setor de apostas e de clubes de futebol argumentam que a proibição pode afetar receitas, empregos e contratos de patrocínio já firmados. O governo e defensores da restrição apontam riscos sociais, vício em jogos e endividamento. Essas posições são argumentos em debate, não conclusões judiciais definitivas. A decisão de Fux é provisória e processual: suspende ações em instâncias inferiores, sem decidir definitivamente se a MP 1.394/2026 é constitucional. A fotografia é um registro de arquivo de 2010 e não documenta o despacho de novembro de 2026.",
+      "sources": [
+        {
+          "name": "STF — STF suspende processos que questionam constitucionalidade de MP das bets (09/11/2026)",
+          "url": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-processos-que-questionam-constitucionalidade-de-mp-das-bets/"
+        },
+        {
+          "name": "Congresso em Foco — Fux suspende ações que questionam MP das Bets até decisão do STF (09/11/2026)",
+          "url": "https://www.congressoemfoco.com.br/noticia/131408/fux-suspende-acoes-que-questionam-mp-das-bets-ate-decisao-do-stf"
+        },
+        {
+          "name": "Folha de S.Paulo — Fux suspende ações de instâncias inferiores sobre bets (09/11/2026)",
+          "url": "https://c-level.folha.uol.com.br/negocios/2026/11/fux-suspende-acoes-sobre-funcionamento-de-bets-em-toda-justica-ate-sair-decisao-do-stf.shtml"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Luiz_Fux.jpg/960px-Luiz_Fux.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "José Cruz/Agência Brasil - Wikimedia Commons",
+          "license": "CC BY 3.0 BR - https://creativecommons.org/licenses/by/3.0/br/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Luiz_Fux.jpg",
+          "caption": "FOTO DE ARQUIVO (08/06/2010): Luiz Fux, então ministro do STJ. Imagem ilustrativa; não registra a decisão sobre bets de 08/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Brazil's Supreme Court justice Fux pauses lawsuits challenging betting ban",
+        "subtitle": "The nationwide order follows a request from federal prosecutors; the constitutionality of Provisional Measure 1,394/2026 remains undecided.",
+        "facts": "Luiz Fux, a justice of Brazil's Supremo Tribunal Federal (STF, Federal Supreme Court), ordered lower courts nationwide to suspend lawsuits challenging the constitutionality of Provisional Measure 1,394/2026, which bans fixed-odds betting operations. The order was signed on Sunday, November 8, 2026, and reported on Monday, November 9. Fux granted a request filed on Friday, November 6, by the Procuradoria-Geral da República (PGR, Office of the Prosecutor General), after conflicting rulings allowed some operators to continue business. The suspension lasts until the STF delivers its final ruling on the constitutional dispute. Four direct constitutional challenges, ADIs 8.024, 8.027, 8.028 and 8.035, are involved. Fux's individual order must still be reviewed by the full court. It does not decide whether the betting ban is constitutional.",
+        "analysis": "The order is intended to prevent lower-court rulings from creating inconsistent rules for companies governed by the same provisional measure. Prosecutors said injunctions granted to particular operators were undermining legal certainty. The dispute also pits public-health and household-debt concerns against arguments over economic freedom, existing contracts and sports sponsorships. Pausing lawsuits does not resolve these questions. The STF must still determine the measure's constitutionality and the scope of its restrictions.",
+        "counterpoint": "Betting operators and football clubs say the ban could harm revenue, jobs and sponsorship agreements. The government and supporters of the restrictions cite addiction, debt and broader social harms. These are competing arguments, not final judicial findings. Fux's order is procedural and temporary, not a final ruling on Provisional Measure 1,394/2026. The accompanying photograph was taken in 2010 and does not document the November 2026 decision.",
+        "category": "JUSTICE",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (June 8, 2010): Luiz Fux, then a justice of Brazil's Superior Court of Justice. Illustrative image; it does not show the November 8, 2026 betting decision."
+        }
+      },
+      "es": {
+        "title": "Fux suspende demandas contra la prohibición de apuestas hasta la decisión definitiva del STF",
+        "subtitle": "El ministro atiende una petición de la Fiscalía General; sigue pendiente el fallo sobre la constitucionalidad de la Medida Provisional 1.394/2026.",
+        "facts": "El ministro Luiz Fux, del Supremo Tribunal Federal (STF, Tribunal Supremo Federal de Brasil), ordenó suspender en todo el país los procesos de instancias inferiores que cuestionan la constitucionalidad de la Medida Provisional 1.394/2026, que prohíbe las apuestas de cuota fija. La orden fue firmada el domingo 8 de noviembre de 2026 y divulgada el lunes 9 de noviembre. Fux atendió una solicitud presentada el viernes 6 de noviembre por la Procuradoria-Geral da República (PGR, Fiscalía General de Brasil), tras fallos contradictorios que permitían operar a algunas empresas. La suspensión seguirá vigente hasta la sentencia definitiva del STF sobre la controversia constitucional. La disputa incluye cuatro acciones directas de inconstitucionalidad: ADIs 8.024, 8.027, 8.028 y 8.035. La decisión individual de Fux todavía deberá ser examinada por el pleno del tribunal. No determina de forma definitiva si la prohibición es constitucional.",
+        "analysis": "La medida busca impedir que resoluciones de diferentes juzgados establezcan reglas desiguales para empresas sujetas a la misma norma. La PGR sostuvo que las medidas cautelares favorables a determinados operadores provocaban inseguridad jurídica. El debate enfrenta preocupaciones sobre adicción y endeudamiento con argumentos sobre libertad económica, contratos y patrocinios deportivos. La suspensión de procesos no resuelve estas cuestiones: el STF deberá pronunciarse sobre la constitucionalidad y el alcance de la prohibición.",
+        "counterpoint": "Empresas de apuestas y clubes de fútbol advierten de posibles perjuicios para ingresos, empleo y patrocinios. El Gobierno y los partidarios de las restricciones señalan riesgos de ludopatía, endeudamiento y otros daños sociales. Son posiciones en disputa, no conclusiones judiciales definitivas. La orden de Fux es procesal y provisional, no una sentencia final sobre la Medida Provisional 1.394/2026. La fotografía que acompaña esta noticia es de 2010 y no muestra la decisión de noviembre de 2026.",
+        "category": "JUSTICIA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (8 de junio de 2010): Luiz Fux, entonces ministro del Superior Tribunal de Justicia de Brasil. Imagen ilustrativa; no muestra la decisión sobre apuestas del 8 de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "pm-atira-van-asa-sul-brasilia-mulher-morta-2026-11-09",
       "date": "2026-11-09",
