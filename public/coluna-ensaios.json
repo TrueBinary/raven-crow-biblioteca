@@ -3,6 +3,76 @@
   "updatedAt": "2026-11-09",
   "essays": [
     {
+      "id": "a-padaria-e-o-alvara-para-o-sol-nascer-2026-11-09",
+      "section": "Política e sociedade",
+      "date": "2026-11-09",
+      "title": "A PADARIA, O CARIMBO E O ALVARÁ PARA O SOL NASCER",
+      "subtitle": "Quando a liberdade precisa de autorização, até o pão sai do forno com medo da repartição.",
+      "eyebrow": "OPINIÃO",
+      "paragraphs": [
+        "Imagine uma padaria que abre às seis da manhã. Às seis e cinco, entra um fiscal imaginário, não para comprar pão, mas para perguntar se a farinha apresentou declaração de boas intenções. O padeiro aponta o forno; o homem aponta o formulário. O pão cresce, a fila cresce, a papelada cresce — e a única coisa que não pode crescer sem autorização é o negócio. Eis uma das nossas grandes inversões: o cidadão precisa provar que merece trabalhar, enquanto o poder público presume que merece ser obedecido.",
+        "Não é apenas uma caricatura sem endereço. A Lei de Liberdade Econômica, de 20 de setembro de 2019, reconheceu expressamente a boa-fé do particular perante o Estado e a intervenção subsidiária e excepcional na atividade econômica. Seu artigo 3º prevê dispensa de atos públicos de liberação para atividades de baixo risco, nos termos legais, e presunção de boa-fé em determinados atos econômicos. Repare na ironia: foi preciso escrever numa lei que quem pretende abrir um negócio não deve ser tratado automaticamente como suspeito. A liberdade entrou no Diário Oficial acompanhada de certidão de nascimento.",
+        "Antes que apareça alguém dizendo que quero padarias sem higiene e prédios sem segurança, convém separar as coisas. Fiscalizar riscos reais é dever legítimo; exigir um documento incapaz de evitar qualquer risco é apenas transformar cautela em liturgia. A mesma lei preserva normas ambientais, trabalhistas e outras proteções, além de estabelecer limites e exceções. Não existe licença geral para prejudicar terceiros. Existe, isto sim, uma pergunta que deveria perseguir toda repartição: esta exigência protege alguém ou apenas protege a própria exigência?",
+        "O detalhe mais delicioso está no artigo 4º: a legislação manda o Estado evitar abuso regulatório, inclusive aumentar custos de transação sem demonstrar benefícios e criar demanda artificial por cartórios, registros ou cadastros. Traduzindo para a língua do balcão: o governo precisou proibir a si mesmo de inventar fila por esporte. Imagino a cena de uma comissão reunida para decidir se outra comissão é necessária. Depois de três reuniões, concluem que falta um grupo de trabalho para estudar a ausência de trabalho. Ata aprovada, café servido, cidadão aguardando.",
+        "Há também um princípio moral por trás desse emaranhado. Uma sociedade de pessoas livres não deveria começar cada relação com o poder público pela suspeita de culpa. O empresário pode fraudar, o fiscal pode abusar, o consumidor pode ser lesado; por isso existem regras, provas, fiscalização e responsabilização. Mas possibilidade de erro não é autorização para tratar toda iniciativa como delito antecipado. Quando a exceção vira regra, o Estado deixa de ser árbitro e passa a jogar com a bola, vender o ingresso e cobrar pela reclamação — embora, desta vez, o padeiro só quisesse assar pão.",
+        "É justo reconhecer o contraponto: simplificação mal desenhada pode abandonar consumidores e trabalhadores à própria sorte, especialmente onde o risco é alto e a fiscalização é frágil. A resposta séria não é abolir controles nem multiplicá-los cegamente. É definir riscos com critérios claros, fiscalizar o que importa e cobrar resultados de quem exerce autoridade. A boa regulação precisa conseguir explicar sua utilidade sem recorrer ao argumento infantil de que 'sempre foi assim'. Se uma norma não consegue justificar o que protege, talvez proteja apenas o emprego de quem a redigiu — hipótese que exige prova antes de virar acusação contra qualquer órgão concreto.",
+        "Meu caro leitor, desconfie de um país em que empreender parece favor concedido pelo balcão e obedecer parece virtude suficiente para governar. A lei de 2019 não aboliu a burocracia, nem a existência de um direito no papel prova que ele seja respeitado em cada esquina. Mas deixou escrita uma ideia que vale defender: a liberdade não nasce da carimbada benevolência de um funcionário. Se um dia a repartição exigir alvará para o sol nascer, haverá quem preencha o requerimento antes de abrir a janela. Eu prefiro abrir a padaria. E deixar que o cheiro do pão seja a primeira coisa a circular sem autorização."
+      ],
+      "sources": [
+        {
+          "title": "Lei nº 13.874/2019 — texto atualizado, arts. 1º a 4º, Câmara dos Deputados",
+          "url": "https://www2.camara.leg.br/legin/fed/lei/2019/lei-13874-20-setembro-2019-789149-normaatualizada-pl.html"
+        },
+        {
+          "title": "Senado Federal — ficha legislativa da Lei de Liberdade Econômica",
+          "url": "https://legis.senado.gov.br/norma/31412289"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/PAL%C3%81CIO_DO_PLANALTO.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Eliene Vieira de Araújo / Wikimedia Commons",
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:PAL%C3%81CIO_DO_PLANALTO.jpg",
+          "caption": "FOTO DE ARQUIVO (31/03/2019), Brasília (DF): Palácio do Planalto, sede do Poder Executivo federal. Imagem ilustrativa da instituição, não retrata fiscalização de padarias nem acontecimento recente."
+        }
+      ],
+      "en": {
+        "title": "THE BAKERY, THE STAMP AND A PERMIT FOR SUNRISE",
+        "subtitle": "When freedom requires authorization, even bread leaves the oven afraid of the government counter.",
+        "eyebrow": "OPINION",
+        "section": "Politics and society",
+        "paragraphs": [
+          "Picture a bakery opening at six in the morning. Five minutes later an imaginary inspector walks in, not to buy bread but to ask whether the flour has filed a declaration of good intentions. The baker points to the oven; the inspector points to the form. The bread rises, the queue grows, the paperwork piles up—and the only thing forbidden to grow without permission is the business. Here is the inversion: citizens must prove they deserve to work, while public authority assumes it deserves obedience.",
+          "This is more than a joke without an address. Brazil's Economic Freedom Law of September 20, 2019 expressly recognizes private individuals' good faith toward the state and calls for subsidiary, exceptional government intervention in economic activity. Article 3 provides, subject to legal conditions, relief from licensing for low-risk activities and a presumption of good faith in certain economic acts. Consider the irony: lawmakers had to write down that someone trying to start a business should not automatically be treated as a suspect. Freedom arrived in the official gazette carrying its own birth certificate.",
+          "Before someone claims I want bakeries without hygiene standards or buildings without safety rules, let us distinguish the issues. Inspecting genuine risks is legitimate; demanding a document that prevents none is merely turning caution into ritual. The law preserves environmental and labor protections and sets limits and exceptions. It grants no general permission to harm others. It does raise a question that should haunt every government office: does this requirement protect anyone, or does it merely protect the requirement itself?",
+          "The most delicious detail is Article 4: the law instructs the state to avoid regulatory abuse, including increasing transaction costs without demonstrating benefits and manufacturing demand for registries and paperwork. In counter-service language, the government had to tell itself not to invent queues as a hobby. I picture a committee meeting to decide whether another committee is needed. After three meetings it concludes that a working group must investigate the absence of work. Minutes approved, coffee served, citizen still waiting.",
+          "There is a moral principle beneath the paperwork. A society of free people should not begin every encounter with public authority by assuming guilt. Business owners can commit fraud, inspectors can abuse power, consumers can suffer harm; that is why rules, evidence, inspections and accountability exist. But the possibility of wrongdoing does not justify treating every initiative as a crime in advance. When the exception becomes the rule, the state stops refereeing and starts playing, selling tickets and charging for complaints—although this time the baker only wanted to bake bread.",
+          "A serious objection deserves an answer: poorly designed deregulation can leave consumers and workers exposed, especially where risks are high and enforcement is weak. The answer is neither to abolish oversight nor to multiply it blindly. Define risks clearly, inspect what matters and demand results from those wielding authority. Sound regulation should be able to explain its purpose without hiding behind 'we have always done it this way.' If a rule cannot explain whom it protects, perhaps it protects only its author's position—though that suspicion would require evidence before being leveled at any particular agency.",
+          "Dear reader, beware of a country where starting a business feels like a favor bestowed by a clerk and obedience is treated as sufficient qualification to govern. The 2019 law did not abolish bureaucracy, and a right on paper does not prove it is honored on every street corner. But it put a worthy principle into writing: liberty does not originate in a civil servant's benevolent stamp. If an office ever demands a permit for the sun to rise, somebody will fill out the form before opening the window. I would rather open the bakery—and let the smell of fresh bread be the first thing to travel without permission."
+        ],
+        "photo_caption": "ARCHIVE PHOTO (March 31, 2019), Brasília, Brazil: Palácio do Planalto, seat of the federal executive. Institutional illustration, not an inspection of a bakery or a recent event."
+      },
+      "es": {
+        "title": "LA PANADERÍA, EL SELLO Y EL PERMISO PARA QUE SALGA EL SOL",
+        "subtitle": "Cuando la libertad necesita autorización, hasta el pan sale del horno con miedo a la ventanilla.",
+        "eyebrow": "OPINIÓN",
+        "section": "Política y sociedad",
+        "paragraphs": [
+          "Imaginemos una panadería que abre a las seis de la mañana. Cinco minutos después entra un inspector imaginario, no para comprar pan, sino para preguntar si la harina ha presentado una declaración de buenas intenciones. El panadero señala el horno; el inspector señala el formulario. Crecen el pan, la fila y los papeles, y lo único que no puede crecer sin permiso es el negocio. He aquí la inversión: el ciudadano debe demostrar que merece trabajar, mientras el poder público da por sentado que merece obediencia.",
+          "No es solo una caricatura sin domicilio. La Ley de Libertad Económica brasileña, del 20 de septiembre de 2019, reconoce expresamente la buena fe del particular ante el Estado y la intervención subsidiaria y excepcional en la actividad económica. Su artículo 3 prevé, bajo las condiciones legales, la exención de autorizaciones para actividades de bajo riesgo y la presunción de buena fe en determinados actos económicos. Qué ironía: hubo que escribir en una ley que quien quiere abrir un negocio no debe ser tratado automáticamente como sospechoso. La libertad llegó al boletín oficial con partida de nacimiento.",
+          "Antes de que alguien diga que quiero panaderías sin higiene y edificios sin seguridad, distingamos las cosas. Fiscalizar riesgos reales es legítimo; exigir un documento que no evita ninguno es convertir la prudencia en ceremonia. La misma ley conserva protecciones ambientales y laborales, además de límites y excepciones. No otorga permiso general para perjudicar a terceros. Plantea una pregunta que debería perseguir a toda oficina: ¿este requisito protege a alguien o solo se protege a sí mismo?",
+          "El detalle más delicioso está en el artículo 4: la legislación ordena al Estado evitar abusos regulatorios, entre ellos elevar los costos de transacción sin demostrar beneficios y crear demanda artificial de registros y trámites. Traducido al idioma de la ventanilla: el gobierno tuvo que prohibirse inventar filas por deporte. Imagino una comisión reunida para decidir si hace falta otra comisión. Después de tres reuniones concluye que se necesita un grupo de trabajo para estudiar la falta de trabajo. Acta aprobada, café servido, ciudadano esperando.",
+          "Detrás de ese laberinto hay un principio moral. Una sociedad de personas libres no debería comenzar cada relación con el poder público suponiendo culpabilidad. El empresario puede defraudar, el inspector abusar y el consumidor sufrir daños; por eso existen reglas, pruebas, inspecciones y responsabilidades. Pero la posibilidad de una falta no autoriza a tratar toda iniciativa como delito anticipado. Cuando la excepción se vuelve regla, el Estado deja de arbitrar y se pone a jugar, vender entradas y cobrar por las quejas, aunque esta vez el panadero solo quería hornear pan.",
+          "Hay una objeción seria: una simplificación mal diseñada puede dejar desprotegidos a consumidores y trabajadores, especialmente donde el riesgo es alto y la fiscalización es débil. La respuesta no es eliminar los controles ni multiplicarlos a ciegas. Es definir riesgos con criterios claros, inspeccionar lo importante y exigir resultados a quienes ejercen autoridad. Una buena regulación debe explicar para qué sirve sin refugiarse en el infantil 'siempre se ha hecho así'. Si una norma no logra justificar a quién protege, quizá solo proteja el puesto de quien la redactó, sospecha que exigiría pruebas antes de acusar a cualquier organismo concreto.",
+          "Querido lector, desconfía de un país donde emprender parece un favor concedido en una ventanilla y obedecer parece virtud suficiente para gobernar. La ley de 2019 no eliminó la burocracia, y un derecho escrito no demuestra que se respete en cada esquina. Pero dejó constancia de una idea digna de defensa: la libertad no nace del sello benevolente de un funcionario. Si algún día la oficina exige un permiso para que salga el sol, habrá quien rellene la solicitud antes de abrir la ventana. Yo prefiero abrir la panadería y dejar que el aroma del pan sea lo primero que circule sin autorización."
+        ],
+        "photo_caption": "FOTO DE ARCHIVO (31 de marzo de 2019), Brasilia, Brasil: Palacio de Planalto, sede del Ejecutivo federal. Imagen institucional ilustrativa, no muestra inspecciones a panaderías ni un hecho reciente."
+      }
+    },
+    {
       "id": "quando-o-trabalho-engole-o-domingo-2026-11-09",
       "section": "Fé e família",
       "date": "2026-11-09",
