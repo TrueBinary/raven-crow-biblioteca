@@ -1,6 +1,63 @@
 {
   "articles": [
     {
+      "id": "ataque-russo-deposito-alimentos-odesa-tres-mortos-2026-11-09",
+      "date": "2026-11-09",
+      "category": "MUNDO",
+      "title": "Ataque russo atinge depósito de alimentos escolares em Odesa e mata três pessoas",
+      "subtitle": "Duas mulheres e um homem morreram; outra mulher ficou gravemente ferida, segundo autoridades ucranianas. Ataque ocorreu antes de novas negociações sobre a guerra.",
+      "facts": "Um ataque atribuído às forças russas atingiu, nesta segunda-feira, 9 de novembro de 2026, um depósito de alimentos destinado a creches e escolas na cidade ucraniana de Odesa. Segundo o chefe da administração militar regional, Oleh Kiper, morreram três pessoas — duas mulheres e um homem — e outra mulher ficou gravemente ferida. O chefe da administração militar da cidade, Serhii Lysak, também confirmou três mortes e informou que equipes de emergência trabalhavam no combate ao incêndio no armazém. A Força Aérea ucraniana afirmou que a Rússia lançou 317 drones durante a noite, dos quais 271 teriam sido abatidos ou neutralizados, e registrou impactos em 31 locais. Os ataques ocorrem às vésperas de negociações mediadas pelos Estados Unidos entre representantes da Ucrânia e da Rússia, previstas para 10 e 11 de novembro em Abu Dhabi. As informações sobre o depósito foram divulgadas pelas autoridades ucranianas e reportadas pela Interfax-Ucrânia e pelo Euromaidan Press.",
+      "analysis": "O ataque a uma instalação de abastecimento de escolas e creches, se confirmada sua natureza civil, pode comprometer serviços essenciais além das vítimas imediatas. A repetição de ofensivas contra infraestrutura ucraniana também agrava os riscos de interrupções no fornecimento de energia e alimentos à medida que o inverno se aproxima. A proximidade das negociações diplomáticas não permite concluir, por si só, que esse ataque tenha sido ordenado para influenciar as conversas. O acompanhamento dos trabalhos de resgate e da investigação sobre o alvo é necessário para esclarecer a dimensão do episódio.",
+      "counterpoint": "O balanço de mortos e feridos e a descrição do depósito são atribuídos às autoridades ucranianas, citadas por duas reportagens; não há confirmação independente em campo de todos os detalhes operacionais. Não foi estabelecida publicamente a justificativa militar alegada por Moscou para este ataque específico. A fotografia usada é de arquivo, feita no centro de Odesa em 2011, e não mostra o local atingido nem as consequências do bombardeio.",
+      "sources": [
+        {
+          "name": "Interfax-Ucrânia — ataque a depósito de alimentos em Odesa (09/11/2026)",
+          "url": "https://ru.interfax.com.ua/news/general/1233348.html"
+        },
+        {
+          "name": "Euromaidan Press — ataque a depósito de alimentos escolares em Odesa (09/11/2026)",
+          "url": "https://euromaidanpress.com/2026/11/09/russia-kills-three-at-a-store-of-kindergarten-food-in-odesa-after-setting-a-kremenchuk-hotel-ablaze/"
+        },
+        {
+          "name": "Associated Press — ataques de longo alcance antes de negociações (09/11/2026)",
+          "url": "https://apnews.com/article/514ff90fc04fae340898967e6655151c"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Kovalska_Street%2C_Odesa_-_panoramio_%2822%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Дмитрий Ванькевич / Wikimedia Commons",
+          "license": "CC BY-SA 3.0 - https://creativecommons.org/licenses/by-sa/3.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Kovalska_Street,_Odesa_-_panoramio_(22).jpg",
+          "caption": "FOTO DE ARQUIVO (03/08/2011): rua Kovalska, no centro de Odesa, Ucrânia. Registro ilustrativo da cidade; NÃO mostra o depósito atingido nem o ataque de 09/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Russian strike hits school food warehouse in Odesa, killing three, Ukrainian officials say",
+        "subtitle": "Two women and a man were killed and another woman was seriously wounded, Ukrainian authorities said, ahead of renewed peace talks.",
+        "facts": "A strike attributed to Russian forces hit a warehouse storing food for nurseries and schools in Odesa, Ukraine, on Monday, November 9, 2026. Regional military administration head Oleh Kiper reported that three people — two women and one man — were killed and another woman was seriously wounded. City military administration chief Serhii Lysak also confirmed three deaths and said emergency crews were fighting a fire at the warehouse. Ukraine's air force said Russia launched 317 drones overnight, of which 271 were shot down or suppressed, with impacts recorded at 31 locations. The attack came ahead of US-mediated talks between Ukrainian and Russian representatives scheduled for November 10–11 in Abu Dhabi. The warehouse details were reported by Interfax-Ukraine and Euromaidan Press, citing Ukrainian officials.",
+        "analysis": "A strike on a facility supplying nurseries and schools, if its civilian function is confirmed, could disrupt essential services beyond the immediate casualties. Continued attacks on Ukrainian infrastructure also raise the risk of disruptions to electricity and food supplies as winter approaches. The timing ahead of diplomatic talks does not, on its own, establish that the strike was intended to influence negotiations. Rescue operations and investigations will be needed to establish the full impact and the nature of the target.",
+        "counterpoint": "The death toll, injuries and warehouse description are attributed to Ukrainian authorities, as reported by two outlets; not all operational details have been independently verified on the ground. No specific military rationale from Moscow for this particular strike has been established publicly. The accompanying 2011 archive photograph shows central Odesa, not the warehouse or the attack.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (August 3, 2011): Kovalska Street in central Odesa, Ukraine. Illustrative city image; it does NOT show the warehouse or the November 9, 2026 strike."
+        }
+      },
+      "es": {
+        "title": "Un ataque ruso alcanza un almacén de alimentos escolares en Odesa y deja tres muertos, según Ucrania",
+        "subtitle": "Murieron dos mujeres y un hombre, mientras otra mujer resultó gravemente herida, informaron las autoridades ucranianas.",
+        "facts": "Un ataque atribuido a las fuerzas rusas alcanzó el lunes 9 de noviembre de 2026 un almacén de alimentos destinados a guarderías y escuelas en Odesa, Ucrania. El jefe de la administración militar regional, Oleh Kiper, informó de tres fallecidos —dos mujeres y un hombre— y de otra mujer gravemente herida. El responsable de la administración militar municipal, Serhii Lysak, confirmó las tres muertes y señaló que los servicios de emergencia combatían un incendio en el almacén. La Fuerza Aérea ucraniana afirmó que Rusia lanzó 317 drones durante la noche, de los cuales 271 fueron derribados o neutralizados, y registró impactos en 31 lugares. El ataque ocurrió antes de las negociaciones mediadas por Estados Unidos entre representantes de Ucrania y Rusia, previstas para el 10 y 11 de noviembre en Abu Dabi. Interfax-Ucrania y Euromaidan Press informaron sobre el almacén citando a las autoridades ucranianas.",
+        "analysis": "Un ataque contra una instalación que abastece a guarderías y escuelas, si se confirma su carácter civil, puede interrumpir servicios esenciales además de causar víctimas. Los continuos ataques contra la infraestructura ucraniana también elevan el riesgo de problemas en el suministro de energía y alimentos con la llegada del invierno. La proximidad de las negociaciones no demuestra por sí sola que el ataque buscara influir en ellas. Será necesario seguir las operaciones de rescate y las investigaciones para determinar el alcance y la naturaleza del objetivo.",
+        "counterpoint": "El balance de víctimas y la descripción del almacén proceden de las autoridades ucranianas, citadas por dos medios; no todos los detalles operativos han sido verificados de forma independiente sobre el terreno. No se ha establecido públicamente una justificación militar de Moscú para este ataque concreto. La fotografía de archivo muestra el centro de Odesa en 2011, no el almacén ni el ataque.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (3 de agosto de 2011): calle Kovalska, en el centro de Odesa, Ucrania. Imagen ilustrativa de la ciudad; NO muestra el almacén ni el ataque del 9 de noviembre de 2026."
+        }
+      }
+    },
+    {
       "id": "iemen-ataques-al-shariya-44-mortos-2026-11-09",
       "date": "2026-11-09",
       "category": "MUNDO",
