@@ -63,6 +63,45 @@ class SeoBuilderTests(unittest.TestCase):
         self.assertEqual(ET.parse(pub / "sitemap-news.xml").getroot().findall("s:url", ns), [])
         self.assertEqual((pub / "robots.txt").read_text(encoding="utf-8").count("sitemap-news.xml"), 1)
 
+    def test_column_sitemap_tracks_published_editions_with_true_dates(self):
+        pub = self.root / "public"
+        data = json.loads((pub / "coluna-ensaios.json").read_text(encoding="utf-8"))
+        data["essays"][0].update({
+            "en": {"title": "Family and justice", "paragraphs": ["Published translation"]},
+            "es": {"title": "Familia y justicia", "paragraphs": ["Traducción publicada"]},
+        })
+        (pub / "coluna-ensaios.json").write_text(json.dumps(data), encoding="utf-8")
+        en_url = "https://ravencrow.cloud/en/coluna/familia-e-justica/"
+        en_page = pub / "en" / "coluna" / "familia-e-justica" / "index.html"
+        en_page.parent.mkdir(parents=True)
+        en_page.write_text('<html><head><title>Essay</title><link rel="canonical" href="' +
+                           en_url + '"></head><body>Published</body></html>', encoding="utf-8")
+        es_page = pub / "es" / "coluna" / "familia-e-justica" / "index.html"
+        es_page.parent.mkdir(parents=True)
+        es_page.write_text("<html><head><title>Essay</title></head><body>Missing canonical</body></html>",
+                           encoding="utf-8")
+        orphan_url = "https://ravencrow.cloud/en/coluna/orphan-draft/"
+        orphan = pub / "en" / "coluna" / "orphan-draft" / "index.html"
+        orphan.parent.mkdir(parents=True)
+        orphan.write_text('<html><head><title>Draft</title><link rel="canonical" href="' +
+                          orphan_url + '"></head><body>Draft</body></html>', encoding="utf-8")
+
+        build(self.root)
+
+        sitemap = pub / "sitemap-coluna.xml"
+        self.assertTrue(sitemap.is_file(), "column sitemap was not generated")
+        tree = ET.parse(sitemap).getroot()
+        ns = {"s": "http://www.sitemaps.org/schemas/sitemap/0.9"}
+        entries = {
+            item.find("s:loc", ns).text: item.findtext("s:lastmod", namespaces=ns)
+            for item in tree.findall("s:url", ns)
+        }
+        self.assertEqual(entries, {
+            "https://ravencrow.cloud/coluna.html": "2026-11-04",
+            "https://ravencrow.cloud/coluna/familia-e-justica/": "2026-11-04",
+            "https://ravencrow.cloud/en/coluna/familia-e-justica/": "2026-11-04",
+        })
+
     def test_sitemap_only_has_rendered_canonical_pages_with_true_dates(self):
         build(self.root)
         tree = ET.parse(self.root / "public" / "sitemap.xml")

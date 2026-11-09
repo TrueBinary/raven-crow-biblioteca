@@ -267,8 +267,48 @@ def build(root: Path, today: date | None = None) -> dict:
                        "</url>")
     sitemap.append("</urlset>")
     _write_if_changed(pub / "sitemap.xml", "\n".join(sitemap) + "\n")
+    column_count = _write_column_sitemap(pub, entries, essays)
     news_count = _write_news_sitemap(pub, recent_news, today)
-    return {"sitemap_urls": len(entries), "news": len(linked_news), "essays": len(essays), "news_sitemap": news_count}
+    return {"sitemap_urls": len(entries), "news": len(linked_news), "essays": len(essays),
+            "column_sitemap": column_count, "news_sitemap": news_count}
+
+
+def _write_column_sitemap(pub: Path, entries, essays):
+    columns = []
+    for url, modified in entries:
+        if url.startswith(BASE + "/coluna/"):
+            columns.append((url, modified))
+            continue
+        match = re.fullmatch(re.escape(BASE) + r"/(en|es)/coluna/([^/]+)/", url)
+        if not match:
+            continue
+        lang, slug = match.groups()
+        item = essays.get(slug)
+        translation = item.get(lang) if isinstance(item, dict) else None
+        if not isinstance(translation, dict):
+            continue
+        title = translation.get("title")
+        paragraphs = translation.get("paragraphs")
+        if (not isinstance(title, str) or not title.strip() or
+                not isinstance(paragraphs, list) or not paragraphs or
+                not all(isinstance(paragraph, str) and paragraph.strip()
+                        for paragraph in paragraphs)):
+            continue
+        page = pub / lang / "coluna" / slug / "index.html"
+        if _published(page, url):
+            columns.append((url, modified))
+    latest = max((modified for _, modified in columns if modified), default=None)
+    if any(url == BASE + "/coluna.html" for url, _ in entries):
+        columns.insert(0, (BASE + "/coluna.html", latest))
+    rows = ['<?xml version="1.0" encoding="UTF-8"?>',
+            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for url, modified in columns:
+        rows.append("  <url><loc>" + xml_escape(url) + "</loc>" +
+                    ("<lastmod>" + xml_escape(modified) + "</lastmod>" if modified else "") +
+                    "</url>")
+    rows.append("</urlset>")
+    _write_if_changed(pub / "sitemap-coluna.xml", "\n".join(rows) + "\n")
+    return len(columns)
 
 
 def _write_news_sitemap(pub: Path, items, today=None):
