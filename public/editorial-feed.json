@@ -1,6 +1,63 @@
 {
   "articles": [
     {
+      "id": "noruega-anuncia-350-milhoes-fundo-amazonia-2026-11-09",
+      "date": "2026-11-09",
+      "category": "MEIO AMBIENTE",
+      "title": "Noruega anuncia novo aporte de R$ 350 milhões ao Fundo Amazônia",
+      "subtitle": "Contribuição anunciada durante a COP31 reconhece redução do desmatamento; repasse segue mecanismo de pagamento por resultados.",
+      "facts": "A Noruega anunciou nesta segunda-feira, 9 de novembro de 2026, uma nova contribuição de aproximadamente R$ 350 milhões, equivalentes a 600 milhões de coroas norueguesas, ao Fundo Amazônia. A embaixada norueguesa em Brasília informou que o compromisso reconhece resultados do Brasil na redução do desmatamento. A ministra do Clima e Meio Ambiente da Noruega, Sigrun Aasland, destacou a importância da floresta para o clima e a biodiversidade. Segundo os dados Prodes/INPE citados pela embaixada, a área desmatada na Amazônia caiu 41,8% no período de 2024/2025, para 3.335 km², enquanto no Cerrado houve queda de 23,8%, para 5.516,7 km². A Noruega afirmou já ter contribuído com aproximadamente R$ 3,8 bilhões para o fundo desde sua criação. O anúncio coincide com a COP31, realizada em Antália, na Turquia. O Fundo Amazônia é gerido pelo BNDES e financia iniciativas de conservação, monitoramento e atividades sustentáveis.",
+      "analysis": "O anúncio reforça a importância dos mecanismos internacionais que remuneram resultados verificados de conservação florestal. O aporte não deve ser confundido com transferência imediata: a contribuição está vinculada à verificação final dos indicadores de desmatamento, conforme reportagem do UOL. A redução das áreas desmatadas é um indicador relevante, mas o desempenho de longo prazo também depende de fiscalização, regularização fundiária, proteção de comunidades e transparência no uso dos recursos. A gestão pelo BNDES e a avaliação dos projetos permitem acompanhar o destino dos investimentos.",
+      "counterpoint": "Os dados positivos não significam que o desmatamento, o garimpo ilegal ou os incêndios tenham desaparecido. A cifra anunciada é um compromisso de aporte e não deve ser apresentada como dinheiro já desembolsado. O pagamento depende da confirmação dos resultados, e o impacto efetivo requer acompanhamento dos projetos apoiados. A fotografia usada é de arquivo, de abril de 2011, e não mostra o anúncio de novembro de 2026.",
+      "sources": [
+        {
+          "name": "Reuters — Norway announces $64 million for Brazil's Amazon Fund (09/11/2026)",
+          "url": "https://www.reuters.com/business/environment/norway-announces-64-million-brazils-amazon-fund-after-record-deforestation-2026-11-09/"
+        },
+        {
+          "name": "UOL / Estadão — Noruega anuncia aporte de R$ 350 milhões (09/11/2026)",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/09/noruega-anuncia-aporte-de-r-350-milhoes-ao-fundo-amazonia.amp.htm"
+        },
+        {
+          "name": "UOL — Noruega anuncia novo aporte de R$ 350 milhões ao Fundo Amazônia (09/11/2026)",
+          "url": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2026/11/09/noruega-anuncia-novo-aporte-de-r-350-milhoes-ao-fundo-amazonia.ghtm"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Brazilian_Amazon.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Neil Palmer / CIAT / Wikimedia Commons",
+          "license": "CC BY-SA 2.0 — https://creativecommons.org/licenses/by-sa/2.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Brazilian_Amazon.jpg",
+          "caption": "FOTO DE ARQUIVO (19/04/2011): vista aérea da floresta amazônica perto de Manaus, Amazonas. Não retrata o anúncio norueguês de 09/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Norway announces R$ 350 million contribution to Brazil's Amazon Fund",
+        "subtitle": "Announced during COP31, the contribution recognizes lower deforestation rates and is tied to verified results.",
+        "facts": "Norway announced on Monday, November 9, 2026, a new contribution of approximately R$ 350 million, equivalent to 600 million Norwegian kroner, to Brazil's Amazon Fund. Norway's embassy in Brasília said the pledge recognizes Brazil's progress in reducing deforestation. Norway's Climate and Environment Minister Sigrun Aasland emphasized the forest's importance for the climate and biodiversity. According to Prodes/INPE (Brazil's satellite deforestation monitoring program) figures cited by the embassy, Amazon deforestation fell 41.8% in the 2024/2025 monitoring period to 3,335 km², while deforestation in the Cerrado declined 23.8% to 5,516.7 km². Norway said it has already contributed about R$ 3.8 billion to the fund since its creation. The announcement coincides with COP31 in Antalya, Turkey. The Amazon Fund is managed by BNDES (Brazil's National Bank for Economic and Social Development) and finances conservation, monitoring and sustainable activities.",
+        "analysis": "The pledge highlights international financing mechanisms that reward independently verified forest conservation results. The announced amount should not be mistaken for an immediate transfer: the contribution is linked to final verification of deforestation indicators, according to UOL. Falling deforestation is an important measure, but lasting results also depend on enforcement, land governance, community protections and transparency over spending. BNDES management and project evaluations provide a basis for monitoring the investment.",
+        "counterpoint": "Improved indicators do not mean deforestation, illegal mining or forest fires have ended. The announcement is a funding pledge rather than confirmation that the money has been disbursed. Payment depends on verification, while its actual impact requires tracking supported projects. The accompanying photograph dates from April 2011 and does not show the November 2026 announcement.",
+        "category": "ENVIRONMENT",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (April 19, 2011): aerial view of the Amazon rainforest near Manaus, Amazonas, Brazil. Does not show Norway's announcement on November 9, 2026."
+        }
+      },
+      "es": {
+        "title": "Noruega anuncia un nuevo aporte de R$ 350 millones al Fondo Amazonía",
+        "subtitle": "La contribución, anunciada durante la COP31, reconoce la reducción de la deforestación y está vinculada a resultados verificados.",
+        "facts": "Noruega anunció este lunes 9 de noviembre de 2026 una nueva contribución de aproximadamente R$ 350 millones, equivalentes a 600 millones de coronas noruegas, al Fondo Amazonía de Brasil. La embajada noruega en Brasilia explicó que el compromiso reconoce los avances del país en la reducción de la deforestación. La ministra noruega de Clima y Medio Ambiente, Sigrun Aasland, destacó la importancia de la selva para el clima y la biodiversidad. Según los datos Prodes/INPE (programa brasileño de vigilancia satelital de la deforestación) citados por la embajada, la deforestación amazónica cayó un 41,8% durante el período 2024/2025, hasta 3.335 km², mientras que en el Cerrado disminuyó un 23,8%, hasta 5.516,7 km². Noruega afirmó haber aportado ya unos R$ 3.800 millones al fondo desde su creación. El anuncio coincide con la COP31, celebrada en Antalya, Turquía. El Fondo Amazonía está gestionado por el BNDES (Banco Nacional de Desarrollo Económico y Social de Brasil) y financia proyectos de conservación, vigilancia y actividades sostenibles.",
+        "analysis": "El anuncio refuerza la importancia de los mecanismos internacionales que recompensan resultados verificados de conservación forestal. El importe anunciado no equivale a una transferencia inmediata: la contribución está vinculada a la verificación final de los indicadores de deforestación, según UOL. La reducción de la superficie deforestada es relevante, pero los resultados duraderos también dependen de la fiscalización, la gobernanza territorial, la protección de las comunidades y la transparencia en el uso de los recursos. La gestión del BNDES y la evaluación de proyectos permiten seguir el destino de los fondos.",
+        "counterpoint": "Los indicadores positivos no significan que hayan desaparecido la deforestación, la minería ilegal ni los incendios forestales. La cifra anunciada es un compromiso de financiación, no la confirmación de un desembolso. El pago depende de la verificación y su impacto real requiere seguimiento. La fotografía de archivo es de abril de 2011 y no muestra el anuncio de noviembre de 2026.",
+        "category": "MEDIO AMBIENTE",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (19 de abril de 2011): vista aérea de la selva amazónica cerca de Manaus, Amazonas, Brasil. No muestra el anuncio de Noruega del 9 de noviembre de 2026."
+        }
+      }
+    },
+    {
       "id": "papa-leao-xiv-missa-buenos-aires-multidao-2026-11-09",
       "date": "2026-11-09",
       "category": "MUNDO",
