@@ -3,6 +3,76 @@
   "updatedAt": "2026-11-09",
   "essays": [
     {
+      "id": "quando-o-trabalho-engole-o-domingo-2026-11-09",
+      "section": "Fé e família",
+      "date": "2026-11-09",
+      "title": "O domingo não é um defeito na planilha",
+      "subtitle": "A religião do expediente permanente esqueceu que trabalhar é uma parte da vida — e não a certidão de propriedade sobre ela.",
+      "eyebrow": "OPINIÃO",
+      "paragraphs": [
+        "Há uma espécie de orgulho moderno que se mede pela quantidade de domingos sacrificados. O sujeito passa a semana inteira correndo, chega ao sábado exausto e, no domingo, abre o celular para conferir se alguém teve a audácia de continuar trabalhando sem ele. Se descansa, sente culpa. Se trabalha, anuncia a façanha. A agenda virou um pequeno tribunal moral: quem tem uma hora livre precisa apresentar justificativa, duas testemunhas e, de preferência, um atestado de produtividade.",
+        "Não tenho nada contra o trabalho. Muito pelo contrário: trabalhar é uma forma de servir, sustentar a casa, desenvolver talentos e construir alguma coisa que dure além da próxima notificação. João Paulo II, na encíclica Laborem Exercens, de 1981, insistiu na dignidade da pessoa que trabalha e numa inversão que vale a pena lembrar: o trabalho existe para o homem, não o homem para o trabalho. Essa distinção incomoda tanto o patrão que enxerga funcionários como peças substituíveis quanto o profissional que já não consegue se enxergar fora do próprio crachá.",
+        "A tradição católica não trata o domingo como uma terça-feira com menos reuniões. O Catecismo, nos parágrafos 2184 e 2185, liga o Dia do Senhor ao culto, ao repouso e ao tempo para a vida familiar, cultural, social e religiosa. Não é um convite à preguiça, muito menos a uma fuga permanente das responsabilidades. É o reconhecimento de que uma pessoa não cabe inteira numa planilha. Quem só sabe produzir pode acabar esquecendo para quem, afinal, está produzindo.",
+        "Imagine uma família reunida à mesa. O pai responde a uma mensagem de trabalho, a mãe tenta terminar uma tarefa, o filho assiste a um vídeo sobre como ficar rico antes dos vinte e a avó pergunta se alguém ainda quer café. Ninguém escuta. Todos estão ocupados demais administrando o futuro para perceber que o presente acabou de pedir licença e ir embora. Daqui a pouco o aplicativo oferece um pacote premium de convivência familiar: trinta minutos sem notificações, renovação automática e taxa de cancelamento da saudade.",
+        "Existe uma objeção séria, e ela merece respeito. Hospitais, transportes, serviços essenciais e muitas famílias que dependem de renda diária não podem simplesmente fechar as portas aos domingos. O próprio Catecismo admite necessidades familiares e razões de grande utilidade social como justificativas legítimas. Além disso, nem todo trabalhador tem autonomia para escolher sua escala. É justamente por isso que o descanso não deveria ser tratado como um luxo de quem pode pagar por ele, mas como um bem humano que organizações, comunidades e famílias precisam proteger na medida do possível.",
+        "Também seria um erro usar a religião para fiscalizar a consciência alheia. A defesa católica do domingo nasce de uma fé concreta na Ressurreição de Cristo, mas a crítica à vida transformada em expediente tem alcance maior. O pai que nunca encontra tempo para ouvir a filha, o empresário que não consegue jantar sem olhar o caixa e o estudante que se odeia por parar uma tarde não precisam primeiro concordar sobre teologia para reconhecer o problema. Há uma pobreza que não aparece no extrato bancário: a de possuir coisas e não ter tempo para estar com ninguém.",
+        "Meu caro leitor, trabalhe com dedicação. Estude, empreenda, faça o que precisa ser feito. Mas desconfie da voz que transforma cada minuto de descanso em pecado contra a eficiência. Vá à missa, se essa é a sua fé; sente-se à mesa; visite seus pais; ouça seus filhos; reze; contemple alguma coisa que não tenha botão de comprar. O domingo não é um defeito no calendário que a produtividade ainda não conseguiu corrigir. É um lembrete de que a vida é maior do que a fábrica, a repartição e a tela. E, se até a máquina precisa desligar para não queimar, talvez o homem não devesse precisar pedir desculpas por ser humano."
+      ],
+      "sources": [
+        {
+          "title": "Catecismo da Igreja Católica, §§ 2184–2185 — descanso dominical, vida familiar e exceções legítimas",
+          "url": "https://press.vatican.va/archive/cathechism_po/index_new/p3s2cap1_2083-2195_po.html"
+        },
+        {
+          "title": "João Paulo II, Laborem Exercens (14/09/1981), especialmente §§ 6, 9 e 19",
+          "url": "https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Easter_Vigil_Mass_by_the_catholic_church.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Bigcee007 / Wikimedia Commons",
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Easter_Vigil_Mass_by_the_catholic_church.jpg",
+          "caption": "FOTO DE ARQUIVO (04/04/2026), Nigéria: procissão da Vigília Pascal em celebração católica. Registro de uma celebração religiosa, não retrata acontecimento recente nem a rotina de trabalho no Brasil."
+        }
+      ],
+      "en": {
+        "title": "Sunday Is Not a Flaw in the Spreadsheet",
+        "subtitle": "The religion of endless work forgets that earning a living is part of life, not a deed of ownership over it.",
+        "eyebrow": "OPINION",
+        "section": "Faith and family",
+        "paragraphs": [
+          "Modern pride has found a peculiar unit of measurement: the number of Sundays sacrificed. Someone spends the week running, reaches Saturday exhausted, then checks a phone on Sunday to see whether anybody has dared to keep working without them. Rest produces guilt; work becomes a public achievement. The calendar has turned into a miniature moral court where an hour of free time requires a written explanation and preferably a productivity certificate.",
+          "I have nothing against work. Work can sustain a household, serve others, develop talents and build something lasting. In his 1981 encyclical Laborem Exercens, John Paul II emphasized the dignity of the working person and a vital distinction: work is for the human being, not the human being for work. That should unsettle both employers who regard staff as replaceable components and professionals who can no longer recognize themselves without their job titles.",
+          "Catholic tradition does not regard Sunday as a Tuesday with fewer meetings. Paragraphs 2184 and 2185 of the Catechism connect the Lord's Day with worship, rest and time for family, cultural, social and religious life. This is neither an invitation to laziness nor an escape from responsibility. It acknowledges that a human person cannot be contained in a spreadsheet. Someone who knows only how to produce may forget whom all that production was supposed to serve.",
+          "Picture a family at the table. The father answers a work message, the mother finishes a task, the son watches a video about becoming rich before twenty, and Grandma asks whether anyone wants more coffee. Nobody hears her. They are all too busy managing the future to notice the present quietly leaving the room. Soon an app will sell a premium family-time package: thirty notification-free minutes, automatic renewal and a cancellation fee for missing one another.",
+          "There is a serious objection. Hospitals, transportation, essential services and households dependent on daily income cannot simply shut down every Sunday. The Catechism itself recognizes family needs and important social services as legitimate exceptions. Nor can every worker choose their shifts. That is precisely why rest should not be dismissed as a luxury reserved for those who can afford it, but defended as a human good wherever employers, communities and families can make room for it.",
+          "Nor should faith become an excuse to police other people's consciences. The Catholic meaning of Sunday springs from belief in Christ's Resurrection, yet criticism of life reduced to office hours reaches further. A father who never listens to his daughter, a business owner who cannot dine without checking sales and a student who despises themselves for taking an afternoon off need not first agree on theology to see the problem. There is a kind of poverty no bank statement records: owning things while having no time to be with anyone.",
+          "Dear reader, work diligently. Study, build a business, do what must be done. But distrust the voice that treats every minute of rest as a sin against efficiency. Attend Mass if that is your faith; sit at the table; visit your parents; listen to your children; pray; contemplate something without a buy button. Sunday is not a flaw in the calendar that productivity has yet to fix. It reminds us that life is larger than the factory, the office and the screen. If even a machine must shut down to avoid burning out, perhaps a human being should not have to apologize for being human."
+        ],
+        "photo_caption": "ARCHIVE PHOTO (April 4, 2026), Nigeria: procession during a Catholic Easter Vigil Mass. This is an archival religious service photograph, not a recent event or a depiction of Brazilian working life."
+      },
+      "es": {
+        "title": "El domingo no es un defecto en la hoja de cálculo",
+        "subtitle": "La religión del trabajo interminable olvida que ganarse la vida es parte de vivir, no un título de propiedad sobre ella.",
+        "eyebrow": "OPINIÓN",
+        "section": "Fe y familia",
+        "paragraphs": [
+          "El orgullo moderno ha encontrado una curiosa unidad de medida: la cantidad de domingos sacrificados. Alguien pasa la semana corriendo, llega al sábado agotado y el domingo mira el móvil para comprobar si alguien se ha atrevido a seguir trabajando sin él. Si descansa, siente culpa; si trabaja, anuncia la hazaña. La agenda se ha convertido en un pequeño tribunal moral donde una hora libre exige una explicación por escrito y, de ser posible, un certificado de productividad.",
+          "No tengo nada contra el trabajo. Trabajar permite sostener el hogar, servir a los demás, desarrollar talentos y construir algo duradero. En su encíclica Laborem Exercens, de 1981, Juan Pablo II defendió la dignidad de quien trabaja y una distinción esencial: el trabajo está en función del hombre, no el hombre en función del trabajo. Debería incomodar tanto al empresario que considera reemplazables a sus empleados como al profesional que ya no se reconoce sin su cargo.",
+          "La tradición católica no considera el domingo un martes con menos reuniones. Los párrafos 2184 y 2185 del Catecismo vinculan el Día del Señor al culto, al descanso y al tiempo para la vida familiar, cultural, social y religiosa. No es una invitación a la pereza ni una huida de las responsabilidades. Es reconocer que una persona no cabe entera en una hoja de cálculo. Quien solo sabe producir puede olvidar para quién estaba produciendo.",
+          "Imaginemos una familia a la mesa. El padre responde un mensaje de trabajo, la madre termina una tarea, el hijo mira un vídeo sobre cómo hacerse rico antes de los veinte y la abuela pregunta si alguien quiere más café. Nadie escucha. Todos están demasiado ocupados administrando el futuro para advertir que el presente acaba de marcharse. Pronto una aplicación venderá un paquete prémium de convivencia familiar: treinta minutos sin notificaciones, renovación automática y penalización por echarse de menos.",
+          "Hay una objeción seria. Los hospitales, el transporte, los servicios esenciales y las familias que dependen de ingresos diarios no pueden cerrar todos los domingos. El propio Catecismo reconoce las necesidades familiares y los servicios de gran utilidad social como excepciones legítimas. Además, no todos los trabajadores pueden elegir sus turnos. Precisamente por eso el descanso no debería tratarse como un lujo de quien puede pagarlo, sino como un bien humano que empresas, comunidades y familias han de proteger cuando sea posible.",
+          "Tampoco sería correcto convertir la religión en un instrumento para vigilar las conciencias ajenas. El domingo católico nace de la fe en la Resurrección de Cristo, pero la crítica a una vida reducida al horario laboral llega más lejos. El padre que nunca escucha a su hija, el empresario que no puede cenar sin mirar las ventas y el estudiante que se desprecia por descansar una tarde no necesitan coincidir en teología para reconocer el problema. Existe una pobreza que no aparece en el extracto bancario: poseer cosas y no tener tiempo para estar con nadie.",
+          "Querido lector, trabaja con dedicación. Estudia, emprende, cumple tus obligaciones. Pero desconfía de la voz que convierte cada minuto de descanso en pecado contra la eficiencia. Ve a misa si esa es tu fe; siéntate a la mesa; visita a tus padres; escucha a tus hijos; reza; contempla algo que no tenga botón de comprar. El domingo no es un defecto del calendario que la productividad todavía no haya corregido. Nos recuerda que la vida es más grande que la fábrica, la oficina y la pantalla. Si hasta una máquina debe apagarse para no quemarse, quizá el ser humano no tendría que disculparse por ser humano."
+        ],
+        "photo_caption": "FOTO DE ARCHIVO (4 de abril de 2026), Nigeria: procesión durante una Vigilia Pascual católica. Es un registro religioso de archivo, no un hecho reciente ni una imagen de la vida laboral brasileña."
+      }
+    },
+    {
       "id": "o-rei-esta-nu-e-quer-cobrar-imposto-de-quem-olhou-2026-11-09",
       "section": "Filosofia e ideias",
       "date": "2026-11-09",
