@@ -1,6 +1,59 @@
 {
   "articles": [
     {
+      "id": "quaest-39-por-cento-esperam-piora-economia-2026-11-09",
+      "date": "2026-11-09",
+      "category": "ECONOMIA",
+      "title": "Quaest: 39% esperam piora da economia após reeleição de Lula; otimismo cai",
+      "subtitle": "Pesquisa divulgada em 8 de novembro mostra empate entre expectativas de melhora e piora, enquanto gastos, dívida pública e juros lideram as preocupações.",
+      "facts": "Pesquisa Quaest encomendada pelo jornal O Globo e divulgada em 8 de novembro de 2026 mostra que 39% dos entrevistados esperam melhora da economia brasileira nos próximos 12 meses e outros 39% preveem piora. Outros 19% acreditam que a situação ficará igual, e 3% não souberam responder. Em agosto, antes da eleição presidencial, 46% esperavam melhora e 24% previam piora. A pesquisa entrevistou presencialmente 2.004 eleitores com 16 anos ou mais entre 30 de outubro e 2 de novembro, com margem de erro de dois pontos percentuais. Entre os entrevistados, 48% disseram estar mais preocupados com o futuro do Brasil e 44% mais otimistas. Economia, gastos públicos, dívida e juros foram citados por 27% como a principal preocupação relacionada ao governo.",
+      "analysis": "A mudança nas expectativas indica uma deterioração da confiança sobre os próximos 12 meses, mas não constitui prova de que a economia efetivamente entrará em recessão. O empate de 39% entre otimistas e pessimistas contrasta com a vantagem de 22 pontos dos otimistas em agosto. A pesquisa mede percepções, influenciadas tanto pela situação econômica quanto por preferências políticas. O tema ganha relevância após o pronunciamento de Lula sobre juros e responsabilidade fiscal, no qual não foram detalhadas novas medidas. Para avaliar a trajetória real da economia, será necessário acompanhar inflação, emprego, renda, crédito e decisões fiscais.",
+      "counterpoint": "O levantamento também registra 39% que esperam melhora e 19% que projetam estabilidade. As expectativas variam conforme renda, região e preferência política, e a margem de erro deve ser considerada nas comparações. A pesquisa não permite atribuir toda a mudança de humor exclusivamente à reeleição, nem antecipar com certeza o desempenho econômico futuro.",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo — pesquisa Quaest, 09/11/2026",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/11/eleitores-citam-expectativa-de-piora-na-economia-apos-reeleicao-de-lula-diz-quaest.shtml"
+        },
+        {
+          "name": "UOL/Estadão — Quaest, 08/11/2026",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/08/apos-eleicao-48-aprovam-e-44-desaprovam-governo-lula-economia-e-principal-preocupacao.htm"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/07.09.26_-_Desfile_C%C3%ADvico-Militar_de_7_de_Setembro_-_55513102757.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Ricardo Stuckert/Lula Oficial — Wikimedia Commons",
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:07.09.26_-_Desfile_C%C3%ADvico-Militar_de_7_de_Setembro_-_55513102757.jpg",
+          "caption": "FOTO DE ARQUIVO (07/09/2026): presidente Lula durante desfile cívico-militar em Brasília. Imagem ilustrativa; não representa a pesquisa Quaest divulgada em 08/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Quaest poll: 39% expect Brazil's economy to worsen after Lula's reelection as optimism declines",
+        "subtitle": "Poll released on November 8 shows equal shares expecting improvement and deterioration, with public spending, debt and interest rates leading concerns.",
+        "facts": "A Quaest poll commissioned by O Globo and released on November 8, 2026, found that 39% of respondents expect Brazil's economy to improve over the next 12 months, while another 39% expect it to worsen. Nineteen percent expect no change and 3% did not answer. In August, before the presidential election, 46% expected improvement and 24% expected deterioration. Researchers interviewed 2,004 voters aged 16 or older in person from October 30 to November 2, with a two-percentage-point margin of error. Forty-eight percent said they were more worried about Brazil's future and 44% more optimistic. The economy, government spending, public debt and interest rates were the leading concern about the government for 27%.",
+        "analysis": "The shift points to weaker expectations for the coming year, but does not establish that the economy will enter a recession. The 39%-39% split contrasts with the 22-point lead held by optimists in August. Polling captures perceptions shaped by both economic conditions and political preferences. The findings follow Lula's remarks on interest rates and fiscal responsibility, which did not specify new measures. Inflation, employment, household income, credit and fiscal policy will offer more concrete evidence of economic performance.",
+        "counterpoint": "The same poll found that 39% anticipate improvement and 19% expect stability. Responses vary by income, region and political preference, and comparisons must account for sampling uncertainty. The poll cannot establish that reelection alone caused the change or predict future economic performance with certainty.",
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (September 7, 2026): President Lula at the civic-military parade in Brasília. Illustrative image; it does not depict the Quaest poll released on November 8, 2026."
+        }
+      },
+      "es": {
+        "title": "Quaest: el 39% espera un deterioro de la economía tras la reelección de Lula; cae el optimismo",
+        "subtitle": "La encuesta divulgada el 8 de noviembre muestra un empate entre quienes prevén mejora y empeoramiento; el gasto, la deuda y los intereses encabezan las preocupaciones.",
+        "facts": "Una encuesta de Quaest encargada por O Globo y divulgada el 8 de noviembre de 2026 muestra que el 39% espera una mejora de la economía brasileña en los próximos 12 meses y otro 39% prevé un empeoramiento. El 19% cree que seguirá igual y el 3% no respondió. En agosto, antes de las elecciones presidenciales, el 46% esperaba una mejora y el 24% un deterioro. Se entrevistó presencialmente a 2.004 electores de 16 años o más entre el 30 de octubre y el 2 de noviembre, con un margen de error de dos puntos porcentuales. El 48% dijo estar más preocupado por el futuro de Brasil y el 44% más optimista. La economía, el gasto público, la deuda y los tipos de interés fueron la principal preocupación sobre el gobierno para el 27%.",
+        "analysis": "El cambio revela un debilitamiento de las expectativas para el próximo año, pero no demuestra que la economía vaya a entrar en recesión. El empate del 39% contrasta con la ventaja de 22 puntos de los optimistas en agosto. La encuesta mide percepciones influidas tanto por las condiciones económicas como por las preferencias políticas. Los resultados llegan después de las declaraciones de Lula sobre los intereses y la responsabilidad fiscal, sin nuevas medidas detalladas. La inflación, el empleo, los ingresos, el crédito y la política fiscal permitirán evaluar la evolución real.",
+        "counterpoint": "El mismo estudio muestra que el 39% espera una mejora y el 19% estabilidad. Las respuestas varían según ingresos, región y preferencias políticas, y las comparaciones deben considerar el margen de error. La encuesta no permite atribuir todo el cambio exclusivamente a la reelección ni predecir con certeza el desempeño económico futuro.",
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (7 de septiembre de 2026): el presidente Lula en el desfile cívico-militar en Brasilia. Imagen ilustrativa; no representa la encuesta Quaest divulgada el 8 de noviembre de 2026."
+        }
+      }
+    },
+    {
       "id": "ataque-houthis-destrocos-atingem-torre-aramco-riade-2026-11-08",
       "date": "2026-11-08",
       "category": "MUNDO",
