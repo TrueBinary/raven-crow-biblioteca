@@ -1,6 +1,63 @@
 {
   "articles": [
     {
+      "id": "lula-pronunciamento-divida-juros-responsabilidade-fiscal-2026-11-08",
+      "date": "2026-11-08",
+      "category": "POLÍTICA",
+      "title": "Lula promete responsabilidade fiscal e queda dos juros em discurso, mas não apresenta medidas",
+      "subtitle": "Em primeiro pronunciamento na TV após a reeleição, presidente reconhece preocupação com a dívida pública e defende investimentos e programas sociais.",
+      "facts": "Em pronunciamento transmitido em rede nacional de rádio e televisão na noite de domingo, 8 de novembro de 2026, o presidente Luiz Inácio Lula da Silva afirmou estar preocupado com a trajetória da dívida pública e com os juros elevados. Reafirmou compromisso com a responsabilidade fiscal e disse que seu governo buscará criar condições para reduzir a taxa de juros, sem anunciar no discurso um pacote específico de contenção de despesas ou aumento de receitas. Também defendeu ampliar investimentos, inclusive em parceria com o setor privado, e preservar políticas sociais. Foi seu primeiro pronunciamento em cadeia nacional após a reeleição de 25 de outubro. A taxa Selic havia sido mantida em 13,75% ao ano pelo Banco Central em 4 de novembro. Reportagens publicadas na mesma noite por Folha de S.Paulo, UOL e R7 confirmam o conteúdo central do discurso.",
+      "analysis": "O discurso buscou conciliar dois objetivos que frequentemente entram em tensão: tranquilizar agentes econômicos sobre a sustentabilidade das contas públicas e manter compromissos de expansão de políticas sociais e investimentos. A promessa de criar condições para juros menores não equivale a uma decisão do Banco Central, que tem autonomia para definir a Selic segundo o cenário de inflação e expectativas. Sem metas operacionais, cronograma ou detalhamento das fontes de financiamento, a fala oferece uma orientação política, mas ainda não permite medir seu efeito fiscal. A atenção agora se volta às propostas que a equipe econômica poderá apresentar após a viagem presidencial à Turquia.",
+      "counterpoint": "A defesa da responsabilidade fiscal pode sinalizar disposição para controlar a dívida e reduzir incertezas, mas economistas e opositores podem cobrar números, instrumentos e prazos para avaliar a viabilidade das promessas. Já defensores da agenda social argumentam que cortes indiscriminados também trazem custos econômicos e sociais. O discurso, por si só, não prova que a dívida cairá nem que haverá redução dos juros; esses resultados dependerão das medidas efetivas, das decisões do Banco Central e das condições econômicas.",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo — 08/11/2026, 21h05",
+          "url": "https://www1.folha.uol.com.br/poder/2026/11/na-tv-lula-promete-responsabilidade-fiscal-manda-recado-a-flavio-e-cobra-judiciario-etico-e-isento.shtml"
+        },
+        {
+          "name": "UOL Notícias — 08/11/2026",
+          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/08/lual-pronunciamento-economia-novembro-2026.ghtm"
+        },
+        {
+          "name": "R7 — 08/11/2026, 20h52",
+          "url": "https://noticias.r7.com/brasilia/vamos-criar-as-condicoes-para-reduzir-a-taxa-de-juros-diz-lula-em-pronunciamento-08112026/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/07.09.26_-_Desfile_C%C3%ADvico-Militar_de_7_de_Setembro_-_55514001198.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Ricardo Stuckert / Lula Oficial / Wikimedia Commons",
+          "license": "CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:07.09.26_-_Desfile_C%C3%ADvico-Militar_de_7_de_Setembro_-_55514001198.jpg",
+          "caption": "FOTO DE ARQUIVO (07/09/2026): presidente Luiz Inácio Lula da Silva durante desfile cívico-militar em Brasília. Não retrata o pronunciamento de 08/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Lula pledges fiscal responsibility and lower interest rates but offers no concrete measures",
+        "subtitle": "In his first televised address since reelection, Brazil's president acknowledges concerns about public debt and defends investment and social programs.",
+        "facts": "In a nationally broadcast radio and television address on Sunday evening, November 8, 2026, President Luiz Inácio Lula da Silva said he was concerned about the trajectory of public debt and high interest rates. He reiterated his commitment to fiscal responsibility and said his government would seek to create conditions for lower interest rates, without unveiling a specific package of spending cuts or revenue measures. He also advocated expanding investment, including private-sector partnerships, while maintaining social policies. This was his first nationwide address since his October 25 reelection. Brazil's Central Bank had kept its benchmark Selic rate at 13.75% a year on November 4. Reports published that evening by Folha de S.Paulo, UOL and R7 corroborated the main points of the speech.",
+        "analysis": "The address attempted to reconcile two objectives that can pull in different directions: reassuring investors about the sustainability of public finances and maintaining commitments to social programs and investment. A pledge to create conditions for lower rates is not a decision by Brazil's independent Central Bank, which sets the Selic according to inflation conditions and expectations. Without operational targets, a timetable or financing details, the speech establishes a political direction but does not yet make its fiscal effects measurable. Attention now turns to proposals the economic team may present after the president's trip to Turkey.",
+        "counterpoint": "A commitment to fiscal discipline may signal willingness to contain debt and uncertainty, but economists and political opponents can reasonably demand figures, instruments and deadlines. Supporters of social spending argue that indiscriminate cuts also carry economic and social costs. The address alone does not establish that debt or interest rates will fall; outcomes depend on actual measures, Central Bank decisions and economic conditions.",
+        "category": "POLITICS",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (September 7, 2026): President Luiz Inácio Lula da Silva at a civic-military parade in Brasília. Not a photograph of the November 8 address."
+        }
+      },
+      "es": {
+        "title": "Lula promete responsabilidad fiscal y una bajada de los intereses, pero no anuncia medidas concretas",
+        "subtitle": "En su primer discurso televisado tras la reelección, el presidente de Brasil reconoce su preocupación por la deuda pública y defiende las inversiones y los programas sociales.",
+        "facts": "En un discurso transmitido por radio y televisión a escala nacional la noche del domingo 8 de noviembre de 2026, el presidente Luiz Inácio Lula da Silva afirmó que le preocupa la evolución de la deuda pública y los elevados tipos de interés. Reiteró su compromiso con la responsabilidad fiscal y aseguró que su gobierno procurará crear las condiciones para reducir los intereses, sin presentar un paquete concreto de recortes del gasto o medidas de recaudación. También defendió ampliar las inversiones, incluso mediante alianzas con el sector privado, y preservar las políticas sociales. Fue su primer mensaje nacional desde su reelección del 25 de octubre. El Banco Central de Brasil había mantenido la tasa Selic en el 13,75 % anual el 4 de noviembre. Folha de S.Paulo, UOL y R7 corroboraron los principales puntos del discurso en sus informaciones de esa noche.",
+        "analysis": "El discurso buscó conciliar dos objetivos que pueden entrar en tensión: tranquilizar a los mercados sobre la sostenibilidad de las finanzas públicas y mantener los compromisos de inversión y políticas sociales. Prometer condiciones para unos intereses menores no equivale a una decisión del Banco Central, que goza de autonomía para fijar la Selic según la inflación y las expectativas. Sin objetivos operativos, calendario ni detalles de financiación, el mensaje marca una orientación política, pero todavía no permite cuantificar sus efectos fiscales. La atención se dirige ahora a las propuestas que el equipo económico pueda presentar después del viaje presidencial a Turquía.",
+        "counterpoint": "La defensa de la disciplina fiscal puede indicar voluntad de contener la deuda y la incertidumbre, pero economistas y opositores pueden exigir cifras, instrumentos y plazos. Quienes apoyan el gasto social sostienen que los recortes indiscriminados también tienen costes económicos y sociales. El discurso por sí solo no demuestra que vayan a bajar la deuda ni los intereses; los resultados dependerán de las medidas adoptadas, las decisiones del Banco Central y las condiciones económicas.",
+        "category": "POLÍTICA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (7 de septiembre de 2026): el presidente Luiz Inácio Lula da Silva durante un desfile cívico-militar en Brasilia. No corresponde al discurso del 8 de noviembre."
+        }
+      }
+    },
+    {
       "id": "defesa-civil-esclarece-kit-emergencia-sem-alerta-nacional-2026-11-08",
       "date": "2026-11-08",
       "category": "BRASIL",
