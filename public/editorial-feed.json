@@ -1,6 +1,59 @@
 {
   "articles": [
     {
+      "id": "ataque-houthis-destrocos-atingem-torre-aramco-riade-2026-11-08",
+      "date": "2026-11-08",
+      "category": "MUNDO",
+      "title": "Ataque houthi é interceptado na Arábia Saudita; destroços atingem prédio da Aramco em Riad",
+      "subtitle": "Autoridades sauditas relatam danos em andares de edifício no distrito financeiro e dizem que não houve vítimas; rebeldes reivindicam ataque.",
+      "facts": "Neste domingo, 8 de novembro de 2026, as defesas aéreas da Arábia Saudita interceptaram mísseis lançados em direção a Riad e outras áreas do país, segundo autoridades sauditas. Destroços atingiram o edifício Aramco Tower, no distrito financeiro da capital, quebrando janelas e danificando vários andares. O Ministério da Energia saudita informou que os danos foram limitados e que não houve vítimas no local. Os rebeldes houthis do Iêmen reivindicaram a operação e a apresentaram como resposta a ataques sauditas no território iemenita. A coalizão liderada pela Arábia Saudita informou ter interceptado dois mísseis balísticos e dois de cruzeiro. Reuters e Associated Press relataram o incidente com base nas declarações das autoridades e dos envolvidos. A alegação houthi de ter atingido o aeroporto de Riad não foi confirmada pelas autoridades sauditas.",
+      "analysis": "O episódio amplia o risco de escalada regional e demonstra que, mesmo quando as defesas interceptam projéteis, fragmentos podem atingir edifícios civis e instalações econômicas. A Aramco é estratégica para o setor energético saudita, mas os relatos disponíveis não comprovam interrupção da produção de petróleo. A ofensiva ocorre em meio à intensificação do confronto entre forças sauditas e houthis no Iêmen e a tensões nas rotas comerciais do Oriente Médio. É importante separar o dano físico confirmado das reivindicações militares de cada lado.",
+      "counterpoint": "O governo saudita afirma que as defesas funcionaram e que não houve mortos ou feridos no edifício atingido. Os houthis dizem agir em retaliação a bombardeios no Iêmen, onde autoridades locais sob seu controle relatam dezenas de mortes; esses números e as circunstâncias dos ataques exigem verificação independente. A responsabilidade por cada impacto e a extensão dos danos não devem ser ampliadas além do que as fontes verificadas permitem concluir.",
+      "sources": [
+        {
+          "name": "Reuters — 8 de novembro de 2026",
+          "url": "https://www.reuters.com/world/middle-east/loud-booms-heard-saudi-capital-riyadh-after-early-warning-alert-issued-2026-11-08/"
+        },
+        {
+          "name": "Associated Press — 8 de novembro de 2026",
+          "url": "https://apnews.com/article/090d96e25872f5c63e105b9dd3e5dc60"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/King_Abdullah_Financial_District_170555.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Ahmed/Wikimedia Commons",
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:King_Abdullah_Financial_District_170555.jpg",
+          "caption": "FOTO DE ARQUIVO (14/06/2022): edifícios do distrito financeiro King Abdullah, em Riad. Imagem ilustrativa; não mostra o ataque de 08/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Houthi attack intercepted in Saudi Arabia as debris damages Aramco building in Riyadh",
+        "subtitle": "Saudi authorities report limited damage to a building in the financial district and no casualties; Houthi rebels claim responsibility.",
+        "facts": "On Sunday, November 8, 2026, Saudi air defenses intercepted missiles targeting Riyadh and other parts of the country, according to Saudi authorities. Falling debris struck the Aramco Tower in the capital's financial district, breaking windows and damaging several floors. Saudi Arabia's Energy Ministry said the damage was limited and no casualties were reported at the building. Yemen's Houthi rebels claimed responsibility, saying the operation was retaliation for Saudi strikes in Yemen. The Saudi-led coalition said it intercepted two ballistic missiles and two cruise missiles. Reuters and the Associated Press reported the incident, citing statements from the authorities and parties involved. A Houthi claim that Riyadh airport had been targeted was not confirmed by Saudi officials.",
+        "analysis": "The incident highlights the risk of regional escalation and the possibility that debris from intercepted projectiles can still damage civilian buildings and economic infrastructure. Aramco is central to Saudi Arabia's energy industry, but available reports do not establish any interruption to oil production. The attack comes amid intensified Saudi-Houthi confrontation in Yemen and wider tensions affecting Middle Eastern trade routes. Confirmed physical damage must be distinguished from each side's military claims.",
+        "counterpoint": "Saudi authorities say their defenses worked and no one was killed or injured at the affected building. The Houthis describe the operation as retaliation for strikes in Yemen, where Houthi-run authorities report dozens of deaths; those figures and the circumstances require independent verification. Responsibility for individual impacts and the extent of damage should not be overstated.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (June 14, 2022): buildings in Riyadh's King Abdullah Financial District. Illustrative image; it does not show the November 8, 2026 attack."
+        }
+      },
+      "es": {
+        "title": "Interceptan ataque hutí en Arabia Saudita; restos de misiles dañan edificio de Aramco en Riad",
+        "subtitle": "Las autoridades saudíes informan daños limitados en un edificio del distrito financiero y ninguna víctima; los hutíes reivindican la operación.",
+        "facts": "El domingo 8 de noviembre de 2026, las defensas aéreas saudíes interceptaron misiles dirigidos contra Riad y otras zonas del país, según las autoridades. Los restos de los proyectiles alcanzaron la torre Aramco, en el distrito financiero de la capital, rompieron ventanas y dañaron varios pisos. El Ministerio de Energía saudí afirmó que los daños fueron limitados y que no hubo víctimas en el edificio. Los rebeldes hutíes de Yemen reivindicaron el ataque y dijeron que respondía a bombardeos saudíes en Yemen. La coalición encabezada por Arabia Saudita informó de la interceptación de dos misiles balísticos y dos misiles de crucero. Reuters y Associated Press informaron del incidente a partir de declaraciones de las autoridades y las partes implicadas. La afirmación hutí de que el aeropuerto de Riad había sido atacado no fue confirmada por las autoridades saudíes.",
+        "analysis": "El episodio eleva el riesgo de una escalada regional y demuestra que los restos de proyectiles interceptados pueden causar daños en edificios civiles e infraestructura económica. Aramco es estratégica para el sector energético saudí, pero las informaciones disponibles no confirman una interrupción de la producción petrolera. El ataque se produce en medio de la intensificación del enfrentamiento entre Arabia Saudita y los hutíes en Yemen y de tensiones en las rutas comerciales de Oriente Medio. Es esencial distinguir los daños confirmados de las reivindicaciones militares.",
+        "counterpoint": "Las autoridades saudíes sostienen que sus defensas funcionaron y que no hubo muertos ni heridos en el edificio afectado. Los hutíes afirman que actuaron en represalia por bombardeos en Yemen, donde autoridades bajo su control denuncian decenas de fallecidos; esas cifras y circunstancias requieren verificación independiente. No deben exagerarse las responsabilidades ni el alcance de los daños.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (14 de junio de 2022): edificios del distrito financiero King Abdullah, en Riad. Imagen ilustrativa; no muestra el ataque del 8 de noviembre de 2026."
+        }
+      }
+    },
+    {
       "id": "pf-investiga-ameacas-deputada-eleita-ana-elisa-2026-11-08",
       "date": "2026-11-08",
       "category": "JUSTIÇA",
