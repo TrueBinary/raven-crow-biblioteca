@@ -2,9 +2,66 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "09/11/2026",
-  "updatedAt": "2026-11-09T16:04:25-03:00",
+  "updatedAt": "2026-11-09T17:05:06-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "china-prorroga-suspensao-controles-terras-raras-2026-11-09",
+      "date": "2026-11-09",
+      "category": "ECONOMIA",
+      "title": "China prorroga até janeiro suspensão de controles sobre terras raras",
+      "subtitle": "Pequim estendeu por dois meses a pausa em restrições comerciais que venceriam em novembro, em meio às negociações com os Estados Unidos.",
+      "facts": "O Ministério do Comércio da China anunciou nesta segunda-feira, 9 de novembro de 2026, a prorrogação por dois meses da suspensão de medidas de controle de exportações relacionadas a terras raras e outros insumos estratégicos. Segundo a Reuters e a Folha de S.Paulo, a nova data de término da suspensão é 10 de janeiro de 2027. As medidas, anunciadas em outubro de 2025, incluem regras para determinados minerais, equipamentos e tecnologias ligados ao processamento de terras raras, além de materiais para baterias de lítio e diamantes industriais. Parte das restrições havia sido suspensa após entendimentos comerciais entre Pequim e Washington. A decisão foi comunicada às vésperas do vencimento da pausa anterior, previsto para 10 de novembro de 2026. O anúncio integra uma extensão mais ampla de medidas comerciais suspensas entre os dois países.",
+      "analysis": "A decisão reduz o risco imediato de novas restrições para fabricantes que dependem de cadeias de suprimento chinesas de minerais críticos, como produtores de veículos elétricos, eletrônicos e equipamentos industriais. Isso não significa que todos os controles chineses sobre exportações tenham sido revogados. O prazo adicional oferece espaço para negociações comerciais com os Estados Unidos, mas também mantém a incerteza sobre o que acontecerá depois de janeiro. A concentração de etapas de processamento de terras raras na China continua sendo um ponto sensível para governos e empresas que procuram diversificar fornecedores.",
+      "counterpoint": "A prorrogação não equivale a um acordo comercial definitivo, nem garante que os controles não voltarão a ser aplicados após 10 de janeiro de 2027. A Reuters relatou que o comunicado do Ministério do Comércio não detalhou condições adicionais. A fotografia de arquivo desta notícia mostra uma mina chinesa em imagem histórica de satélite e não representa a decisão anunciada nesta segunda-feira.",
+      "sources": [
+        {
+          "name": "Reuters — China extends suspension of new rare earth controls until January (09/11/2026)",
+          "url": "https://www.reuters.com/world/china/china-extends-suspension-new-rare-earth-controls-until-january-2026-11-09/"
+        },
+        {
+          "name": "Folha de S.Paulo — China prorroga trégua comercial com os EUA por mais dois meses (09/11/2026)",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/11/china-prorroga-tregua-comercial-com-os-eua-por-mais-dois-meses.shtml"
+        },
+        {
+          "name": "China Sourcing Post — China formalises suspension of rare earth and lithium battery export controls (09/11/2026)",
+          "url": "https://chinasourcingpost.com/en/news/china-formalises-suspension-rare-earth-lithium-battery-graphite-export-controls-until-10-january-2027/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/RE_mine_in_Baiyun_Ebo%2C_Inner_Mongolia.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "NASA / ASTER / Wikimedia Commons",
+          "license": "Domínio público — obra da NASA (governo federal dos EUA)",
+          "source_article": "https://commons.wikimedia.org/wiki/File:RE_mine_in_Baiyun_Ebo,_Inner_Mongolia.jpg",
+          "caption": "FOTO DE ARQUIVO (imagem histórica de satélite): mina de terras raras em Bayan Obo, Mongólia Interior, China. Imagem ilustrativa; não retrata o anúncio de 9 de novembro de 2026."
+        }
+      ],
+      "en": {
+        "title": "China extends suspension of rare-earth export controls until January",
+        "subtitle": "Beijing has prolonged by two months a pause in trade restrictions due to expire in November amid talks with the United States.",
+        "facts": "China's Ministry of Commerce announced on Monday, November 9, 2026, a two-month extension of its suspension of export-control measures covering rare earths and other strategic materials. Reuters and Folha de S.Paulo reported that the suspension will now run until January 10, 2027. The measures, announced in October 2025, cover selected minerals, rare-earth processing equipment and technology, as well as materials for lithium batteries and industrial diamonds. Some restrictions had previously been suspended following trade understandings between Beijing and Washington. The latest announcement came just before the previous pause was due to expire on November 10, 2026. It forms part of a broader extension of suspended trade measures between the two countries.",
+        "analysis": "The move lowers the immediate risk of renewed restrictions for manufacturers relying on Chinese critical-mineral supply chains, including electric-vehicle, electronics and industrial-equipment producers. It does not mean China has removed all export controls. The extension gives Beijing and Washington more time to negotiate while leaving uncertainty about what happens after January. China's central role in rare-earth processing remains a concern for governments and businesses seeking to diversify suppliers.",
+        "counterpoint": "The extension is not a final trade agreement and does not guarantee the controls will remain suspended after January 10, 2027. Reuters reported that the ministry's announcement offered no additional details. The accompanying historical satellite photograph shows a mine in China, not the November 9 policy announcement.",
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (historical satellite image): rare-earth mine at Bayan Obo, Inner Mongolia, China. Illustrative image; it does not show the November 9, 2026 announcement."
+        }
+      },
+      "es": {
+        "title": "China prolonga hasta enero la suspensión de controles a las exportaciones de tierras raras",
+        "subtitle": "Pekín amplía dos meses la pausa de restricciones comerciales que vencían en noviembre, en medio de las negociaciones con Estados Unidos.",
+        "facts": "El Ministerio de Comercio de China anunció el lunes 9 de noviembre de 2026 una prórroga de dos meses de la suspensión de controles a la exportación de tierras raras y otros materiales estratégicos. Reuters y Folha de S.Paulo informaron que la nueva fecha de vencimiento es el 10 de enero de 2027. Las medidas, anunciadas en octubre de 2025, abarcan determinados minerales, equipos y tecnologías para procesar tierras raras, además de materiales para baterías de litio y diamantes industriales. Algunas restricciones se habían suspendido tras entendimientos comerciales entre Pekín y Washington. El anuncio llegó antes del vencimiento de la pausa anterior, previsto para el 10 de noviembre de 2026. La decisión forma parte de una prórroga más amplia de medidas comerciales suspendidas entre ambos países.",
+        "analysis": "La medida reduce el riesgo inmediato de nuevas restricciones para fabricantes que dependen de las cadenas chinas de suministro de minerales críticos, como los productores de vehículos eléctricos, dispositivos electrónicos y equipos industriales. No significa que China haya eliminado todos sus controles a la exportación. El plazo adicional permite continuar las negociaciones con Estados Unidos, aunque persiste la incertidumbre sobre lo que sucederá después de enero. El papel central de China en el procesamiento de tierras raras sigue preocupando a gobiernos y empresas que buscan diversificar proveedores.",
+        "counterpoint": "La prórroga no constituye un acuerdo comercial definitivo ni garantiza que los controles sigan suspendidos después del 10 de enero de 2027. Reuters señaló que el comunicado ministerial no ofreció detalles adicionales. La imagen histórica de satélite muestra una mina china y no representa el anuncio del 9 de noviembre.",
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (imagen histórica de satélite): mina de tierras raras en Bayan Obo, Mongolia Interior, China. Imagen ilustrativa; no muestra el anuncio del 9 de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "pgr-pede-arquivamento-inquerito-fake-news-stf-2026-11-09",
       "date": "2026-11-09",
