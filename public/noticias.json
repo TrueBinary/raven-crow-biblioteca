@@ -2,9 +2,62 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "09/11/2026",
-  "updatedAt": "2026-11-09T12:07:34-03:00",
+  "updatedAt": "2026-11-09T12:57:22-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "papa-leao-xiv-missa-buenos-aires-multidao-2026-11-09",
+      "date": "2026-11-09",
+      "category": "MUNDO",
+      "title": "Papa Leão XIV reúne multidão em missa em Buenos Aires e defende atenção aos mais vulneráveis",
+      "subtitle": "Autoridades estimam público de até 1,5 milhão na capital argentina; pontífice também visitou instituição para pessoas com deficiência.",
+      "facts": "O papa Leão XIV celebrou nesta segunda-feira, 9 de novembro de 2026, uma missa ao ar livre em Buenos Aires, Argentina, diante de uma multidão estimada pelas autoridades locais em até 1,5 milhão de pessoas. A estimativa é oficial e não representa contagem independente. A celebração marcou a primeira visita papal à Argentina desde 1987, segundo a Reuters. O presidente Javier Milei acompanhou a missa. Mais cedo, Leão XIV visitou o Cottolengo Don Orione, instituição que acolhe mais de 400 pessoas com deficiência, e destacou a importância da dignidade humana e da atenção às pessoas vulneráveis. A Associated Press informou que a instituição enfrenta dificuldades financeiras em meio aos cortes de gastos públicos. O pontífice também falou sobre os desafios das famílias, a instabilidade econômica e a violência, em uma viagem que inclui Uruguai, Argentina e Peru.",
+      "analysis": "A visita combina mobilização religiosa e posicionamentos sociais. A participação expressiva na missa demonstra a capacidade de mobilização da Igreja Católica na região, embora não seja, por si só, indicador de mudança duradoura na filiação religiosa. A passagem por uma instituição de acolhimento deslocou parte da atenção para o impacto das decisões econômicas sobre serviços assistenciais e pessoas com deficiência. O recado público do papa reforça a dimensão social de sua agenda, enquanto o governo argentino enfrenta debates sobre austeridade e financiamento de cuidados.",
+      "counterpoint": "A estimativa de até 1,5 milhão de participantes foi atribuída a autoridades e não foi auditada independentemente. A discussão sobre cortes e financiamento envolve escolhas orçamentárias contestadas e não permite concluir, apenas com a visita, quais políticas produzirão melhores resultados. A fotografia de arquivo utilizada nesta notícia mostra Leão XIV no Vaticano em outubro de 2025, não a missa de Buenos Aires em novembro de 2026.",
+      "sources": [
+        {
+          "name": "Reuters — Vast crowds fill Buenos Aires as Pope Leo hails strength of South American Church (09/11/2026)",
+          "url": "https://www.reuters.com/world/americas/huge-crowds-gather-buenos-aires-pope-leos-outdoor-mass-2026-11-09/"
+        },
+        {
+          "name": "Associated Press — Pope visits care home in Argentina for people with disabilities to press economic message (09/11/2026)",
+          "url": "https://apnews.com/article/2ad4ba74d0cff90fb49569df400ac582"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Leo_XIV_%2813_October_2025%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Ricardo Stuckert / PR / Wikimedia Commons",
+          "license": "CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Leo_XIV_(13_October_2025).jpg",
+          "caption": "FOTO DE ARQUIVO (13/10/2025): papa Leão XIV durante audiência no Vaticano. Não retrata a missa de 09/11/2026 em Buenos Aires."
+        }
+      ],
+      "en": {
+        "title": "Pope Leo XIV draws huge crowd to Buenos Aires Mass and urges care for vulnerable people",
+        "subtitle": "Local officials estimated up to 1.5 million attendees in Argentina's capital; the pope also visited a disability care center.",
+        "facts": "Pope Leo XIV celebrated an outdoor Mass in Buenos Aires, Argentina, on Monday, November 9, 2026, before a crowd that local officials estimated at up to 1.5 million. This is an official estimate, not an independently verified count. According to Reuters, the occasion marked the first papal visit to Argentina since 1987. President Javier Milei attended the Mass. Earlier, Leo XIV visited Cottolengo Don Orione, a home serving more than 400 people with disabilities, and stressed human dignity and care for vulnerable people. The Associated Press reported that the institution has faced financial pressure amid public spending cuts. The pope also addressed families' struggles, economic uncertainty and violence during a trip covering Uruguay, Argentina and Peru.",
+        "analysis": "The visit brought together religious mobilization and a social message. The size of the Mass demonstrates the Catholic Church's ability to draw crowds in the region, but it does not independently establish a lasting change in religious affiliation. The visit to a care facility drew attention to the effects of budget decisions on social services and people with disabilities. The pope's message underscores the social dimension of his agenda as Argentina debates austerity and care funding.",
+        "counterpoint": "The estimate of up to 1.5 million attendees came from authorities and has not been independently audited. Debates over spending cuts and care funding involve contested budget choices; the visit alone cannot establish which policies will work best. The archival photograph accompanying this report shows Leo XIV at the Vatican in October 2025, not the November 2026 Mass in Buenos Aires.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (October 13, 2025): Pope Leo XIV at an audience in the Vatican. This does not depict the November 9, 2026 Mass in Buenos Aires."
+        }
+      },
+      "es": {
+        "title": "El papa León XIV congrega a una multitud en Buenos Aires y pide atender a los más vulnerables",
+        "subtitle": "Las autoridades estimaron hasta 1,5 millones de asistentes en la capital argentina; el pontífice también visitó un centro para personas con discapacidad.",
+        "facts": "El papa León XIV celebró una misa al aire libre en Buenos Aires, Argentina, el lunes 9 de noviembre de 2026, ante una multitud estimada por las autoridades locales en hasta 1,5 millones de personas. Se trata de una estimación oficial, no de un recuento verificado de manera independiente. Según Reuters, fue la primera visita papal a Argentina desde 1987. El presidente Javier Milei asistió a la misa. Antes, León XIV visitó Cottolengo Don Orione, una institución que atiende a más de 400 personas con discapacidad, y destacó la dignidad humana y la atención a las personas vulnerables. Associated Press informó que el centro afronta dificultades financieras en medio de recortes del gasto público. El pontífice también habló de las dificultades de las familias, la incertidumbre económica y la violencia durante una gira que incluye Uruguay, Argentina y Perú.",
+        "analysis": "La visita combinó movilización religiosa y un mensaje social. La gran asistencia a la misa demuestra la capacidad de convocatoria de la Iglesia católica en la región, pero no permite deducir por sí sola un cambio duradero en la afiliación religiosa. La visita al centro asistencial puso el foco en las consecuencias de las decisiones presupuestarias para los servicios sociales y las personas con discapacidad. El mensaje del papa subraya la dimensión social de su agenda mientras Argentina debate la austeridad y la financiación de los cuidados.",
+        "counterpoint": "La cifra de hasta 1,5 millones de asistentes procede de las autoridades y no ha sido auditada de manera independiente. Los debates sobre recortes y financiación de cuidados incluyen decisiones presupuestarias controvertidas; la visita no determina por sí sola qué políticas serán más eficaces. La fotografía de archivo muestra a León XIV en el Vaticano en octubre de 2025, no la misa de Buenos Aires de noviembre de 2026.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (13 de octubre de 2025): el papa León XIV durante una audiencia en el Vaticano. No muestra la misa del 9 de noviembre de 2026 en Buenos Aires."
+        }
+      }
+    },
     {
       "id": "norris-vence-gp-sao-paulo-mercedes-campea-construtores-2026-11-09",
       "date": "2026-11-09",
