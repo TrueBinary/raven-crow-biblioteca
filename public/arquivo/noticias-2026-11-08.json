@@ -1,0 +1,857 @@
+{
+  "schemaVersion": 1,
+  "editorial": "O Corvo Investigador",
+  "edition": "08/11/2026",
+  "updatedAt": "2026-11-09T01:02:31-03:00",
+  "tz": "America/Sao_Paulo",
+  "articles": [
+    {
+      "id": "quaest-39-por-cento-esperam-piora-economia-2026-11-09",
+      "date": "2026-11-09",
+      "category": "ECONOMIA",
+      "title": "Quaest: 39% esperam piora da economia após reeleição de Lula; otimismo cai",
+      "subtitle": "Pesquisa divulgada em 8 de novembro mostra empate entre expectativas de melhora e piora, enquanto gastos, dívida pública e juros lideram as preocupações.",
+      "facts": "Pesquisa Quaest encomendada pelo jornal O Globo e divulgada em 8 de novembro de 2026 mostra que 39% dos entrevistados esperam melhora da economia brasileira nos próximos 12 meses e outros 39% preveem piora. Outros 19% acreditam que a situação ficará igual, e 3% não souberam responder. Em agosto, antes da eleição presidencial, 46% esperavam melhora e 24% previam piora. A pesquisa entrevistou presencialmente 2.004 eleitores com 16 anos ou mais entre 30 de outubro e 2 de novembro, com margem de erro de dois pontos percentuais. Entre os entrevistados, 48% disseram estar mais preocupados com o futuro do Brasil e 44% mais otimistas. Economia, gastos públicos, dívida e juros foram citados por 27% como a principal preocupação relacionada ao governo.",
+      "analysis": "A mudança nas expectativas indica uma deterioração da confiança sobre os próximos 12 meses, mas não constitui prova de que a economia efetivamente entrará em recessão. O empate de 39% entre otimistas e pessimistas contrasta com a vantagem de 22 pontos dos otimistas em agosto. A pesquisa mede percepções, influenciadas tanto pela situação econômica quanto por preferências políticas. O tema ganha relevância após o pronunciamento de Lula sobre juros e responsabilidade fiscal, no qual não foram detalhadas novas medidas. Para avaliar a trajetória real da economia, será necessário acompanhar inflação, emprego, renda, crédito e decisões fiscais.",
+      "counterpoint": "O levantamento também registra 39% que esperam melhora e 19% que projetam estabilidade. As expectativas variam conforme renda, região e preferência política, e a margem de erro deve ser considerada nas comparações. A pesquisa não permite atribuir toda a mudança de humor exclusivamente à reeleição, nem antecipar com certeza o desempenho econômico futuro.",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo — pesquisa Quaest, 09/11/2026",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/11/eleitores-citam-expectativa-de-piora-na-economia-apos-reeleicao-de-lula-diz-quaest.shtml"
+        },
+        {
+          "name": "UOL/Estadão — Quaest, 08/11/2026",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/08/apos-eleicao-48-aprovam-e-44-desaprovam-governo-lula-economia-e-principal-preocupacao.htm"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/07.09.26_-_Desfile_C%C3%ADvico-Militar_de_7_de_Setembro_-_55513102757.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Ricardo Stuckert/Lula Oficial — Wikimedia Commons",
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:07.09.26_-_Desfile_C%C3%ADvico-Militar_de_7_de_Setembro_-_55513102757.jpg",
+          "caption": "FOTO DE ARQUIVO (07/09/2026): presidente Lula durante desfile cívico-militar em Brasília. Imagem ilustrativa; não representa a pesquisa Quaest divulgada em 08/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Quaest poll: 39% expect Brazil's economy to worsen after Lula's reelection as optimism declines",
+        "subtitle": "Poll released on November 8 shows equal shares expecting improvement and deterioration, with public spending, debt and interest rates leading concerns.",
+        "facts": "A Quaest poll commissioned by O Globo and released on November 8, 2026, found that 39% of respondents expect Brazil's economy to improve over the next 12 months, while another 39% expect it to worsen. Nineteen percent expect no change and 3% did not answer. In August, before the presidential election, 46% expected improvement and 24% expected deterioration. Researchers interviewed 2,004 voters aged 16 or older in person from October 30 to November 2, with a two-percentage-point margin of error. Forty-eight percent said they were more worried about Brazil's future and 44% more optimistic. The economy, government spending, public debt and interest rates were the leading concern about the government for 27%.",
+        "analysis": "The shift points to weaker expectations for the coming year, but does not establish that the economy will enter a recession. The 39%-39% split contrasts with the 22-point lead held by optimists in August. Polling captures perceptions shaped by both economic conditions and political preferences. The findings follow Lula's remarks on interest rates and fiscal responsibility, which did not specify new measures. Inflation, employment, household income, credit and fiscal policy will offer more concrete evidence of economic performance.",
+        "counterpoint": "The same poll found that 39% anticipate improvement and 19% expect stability. Responses vary by income, region and political preference, and comparisons must account for sampling uncertainty. The poll cannot establish that reelection alone caused the change or predict future economic performance with certainty.",
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (September 7, 2026): President Lula at the civic-military parade in Brasília. Illustrative image; it does not depict the Quaest poll released on November 8, 2026."
+        }
+      },
+      "es": {
+        "title": "Quaest: el 39% espera un deterioro de la economía tras la reelección de Lula; cae el optimismo",
+        "subtitle": "La encuesta divulgada el 8 de noviembre muestra un empate entre quienes prevén mejora y empeoramiento; el gasto, la deuda y los intereses encabezan las preocupaciones.",
+        "facts": "Una encuesta de Quaest encargada por O Globo y divulgada el 8 de noviembre de 2026 muestra que el 39% espera una mejora de la economía brasileña en los próximos 12 meses y otro 39% prevé un empeoramiento. El 19% cree que seguirá igual y el 3% no respondió. En agosto, antes de las elecciones presidenciales, el 46% esperaba una mejora y el 24% un deterioro. Se entrevistó presencialmente a 2.004 electores de 16 años o más entre el 30 de octubre y el 2 de noviembre, con un margen de error de dos puntos porcentuales. El 48% dijo estar más preocupado por el futuro de Brasil y el 44% más optimista. La economía, el gasto público, la deuda y los tipos de interés fueron la principal preocupación sobre el gobierno para el 27%.",
+        "analysis": "El cambio revela un debilitamiento de las expectativas para el próximo año, pero no demuestra que la economía vaya a entrar en recesión. El empate del 39% contrasta con la ventaja de 22 puntos de los optimistas en agosto. La encuesta mide percepciones influidas tanto por las condiciones económicas como por las preferencias políticas. Los resultados llegan después de las declaraciones de Lula sobre los intereses y la responsabilidad fiscal, sin nuevas medidas detalladas. La inflación, el empleo, los ingresos, el crédito y la política fiscal permitirán evaluar la evolución real.",
+        "counterpoint": "El mismo estudio muestra que el 39% espera una mejora y el 19% estabilidad. Las respuestas varían según ingresos, región y preferencias políticas, y las comparaciones deben considerar el margen de error. La encuesta no permite atribuir todo el cambio exclusivamente a la reelección ni predecir con certeza el desempeño económico futuro.",
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (7 de septiembre de 2026): el presidente Lula en el desfile cívico-militar en Brasilia. Imagen ilustrativa; no representa la encuesta Quaest divulgada el 8 de noviembre de 2026."
+        }
+      }
+    },
+    {
+      "id": "ataque-houthis-destrocos-atingem-torre-aramco-riade-2026-11-08",
+      "date": "2026-11-08",
+      "category": "MUNDO",
+      "title": "Ataque houthi é interceptado na Arábia Saudita; destroços atingem prédio da Aramco em Riad",
+      "subtitle": "Autoridades sauditas relatam danos em andares de edifício no distrito financeiro e dizem que não houve vítimas; rebeldes reivindicam ataque.",
+      "facts": "Neste domingo, 8 de novembro de 2026, as defesas aéreas da Arábia Saudita interceptaram mísseis lançados em direção a Riad e outras áreas do país, segundo autoridades sauditas. Destroços atingiram o edifício Aramco Tower, no distrito financeiro da capital, quebrando janelas e danificando vários andares. O Ministério da Energia saudita informou que os danos foram limitados e que não houve vítimas no local. Os rebeldes houthis do Iêmen reivindicaram a operação e a apresentaram como resposta a ataques sauditas no território iemenita. A coalizão liderada pela Arábia Saudita informou ter interceptado dois mísseis balísticos e dois de cruzeiro. Reuters e Associated Press relataram o incidente com base nas declarações das autoridades e dos envolvidos. A alegação houthi de ter atingido o aeroporto de Riad não foi confirmada pelas autoridades sauditas.",
+      "analysis": "O episódio amplia o risco de escalada regional e demonstra que, mesmo quando as defesas interceptam projéteis, fragmentos podem atingir edifícios civis e instalações econômicas. A Aramco é estratégica para o setor energético saudita, mas os relatos disponíveis não comprovam interrupção da produção de petróleo. A ofensiva ocorre em meio à intensificação do confronto entre forças sauditas e houthis no Iêmen e a tensões nas rotas comerciais do Oriente Médio. É importante separar o dano físico confirmado das reivindicações militares de cada lado.",
+      "counterpoint": "O governo saudita afirma que as defesas funcionaram e que não houve mortos ou feridos no edifício atingido. Os houthis dizem agir em retaliação a bombardeios no Iêmen, onde autoridades locais sob seu controle relatam dezenas de mortes; esses números e as circunstâncias dos ataques exigem verificação independente. A responsabilidade por cada impacto e a extensão dos danos não devem ser ampliadas além do que as fontes verificadas permitem concluir.",
+      "sources": [
+        {
+          "name": "Reuters — 8 de novembro de 2026",
+          "url": "https://www.reuters.com/world/middle-east/loud-booms-heard-saudi-capital-riyadh-after-early-warning-alert-issued-2026-11-08/"
+        },
+        {
+          "name": "Associated Press — 8 de novembro de 2026",
+          "url": "https://apnews.com/article/090d96e25872f5c63e105b9dd3e5dc60"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/King_Abdullah_Financial_District_170555.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Ahmed/Wikimedia Commons",
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:King_Abdullah_Financial_District_170555.jpg",
+          "caption": "FOTO DE ARQUIVO (14/06/2022): edifícios do distrito financeiro King Abdullah, em Riad. Imagem ilustrativa; não mostra o ataque de 08/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Houthi attack intercepted in Saudi Arabia as debris damages Aramco building in Riyadh",
+        "subtitle": "Saudi authorities report limited damage to a building in the financial district and no casualties; Houthi rebels claim responsibility.",
+        "facts": "On Sunday, November 8, 2026, Saudi air defenses intercepted missiles targeting Riyadh and other parts of the country, according to Saudi authorities. Falling debris struck the Aramco Tower in the capital's financial district, breaking windows and damaging several floors. Saudi Arabia's Energy Ministry said the damage was limited and no casualties were reported at the building. Yemen's Houthi rebels claimed responsibility, saying the operation was retaliation for Saudi strikes in Yemen. The Saudi-led coalition said it intercepted two ballistic missiles and two cruise missiles. Reuters and the Associated Press reported the incident, citing statements from the authorities and parties involved. A Houthi claim that Riyadh airport had been targeted was not confirmed by Saudi officials.",
+        "analysis": "The incident highlights the risk of regional escalation and the possibility that debris from intercepted projectiles can still damage civilian buildings and economic infrastructure. Aramco is central to Saudi Arabia's energy industry, but available reports do not establish any interruption to oil production. The attack comes amid intensified Saudi-Houthi confrontation in Yemen and wider tensions affecting Middle Eastern trade routes. Confirmed physical damage must be distinguished from each side's military claims.",
+        "counterpoint": "Saudi authorities say their defenses worked and no one was killed or injured at the affected building. The Houthis describe the operation as retaliation for strikes in Yemen, where Houthi-run authorities report dozens of deaths; those figures and the circumstances require independent verification. Responsibility for individual impacts and the extent of damage should not be overstated.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (June 14, 2022): buildings in Riyadh's King Abdullah Financial District. Illustrative image; it does not show the November 8, 2026 attack."
+        }
+      },
+      "es": {
+        "title": "Interceptan ataque hutí en Arabia Saudita; restos de misiles dañan edificio de Aramco en Riad",
+        "subtitle": "Las autoridades saudíes informan daños limitados en un edificio del distrito financiero y ninguna víctima; los hutíes reivindican la operación.",
+        "facts": "El domingo 8 de noviembre de 2026, las defensas aéreas saudíes interceptaron misiles dirigidos contra Riad y otras zonas del país, según las autoridades. Los restos de los proyectiles alcanzaron la torre Aramco, en el distrito financiero de la capital, rompieron ventanas y dañaron varios pisos. El Ministerio de Energía saudí afirmó que los daños fueron limitados y que no hubo víctimas en el edificio. Los rebeldes hutíes de Yemen reivindicaron el ataque y dijeron que respondía a bombardeos saudíes en Yemen. La coalición encabezada por Arabia Saudita informó de la interceptación de dos misiles balísticos y dos misiles de crucero. Reuters y Associated Press informaron del incidente a partir de declaraciones de las autoridades y las partes implicadas. La afirmación hutí de que el aeropuerto de Riad había sido atacado no fue confirmada por las autoridades saudíes.",
+        "analysis": "El episodio eleva el riesgo de una escalada regional y demuestra que los restos de proyectiles interceptados pueden causar daños en edificios civiles e infraestructura económica. Aramco es estratégica para el sector energético saudí, pero las informaciones disponibles no confirman una interrupción de la producción petrolera. El ataque se produce en medio de la intensificación del enfrentamiento entre Arabia Saudita y los hutíes en Yemen y de tensiones en las rutas comerciales de Oriente Medio. Es esencial distinguir los daños confirmados de las reivindicaciones militares.",
+        "counterpoint": "Las autoridades saudíes sostienen que sus defensas funcionaron y que no hubo muertos ni heridos en el edificio afectado. Los hutíes afirman que actuaron en represalia por bombardeos en Yemen, donde autoridades bajo su control denuncian decenas de fallecidos; esas cifras y circunstancias requieren verificación independiente. No deben exagerarse las responsabilidades ni el alcance de los daños.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (14 de junio de 2022): edificios del distrito financiero King Abdullah, en Riad. Imagen ilustrativa; no muestra el ataque del 8 de noviembre de 2026."
+        }
+      }
+    },
+    {
+      "id": "pf-investiga-ameacas-deputada-eleita-ana-elisa-2026-11-08",
+      "date": "2026-11-08",
+      "category": "JUSTIÇA",
+      "title": "PF investiga ameaças de morte e violência sexual contra deputada eleita Ana Elisa",
+      "subtitle": "Investigação em Divinópolis tem apoio da área de crimes cibernéticos; Ministério da Justiça confirma medidas de proteção à parlamentar.",
+      "facts": "A Polícia Federal informou neste domingo, 8 de novembro de 2026, que investiga ameaças dirigidas à deputada federal eleita Ana Elisa Santos Silva (PT-MG). A apuração é conduzida pela Delegacia da PF em Divinópolis, Minas Gerais, com apoio técnico da Diretoria de Combate a Crimes Cibernéticos. A corporação confirmou diligências especializadas e pedidos de cooperação policial internacional para identificar os responsáveis, sem divulgar detalhes por sigilo. A parlamentar relatou em vídeo publicado nas redes sociais o recebimento de mensagens com ameaças de morte e violência sexual, além de ataques racistas e misóginos. O Ministério da Justiça e Segurança Pública informou que medidas de proteção continuada e de proximidade já estão sendo executadas, sob coordenação de órgãos federais e estaduais. Não há, até o momento dessas notas oficiais, identificação pública dos responsáveis pelas ameaças.",
+      "analysis": "O caso destaca os desafios de investigar crimes praticados por meios eletrônicos, especialmente quando mensagens e contas podem exigir cooperação de plataformas ou autoridades estrangeiras. A confirmação da PF é sobre a existência da investigação e das diligências, não sobre a autoria das mensagens. A proteção anunciada pelo Ministério da Justiça responde ao risco relatado, enquanto a responsabilização criminal dependerá da identificação dos autores e da análise das provas. A publicidade do caso não substitui a apuração técnica.",
+      "counterpoint": "A parlamentar tem direito à proteção contra ameaças, independentemente de partido ou posição política. Ao mesmo tempo, a gravidade das denúncias não autoriza atribuir autoria a adversários, grupos ou pessoas sem provas. A investigação está sob sigilo, e os suspeitos, caso identificados, têm direito ao devido processo legal. Críticas políticas legítimas devem ser distinguidas de ameaças de violência e discriminação.",
+      "sources": [
+        {
+          "name": "Polícia Federal — nota oficial de 08/11/2026, 16h56",
+          "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/11/pf-investiga-ameacas-contra-deputada-federal-eleita-em-minas-gerais/"
+        },
+        {
+          "name": "Ministério da Justiça e Segurança Pública — nota oficial de 08/11/2026",
+          "url": "https://www.gov.br/mj/pt-br/assuntos/noticias/nota-a-imprensa-84"
+        },
+        {
+          "name": "Agência Brasil — 08/11/2026, 19h21",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/pf-investiga-ameacas-recebidas-pela-deputada-eleita-ana-elisa"
+        },
+        {
+          "name": "SBT News — 08/11/2026",
+          "url": "https://sbtnews.sbt.com.br/noticia/politica/pf-investiga-ameacas-contra-a-deputada-ana-elisa"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Ana_Elisa_TSE_2026.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Tribunal Superior Eleitoral (TSE) / Wikimedia Commons",
+          "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Ana_Elisa_TSE_2026.jpg",
+          "caption": "FOTO DE ARQUIVO (2026): retrato eleitoral de Ana Elisa Santos Silva, divulgado pelo TSE. Não retrata as ameaças nem a investigação da Polícia Federal."
+        }
+      ],
+      "en": {
+        "title": "Brazilian Federal Police investigate threats against newly elected lawmaker Ana Elisa",
+        "subtitle": "The investigation in Divinópolis is supported by cybercrime specialists; the Justice Ministry says protective measures are in place.",
+        "facts": "On Sunday, November 8, 2026, Brazil's Federal Police (PF) confirmed an investigation into threats against newly elected federal deputy Ana Elisa Santos Silva (PT-MG). The PF office in Divinópolis, Minas Gerais, is leading the case with support from the agency's cybercrime directorate. Investigators have begun specialized inquiries and requested international police cooperation to help identify those responsible, but details remain confidential. In a social-media video, the lawmaker-elect reported messages threatening her life and sexual violence, alongside racist and misogynistic abuse. Brazil's Ministry of Justice and Public Security said continuing close-protection measures are already being carried out through federal and state coordination. The official statements did not publicly identify the authors of the threats.",
+        "analysis": "The case illustrates the difficulties of investigating online threats, particularly when identifying accounts and messages may require cooperation from platforms or authorities abroad. The PF has confirmed the investigation and investigative steps, not the identity of the perpetrators. Protective measures address the reported risks, while criminal accountability will depend on evidence and identifying those responsible.",
+        "counterpoint": "Threats of violence warrant investigation and protection regardless of a lawmaker's party. But the seriousness of the allegations does not justify attributing responsibility to political opponents or particular groups without evidence. The inquiry is confidential, and any suspects retain due-process rights. Legitimate political criticism must be distinguished from threats and discriminatory abuse.",
+        "category": "JUSTICE",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (2026): Ana Elisa Santos Silva's official election portrait released by TSE (Brazil's Superior Electoral Court). It does not depict the threats or the police investigation."
+        }
+      },
+      "es": {
+        "title": "La Policía Federal de Brasil investiga amenazas contra la diputada electa Ana Elisa",
+        "subtitle": "La investigación en Divinópolis cuenta con especialistas en delitos informáticos; el Ministerio de Justicia confirma medidas de protección.",
+        "facts": "El domingo 8 de noviembre de 2026, la Policía Federal (PF) de Brasil confirmó que investiga amenazas contra la diputada federal electa Ana Elisa Santos Silva (PT-MG). La delegación de la PF en Divinópolis, Minas Gerais, dirige las pesquisas con apoyo de su unidad especializada en delitos informáticos. Los investigadores han iniciado diligencias especializadas y solicitado cooperación policial internacional para identificar a los responsables, aunque los detalles permanecen bajo reserva. En un video publicado en redes sociales, la diputada electa relató haber recibido mensajes con amenazas de muerte y violencia sexual, además de ataques racistas y misóginos. El Ministerio de Justicia y Seguridad Pública informó que ya se aplican medidas continuadas de protección cercana mediante coordinación federal y estatal. Las notas oficiales no identificaron públicamente a los autores de las amenazas.",
+        "analysis": "El caso pone de relieve las dificultades de investigar amenazas por internet, especialmente cuando la identificación de cuentas y mensajes requiere cooperación de plataformas o autoridades extranjeras. La PF confirmó la investigación y sus diligencias, no la identidad de los responsables. Las medidas de protección responden al riesgo denunciado, mientras que la responsabilidad penal dependerá de las pruebas y de la identificación de los autores.",
+        "counterpoint": "Las amenazas de violencia merecen investigación y protección con independencia del partido de la parlamentaria. Sin embargo, la gravedad de las denuncias no permite atribuir responsabilidades a adversarios políticos o grupos sin pruebas. La investigación está bajo reserva y cualquier sospechoso conserva el derecho al debido proceso. La crítica política legítima debe distinguirse de las amenazas y los ataques discriminatorios.",
+        "category": "JUSTICIA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (2026): retrato electoral oficial de Ana Elisa Santos Silva difundido por el TSE (Tribunal Superior Electoral de Brasil). No muestra las amenazas ni la investigación policial."
+        }
+      }
+    },
+    {
+      "id": "lula-pronunciamento-divida-juros-responsabilidade-fiscal-2026-11-08",
+      "date": "2026-11-08",
+      "category": "POLÍTICA",
+      "title": "Lula promete responsabilidade fiscal e queda dos juros em discurso, mas não apresenta medidas",
+      "subtitle": "Em primeiro pronunciamento na TV após a reeleição, presidente reconhece preocupação com a dívida pública e defende investimentos e programas sociais.",
+      "facts": "Em pronunciamento transmitido em rede nacional de rádio e televisão na noite de domingo, 8 de novembro de 2026, o presidente Luiz Inácio Lula da Silva afirmou estar preocupado com a trajetória da dívida pública e com os juros elevados. Reafirmou compromisso com a responsabilidade fiscal e disse que seu governo buscará criar condições para reduzir a taxa de juros, sem anunciar no discurso um pacote específico de contenção de despesas ou aumento de receitas. Também defendeu ampliar investimentos, inclusive em parceria com o setor privado, e preservar políticas sociais. Foi seu primeiro pronunciamento em cadeia nacional após a reeleição de 25 de outubro. A taxa Selic havia sido mantida em 13,75% ao ano pelo Banco Central em 4 de novembro. Reportagens publicadas na mesma noite por Folha de S.Paulo, UOL e R7 confirmam o conteúdo central do discurso.",
+      "analysis": "O discurso buscou conciliar dois objetivos que frequentemente entram em tensão: tranquilizar agentes econômicos sobre a sustentabilidade das contas públicas e manter compromissos de expansão de políticas sociais e investimentos. A promessa de criar condições para juros menores não equivale a uma decisão do Banco Central, que tem autonomia para definir a Selic segundo o cenário de inflação e expectativas. Sem metas operacionais, cronograma ou detalhamento das fontes de financiamento, a fala oferece uma orientação política, mas ainda não permite medir seu efeito fiscal. A atenção agora se volta às propostas que a equipe econômica poderá apresentar após a viagem presidencial à Turquia.",
+      "counterpoint": "A defesa da responsabilidade fiscal pode sinalizar disposição para controlar a dívida e reduzir incertezas, mas economistas e opositores podem cobrar números, instrumentos e prazos para avaliar a viabilidade das promessas. Já defensores da agenda social argumentam que cortes indiscriminados também trazem custos econômicos e sociais. O discurso, por si só, não prova que a dívida cairá nem que haverá redução dos juros; esses resultados dependerão das medidas efetivas, das decisões do Banco Central e das condições econômicas.",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo — 08/11/2026, 21h05",
+          "url": "https://www1.folha.uol.com.br/poder/2026/11/na-tv-lula-promete-responsabilidade-fiscal-manda-recado-a-flavio-e-cobra-judiciario-etico-e-isento.shtml"
+        },
+        {
+          "name": "UOL Notícias — 08/11/2026",
+          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/08/lual-pronunciamento-economia-novembro-2026.ghtm"
+        },
+        {
+          "name": "R7 — 08/11/2026, 20h52",
+          "url": "https://noticias.r7.com/brasilia/vamos-criar-as-condicoes-para-reduzir-a-taxa-de-juros-diz-lula-em-pronunciamento-08112026/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/07.09.26_-_Desfile_C%C3%ADvico-Militar_de_7_de_Setembro_-_55514001198.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Ricardo Stuckert / Lula Oficial / Wikimedia Commons",
+          "license": "CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:07.09.26_-_Desfile_C%C3%ADvico-Militar_de_7_de_Setembro_-_55514001198.jpg",
+          "caption": "FOTO DE ARQUIVO (07/09/2026): presidente Luiz Inácio Lula da Silva durante desfile cívico-militar em Brasília. Não retrata o pronunciamento de 08/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Lula pledges fiscal responsibility and lower interest rates but offers no concrete measures",
+        "subtitle": "In his first televised address since reelection, Brazil's president acknowledges concerns about public debt and defends investment and social programs.",
+        "facts": "In a nationally broadcast radio and television address on Sunday evening, November 8, 2026, President Luiz Inácio Lula da Silva said he was concerned about the trajectory of public debt and high interest rates. He reiterated his commitment to fiscal responsibility and said his government would seek to create conditions for lower interest rates, without unveiling a specific package of spending cuts or revenue measures. He also advocated expanding investment, including private-sector partnerships, while maintaining social policies. This was his first nationwide address since his October 25 reelection. Brazil's Central Bank had kept its benchmark Selic rate at 13.75% a year on November 4. Reports published that evening by Folha de S.Paulo, UOL and R7 corroborated the main points of the speech.",
+        "analysis": "The address attempted to reconcile two objectives that can pull in different directions: reassuring investors about the sustainability of public finances and maintaining commitments to social programs and investment. A pledge to create conditions for lower rates is not a decision by Brazil's independent Central Bank, which sets the Selic according to inflation conditions and expectations. Without operational targets, a timetable or financing details, the speech establishes a political direction but does not yet make its fiscal effects measurable. Attention now turns to proposals the economic team may present after the president's trip to Turkey.",
+        "counterpoint": "A commitment to fiscal discipline may signal willingness to contain debt and uncertainty, but economists and political opponents can reasonably demand figures, instruments and deadlines. Supporters of social spending argue that indiscriminate cuts also carry economic and social costs. The address alone does not establish that debt or interest rates will fall; outcomes depend on actual measures, Central Bank decisions and economic conditions.",
+        "category": "POLITICS",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (September 7, 2026): President Luiz Inácio Lula da Silva at a civic-military parade in Brasília. Not a photograph of the November 8 address."
+        }
+      },
+      "es": {
+        "title": "Lula promete responsabilidad fiscal y una bajada de los intereses, pero no anuncia medidas concretas",
+        "subtitle": "En su primer discurso televisado tras la reelección, el presidente de Brasil reconoce su preocupación por la deuda pública y defiende las inversiones y los programas sociales.",
+        "facts": "En un discurso transmitido por radio y televisión a escala nacional la noche del domingo 8 de noviembre de 2026, el presidente Luiz Inácio Lula da Silva afirmó que le preocupa la evolución de la deuda pública y los elevados tipos de interés. Reiteró su compromiso con la responsabilidad fiscal y aseguró que su gobierno procurará crear las condiciones para reducir los intereses, sin presentar un paquete concreto de recortes del gasto o medidas de recaudación. También defendió ampliar las inversiones, incluso mediante alianzas con el sector privado, y preservar las políticas sociales. Fue su primer mensaje nacional desde su reelección del 25 de octubre. El Banco Central de Brasil había mantenido la tasa Selic en el 13,75 % anual el 4 de noviembre. Folha de S.Paulo, UOL y R7 corroboraron los principales puntos del discurso en sus informaciones de esa noche.",
+        "analysis": "El discurso buscó conciliar dos objetivos que pueden entrar en tensión: tranquilizar a los mercados sobre la sostenibilidad de las finanzas públicas y mantener los compromisos de inversión y políticas sociales. Prometer condiciones para unos intereses menores no equivale a una decisión del Banco Central, que goza de autonomía para fijar la Selic según la inflación y las expectativas. Sin objetivos operativos, calendario ni detalles de financiación, el mensaje marca una orientación política, pero todavía no permite cuantificar sus efectos fiscales. La atención se dirige ahora a las propuestas que el equipo económico pueda presentar después del viaje presidencial a Turquía.",
+        "counterpoint": "La defensa de la disciplina fiscal puede indicar voluntad de contener la deuda y la incertidumbre, pero economistas y opositores pueden exigir cifras, instrumentos y plazos. Quienes apoyan el gasto social sostienen que los recortes indiscriminados también tienen costes económicos y sociales. El discurso por sí solo no demuestra que vayan a bajar la deuda ni los intereses; los resultados dependerán de las medidas adoptadas, las decisiones del Banco Central y las condiciones económicas.",
+        "category": "POLÍTICA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (7 de septiembre de 2026): el presidente Luiz Inácio Lula da Silva durante un desfile cívico-militar en Brasilia. No corresponde al discurso del 8 de noviembre."
+        }
+      }
+    },
+    {
+      "id": "defesa-civil-esclarece-kit-emergencia-sem-alerta-nacional-2026-11-08",
+      "date": "2026-11-08",
+      "category": "BRASIL",
+      "title": "Defesa Civil esclarece: kit de emergência não significa alerta nacional",
+      "subtitle": "Após repercussão nas redes, órgão federal reafirma que preparar suprimentos para 72 horas é medida preventiva, não previsão de desabastecimento.",
+      "facts": "Em 8 de novembro de 2026, a Defesa Civil Nacional voltou a esclarecer que a orientação para organizar um kit doméstico de emergência não representa alerta nacional de desastre nem previsão de interrupção generalizada dos serviços ou do abastecimento. A manifestação, noticiada pela Agência Brasil às 17h26, responde à repercussão de publicações anteriores nas redes sociais. O Ministério da Integração e do Desenvolvimento Regional já havia divulgado nota oficial em 7 de novembro, às 20h55, afirmando que se trata de recomendação permanente de autoproteção, repetida em março e abril. Entre os itens recomendados estão água potável, alimentos não perecíveis, medicamentos de uso contínuo e material de primeiros socorros, para atender necessidades básicas durante até 72 horas. O ministério também monitora tempestades e outros eventos meteorológicos no Sul do país, mas enfatiza que isso não transforma a recomendação genérica em anúncio de emergência nacional.",
+      "analysis": "Preparar um kit doméstico é uma providência de redução de riscos, especialmente onde temporais podem interromper o acesso a água, energia e transporte. O problema surge quando uma recomendação de rotina circula sem contexto e é interpretada como sinal de um desastre iminente. A comunicação pública precisa diferenciar claramente orientação preventiva, previsão meteorológica e alerta específico para uma localidade. A população deve acompanhar os canais oficiais da Defesa Civil de seu município e estado e conferir a data e a abrangência de qualquer aviso antes de compartilhá-lo.",
+      "counterpoint": "A preocupação de moradores diante de eventos climáticos severos é compreensível. Contudo, o esclarecimento oficial não elimina os alertas regionais já emitidos para áreas sob risco: orientações de autoridades locais devem ser seguidas quando houver aviso específico. Tampouco há base, nas fontes consultadas, para afirmar que o governo esteja antecipando um colapso nacional de abastecimento.",
+      "sources": [
+        {
+          "name": "Agência Brasil, 08/11/2026, 17h26",
+          "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/defesa-civil-diz-nao-haver-motivo-para-panico-por-kit-de-emergencia"
+        },
+        {
+          "name": "Ministério da Integração e do Desenvolvimento Regional, nota oficial, 07/11/2026",
+          "url": "https://www.gov.br/mdr/pt-br/noticias/midr-esclarece-que-kit-de-emergencia-e-medida-preventiva-e-nao-tem-relacao-com-alerta-nacional"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elementos_para_una_mochila_de_emergencia.jpg/1280px-Elementos_para_una_mochila_de_emergencia.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Sofia.mantilla / Wikimedia Commons",
+          "license": "CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Elementos_para_una_mochila_de_emergencia.jpg",
+          "caption": "FOTO DE ARQUIVO (12/10/2023): itens domésticos organizados para um kit de emergência no Peru. Imagem ilustrativa; não retrata anúncio da Defesa Civil brasileira em 08/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Brazil's Civil Defense says emergency kits do not signal a nationwide alert",
+        "subtitle": "After social media speculation, authorities reiterate that 72-hour household supplies are a routine precaution, not a warning of shortages.",
+        "facts": "On November 8, 2026, Brazil's National Civil Defense agency reiterated that its recommendation to assemble a household emergency kit does not constitute a nationwide disaster alert or predict widespread disruption to public services or supplies. Agência Brasil reported the clarification at 5:26 p.m. on November 8 following online reactions to earlier posts. The Ministry of Integration and Regional Development had issued an official statement on November 7 at 8:55 p.m., explaining that the advice is part of longstanding preparedness guidance, also shared in March and April. Suggested supplies include drinking water, non-perishable food, regular medication and first-aid materials sufficient for basic needs for up to 72 hours. The ministry is monitoring severe weather in southern Brazil, but says this does not turn general preparedness advice into a national emergency announcement.",
+        "analysis": "An emergency kit can reduce risks when storms disrupt electricity, water or transport. Confusion arises when routine guidance is shared without context and interpreted as evidence of an imminent disaster. Public communications should distinguish general preparedness advice, weather forecasts and location-specific warnings. Residents should check their state and municipal Civil Defense channels and verify the date and geographic scope of alerts before sharing them.",
+        "counterpoint": "Concerns about extreme weather are understandable. But the official clarification does not cancel regional warnings in places facing actual risks; residents should follow specific local instructions. The sources reviewed do not support claims that the government is predicting a nationwide collapse in supplies.",
+        "category": "BRAZIL",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (October 12, 2023): household items arranged for an emergency kit in Peru. Illustrative image; not the Brazilian Civil Defense announcement of November 8, 2026."
+        }
+      },
+      "es": {
+        "title": "Defensa Civil de Brasil aclara que el kit de emergencia no implica una alerta nacional",
+        "subtitle": "Tras la repercusión en redes, las autoridades reiteran que contar con suministros para 72 horas es una medida preventiva, no un anuncio de desabastecimiento.",
+        "facts": "El 8 de noviembre de 2026, la Defensa Civil Nacional de Brasil volvió a aclarar que la recomendación de preparar un kit doméstico de emergencia no constituye una alerta nacional por desastre ni una previsión de interrupción generalizada de los servicios o el abastecimiento. Agência Brasil informó sobre la aclaración a las 17:26 del 8 de noviembre, tras la reacción en redes sociales a publicaciones anteriores. El Ministerio de Integración y Desarrollo Regional había emitido una nota oficial el 7 de noviembre a las 20:55, explicando que se trata de una recomendación habitual de autoprotección, difundida también en marzo y abril. Entre los suministros sugeridos figuran agua potable, alimentos no perecederos, medicamentos habituales y material de primeros auxilios para cubrir necesidades básicas durante hasta 72 horas. El ministerio también vigila las tormentas en el sur de Brasil, pero subraya que eso no convierte la recomendación general en una declaración de emergencia nacional.",
+        "analysis": "Preparar un kit doméstico ayuda a reducir riesgos cuando las tormentas interrumpen el suministro de electricidad, agua o transporte. La confusión aparece cuando una recomendación habitual circula sin contexto y se interpreta como señal de un desastre inminente. La comunicación pública debe distinguir entre prevención general, pronósticos meteorológicos y alertas específicas para cada localidad. Conviene consultar los canales oficiales de Defensa Civil estatales y municipales y verificar la fecha y el alcance geográfico de cada aviso antes de compartirlo.",
+        "counterpoint": "La preocupación por los fenómenos meteorológicos extremos es comprensible. Sin embargo, la aclaración oficial no anula las alertas regionales para zonas en riesgo, donde deben seguirse las instrucciones locales. Las fuentes consultadas tampoco respaldan la afirmación de que el gobierno anticipe un colapso nacional del abastecimiento.",
+        "category": "BRASIL",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (12 de octubre de 2023): artículos domésticos preparados para un kit de emergencia en Perú. Imagen ilustrativa; no muestra el anuncio de Defensa Civil de Brasil del 8 de noviembre de 2026."
+        }
+      }
+    },
+    {
+      "id": "palmeiras-vence-vasco-penaltis-final-copa-brasil-2026-11-08",
+      "date": "2026-11-08",
+      "category": "ESPORTE",
+      "title": "Palmeiras elimina Vasco nos pênaltis e enfrentará Grêmio na final da Copa do Brasil",
+      "subtitle": "Após perder por 2 a 1 em São Januário, equipe paulista venceu a disputa por 5 a 4; Carlos Miguel defendeu duas cobranças.",
+      "facts": "O Palmeiras se classificou para a final da Copa do Brasil neste domingo, 8 de novembro de 2026, ao superar o Vasco por 5 a 4 na disputa de pênaltis em São Januário, no Rio de Janeiro. No tempo normal, o Vasco venceu por 2 a 1, com gols de Colidio e Puma Rodríguez, enquanto Piquerez marcou para o Palmeiras. Como a equipe paulista havia vencido o jogo de ida por 1 a 0, o confronto ficou empatado no placar agregado e foi decidido nas penalidades. O goleiro Carlos Miguel defendeu as cobranças de Lescano e Andrés Gómez. Giay desperdiçou uma cobrança pelo Palmeiras, mas Vitor Roque, Gustavo Gómez, Ramón Sosa, Andreas Pereira e Marlon Freitas converteram as suas. O Palmeiras enfrentará o Grêmio na final em jogo único, marcada para 6 de dezembro, no estádio Mané Garrincha, em Brasília. A classificação foi relatada independentemente por Folha de S.Paulo e UOL.",
+      "analysis": "O resultado expõe a diferença entre vencer a partida e avançar em um mata-mata. O Vasco conseguiu reverter a vantagem palmeirense durante os 90 minutos, mas não confirmou a classificação nos pênaltis. Carlos Miguel foi decisivo ao defender duas cobranças, embora a vitória não possa ser atribuída exclusivamente ao goleiro: os cinco acertos dos cobradores do Palmeiras também foram necessários. A final contra o Grêmio reeditará a decisão de 2020 e oferece ao Palmeiras a chance de conquistar novamente a Copa do Brasil.",
+      "counterpoint": "A vitória vascaína por 2 a 1 no tempo normal não foi suficiente para a classificação porque o Palmeiras havia vencido a ida por 1 a 0. O desempenho do Vasco não deve ser resumido apenas à eliminação: a equipe levou o confronto às penalidades. A fotografia licenciada que acompanha a reportagem mostra São Januário em 2016, não a partida de 8 de novembro de 2026; imagens atuais de agências e veículos não foram reproduzidas sem licença.",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo — Palmeiras bate Vasco nos pênaltis (08/11/2026)",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/11/palmeiras-bate-vasco-nos-penaltis-e-esta-na-final-da-copa-do-brasil.shtml"
+        },
+        {
+          "name": "UOL — Vasco x Palmeiras, semifinal da Copa do Brasil (08/11/2026)",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/08/vasco-palmeiras-copa-do-brasil-semifinal.ghtm"
+        },
+        {
+          "name": "UOL — Carlos Miguel decisivo nos pênaltis (08/11/2026)",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/08/carlos-miguel-volta-a-decidir-nos-penaltis-e-poe-palmeiras-em-outra-final.ghtm"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Est%C3%A1dio_de_S%C3%A3o_Janu%C3%A1rio.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Bernardo1989 / Wikimedia Commons",
+          "license": "CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_de_S%C3%A3o_Janu%C3%A1rio.jpg",
+          "caption": "FOTO DE ARQUIVO (04/05/2016): Estádio de São Januário, no Rio de Janeiro. Imagem ilustrativa do local da semifinal; NÃO retrata Vasco x Palmeiras de 08/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Palmeiras beat Vasco on penalties to reach Brazilian Cup final against Grêmio",
+        "subtitle": "A 2–1 defeat at São Januário was followed by a 5–4 shootout win, with Carlos Miguel saving two penalties.",
+        "facts": "Palmeiras reached the Copa do Brasil final on Sunday, November 8, 2026, by defeating Vasco 5–4 on penalties at São Januário stadium in Rio de Janeiro. Vasco won the match 2–1 in regulation time through goals from Colidio and Puma Rodríguez, while Piquerez scored for Palmeiras. Palmeiras had won the first leg 1–0, leaving the aggregate score level and sending the tie to a shootout. Goalkeeper Carlos Miguel saved attempts by Lescano and Andrés Gómez. Giay missed for Palmeiras, but Vitor Roque, Gustavo Gómez, Ramón Sosa, Andreas Pereira and Marlon Freitas scored their penalties. Palmeiras will face Grêmio in a one-off final on December 6, 2026, at Mané Garrincha stadium in Brasília. Folha de S.Paulo and UOL independently reported the qualification.",
+        "analysis": "The result highlights the distinction between winning a match and advancing in a two-legged knockout tie. Vasco overturned Palmeiras' advantage during regulation time but failed to complete the job in the shootout. Carlos Miguel's two saves were pivotal, yet all five successful Palmeiras penalties also mattered. The final against Grêmio will reprise the 2020 decider and offer Palmeiras another chance to lift the Copa do Brasil.",
+        "counterpoint": "Vasco's 2–1 regulation-time victory was not enough because Palmeiras had won the first leg 1–0. Vasco's performance should not be reduced to the elimination alone: the team forced the tie to penalties. The licensed archive photograph shows São Januário in 2016, not the match on November 8, 2026. Contemporary agency photographs were not reused without permission.",
+        "category": "SPORTS",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (May 4, 2016): São Januário stadium in Rio de Janeiro, the venue of the semifinal. This photograph does NOT show the Vasco–Palmeiras match on November 8, 2026."
+        }
+      },
+      "es": {
+        "title": "Palmeiras elimina a Vasco en los penaltis y jugará la final de la Copa de Brasil ante Grêmio",
+        "subtitle": "Tras perder 2-1 en São Januário, el equipo paulista ganó la tanda 5-4; Carlos Miguel detuvo dos disparos.",
+        "facts": "Palmeiras se clasificó para la final de la Copa do Brasil el domingo 8 de noviembre de 2026 tras derrotar a Vasco por 5-4 en la tanda de penaltis en el estadio São Januário de Río de Janeiro. Vasco ganó el partido por 2-1, con goles de Colidio y Puma Rodríguez, mientras Piquerez marcó para Palmeiras. Como el equipo paulista había ganado la ida por 1-0, la eliminatoria terminó empatada en el global y se resolvió desde los once metros. El portero Carlos Miguel detuvo los lanzamientos de Lescano y Andrés Gómez. Giay falló para Palmeiras, pero Vitor Roque, Gustavo Gómez, Ramón Sosa, Andreas Pereira y Marlon Freitas anotaron sus penaltis. Palmeiras se enfrentará a Grêmio en una final a partido único el 6 de diciembre de 2026, en el estadio Mané Garrincha de Brasilia. Folha de S.Paulo y UOL informaron de la clasificación de forma independiente.",
+        "analysis": "El resultado ilustra la diferencia entre ganar un partido y superar una eliminatoria a doble encuentro. Vasco logró remontar la ventaja del rival durante el tiempo reglamentario, pero no completó la clasificación en los penaltis. Las dos paradas de Carlos Miguel resultaron decisivas, aunque también fueron indispensables los cinco aciertos de los lanzadores de Palmeiras. La final ante Grêmio repetirá la de 2020 y ofrecerá a Palmeiras otra oportunidad de conquistar la Copa do Brasil.",
+        "counterpoint": "La victoria de Vasco por 2-1 en el tiempo reglamentario no bastó porque Palmeiras había ganado la ida por 1-0. El rendimiento de Vasco no debe resumirse únicamente en la eliminación: el equipo llevó la serie a los penaltis. La fotografía de archivo autorizada muestra São Januário en 2016, no el encuentro del 8 de noviembre de 2026. No se reutilizaron imágenes actuales de agencias sin autorización.",
+        "category": "DEPORTES",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (4 de mayo de 2016): estadio São Januário, en Río de Janeiro, sede de la semifinal. La imagen NO muestra el partido Vasco-Palmeiras del 8 de noviembre de 2026."
+        }
+      }
+    },
+    {
+      "id": "rolandia-parana-adolescente-morre-correnteza-jovens-encontrados-2026-11-08",
+      "date": "2026-11-08",
+      "category": "BRASIL",
+      "title": "Adolescente morre em correnteza no Paraná; dois jovens desaparecidos são encontrados vivos",
+      "subtitle": "Caso ocorreu durante temporal no sábado (7), em Rolândia; buscas foram encerradas no domingo após rapazes retornarem para casa.",
+      "facts": "Uma adolescente morreu após ser arrastada pela correnteza de um córrego na região do Jardim Monte Carlo, em Rolândia, no norte do Paraná, durante o temporal de sábado, 7 de novembro de 2026. Segundo reportagem da Tarobá baseada em boletim de ocorrência da Polícia Militar, um grupo de oito jovens estava nas proximidades do curso d'água quando houve o acidente. A jovem, identificada como Kauane em parte da cobertura, foi localizada sem vida pelas equipes de resgate. Dois rapazes, de 17 e 18 anos, também foram dados como desaparecidos. Na manhã de domingo, 8 de novembro, a informação foi atualizada: os dois conseguiram sair da água e voltaram por conta própria para suas casas, encerrando as buscas. A idade da vítima apareceu de forma divergente nas primeiras notícias: algumas mencionaram 14 anos, enquanto a reportagem atualizada da Tarobá, citando a ocorrência policial, informou 12 anos. As circunstâncias exatas da morte seguem sujeitas à apuração das autoridades.",
+      "analysis": "O episódio mostra como o nível de rios e córregos pode subir rapidamente durante temporais, mesmo quando as pessoas já estão próximas das margens. A primeira cobertura da ocorrência descreveu dois jovens desaparecidos, mas a informação foi superada pela confirmação de que ambos estavam vivos em casa. Essa mudança é essencial para evitar que alertas de busca continuem circulando depois de encerrada a operação. A apuração também deve separar dados confirmados, como a localização dos rapazes e a morte da adolescente, de detalhes ainda inconsistentes sobre a idade e a dinâmica do acidente.",
+      "counterpoint": "Os relatos iniciais divergiram quanto à idade da vítima e à quantidade de pessoas diretamente levadas pela água. A Tarobá citou boletim da Polícia Militar ao informar 12 anos, mas outras publicações mencionaram 14; por isso, a manchete não fixa uma idade. Não há elementos suficientes para atribuir negligência a qualquer participante. As fotografias da cobertura jornalística não foram reutilizadas porque não foi demonstrada autorização de republicação. A imagem de arquivo licenciada mostra o rio Tibagi em Jataizinho, outro curso d'água no norte do Paraná, e não o local nem a data da ocorrência.",
+      "sources": [
+        {
+          "name": "Tarobá — Jovens desaparecidos em rio de Rolândia sobrevivem e voltam para casa (08/11/2026)",
+          "url": "https://taroba.com.br/noticias/cidade/jovens-desaparecidos-em-rio-de-rolandia-sobrevivem-e-voltam-para-casa"
+        },
+        {
+          "name": "Canal 38 — Dois adolescentes desaparecidos são encontrados em casa (08/11/2026)",
+          "url": "https://canal38.com.br/dois-adolescentes-que-estavam-desaparecidos-apos-supostamente-serem-arrastados-pela-correnteza-sao-encontrados-em-casa-em-rolandia/"
+        },
+        {
+          "name": "TNOnline — Buscas retomadas e boletim da PM (08/11/2026)",
+          "url": "https://tnonline.uol.com.br/noticias/parana/buscas-por-dois-jovens-desaparecidos-em-rio-sao-retomadas-neste-domingo-em-rolandia-1172042"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/BR_-_369_-_Ponte_Sobre_o_Rio_Tibagi_-_Jataizinho_-_PR%2C_Brasil_-_122_-_panoramio.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "João Scarpi / Wikimedia Commons",
+          "license": "CC BY 3.0 - https://creativecommons.org/licenses/by/3.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:BR_-_369_-_Ponte_Sobre_o_Rio_Tibagi_-_Jataizinho_-_PR,_Brasil_-_122_-_panoramio.jpg",
+          "caption": "FOTO DE ARQUIVO (08/01/2009): ponte sobre o rio Tibagi em Jataizinho, no norte do Paraná. Imagem ilustrativa de outro curso d'água; NÃO mostra o córrego Maracanã, em Rolândia, nem a ocorrência de 07/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Teenage girl dies in Paraná floodwaters; two missing youths found alive",
+        "subtitle": "The incident occurred during a storm in Rolândia on November 7; searches ended on November 8 after the two young men returned home.",
+        "facts": "A teenage girl died after being swept away by a stream during a storm in the Jardim Monte Carlo area of Rolândia, in Brazil's Paraná state, on Saturday, November 7, 2026. According to a Tarobá report citing a Military Police incident record, a group of eight young people were near the water when the accident occurred. The girl, identified as Kauane in some reports, was found dead by rescuers. Two young men, aged 17 and 18, were initially reported missing. On Sunday, November 8, authorities learned that both had managed to get out of the water and returned home on their own, bringing the search to an end. Initial reports gave conflicting ages for the victim: some said 14, while Tarobá's updated account citing the police record said 12. The precise circumstances of the death remain under investigation.",
+        "analysis": "The incident illustrates how streams and rivers can rise rapidly during heavy rain, even when people are near their banks. Early reports described two missing youths, but that information was superseded by confirmation that both were alive at home. Updating the story matters to prevent outdated search alerts from circulating. Reporting must also distinguish confirmed facts, including the girl's death and the two youths' return, from conflicting details about her age and the sequence of events.",
+        "counterpoint": "Early accounts differed over the victim's age and how many people were swept away. Tarobá cited a Military Police report in giving her age as 12, while other reports said 14, so the headline does not specify an age. Available evidence does not establish negligence by anyone involved. News outlets' photographs were not republished because reuse permission could not be verified. The licensed archive photograph shows the Tibagi River in Jataizinho, a different waterway in northern Paraná, not the scene or date of the incident.",
+        "category": "BRAZIL",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (January 8, 2009): bridge over the Tibagi River in Jataizinho, northern Paraná. Illustrative photograph of a different waterway; it does NOT depict the Maracanã stream in Rolândia or the November 7, 2026 incident."
+        }
+      },
+      "es": {
+        "title": "Muere una adolescente arrastrada por la corriente en Paraná; hallan vivos a dos jóvenes",
+        "subtitle": "El suceso ocurrió durante una tormenta en Rolândia el 7 de noviembre; la búsqueda terminó el 8 de noviembre cuando los jóvenes regresaron a casa.",
+        "facts": "Una adolescente murió tras ser arrastrada por la corriente de un arroyo durante una tormenta en la zona de Jardim Monte Carlo, en Rolândia, estado brasileño de Paraná, el sábado 7 de noviembre de 2026. Según Tarobá, que cita un registro de la Policía Militar, un grupo de ocho jóvenes estaba cerca del agua cuando ocurrió el accidente. Los rescatistas encontraron sin vida a la joven, identificada como Kauane en parte de la cobertura. Dos muchachos de 17 y 18 años fueron declarados desaparecidos inicialmente. El domingo 8 de noviembre se confirmó que ambos habían conseguido salir del agua y regresar a sus casas por sus propios medios, por lo que terminó la búsqueda. Las primeras informaciones ofrecieron edades contradictorias para la víctima: algunas indicaron 14 años, mientras que Tarobá, citando el registro policial, señaló 12. Las circunstancias precisas de la muerte siguen bajo investigación.",
+        "analysis": "El caso demuestra cómo el nivel de ríos y arroyos puede aumentar rápidamente durante las tormentas, incluso cerca de sus orillas. Las primeras noticias hablaban de dos desaparecidos, pero la información quedó superada cuando se confirmó que ambos estaban vivos en sus casas. Es importante actualizar estos datos para evitar la circulación de alertas de búsqueda obsoletas. La cobertura también debe separar los hechos confirmados de los detalles contradictorios sobre la edad de la víctima y la secuencia del accidente.",
+        "counterpoint": "Los relatos iniciales difirieron sobre la edad de la víctima y el número de personas arrastradas por el agua. Tarobá citó un informe de la Policía Militar para indicar 12 años, mientras otros medios publicaron 14; por eso el titular no precisa la edad. No hay pruebas suficientes para atribuir negligencia a ninguno de los involucrados. No se reutilizaron las fotografías de los medios porque no se pudo verificar una autorización de republicación. La fotografía de archivo autorizada muestra el río Tibagi en Jataizinho, otro curso de agua en el norte de Paraná, y no el lugar ni la fecha del suceso.",
+        "category": "BRASIL",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (8 de enero de 2009): puente sobre el río Tibagi en Jataizinho, norte de Paraná. Imagen ilustrativa de otro curso de agua; NO muestra el arroyo Maracanã en Rolândia ni el suceso del 7 de noviembre de 2026."
+        }
+      }
+    },
+    {
+      "id": "acidente-barra-mansa-carro-lago-dez-mortos-2026-11-08",
+      "date": "2026-11-08",
+      "category": "BRASIL",
+      "title": "Carro cai em lago em Barra Mansa e mata dez pessoas, incluindo cinco crianças",
+      "subtitle": "Acidente ocorreu na noite de sábado (7) no sul fluminense; Polícia Civil investiga as causas e bombeiros mobilizaram cerca de 30 agentes.",
+      "facts": "Dez pessoas morreram na noite de sábado, 7 de novembro de 2026, depois que um veículo capotou e caiu em um lago na região de Barra Mansa, no sul do estado do Rio de Janeiro. Segundo o Corpo de Bombeiros e o governo estadual, as vítimas eram cinco adultos e cinco crianças, retirados do veículo já sem vida. Cerca de 30 bombeiros de cinco unidades participaram do atendimento, com dez viaturas, uma embarcação e dois mergulhadores. A ocorrência foi registrada na 90ª Delegacia de Polícia de Barra Mansa, responsável pela investigação. O local passou por perícia, documentos do veículo foram apreendidos e os corpos seguiram para o Instituto Médico Legal de Volta Redonda. As causas do capotamento e da queda na água ainda não foram esclarecidas oficialmente. Informações iniciais sobre o número de crianças chegaram a divergir, mas a corporação confirmou cinco crianças e cinco adultos no balanço divulgado neste domingo, 8 de novembro.",
+      "analysis": "O caso evidencia a importância de perícia para reconstruir a trajetória do veículo, as condições da via e a sequência dos acontecimentos antes de atribuir responsabilidades. O fato de o automóvel ter caído em um lago exige análise técnica sobre o capotamento e as circunstâncias das mortes. Não há, até o momento das fontes consultadas, confirmação oficial sobre velocidade, falha mecânica, consumo de álcool ou qualquer outra causa específica. A atuação dos mergulhadores e equipes de diferentes quartéis ilustra a complexidade do resgate em ambiente aquático.",
+      "counterpoint": "Embora reportagens mencionem diferentes referências geográficas, como a região de Quatis e estradas na área de Barra Mansa, a localização exata e a dinâmica do acidente devem ser estabelecidas pelos investigadores. A Polícia Civil ainda não divulgou conclusão pericial; por isso, não é possível afirmar se houve imprudência, problema estrutural da via ou outra circunstância. A identificação das vítimas e os detalhes familiares devem respeitar as confirmações oficiais e a privacidade dos envolvidos.",
+      "sources": [
+        {
+          "name": "Agência Brasil — Dez pessoas morrem em acidente em Barra Mansa (08/11/2026)",
+          "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/dez-pessoas-morrem-em-acidente-em-barra-mansa-no-rio-de-janeiro"
+        },
+        {
+          "name": "Folha de S.Paulo — Dez pessoas morrem após carro capotar e cair em lago (08/11/2026)",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/dez-pessoas-morrem-apos-carro-capotar-e-cair-em-lago-em-barra-mansa-rj.shtml"
+        },
+        {
+          "name": "UOL — Carro com dez pessoas cai em lago no RJ (08/11/2026)",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/08/carro-com-dez-pessoas-cai-em-lago-no-rj-4-vitimas-eram-criancas.ghtm"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Barra_Mansa_RJ.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Fábio Guimas / Wikimedia Commons",
+          "license": "CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Barra_Mansa_RJ.jpg",
+          "caption": "FOTO DE ARQUIVO (29/10/2015): vista da cidade de Barra Mansa, no sul fluminense, a partir do SESI. Imagem ilustrativa; NÃO mostra o lago, o veículo ou o acidente de 07/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Ten killed, including five children, after car plunges into lake in Brazil's Barra Mansa",
+        "subtitle": "The crash occurred on the night of November 7 in Rio de Janeiro state; police are investigating the cause and about 30 firefighters took part in the response.",
+        "facts": "Ten people died on the night of Saturday, November 7, 2026, after a vehicle overturned and fell into a lake in the Barra Mansa area of Rio de Janeiro state, Brazil. According to the state government and firefighters, five adults and five children were found dead inside the vehicle. Approximately 30 firefighters from five units responded, using ten vehicles, a boat and two divers. The case is under investigation by Barra Mansa's 90th Civil Police Precinct. Investigators examined the scene and seized vehicle documents, while the victims' bodies were taken to the forensic medical institute in Volta Redonda. Authorities have not yet established the cause of the crash or the fall into the water. Early reports differed on the number of children, but firefighters subsequently confirmed five children and five adults on Sunday, November 8.",
+        "analysis": "The tragedy underscores the need for a forensic reconstruction of the vehicle's trajectory, road conditions and sequence of events before responsibility can be assigned. A crash into a lake also requires technical examination of both the rollover and the circumstances of the deaths. The available official information does not establish speeding, mechanical failure, alcohol use or any other specific cause. The involvement of divers and multiple firefighting units illustrates the challenges of an emergency response in water.",
+        "counterpoint": "Reports use different geographical descriptions, including the Quatis area and roads around Barra Mansa; the precise location and crash dynamics remain for investigators to establish. The Civil Police have not issued a final forensic conclusion, so negligence, road defects or other possible factors cannot be asserted as facts. Identification of victims and family details should be handled with reference to confirmed official information and respect for privacy.",
+        "category": "BRAZIL",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (October 29, 2015): view of Barra Mansa, Rio de Janeiro state, from SESI. Illustrative image; it does NOT show the lake, vehicle or November 7, 2026 crash."
+        }
+      },
+      "es": {
+        "title": "Diez muertos, entre ellos cinco niños, tras caer un automóvil a un lago en Barra Mansa, Brasil",
+        "subtitle": "El accidente ocurrió la noche del 7 de noviembre en el estado de Río de Janeiro; la Policía Civil investiga las causas y unos 30 bomberos participaron en el operativo.",
+        "facts": "Diez personas murieron la noche del sábado 7 de noviembre de 2026 después de que un vehículo volcara y cayera a un lago en la zona de Barra Mansa, en el estado brasileño de Río de Janeiro. Según el gobierno estatal y los bomberos, las víctimas eran cinco adultos y cinco niños, encontrados sin vida dentro del automóvil. Unos 30 bomberos de cinco unidades participaron en la operación con diez vehículos, una embarcación y dos buzos. La investigación está a cargo de la 90.ª Comisaría de la Policía Civil de Barra Mansa. El lugar fue sometido a peritaje, se incautaron documentos del vehículo y los cuerpos fueron trasladados al Instituto Médico Legal de Volta Redonda. Las autoridades todavía no han determinado las causas del vuelco ni de la caída al agua. Los primeros informes divergían sobre el número de niños, pero los bomberos confirmaron cinco niños y cinco adultos el domingo 8 de noviembre.",
+        "analysis": "La tragedia pone de relieve la necesidad de reconstruir mediante peritajes la trayectoria del vehículo, las condiciones de la carretera y la secuencia de los hechos antes de atribuir responsabilidades. La caída al lago requiere también un análisis técnico del vuelco y de las circunstancias de las muertes. La información oficial disponible no confirma exceso de velocidad, fallas mecánicas, consumo de alcohol ni ninguna otra causa específica. La participación de buzos y unidades de distintas localidades muestra la complejidad de una operación de rescate en el agua.",
+        "counterpoint": "Los reportes utilizan distintas referencias geográficas, incluida la zona de Quatis y carreteras cercanas a Barra Mansa; la ubicación precisa y la dinámica del accidente deben ser establecidas por los investigadores. La Policía Civil aún no ha divulgado una conclusión pericial, por lo que no se puede afirmar que hubo imprudencia, defectos de la vía u otras circunstancias. La identificación de las víctimas y los datos familiares deben respetar la información oficialmente confirmada y la privacidad de los afectados.",
+        "category": "BRASIL",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (29 de octubre de 2015): vista de Barra Mansa, estado de Río de Janeiro, desde el SESI. Imagen ilustrativa; NO muestra el lago, el vehículo ni el accidente del 7 de noviembre de 2026."
+        }
+      }
+    },
+    {
+      "id": "selic-1375-credito-empresas-244-juros-2026-11-08",
+      "date": "2026-11-08",
+      "category": "ECONOMIA",
+      "title": "Selic de 13,75% e crédito empresarial de 24,4%: por que a taxa anunciada difere do juro pago pelas empresas",
+      "subtitle": "Taxa básica mantida em novembro contrasta com a média do crédito livre às pessoas jurídicas em setembro; spread, risco e encargos explicam parte da diferença.",
+      "facts": "O Comitê de Política Monetária (Copom) manteve a taxa Selic em 13,75% ao ano em 4 de novembro de 2026, interrompendo a sequência de reduções. Já a nota de Estatísticas Monetárias e de Crédito do Banco Central publicada em 29 de outubro informa que, em setembro, a taxa média de juros das operações de crédito com recursos livres para pessoas jurídicas alcançou 24,4% ao ano, alta de 0,4 ponto percentual ante agosto. A distância entre as duas referências é de 10,65 pontos percentuais, mas elas não medem a mesma coisa: a Selic é a taxa básica de política monetária, enquanto os 24,4% representam a média de empréstimos empresariais em diferentes modalidades e condições. O Banco Central também informou que a taxa média de novas contratações de crédito no sistema financeiro, incluindo pessoas físicas e jurídicas, foi de 32,4% ao ano em setembro; esse número não deve ser apresentado como taxa específica para empresas.",
+      "analysis": "A Selic influencia o custo de captação e as condições financeiras, mas não corresponde à taxa final oferecida a uma empresa. Entre os fatores que compõem o preço de um empréstimo estão risco de inadimplência, custos administrativos, impostos, exigências de capital, prazo, garantias e margem da instituição financeira. No crédito livre empresarial, a taxa média de setembro subiu de 24,0% para 24,4% ao ano; o Banco Central destacou o aumento de 1,4 ponto percentual no capital de giro com prazo superior a 365 dias. Para um negócio que precisa financiar estoque, equipamentos ou fluxo de caixa, essa diferença pode pressionar o custo operacional e as decisões de investimento. Além da taxa nominal anunciada, o empresário deve comparar o Custo Efetivo Total (CET) da proposta concreta, que reúne juros e encargos aplicáveis. Os dados agregados não significam que toda empresa pague exatamente 24,4%, nem demonstram que uma empresa específica tenha contratado nessa taxa.",
+      "counterpoint": "A comparação não prova que o Banco Central ou o governo estejam ocultando o juro real pago por empresas: os dois indicadores são publicados oficialmente e têm finalidades distintas. Bancos argumentam que o spread remunera riscos e custos da intermediação; críticos apontam concentração bancária, competição insuficiente e encargos como fatores que podem elevar o crédito. A política de juros busca conter a inflação, mas seu efeito sobre empréstimos pode ocorrer com atraso. Também há modalidades de crédito direcionado e operações com garantias que apresentam custos diferentes da média do crédito livre.",
+      "sources": [
+        {
+          "name": "Banco Central — Estatísticas Monetárias e de Crédito, 29/10/2026",
+          "url": "https://www.bcb.gov.br/content/estatisticas/hist_estatisticasmonetariascredito/202610_Texto_de_estatisticas_monetarias_e_de_credito.pdf"
+        },
+        {
+          "name": "Banco Central — Histórico de taxas Selic",
+          "url": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+        },
+        {
+          "name": "UOL Economia — Copom mantém Selic, 04/11/2026",
+          "url": "https://economia.uol.com.br/noticias/redacao/2026/11/04/banco-central-taxa-de-juros-selic-copom.ghtm"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://live.staticflickr.com/8665/16011635094_c1fb871c24_o.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Jonas Pereira / Agência Senado",
+          "license": "CC BY 2.0 - https://creativecommons.org/licenses/by/2.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio_sede_do_Banco_Central_do_Brasil_(16011635094).jpg",
+          "caption": "FOTO DE ARQUIVO (23/02/2015): sede do Banco Central em Brasília. Imagem ilustrativa; não registra a decisão do Copom de novembro de 2026 nem operações de crédito empresarial."
+        }
+      ],
+      "en": {
+        "title": "Brazil's 13.75% Selic rate versus 24.4% corporate borrowing costs: why the figures differ",
+        "subtitle": "November's benchmark rate contrasts with September's average interest rate on unrestricted corporate credit; lending spreads, risk and fees help explain the gap.",
+        "facts": "Brazil's Monetary Policy Committee (Copom) kept the Selic benchmark rate at 13.75% per year on November 4, 2026, pausing a series of cuts. Central Bank credit statistics published on October 29 show that the average interest rate on unrestricted credit to businesses reached 24.4% per year in September, up 0.4 percentage points from August. The gap is 10.65 percentage points, but these figures measure different things: Selic is a monetary policy benchmark, while 24.4% is an average across business lending products and conditions. The Central Bank also reported a 32.4% annual average for all new credit contracts in September, including households and businesses; that figure is not a business-only borrowing rate.",
+        "analysis": "The Selic influences funding costs and financial conditions but is not the final rate quoted to a company. Loan pricing reflects default risk, administration, taxes, capital requirements, maturities, collateral and bank margins. The average rate for unrestricted corporate credit rose from 24.0% to 24.4% per year in September; the Central Bank highlighted a 1.4-percentage-point increase in working-capital loans with maturities above 365 days. Borrowing to finance inventory, equipment or cash flow can therefore carry substantial costs. Companies should compare the total effective cost of each offer, including interest and applicable charges. The published average does not mean every business pays 24.4%, or that a particular borrower contracted a loan at that rate.",
+        "counterpoint": "The comparison does not show that the government or Central Bank concealed the actual cost of corporate borrowing: both indicators are published and serve different purposes. Lenders cite risk and intermediation costs as reasons for spreads, while critics highlight banking competition, market concentration and fees. Monetary policy aims to contain inflation, and its effect on lending rates may be delayed. Directed lending and collateral-backed products can also carry different rates.",
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (February 23, 2015): Central Bank headquarters in Brasília. Illustrative image; it does not depict the November 2026 Copom decision or corporate loans."
+        }
+      },
+      "es": {
+        "title": "Selic del 13,75% frente al 24,4% del crédito empresarial en Brasil: por qué difieren las tasas",
+        "subtitle": "La tasa de referencia mantenida en noviembre contrasta con el promedio del crédito libre a empresas en septiembre; riesgo, márgenes y cargos explican parte de la diferencia.",
+        "facts": "El Comité de Política Monetaria (Copom) de Brasil mantuvo la tasa Selic en el 13,75% anual el 4 de noviembre de 2026, interrumpiendo una serie de recortes. Las estadísticas de crédito del Banco Central publicadas el 29 de octubre indican que el interés medio de los préstamos con recursos libres a empresas llegó al 24,4% anual en septiembre, 0,4 puntos porcentuales más que en agosto. La diferencia es de 10,65 puntos porcentuales, pero las cifras miden conceptos distintos: la Selic es una referencia de política monetaria, mientras que el 24,4% es un promedio de diversas modalidades y condiciones de préstamos empresariales. El Banco Central también informó una tasa media del 32,4% anual para todas las nuevas operaciones de crédito de septiembre, incluidas personas y empresas; esa cifra no representa exclusivamente el crédito empresarial.",
+        "analysis": "La Selic influye en los costos de financiación y las condiciones monetarias, pero no equivale al interés final ofrecido a una empresa. El precio de un préstamo incluye riesgo de impago, administración, impuestos, requisitos de capital, plazo, garantías y márgenes bancarios. El interés medio del crédito libre empresarial pasó del 24,0% al 24,4% anual en septiembre; el Banco Central destacó un aumento de 1,4 puntos porcentuales en préstamos de capital de trabajo con plazo superior a 365 días. Financiar inventario, equipos o liquidez puede, por tanto, tener un costo considerable. Las empresas deben comparar el costo efectivo total de cada oferta, incluidos los intereses y cargos aplicables. El promedio no significa que todas las compañías paguen exactamente el 24,4% ni que un prestatario concreto haya contratado a esa tasa.",
+        "counterpoint": "La comparación no demuestra que el gobierno o el Banco Central oculten el costo del crédito empresarial: ambos indicadores se publican oficialmente y tienen objetivos diferentes. Los bancos citan riesgos y costos de intermediación para explicar sus márgenes, mientras que los críticos señalan la concentración bancaria, la competencia y los cargos. La política monetaria busca contener la inflación y sus efectos sobre los préstamos pueden tardar. Las líneas dirigidas y los préstamos con garantías también pueden tener costos distintos.",
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (23 de febrero de 2015): sede del Banco Central en Brasilia. Imagen ilustrativa; no muestra la decisión del Copom de noviembre de 2026 ni operaciones de crédito empresarial."
+        }
+      }
+    },
+    {
+      "id": "incendio-lanchas-itapema-canto-da-praia-2026-11-08",
+      "date": "2026-11-08",
+      "category": "BRASIL",
+      "title": "Incêndio atinge lanchas no Canto da Praia, em Itapema, e mobiliza bombeiros",
+      "subtitle": "Equipes foram acionadas às 14h21 deste domingo; número de embarcações atingidas, prejuízos e causa ainda não têm confirmação oficial.",
+      "facts": "Um incêndio atingiu embarcações na região do Canto da Praia, em Itapema, no litoral de Santa Catarina, na tarde deste domingo, 8 de novembro de 2026. Segundo o portal regional TopElegance, que cita o registro operacional dos bombeiros, o acionamento ocorreu às 14h21 na Rua 109B. A reportagem informou que equipes de combate ao fogo atuavam com três viaturas, dois jet skis e apoio de outras embarcações. O portal Jornal Razão também noticiou o incêndio e a presença de fumaça escura visível da orla, conforme reportagem repercutida pelo Questões do Universo. As informações disponíveis até o momento não permitem confirmar oficialmente quantas lanchas foram destruídas, se houve vítimas ou qual foi a origem do fogo. A operação de atendimento ainda estava em andamento nas atualizações iniciais.",
+      "analysis": "A ocorrência ilustra as dificuldades do combate a incêndios em embarcações atracadas próximas umas das outras: a propagação das chamas pode ser rápida e o acesso das equipes de emergência depende de condições marítimas, posicionamento dos barcos e disponibilidade de equipamentos. A confirmação de danos, eventuais vítimas e causas deve vir de vistorias e informes das autoridades competentes. Para os moradores e visitantes, a prioridade imediata é manter distância da área de atendimento e não interferir na circulação dos bombeiros. Não há, nesta apuração, base para atribuir responsabilidade a proprietários, tripulantes ou operadores da estrutura náutica.",
+      "counterpoint": "O TopElegance relatou, com base em sua apuração, que mais de cinco embarcações teriam sido atingidas e mencionou uma estimativa de prejuízo superior a R$ 100 milhões. Esses números não foram confirmados oficialmente e, por isso, não são apresentados como fatos estabelecidos. A versão de que o fogo teria começado em uma lancha menor também permanece preliminar. As informações sobre vítimas e causa precisam ser atualizadas com dados do Corpo de Bombeiros e da investigação.",
+      "sources": [
+        {
+          "name": "TopElegance — reportagem local, 08/11/2026",
+          "url": "https://www.topelegance.com.br/incendio/incendio-atinge-lanchas-em-itapema"
+        },
+        {
+          "name": "Jornal Razão — incêndio repercutido por Questões do Universo, 08/11/2026",
+          "url": "https://qtu.com.br/urgente-incendio-se-espalha-entre-lanchas-e-fumaca-preta-toma-o-canto-da-praia-em-itapema"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Itapema_Beach.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "FeBozza / Wikimedia Commons",
+          "license": "CC BY-SA 3.0 - https://creativecommons.org/licenses/by-sa/3.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Itapema_Beach.jpg",
+          "caption": "FOTO DE ARQUIVO (01/01/2015): vista da Praia do Canto, em Itapema (SC). Imagem ilustrativa; não registra o incêndio nas lanchas em 08/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Fire engulfs boats in Itapema, southern Brazil, prompting emergency response",
+        "subtitle": "Firefighters were called at 2:21 p.m. Sunday; the number of vessels affected, financial losses and cause remain unconfirmed by authorities.",
+        "facts": "A fire struck boats in the Canto da Praia area of Itapema, in Brazil's southern state of Santa Catarina, on Sunday afternoon, November 8, 2026. Regional news outlet TopElegance, citing the firefighters' operational record, reported that emergency crews were dispatched at 2:21 p.m. to Rua 109B. Its reporting said the response involved three fire vehicles, two jet skis and support boats. Jornal Razão also reported the fire and dark smoke visible from the waterfront, in a report republished by Questões do Universo. The information available so far does not establish an official count of destroyed vessels, whether anyone was injured, or the cause of the fire. Emergency operations were still underway in the initial reports.",
+        "analysis": "Fires involving boats moored close together can spread rapidly, while firefighters may face difficulties accessing vessels and working from the water. The scale of the damage, any casualties and the cause will need to be established through inspections and official statements. Residents and visitors should stay clear of the emergency response area. There is no evidence in the reporting reviewed to assign responsibility to boat owners, crews or marina operators.",
+        "counterpoint": "TopElegance reported that more than five vessels may have been affected and cited a possible loss exceeding R$ 100 million. Neither figure has been officially confirmed, so they should not be treated as established facts. Its account that the blaze began on a smaller boat is also preliminary. Casualty and cause information awaits confirmation from firefighters and investigators.",
+        "category": "BRAZIL",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (January 1, 2015): view of Praia do Canto in Itapema, Santa Catarina, Brazil. Illustrative image; it does not depict the November 8, 2026 boat fire."
+        }
+      },
+      "es": {
+        "title": "Un incendio afecta a embarcaciones en Itapema, Brasil, y moviliza a los bomberos",
+        "subtitle": "Los equipos fueron alertados a las 14:21 del domingo; las autoridades aún no confirman cuántas embarcaciones resultaron afectadas, los daños ni la causa.",
+        "facts": "Un incendio afectó a embarcaciones en la zona de Canto da Praia, en Itapema, estado brasileño de Santa Catarina, durante la tarde del domingo 8 de noviembre de 2026. El medio regional TopElegance, que cita el registro operativo de los bomberos, informó que la alerta se recibió a las 14:21 en la Rua 109B. Según su cobertura, participaron tres vehículos de bomberos, dos motos acuáticas y embarcaciones de apoyo. Jornal Razão también informó del incendio y de una columna de humo oscuro visible desde la costa, en una noticia reproducida por Questões do Universo. La información disponible todavía no permite confirmar oficialmente el número de barcos destruidos, la existencia de víctimas ni el origen del fuego. El operativo seguía en marcha en los primeros reportes.",
+        "analysis": "Los incendios en embarcaciones amarradas muy cerca unas de otras pueden propagarse con rapidez, mientras que el acceso de los equipos de emergencia depende de las condiciones marítimas y de los medios disponibles. Las inspecciones y los informes oficiales deberán determinar los daños, las posibles víctimas y las causas. Se recomienda a residentes y visitantes mantenerse alejados de la zona de intervención. La información examinada no permite atribuir responsabilidades a propietarios, tripulaciones u operadores náuticos.",
+        "counterpoint": "TopElegance informó que podrían haberse visto afectadas más de cinco embarcaciones y mencionó posibles pérdidas superiores a R$ 100 millones. Ninguna de esas cifras cuenta con confirmación oficial y no debe presentarse como un hecho establecido. La versión de que las llamas comenzaron en una lancha pequeña también es preliminar. Los datos sobre víctimas y causas deberán ser confirmados por los bomberos y los investigadores.",
+        "category": "BRASIL",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (1 de enero de 2015): vista de Praia do Canto, en Itapema, Santa Catarina, Brasil. Imagen ilustrativa; no muestra el incendio de embarcaciones del 8 de noviembre de 2026."
+        }
+      }
+    },
+    {
+      "id": "enem-2026-redacao-valorizacao-sus-direito-universal",
+      "date": "2026-11-08",
+      "category": "EDUCAÇÃO",
+      "title": "Enem 2026 tem valorização do SUS como tema da redação",
+      "subtitle": "Ministro da Educação anunciou a proposta sobre saúde como direito universal; mais de cinco milhões de pessoas estão inscritas.",
+      "facts": "O tema da redação do Exame Nacional do Ensino Médio (Enem) 2026, aplicado neste domingo, 8 de novembro, é “A valorização do Sistema Único de Saúde (SUS) como direito universal”. O ministro da Educação, Leonardo Barchini, divulgou a proposta, confirmada por veículos independentes. O primeiro dia reúne redação, 45 questões de Linguagens e 45 de Ciências Humanas. Segundo o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), há 5.051.345 inscrições confirmadas. A redação exige um texto dissertativo-argumentativo com defesa de uma tese e proposta de intervenção respeitosa dos direitos humanos. A segunda etapa, com Matemática e Ciências da Natureza, será realizada em 15 de novembro. O anúncio do tema não significa que todos os candidatos já tenham terminado as provas.",
+      "analysis": "A proposta convida os candidatos a refletir sobre a distância entre o direito constitucional à saúde e o atendimento disponível na prática. É possível discutir as desigualdades regionais no acesso a consultas e tratamentos, os desafios de financiamento e gestão, o papel da vacinação e da atenção básica e a importância da prevenção. Reconhecer os resultados positivos do sistema público não impede avaliar criticamente suas limitações. O desempenho na redação depende da coerência argumentativa, da qualidade do repertório e da proposta de intervenção.",
+      "counterpoint": "Especialistas consideram o tema acessível, mas alertam que elogios genéricos ao SUS não substituem argumentos consistentes. Filas, desigualdades de atendimento e gestão de recursos são questões legítimas de análise. A correção não pressupõe uma orientação político-partidária específica; avalia competências de escrita, argumentação e respeito aos direitos humanos.",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo, 08/11/2026",
+          "url": "https://www1.folha.uol.com.br/educacao/2026/11/tema-da-redacao-do-enem-2026-e-a-valorizacao-do-sus-como-direito-universal.shtml"
+        },
+        {
+          "name": "UOL Educação, 08/11/2026",
+          "url": "https://educacao.uol.com.br/noticias/2026/11/08/tema-redacao-enem-2026-valorizacao-sus.ghtm"
+        },
+        {
+          "name": "Agência Brasil, orientações de redação",
+          "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/cartilha-reune-orientacoes-para-redacao-do-enem-2026"
+        },
+        {
+          "name": "Brasil Escola e UNIP — live do primeiro dia do Enem 2026 (08/11/2026)",
+          "url": "https://vestibular.brasilescola.uol.com.br/enem/ao-vivo-enem"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Participantes_do_Enem.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Wilson Dias/Agência Brasil",
+          "license": "Creative Commons Atribuição 3.0 Brasil (CC BY 3.0 BR)",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Participantes_do_Enem.jpg",
+          "caption": "FOTO DE ARQUIVO (26/08/2007): participantes do Enem em Brasília; não retrata a prova de 2026."
+        }
+      ],
+      "en": {
+        "title": "Brazil's Enem 2026 essay focuses on valuing universal public healthcare",
+        "subtitle": "Education minister announces essay prompt on healthcare as a universal right; more than five million people registered.",
+        "facts": "The essay topic for Brazil's Exame Nacional do Ensino Médio (Enem, national secondary education examination) in 2026, held on Sunday, November 8, is “Valuing the Unified Health System (SUS) as a universal right.” Education Minister Leonardo Barchini announced the prompt, which independent news organizations confirmed. The first day includes an essay, 45 Language questions and 45 Humanities questions. According to the Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep, Brazil's education assessment institute), 5,051,345 people registered. Candidates must write an argumentative essay defending a thesis and proposing an intervention that respects human rights. The second exam day, covering Mathematics and Natural Sciences, is scheduled for November 15. The announcement does not mean all candidates have finished the test.",
+        "analysis": "The topic invites candidates to examine the gap between a constitutional right to healthcare and actual access to services. They may discuss regional disparities in appointments and treatment, funding and management challenges, vaccination, primary care and prevention. Recognizing the achievements of public healthcare does not prevent a critical examination of its shortcomings. A strong essay depends on coherent reasoning, relevant evidence and a credible proposal.",
+        "counterpoint": "Education specialists say the topic is approachable but generic praise for the SUS is no substitute for a reasoned argument. Waiting lists, unequal access and resource management are legitimate concerns. Grading does not require a particular party-political position; it assesses writing, argumentation and respect for human rights.",
+        "category": "EDUCATION",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (August 26, 2007): Enem participants in Brasília; not the 2026 exam."
+        },
+        "video_captions": {
+          "1": "Brasil Escola Oficial and UNIP livestream discussing the essay and the Language and Humanities exams on the first day of Enem 2026."
+        }
+      },
+      "es": {
+        "title": "El Enem 2026 de Brasil propone valorar el SUS como derecho universal",
+        "subtitle": "El ministro de Educación anuncia el tema de la redacción sobre la salud como derecho universal; hay más de cinco millones de inscritos.",
+        "facts": "El tema de la redacción del Exame Nacional do Ensino Médio (Enem, examen nacional de enseñanza secundaria de Brasil) de 2026, celebrado este domingo 8 de noviembre, es «La valoración del Sistema Único de Salud (SUS) como derecho universal». El ministro de Educación, Leonardo Barchini, anunció la propuesta, confirmada por medios independientes. La primera jornada incluye la redacción, 45 preguntas de Lenguajes y 45 de Ciencias Humanas. Según el Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep, instituto brasileño de evaluación educativa), hay 5.051.345 inscripciones confirmadas. Los participantes deben escribir un texto argumentativo con una tesis y una propuesta de intervención respetuosa de los derechos humanos. La segunda jornada, de Matemáticas y Ciencias Naturales, será el 15 de noviembre. El anuncio del tema no significa que todos hayan terminado el examen.",
+        "analysis": "La propuesta invita a reflexionar sobre la distancia entre el derecho constitucional a la salud y el acceso real a los servicios. Es posible examinar desigualdades regionales en consultas y tratamientos, dificultades de financiación y gestión, vacunación, atención primaria y prevención. Reconocer los logros del sistema público no impide analizar sus deficiencias. Una buena redacción exige argumentos coherentes, ejemplos pertinentes y una propuesta viable.",
+        "counterpoint": "Los especialistas consideran el tema accesible, pero advierten que elogiar al SUS de forma genérica no sustituye los argumentos sólidos. Las listas de espera, las desigualdades y la gestión de recursos son cuestiones legítimas. La evaluación no exige una posición político-partidista: valora la escritura, la argumentación y el respeto de los derechos humanos.",
+        "category": "EDUCACIÓN",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (26 de agosto de 2007): participantes del Enem en Brasilia; no muestra el examen de 2026."
+        },
+        "video_captions": {
+          "1": "Transmisión de Brasil Escola Oficial y UNIP sobre la redacción y las pruebas de Lenguajes y Ciencias Humanas del primer día del Enem 2026."
+        }
+      },
+      "videos": [
+        {
+          "youtube": "https://www.youtube.com/watch?v=n55uLtubOzE",
+          "placement": "analise",
+          "caption": "Live do Brasil Escola Oficial e UNIP comenta a redação e as provas de Linguagens e Ciências Humanas do primeiro dia do Enem 2026.",
+          "credit": "Brasil Escola Oficial"
+        }
+      ]
+    },
+    {
+      "id": "colisao-trens-egito-sete-mortos-2026-11-08",
+      "category": "MUNDO",
+      "date": "2026-11-08",
+      "title": "Colisão entre trens no Egito deixa ao menos 7 mortos e 112 feridos",
+      "subtitle": "Trem atingiu a traseira de outra composição ao sul do Cairo; autoridades investigam as causas do acidente.",
+      "facts": "Dois trens de passageiros colidiram neste domingo, 8 de novembro de 2026, na região de Al-Ayyat, província de Gizé, ao sul do Cairo, no Egito. Segundo o Ministério da Saúde egípcio, citado pela Reuters, o acidente deixou ao menos sete mortos e 112 feridos em balanço divulgado neste domingo. Um trem que seguia de Gizé para Faium atingiu a traseira de uma composição que viajava do Cairo para Assuã, informou a autoridade ferroviária egípcia. A colisão provocou o descarrilamento de vagões. Equipes de emergência trabalharam na remoção dos destroços e no atendimento às vítimas. O Ministério Público abriu investigação sobre as causas técnicas, enquanto o presidente Abdel Fattah al-Sisi ordenou a apuração urgente de eventuais responsabilidades. Os totais de vítimas são provisórios e podem ser atualizados.",
+      "analysis": "A colisão recoloca sob atenção a segurança da rede ferroviária egípcia, infraestrutura essencial para o transporte de passageiros e com histórico de acidentes graves. O choque traseiro não permite, por si só, concluir se houve falha humana, problema na sinalização, defeito mecânico ou outra circunstância. A investigação precisará examinar dados operacionais, condições da via e mecanismos de prevenção de colisões. Também será importante acompanhar a assistência aos feridos, a transparência dos próximos balanços oficiais e a retomada segura do tráfego na linha afetada.",
+      "counterpoint": "Embora acidentes anteriores e preocupações sobre a infraestrutura ferroviária do Egito sejam relevantes para contextualizar o episódio, não há confirmação de negligência ou de causa técnica específica neste caso. O governo egípcio afirma ter investido na modernização do setor. A relação entre investimentos, segurança e o acidente de 8 de novembro dependerá de evidências da investigação. Os números de mortos e feridos representam o balanço disponível no momento da apuração.",
+      "sources": [
+        {
+          "name": "Reuters — 7 mortos e 112 feridos; 08/11/2026",
+          "url": "https://www.reuters.com/world/africa/train-collision-egypts-giza-province-kills-4-injures-88-health-ministry-says-2026-11-08/"
+        },
+        {
+          "name": "Associated Press — colisão e investigação; 08/11/2026",
+          "url": "https://apnews.com/article/4ad591268ce015d85ae302e22185b235"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/El-Reef_El-Masry.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Michael Botros / Wikimedia Commons",
+          "license": "CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:El-Reef_El-Masry.jpg",
+          "caption": "FOTO DE ARQUIVO (05/10/2026): trem de passageiros circula por ferrovia rural no Egito. Imagem ilustrativa; não mostra a colisão de 08/11/2026 em Al-Ayyat, Gizé."
+        }
+      ],
+      "en": {
+        "title": "Train collision in Egypt kills at least 7 and injures 112",
+        "subtitle": "A train struck another from behind south of Cairo as Egyptian authorities launched an investigation into the cause.",
+        "facts": "Two passenger trains collided on Sunday, November 8, 2026, in Al-Ayyat, Giza province, south of Cairo, Egypt. Egypt's Health Ministry reported at least seven deaths and 112 injuries, according to Reuters' account of the latest tally. Egypt's railway authority said a train traveling from Giza to Fayoum struck the rear of another train heading from Cairo to Aswan, causing carriages to derail. Emergency teams attended to the injured and worked to clear wreckage from the tracks. The public prosecutor's office opened an investigation into the technical causes, while President Abdel Fattah al-Sisi called for a swift inquiry into possible responsibility. The casualty figures are provisional and may change as authorities release new information.",
+        "analysis": "The collision has renewed scrutiny of safety on Egypt's passenger rail network, an important transport system with a history of deadly accidents. A rear-end impact alone does not establish whether human error, a signaling problem, a mechanical failure or some other factor was responsible. Investigators will need to examine operating records, track conditions and collision-prevention safeguards. Updates on medical assistance, official casualty counts and the safe restoration of rail service will also be important.",
+        "counterpoint": "Past rail disasters and concerns about Egypt's infrastructure provide context, but they do not establish negligence or any specific technical cause in this collision. Egyptian authorities say they have invested in railway modernization. Any connection between those investments, operational safety and the November 8 crash must be assessed against the investigation's findings. The casualty figures reflect the available tally at the time of reporting.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (October 5, 2026): a passenger train travels through the Egyptian countryside. Illustrative image; it does not show the November 8, 2026 collision in Al-Ayyat, Giza."
+        }
+      }
+    },
+    {
+      "id": "temporal-rio-270-mil-sem-luz-enem-2026-11-08",
+      "category": "BRASIL",
+      "date": "2026-11-08",
+      "title": "Temporal deixa mais de 270 mil clientes sem luz no Rio em dia de Enem",
+      "subtitle": "Balanço divulgado ao meio-dia aponta interrupções na área da Enel; queda de torres atingiu linha que alimenta sistema de captação de água na Grande Rio.",
+      "facts": "Mais de 270 mil clientes estavam sem energia elétrica na área atendida pela Enel no estado do Rio de Janeiro neste domingo, 8 de novembro de 2026, após a tempestade e as fortes rajadas de vento de sábado (7), segundo levantamento divulgado pelo UOL às 12h14 com base no mapa da concessionária. O total é um retrato daquele horário, não um balanço definitivo, e pode variar conforme as equipes restabeleçam o serviço. A Enel informou ter normalizado o fornecimento para 71% dos clientes atingidos pelas chuvas. Nove locais de prova do Enem ficaram temporariamente sem energia, mas tiveram o serviço restabelecido, de acordo com a reportagem. Entre os municípios com maior número de unidades afetadas constavam Araruama, Campos dos Goytacazes e Duque de Caxias. A CNN Brasil informou que o temporal derrubou torres de alta tensão da linha Magé–Alcântara, estrutura que fornece eletricidade ao sistema de captação e tratamento de água Imunana–Laranjal, na Região Metropolitana. Na capital, o Centro de Operações do Rio confirmou que a cidade retornou ao Estágio 1 às 5h de domingo após a redução dos impactos da chuva.",
+      "analysis": "O alcance do apagão mostra como um evento meteorológico pode comprometer serviços essenciais ao mesmo tempo: eletricidade, mobilidade, aplicação de provas e infraestrutura de água. A queda de torres em uma linha ligada ao sistema Imunana–Laranjal merece acompanhamento especial, mas a interrupção da alimentação elétrica não comprova, por si só, suspensão do abastecimento de água. Transparência sobre as áreas ainda afetadas, prazos realistas para religação e redundância de infraestrutura são prioridades imediatas. Após a emergência, concessionárias e órgãos reguladores devem apurar a resistência da rede e a efetividade dos planos de contingência, sem atribuir responsabilidade antes dos resultados técnicos.",
+      "counterpoint": "A Enel informou que grande parte dos clientes inicialmente afetados já havia recuperado a energia, e os nove locais de prova do Enem citados tiveram o fornecimento normalizado. Não há fundamento para tratar o número de 270 mil como permanente ou para afirmar que o exame inteiro foi interrompido. A prefeitura do Rio também reduziu seu estágio operacional na manhã de domingo, embora o impacto em outros municípios tenha persistido.",
+      "sources": [
+        {
+          "name": "UOL — 270 mil sem energia no RJ; 08/11/2026, 12h14",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/08/temporal-deixa-quase-200-mil-sem-luz-no-rio-em-dia-de-enem.ghtm"
+        },
+        {
+          "name": "CNN Brasil — queda de torres da Enel, 08/11/2026",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/temporal-no-rio-de-janeiro-destroi-torres-de-alta-tensao-da-enel/"
+        },
+        {
+          "name": "Agência Brasil — temporal no Rio, 07/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/rio-de-janeiro-registra-chuva-intensa-e-rajadas-de-vento"
+        },
+        {
+          "name": "COR-Rio — retorno ao Estágio 1, 08/11/2026",
+          "url": "https://cor.rio/municipio-do-rio-de-janeiro-retornou-ao-estagio-1-as-5h-deste-domingo-8-11-26/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Enchente_no_bairro_do_Catete.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Alberto Lemos / Wikimedia Commons",
+          "license": "CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Enchente_no_bairro_do_Catete.jpg",
+          "caption": "FOTO DE ARQUIVO (novembro de 2019): alagamento nas ruas do Catete, no Rio de Janeiro. Imagem ilustrativa de Alberto Lemos, não retrata o temporal de 07/11/2026 ou a falta de energia."
+        }
+      ]
+    },
+    {
+      "id": "usina-zaporizhzhia-sem-energia-externa-geradores-2026-11-08",
+      "category": "MUNDO",
+      "date": "2026-11-08",
+      "title": "Maior usina nuclear da Europa perde energia externa e depende de geradores na Ucrânia",
+      "subtitle": "AIEA confirma desconexão da rede em Zaporizhzhia; diesel disponível para cerca de duas semanas e causa do desligamento ainda desconhecida.",
+      "facts": "A usina nuclear de Zaporizhzhia, no sudeste da Ucrânia e sob controle russo desde 2022, voltou a perder neste domingo, 8 de novembro de 2026, toda a alimentação elétrica externa após a desconexão da linha Ferosplavna. A Agência Internacional de Energia Atômica (AIEA) informou que geradores a diesel estão fornecendo eletricidade para manter os sistemas essenciais, incluindo o resfriamento do combustível nuclear. Segundo a agência, a origem e o local exatos da desconexão ainda não foram determinados. Há combustível suficiente para manter um número limitado de geradores por aproximadamente duas semanas. A linha principal Dniprovska já estava indisponível desde outubro. A administração instalada pela Rússia disse que a proteção automática desligou a linha e afirmou que os níveis de radiação estavam normais; essa última avaliação foi apresentada pela administração da usina, não como medição independente publicada nesta matéria. Os seis reatores não estão gerando eletricidade, mas ainda precisam de resfriamento.",
+      "analysis": "O episódio expõe a vulnerabilidade de uma instalação nuclear que, mesmo desligada, continua dependendo de eletricidade constante para proteger seu combustível. A autonomia estimada dos geradores não é prazo para um acidente, mas uma margem operacional que exige abastecimento e manutenção confiáveis. A guerra tornou o reparo das linhas de transmissão dependente de negociações e cessar-fogo locais. A prioridade deveria ser preservar equipes técnicas, permitir acesso de inspetores internacionais e restabelecer rotas redundantes de energia, independentemente de quem controla militarmente o território. Uma crise nuclear não respeitaria as fronteiras das partes envolvidas.",
+      "counterpoint": "A administração nomeada pela Rússia sustenta que os sistemas de segurança estão operacionais e que a radiação permanece normal. A AIEA confirma a utilização de geradores, mas ressalta que a causa da desconexão não foi identificada. Portanto, não há base para afirmar vazamento radioativo, explosão ou falha iminente do resfriamento. O risco estrutural é real, mas a situação imediata deve ser acompanhada por boletins técnicos, sem alarmismo.",
+      "sources": [
+        {
+          "name": "AIEA — informação técnica divulgada em 08/11/2026, reproduzida pela Reuters",
+          "url": "https://www.reuters.com/world/zaporizhzhia-nuclear-plant-loses-external-power-supply-russian-installed-2026-11-08/"
+        },
+        {
+          "name": "Associated Press — cobertura independente da interrupção de energia, 08/11/2026",
+          "url": "https://apnews.com/article/e64dd583955f11e4cf08ef5af6eaf35b"
+        },
+        {
+          "name": "UOL — usina nuclear tem diesel para duas semanas, 08/11/2026",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/08/usina-nuclear-na-ucrania-tem-diesel-para-duas-semanas-apos-apagao.ghtm"
+        }
+      ]
+    },
+    {
+      "id": "israel-herzog-escolhe-eisenkot-formar-governo-2026-11-08",
+      "category": "INTERNACIONAL",
+      "date": "2026-11-08",
+      "title": "Israel: Herzog escolhe rival de Netanyahu para tentar formar governo",
+      "subtitle": "Gadi Eisenkot recebe a primeira chance de montar uma coalizão após 67 recomendações no Parlamento; a decisão não significa posse nem maioria assegurada.",
+      "facts": "Na noite de sábado, 7 de novembro de 2026, o presidente de Israel, Isaac Herzog, anunciou que dará a Gadi Eisenkot, líder do partido Yashar e ex-chefe das Forças Armadas, a primeira oportunidade de formar o próximo governo. A entrega formal do mandato está prevista para domingo, 8 de novembro, às 17h no horário israelense. Nas consultas realizadas após as eleições parlamentares de 27 de outubro, representantes de 67 dos 120 deputados recomendaram Eisenkot; 46 recomendaram o atual primeiro-ministro, Benjamin Netanyahu, e sete não indicaram candidato. As recomendações não são votos garantidos para uma coalizão. Eisenkot terá inicialmente 28 dias para tentar formar governo, com possibilidade de prorrogação por até 14 dias. Até a conclusão das negociações, Netanyahu não foi substituído.",
+      "analysis": "A escolha de Herzog é um revés político para Netanyahu, mas não uma troca automática de governo. A diferença entre receber indicações e reunir os 61 votos necessários à maioria parlamentar é o centro da crise: interesses de partidos árabes, religiosos e de diferentes correntes do campo oposicionista podem determinar o resultado. A pressão para retirar Netanyahu do poder não resolve, sozinha, os conflitos sobre serviço militar, segurança e composição do gabinete. O teste decisivo será a capacidade de Eisenkot de transformar apoios circunstanciais em um acordo de governo verificável, sem confundir oposição ao premiê com consenso sobre o que virá depois.",
+      "counterpoint": "Netanyahu ainda lidera o Likud e mantém apoio de um bloco expressivo de deputados. Ele defende um governo de unidade nacional e alerta contra uma coalizão dependente de partidos árabes. Por outro lado, Eisenkot diz que buscará parceiros que aceitem princípios comuns de segurança e governabilidade. Nenhum dos dois blocos elegeu, isoladamente, uma maioria parlamentar; se Eisenkot não conseguir formar governo, outros candidatos poderão receber a oportunidade. Não há posse de um novo primeiro-ministro confirmada nesta etapa.",
+      "sources": [
+        {
+          "name": "Presidência de Israel — resultado das consultas parlamentares, 05/11/2026",
+          "url": "https://www.president.gov.il/en/president-herzog-concludes-round-of-consultations-with-knesset-factions-at-the-presidents-residence/"
+        },
+        {
+          "name": "Associated Press — decisão anunciada em 07/11/2026",
+          "url": "https://apnews.com/article/israel-elections-75934bfce1f2f2e43e1823de3761b12d"
+        },
+        {
+          "name": "Anadolu Agency — anúncio e prazo do mandato, 07–08/11/2026",
+          "url": "https://www.aa.com.tr/en/middle-east/israels-president-says-will-task-eisenkot-with-forming-next-government/4115508"
+        },
+        {
+          "name": "The Times of Israel — comunicado da Presidência em 07/11/2026",
+          "url": "https://www.timesofisrael.com/liveblog_entry/herzog-announces-he-will-task-eisenkot-tomorrow-with-forming-new-government-after-meeting-him-and-netanyahu/"
+        }
+      ]
+    },
+    {
+      "id": "arabia-saudita-intercepta-misseis-houthis-riade-2026-11-08",
+      "category": "INTERNACIONAL",
+      "date": "2026-11-08",
+      "title": "Arábia Saudita intercepta mísseis houthis direcionados a Riad em nova escalada",
+      "subtitle": "Coalizão saudita relata a destruição de dois mísseis balísticos rumo à capital neste domingo; ataques e alertas também atingiram outras regiões do país.",
+      "facts": "Neste domingo, 8 de novembro de 2026, a coalizão liderada pela Arábia Saudita afirmou ter interceptado e destruído dois mísseis balísticos lançados pelos houthis do Iêmen em direção a Riad. Segundo a Reuters, a Defesa Civil emitiu alerta na região da capital pouco antes de moradores ouvirem explosões; depois, as autoridades informaram que o risco imediato havia passado. A coalizão também relatou a interceptação de um míssil balístico direcionado à Província Oriental e, em comunicado posterior, de dois mísseis de cruzeiro nas regiões de Riad e do sul. A Anadolu e a Al Jazeera noticiaram os anúncios do porta-voz militar saudita, Turki al-Maliki. As informações sobre interceptações são declarações oficiais sauditas; não equivalem à verificação independente de cada lançamento ou alvo. Não há confirmação, nas fontes consultadas, de vítimas causadas especificamente pelos dois mísseis balísticos dirigidos à capital neste domingo.",
+      "analysis": "A nova sequência de alertas evidencia como a guerra no Iêmen voltou a pressionar a segurança da Arábia Saudita e a infraestrutura de uma região central para o abastecimento mundial de petróleo. A distinção entre lançamentos, interceptações e danos efetivos é essencial: um alerta em Riad não significa que instalações tenham sido atingidas. Ainda assim, a necessidade de acionar defesas aéreas repetidamente amplia custos militares e incertezas para transporte, comércio e investimentos. Do ponto de vista econômico, o risco relevante não está apenas em um impacto direto sobre a produção de petróleo, mas na possibilidade de interrupções preventivas e de uma escalada regional prolongada.",
+      "counterpoint": "A coalizão saudita apresenta as interceptações como medidas defensivas contra ataques houthis. Os houthis, por sua vez, afirmam agir em resposta à campanha militar saudita no Iêmen. As versões sobre a responsabilidade por mortes de civis em ataques recentes no território iemenita são disputadas e não devem ser tratadas como comprovadas sem investigação independente. Os relatos de domingo não demonstram, por si só, que houve danos em Riad ou que os objetivos declarados de qualquer dos lados tenham sido alcançados.",
+      "sources": [
+        {
+          "name": "Reuters — interceptações anunciadas pela coalizão em 8 de novembro de 2026",
+          "url": "https://www.reuters.com/world/middle-east/loud-booms-heard-saudi-capital-riyadh-after-early-warning-alert-issued-2026-11-08/"
+        },
+        {
+          "name": "Anadolu Agency — dois mísseis balísticos e comunicados subsequentes, 8 de novembro de 2026",
+          "url": "https://www.aa.com.tr/en/world/saudi-led-coalition-says-it-intercepted-2-houthi-ballistic-missiles-over-riyadh/4115656"
+        },
+        {
+          "name": "Al Jazeera — ataques anunciados na capital e na Província Oriental, 8 de novembro de 2026",
+          "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province"
+        }
+      ]
+    },
+    {
+      "id": "polonia-luto-nacional-ataque-cracovia-2026-11-08",
+      "category": "INTERNACIONAL",
+      "date": "2026-11-08",
+      "title": "Polônia decreta luto nacional após ataque a tiros que matou seis em Cracóvia",
+      "subtitle": "Decreto presidencial estabelece luto em 8 e 9 de novembro; autoridades investigam motivação do atirador e mortes de três familiares encontradas em outra cidade.",
+      "facts": "A Polônia iniciou neste domingo, 8 de novembro de 2026, dois dias de luto nacional pelas vítimas de um ataque a tiros ocorrido no sábado, 7 de novembro, na praça central de Cracóvia. Segundo comunicado oficial do gabinete do primeiro-ministro Donald Tusk, seis pessoas morreram e 16 ficaram feridas, incluindo o suspeito. O homem, de 24 anos segundo o governo polonês, entrou de carro na praça e disparou contra pessoas no local. Policiais o feriram e detiveram. Na residência ligada ao suspeito, em Ostrowiec Świętokrzyski, foram encontrados os corpos de três familiares, caso também sob investigação. Um decreto presidencial, publicado em 7 de novembro, determinou luto nacional para 8 e 9 de novembro, com bandeiras a meio mastro em edifícios públicos. A contagem de feridos varia entre atualizações jornalísticas, que podem incluir ou excluir o atirador; esta matéria utiliza o balanço divulgado pelo governo polonês.",
+      "analysis": "A decisão de decretar luto nacional mostra a dimensão excepcional do ataque para a Polônia, onde episódios de violência armada em massa são incomuns. O desafio imediato é preservar provas, identificar a sequência dos fatos e esclarecer como o agressor obteve e transportou armamento, sem antecipar conclusões sobre sua motivação. Há também uma questão institucional: reforçar a proteção de espaços públicos sem transformar uma tragédia em justificativa automática para medidas indiscriminadas contra cidadãos que não têm relação com o crime. Uma resposta proporcional depende de investigação transparente, proteção das vítimas e avaliação posterior de falhas concretas de segurança.",
+      "counterpoint": "O ministro do Interior polonês relatou indícios de simpatia do suspeito por ideias ultranacionalistas, mas a motivação precisa e eventuais vínculos organizados continuam sujeitos à investigação. Autoridades também precisam esclarecer a relação entre o ataque em Cracóvia e as mortes encontradas na residência familiar. Medidas reforçadas de segurança podem ser necessárias em locais de grande circulação, mas sua eficácia e proporcionalidade devem ser avaliadas com dados e sem atribuir responsabilidade coletiva a grupos políticos.",
+      "sources": [
+        {
+          "name": "Gabinete do primeiro-ministro da Polônia — balanço e pronunciamento de Donald Tusk, 07/11/2026",
+          "url": "https://www.gov.pl/web/premier/premier-w-obliczu-tragedii-w-krakowie-zobaczylismy-to-co-w-ludziach-najlepsze--odwage-policjantow-poswiecenie-ratownikow-i-bezinteresowna-pomoc-ludzi"
+        },
+        {
+          "name": "Governo polonês — decreto de luto nacional, 07/11/2026",
+          "url": "https://www.gov.pl/web/uw-lubuski/8-i-9-listopada-w-calej-polsce-obowiazuje-zaloba-narodowa"
+        },
+        {
+          "name": "Associated Press — apuração sobre ataque em Cracóvia, 08/11/2026",
+          "url": "https://apnews.com/article/69a65400657ffd0c8b3fa104bd472b97"
+        },
+        {
+          "name": "Reuters — ataque em Cracóvia e investigação, 07/11/2026",
+          "url": "https://www.reuters.com/world/europe/two-kiled-least-10-injured-shooting-polish-city-krakow-tvn24-reports-2026-11-07/"
+        }
+      ]
+    },
+    {
+      "id": "temporal-sao-paulo-dois-desaparecidos-buscas-2026-11-08",
+      "category": "BRASIL",
+      "date": "2026-11-08",
+      "title": "Temporal em São Paulo deixa dois desaparecidos; bombeiros fazem buscas na capital e em Lins",
+      "subtitle": "Jovem foi levado pela correnteza no Capão Redondo e homem desapareceu após embarcação virar no interior; buscas continuam neste domingo.",
+      "facts": "As fortes chuvas que atingiram o estado de São Paulo no sábado, 7 de novembro de 2026, deixaram ao menos duas pessoas desaparecidas, segundo informações divulgadas pela Defesa Civil e pelo Corpo de Bombeiros e reproduzidas por veículos jornalísticos neste domingo, 8. Na zona sul da capital, um jovem de 20 anos foi levado pela correnteza de um córrego na região da rua Goioxim, na Vila Fazzeoni, no Capão Redondo. Equipes de resgate realizaram buscas no córrego e em estruturas de drenagem da região. Em Lins, no interior paulista, um homem de aproximadamente 50 anos desapareceu após o naufrágio de embarcações no Rio Dourado durante o temporal. Outros quatro ocupantes foram localizados. Os balanços refletem as informações disponíveis até o início da tarde de domingo e podem mudar conforme as operações avancem.",
+      "analysis": "Os desaparecimentos mostram que os impactos de um temporal vão além de alagamentos e transtornos no trânsito: correntezas urbanas e cursos d'água podem se tornar ameaças imediatas à vida. O caso na capital concentra a atenção sobre o risco em áreas próximas a córregos e sistemas de drenagem, enquanto a ocorrência em Lins evidencia perigos também em atividades fluviais durante condições meteorológicas adversas. A prioridade operacional é localizar as vítimas e manter a população afastada de áreas inundadas; qualquer avaliação sobre responsabilidades e eventuais falhas de infraestrutura deve se apoiar em perícias e informações oficiais posteriores.",
+      "counterpoint": "As circunstâncias exatas em que o jovem entrou no córrego ainda são objeto de relatos divergentes e não devem ser apresentadas como conclusão policial. Tampouco há confirmação de morte dos desaparecidos nas fontes consultadas. O volume de chuva e a gravidade dos impactos variaram entre municípios, de modo que os dois casos não demonstram, por si, uma causa única ou falha específica de gestão.",
+      "sources": [
+        {
+          "name": "CNN Brasil — desaparecidos após temporal, 08/11/2026",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/homem-esta-desaparecido-apos-ser-arrastado-por-enxurrada-na-zona-sul-de-sp/"
+        },
+        {
+          "name": "Metrópoles — balanço de dois desaparecidos, 08/11/2026",
+          "url": "https://www.metropoles.com/sao-paulo/sobe-para-2-o-numero-de-desaparecidos-apos-temporal-atingir-estado-de-sp"
+        },
+        {
+          "name": "UOL/Agência Estado — buscas no Capão Redondo, 08/11/2026",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/08/homem-e-arrastado-pelas-chuvas-no-capao-redondo-e-esta-desaparecido.htm"
+        }
+      ]
+    }
+  ],
+  "principles": [
+    "Perspectiva editorial declarada",
+    "Fatos atribuídos a fontes identificáveis",
+    "Interpretações próprias do Raven Crow",
+    "Outras interpretações apresentadas com contexto"
+  ]
+}

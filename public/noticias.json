@@ -1,10 +1,67 @@
 {
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
-  "edition": "08/11/2026",
-  "updatedAt": "2026-11-09T01:02:31-03:00",
+  "edition": "09/11/2026",
+  "updatedAt": "2026-11-09T04:49:05-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "incendio-predio-taiyuan-china-14-mortos-2026-11-09",
+      "date": "2026-11-09",
+      "category": "MUNDO",
+      "title": "Incêndio em prédio na China deixa ao menos 14 mortos; causa é investigada",
+      "subtitle": "Fogo atingiu um edifício de vários andares em Taiyuan, na província de Shanxi; 38 pessoas foram encaminhadas a hospitais, segundo autoridades locais.",
+      "facts": "Um incêndio atingiu um edifício de vários andares na região central de Taiyuan, capital da província de Shanxi, no norte da China, no domingo, 8 de novembro de 2026. Segundo informações da agência estatal Xinhua, confirmadas por reportagens da Reuters e do South China Morning Post, o balanço atualizado nesta segunda-feira, 9 de novembro, chegou a pelo menos 14 mortos. As chamas começaram às 16h59 do horário local (5h59 no horário de Brasília). O fogo foi controlado aproximadamente duas horas depois; a operação de resgate foi encerrada por volta das 20h30, hora local. Autoridades informaram que 38 pessoas foram encaminhadas a hospitais. A Reuters relatou que 25 permaneciam hospitalizadas, das quais nove em estado grave. O edifício fica no distrito central de Yingze e, conforme o South China Morning Post, abrigava apartamentos, um hotel e instalações educacionais. A origem do incêndio ainda estava sob investigação no último balanço divulgado.",
+      "analysis": "A ocorrência chama atenção para os desafios de combate a incêndios em edifícios altos e de uso misto, especialmente quando há residentes, visitantes e estabelecimentos funcionando no mesmo endereço. A altura da estrutura e a circulação de pessoas podem complicar a evacuação, mas ainda não há conclusões oficiais sobre como o fogo se propagou neste caso. O número de mortos informado nesta segunda-feira é um balanço atualizado, não necessariamente definitivo. Para entender as responsabilidades e evitar interpretações precipitadas, será necessário acompanhar o laudo das autoridades e a evolução do atendimento às vítimas.",
+      "counterpoint": "As imagens do incêndio divulgadas por agências e veículos de imprensa não foram republicadas porque não foi comprovada autorização de reutilização. A fotografia que acompanha esta notícia é um registro de arquivo da cidade de Taiyuan feito em dezembro de 2019; não mostra o edifício que pegou fogo em 8 de novembro de 2026. A informação disponível não permite atribuir o incêndio a falhas específicas, negligência, crime ou qualquer outra causa. Os números de vítimas podem ser atualizados pelas autoridades.",
+      "sources": [
+        {
+          "name": "Reuters — High-rise residential fire kills 14 in China's northern city of Taiyuan (09/11/2026)",
+          "url": "https://www.reuters.com/world/china/apartment-building-fire-northern-china-kills-14-2026-11-09/"
+        },
+        {
+          "name": "Xinhua — Número de víctimas mortales sube a 14 por incendio en Taiyuan (09/11/2026)",
+          "url": "https://spanish.xinhuanet.com/20261109/a096d8640ae14221b6b7a7aa0e2eca6e/c.html"
+        },
+        {
+          "name": "South China Morning Post — Fire in northern China high-rise building kills 14 (09/11/2026)",
+          "url": "https://www.scmp.com/news/china/politics/article/3373750/fire-northern-china-high-rise-building-kills-14-injures-dozens-more"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Taiyuan20190430.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Xiquinho Silva / Wikimedia Commons",
+          "license": "CC BY 2.0 - https://creativecommons.org/licenses/by/2.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Taiyuan20190430.jpg",
+          "caption": "FOTO DE ARQUIVO (08/12/2019): paisagem urbana de Taiyuan, na província de Shanxi, China. Imagem ilustrativa da cidade, que NÃO mostra o prédio atingido nem o incêndio de 08/11/2026."
+        }
+      ],
+      "en": {
+        "title": "China high-rise fire kills at least 14 in Taiyuan; cause under investigation",
+        "subtitle": "The blaze broke out in a multi-storey building in Shanxi province; local authorities said 38 people were taken to hospitals.",
+        "facts": "A fire broke out at a multi-storey building in central Taiyuan, the capital of Shanxi province in northern China, on Sunday, November 8, 2026. China's state-run Xinhua news agency reported an updated death toll of at least 14 on Monday, November 9, corroborated by reports from Reuters and the South China Morning Post. The blaze started at 4:59 p.m. local time (5:59 a.m. in Brasília). Firefighters brought it under control roughly two hours later, and rescue operations ended at around 8:30 p.m. local time. Authorities said 38 people were taken to hospitals. Reuters reported that 25 people remained hospitalized, nine of them seriously injured. The building is in the central Yingze district and, according to the South China Morning Post, housed flats, a hotel and education facilities. Authorities were still investigating what caused the fire.",
+        "analysis": "The disaster highlights the challenges of firefighting and evacuation in tall, mixed-use buildings, where residents, guests and businesses may occupy the same premises. Building height and occupancy can make emergency response more difficult, but officials have not established how this particular fire spread. Monday's death toll is an updated count and may change. A credible assessment of possible failures or responsibility must await official investigative findings and further information about those being treated.",
+        "counterpoint": "Footage and photographs of the fire circulated by news agencies were not republished because reuse permissions had not been verified. The licensed photograph used here is an archival city view of Taiyuan taken in December 2019. It does not show the building involved or the fire on November 8, 2026. No confirmed evidence currently establishes negligence, arson or another specific cause, and casualty figures may be revised.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (December 8, 2019): cityscape of Taiyuan, Shanxi province, China. Illustrative city image; it does NOT show the affected building or the fire on November 8, 2026."
+        }
+      },
+      "es": {
+        "title": "Un incendio en un edificio de Taiyuan, China, deja al menos 14 muertos",
+        "subtitle": "Las llamas afectaron un inmueble de varios pisos en Shanxi; 38 personas fueron trasladadas a hospitales, según las autoridades.",
+        "facts": "Un incendio afectó un edificio de varios pisos en el centro de Taiyuan, capital de la provincia de Shanxi, en el norte de China, el domingo 8 de noviembre de 2026. La agencia estatal Xinhua informó este lunes 9 de noviembre que el balance de fallecidos ascendió a por lo menos 14, cifra recogida por Reuters y el South China Morning Post. El fuego comenzó a las 16:59 hora local (5:59 en Brasilia). Los bomberos controlaron las llamas unas dos horas después y las operaciones de rescate terminaron alrededor de las 20:30, hora local. Las autoridades informaron que 38 personas fueron trasladadas a hospitales. Reuters señaló que 25 permanecían ingresadas, nueve de ellas en estado grave. El inmueble se encuentra en el distrito central de Yingze y, según el South China Morning Post, albergaba viviendas, un hotel e instalaciones educativas. Las causas del siniestro seguían bajo investigación.",
+        "analysis": "La tragedia pone de relieve las dificultades de la extinción de incendios y la evacuación en edificios altos de uso mixto, donde pueden coincidir residentes, huéspedes y actividades comerciales. La altura y la ocupación pueden complicar las tareas de emergencia, pero todavía no hay conclusiones oficiales sobre la propagación de este incendio. La cifra de fallecidos divulgada este lunes es un balance actualizado que podría cambiar. Para evaluar responsabilidades es necesario esperar los resultados de la investigación y nuevas informaciones sobre los heridos.",
+        "counterpoint": "No se reprodujeron fotografías ni imágenes del incendio difundidas por agencias de prensa porque no se comprobó una autorización de reutilización. La fotografía autorizada que acompaña esta nota muestra una vista de archivo de Taiyuan tomada en diciembre de 2019: no representa el edificio afectado ni el incendio del 8 de noviembre de 2026. Tampoco existen conclusiones confirmadas sobre negligencia, incendio provocado u otra causa concreta. El balance de víctimas puede ser revisado.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (8 de diciembre de 2019): vista urbana de Taiyuan, provincia de Shanxi, China. Imagen ilustrativa de la ciudad; NO muestra el edificio afectado ni el incendio del 8 de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "quaest-39-por-cento-esperam-piora-economia-2026-11-09",
       "date": "2026-11-09",
