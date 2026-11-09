@@ -1,6 +1,59 @@
 {
   "articles": [
     {
+      "id": "pgr-pede-arquivamento-inquerito-fake-news-stf-2026-11-09",
+      "date": "2026-11-09",
+      "category": "JUSTIÇA",
+      "title": "PGR pede arquivamento do inquérito das fake news após mais de sete anos",
+      "subtitle": "Parecer de Paulo Gonet foi encaminhado ao presidente do STF, Edson Fachin, que deverá decidir sobre o encerramento da investigação aberta em 2019.",
+      "facts": "A Procuradoria-Geral da República (PGR) pediu nesta segunda-feira, 9 de novembro de 2026, o arquivamento do chamado inquérito das fake news, aberto em 2019 no Supremo Tribunal Federal (STF). Segundo reportagens da Folha de S.Paulo e do UOL, o procurador-geral Paulo Gonet enviou manifestação ao presidente da Corte, ministro Edson Fachin, que passou a conduzir o procedimento em setembro. A investigação, anteriormente relatada por Alexandre de Moraes, foi instaurada para apurar ameaças, ofensas e ataques contra ministros do STF. O inquérito tornou-se alvo de controvérsias por sua duração, pelo sigilo e pela forma de instauração. A Folha informa que o procedimento original reúne aproximadamente 12 mil páginas e que oito denúncias tiveram relação direta com seu objeto inicial. O pedido da PGR não equivale ao arquivamento definitivo: cabe a Fachin analisar o parecer e proferir a decisão.",
+      "analysis": "O pedido da PGR representa um novo passo institucional no encerramento de uma investigação que atravessou mais de sete anos e suscitou debates sobre limites do poder investigativo do STF, transparência e proteção de seus integrantes. Uma eventual decisão de arquivamento não significa, por si só, que todas as medidas adotadas no período tenham sido consideradas ilegais, nem encerra automaticamente investigações ou ações penais autônomas. A divulgação dos fundamentos da decisão e do alcance exato do encerramento será importante para avaliar os efeitos jurídicos e políticos do caso.",
+      "counterpoint": "O STF validou em 2020 a abertura do inquérito, embora críticos tenham questionado a escolha do relator sem sorteio e a concentração de funções na Corte. Defensores da apuração sustentaram que ela era necessária diante de ameaças aos ministros e às instituições. O parecer de arquivamento é um pedido do Ministério Público, não uma decisão judicial consumada. A fotografia de Paulo Gonet é de arquivo, feita em fevereiro de 2025, e não registra a manifestação de 9 de novembro de 2026.",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo — PGR pede fim do inquérito das fake news (09/11/2026)",
+          "url": "https://www1.folha.uol.com.br/poder/2026/11/pgr-pede-fim-do-inquerito-das-fake-news-depois-de-mais-de-7-anos-de-tramitacao.shtml"
+        },
+        {
+          "name": "UOL — PGR defende arquivamento do inquérito das fake news (09/11/2026)",
+          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/09/pgr-defende-arquivamento-do-inquerito-das-fake-news.ghtm"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Paulo_Gonet_%283x4%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Jefferson Rudy/Agência Senado",
+          "license": "CC BY 2.0 - https://creativecommons.org/licenses/by/2.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Paulo_Gonet_(3x4).jpg",
+          "caption": "FOTO DE ARQUIVO (03/02/2025): procurador-geral Paulo Gonet em sessão solene no Congresso Nacional, Brasília. Não retrata o pedido de arquivamento de 09/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Brazil's prosecutor-general asks Supreme Court to close seven-year 'fake news' inquiry",
+        "subtitle": "Paulo Gonet's recommendation was sent to Supreme Court president Edson Fachin, who must decide whether to formally close the 2019 investigation.",
+        "facts": "Brazil's Procuradoria-Geral da República (PGR, Office of the Prosecutor-General) requested on Monday, November 9, 2026, that the Supremo Tribunal Federal (STF, Brazil's Federal Supreme Court) close the so-called fake news inquiry opened in 2019. According to Folha de S.Paulo and UOL, Prosecutor-General Paulo Gonet submitted his recommendation to Chief Justice Edson Fachin, who took charge of the case in September. Previously overseen by Justice Alexandre de Moraes, the inquiry was launched to investigate threats, insults and attacks against STF justices. It became controversial over its duration, secrecy and manner of initiation. Folha reports that the original case file contains approximately 12,000 pages and that eight indictments were directly related to its initial scope. Gonet's recommendation is not a final closure order; Fachin must consider it and issue a decision.",
+        "analysis": "The PGR's request marks a further institutional step toward ending an investigation that has lasted more than seven years and prompted debate over the STF's investigative powers, transparency and protection of its members. A decision to close the inquiry would not, by itself, establish that every measure taken was unlawful or automatically end separate investigations or criminal cases. The reasoning and precise scope of any court order will be crucial to assessing its legal and political effects.",
+        "counterpoint": "The STF upheld the inquiry's creation in 2020, although critics questioned the assignment of the case without a random draw and the concentration of institutional roles. Supporters argued that the investigation was needed in response to threats against judges and democratic institutions. The prosecutor-general's submission is a recommendation, not a completed judicial closure. The accompanying photograph of Paulo Gonet dates from February 2025 and does not depict the November 9, 2026 submission.",
+        "category": "JUSTICE",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (February 3, 2025): Prosecutor-General Paulo Gonet at a formal session in Brazil's Congress in Brasília. It does not show the November 9, 2026 filing."
+        }
+      },
+      "es": {
+        "title": "La Fiscalía de Brasil pide archivar la investigación sobre las 'fake news' tras más de siete años",
+        "subtitle": "El dictamen de Paulo Gonet fue enviado al presidente del STF, Edson Fachin, quien deberá decidir si cierra el expediente abierto en 2019.",
+        "facts": "La Procuradoria-Geral da República (PGR, Fiscalía General de Brasil) solicitó este lunes 9 de noviembre de 2026 el archivo de la llamada investigación de las fake news, abierta en 2019 en el Supremo Tribunal Federal (STF, Tribunal Supremo Federal de Brasil). Según Folha de S.Paulo y UOL, el fiscal general Paulo Gonet remitió su dictamen al presidente del tribunal, Edson Fachin, quien asumió la conducción del expediente en septiembre. La investigación, antes dirigida por Alexandre de Moraes, se inició para examinar amenazas, injurias y ataques contra magistrados del STF. Su duración, el secreto de las actuaciones y la forma de apertura generaron controversias. Folha señala que el expediente original contiene unas 12.000 páginas y que ocho acusaciones estuvieron directamente relacionadas con su objeto inicial. La petición de la PGR no supone el archivo definitivo: Fachin deberá examinarla y decidir.",
+        "analysis": "La solicitud representa un nuevo paso institucional hacia el cierre de una investigación que se prolongó más de siete años y abrió debates sobre los poderes de investigación del STF, la transparencia y la protección de sus miembros. Un eventual archivo no significaría, por sí mismo, que todas las medidas anteriores fueran ilegales ni cerraría automáticamente otros procesos penales o investigaciones independientes. Los fundamentos y el alcance exacto de la decisión serán esenciales para valorar sus efectos jurídicos y políticos.",
+        "counterpoint": "El STF avaló en 2020 la apertura de la investigación, aunque sus críticos cuestionaron la designación del instructor sin sorteo y la concentración de funciones en el tribunal. Sus defensores consideraron necesaria la investigación frente a las amenazas a magistrados e instituciones. El dictamen de la Fiscalía es una solicitud, no una decisión judicial definitiva. La fotografía de Paulo Gonet es de febrero de 2025 y no corresponde a la presentación del 9 de noviembre de 2026.",
+        "category": "JUSTICIA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (3 de febrero de 2025): el fiscal general Paulo Gonet durante una sesión solemne en el Congreso de Brasil, en Brasilia. No muestra la solicitud del 9 de noviembre de 2026."
+        }
+      }
+    },
+    {
       "id": "omm-2026-quatro-anos-mais-quentes-relatorio-cop31-2026-11-09",
       "date": "2026-11-09",
       "category": "MEIO AMBIENTE",
