@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "fachin-arquiva-inquerito-fake-news-stf-2026-11-10": "editorial/covers/fachin-arquiva-inquerito-fake-news-stf-2026-11-10.svg",
     "china-prorroga-suspensao-controles-terras-raras-2026-11-09": "editorial/covers/china-prorroga-suspensao-controles-terras-raras-2026-11-09.svg",
     "pgr-pede-arquivamento-inquerito-fake-news-stf-2026-11-09": "editorial/covers/pgr-pede-arquivamento-inquerito-fake-news-stf-2026-11-09.svg",
     "omm-2026-quatro-anos-mais-quentes-relatorio-cop31-2026-11-09": "editorial/covers/omm-2026-quatro-anos-mais-quentes-relatorio-cop31-2026-11-09.svg",
@@ -138,7 +139,8 @@
     "omm-2026-quatro-anos-mais-quentes-relatorio-cop31-2026-11-09": "editorial/photos/omm-2026-quatro-anos-mais-quentes-relatorio-cop31-2026-11-09.jpg",
     "pgr-pede-arquivamento-inquerito-fake-news-stf-2026-11-09": "editorial/photos/pgr-pede-arquivamento-inquerito-fake-news-stf-2026-11-09.jpg",
     "china-prorroga-suspensao-controles-terras-raras-2026-11-09": "editorial/photos/china-prorroga-suspensao-controles-terras-raras-2026-11-09.jpg",
-    "a-padaria-e-o-alvara-para-o-sol-nascer-2026-11-09": "editorial/photos/a-padaria-e-o-alvara-para-o-sol-nascer-2026-11-09.jpg"
+    "a-padaria-e-o-alvara-para-o-sol-nascer-2026-11-09": "editorial/photos/a-padaria-e-o-alvara-para-o-sol-nascer-2026-11-09.jpg",
+    "fachin-arquiva-inquerito-fake-news-stf-2026-11-10": "editorial/photos/fachin-arquiva-inquerito-fake-news-stf-2026-11-10.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -488,6 +490,12 @@
       "srcset": "editorial/photos/a-padaria-e-o-alvara-para-o-sol-nascer-2026-11-09-640.webp 640w, editorial/photos/a-padaria-e-o-alvara-para-o-sol-nascer-2026-11-09-1280.webp 1280w",
       "width": 1280,
       "height": 772
+    },
+    "fachin-arquiva-inquerito-fake-news-stf-2026-11-10": {
+      "src": "editorial/photos/fachin-arquiva-inquerito-fake-news-stf-2026-11-10-800.webp",
+      "srcset": "editorial/photos/fachin-arquiva-inquerito-fake-news-stf-2026-11-10-640.webp 640w, editorial/photos/fachin-arquiva-inquerito-fake-news-stf-2026-11-10-800.webp 800w",
+      "width": 800,
+      "height": 1100
     }
   }
 }
