@@ -142,3 +142,15 @@ test('every HTML page gets the same favicon links in <head>, unless it already d
   const art = await (await call('/noticias/abc-def/', {}, e)).text();
   assert.equal((art.match(/rel="icon"/g) || []).length, 1);
 });
+
+test('plain UTF-8 IndexNow key is served unchanged from R2', async () => {
+  const key = 'a'.repeat(32), name = key + '.txt';
+  const e = { RAVEN_MEDIA: bucket({ [name]: Buffer.from(key) }) };
+  const r = await call('/' + name, {}, e);
+  assert.equal(r.status, 200);
+  assert.match(r.headers.get('content-type'), /^text\/plain/);
+  assert.equal(await r.text(), key);
+  const head = await call('/' + name, { method: 'HEAD' }, e);
+  assert.equal(head.status, 200);
+  assert.equal(head.body, null);
+});
