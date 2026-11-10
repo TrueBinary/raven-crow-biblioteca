@@ -1,0 +1,25 @@
+name: Newsletter diária
+# Resumo das notícias de ontem para os assinantes do Buttondown, às 07:05 de Brasília.
+# O slug resumo-AAAA-MM-DD impede envio duplicado se o job rodar de novo.
+on:
+  schedule:
+    - cron: '5 10 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  resumo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    environment: CLoudinhoooo
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Enviar resumo
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+        run: python newsletter_send.py resumo

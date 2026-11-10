@@ -74,6 +74,13 @@ jobs:
         run: |
           set -o pipefail
           node ops/cloudflare/release.mjs "$(git rev-parse HEAD)" ${{ inputs.dry_run && '--dry-run' || '' }} | tee release-summary.json
+      - name: Newsletter da Coluna
+        # Só depois do R2: o link do e-mail já precisa abrir. Falha aqui não derruba o release.
+        if: steps.push.outputs.pushed == 'true' && !inputs.dry_run
+        continue-on-error: true
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+        run: python newsletter_send.py coluna
       - name: Resumo
         if: always()
         run: |
