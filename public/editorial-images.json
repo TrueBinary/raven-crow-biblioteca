@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "justica-suspende-regras-vale-refeicao-abbt-2026-11-10": "editorial/covers/justica-suspende-regras-vale-refeicao-abbt-2026-11-10.svg",
     "fachin-arquiva-inquerito-fake-news-stf-2026-11-10": "editorial/covers/fachin-arquiva-inquerito-fake-news-stf-2026-11-10.svg",
     "china-prorroga-suspensao-controles-terras-raras-2026-11-09": "editorial/covers/china-prorroga-suspensao-controles-terras-raras-2026-11-09.svg",
     "pgr-pede-arquivamento-inquerito-fake-news-stf-2026-11-09": "editorial/covers/pgr-pede-arquivamento-inquerito-fake-news-stf-2026-11-09.svg",
@@ -140,7 +141,8 @@
     "pgr-pede-arquivamento-inquerito-fake-news-stf-2026-11-09": "editorial/photos/pgr-pede-arquivamento-inquerito-fake-news-stf-2026-11-09.jpg",
     "china-prorroga-suspensao-controles-terras-raras-2026-11-09": "editorial/photos/china-prorroga-suspensao-controles-terras-raras-2026-11-09.jpg",
     "a-padaria-e-o-alvara-para-o-sol-nascer-2026-11-09": "editorial/photos/a-padaria-e-o-alvara-para-o-sol-nascer-2026-11-09.jpg",
-    "fachin-arquiva-inquerito-fake-news-stf-2026-11-10": "editorial/photos/fachin-arquiva-inquerito-fake-news-stf-2026-11-10.jpg"
+    "fachin-arquiva-inquerito-fake-news-stf-2026-11-10": "editorial/photos/fachin-arquiva-inquerito-fake-news-stf-2026-11-10.jpg",
+    "justica-suspende-regras-vale-refeicao-abbt-2026-11-10": "editorial/photos/justica-suspende-regras-vale-refeicao-abbt-2026-11-10.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -496,6 +498,12 @@
       "srcset": "editorial/photos/fachin-arquiva-inquerito-fake-news-stf-2026-11-10-640.webp 640w, editorial/photos/fachin-arquiva-inquerito-fake-news-stf-2026-11-10-800.webp 800w",
       "width": 800,
       "height": 1100
+    },
+    "justica-suspende-regras-vale-refeicao-abbt-2026-11-10": {
+      "src": "editorial/photos/justica-suspende-regras-vale-refeicao-abbt-2026-11-10-1280.webp",
+      "srcset": "editorial/photos/justica-suspende-regras-vale-refeicao-abbt-2026-11-10-640.webp 640w, editorial/photos/justica-suspende-regras-vale-refeicao-abbt-2026-11-10-1280.webp 1280w",
+      "width": 1280,
+      "height": 640
     }
   }
 }
