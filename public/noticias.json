@@ -2,9 +2,70 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "10/11/2026",
-  "updatedAt": "2026-11-10T18:01:51-03:00",
+  "updatedAt": "2026-11-10T19:00:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "porto-santos-confirma-ataque-cibernetico-sistemas-2026-11-10",
+      "date": "2026-11-10",
+      "category": "BRASIL",
+      "title": "Porto de Santos confirma ataque cibernético; sistemas seguem parcialmente fora do ar",
+      "subtitle": "Autoridade portuária afirma que navios e caminhões operam normalmente, mas ainda investiga o alcance do incidente e possível acesso a dados.",
+      "facts": "A Autoridade Portuária de Santos (APS) confirmou em 10 de novembro de 2026 que seus sistemas sofreram um ataque cibernético, após falhas iniciadas na sexta-feira, 6 de novembro, na sequência de uma queda de energia. Segundo nota da APS reproduzida por diferentes veículos, a extensão do ataque e a eventual exposição de dados ainda não foram determinadas. Internet e telefonia foram restabelecidas na segunda-feira, 9, enquanto o site institucional e parte dos sistemas internos continuavam indisponíveis. A APS afirma que as operações de navios, cargas e acessos terrestres não foram paralisadas, com procedimentos de contingência e uso do sistema federal Porto Sem Papel. A comissão de segurança portuária elevou preventivamente o nível de proteção dos acessos. As informações sobre abertura de inquérito pela Polícia Federal divergem entre reportagens publicadas ao longo do dia; por isso não é possível afirmar nesta edição que um inquérito tenha sido instaurado.",
+      "analysis": "O incidente no maior porto do Brasil evidencia como a indisponibilidade de sistemas administrativos pode atingir um nó crítico do comércio exterior, mesmo quando o fluxo físico de mercadorias é preservado. O uso de contingências e de uma plataforma federal separada ajudou a manter autorizações e comunicações essenciais. Ainda assim, sem perícia divulgada não se pode atribuir autoria, determinar se houve ransomware, estimar prejuízos nem confirmar vazamento de dados. A elevação preventiva do nível de proteção não significa, por si só, paralisação ou comprometimento dos sistemas operacionais.",
+      "counterpoint": "A APS sustenta que nenhum serviço portuário deixou de ser prestado e que os sistemas estão sendo recuperados gradualmente. Há relatos distintos sobre a existência de investigação formal da PF: reportagens da tarde citam a corporação dizendo que ainda não recebera documentação para instaurar inquérito, enquanto outra publicação posterior afirma que um inquérito foi aberto. A situação deve ser atualizada somente após confirmação documental. Não há comprovação pública de autoria do ataque ou de vazamento de dados.",
+      "sources": [
+        {
+          "name": "Portogente — APS confirma ataque e recuperação parcial (10/11/2026)",
+          "url": "https://portogente.com.br/noticias/transporte-logistica/118229-porto-de-santos-opera-sem-paralisacao-mas-sistemas-da-aps-seguem-parcialmente-fora-do-ar-apos-ataque-cibernetico"
+        },
+        {
+          "name": "SBT News — Porto de Santos confirma ataque hacker (10/11/2026)",
+          "url": "https://sbtnews.sbt.com.br/noticia/brasil/porto-de-santos-confirma-que-sofreu-ataque-hacker"
+        },
+        {
+          "name": "Jovem Pan — nota da APS e manifestação da PF (10/11/2026)",
+          "url": "https://jovempan.com.br/brasil/porto-de-santos-confirma-ataque-hacker-nos-sistemas/"
+        },
+        {
+          "name": "Folha — contingência com Porto Sem Papel (10/11/2026)",
+          "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/11/apos-ataque-hacker-agentes-portuarios-usaram-celulares-para-manter-o-porto-de-santos-funcionando.shtml"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Porto_de_Santos_a%C3%A9rea.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution 2.0 Generic (CC BY 2.0) — https://creativecommons.org/licenses/by/2.0/",
+          "credit": "Agência CNT de Notícias / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Porto_de_Santos_a%C3%A9rea.jpg",
+          "caption": "FOTO DE ARQUIVO (22/02/2014): vista aérea de instalações do Porto de Santos, São Paulo. Imagem ilustrativa; não mostra o ataque cibernético de novembro de 2026."
+        }
+      ],
+      "en": {
+        "title": "Port of Santos confirms cyberattack as some systems remain offline",
+        "subtitle": "Port authority says shipping and road access continue normally, while investigators assess the breach and whether data was accessed.",
+        "facts": "Brazil's Port of Santos Authority (APS) confirmed on November 10, 2026, that its systems suffered a cyberattack after outages began on Friday, November 6, following a power failure. In a statement reported by several outlets, APS said the scope of the attack and any possible access to data had not yet been established. Internet and telephone service returned on Monday, November 9, but its website and some internal systems remained unavailable. APS said vessel movements, cargo handling and road access continued without interruption through contingency procedures and the federal Porto Sem Papel documentation platform. A port security commission raised the protection level for access points as a precaution. Reports differed on whether the Federal Police had formally opened an investigation, so this article does not present that as established.",
+        "analysis": "The incident shows how disruption of administrative technology can affect a critical hub for Brazil's foreign trade even when physical cargo flows continue. Contingency measures and a separate federal platform helped maintain essential communications and approvals. Without published forensic findings, the attackers cannot be identified and claims about ransomware, losses or data theft remain unverified. Raising the port's security level does not by itself mean its operating systems were compromised.",
+        "counterpoint": "APS says no port services were suspended and recovery is proceeding gradually. Reports published at different times conflict over whether the Federal Police opened a formal inquiry: afternoon coverage quoted police saying they had not yet received documentation, while another report later said an inquiry had begun. That status requires direct confirmation. Neither responsibility for the attack nor a data breach has been publicly established.",
+        "category": "BRAZIL",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (February 22, 2014): aerial view of facilities at the Port of Santos, São Paulo, Brazil. Illustrative image; it does not show the November 2026 cyberattack."
+        }
+      },
+      "es": {
+        "title": "El Puerto de Santos confirma un ciberataque y mantiene algunos sistemas fuera de servicio",
+        "subtitle": "La autoridad portuaria asegura que los buques y los accesos terrestres operan con normalidad mientras investiga el alcance del incidente y un posible acceso a datos.",
+        "facts": "La Autoridad Portuaria de Santos (APS), en Brasil, confirmó el 10 de noviembre de 2026 que sus sistemas sufrieron un ciberataque después de fallas iniciadas el viernes 6 de noviembre tras un corte de electricidad. Según el comunicado reproducido por varios medios, aún no se ha determinado el alcance del ataque ni si hubo acceso a datos. Internet y telefonía fueron restablecidos el lunes 9 de noviembre, pero el sitio institucional y algunos sistemas internos seguían sin funcionar. APS afirma que el movimiento de buques, la carga y los accesos terrestres continuaron sin interrupción mediante procedimientos de contingencia y la plataforma federal Porto Sem Papel. Una comisión de seguridad portuaria elevó preventivamente el nivel de protección de los accesos. Las informaciones difieren sobre si la Policía Federal abrió formalmente una investigación, por lo que este artículo no lo da por confirmado.",
+        "analysis": "El incidente demuestra cómo la interrupción de sistemas administrativos puede afectar un nodo esencial del comercio exterior brasileño incluso cuando la circulación física de mercancías continúa. Los procedimientos de contingencia y una plataforma federal independiente ayudaron a mantener comunicaciones y autorizaciones. Sin resultados periciales publicados, no se puede identificar a los responsables ni confirmar ransomware, pérdidas o filtración de datos. La elevación preventiva del nivel de protección no significa por sí misma que los sistemas operativos hayan sido comprometidos.",
+        "counterpoint": "APS sostiene que ningún servicio portuario fue suspendido y que la recuperación avanza gradualmente. Las noticias publicadas en distintos momentos se contradicen sobre la apertura de una investigación formal por la Policía Federal: informaciones de la tarde citaron a la institución afirmando que todavía no había recibido documentación, mientras otra publicación posterior aseguró que ya había una investigación. Se requiere confirmación directa. No se ha demostrado públicamente la autoría del ataque ni una filtración de datos.",
+        "category": "BRASIL",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (22 de febrero de 2014): vista aérea de instalaciones del Puerto de Santos, São Paulo, Brasil. Imagen ilustrativa; no muestra el ciberataque de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "irmao-viktor-orban-detido-trafico-pessoas-hungria-2026-11-10",
       "date": "2026-11-10",
