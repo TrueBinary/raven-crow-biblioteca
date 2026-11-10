@@ -8,7 +8,7 @@ import re
 from html import escape
 
 # Nome de usuário público da conta no Buttondown (buttondown.com/<usuário>).
-BUTTONDOWN_USER = ""
+BUTTONDOWN_USER = "ravencrowcc"
 
 CSS = (
     ".rc-nl{background:#141013;border:1px solid #4f1418;border-left:6px solid #e42e3b;border-radius:6px;padding:28px;margin:44px 0;color:#f4f1ec}"
