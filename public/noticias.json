@@ -2,9 +2,58 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "10/11/2026",
-  "updatedAt": "2026-11-10T04:00:39-03:00",
+  "updatedAt": "2026-11-10T07:01:33-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "ministerio-justica-pede-remocao-348-perfis-bets-ilegais-2026-11-10",
+      "date": "2026-11-10",
+      "category": "JUSTIÇA",
+      "title": "Ministério da Justiça pede remoção de 348 perfis que divulgam bets ilegais",
+      "subtitle": "Segundo o governo, contas no Instagram somam mais de 150 milhões de seguidores; pedido de derrubada não significa que os perfis já tenham sido removidos.",
+      "facts": "Em comunicado publicado em 9 de novembro de 2026, às 20h16, o Ministério da Justiça e Segurança Pública (MJSP) informou ter solicitado a derrubada de 348 perfis de influenciadores digitais no Instagram por divulgação de apostas ilegais. Segundo a pasta, as contas somam mais de 150 milhões de seguidores e uma delas tem 1,4 milhão. A fiscalização envolve a Secretaria Nacional de Direitos Digitais (Sedigi), a Secretaria Nacional de Segurança Pública (Senasp) e o Laboratório de Operações Cibernéticas (Ciberlab). O balanço divulgado pelo ministério aponta ainda 2.207 páginas do Facebook, 18 grupos no Telegram e 998 sites identificados apenas em 9 de novembro. Desde 25 de setembro, o monitoramento contabilizou mais de 60 mil sites, páginas, perfis, grupos e servidores ligados à promoção de apostas irregulares. A iniciativa ocorre após a Medida Provisória nº 1.394/2026, que proibiu a exploração, oferta, intermediação e publicidade de apostas no país. O ministério não divulgou, no comunicado, a lista nominal dos 348 perfis nem confirmou que todas as plataformas já executaram as remoções.",
+      "analysis": "O pedido mostra uma mudança de foco da fiscalização: além dos endereços das plataformas de apostas, o governo busca interromper os canais de divulgação que atraem consumidores. A audiência agregada de mais de 150 milhões representa a soma dos seguidores informados, não 150 milhões de pessoas distintas, pois uma mesma pessoa pode seguir várias contas. O alcance real e a efetividade das medidas dependerão da resposta das plataformas e de eventual contestação pelos responsáveis pelos perfis.",
+      "counterpoint": "A nota oficial apresenta números de monitoramento e pedidos de retirada, não uma decisão judicial definitiva contra cada influenciador. A divulgação de uma plataforma supostamente irregular precisa ser analisada individualmente, com critérios transparentes e possibilidade de contestação. Não há base no comunicado para atribuir crimes a pessoas específicas nem para afirmar que todos os 348 perfis já foram excluídos.",
+      "sources": [
+        {
+          "name": "Ministério da Justiça e Segurança Pública — comunicado oficial de 09/11/2026",
+          "url": "https://www.gov.br/mj/pt-br/assuntos/noticias/mjsp-pede-derrubada-de-348-perfis-de-influenciadores-que-divulgam-bets-ilegais"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Sport_gambling.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Temfack sonfack/Wikimedia Commons",
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Sport_gambling.jpg",
+          "caption": "FOTO DE ARQUIVO (19/02/2019, Camarões): ambiente de apostas esportivas. Imagem ilustrativa, sem relação com os perfis investigados no Brasil em 2026."
+        }
+      ],
+      "en": {
+        "title": "Brazil's Justice Ministry seeks removal of 348 influencer accounts promoting illegal betting",
+        "subtitle": "The government says the Instagram accounts have more than 150 million followers combined; requests for removal do not mean the accounts have already been taken down.",
+        "facts": "In a statement published on November 9, 2026, at 8:16 p.m., Brazil's Ministério da Justiça e Segurança Pública (MJSP, Ministry of Justice and Public Security) said it had requested the removal of 348 Instagram influencer accounts allegedly promoting illegal betting. The ministry said the accounts have a combined following of more than 150 million, including one account with 1.4 million followers. The operation involves the Secretaria Nacional de Direitos Digitais (Sedigi, National Secretariat for Digital Rights), the Secretaria Nacional de Segurança Pública (Senasp, National Secretariat for Public Security) and the Laboratório de Operações Cibernéticas (Ciberlab, Cyber Operations Laboratory). On November 9 alone, officials also identified 2,207 Facebook pages, 18 Telegram groups and 998 websites. Since September 25, monitoring has recorded more than 60,000 websites, pages, accounts, groups and servers associated with promoting irregular betting. The effort follows Provisional Measure No. 1,394/2026, which banned the operation, offering, intermediation and advertising of betting in Brazil. The ministry did not name the 348 accounts or confirm that platforms had already removed them all.",
+        "analysis": "The action shifts enforcement beyond betting websites to the influencer channels used to reach consumers. The figure of more than 150 million is a sum of account followers, not 150 million distinct individuals: one person may follow multiple accounts. The practical impact depends on how platforms respond and whether account owners challenge the requests.",
+        "counterpoint": "The official announcement reports monitoring figures and removal requests, not final court rulings against individual influencers. Claims that a platform is operating illegally must be assessed case by case, with transparent criteria and opportunities to challenge decisions. The statement does not justify accusing named individuals of crimes or saying that all 348 accounts have already been deleted.",
+        "category": "JUSTICE",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (February 19, 2019, Cameroon): sports betting setting. Illustrative photograph unrelated to the Brazilian accounts investigated in 2026."
+        }
+      },
+      "es": {
+        "title": "El Ministerio de Justicia de Brasil pide retirar 348 cuentas que promocionan apuestas ilegales",
+        "subtitle": "Según el Gobierno, las cuentas de Instagram suman más de 150 millones de seguidores; solicitar su retirada no significa que ya hayan sido eliminadas.",
+        "facts": "En un comunicado publicado el 9 de noviembre de 2026, a las 20:16, el Ministério da Justiça e Segurança Pública (MJSP, Ministerio de Justicia y Seguridad Pública de Brasil) informó que solicitó retirar 348 cuentas de influenciadores en Instagram por promocionar apuestas ilegales. Según el organismo, las cuentas suman más de 150 millones de seguidores y una de ellas tiene 1,4 millones. La fiscalización involucra a la Secretaria Nacional de Direitos Digitais (Sedigi, Secretaría Nacional de Derechos Digitales), la Secretaria Nacional de Segurança Pública (Senasp, Secretaría Nacional de Seguridad Pública) y el Laboratório de Operações Cibernéticas (Ciberlab, Laboratorio de Operaciones Cibernéticas). Solo el 9 de noviembre, el Gobierno identificó además 2.207 páginas de Facebook, 18 grupos de Telegram y 998 sitios web. Desde el 25 de septiembre, el seguimiento contabilizó más de 60.000 sitios, páginas, cuentas, grupos y servidores relacionados con la promoción de apuestas irregulares. La actuación sigue a la Medida Provisional n.º 1.394/2026, que prohibió la explotación, oferta, intermediación y publicidad de apuestas en Brasil. El ministerio no divulgó los nombres de las 348 cuentas ni confirmó que todas hubieran sido retiradas.",
+        "analysis": "La medida amplía la fiscalización más allá de las páginas de apuestas para alcanzar los canales de influenciadores que atraen consumidores. La cifra de más de 150 millones corresponde a la suma de seguidores de las cuentas, no a 150 millones de personas distintas, ya que un usuario puede seguir varias cuentas. Su efecto dependerá de la respuesta de las plataformas y de las posibles impugnaciones.",
+        "counterpoint": "El comunicado oficial presenta cifras de seguimiento y solicitudes de retirada, no sentencias judiciales definitivas contra cada influenciador. Las acusaciones de promoción de servicios ilegales deben evaluarse individualmente, con criterios transparentes y derecho a impugnación. La nota no permite atribuir delitos a personas concretas ni afirmar que las 348 cuentas ya hayan sido eliminadas.",
+        "category": "JUSTICIA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (19 de febrero de 2019, Camerún): entorno de apuestas deportivas. Imagen ilustrativa sin relación con las cuentas investigadas en Brasil en 2026."
+        }
+      }
+    },
     {
       "id": "arabia-saudita-intercepta-tres-misseis-houthis-2026-11-10",
       "date": "2026-11-10",
