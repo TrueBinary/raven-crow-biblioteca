@@ -103,7 +103,9 @@ def stamp_first_seen(previous_feed: Path, pairs) -> None:
     }
     for article, updated in pairs:
         day = _date(article.get("date"))
-        seen = _stamp(previous.get(str(article.get("id", ""))), day) or _stamp(updated, day)
+        slug = str(article.get("id", ""))
+        # Only a new id gets the edition time; an article built before keeps its stamp or the plain date.
+        seen = _stamp(previous[slug], day) if slug in previous else _stamp(updated, day)
         if seen:
             article["firstSeen"] = seen
 

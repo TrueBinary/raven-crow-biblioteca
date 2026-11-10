@@ -35,6 +35,15 @@ class NewsI18nTests(unittest.TestCase):
             self.assertIn('<meta property="og:image" content="https://b/editorial/photos/nova-2026.jpg">', es)
             self.assertIn('src="../../../editorial/photos/nova-2026.jpg"', es)
             self.assertIn('"@type": "NewsArticle"', en)
+            # Sem firstSeen: só a data, nunca o updatedAt da edição (que anda a cada atualização).
+            render_article(root, a, "en", "2026-11-08T22:00:00-03:00", credits, "", "https://b", lambda t: t)
+            en = (root / "public/en/noticias/nova-2026/index.html").read_text(encoding="utf-8")
+            self.assertIn('"dateModified": "2026-11-08"', en)
+            a["firstSeen"] = "2026-11-08T09:10:00-03:00"
+            render_article(root, a, "en", "2026-11-08T22:00:00-03:00", credits, "", "https://b", lambda t: t)
+            en = (root / "public/en/noticias/nova-2026/index.html").read_text(encoding="utf-8")
+            self.assertIn('"datePublished": "2026-11-08T09:10:00-03:00"', en)
+            self.assertIn('"dateModified": "2026-11-08T09:10:00-03:00"', en)
             self.assertRegex(es, r'<footer class="rc-foot"><span>[^<]*<time datetime="2026-11-08">8 de noviembre de 2026</time></span>')
             render_index(root, "es", [a], "", "https://b")
             self.assertIn("Gran noticia", (root / "public/es/index.html").read_text(encoding="utf-8"))

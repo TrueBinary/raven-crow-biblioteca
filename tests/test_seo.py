@@ -63,6 +63,14 @@ class SeoBuilderTests(unittest.TestCase):
         self.assertNotIn("firstSeen", ontem)  # edição de outro dia não é publicação
         self.assertNotIn("firstSeen", sem_fuso)
 
+    def test_article_already_in_feed_without_stamp_is_not_backfilled(self):
+        # A matéria já publicada antes do firstSeen existir: a edição só tem a hora da última atualização.
+        feed = self.root / "public/editorial-feed.json"
+        feed.write_text(json.dumps({"articles": [{"id": "velha", "date": "2026-11-09"}]}), encoding="utf-8")
+        velha = {"id": "velha", "date": "2026-11-09"}
+        stamp_first_seen(feed, [(velha, "2026-11-09T17:05:06-03:00")])
+        self.assertNotIn("firstSeen", velha)
+
     def test_news_is_newsarticle_with_first_seen_time(self):
         (self.root / "public/editorial-feed.json").write_text(json.dumps({"articles": [
             {"id": "estudo-tributacao", "date": "2026-11-05", "firstSeen": "2026-11-05T09:10:00-03:00"}]}),

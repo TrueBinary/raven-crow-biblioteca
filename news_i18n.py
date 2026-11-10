@@ -94,7 +94,7 @@ def render_article(root: Path, a: dict, lang: str, updated: str, credits: dict, 
     sources = "".join('<li><a rel="noopener noreferrer" target="_blank" href="' + _esc(s["url"]) + '">' + _esc(s.get("name", L["source"])) + "</a></li>"
                       for s in a.get("sources", []) if urlparse(s.get("url", "")).scheme == "https")
     schema = {"@context": "https://schema.org", "@type": "NewsArticle", "headline": b["title"], "description": b.get("subtitle", ""),
-              "inLanguage": lang, "datePublished": a["date"], "dateModified": updated, "author": {"@type": "Organization", "name": "Raven Crow"},
+              "inLanguage": lang, "datePublished": a.get("firstSeen") or a["date"], "dateModified": a.get("firstSeen") or a["date"], "author": {"@type": "Organization", "name": "Raven Crow"},
               "publisher": {"@type": "Organization", "name": "Raven Crow"}, "mainEntityOfPage": url, "isAccessibleForFree": True}
     photo = root / "public" / "editorial" / "photos" / (slug + ".jpg")
     image = f"{base}/editorial/photos/{slug}.jpg" if photo.is_file() else None
