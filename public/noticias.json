@@ -2,9 +2,66 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "10/11/2026",
-  "updatedAt": "2026-11-10T19:00:00-03:00",
+  "updatedAt": "2026-11-10T20:03:37-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "uniao-europeia-50-milhoes-seguranca-maritima-mar-negro-2026-11-10",
+      "date": "2026-11-10",
+      "category": "MUNDO",
+      "title": "União Europeia promete € 50 milhões para acelerar centro de segurança no Mar Negro após ataques a navios",
+      "subtitle": "Projeto coordenado por Bulgária e Romênia pretende ampliar vigilância e compartilhamento de informações; financiamento foi anunciado, mas não há confirmação de desembolso.",
+      "facts": "A presidente da Comissão Europeia, Ursula von der Leyen, anunciou em 10 de novembro de 2026, durante visita à cidade portuária de Varna, na Bulgária, a intenção de destinar € 50 milhões à aceleração do Centro de Segurança Marítima do Mar Negro, iniciativa conjunta de Bulgária e Romênia. O anúncio reforça compromisso apresentado em Bucareste em 9 de novembro. Segundo a Reuters, ao menos nove navios comerciais foram atingidos por drones navais em outubro perto dos dois países, integrantes da OTAN, com mortos e desaparecidos entre os tripulantes. O centro deverá fortalecer a consciência situacional marítima, o intercâmbio de informações e a proteção de uma rota importante para comércio, energia e alimentos. A Comissão Europeia também mencionou apoio por imagens de satélite do programa Copernicus. O anúncio de € 50 milhões é uma promessa de financiamento, não comprovação de transferência já efetuada.",
+      "analysis": "O reforço da vigilância no Mar Negro evidencia como os riscos da guerra entre Rússia e Ucrânia atingem embarcações comerciais e países vizinhos. A proposta pode ajudar autoridades civis a detectar incidentes, trocar alertas e coordenar respostas, mas sua eficácia dependerá de cronograma, execução financeira e integração operacional. O centro de segurança marítima é descrito como uma rede de cooperação e vigilância, não como nova missão militar. A Comissão indicou como objetivo torná-lo operacional em 2027, ainda sujeito a implementação.",
+      "counterpoint": "A Romênia atribui à Rússia um padrão de ataques contra a navegação civil, mas ressalta que episódios individuais exigem prova pericial. A Bulgária não atribuiu formalmente os incidentes a Moscou, que nega participação. As responsabilidades por cada ataque não devem ser tratadas como judicial ou tecnicamente comprovadas apenas com base nas acusações. Também não há confirmação pública de que os € 50 milhões tenham sido desembolsados ou de como serão distribuídos.",
+      "sources": [
+        {
+          "name": "Comissão Europeia — briefing de 10/11/2026 sobre centro marítimo",
+          "url": "https://audiovisual.ec.europa.eu/en/media/video/I-297107"
+        },
+        {
+          "name": "Reuters — UE promete € 50 milhões ao centro de segurança do Mar Negro (10/11/2026)",
+          "url": "https://www.reuters.com/world/eus-von-der-leyen-pledges-50-million-speed-up-security-hub-black-sea-2026-11-10/"
+        },
+        {
+          "name": "ANSA — declaração de von der Leyen na Bulgária (10/11/2026)",
+          "url": "https://www.ansa.it/amp/europa/notizie/rubriche/altrenews/2026/11/10/von-der-leyen-subito-il-polo-di-sicurezza-marittima-del-mar-nero_eab76f03-cf81-46f9-8f01-917c05749340.html"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Port_Varna_%283839370754%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution 2.0 Generic (CC BY 2.0) — https://creativecommons.org/licenses/by/2.0/; reutilização com atribuição e link de licença",
+          "credit": "Vladislav Bezrukov / Wikimedia Commons (original Flickr)",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Port_Varna_(3839370754).jpg",
+          "caption": "FOTO DE ARQUIVO (19/08/2009): guindastes e instalações do porto de Varna, na Bulgária, às margens do Mar Negro. Imagem ilustrativa, não retrata o anúncio de financiamento de 10/11/2026."
+        }
+      ],
+      "en": {
+        "title": "EU pledges €50 million to speed up Black Sea maritime security hub after attacks on ships",
+        "subtitle": "The Bulgaria-Romania project aims to strengthen surveillance and information sharing; funding has been pledged but disbursement has not been confirmed.",
+        "facts": "European Commission President Ursula von der Leyen announced on November 10, 2026, during a visit to the Bulgarian port city of Varna, a pledge of €50 million to accelerate the Black Sea Maritime Security Hub, a joint Bulgaria-Romania initiative. The announcement reinforced a commitment made in Bucharest on November 9. According to Reuters, at least nine commercial vessels were struck by naval drones in October near the two NATO members, leaving crew members dead or missing. The hub is intended to improve maritime situational awareness, information sharing and protection of a waterway vital to trade, energy and food supplies. The European Commission also highlighted support from the Copernicus satellite imagery programme. The €50 million announcement is a funding pledge, not evidence that the money has already been transferred.",
+        "analysis": "Stronger Black Sea surveillance reflects how risks from the Russia-Ukraine war extend to commercial shipping and neighbouring states. The initiative could help civilian authorities detect incidents, share alerts and coordinate responses, but its effectiveness will depend on implementation schedules, actual financing and operational integration. The maritime security hub is described as a civilian cooperation and monitoring network, not a new military mission. The Commission identified 2027 as its target for becoming operational, subject to implementation.",
+        "counterpoint": "Romania accuses Russia of a pattern of attacks on civilian shipping while acknowledging that individual incidents require forensic evidence. Bulgaria has not formally attributed the attacks to Moscow, which denies involvement. Responsibility for each incident should not be presented as proven solely on the basis of allegations. There is also no public confirmation that the €50 million has been disbursed or how it will be allocated.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (August 19, 2009): cranes and facilities at the port of Varna, Bulgaria, on the Black Sea. Illustrative image; it does not show the November 10, 2026 funding announcement."
+        }
+      },
+      "es": {
+        "title": "La UE promete € 50 millones para acelerar un centro de seguridad marítima en el mar Negro tras ataques a buques",
+        "subtitle": "El proyecto de Bulgaria y Rumanía busca reforzar la vigilancia y el intercambio de información; la financiación está anunciada, pero no se ha confirmado su desembolso.",
+        "facts": "La presidenta de la Comisión Europea, Ursula von der Leyen, anunció el 10 de noviembre de 2026, durante una visita a la ciudad portuaria búlgara de Varna, una aportación prevista de € 50 millones para acelerar el Centro de Seguridad Marítima del Mar Negro, iniciativa conjunta de Bulgaria y Rumanía. El anuncio reforzó el compromiso presentado en Bucarest el 9 de noviembre. Según Reuters, al menos nueve buques comerciales fueron alcanzados por drones navales en octubre cerca de ambos países, miembros de la OTAN, con tripulantes muertos o desaparecidos. El centro pretende mejorar la vigilancia marítima, el intercambio de información y la protección de una ruta clave para el comercio, la energía y el suministro de alimentos. La Comisión Europea también mencionó el apoyo de imágenes satelitales del programa Copernicus. Los € 50 millones constituyen una promesa de financiación, no una transferencia ya comprobada.",
+        "analysis": "El refuerzo de la vigilancia en el mar Negro muestra cómo los riesgos de la guerra entre Rusia y Ucrania afectan al transporte comercial y a países vecinos. El proyecto podría ayudar a las autoridades civiles a detectar incidentes, compartir alertas y coordinar respuestas, pero su eficacia dependerá del calendario, la ejecución financiera y la integración operativa. El centro se describe como una red civil de cooperación y vigilancia, no como una nueva misión militar. La Comisión señaló 2027 como objetivo para su puesta en funcionamiento, sujeto a la implementación.",
+        "counterpoint": "Rumanía acusa a Rusia de un patrón de ataques contra buques civiles, aunque reconoce que cada episodio requiere pruebas periciales. Bulgaria no ha atribuido formalmente los incidentes a Moscú, que niega su participación. La responsabilidad por cada ataque no debe darse por probada únicamente a partir de acusaciones. Tampoco hay confirmación pública del desembolso de los € 50 millones ni de su distribución.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (19 de agosto de 2009): grúas e instalaciones del puerto de Varna, Bulgaria, en el mar Negro. Imagen ilustrativa; no muestra el anuncio de financiación del 10 de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "porto-santos-confirma-ataque-cibernetico-sistemas-2026-11-10",
       "date": "2026-11-10",
