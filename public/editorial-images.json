@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "operacao-prende-seis-policiais-penais-guarulhos-2026-11-10": "editorial/covers/operacao-prende-seis-policiais-penais-guarulhos-2026-11-10.svg",
     "russia-ataca-rede-eletrica-ucrania-oito-regioes-2026-11-10": "editorial/covers/russia-ataca-rede-eletrica-ucrania-oito-regioes-2026-11-10.svg",
     "ministerio-justica-pede-remocao-348-perfis-bets-ilegais-2026-11-10": "editorial/covers/ministerio-justica-pede-remocao-348-perfis-bets-ilegais-2026-11-10.svg",
     "arabia-saudita-intercepta-tres-misseis-houthis-2026-11-10": "editorial/covers/arabia-saudita-intercepta-tres-misseis-houthis-2026-11-10.svg",
@@ -148,7 +149,8 @@
     "justica-suspende-regras-vale-refeicao-abbt-2026-11-10": "editorial/photos/justica-suspende-regras-vale-refeicao-abbt-2026-11-10.jpg",
     "arabia-saudita-intercepta-tres-misseis-houthis-2026-11-10": "editorial/photos/arabia-saudita-intercepta-tres-misseis-houthis-2026-11-10.jpg",
     "ministerio-justica-pede-remocao-348-perfis-bets-ilegais-2026-11-10": "editorial/photos/ministerio-justica-pede-remocao-348-perfis-bets-ilegais-2026-11-10.jpg",
-    "russia-ataca-rede-eletrica-ucrania-oito-regioes-2026-11-10": "editorial/photos/russia-ataca-rede-eletrica-ucrania-oito-regioes-2026-11-10.jpg"
+    "russia-ataca-rede-eletrica-ucrania-oito-regioes-2026-11-10": "editorial/photos/russia-ataca-rede-eletrica-ucrania-oito-regioes-2026-11-10.jpg",
+    "operacao-prende-seis-policiais-penais-guarulhos-2026-11-10": "editorial/photos/operacao-prende-seis-policiais-penais-guarulhos-2026-11-10.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -528,6 +530,12 @@
       "srcset": "editorial/photos/russia-ataca-rede-eletrica-ucrania-oito-regioes-2026-11-10-640.webp 640w, editorial/photos/russia-ataca-rede-eletrica-ucrania-oito-regioes-2026-11-10-1280.webp 1280w",
       "width": 1280,
       "height": 960
+    },
+    "operacao-prende-seis-policiais-penais-guarulhos-2026-11-10": {
+      "src": "editorial/photos/operacao-prende-seis-policiais-penais-guarulhos-2026-11-10-1280.webp",
+      "srcset": "editorial/photos/operacao-prende-seis-policiais-penais-guarulhos-2026-11-10-640.webp 640w, editorial/photos/operacao-prende-seis-policiais-penais-guarulhos-2026-11-10-1280.webp 1280w",
+      "width": 1280,
+      "height": 719
     }
   }
 }
