@@ -2,9 +2,45 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "10/11/2026",
-  "updatedAt": "2026-11-10T20:03:37-03:00",
+  "updatedAt": "2026-11-10T20:58:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "arabia-saudita-intercepta-misseis-houthis-riade-2026-11-10",
+      "date": "2026-11-10",
+      "category": "MUNDO",
+      "title": "Arábia Saudita afirma ter interceptado mísseis houthis lançados contra Riad",
+      "subtitle": "Coalizão relata interceptação de dois projéteis dirigidos à capital e outro no sul; relatos sobre alvos atingidos ainda exigem confirmação independente.",
+      "facts": "A coalizão militar liderada pela Arábia Saudita informou em 10 de novembro de 2026 que suas defesas aéreas interceptaram um míssil balístico e um míssil de cruzeiro disparados pelos houthis do Iêmen na direção de Riad. Segundo a mesma coalizão, outro míssil balístico foi destruído enquanto seguia para o sul do território saudita. A Defesa Civil emitiu alertas em Riad, Abha e Khamis Mushait e depois anunciou o fim do perigo nessas localidades. A Reuters noticiou as declarações oficiais, mas os detalhes operacionais das interceptações não foram verificados de maneira independente. Os houthis também reivindicaram ataques contra instalações estratégicas, incluindo aeroporto e infraestrutura petrolífera; reivindicações de impacto não equivalem à confirmação saudita de danos nesses locais.",
+      "analysis": "A escalada entre os houthis e a coalizão saudita amplia os riscos para cidades, instalações energéticas e rotas comerciais próximas ao mar Vermelho. A localização estratégica do estreito de Bab el-Mandeb e a importância do oleoduto saudita Leste-Oeste tornam incidentes na região relevantes para a segurança marítima e para os preços internacionais do petróleo. Mesmo quando interceptações evitam impactos diretos, alertas aéreos e ataques sucessivos podem aumentar custos logísticos e a percepção de risco. A dimensão efetiva dos danos e as consequências econômicas precisam ser acompanhadas por novas confirmações.",
+      "counterpoint": "Os números de mísseis interceptados são apresentados como declarações da coalizão saudita, e não como perícia independente. Os houthis reivindicam ataques e descrevem alvos atingidos, mas suas afirmações não devem ser tratadas como fatos comprovados sem evidências adicionais. A cobertura da Associated Press sobre a escalada regional fornece contexto, mas não confirma cada alegação operacional deste episódio. Não há base suficiente para afirmar vítimas decorrentes especificamente das interceptações descritas nesta notícia.",
+      "sources": [
+        {
+          "name": "Reuters — coalizão saudita relata interceptação de mísseis em direção a Riad (10/11/2026)",
+          "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/"
+        },
+        {
+          "name": "Associated Press — contexto da escalada de ataques houthis e defesa saudita (novembro de 2026)",
+          "url": "https://apnews.com/article/090d96e25872f5c63e105b9dd3e5dc60"
+        }
+      ],
+      "en": {
+        "title": "Saudi Arabia says it intercepted Houthi missiles headed for Riyadh",
+        "subtitle": "Coalition reports intercepting two projectiles aimed at the capital and another in the south; claims about targets hit still require independent verification.",
+        "facts": "On November 10, 2026, the Saudi-led military coalition said its air defences intercepted a ballistic missile and a cruise missile launched by Yemen's Houthis towards Riyadh. The coalition also reported destroying another ballistic missile heading towards southern Saudi Arabia. Civil Defence issued warnings for Riyadh, Abha and Khamis Mushait before announcing that the immediate threat had passed in those locations. Reuters reported the official statements, but the operational details of the interceptions have not been independently verified. The Houthis also claimed strikes on strategic facilities, including an airport and oil infrastructure; claims of successful hits are not equivalent to Saudi confirmation of damage at those sites.",
+        "analysis": "The escalation between the Houthis and the Saudi-led coalition increases risks to cities, energy infrastructure and commercial routes near the Red Sea. The strategic position of the Bab el-Mandeb Strait and the importance of Saudi Arabia's East-West oil pipeline make incidents in the region relevant to maritime security and international oil prices. Even successful interceptions can raise logistical costs and perceptions of risk through repeated alerts and attacks. The extent of any damage and economic consequences require further confirmation.",
+        "counterpoint": "The missile interception figures are attributed to the Saudi-led coalition and are not presented as independent forensic findings. Houthi claims about targets hit should not be treated as established facts without additional evidence. Associated Press reporting provides context on the regional escalation but does not independently confirm each operational claim in this episode. There is insufficient evidence to assert casualties specifically from the interceptions described here.",
+        "category": "WORLD"
+      },
+      "es": {
+        "title": "Arabia Saudí afirma haber interceptado misiles hutíes dirigidos a Riad",
+        "subtitle": "La coalición informa de dos proyectiles interceptados hacia la capital y otro en el sur; las afirmaciones sobre objetivos alcanzados aún requieren verificación independiente.",
+        "facts": "El 10 de noviembre de 2026, la coalición militar liderada por Arabia Saudí informó de que sus defensas aéreas interceptaron un misil balístico y un misil de crucero lanzados por los hutíes de Yemen hacia Riad. La coalición también comunicó la destrucción de otro misil balístico dirigido al sur del territorio saudí. Defensa Civil emitió alertas en Riad, Abha y Khamis Mushait antes de anunciar que el peligro inmediato había pasado en esas localidades. Reuters informó sobre las declaraciones oficiales, pero los detalles operativos de las interceptaciones no se han verificado de manera independiente. Los hutíes también reivindicaron ataques contra instalaciones estratégicas, entre ellas un aeropuerto e infraestructura petrolera; esas afirmaciones no equivalen a una confirmación saudí de daños.",
+        "analysis": "La escalada entre los hutíes y la coalición saudí aumenta los riesgos para las ciudades, las instalaciones energéticas y las rutas comerciales próximas al mar Rojo. La posición estratégica del estrecho de Bab el-Mandeb y la importancia del oleoducto saudí Este-Oeste hacen que estos incidentes sean relevantes para la seguridad marítima y los precios internacionales del petróleo. Incluso cuando las interceptaciones evitan impactos directos, las alertas y los ataques reiterados pueden elevar los costes logísticos y la percepción del riesgo. La magnitud de los daños y sus consecuencias económicas necesitan nuevas confirmaciones.",
+        "counterpoint": "Las cifras de misiles interceptados se atribuyen a la coalición saudí y no constituyen resultados de una investigación pericial independiente. Las reivindicaciones hutíes sobre objetivos alcanzados no deben darse por probadas sin evidencia adicional. La cobertura de Associated Press aporta contexto sobre la escalada regional, pero no confirma de forma independiente cada afirmación operativa de este episodio. No existen pruebas suficientes para afirmar víctimas derivadas específicamente de las interceptaciones descritas.",
+        "category": "MUNDO"
+      }
+    },
     {
       "id": "uniao-europeia-50-milhoes-seguranca-maritima-mar-negro-2026-11-10",
       "date": "2026-11-10",
