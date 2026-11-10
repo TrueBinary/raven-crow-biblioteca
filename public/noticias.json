@@ -2,9 +2,62 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "10/11/2026",
-  "updatedAt": "2026-11-10T07:01:33-03:00",
+  "updatedAt": "2026-11-10T08:04:33-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "russia-ataca-rede-eletrica-ucrania-oito-regioes-2026-11-10",
+      "date": "2026-11-10",
+      "category": "MUNDO",
+      "title": "Rússia ataca infraestrutura elétrica em oito regiões da Ucrânia, diz operadora",
+      "subtitle": "Ukrenergo relata ataques à rede energética nesta terça-feira e interrupções de fornecimento em diversas áreas; ofensiva ocorre durante esforços diplomáticos.",
+      "facts": "A operadora estatal de transmissão de eletricidade da Ucrânia, Ukrenergo, informou nesta terça-feira, 10 de novembro de 2026, que ataques russos atingiram instalações de energia em oito regiões ucranianas durante a noite e a manhã. Segundo a Reuters, as regiões com infraestrutura energética atacada foram Kyiv, Kharkiv, Sumy, Poltava, Dnipropetrovsk, Vinnytsia, Cherkasy e Kirovohrad. A operadora relatou interrupções no fornecimento de eletricidade em partes das regiões de Dnipropetrovsk, Donetsk, Kyiv, Sumy, Kharkiv e Chernihiv. As listas de áreas atingidas e de locais com apagões não são idênticas porque se referem a efeitos distintos dos ataques. A cobertura ao vivo do Guardian também registrou ataques russos à infraestrutura ucraniana e interrupções energéticas no mesmo dia, antes das negociações diplomáticas em Abu Dhabi. Os balanços podem mudar conforme as autoridades atualizem a avaliação dos danos.",
+      "analysis": "Ataques contra instalações de geração e transmissão elétrica ampliam a vulnerabilidade de serviços essenciais e de famílias ucranianas durante o período frio. Danos a uma instalação podem interromper o fornecimento em áreas que não foram diretamente atingidas, o que exige cautela na interpretação das listas de regiões. O novo episódio ocorre enquanto representantes da Ucrânia, Rússia e Estados Unidos tentam avançar em negociações em Abu Dhabi. A continuidade dos bombardeios dificulta a construção de confiança e aumenta a pressão sobre equipes de reparo e sistemas de defesa aérea.",
+      "counterpoint": "As informações sobre os locais atingidos e os apagões foram atribuídas à Ukrenergo e reportadas pela Reuters; não constituem uma verificação independente de cada instalação danificada. Moscou sustenta, em suas declarações sobre a campanha militar, que seus alvos têm finalidade estratégica, enquanto Kyiv denuncia os impactos sobre a população civil. Não há, nas fontes consultadas para esta atualização, balanço consolidado de vítimas específico desses ataques à rede elétrica. A fotografia é de arquivo de 2007, não do bombardeio de novembro de 2026.",
+      "sources": [
+        {
+          "name": "Reuters — Russia attacks energy facilities in eight Ukrainian regions, grid operator says (10/11/2026)",
+          "url": "https://www.reuters.com/business/energy/russia-attacks-energy-facilities-eight-ukrainian-regions-grid-operator-says-2026-11-10/"
+        },
+        {
+          "name": "The Guardian — Russia launched deadly Ukraine attacks hours before start of Abu Dhabi talks (10/11/2026)",
+          "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Electricity_pylons%2C_Ukraine_138.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Novoklimov/Wikimedia Commons",
+          "license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/)",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Electricity_pylons,_Ukraine_138.jpg",
+          "caption": "FOTO DE ARQUIVO (09/06/2007): linhas de transmissão de eletricidade na Ucrânia. Imagem ilustrativa; não retrata os ataques de 10/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Russia strikes energy facilities in eight Ukrainian regions, grid operator says",
+        "subtitle": "Ukraine's Ukrenergo reports attacks on the power grid and outages in several areas as diplomatic efforts continue.",
+        "facts": "On November 10, 2026, Ukraine's state electricity transmission operator Ukrenergo said Russian strikes hit energy facilities in eight Ukrainian regions overnight and into the morning. Reuters identified the affected infrastructure regions as Kyiv, Kharkiv, Sumy, Poltava, Dnipropetrovsk, Vinnytsia, Cherkasy and Kirovohrad. Ukrenergo also reported power outages in parts of Dnipropetrovsk, Donetsk, Kyiv, Sumy, Kharkiv and Chernihiv regions. The lists of regions where facilities were hit and where outages occurred differ because they describe different effects. The Guardian's live coverage also reported attacks on Ukrainian infrastructure and power disruptions on the same day, ahead of diplomatic talks in Abu Dhabi. The figures may change as authorities assess the damage.",
+        "analysis": "Strikes on electricity generation and transmission facilities increase risks to essential services and Ukrainian households as cold weather approaches. Damage in one location can disrupt power in areas that were not directly hit, making the distinction between the two regional lists important. The attacks came as Ukraine, Russia and the United States pursued talks in Abu Dhabi. Continued strikes complicate confidence-building and increase pressure on repair crews and air defences.",
+        "counterpoint": "The locations and outages were attributed to Ukrenergo and reported by Reuters; they do not amount to independent confirmation of damage at every facility. Moscow generally describes its military targets as strategic, while Kyiv highlights the impact on civilians. The sources reviewed for this report do not provide a consolidated casualty count specifically for these power-grid strikes. The photograph is an archive image from 2007, not a record of the November 2026 attacks.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (June 9, 2007): electricity transmission lines in Ukraine. Illustrative image, not a photograph of the November 10, 2026 strikes."
+        }
+      },
+      "es": {
+        "title": "Rusia ataca instalaciones eléctricas en ocho regiones de Ucrania, según la operadora",
+        "subtitle": "Ukrenergo informa de ataques a la red y cortes de suministro en varias zonas mientras continúan los esfuerzos diplomáticos.",
+        "facts": "El 10 de noviembre de 2026, la operadora estatal ucraniana de transmisión eléctrica Ukrenergo informó que ataques rusos alcanzaron instalaciones energéticas en ocho regiones durante la noche y la mañana. Según Reuters, las regiones donde se atacó infraestructura fueron Kyiv, Kharkiv, Sumy, Poltava, Dnipropetrovsk, Vinnytsia, Cherkasy y Kirovohrad. Ukrenergo también comunicó cortes de electricidad en partes de Dnipropetrovsk, Donetsk, Kyiv, Sumy, Kharkiv y Chernihiv. Las listas de zonas atacadas y de lugares con apagones no coinciden exactamente porque describen efectos diferentes. La cobertura en directo de The Guardian también informó de ataques a infraestructura ucraniana e interrupciones eléctricas ese mismo día, antes de las negociaciones en Abu Dabi. Los balances pueden cambiar a medida que las autoridades evalúen los daños.",
+        "analysis": "Los ataques contra instalaciones de generación y transmisión eléctrica elevan los riesgos para los servicios esenciales y los hogares ucranianos ante el frío. Los daños en una instalación pueden causar apagones en zonas que no recibieron impactos directos, por lo que es importante distinguir las dos listas regionales. Los ataques ocurrieron mientras Ucrania, Rusia y Estados Unidos buscaban avances diplomáticos en Abu Dabi. La continuidad de los bombardeos dificulta la confianza y aumenta la presión sobre los equipos de reparación y las defensas antiaéreas.",
+        "counterpoint": "La información sobre los lugares atacados y los apagones procede de Ukrenergo y fue publicada por Reuters; no equivale a una verificación independiente de cada instalación. Moscú suele describir sus objetivos militares como estratégicos, mientras Kyiv denuncia las consecuencias para la población civil. Las fuentes consultadas no ofrecen un balance consolidado de víctimas específico de estos ataques a la red eléctrica. La fotografía es de archivo de 2007 y no muestra los ataques de noviembre de 2026.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (9 de junio de 2007): líneas de transmisión eléctrica en Ucrania. Imagen ilustrativa; no muestra los ataques del 10 de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "ministerio-justica-pede-remocao-348-perfis-bets-ilegais-2026-11-10",
       "date": "2026-11-10",
