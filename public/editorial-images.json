@@ -155,7 +155,9 @@
     "russia-ataca-rede-eletrica-ucrania-oito-regioes-2026-11-10": "editorial/photos/russia-ataca-rede-eletrica-ucrania-oito-regioes-2026-11-10.jpg",
     "operacao-prende-seis-policiais-penais-guarulhos-2026-11-10": "editorial/photos/operacao-prende-seis-policiais-penais-guarulhos-2026-11-10.jpg",
     "china-superavit-comercial-um-trilhao-dolares-2026-11-10": "editorial/photos/china-superavit-comercial-um-trilhao-dolares-2026-11-10.jpg",
-    "o-pedido-de-desculpas-ganhou-ring-light-mas-nao-pagou-o-vidro-2026-11-10": "editorial/photos/o-pedido-de-desculpas-ganhou-ring-light-mas-nao-pagou-o-vidro-2026-11-10.jpg"
+    "o-pedido-de-desculpas-ganhou-ring-light-mas-nao-pagou-o-vidro-2026-11-10": "editorial/photos/o-pedido-de-desculpas-ganhou-ring-light-mas-nao-pagou-o-vidro-2026-11-10.jpg",
+    "governo-prorroga-desoneracao-gasolina-etanol-dezembro-2026-11-10": "editorial/photos/governo-prorroga-desoneracao-gasolina-etanol-dezembro-2026-11-10.jpg",
+    "franca-convoca-embaixador-ira-ciberataque-supermercados-2026-11-10": "editorial/photos/franca-convoca-embaixador-ira-ciberataque-supermercados-2026-11-10.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -553,6 +555,18 @@
       "srcset": "editorial/photos/o-pedido-de-desculpas-ganhou-ring-light-mas-nao-pagou-o-vidro-2026-11-10-640.webp 640w, editorial/photos/o-pedido-de-desculpas-ganhou-ring-light-mas-nao-pagou-o-vidro-2026-11-10-1280.webp 1280w",
       "width": 1280,
       "height": 1707
+    },
+    "governo-prorroga-desoneracao-gasolina-etanol-dezembro-2026-11-10": {
+      "src": "editorial/photos/governo-prorroga-desoneracao-gasolina-etanol-dezembro-2026-11-10-1200.webp",
+      "srcset": "editorial/photos/governo-prorroga-desoneracao-gasolina-etanol-dezembro-2026-11-10-640.webp 640w, editorial/photos/governo-prorroga-desoneracao-gasolina-etanol-dezembro-2026-11-10-1200.webp 1200w",
+      "width": 1200,
+      "height": 800
+    },
+    "franca-convoca-embaixador-ira-ciberataque-supermercados-2026-11-10": {
+      "src": "editorial/photos/franca-convoca-embaixador-ira-ciberataque-supermercados-2026-11-10-1280.webp",
+      "srcset": "editorial/photos/franca-convoca-embaixador-ira-ciberataque-supermercados-2026-11-10-640.webp 640w, editorial/photos/franca-convoca-embaixador-ira-ciberataque-supermercados-2026-11-10-1280.webp 1280w",
+      "width": 1280,
+      "height": 960
     }
   }
 }

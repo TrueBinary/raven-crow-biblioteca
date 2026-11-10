@@ -8,7 +8,7 @@
       "subtitle": "Decreto 13.159 mantém tributos federais zerados e subvenção ao etanol por mais 30 dias, em resposta à alta internacional do petróleo.",
       "facts": "O governo federal prorrogou até 9 de dezembro de 2026 a redução a zero de tributos federais incidentes sobre gasolina e etanol hidratado. O Decreto 13.159 foi assinado em 9 de novembro pelo presidente em exercício, Geraldo Alckmin, e publicado em edição extra do Diário Oficial da União. Permanecem zeradas as alíquotas de PIS/Pasep, Cofins e Cide-Combustíveis sobre a gasolina, exceto gasolina de aviação, e de PIS/Pasep e Cofins sobre etanol hidratado. Segundo o Ministério da Fazenda, a desoneração equivale a R$ 0,89 por litro de gasolina A e R$ 0,19 por litro de etanol. Também foi mantida a subvenção de R$ 0,428 por litro de etanol hidratado, paga a produtores e cooperativas. A Fazenda estima impacto fiscal de R$ 2,76 bilhões com a prorrogação tributária e R$ 813,41 milhões com a subvenção nos 30 dias.",
       "analysis": "A decisão evita o encerramento imediato dos benefícios em meio à pressão sobre os preços internacionais do petróleo associada ao conflito no Oriente Médio. A Fazenda afirma que compensará os R$ 2,76 bilhões de desoneração com receitas extraordinárias da União provenientes do setor petrolífero. A medida pode amortecer o repasse de custos, mas não determina sozinha o preço final nas bombas, que depende de mistura de combustíveis, refinarias, distribuição, margens comerciais e tributos estaduais. O prolongamento de desonerações também exige monitoramento de seu custo fiscal efetivo e da duração dos choques externos.",
-      "counterpoint": "O governo defende a medida como proteção temporária ao consumidor e incentivo à competitividade do etanol. Por outro lado, economistas e contribuintes podem questionar a sustentabilidade de renúncias e subvenções renovadas mensalmente e a efetividade do repasse aos motoristas. Os valores anunciados são estimativas fiscais, não prova de queda equivalente nos preços finais. Uma foto de posto citada em material oficial foi localizada, mas não foi validado link HTTPS direto para JPEG com tamanho e autorização de republicação conferidos; por isso a matéria usa o fallback visual.",
+      "counterpoint": "O governo defende a medida como proteção temporária ao consumidor e incentivo à competitividade do etanol. Por outro lado, economistas e contribuintes podem questionar a sustentabilidade de renúncias e subvenções renovadas mensalmente e a efetividade do repasse aos motoristas. Os valores anunciados são estimativas fiscais, não prova de queda equivalente nos preços finais.",
       "sources": [
         {
           "name": "Ministério da Fazenda — prorrogação e impacto fiscal (10/11/2026)",
@@ -27,21 +27,38 @@
           "url": "https://economia.uol.com.br/noticias/reuters/2026/11/10/governo-prorroga-ate-9-de-dezembro-desoneracao-da-gasolina-e-do-etanol.htm"
         }
       ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Piracicaba_10_2008_151_Gast_station_selling_four_fuels.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/",
+          "credit": "Mario Roberto Duran Ortiz (Mariordo)/Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Piracicaba_10_2008_151_Gast_station_selling_four_fuels.jpg",
+          "caption": "FOTO DE ARQUIVO (16/10/2008): posto de combustíveis em Piracicaba, São Paulo, com gasolina, etanol, diesel e GNV. Imagem ilustrativa; não retrata o decreto de 2026."
+        }
+      ],
       "en": {
         "title": "Brazil extends gasoline and ethanol tax relief through December 9, with estimated cost above R$ 3.5 billion",
         "subtitle": "Decree 13,159 keeps federal fuel taxes at zero and extends an ethanol subsidy for another 30 days amid higher global oil prices.",
         "facts": "Brazil extended federal tax relief on gasoline and hydrous ethanol through December 9, 2026. Decree 13,159 was signed on November 9 by acting President Geraldo Alckmin and published in an extraordinary edition of the Official Gazette. PIS/Pasep, Cofins and Cide fuel taxes on gasoline remain at zero, excluding aviation gasoline; PIS/Pasep and Cofins on hydrous ethanol also remain at zero. According to the Finance Ministry, the relief equals R$ 0.89 per liter of gasoline A and R$ 0.19 per liter of ethanol. A subsidy of R$ 0.428 per liter of hydrous ethanol paid to producers and cooperatives was also extended. The ministry estimates a R$ 2.76 billion fiscal impact from tax relief and R$ 813.41 million from the ethanol subsidy over 30 days.",
         "analysis": "The extension prevents the benefits from expiring immediately amid higher international oil prices linked to the Middle East conflict. The Finance Ministry says it will offset the R$ 2.76 billion tax relief through extraordinary government revenues from the oil sector. The policy may cushion fuel prices but does not determine retail pump prices, which also depend on blending, refining, distribution, commercial margins and state taxes. Repeated extensions warrant scrutiny of fiscal costs and how long external shocks persist.",
-        "counterpoint": "The government argues that the temporary measure protects consumers and preserves ethanol competitiveness. Critics may question the sustainability of recurring tax relief and subsidies and how much of the benefit reaches motorists. Announced amounts are fiscal estimates, not evidence of equivalent retail price reductions. No directly accessible JPEG with fully verified reuse rights and size was confirmed for this report, so the website's fallback image will be used.",
-        "category": "ECONOMY"
+        "counterpoint": "The government argues that the temporary measure protects consumers and preserves ethanol competitiveness. Critics may question the sustainability of recurring tax relief and subsidies and how much of the benefit reaches motorists. Announced amounts are fiscal estimates, not evidence of equivalent retail price reductions.",
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (October 16, 2008): fuel station in Piracicaba, São Paulo state, offering gasoline, ethanol, diesel and CNG. Illustrative image; not a depiction of the 2026 decree."
+        }
       },
       "es": {
         "title": "Brasil prorroga hasta el 9 de diciembre la exención de impuestos a gasolina y etanol, con costo estimado superior a R$ 3.500 millones",
         "subtitle": "El Decreto 13.159 mantiene en cero los impuestos federales y prolonga el subsidio al etanol por 30 días ante el alza del petróleo.",
         "facts": "Brasil prorrogó hasta el 9 de diciembre de 2026 la reducción a cero de impuestos federales sobre gasolina y etanol hidratado. El Decreto 13.159 fue firmado el 9 de noviembre por el presidente en ejercicio, Geraldo Alckmin, y publicado en una edición extraordinaria del Diario Oficial. Siguen en cero PIS/Pasep, Cofins y Cide-Combustíveis para la gasolina, excepto la de aviación, y PIS/Pasep y Cofins para el etanol hidratado. Según el Ministerio de Hacienda, el beneficio equivale a R$ 0,89 por litro de gasolina A y R$ 0,19 por litro de etanol. También se prorrogó el subsidio de R$ 0,428 por litro de etanol hidratado pagado a productores y cooperativas. El ministerio estima un impacto fiscal de R$ 2.760 millones por la desgravación y R$ 813,41 millones por el subsidio durante 30 días.",
         "analysis": "La decisión evita que los beneficios caduquen de inmediato en medio del aumento de los precios internacionales del petróleo asociado al conflicto en Oriente Medio. Hacienda afirma que compensará los R$ 2.760 millones mediante ingresos extraordinarios del sector petrolero. La medida puede moderar los precios, pero no determina por sí sola el valor final en las estaciones de servicio, que también depende de mezclas, refinerías, distribución, márgenes e impuestos estatales. Las prórrogas sucesivas requieren evaluar el costo fiscal real y la duración de las presiones externas.",
-        "counterpoint": "El gobierno defiende la medida temporal como protección al consumidor y apoyo a la competitividad del etanol. Los críticos pueden cuestionar la sostenibilidad de exenciones y subsidios renovados cada mes y cuánto llega realmente al conductor. Los valores anunciados son estimaciones fiscales, no pruebas de rebajas equivalentes en los precios finales. No se confirmó un enlace JPEG directo con derechos de reutilización y tamaño plenamente verificados, por lo que se utilizará la imagen alternativa del sitio.",
-        "category": "ECONOMÍA"
+        "counterpoint": "El gobierno defiende la medida temporal como protección al consumidor y apoyo a la competitividad del etanol. Los críticos pueden cuestionar la sostenibilidad de exenciones y subsidios renovados cada mes y cuánto llega realmente al conductor. Los valores anunciados son estimaciones fiscales, no pruebas de rebajas equivalentes en los precios finales.",
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (16 de octubre de 2008): estación de servicio en Piracicaba, estado de São Paulo, con gasolina, etanol, diésel y GNV. Imagen ilustrativa; no representa el decreto de 2026."
+        }
       },
       "firstSeen": "2026-11-10T12:02:34-03:00"
     },
@@ -53,7 +70,7 @@
       "subtitle": "Paris atribui sabotagem de sistemas de refrigeração à Guarda Revolucionária iraniana e prepara pedido de sanções europeias; Teerã rejeita acusação.",
       "facts": "O Ministério das Relações Exteriores da França confirmou em 10 de novembro de 2026 que convocou o embaixador do Irã em Paris, após atribuir a agentes ligados à Guarda Revolucionária iraniana uma campanha de ataques cibernéticos contra sistemas de refrigeração de supermercados franceses. Segundo declaração oficial francesa de 9 de novembro, os incidentes ocorreram na noite de 11 para 12 de outubro e atingiram controladores instalados em mais de 700 estabelecimentos, provocando perdas de alimentos, danos materiais e alguns focos de incêndio. A Procuradoria de Paris abriu investigação. A convocação do diplomata foi confirmada pela Reuters nesta terça-feira; a Associated Press também relatou a acusação e os danos. A autoria iraniana é uma atribuição das autoridades francesas, não uma conclusão judicial definitiva.",
       "analysis": "O episódio revela como sistemas conectados de refrigeração podem se tornar alvos de sabotagem com consequências econômicas e sanitárias. O governo francês pretende defender sanções europeias e admite medidas adicionais proporcionais para dissuadir novos ataques. A segurança de equipamentos industriais conectados passa a integrar diretamente a política externa e a proteção de cadeias de abastecimento. A investigação poderá esclarecer a cadeia de comando e a extensão dos danos, mas a atribuição estatal de um ciberataque exige distinguir evidências técnicas divulgadas de acusações diplomáticas.",
-      "counterpoint": "O Irã rejeitou a acusação francesa, segundo a Reuters. Ainda não há sentença judicial definitiva que estabeleça a responsabilidade dos suspeitos. A investigação francesa e eventuais sanções devem ser acompanhadas de divulgação verificável de evidências e respeito ao devido processo. Não foi identificada nesta rodada uma foto direta do incidente com autorização e URL JPEG validada, portanto o artigo utilizará o logo de fallback.",
+      "counterpoint": "O Irã rejeitou a acusação francesa, segundo a Reuters. Ainda não há sentença judicial definitiva que estabeleça a responsabilidade dos suspeitos. A investigação francesa e eventuais sanções devem ser acompanhadas de divulgação verificável de evidências e respeito ao devido processo.",
       "sources": [
         {
           "name": "Ministério das Relações Exteriores da França — declaração de atribuição (09/11/2026)",
@@ -68,21 +85,38 @@
           "url": "https://apnews.com/article/6914ecf1a3285291653e103655f9e4a4"
         }
       ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Minist%C3%A8res_des_Affaires_%C3%89trang%C3%A8res_-_panoramio.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/",
+          "credit": "Infernal Quack (Franck Quelain)/Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Minist%C3%A8res_des_Affaires_%C3%89trang%C3%A8res_-_panoramio.jpg",
+          "caption": "FOTO DE ARQUIVO (30/04/2007): fachada do Ministério das Relações Exteriores da França, no Quai d'Orsay, em Paris. Imagem ilustrativa; não mostra a convocação do embaixador iraniano em 2026."
+        }
+      ],
       "en": {
         "title": "France summons Iranian ambassador over cyberattack on 700 supermarkets",
         "subtitle": "Paris blames Iran-linked Revolutionary Guard operatives for refrigeration sabotage and seeks European sanctions; Tehran rejects the allegation.",
         "facts": "France's Foreign Ministry confirmed on November 10, 2026 that it summoned Iran's ambassador in Paris after attributing cyberattacks on supermarket refrigeration controls to operatives linked to Iran's Revolutionary Guard. According to France's official November 9 statement, the attacks took place overnight on October 11–12 and targeted controllers at more than 700 retail sites, causing food losses, property damage and some fires. Paris prosecutors opened an investigation. Reuters confirmed the ambassador's summons on Tuesday, while the Associated Press separately reported the accusations and damage. Iranian responsibility remains an attribution by French authorities, not a final judicial finding.",
         "analysis": "The episode illustrates how connected refrigeration systems can be targeted for sabotage, with economic and public-health consequences. France plans to seek European sanctions and has warned it may take further proportionate steps to deter attacks. Industrial cybersecurity is increasingly a foreign-policy and supply-chain issue. Investigators still need to establish the command structure and full scale of the damage, and official attribution must be distinguished from a final court ruling.",
-        "counterpoint": "Iran rejected France's accusation, according to Reuters. No final judicial ruling has established the suspects' responsibility. Any sanctions and investigations should be assessed against disclosed evidence and due process. No incident photograph with verified reuse rights and a validated direct JPEG URL was identified for this report.",
-        "category": "WORLD"
+        "counterpoint": "Iran rejected France's accusation, according to Reuters. No final judicial ruling has established the suspects' responsibility. Any sanctions and investigations should be assessed against disclosed evidence and due process.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (April 30, 2007): exterior of France's Foreign Ministry on Quai d'Orsay in Paris. Illustrative image; it does not show the summons of Iran's ambassador in 2026."
+        }
       },
       "es": {
         "title": "Francia convoca al embajador iraní por ciberataque a 700 supermercados",
         "subtitle": "París acusa a agentes vinculados con la Guardia Revolucionaria iraní de sabotear sistemas de refrigeración y busca sanciones europeas; Teherán rechaza la acusación.",
         "facts": "El Ministerio de Exteriores de Francia confirmó el 10 de noviembre de 2026 que convocó al embajador de Irán en París después de atribuir ataques informáticos contra sistemas de refrigeración de supermercados a agentes vinculados con la Guardia Revolucionaria iraní. Según la declaración oficial francesa del 9 de noviembre, los ataques ocurrieron durante la noche del 11 al 12 de octubre y afectaron controladores en más de 700 establecimientos, causando pérdidas de alimentos, daños materiales y algunos incendios. La Fiscalía de París abrió una investigación. Reuters confirmó la convocatoria del diplomático el martes y Associated Press informó por separado sobre las acusaciones y los daños. La responsabilidad iraní sigue siendo una atribución de las autoridades francesas, no una conclusión judicial definitiva.",
         "analysis": "El episodio muestra cómo los sistemas de refrigeración conectados pueden convertirse en objetivos de sabotaje con consecuencias económicas y sanitarias. Francia pretende impulsar sanciones europeas y advierte que podría adoptar otras medidas proporcionales para disuadir nuevos ataques. La ciberseguridad industrial es cada vez más una cuestión de política exterior y protección de cadenas de suministro. La investigación deberá aclarar la cadena de mando y el alcance de los daños; una atribución oficial no equivale a una sentencia.",
-        "counterpoint": "Irán rechazó la acusación francesa, según Reuters. Todavía no existe una sentencia definitiva que establezca la responsabilidad de los sospechosos. Las investigaciones y posibles sanciones deben examinarse a la luz de las pruebas divulgadas y del debido proceso. No se identificó una fotografía del incidente con derechos de reutilización y URL JPEG directa verificados.",
-        "category": "MUNDO"
+        "counterpoint": "Irán rechazó la acusación francesa, según Reuters. Todavía no existe una sentencia definitiva que establezca la responsabilidad de los sospechosos. Las investigaciones y posibles sanciones deben examinarse a la luz de las pruebas divulgadas y del debido proceso.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (30 de abril de 2007): fachada del Ministerio de Exteriores de Francia en el Quai d'Orsay, París. Imagen ilustrativa; no muestra la convocatoria del embajador iraní en 2026."
+        }
       },
       "firstSeen": "2026-11-10T10:55:46-03:00"
     },
