@@ -53,7 +53,8 @@ class PublishedSeoTests(unittest.TestCase):
         self.assertIn("análise", title.lower())
         self.assertFalse(title.startswith("Biblioteca"))
         self.assertIn("política", desc)
-        self.assertLessEqual(len(desc), 155)
+        self.assertLessEqual(len(title), 60)  # Google corta títulos maiores
+        self.assertLessEqual(len(desc), 150)
 
 
 if __name__ == "__main__":
