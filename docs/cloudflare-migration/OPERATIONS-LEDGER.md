@@ -64,3 +64,9 @@ No secrets here: endpoints, record types, IDs and check results only.
 - Ícones gerados do logo "Corvo no machado" (favicon.ico 16/32/48, icon-192, icon-512, apple-touch-icon 180) — site main b76d40b.
 - Worker ICONS aponta para os PNGs (fbcc84f); deploy 100% em 41b1e7ca com OK do usuário. Rollback: ae91889c.
 - Release das 20:02 travou: favicon.ico era tratado como mídia imutável no R2 (r2 9608 B ≠ git 5569 B). Fix 0c08093: `isMutable('favicon.ico')` = true; clips/fotos continuam imutáveis.
+
+## 2026-11-09 23:35 — Worker ebced853: cache de imagens
+- Versão `ebced853-cba1-42e9-a058-27e8a9cde4c8` de `ops/cloudflare/raven-production-worker.mjs` na main 75dacae; deployment `7d46fc72` a 100%.
+- Imagens (jpg/png/webp/gif/svg/ico/woff2): `public, max-age=86400, stale-while-revalidate=604800`; HTML/JSON seguem 60 s, clips por hash seguem imutáveis.
+- Subida pelo cf CLI (cloudflare.config.ts mínimo, mesmos bindings GITHUB_FALLBACK="1" e RAVEN_MEDIA=raven-crow-media); exige terminal interativo porque o Worker vinha da script API.
+- Rollback: `cf workers deployments create --worker raven-crow-site-production --strategy percentage --versions '[{"version_id":"38a96b2e-aab6-474d-adc4-fcff7e80d5f4","percentage":100}]'`.
