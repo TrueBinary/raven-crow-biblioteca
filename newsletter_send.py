@@ -111,6 +111,14 @@ if __name__ == "__main__":
         mails = [m for m in [digest(root, (today - timedelta(days=1)).isoformat())] if m]
     elif mode == "coluna":
         mails = columns(root, today.isoformat())
+    elif mode == "inscritos":
+        for tipo, nome in (("regular", "confirmados"), ("unactivated", "aguardando confirmação"), ("unsubscribed", "cancelaram")):
+            n = _api("GET", f"/subscribers?type={tipo}&page_size=1").get("count", 0)
+            print(f"{nome}: {n}")
+            if os.environ.get("GITHUB_STEP_SUMMARY"):
+                with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as f:
+                    f.write(f"- **{nome}:** {n}\n")
+        sys.exit(0)
     else:
-        sys.exit("uso: newsletter_send.py resumo|coluna")
+        sys.exit("uso: newsletter_send.py resumo|coluna|inscritos")
     print("enviados:", send(mails) or "nenhum")
