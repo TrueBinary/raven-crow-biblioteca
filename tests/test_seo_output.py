@@ -46,6 +46,15 @@ class PublishedSeoTests(unittest.TestCase):
         self.assertIn("Sitemap: " + BASE + "/sitemap.xml", robots)
         self.assertNotIn("Disallow: /", robots)
 
+    def test_home_presents_news_analysis_not_only_library(self):
+        head = (ROOT / "index.html").read_text(encoding="utf-8").split("</head>")[0]
+        title = re.search(r"<title>([^<]*)</title>", head).group(1)
+        desc = re.search(r'<meta name="description" content="([^"]*)"', head).group(1)
+        self.assertIn("análise", title.lower())
+        self.assertFalse(title.startswith("Biblioteca"))
+        self.assertIn("política", desc)
+        self.assertLessEqual(len(desc), 155)
+
 
 if __name__ == "__main__":
     unittest.main()
