@@ -81,6 +81,27 @@ def _news_data(pub: Path):
     return news
 
 
+def _first_seen(pub: Path) -> dict:
+    # Earliest same-day edition time an article appeared in: its real publication time.
+    seen = {}
+    files = [pub / "noticias.json", *(pub / "arquivo").glob("noticias-*.json")]
+    for file in files:
+        edition = _read_json(file, {})
+        stamp = edition.get("updatedAt")
+        try:
+            moment = datetime.fromisoformat(stamp)
+        except (TypeError, ValueError):
+            continue
+        if moment.tzinfo is None:
+            continue
+        for article in edition.get("articles", []):
+            slug = str(article.get("id", ""))
+            if SLUG.fullmatch(slug) and stamp[:10] == _date(article.get("date")):
+                if slug not in seen or moment < datetime.fromisoformat(seen[slug]):
+                    seen[slug] = stamp
+    return seen
+
+
 def _org():
     return {
         "@type": "Organization", "@id": BASE + "/#organization",
@@ -159,6 +180,7 @@ def build(root: Path, today: date | None = None) -> dict:
 
     linked_news = []
     recent_news = []
+    first_seen = _first_seen(pub)
     for slug, item in sorted(news.items(), key=lambda kv: (kv[1].get("date", ""), kv[0]), reverse=True):
         url = BASE + "/noticias/" + slug + "/"
         file = pub / "noticias" / slug / "index.html"
@@ -166,6 +188,9 @@ def build(root: Path, today: date | None = None) -> dict:
         if not published or not _published(file, url, allow_missing=True):
             continue
         modified = _article_date(item) or published
+        # Schema and article:* metas get the real time; the sitemap keeps plain dates.
+        published_at = first_seen.get(slug, published)
+        modified_at = published_at if modified == published else modified
         photo = pub / "editorial" / "photos" / (slug + ".jpg")
         image = BASE + "/editorial/photos/" + slug + ".jpg" if photo.is_file() else None
         citations = [
@@ -173,9 +198,9 @@ def build(root: Path, today: date | None = None) -> dict:
             if isinstance(source, dict) and str(source.get("url", "")).startswith("https://")
         ]
         article = {
-            "@type": "Article", "@id": url + "#article",
+            "@type": "NewsArticle", "@id": url + "#article",
             "headline": item.get("title", ""), "description": item.get("subtitle", ""),
-            "datePublished": published, "dateModified": modified, "inLanguage": "pt-BR",
+            "datePublished": published_at, "dateModified": modified_at, "inLanguage": "pt-BR",
             "articleSection": item.get("category", "Análise"),
             "author": {"@id": BASE + "/#organization"},
             "publisher": {"@id": BASE + "/#organization"},
@@ -187,7 +212,7 @@ def build(root: Path, today: date | None = None) -> dict:
         if citations:
             article["citation"] = citations
         _metadata(file, [article, _crumbs("Notícias", item.get("title", ""), url)],
-                  published=published, modified=modified, image=image)
+                  published=published_at, modified=modified_at, image=image)
         entries.append((url, modified))
         linked_news.append((url, item.get("title", "")))
         recent_news.append((url, item.get("title", ""), published))

@@ -48,6 +48,31 @@ class SeoBuilderTests(unittest.TestCase):
     def tearDown(self):
         self.tmp.cleanup()
 
+    def _editions(self):
+        pub = self.root / "public"
+        (pub / "arquivo").mkdir(exist_ok=True)
+        base = json.loads((pub / "noticias.json").read_text(encoding="utf-8"))
+        early = dict(base, updatedAt="2026-11-05T09:10:00-03:00")
+        late = dict(base, updatedAt="2026-11-06T08:00:00-03:00")  # outro dia: não é publicação
+        (pub / "arquivo" / "noticias-2026-11-05.json").write_text(json.dumps(early), encoding="utf-8")
+        (pub / "arquivo" / "noticias-2026-11-06.json").write_text(json.dumps(late), encoding="utf-8")
+
+    def test_news_is_newsarticle_with_first_seen_time(self):
+        self._editions()
+        build(self.root)
+        news = (self.root / "public/noticias/estudo-tributacao/index.html").read_text(encoding="utf-8")
+        self.assertIn('"@type": "NewsArticle"', news)
+        self.assertIn('"datePublished": "2026-11-05T09:10:00-03:00"', news)
+        self.assertIn('property="article:published_time" content="2026-11-05T09:10:00-03:00"', news)
+        essay = (self.root / "public/coluna/familia-e-justica/index.html").read_text(encoding="utf-8")
+        self.assertIn('"@type": "Article"', essay)
+
+    def test_news_without_edition_time_keeps_plain_date_and_sitemap_dates(self):
+        build(self.root)
+        news = (self.root / "public/noticias/estudo-tributacao/index.html").read_text(encoding="utf-8")
+        self.assertIn('"datePublished": "2026-11-05"', news)
+        self.assertNotIn("T", re.search(r'"datePublished": "([^"]+)"', news).group(1))
+
     def test_news_sitemap_only_recent_published_articles(self):
         from datetime import date
         pub = self.root / "public"
@@ -154,7 +179,8 @@ class SeoBuilderTests(unittest.TestCase):
         later = page.read_text(encoding="utf-8")
         self.assertEqual(initial, page.read_bytes())
         self.assertEqual(later.count("FAQPage"), 1)
-        self.assertEqual(later.count('"@type": "Article"'), 1)
+        self.assertEqual(later.count('"@type": "NewsArticle"'), 1)
+        self.assertNotIn('"headline":"Legado"', later)
 
 
     def test_published_article_without_canonical_gets_safe_canonical(self):
@@ -166,7 +192,7 @@ class SeoBuilderTests(unittest.TestCase):
         build(self.root)
         after = page.read_text(encoding="utf-8")
         self.assertIn('<link rel="canonical" href="' + expected + '">', after)
-        self.assertIn('"@type": "Article"', after)
+        self.assertIn('"@type": "NewsArticle"', after)
         self.assertIn(expected, (self.root / "public/sitemap.xml").read_text(encoding="utf-8"))
 
 

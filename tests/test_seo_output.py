@@ -34,7 +34,7 @@ class PublishedSeoTests(unittest.TestCase):
                     r'<script type="application/ld\+json">(.*?)</script>', html, re.S)
                 graphs = [json.loads(s) for s in scripts]
                 articles = [x for g in graphs for x in g.get("@graph", [])
-                            if x.get("@type") == "Article"]
+                            if x.get("@type") in ("Article", "NewsArticle")]
                 self.assertEqual(len(articles), 1, url)
                 self.assertEqual(articles[0]["mainEntityOfPage"]["@id"], url)
                 self.assertTrue(articles[0]["datePublished"], url)
