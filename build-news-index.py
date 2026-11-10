@@ -67,6 +67,9 @@ preload=(f'<link rel="preload" as="image" data-rc-lead href="{escape(v["src"],qu
          'imagesizes="(max-width: 900px) 100vw, 900px" fetchpriority="high">') if v else ''
 home_new=re.sub(r'<link rel="preload" as="image" data-rc-lead[^>]*>','',home_new)
 home_new=home_new.replace('</head>',preload+'</head>',1)
+from newsletter import block as newsletter_block
+nl=newsletter_block('home')
+home_new=re.sub(r'<!-- rc-newsletter:start -->.*?<!-- rc-newsletter:end -->',lambda m:'<!-- rc-newsletter:start -->'+(f'<div class="wrap">{nl}</div>' if nl else '')+'<!-- rc-newsletter:end -->',home_new,count=1,flags=re.S)
 if home_new!=home_now:(ROOT/'index.html').write_text(home_new,encoding='utf-8')
 from raven_seo import build as build_seo
 build_seo(ROOT)

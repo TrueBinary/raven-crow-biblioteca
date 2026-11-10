@@ -8,6 +8,7 @@ import json
 import re
 from column_photos import photo_figure
 from news_i18n import LANGS, hreflang
+from newsletter import block as newsletter_block
 
 # Translated essays: "en"/"es" block {title, subtitle, eyebrow, section, paragraphs:[...], photo_caption} -> /<lang>/coluna/<id>/.
 COL_LANGS={
@@ -130,6 +131,7 @@ for essay in ESSAYS:
  {photo_figure(slug,PHOTO_CREDITS,PUBLIC,essay["title"])}
  <article class="rc-col-story-body">{paragraphs}</article>
  <section class="rc-col-sources" aria-labelledby="sources-heading"><h2 id="sources-heading">Fontes e leituras</h2><ul>{sources}</ul><p>Este texto é um ensaio de interpretação. As fontes citadas permitem consultar as obras e documentos originais.</p></section>
+ {newsletter_block('coluna')}
  <div class="rc-col-story-back"><a href="coluna.html">← Voltar à Coluna do Corvo</a><a href="apoie.html">Apoie o projeto ↗</a></div>
 </main><footer class="rc-col-footer"><div>© Raven Crow · Opinião editorial</div><div><a href="coluna.html">Outros ensaios</a> · <a href="index.html">Início</a></div></footer>
 <script defer src="raven-analytics.js"></script></body></html>'''
