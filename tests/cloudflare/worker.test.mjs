@@ -114,6 +114,8 @@ test('hash-named clips are immutable; HTML/JSON stay short-lived', async () => {
   const e = { RAVEN_MEDIA: bucket({ ...FILES, [`clips/${sha}.mp4`]: MP4, [`clips/${sha}.jpg`]: Buffer.from('j') }) };
   for (const ext of ['mp4', 'jpg']) assert.equal((await call(`/clips/${sha}.${ext}`, {}, e)).headers.get('cache-control'), 'public, max-age=31536000, immutable');
   assert.equal((await call('/')).headers.get('cache-control'), 'public, max-age=60');
+  const photos = { RAVEN_MEDIA: bucket({ ...FILES, 'editorial/photos/x-640.webp': Buffer.from('w'), 'editorial/photos/x.jpg': Buffer.from('j') }) };
+  for (const f of ['x-640.webp', 'x.jpg']) assert.equal((await call('/editorial/photos/' + f, {}, photos)).headers.get('cache-control'), 'public, max-age=86400, stale-while-revalidate=604800');
 });
 
 test('HTML pages get the social bar script just before </body>; other files untouched', async () => {

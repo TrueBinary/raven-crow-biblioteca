@@ -58,6 +58,15 @@ static='<ul class="rc-static-links">'+''.join(f'<li><a href="noticias/{escape(a[
 home_now=(ROOT/'index.html').read_text(encoding='utf-8')
 home_new=re.sub(r'<div class="rc-mag-main">(?:<ul class="rc-static-links">.*?</ul>)?</div>',lambda m:'<div class="rc-mag-main">'+static+'</div>',home_now,count=1,flags=re.S)
 if 'rc-static-links' not in home_new:raise RuntimeError('Homepage .rc-mag-main container missing')
+# Preload the lead story's photo so the browser finds the LCP image in the HTML instead of after JS + feed fetch.
+# Must pick the same story and sizes as raven-frontpage.js (first valid article, photo from editorial-images.json).
+images=json.loads((PUBLIC/'editorial-images.json').read_text(encoding='utf-8'))
+lead=next((a for a in articles if re.fullmatch(r'[a-z0-9-]{3,100}',str(a.get('id','')))),{})
+v=None if lead.get('image') else images.get('photoVariants',{}).get(lead.get('id'))
+preload=(f'<link rel="preload" as="image" data-rc-lead href="{escape(v["src"],quote=True)}" imagesrcset="{escape(v["srcset"],quote=True)}" '
+         'imagesizes="(max-width: 900px) 100vw, 900px" fetchpriority="high">') if v else ''
+home_new=re.sub(r'<link rel="preload" as="image" data-rc-lead[^>]*>','',home_new)
+home_new=home_new.replace('</head>',preload+'</head>',1)
 if home_new!=home_now:(ROOT/'index.html').write_text(home_new,encoding='utf-8')
 from raven_seo import build as build_seo
 build_seo(ROOT)

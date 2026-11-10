@@ -79,7 +79,8 @@ test('workflow serialises releases, keeps secrets off PRs and never commits', ()
   assert.match(y, /environment: cloudflare-production/);
   assert.doesNotMatch(y, /pull_request_target/);
   assert.doesNotMatch(y, /git (commit|push)/);
-  assert.match(y, /workflow_run:/);
+  // Manual only since 09/11/2026: the PC release is the single automatic deployer.
+  assert.doesNotMatch(y, /^\s*(push|workflow_run|schedule):/m);
 });
 
 test('release step fails when release.mjs fails, and publishes the commit the test job pinned', () => {
