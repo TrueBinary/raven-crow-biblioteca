@@ -81,25 +81,39 @@ def _news_data(pub: Path):
     return news
 
 
+def _stamp(value, day):
+    # A timezone-aware ISO time on the article's own date, or None.
+    try:
+        moment = datetime.fromisoformat(value)
+    except (TypeError, ValueError):
+        return None
+    return value if moment.tzinfo is not None and value[:10] == day else None
+
+
+def stamp_first_seen(previous_feed: Path, pairs) -> None:
+    """Set article["firstSeen"] once and keep it on later builds.
+
+    pairs: (article, edition updatedAt). noticias.json only keeps its latest
+    updatedAt, so the first build that sees an article (≤15 min after the
+    agent's commit) records it and every later build reuses the committed feed.
+    """
+    previous = {
+        str(a.get("id", "")): a.get("firstSeen")
+        for a in _read_json(previous_feed, {}).get("articles", [])
+    }
+    for article, updated in pairs:
+        day = _date(article.get("date"))
+        seen = _stamp(previous.get(str(article.get("id", ""))), day) or _stamp(updated, day)
+        if seen:
+            article["firstSeen"] = seen
+
+
 def _first_seen(pub: Path) -> dict:
-    # Earliest same-day edition time an article appeared in: its real publication time.
-    seen = {}
-    files = [pub / "noticias.json", *(pub / "arquivo").glob("noticias-*.json")]
-    for file in files:
-        edition = _read_json(file, {})
-        stamp = edition.get("updatedAt")
-        try:
-            moment = datetime.fromisoformat(stamp)
-        except (TypeError, ValueError):
-            continue
-        if moment.tzinfo is None:
-            continue
-        for article in edition.get("articles", []):
-            slug = str(article.get("id", ""))
-            if SLUG.fullmatch(slug) and stamp[:10] == _date(article.get("date")):
-                if slug not in seen or moment < datetime.fromisoformat(seen[slug]):
-                    seen[slug] = stamp
-    return seen
+    return {
+        str(a.get("id", "")): seen
+        for a in _read_json(pub / "editorial-feed.json", {}).get("articles", [])
+        if (seen := _stamp(a.get("firstSeen"), _date(a.get("date"))))
+    }
 
 
 def _org():

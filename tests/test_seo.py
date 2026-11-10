@@ -8,7 +8,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
-from raven_seo import build
+from raven_seo import build, stamp_first_seen
 
 
 class SeoBuilderTests(unittest.TestCase):
@@ -48,17 +48,25 @@ class SeoBuilderTests(unittest.TestCase):
     def tearDown(self):
         self.tmp.cleanup()
 
-    def _editions(self):
-        pub = self.root / "public"
-        (pub / "arquivo").mkdir(exist_ok=True)
-        base = json.loads((pub / "noticias.json").read_text(encoding="utf-8"))
-        early = dict(base, updatedAt="2026-11-05T09:10:00-03:00")
-        late = dict(base, updatedAt="2026-11-06T08:00:00-03:00")  # outro dia: não é publicação
-        (pub / "arquivo" / "noticias-2026-11-05.json").write_text(json.dumps(early), encoding="utf-8")
-        (pub / "arquivo" / "noticias-2026-11-06.json").write_text(json.dumps(late), encoding="utf-8")
+    def test_first_seen_is_kept_once_stamped_and_rejects_other_days(self):
+        feed = self.root / "public/editorial-feed.json"
+        feed.write_text(json.dumps({"articles": [
+            {"id": "antiga", "date": "2026-11-05", "firstSeen": "2026-11-05T09:10:00-03:00"}]}), encoding="utf-8")
+        antiga = {"id": "antiga", "date": "2026-11-05"}
+        nova = {"id": "nova", "date": "2026-11-06"}
+        ontem = {"id": "ontem", "date": "2026-11-05"}
+        sem_fuso = {"id": "sem-fuso", "date": "2026-11-06"}
+        stamp_first_seen(feed, [(antiga, "2026-11-05T18:00:00-03:00"), (nova, "2026-11-06T08:00:00-03:00"),
+                                (ontem, "2026-11-06T08:00:00-03:00"), (sem_fuso, "2026-11-06T08:00:00")])
+        self.assertEqual(antiga["firstSeen"], "2026-11-05T09:10:00-03:00")  # hora gravada não anda
+        self.assertEqual(nova["firstSeen"], "2026-11-06T08:00:00-03:00")
+        self.assertNotIn("firstSeen", ontem)  # edição de outro dia não é publicação
+        self.assertNotIn("firstSeen", sem_fuso)
 
     def test_news_is_newsarticle_with_first_seen_time(self):
-        self._editions()
+        (self.root / "public/editorial-feed.json").write_text(json.dumps({"articles": [
+            {"id": "estudo-tributacao", "date": "2026-11-05", "firstSeen": "2026-11-05T09:10:00-03:00"}]}),
+            encoding="utf-8")
         build(self.root)
         news = (self.root / "public/noticias/estudo-tributacao/index.html").read_text(encoding="utf-8")
         self.assertIn('"@type": "NewsArticle"', news)

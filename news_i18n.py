@@ -93,7 +93,7 @@ def render_article(root: Path, a: dict, lang: str, updated: str, credits: dict, 
     figs = {k: figs[k] + vids[k] for k in figs}
     sources = "".join('<li><a rel="noopener noreferrer" target="_blank" href="' + _esc(s["url"]) + '">' + _esc(s.get("name", L["source"])) + "</a></li>"
                       for s in a.get("sources", []) if urlparse(s.get("url", "")).scheme == "https")
-    schema = {"@context": "https://schema.org", "@type": "Article", "headline": b["title"], "description": b.get("subtitle", ""),
+    schema = {"@context": "https://schema.org", "@type": "NewsArticle", "headline": b["title"], "description": b.get("subtitle", ""),
               "inLanguage": lang, "datePublished": a["date"], "dateModified": updated, "author": {"@type": "Organization", "name": "Raven Crow"},
               "publisher": {"@type": "Organization", "name": "Raven Crow"}, "mainEntityOfPage": url, "isAccessibleForFree": True}
     photo = root / "public" / "editorial" / "photos" / (slug + ".jpg")
@@ -114,7 +114,7 @@ def render_article(root: Path, a: dict, lang: str, updated: str, credits: dict, 
             + "<h2>" + h[2] + "</h2><p>" + _esc(b["counterpoint"]) + "</p>" + figs["contraponto"]
             + "<h2>" + h[3] + "</h2><ul>" + sources + "</ul>"
             + '<p><a href="../../../noticias/' + slug + '/" hreflang="pt-BR">Leia em português →</a></p></main>'
-            + '<footer class="rc-foot"><span>' + L["foot"] + " / " + fmt_date(a["date"], lang) + "</span><b>Raven Crow</b></footer>"
+            + '<footer class="rc-foot"><span>' + L["foot"] + ' / <time datetime="' + _esc(a["date"]) + '">' + fmt_date(a["date"], lang) + "</time></span><b>Raven Crow</b></footer>"
             + '<script defer src="../../../raven-analytics.js"></script></body></html>')
     dest = root / "public" / lang / "noticias" / slug
     dest.mkdir(parents=True, exist_ok=True)

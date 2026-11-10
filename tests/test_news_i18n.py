@@ -34,6 +34,8 @@ class NewsI18nTests(unittest.TestCase):
             self.assertIn('"image": "https://b/editorial/photos/nova-2026.jpg"', en)
             self.assertIn('<meta property="og:image" content="https://b/editorial/photos/nova-2026.jpg">', es)
             self.assertIn('src="../../../editorial/photos/nova-2026.jpg"', es)
+            self.assertIn('"@type": "NewsArticle"', en)
+            self.assertRegex(es, r'<footer class="rc-foot"><span>[^<]*<time datetime="2026-11-08">8 de noviembre de 2026</time></span>')
             render_index(root, "es", [a], "", "https://b")
             self.assertIn("Gran noticia", (root / "public/es/index.html").read_text(encoding="utf-8"))
 
