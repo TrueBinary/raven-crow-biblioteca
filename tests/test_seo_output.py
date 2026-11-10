@@ -33,7 +33,7 @@ class PublishedSeoTests(unittest.TestCase):
                 scripts = re.findall(
                     r'<script type="application/ld\+json">(.*?)</script>', html, re.S)
                 graphs = [json.loads(s) for s in scripts]
-                articles = [x for g in graphs for x in g.get("@graph", [])
+                articles = [x for g in graphs for x in g.get("@graph", [g])
                             if x.get("@type") in ("Article", "NewsArticle")]
                 self.assertEqual(len(articles), 1, url)
                 self.assertEqual(articles[0]["mainEntityOfPage"]["@id"], url)

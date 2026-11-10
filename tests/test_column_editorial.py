@@ -34,7 +34,7 @@ class ColumnEditorialTests(unittest.TestCase):
   self.assertIn('root.replaceChildren()',js)
  def test_family_piece_cites_original_catholic_sources_and_is_labeled_opinion(self):
   data=json.loads((PUBLIC/'coluna-ensaios.json').read_text(encoding='utf-8'))['essays']
-  family=next(a for a in data if a['section']=='Fé e família')
+  family=next(a for a in data if a['id']=='familia-crista-primeira-escola-de-amor')
   self.assertIn('família',family['title'].lower())
   self.assertTrue(any(s['url'].startswith('https://www.vatican.va/') for s in family['sources']))
   self.assertGreaterEqual(len(family['paragraphs']),4)
@@ -44,8 +44,8 @@ class ColumnEditorialTests(unittest.TestCase):
   for essay in data:
    self.assertIn('https://ravencrow.cloud/coluna/'+essay['id']+'/',sitemap)
  def test_publishing_workflow_updates_column_pages(self):
-  # o pipeline vive no release do PC desde 08/11/2026 (Actions só confere)
-  s=(ROOT/'ops/cloudflare/release-local.ps1').read_text(encoding='utf-8')
+  # o pipeline vive no workflow Publicar site desde 10/11/2026
+  s=(ROOT/'.github/workflows/site-release.yml').read_text(encoding='utf-8')
   self.assertIn('build-column.py',s)
   self.assertIn('public/coluna.html',s)
   self.assertIn('public/coluna',s)

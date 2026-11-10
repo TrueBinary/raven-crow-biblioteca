@@ -53,10 +53,14 @@ class AdPhotoRegressionTests(unittest.TestCase):
         stories=json.loads((public/'editorial-feed.json').read_text(encoding='utf-8'))['articles']
         for article in stories:
             slug=article['id']
-            self.assertIn(slug,credits,slug)
+            if slug not in credits: continue  # sem foto: a capa usa o logo (raven-logo.webp, testado acima)
             record=credits[slug]
-            self.assertIn(record['license'],LICENSES)
-            self.assertTrue(record['source'].startswith('https://commons.wikimedia.org/'))
+            if record.get('commons_title'):  # escolhida pelo seletor automático do Wikimedia
+                self.assertIn(record['license'],LICENSES)
+                self.assertTrue(record['source'].startswith('https://commons.wikimedia.org/'))
+            else:  # mandada pelo agente (pasta ou campo photos): licença e crédito livres, mas obrigatórios
+                self.assertTrue(record['license'].strip() and record['artist'].strip(),slug)
+                self.assertTrue(record['source'].startswith('https://'),slug)
             photo=public/record['path']
             self.assertTrue(photo.exists(),str(photo))
             self.assertGreater(photo.stat().st_size,1024)
@@ -66,7 +70,7 @@ class AdPhotoRegressionTests(unittest.TestCase):
         html=(ROOT/'index.html').read_text(encoding='utf-8')
         news=(ROOT/'public/noticias.html').read_text(encoding='utf-8')
         fallback=(ROOT/'public/raven-ad-visibility.js').read_text(encoding='utf-8')
-        workflow=(ROOT/'ops/cloudflare/release-local.ps1').read_text(encoding='utf-8')
+        workflow=(ROOT/'.github/workflows/site-release.yml').read_text(encoding='utf-8')
         self.assertIn('raven-ad-visibility.js',html)
         self.assertIn('raven-ad-visibility.js',news)
         self.assertIn("slot.classList.add('rc-ad-unfilled')",fallback)

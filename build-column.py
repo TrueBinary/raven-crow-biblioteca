@@ -7,7 +7,7 @@ from html import escape
 import json
 import re
 from column_photos import photo_figure
-from news_i18n import hreflang
+from news_i18n import LANGS, hreflang
 
 # Translated essays: "en"/"es" block {title, subtitle, eyebrow, section, paragraphs:[...], photo_caption} -> /<lang>/coluna/<id>/.
 COL_LANGS={
@@ -163,8 +163,9 @@ for essay in ESSAYS:
         image=f"{BASE}/editorial/photos/{slug}.jpg" if (PUBLIC/"editorial"/"photos"/f"{slug}.jpg").is_file() else None
         schema={"@context":"https://schema.org","@type":"Article","headline":b["title"],"description":b.get("subtitle",""),"genre":L["tag"],
                 "inLanguage":lang,"datePublished":essay["date"],"author":{"@type":"Organization","name":"Raven Crow"},
-                "publisher":{"@type":"Organization","name":"Raven Crow"},"mainEntityOfPage":lurl,"isAccessibleForFree":True,**({"image":image} if image else {})}
+                "publisher":{"@type":"Organization","name":"Raven Crow"},"mainEntityOfPage":{"@type":"WebPage","@id":lurl},"isAccessibleForFree":True,**({"image":image} if image else {})}
         extra=(f'<meta property="og:image" content="{image}"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{image}">' if image else "")
+        extra+=f'<meta property="og:locale" content="{LANGS[lang]["locale"]}"><meta property="og:site_name" content="Raven Crow">'
         extra+='<script type="application/ld+json">'+json.dumps(schema,ensure_ascii=False).replace("<","\\u003c")+"</script>"
         page=page.replace(canon.replace(h(url),h(lurl)),canon.replace(h(url),h(lurl))+hreflang(url,tr)+extra,1)
         d=PUBLIC/lang/"coluna"/slug

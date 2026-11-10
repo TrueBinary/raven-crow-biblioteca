@@ -40,7 +40,7 @@ jobs:
         run: node ops/cloudflare/import-photos.mjs . .sem-pasta-de-fotos
       - name: Gerar páginas
         run: |
-          pip install -q pillow
+          pip install -q pillow==13.0.0
           for b in build-raven.py build-column.py build-news-index.py build-library.py; do python "$b"; done
       - name: Commit das páginas
         id: commit
@@ -77,4 +77,5 @@ jobs:
       - name: Resumo
         if: always()
         run: |
-          { echo '```json'; cat release-summary.json 2>/dev/null; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+          if [ -s release-summary.json ]; then { echo '```json'; cat release-summary.json; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+          else echo "Nada enviado ao R2 (commit=${{ steps.commit.outputs.changed }}, push=${{ steps.push.outputs.pushed }}). Veja o passo que falhou." >> "$GITHUB_STEP_SUMMARY"; fi

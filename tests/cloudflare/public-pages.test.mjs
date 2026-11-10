@@ -45,6 +45,11 @@ test('home without WebSite schema, article without Article schema', () => {
   assert.match(run(site({ 'public/noticias/abc-2026/index.html': art })).warnings.join(), /abc-2026.*Article/);
 });
 
+test('NewsArticle conta como schema de matéria', () => {
+  const news = head('https://ravencrow.cloud/noticias/abc-2026/', ld('NewsArticle')).replace('raven-unified.css', '../../raven-unified.css');
+  assert.doesNotMatch(run(site({ 'public/noticias/abc-2026/index.html': news })).warnings.join(), /Article schema missing/);
+});
+
 test('missing or wrong Google verification file', () => {
   assert.match(run(site({ 'public/google4d032a0e9d3268ea.html': null })).errors.join(), /Google verification/);
   assert.match(run(site({ 'public/google4d032a0e9d3268ea.html': '<html></html>' })).errors.join(), /Google verification/);

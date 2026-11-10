@@ -62,7 +62,7 @@ def _head(lang, title, desc, url, alternates, css, extra=""):
     return ('<!doctype html><html lang="' + lang + '"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
             '<meta name="theme-color" content="#0d0e12"><title>' + _esc(title) + '</title><meta name="description" content="' + _esc(desc[:155]) + '">'
             '<link rel="canonical" href="' + url + '">' + alternates + '<meta property="og:title" content="' + _esc(title) + '">'
-            '<meta property="og:description" content="' + _esc(desc) + '"><meta property="og:url" content="' + url + '"><meta property="og:locale" content="' + LANGS[lang]["locale"] + '">'
+            '<meta property="og:description" content="' + _esc(desc) + '"><meta property="og:url" content="' + url + '"><meta property="og:locale" content="' + LANGS[lang]["locale"] + '"><meta property="og:site_name" content="Raven Crow">'
             + extra + '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
             '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@800;900&family=DM+Sans:wght@400;500;600;700;800&display=swap">'
             '<style>' + css + '</style></head>')
@@ -95,7 +95,7 @@ def render_article(root: Path, a: dict, lang: str, updated: str, credits: dict, 
                       for s in a.get("sources", []) if urlparse(s.get("url", "")).scheme == "https")
     schema = {"@context": "https://schema.org", "@type": "NewsArticle", "headline": b["title"], "description": b.get("subtitle", ""),
               "inLanguage": lang, "datePublished": a.get("firstSeen") or a["date"], "dateModified": a.get("firstSeen") or a["date"], "author": {"@type": "Organization", "name": "Raven Crow"},
-              "publisher": {"@type": "Organization", "name": "Raven Crow"}, "mainEntityOfPage": url, "isAccessibleForFree": True}
+              "publisher": {"@type": "Organization", "name": "Raven Crow"}, "mainEntityOfPage": {"@type": "WebPage", "@id": url}, "isAccessibleForFree": True}
     photo = root / "public" / "editorial" / "photos" / (slug + ".jpg")
     image = f"{base}/editorial/photos/{slug}.jpg" if photo.is_file() else None
     if image:

@@ -142,3 +142,11 @@ test('site-release: push recusado só é tolerado se a main realmente andou', ()
   assert.match(push, /merge-base --is-ancestor origin\/main HEAD/);
   assert.match(push, /exit 1/);
 });
+
+test('site-release: Pillow com versão fixa e Resumo diz quando nada foi enviado', () => {
+  const y = wf();
+  assert.match(y, /pip install -q pillow==\d+\.\d+\.\d+/);
+  const resumo = y.split('- name: Resumo')[1];
+  assert.match(resumo, /-s release-summary\.json/);
+  assert.match(resumo, /Nada enviado ao R2/);
+});

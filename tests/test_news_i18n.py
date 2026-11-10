@@ -35,6 +35,7 @@ class NewsI18nTests(unittest.TestCase):
             self.assertIn('<meta property="og:image" content="https://b/editorial/photos/nova-2026.jpg">', es)
             self.assertIn('src="../../../editorial/photos/nova-2026.jpg"', es)
             self.assertIn('"@type": "NewsArticle"', en)
+            self.assertIn('<meta property="og:site_name" content="Raven Crow">', en)
             # Sem firstSeen: só a data, nunca o updatedAt da edição (que anda a cada atualização).
             render_article(root, a, "en", "2026-11-08T22:00:00-03:00", credits, "", "https://b", lambda t: t)
             en = (root / "public/en/noticias/nova-2026/index.html").read_text(encoding="utf-8")

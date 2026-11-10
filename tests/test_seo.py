@@ -212,5 +212,13 @@ class SeoBuilderTests(unittest.TestCase):
         self.assertIn(expected, (self.root / "public/sitemap.xml").read_text(encoding="utf-8"))
 
 
+class BuildRavenWiringTests(unittest.TestCase):
+    def test_first_seen_is_stamped_before_feed_is_rewritten(self):
+        src = (Path(__file__).resolve().parents[1] / "build-raven.py").read_text(encoding="utf-8")
+        stamp = src.index("stamp_first_seen(ROOT/'public/editorial-feed.json'")
+        write = src.index("(ROOT/'public/editorial-feed.json').write_text(")
+        self.assertLess(stamp, write)
+
+
 if __name__ == "__main__":
     unittest.main()
