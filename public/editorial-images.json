@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "uniao-europeia-50-milhoes-seguranca-maritima-mar-negro-2026-11-10": "editorial/covers/uniao-europeia-50-milhoes-seguranca-maritima-mar-negro-2026-11-10.svg",
     "porto-santos-confirma-ataque-cibernetico-sistemas-2026-11-10": "editorial/covers/porto-santos-confirma-ataque-cibernetico-sistemas-2026-11-10.svg",
     "irmao-viktor-orban-detido-trafico-pessoas-hungria-2026-11-10": "editorial/covers/irmao-viktor-orban-detido-trafico-pessoas-hungria-2026-11-10.svg",
     "brasil-defende-transicao-combustiveis-fosseis-cop31-2026-11-10": "editorial/covers/brasil-defende-transicao-combustiveis-fosseis-cop31-2026-11-10.svg",
@@ -169,7 +170,8 @@
     "russia-ucrania-eua-retomam-negociacoes-abu-dhabi-2026-11-10": "editorial/photos/russia-ucrania-eua-retomam-negociacoes-abu-dhabi-2026-11-10.jpg",
     "petroleo-brent-abaixo-90-dolares-tensao-ira-2026-11-10": "editorial/photos/petroleo-brent-abaixo-90-dolares-tensao-ira-2026-11-10.jpg",
     "irmao-viktor-orban-detido-trafico-pessoas-hungria-2026-11-10": "editorial/photos/irmao-viktor-orban-detido-trafico-pessoas-hungria-2026-11-10.jpg",
-    "porto-santos-confirma-ataque-cibernetico-sistemas-2026-11-10": "editorial/photos/porto-santos-confirma-ataque-cibernetico-sistemas-2026-11-10.jpg"
+    "porto-santos-confirma-ataque-cibernetico-sistemas-2026-11-10": "editorial/photos/porto-santos-confirma-ataque-cibernetico-sistemas-2026-11-10.jpg",
+    "uniao-europeia-50-milhoes-seguranca-maritima-mar-negro-2026-11-10": "editorial/photos/uniao-europeia-50-milhoes-seguranca-maritima-mar-negro-2026-11-10.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -609,6 +611,12 @@
       "srcset": "editorial/photos/porto-santos-confirma-ataque-cibernetico-sistemas-2026-11-10-640.webp 640w, editorial/photos/porto-santos-confirma-ataque-cibernetico-sistemas-2026-11-10-1024.webp 1024w",
       "width": 1024,
       "height": 681
+    },
+    "uniao-europeia-50-milhoes-seguranca-maritima-mar-negro-2026-11-10": {
+      "src": "editorial/photos/uniao-europeia-50-milhoes-seguranca-maritima-mar-negro-2026-11-10-1280.webp",
+      "srcset": "editorial/photos/uniao-europeia-50-milhoes-seguranca-maritima-mar-negro-2026-11-10-640.webp 640w, editorial/photos/uniao-europeia-50-milhoes-seguranca-maritima-mar-negro-2026-11-10-1280.webp 1280w",
+      "width": 1280,
+      "height": 851
     }
   }
 }
