@@ -2,9 +2,62 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "10/11/2026",
-  "updatedAt": "2026-11-10T13:03:08-03:00",
+  "updatedAt": "2026-11-10T14:00:16-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "russia-ucrania-eua-retomam-negociacoes-abu-dhabi-2026-11-10",
+      "date": "2026-11-10",
+      "category": "MUNDO",
+      "title": "Rússia e Ucrânia retomam negociações mediadas pelos EUA em Abu Dhabi após nove meses",
+      "subtitle": "Delegações discutem garantias de segurança, questões humanitárias e caminhos para uma trégua; divergências territoriais continuam.",
+      "facts": "Delegações de Rússia, Ucrânia e Estados Unidos iniciaram em 10 de novembro de 2026 uma nova rodada de negociações em Abu Dhabi, nos Emirados Árabes Unidos, a primeira reunião trilateral mediada pelos EUA desde fevereiro. Os enviados norte-americanos Jared Kushner e Steve Witkoff participam da iniciativa. O representante ucraniano Rustem Umerov destacou a necessidade de garantias de segurança e de uma paz duradoura. O negociador russo Vladimir Medinsky afirmou esperar avanços. A agenda inclui questões humanitárias, como prisioneiros e civis detidos, além de segurança e desescalada. Reuters e Associated Press relataram a retomada dos contatos. Não houve anúncio de acordo definitivo; a rodada deve continuar em 11 de novembro.",
+      "analysis": "O retorno das delegações à mesa abre um canal diplomático relevante, mas não significa que um cessar-fogo esteja acertado. As partes continuam afastadas sobre o controle de territórios ucranianos, a arquitetura de segurança europeia e as condições exigidas por Moscou. Países europeus também querem participar das decisões que afetem a segurança do continente. Paralelamente às negociações, ataques russos à infraestrutura energética ucraniana continuam, aumentando a pressão humanitária com a aproximação do inverno. O teste será transformar declarações positivas em compromissos verificáveis, sem confundir abertura de diálogo com fim das hostilidades.",
+      "counterpoint": "Washington apresenta a retomada das conversas como oportunidade de reduzir divergências, enquanto Kiev insiste em garantias efetivas contra novas agressões. Moscou condiciona um entendimento a demandas de segurança e território que a Ucrânia rejeita. Nenhum dos lados anunciou concessões suficientes para um acordo. A fotografia utilizada é de arquivo da cidade-sede e não registra os negociadores.",
+      "sources": [
+        {
+          "name": "Reuters — Russia and Ukraine meet for US-backed talks (10/11/2026)",
+          "url": "https://www.reuters.com/world/europe/russia-ukraine-meet-us-backed-talks-after-trump-says-broad-deal-possible-2026-11-10/"
+        },
+        {
+          "name": "Associated Press — Russia and Ukraine hold US-mediated talks in Abu Dhabi (10/11/2026)",
+          "url": "https://apnews.com/article/3d878a3e56d5df5bd198a6d20c824d18"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Skyline_von_Abu_Dhabi.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Tetraeder/Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Skyline_von_Abu_Dhabi.jpg",
+          "caption": "FOTO DE ARQUIVO (22/02/2019): vista da orla e dos edifícios de Abu Dhabi, nos Emirados Árabes Unidos. Imagem ilustrativa da cidade que recebe as negociações; não mostra a reunião de 10/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Russia and Ukraine resume US-mediated talks in Abu Dhabi after nine months",
+        "subtitle": "Delegations discuss security guarantees, humanitarian issues and potential de-escalation, with territorial disputes unresolved.",
+        "facts": "Russian, Ukrainian and US delegations opened a new round of talks in Abu Dhabi, United Arab Emirates, on November 10, 2026, the first US-mediated trilateral meeting since February. US envoys Jared Kushner and Steve Witkoff are involved in the initiative. Ukraine's representative Rustem Umerov stressed security guarantees and a lasting peace, while Russian negotiator Vladimir Medinsky expressed hope for progress. The agenda covers humanitarian issues, including prisoners and detained civilians, as well as security and de-escalation. Reuters and the Associated Press reported the resumption of talks. No final agreement was announced, and discussions are expected to continue on November 11.",
+        "analysis": "The return to the negotiating table creates a significant diplomatic channel, but it does not mean a ceasefire has been agreed. The parties remain divided over Ukrainian territory, Europe's security architecture and Moscow's demands. European governments also seek a voice in decisions affecting the continent's security. Russian attacks on Ukraine's energy infrastructure continue as winter approaches. The crucial test is whether positive statements can become verifiable commitments while hostilities persist.",
+        "counterpoint": "Washington sees renewed negotiations as a chance to narrow differences. Kyiv insists on effective guarantees against renewed aggression, while Moscow ties a settlement to security and territorial demands Ukraine rejects. Neither side has announced concessions sufficient for a deal. The image is an archival view of the host city, not a photograph of the talks.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (February 22, 2019): Abu Dhabi waterfront and skyline in the United Arab Emirates. Illustrative image of the host city, not the November 10, 2026 negotiations."
+        }
+      },
+      "es": {
+        "title": "Rusia y Ucrania reanudan negociaciones mediadas por EE. UU. en Abu Dabi tras nueve meses",
+        "subtitle": "Las delegaciones abordan garantías de seguridad, cuestiones humanitarias y una posible desescalada, sin resolver las disputas territoriales.",
+        "facts": "Las delegaciones de Rusia, Ucrania y Estados Unidos iniciaron una nueva ronda de negociaciones en Abu Dabi, Emiratos Árabes Unidos, el 10 de noviembre de 2026, la primera reunión trilateral mediada por Washington desde febrero. Participan los enviados estadounidenses Jared Kushner y Steve Witkoff. El representante ucraniano Rustem Umerov subrayó la necesidad de garantías de seguridad y una paz duradera; el negociador ruso Vladimir Medinsky expresó su deseo de lograr avances. La agenda incluye cuestiones humanitarias, como prisioneros y civiles detenidos, además de seguridad y desescalada. Reuters y Associated Press informaron sobre la reanudación de las conversaciones. No se anunció ningún acuerdo definitivo y está previsto continuar el 11 de noviembre.",
+        "analysis": "La vuelta a la mesa de negociación abre un canal diplomático importante, pero no significa que exista un alto el fuego acordado. Persisten las diferencias sobre el territorio ucraniano, la arquitectura de seguridad europea y las exigencias de Moscú. Los gobiernos europeos también reclaman participar en decisiones que afectan a la seguridad continental. Mientras tanto, continúan los ataques rusos a la infraestructura energética de Ucrania ante la llegada del invierno. El desafío será convertir las declaraciones positivas en compromisos verificables sin confundir diálogo con el fin de los combates.",
+        "counterpoint": "Washington considera las conversaciones una oportunidad para reducir diferencias. Kiev exige garantías efectivas contra nuevas agresiones y Moscú condiciona un acuerdo a exigencias territoriales y de seguridad que Ucrania rechaza. Ninguna parte ha anunciado concesiones suficientes para cerrar un pacto. La imagen es una fotografía de archivo de la ciudad anfitriona y no de la reunión.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (22 de febrero de 2019): costa y edificios de Abu Dabi, Emiratos Árabes Unidos. Imagen ilustrativa de la ciudad anfitriona; no muestra las negociaciones del 10 de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "ata-copom-alerta-risco-fiscal-juros-selic-2026-11-10",
       "date": "2026-11-10",
