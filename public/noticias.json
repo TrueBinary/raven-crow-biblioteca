@@ -2,9 +2,66 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "10/11/2026",
-  "updatedAt": "2026-11-10T14:00:16-03:00",
+  "updatedAt": "2026-11-10T15:04:14-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "petroleo-brent-abaixo-90-dolares-tensao-ira-2026-11-10",
+      "date": "2026-11-10",
+      "category": "ECONOMIA",
+      "title": "Petróleo Brent cai abaixo de US$ 90 com sinais de recuo dos EUA em ataques ao Irã",
+      "subtitle": "Cotação atingiu mínima desde agosto nesta terça-feira, mas bloqueio naval no estreito de Ormuz e ausência de acordo mantêm riscos de abastecimento.",
+      "facts": "O petróleo Brent caiu abaixo de US$ 90 por barril nesta terça-feira, 10 de novembro de 2026, pela primeira vez desde agosto, segundo relatos de mercado da Reuters, Financial Times e The Guardian. A referência internacional chegou a aproximadamente US$ 89,16 durante o pregão, antes de recuperar parte das perdas; as cotações variam conforme o horário de apuração. O movimento ocorreu após o presidente dos Estados Unidos, Donald Trump, indicar que novos ataques contra o Irã eram pouco prováveis no momento. A expectativa de menor escalada militar reduziu o prêmio de risco embutido no petróleo, enquanto o mercado acompanhava o aumento dos fluxos de produção no Oriente Médio e as conversas diplomáticas. A decisão de Washington de manter o bloqueio naval e a instabilidade no estreito de Ormuz, rota estratégica do comércio de petróleo, mostram que a normalização do fornecimento ainda não está garantida.",
+      "analysis": "A queda do Brent tende a aliviar custos de energia, transporte e parte das pressões inflacionárias, mas não se traduz automaticamente em redução proporcional do preço dos combustíveis ao consumidor. Câmbio, impostos, refino, distribuição e políticas de preços locais influenciam o repasse. A forte oscilação do petróleo evidencia a sensibilidade do mercado à retórica de Washington e ao risco de interrupção de rotas marítimas. No Brasil, uma eventual redução persistente do preço internacional poderia mudar o cenário de custos de importação, mas a direção dos preços domésticos dependerá também do dólar e das decisões de agentes do setor. A cotação intradiária não deve ser confundida com preço de fechamento.",
+      "counterpoint": "A diminuição das ameaças de novos ataques não significa cessar-fogo nem acordo entre Estados Unidos e Irã. Analistas citados pela imprensa financeira alertam que a segurança da navegação pelo estreito de Ormuz segue incerta. Além disso, tensões militares podem voltar a elevar rapidamente as cotações. Os valores mencionados representam momentos distintos do pregão de 10 de novembro, e não uma cotação final consolidada.",
+      "sources": [
+        {
+          "name": "Financial Times — Oil falls below $90 as Trump pulls back from threat to strike Iran (10/11/2026)",
+          "url": "https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72"
+        },
+        {
+          "name": "Reuters — Oil prices hit two-month lows as US downplays further Iran strikes (10/11/2026)",
+          "url": "https://www.reuters.com/business/energy/oil-falls-trump-downplays-prospect-escalation-with-iran-2026-11-10/"
+        },
+        {
+          "name": "The Guardian — Oil prices fall to lowest since August (10/11/2026)",
+          "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Oil_Tanker_ship.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) — https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Shipspotter Stahl/Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Oil_Tanker_ship.jpg",
+          "caption": "FOTO DE ARQUIVO (29/11/2019): navio petroleiro Mount Everest. Imagem ilustrativa do transporte marítimo de petróleo; não mostra incidentes no estreito de Ormuz nem o mercado de 10/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Brent oil dips below $90 as US signals restraint on further Iran strikes",
+        "subtitle": "The benchmark touched its lowest level since August on Tuesday, but the Strait of Hormuz blockade and lack of a deal leave supply risks unresolved.",
+        "facts": "Brent crude briefly fell below US$90 a barrel on Tuesday, November 10, 2026, for the first time since August, according to market reporting by Reuters, the Financial Times and The Guardian. The international benchmark touched approximately US$89.16 during trading before recovering some losses; quotes varied by reporting time. Prices declined after US President Donald Trump indicated that further strikes against Iran were unlikely for now. Reduced fears of military escalation lowered the geopolitical risk premium, while traders monitored Middle Eastern production flows and diplomatic contacts. Washington's continuing naval blockade and instability in the Strait of Hormuz, a major route for oil shipments, mean that supply normalization remains uncertain.",
+        "analysis": "Lower crude prices can ease energy and transportation costs and some inflation pressures, but they do not guarantee matching cuts at the pump. Exchange rates, taxes, refining, distribution and domestic pricing decisions shape retail costs. The sharp moves show how sensitive oil markets remain to Washington's statements and threats to maritime traffic. In Brazil, a sustained decline in global prices could ease import costs, although the real-dollar exchange rate and decisions by fuel suppliers also matter. Intraday prices should not be presented as final settlement figures.",
+        "counterpoint": "A lower likelihood of renewed strikes is not a ceasefire or a US-Iran agreement. Analysts cited by financial media warn that safe shipping through the Strait of Hormuz is not yet assured, and fresh military tensions could quickly reverse the decline. The quoted prices reflect different points during November 10 trading rather than a consolidated closing price.",
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (November 29, 2019): the oil tanker Mount Everest. Illustrative image of maritime oil transportation; it does not depict incidents in the Strait of Hormuz or trading on November 10, 2026."
+        }
+      },
+      "es": {
+        "title": "El petróleo Brent cae por debajo de US$ 90 ante señales de moderación de EE. UU. frente a Irán",
+        "subtitle": "La referencia tocó su mínimo desde agosto este martes, pero el bloqueo naval en el estrecho de Ormuz y la falta de un acuerdo mantienen los riesgos de suministro.",
+        "facts": "El crudo Brent cayó brevemente por debajo de US$ 90 por barril el martes 10 de noviembre de 2026, por primera vez desde agosto, según Reuters, Financial Times y The Guardian. La referencia internacional llegó a unos US$ 89,16 durante la sesión antes de recuperar parte de las pérdidas; las cotizaciones variaron según el momento de observación. La baja siguió a declaraciones del presidente estadounidense, Donald Trump, quien indicó que nuevos ataques contra Irán eran poco probables por ahora. El menor temor a una escalada militar redujo la prima de riesgo geopolítico, mientras el mercado seguía los flujos de producción de Oriente Medio y los contactos diplomáticos. La continuidad del bloqueo naval estadounidense y la inestabilidad en el estrecho de Ormuz, una ruta estratégica del transporte petrolero, impiden dar por normalizado el suministro.",
+        "analysis": "La caída del petróleo puede aliviar los costos energéticos y de transporte y parte de la presión inflacionaria, pero no garantiza rebajas equivalentes en las gasolineras. El tipo de cambio, los impuestos, el refinado, la distribución y las decisiones de precios internos condicionan el traslado al consumidor. La volatilidad muestra la sensibilidad del mercado a las declaraciones de Washington y a los riesgos para la navegación. En Brasil, una reducción sostenida de los precios internacionales podría abaratar las importaciones, aunque también influyen el dólar y las decisiones de los proveedores. Una cotización intradía no equivale al precio de cierre.",
+        "counterpoint": "La menor probabilidad de nuevos ataques no constituye un alto el fuego ni un acuerdo entre Estados Unidos e Irán. Analistas citados por medios financieros advierten que la navegación segura por el estrecho de Ormuz sigue sin estar garantizada y que nuevas tensiones militares podrían revertir rápidamente la caída. Las cifras citadas corresponden a distintos momentos de la sesión del 10 de noviembre y no a un cierre definitivo.",
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (29 de noviembre de 2019): el petrolero Mount Everest. Imagen ilustrativa del transporte marítimo de petróleo; no muestra incidentes en el estrecho de Ormuz ni la sesión del 10 de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "russia-ucrania-eua-retomam-negociacoes-abu-dhabi-2026-11-10",
       "date": "2026-11-10",
