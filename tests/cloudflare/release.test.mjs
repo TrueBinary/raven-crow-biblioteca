@@ -78,7 +78,7 @@ const wf = () => readFileSync(new URL('../../.github/workflows/site-release.yml'
 test('site-release: um publicador por vez, segredos no ambiente, sem gatilho perigoso', () => {
   const y = wf();
   assert.match(y, /concurrency:\s*\n\s*group: site-release\s*\n\s*cancel-in-progress: false/);
-  assert.match(y, /environment: cloudflare-production/);
+  assert.match(y, /environment: CLoudinhoooo/);
   assert.match(y, /contents: write/);
   assert.doesNotMatch(y, /pull_request_target|^\s*token:/m);
   assert.doesNotMatch(y, /RavenNewsEngine/);
@@ -108,6 +108,7 @@ test('site-release: push recusado pula o release; release falha se release.mjs f
   assert.match(release, /shell: bash/);
   assert.match(release, /pipefail/);
   assert.match(y, /CLOUDFLARE_API_TOKEN: \$\{\{ secrets\.CLOUDFLARE_API_TOKEN \}\}/);
+  assert.match(y, /CLOUDFLARE_ACCOUNT_ID: \$\{\{ vars\.CLOUDFLARE_ACCOUNT_ID \}\}/);
   assert.match(y, /dry_run/);
 });
 
