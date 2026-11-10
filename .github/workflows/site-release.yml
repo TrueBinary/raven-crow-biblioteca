@@ -2,6 +2,11 @@ name: Publicar site
 # Gera as páginas, faz commit como github-actions[bot] e publica a main no R2 por trás do ravencrow.cloud.
 # Faz o que ops/cloudflare/release-local.ps1 fazia no PC. O push com o GITHUB_TOKEN não dispara workflows, então não há loop.
 on:
+  push:
+    branches: [main]
+  # Rede de segurança: fotos por link que falharam e pushes que perderam a vez.
+  schedule:
+    - cron: '17 * * * *'
   workflow_dispatch:
     inputs:
       dry_run:

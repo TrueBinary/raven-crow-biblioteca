@@ -9,10 +9,10 @@ GitHub main (TrueBinary/raven-crow-biblioteca)
    │  pipeline pushes clips; editors/builders push pages
    ▼
 release.mjs  ── integrity gate (content-integrity + public-pages) ── delete-free sync ──▶ R2 bucket raven-crow-media
-   ▲  runs: GitHub Actions (cloudflare-site-release.yml) — locked by GitHub billing today
-   │        Windows task "Raven Crow - release site R2" every 15 min (release-local.ps1) — active:
-   │        1) runs the 4 builders in raven-builder-outputs-20261107, commits generated pages/covers/photos
-   │           (news-pages.yml paths) and pushes them to main if both validators pass; 2) releases main to R2
+   ▲  runs: GitHub Actions "Publicar site" (site-release.yml) on every push to main, hourly at :17 and by hand — since 2026-11-10:
+   │        1) imports link photos, runs the 4 builders, commits generated pages as github-actions[bot] and pushes
+   │           them to main if both validators pass; 2) releases main to R2
+   │        The Windows task "Raven Crow - release site R2" (release-local.ps1) is disabled; it is the rollback.
 Worker raven-crow-site-production  ◀── routes ravencrow.cloud/*, www.ravencrow.cloud/* (DNS AAAA 100:: proxied)
    └─ serves R2; GITHUB_FALLBACK=1 serves GitHub Raw for keys not yet released (header x-raven-migration-stage)
 ```
@@ -23,8 +23,8 @@ Worker raven-crow-site-production  ◀── routes ravencrow.cloud/*, www.raven
 | --- | --- | --- |
 | Full health | from `D:\CorteFlow\work\raven-cf-release`: `node <handoff>/ops/cloudflare/health-check.mjs` (set `CLOUDFLARE_ACCOUNT_ID` for the R2 inventory) | exit 0, `problems: []` |
 | Domain only | `node ops/cloudflare/verify-domain.mjs https://ravencrow.cloud/ https://www.ravencrow.cloud/` | both `ok: true` |
-| Release log | `D:\CorteFlow\work\raven-cf-release-logs\release.log` | last line `OK <sha>` |
-| Last released commit | `last-released-sha.txt` in the same folder | equals `git rev-parse origin/main` (or ≤ 15 min behind) |
+| Release log | GitHub → Actions → Publicar site → last run → summary | `healthChecksPassed: true` |
+| Last released commit | `deployedSha` in the last run summary | equals `git rev-parse origin/main` |
 | Clip ready for Buffer | `node ops/cloudflare/video-url.mjs <url> <sha256> <bytes>` | exit 0 |
 | Integrity of a commit | `node ops/cloudflare/content-integrity.mjs <sha>` / `public-pages.mjs <sha>` | `errors: []` |
 
@@ -43,7 +43,7 @@ The health check covers: apex + www (no Render, TLS, Worker marker), feed JSON w
 - `401` from Cloudflare → the `cf` CLI login expired: run `cf auth login` once.
 - `fetch failed` → transient network; the next run retries automatically (the SHA is only marked released on success).
 
-**Clip 404 for Buffer** — check the release log; run `release-local.ps1` by hand. With `GITHUB_FALLBACK=1` a pushed clip plays immediately from GitHub.
+**Clip 404 for Buffer** — check the release log; dispatch Publicar site by hand (Actions → Run workflow). With `GITHUB_FALLBACK=1` a pushed clip plays immediately from GitHub.
 
 ## Rollback
 

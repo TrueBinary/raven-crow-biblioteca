@@ -70,3 +70,10 @@ No secrets here: endpoints, record types, IDs and check results only.
 - Imagens (jpg/png/webp/gif/svg/ico/woff2): `public, max-age=86400, stale-while-revalidate=604800`; HTML/JSON seguem 60 s, clips por hash seguem imutáveis.
 - Subida pelo cf CLI (cloudflare.config.ts mínimo, mesmos bindings GITHUB_FALLBACK="1" e RAVEN_MEDIA=raven-crow-media); exige terminal interativo porque o Worker vinha da script API.
 - Rollback: `cf workers deployments create --worker raven-crow-site-production --strategy percentage --versions '[{"version_id":"38a96b2e-aab6-474d-adc4-fcff7e80d5f4","percentage":100}]'`.
+
+## 2026-11-10 — Release sai do PC e vai para o GitHub Actions
+- Workflow `Publicar site` (`.github/workflows/site-release.yml`) roda a cada push na main, de hora em hora (:17) e à mão; substitui `cloudflare-site-release.yml` e o `release-local.ps1`.
+- Secrets no environment `CLoudinhoooo`: secret `CLOUDFLARE_API_TOKEN` (Workers R2 Storage Edit) e variável `CLOUDFLARE_ACCOUNT_ID`.
+- Testes: dry-run 42808303499 e real 42808713485 verdes (healthChecksPassed true, deployedSha 50c1fda).
+- Tarefa do Windows "Raven Crow - release site R2" desativada. Fotos só por link (campo `photos`); a pasta `D:\RavenNewsEngine\imagens_para_claude` não é mais lida.
+- Rollback: Actions → Publicar site → Disable workflow; depois `schtasks /change /tn "Raven Crow - release site R2" /enable`.

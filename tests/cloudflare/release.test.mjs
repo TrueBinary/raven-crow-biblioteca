@@ -119,3 +119,10 @@ test('workflow has no ${{ }} inside a one-line { } map or run: { } (both break Y
     assert.doesNotMatch(line, /^\s*run:\s*\{/, line);
   }
 });
+
+test('site-release: publica a cada push na main e de hora em hora', () => {
+  const y = wf();
+  assert.match(y, /push:\s*\n\s*branches: \[main\]/);
+  assert.match(y, /schedule:\s*\n\s*- cron: '17 \* \* \* \*'/);
+  assert.match(y, /workflow_dispatch:/);
+});
