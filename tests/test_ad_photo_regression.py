@@ -66,7 +66,7 @@ class AdPhotoRegressionTests(unittest.TestCase):
         html=(ROOT/'index.html').read_text(encoding='utf-8')
         news=(ROOT/'public/noticias.html').read_text(encoding='utf-8')
         fallback=(ROOT/'public/raven-ad-visibility.js').read_text(encoding='utf-8')
-        workflow=(ROOT/'.github/workflows/news-pages.yml').read_text(encoding='utf-8')
+        workflow=(ROOT/'ops/cloudflare/release-local.ps1').read_text(encoding='utf-8')
         self.assertIn('raven-ad-visibility.js',html)
         self.assertIn('raven-ad-visibility.js',news)
         self.assertIn("slot.classList.add('rc-ad-unfilled')",fallback)

@@ -35,6 +35,6 @@ jobs:
       - name: Testes do Worker e do release
         run: node --test tests/cloudflare/*.test.mjs
       - name: Testes Python
-        # shortcut: 4 falhas antigas (ad_photo, column_editorial x2, seo_output) já existiam na main em 09/11; tirar o continue-on-error quando forem corrigidas.
+        # shortcut: 3 falhas antigas (ad_photo jpeg_sources, column_editorial family_piece, seo_output sitemap) já existiam na main em 09/11; tirar o continue-on-error quando forem corrigidas.
         continue-on-error: true
         run: python -m unittest discover -s tests

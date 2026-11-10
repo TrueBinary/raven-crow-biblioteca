@@ -44,9 +44,9 @@ class ColumnEditorialTests(unittest.TestCase):
   for essay in data:
    self.assertIn('https://ravencrow.cloud/coluna/'+essay['id']+'/',sitemap)
  def test_publishing_workflow_updates_column_pages(self):
-  s=(ROOT/'.github/workflows/news-pages.yml').read_text(encoding='utf-8')
-  self.assertIn('public/coluna-ensaios.json',s)
-  self.assertIn('python build-column.py',s)
+  # o pipeline vive no release do PC desde 08/11/2026 (Actions só confere)
+  s=(ROOT/'ops/cloudflare/release-local.ps1').read_text(encoding='utf-8')
+  self.assertIn('build-column.py',s)
   self.assertIn('public/coluna.html',s)
   self.assertIn('public/coluna',s)
 

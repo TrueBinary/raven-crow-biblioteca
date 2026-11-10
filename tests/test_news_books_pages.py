@@ -45,9 +45,9 @@ class NewsAndBooksTests(unittest.TestCase):
    self.assertIn(marker,js,marker)
   self.assertNotIn('R$ 99',html)
  def test_build_pipeline_includes_pages_and_agent_rules(self):
-  workflow=(ROOT/'.github/workflows/news-pages.yml').read_text(encoding='utf-8')
+  workflow=(ROOT/'ops/cloudflare/release-local.ps1').read_text(encoding='utf-8')
   editorial=(ROOT/'EDITORIAL.md').read_text(encoding='utf-8')
-  for marker in ['python build-news-index.py','python build-library.py','public/livros.json','public/noticias.html']:
+  for marker in ['build-news-index.py','build-library.py','public/livros.json','public/noticias.html']:
    self.assertIn(marker,workflow,marker)
   for marker in ['coluna-ensaios.json','Política e sociedade','Filosofia e ideias','Fé e família','arquivo','livros.json']:
    self.assertIn(marker,editorial,marker)
