@@ -9,6 +9,7 @@ import json
 import os
 import re
 import sys
+import urllib.error
 import urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -69,8 +70,12 @@ def _api(method: str, path: str, body=None):
         API + path if path.startswith("/") else path, method=method,
         data=json.dumps(body).encode() if body is not None else None,
         headers={"Authorization": f"Token {os.environ['BUTTONDOWN_API_KEY']}", "Content-Type": "application/json"})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.load(r)
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return json.load(r)
+    except urllib.error.HTTPError as e:
+        # O corpo do Buttondown traz code/detail (nunca a chave): sem ele o log só diz "400".
+        sys.exit(f"Buttondown {method} {path}: HTTP {e.code} {e.read().decode(errors='replace')[:500]}")
 
 
 def send(mails: list, api=_api) -> list:
