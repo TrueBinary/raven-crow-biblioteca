@@ -71,7 +71,7 @@ export function diffManifests(source, destination) {
   return { missing, different, matching };
 }
 
-if (import.meta.url === `file:///${process.argv[1]?.replace(/\\/g, '/')}`) {
+if (import.meta.url === `file:///${process.argv[1]?.replace(/\\/g, '/')}` || import.meta.url === `file://${process.argv[1]}`) {
   const ref = process.argv[2] || 'origin/main';
   const src = await getSourceManifest(ref);
   const sha = execFileSync('git', ['rev-parse', ref], { encoding: 'utf8' }).trim();

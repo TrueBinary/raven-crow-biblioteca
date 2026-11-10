@@ -28,7 +28,7 @@ export async function verifyHost(url, { expectedMarker = 'r2', fetchImpl = fetch
   return r;
 }
 
-if (import.meta.url === `file:///${process.argv[1]?.replace(/\\/g, '/')}`) {
+if (import.meta.url === `file:///${process.argv[1]?.replace(/\\/g, '/')}` || import.meta.url === `file://${process.argv[1]}`) {
   const urls = process.argv.slice(2);
   const results = await Promise.all(urls.map(u => verifyHost(u)));
   console.log(JSON.stringify(results, null, 1));

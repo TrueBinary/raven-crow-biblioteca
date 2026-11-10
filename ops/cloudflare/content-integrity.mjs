@@ -70,7 +70,7 @@ export function validateSiteContent(src) {
   return { errors, warnings, articles: articles.length, pages: articles.length + REQUIRED.length };
 }
 
-if (import.meta.url === `file:///${process.argv[1]?.replace(/\\/g, '/')}`) {
+if (import.meta.url === `file:///${process.argv[1]?.replace(/\\/g, '/')}` || import.meta.url === `file://${process.argv[1]}`) {
   const sha = process.argv[2] || 'origin/main';
   const r = validateSiteContent(gitSource(sha));
   console.log(JSON.stringify({ ref: sha, ...r }, null, 1));

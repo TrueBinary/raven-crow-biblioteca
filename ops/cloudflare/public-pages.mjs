@@ -41,7 +41,7 @@ export function validatePublicPages(src) {
   return { errors, warnings, pages: locs.length };
 }
 
-if (import.meta.url === `file:///${process.argv[1]?.replace(/\\/g, '/')}`) {
+if (import.meta.url === `file:///${process.argv[1]?.replace(/\\/g, '/')}` || import.meta.url === `file://${process.argv[1]}`) {
   const ref = process.argv[2] || 'origin/main';
   const r = validatePublicPages(gitSource(ref));
   console.log(JSON.stringify({ ref, ...r }, null, 1));

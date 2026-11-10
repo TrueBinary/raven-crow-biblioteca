@@ -34,16 +34,18 @@ The health check covers: apex + www (no Render, TLS, Worker marker), feed JSON w
 
 **Apex or www 503 / `x-render-routing`** — DNS was pointed back at Render. Restore `AAAA 100::` proxied for the host (see OPERATIONS-LEDGER) and re-run the domain check.
 
-**Release log `PAGES FAILED` / `PAGES BLOCKED`** — a builder crashed or the generated pages fail a validator; nothing was pushed. Read the lines below it in the log.
+**Publicar site run red before Push** — a builder crashed, the generated pages fail a validator ("Portões de conteúdo") or a `tests/cloudflare` test failed; nothing was pushed and nothing was published, not even the agents' JSON. Open the failed step's log.
 
-**Release log `FAILED` or `RELEASE BLOCKED`** — read the reason line:
+**Publicar site step "Enviar ao R2" red (`RELEASE BLOCKED`)** — read the reason line:
 - `content validation failed` → an editorial file is broken (invalid JSON, missing page, sitemap URL without page, canonical/CSS/ads/PostHog). Nothing was published; fix the content in Git. The site keeps serving the previous release.
 - `R2 sync failed ... existing object differs` → a media key (clip/photo) was reused with new bytes. Never overwrite: rename the file (new hash) in Git.
 - `health check failed` → the sync finished but the site is unhealthy; run the full health check.
-- `401` from Cloudflare → the `cf` CLI login expired: run `cf auth login` once.
-- `fetch failed` → transient network; the next run retries automatically (the SHA is only marked released on success).
+- `401` from Cloudflare → the token expired or was revoked: create a new one (Workers R2 Storage Edit) and replace the secret `CLOUDFLARE_API_TOKEN` in the environment `CLoudinhoooo`.
+- `fetch failed` → transient network; the next push or the hourly run retries automatically.
 
-**Clip 404 for Buffer** — check the release log; dispatch Publicar site by hand (Actions → Run workflow). With `GITHUB_FALLBACK=1` a pushed clip plays immediately from GitHub.
+**Step "Push" red (`push recusado sem a main ter andado`)** — GitHub auth/network/outage; re-run the workflow. A push rejected because main moved is a green notice: the newer push publishes.
+
+**Clip 404 for Buffer** — check the last Publicar site run; dispatch Publicar site by hand (Actions → Run workflow). With `GITHUB_FALLBACK=1` a pushed clip plays immediately from GitHub.
 
 ## Rollback
 
@@ -52,7 +54,7 @@ The health check covers: apex + www (no Render, TLS, Worker marker), feed JSON w
 | Worker code | Cloudflare API `POST /accounts/<acct>/workers/scripts/raven-crow-site-production/deployments` `{"strategy":"percentage","versions":[{"version_id":"<previous>","percentage":100}]}` | versions: `41b1e7ca` (current) → `ae91889c` → `62ee25cc` → `38f7a94a` → `48656803` → `2dd11af1` → `fc40f4a6` → `b9785878`; all still listed |
 | DNS | restore the records in OPERATIONS-LEDGER | Render is suspended: returning to it brings the 503 back |
 | Content | revert the commit in Git; the next release re-syncs text files | media is never deleted, old objects stay in R2 |
-| Release automation | disable the Windows task "Raven Crow - release site R2" | the site keeps serving the last release |
+| Release automation | Actions → Publicar site → Disable workflow; only then `schtasks /change /tn "Raven Crow - release site R2" /enable` (never both on; the PC needs `cf auth login`) | the site keeps serving the last release |
 
 Never: delete R2 objects or Git media, force-push, point DNS at Render, or change n8n/daemon/Buffer schedules from here.
 
@@ -62,6 +64,5 @@ Only after both: (1) GitHub Actions is unlocked or the Windows task is proven ov
 
 ## Open items (2026-11-07)
 
-- GitHub account locked for billing: `news-pages.yml` (page builder) and the release workflow do not run. Effects: 5 newest articles lack analytics/schema/sitemap entries; the Windows task replaces only the release.
 - PR TrueBinary/raven-crow-biblioteca#1 not merged (front-page photo fix, tools, workflow).
 - Cloudflare error-log alerting is not wired (needs an analytics token); the health check covers HTTP symptoms only.

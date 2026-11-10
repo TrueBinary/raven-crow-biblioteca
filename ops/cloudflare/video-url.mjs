@@ -36,7 +36,7 @@ export function findDuplicateClips(entries) {
   return [...by].filter(([, ids]) => ids.length > 1).map(([sha, ids]) => ({ sha, ids }));
 }
 
-if (import.meta.url === `file:///${process.argv[1]?.replace(/\\/g, '/')}`) {
+if (import.meta.url === `file:///${process.argv[1]?.replace(/\\/g, '/')}` || import.meta.url === `file://${process.argv[1]}`) {
   const [url, sha, bytes] = process.argv.slice(2);
   const r = await verifyPublishedVideo(url, sha, Number(bytes));
   console.log(JSON.stringify(r));

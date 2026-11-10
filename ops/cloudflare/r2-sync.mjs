@@ -97,7 +97,7 @@ export function cloudflareApi({ accountId = process.env.CLOUDFLARE_ACCOUNT_ID, b
   };
 }
 
-if (import.meta.url === `file:///${process.argv[1]?.replace(/\\/g, '/')}`) {
+if (import.meta.url === `file:///${process.argv[1]?.replace(/\\/g, '/')}` || import.meta.url === `file://${process.argv[1]}`) {
   const args = process.argv.slice(2);
   const only = args.find(a => a.startsWith('--only='))?.slice(7).split(',');
   const r = await syncMedia({ gitRef: args.find(a => !a.startsWith('--')) || 'origin/main', dryRun: args.includes('--dry-run'), only: only && new Set(only), log: m => console.error(m) });

@@ -59,6 +59,9 @@ jobs:
         run: |
           if [ "${{ steps.commit.outputs.changed }}" != "true" ]; then echo "pushed=true" >> "$GITHUB_OUTPUT"; exit 0; fi
           if git push origin HEAD:main; then echo "pushed=true" >> "$GITHUB_OUTPUT"; else
+            git fetch -q origin main
+            # Se a main não andou, a recusa é outra coisa (auth, rede, GitHub fora): falhar alto.
+            if git merge-base --is-ancestor origin/main HEAD; then echo "::error::push recusado sem a main ter andado"; exit 1; fi
             echo "::notice::A main andou durante o build; o próximo disparo publica a versão nova."
             echo "pushed=false" >> "$GITHUB_OUTPUT"
           fi

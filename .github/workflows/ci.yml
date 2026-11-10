@@ -1,5 +1,5 @@
 name: Checagem do site
-# Só valida; quem gera e publica é o release do PC (ops/cloudflare/release-local.ps1, a cada 15 min).
+# Só valida; quem gera e publica é o workflow Publicar site (site-release.yml).
 # Um commit de JSON que quebraria o release aparece aqui como falha.
 on:
   push:

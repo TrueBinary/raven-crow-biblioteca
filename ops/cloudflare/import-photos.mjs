@@ -92,7 +92,7 @@ export async function importLinkedPhotos({ siteRoot, fetchFn = fetch }) {
   return { imported, skipped };
 }
 
-if (import.meta.url === `file:///${process.argv[1]?.replace(/\\/g, '/')}`) {
+if (import.meta.url === `file:///${process.argv[1]?.replace(/\\/g, '/')}` || import.meta.url === `file://${process.argv[1]}`) {
   const [siteRoot, dropRoot = 'D:\\RavenNewsEngine\\imagens_para_claude'] = process.argv.slice(2);
   const r = importPhotos({ siteRoot, dropRoot });
   for (const id of r.imported) console.log('PHOTO imported ' + id);

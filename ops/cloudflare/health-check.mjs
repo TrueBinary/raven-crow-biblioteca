@@ -51,7 +51,7 @@ export async function healthCheck({ fetchImpl = fetch, pages = [], clips = [], i
   return { ok: problems.length === 0, problems, warnings, checkedAt: new Date().toISOString() };
 }
 
-if (import.meta.url === `file:///${process.argv[1]?.replace(/\\/g, '/')}`) {
+if (import.meta.url === `file:///${process.argv[1]?.replace(/\\/g, '/')}` || import.meta.url === `file://${process.argv[1]}`) {
   // Defaults for a local run from the release worktree: compare R2 with the last released commit (no release-lag false alarms).
   const lastFile = 'D:/CorteFlow/work/raven-cf-release-logs/last-released-sha.txt';
   const ref = process.argv[2] || (existsSync(lastFile) ? readFileSync(lastFile, 'utf8').trim() : 'origin/main');

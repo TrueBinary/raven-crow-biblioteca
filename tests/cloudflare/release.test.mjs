@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { readFileSync } from 'node:fs';
+import { readFileSync, readdirSync } from 'node:fs';
 import { releaseSite } from '../../ops/cloudflare/release.mjs';
 
 const SHA = 'a'.repeat(40);
@@ -125,4 +125,20 @@ test('site-release: publica a cada push na main e de hora em hora', () => {
   assert.match(y, /push:\s*\n\s*branches: \[main\]/);
   assert.match(y, /schedule:\s*\n\s*- cron: '17 \* \* \* \*'/);
   assert.match(y, /workflow_dispatch:/);
+});
+
+test('scripts de ops/cloudflare rodam como CLI também no Linux (runner do Actions)', () => {
+  const dir = new URL('../../ops/cloudflare/', import.meta.url);
+  for (const f of readdirSync(dir).filter((n) => n.endsWith('.mjs'))) {
+    const src = readFileSync(new URL(f, dir), 'utf8');
+    if (!src.includes('process.argv[1]')) continue;
+    assert.ok(src.includes('import.meta.url === `file://${process.argv[1]}`'), `${f}: guarda de CLI só reconhece caminho do Windows`);
+  }
+});
+
+test('site-release: push recusado só é tolerado se a main realmente andou', () => {
+  const push = wf().split('- name: Push')[1].split('- name:')[0];
+  assert.match(push, /git fetch -q origin main/);
+  assert.match(push, /merge-base --is-ancestor origin\/main HEAD/);
+  assert.match(push, /exit 1/);
 });
