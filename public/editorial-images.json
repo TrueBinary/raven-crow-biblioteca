@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "petroleo-brent-abaixo-90-dolares-tensao-ira-2026-11-10": "editorial/covers/petroleo-brent-abaixo-90-dolares-tensao-ira-2026-11-10.svg",
     "russia-ucrania-eua-retomam-negociacoes-abu-dhabi-2026-11-10": "editorial/covers/russia-ucrania-eua-retomam-negociacoes-abu-dhabi-2026-11-10.svg",
     "ata-copom-alerta-risco-fiscal-juros-selic-2026-11-10": "editorial/covers/ata-copom-alerta-risco-fiscal-juros-selic-2026-11-10.svg",
     "governo-prorroga-desoneracao-gasolina-etanol-dezembro-2026-11-10": "editorial/covers/governo-prorroga-desoneracao-gasolina-etanol-dezembro-2026-11-10.svg",
@@ -161,7 +162,8 @@
     "governo-prorroga-desoneracao-gasolina-etanol-dezembro-2026-11-10": "editorial/photos/governo-prorroga-desoneracao-gasolina-etanol-dezembro-2026-11-10.jpg",
     "franca-convoca-embaixador-ira-ciberataque-supermercados-2026-11-10": "editorial/photos/franca-convoca-embaixador-ira-ciberataque-supermercados-2026-11-10.jpg",
     "ata-copom-alerta-risco-fiscal-juros-selic-2026-11-10": "editorial/photos/ata-copom-alerta-risco-fiscal-juros-selic-2026-11-10.jpg",
-    "russia-ucrania-eua-retomam-negociacoes-abu-dhabi-2026-11-10": "editorial/photos/russia-ucrania-eua-retomam-negociacoes-abu-dhabi-2026-11-10.jpg"
+    "russia-ucrania-eua-retomam-negociacoes-abu-dhabi-2026-11-10": "editorial/photos/russia-ucrania-eua-retomam-negociacoes-abu-dhabi-2026-11-10.jpg",
+    "petroleo-brent-abaixo-90-dolares-tensao-ira-2026-11-10": "editorial/photos/petroleo-brent-abaixo-90-dolares-tensao-ira-2026-11-10.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -583,6 +585,12 @@
       "srcset": "editorial/photos/russia-ucrania-eua-retomam-negociacoes-abu-dhabi-2026-11-10-640.webp 640w, editorial/photos/russia-ucrania-eua-retomam-negociacoes-abu-dhabi-2026-11-10-1280.webp 1280w",
       "width": 1280,
       "height": 583
+    },
+    "petroleo-brent-abaixo-90-dolares-tensao-ira-2026-11-10": {
+      "src": "editorial/photos/petroleo-brent-abaixo-90-dolares-tensao-ira-2026-11-10-1080.webp",
+      "srcset": "editorial/photos/petroleo-brent-abaixo-90-dolares-tensao-ira-2026-11-10-640.webp 640w, editorial/photos/petroleo-brent-abaixo-90-dolares-tensao-ira-2026-11-10-1080.webp 1080w",
+      "width": 1080,
+      "height": 810
     }
   }
 }
