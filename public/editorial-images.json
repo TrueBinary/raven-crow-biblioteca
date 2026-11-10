@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "porto-santos-confirma-ataque-cibernetico-sistemas-2026-11-10": "editorial/covers/porto-santos-confirma-ataque-cibernetico-sistemas-2026-11-10.svg",
     "irmao-viktor-orban-detido-trafico-pessoas-hungria-2026-11-10": "editorial/covers/irmao-viktor-orban-detido-trafico-pessoas-hungria-2026-11-10.svg",
     "brasil-defende-transicao-combustiveis-fosseis-cop31-2026-11-10": "editorial/covers/brasil-defende-transicao-combustiveis-fosseis-cop31-2026-11-10.svg",
     "merz-condiciona-orcamento-ue-apoio-ucrania-fico-reage-2026-11-10": "editorial/covers/merz-condiciona-orcamento-ue-apoio-ucrania-fico-reage-2026-11-10.svg",
@@ -167,7 +168,8 @@
     "ata-copom-alerta-risco-fiscal-juros-selic-2026-11-10": "editorial/photos/ata-copom-alerta-risco-fiscal-juros-selic-2026-11-10.jpg",
     "russia-ucrania-eua-retomam-negociacoes-abu-dhabi-2026-11-10": "editorial/photos/russia-ucrania-eua-retomam-negociacoes-abu-dhabi-2026-11-10.jpg",
     "petroleo-brent-abaixo-90-dolares-tensao-ira-2026-11-10": "editorial/photos/petroleo-brent-abaixo-90-dolares-tensao-ira-2026-11-10.jpg",
-    "irmao-viktor-orban-detido-trafico-pessoas-hungria-2026-11-10": "editorial/photos/irmao-viktor-orban-detido-trafico-pessoas-hungria-2026-11-10.jpg"
+    "irmao-viktor-orban-detido-trafico-pessoas-hungria-2026-11-10": "editorial/photos/irmao-viktor-orban-detido-trafico-pessoas-hungria-2026-11-10.jpg",
+    "porto-santos-confirma-ataque-cibernetico-sistemas-2026-11-10": "editorial/photos/porto-santos-confirma-ataque-cibernetico-sistemas-2026-11-10.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -601,6 +603,12 @@
       "srcset": "editorial/photos/irmao-viktor-orban-detido-trafico-pessoas-hungria-2026-11-10-421.webp 421w",
       "width": 421,
       "height": 562
+    },
+    "porto-santos-confirma-ataque-cibernetico-sistemas-2026-11-10": {
+      "src": "editorial/photos/porto-santos-confirma-ataque-cibernetico-sistemas-2026-11-10-1024.webp",
+      "srcset": "editorial/photos/porto-santos-confirma-ataque-cibernetico-sistemas-2026-11-10-640.webp 640w, editorial/photos/porto-santos-confirma-ataque-cibernetico-sistemas-2026-11-10-1024.webp 1024w",
+      "width": 1024,
+      "height": 681
     }
   }
 }
