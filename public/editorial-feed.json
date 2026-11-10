@@ -1,6 +1,64 @@
 {
   "articles": [
     {
+      "id": "ata-copom-alerta-risco-fiscal-juros-selic-2026-11-10",
+      "date": "2026-11-10",
+      "category": "ECONOMIA",
+      "title": "Ata do Copom alerta para riscos fiscais e mantém cautela com Selic a 13,75%",
+      "subtitle": "Documento da reunião de 3 e 4 de novembro reforça preocupação com inflação acima da meta e pede previsibilidade das contas públicas.",
+      "facts": "A ata da 282ª reunião do Comitê de Política Monetária (Copom), realizada em 3 e 4 de novembro e divulgada nesta terça-feira, 10 de novembro de 2026, detalha a decisão do Banco Central de manter a taxa Selic em 13,75% ao ano. Segundo a cobertura da ata, o comitê alertou que incertezas fiscais, expectativas de inflação acima da meta e estímulos à demanda podem dificultar a convergência dos preços. O Banco Central confirmou em seu histórico oficial que a meta Selic permanece em 13,75% desde 5 de novembro. A ata sucede o comunicado de 4 de novembro, quando o Copom manteve os juros após cinco cortes consecutivos.",
+      "analysis": "A manutenção dos juros mostra o dilema entre conter a inflação e evitar freio adicional no crédito e na atividade econômica. A ata enfatiza que políticas fiscais previsíveis podem reduzir prêmios de risco e tornar a política monetária mais eficaz; já a percepção de desequilíbrio das contas públicas tende a manter expectativas inflacionárias elevadas. A decisão não equivale a um compromisso de manter a Selic em 13,75% até uma data específica: os próximos passos dependerão dos dados de inflação, atividade e expectativas.",
+      "counterpoint": "O setor produtivo critica o custo do crédito e argumenta que juros altos dificultam investimentos e consumo. Por outro lado, o Banco Central tem o mandato de perseguir a meta de inflação e avalia que um afrouxamento prematuro poderia elevar os preços e prolongar a necessidade de restrição monetária. A ata deve ser interpretada como avaliação de riscos, não como previsão definitiva de novas altas ou cortes.",
+      "sources": [
+        {
+          "name": "Banco Central — histórico oficial da Selic, 282ª reunião",
+          "url": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+        },
+        {
+          "name": "UOL Economia — ata da 282ª reunião do Copom (10/11/2026)",
+          "url": "https://economia.uol.com.br/noticias/redacao/2026/11/10/ata-282-reuniao-do-copom.ghtm"
+        },
+        {
+          "name": "Banco Central — calendário oficial de divulgação das atas",
+          "url": "https://www.bcb.gov.br/detalhenoticia/20739/nota/https%3A/www3.bcb.gov.br/sgspub"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Banco_Central_do_Brasil.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Paulo Rená da Silva Santarém/Wikimedia Commons",
+          "license": "CC BY-SA 2.0 — https://creativecommons.org/licenses/by-sa/2.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Banco_Central_do_Brasil.jpg",
+          "caption": "FOTO DE ARQUIVO (01/10/2008): sede do Banco Central do Brasil, em Brasília. Imagem ilustrativa; não retrata a reunião do Copom de novembro de 2026."
+        }
+      ],
+      "en": {
+        "title": "Brazil's central bank minutes flag fiscal risks as Selic stays at 13.75%",
+        "subtitle": "Minutes of the November 3–4 meeting highlight inflation expectations above target and the need for predictable public finances.",
+        "facts": "Minutes of the 282nd meeting of Brazil's Monetary Policy Committee (Copom), held on November 3–4 and released on November 10, 2026, detail the Central Bank's decision to hold the Selic policy rate at 13.75% a year. Reporting on the document says policymakers warned that fiscal uncertainty, inflation expectations above target and demand stimulus could hinder disinflation. The Central Bank's official rate history confirms that the 13.75% Selic target has been in effect since November 5. The minutes follow the November 4 announcement, when the committee paused after five consecutive rate cuts.",
+        "analysis": "The decision highlights the trade-off between controlling inflation and avoiding further pressure on lending and economic activity. Predictable fiscal policy can reduce risk premiums and support monetary policy effectiveness, while concerns over public debt may keep inflation expectations elevated. The minutes do not commit the bank to holding rates until a particular date; future decisions depend on inflation, growth and expectations.",
+        "counterpoint": "Businesses argue that high borrowing costs hinder investment and consumption. The Central Bank, however, is tasked with bringing inflation back to target and sees premature easing as a potential source of renewed price pressures. The minutes describe risks rather than a firm forecast of future rate changes.",
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (October 1, 2008): Central Bank of Brazil headquarters in Brasília. Illustrative image, not a photograph of the November 2026 Copom meeting."
+        }
+      },
+      "es": {
+        "title": "El acta del Copom alerta sobre riesgos fiscales y mantiene la cautela con la Selic al 13,75%",
+        "subtitle": "El documento de la reunión del 3 y 4 de noviembre destaca expectativas de inflación por encima de la meta y la necesidad de previsibilidad fiscal.",
+        "facts": "El acta de la 282.ª reunión del Comité de Política Monetaria (Copom) del Banco Central de Brasil, celebrada el 3 y 4 de noviembre y publicada el 10 de noviembre de 2026, detalla la decisión de mantener la tasa Selic en el 13,75% anual. Según la cobertura del documento, el comité advirtió que la incertidumbre fiscal, las expectativas de inflación superiores a la meta y los estímulos a la demanda pueden dificultar la desinflación. El historial oficial del Banco Central confirma que la Selic del 13,75% rige desde el 5 de noviembre. El acta sigue al comunicado del 4 de noviembre, cuando el organismo detuvo los recortes después de cinco reducciones consecutivas.",
+        "analysis": "La decisión refleja la tensión entre contener la inflación y evitar mayores obstáculos al crédito y a la actividad económica. Una política fiscal previsible puede reducir las primas de riesgo y facilitar la tarea monetaria, mientras que las dudas sobre la deuda pública pueden mantener elevadas las expectativas de inflación. El acta no compromete al banco a mantener los tipos hasta una fecha determinada; las próximas decisiones dependerán de la inflación, la actividad y las expectativas.",
+        "counterpoint": "El sector productivo sostiene que los altos costes financieros perjudican la inversión y el consumo. El Banco Central, sin embargo, tiene el mandato de llevar la inflación a la meta y considera que una flexibilización prematura podría reavivar las presiones sobre los precios. El acta expone riesgos, no una previsión definitiva de subidas o recortes.",
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (1 de octubre de 2008): sede del Banco Central de Brasil en Brasilia. Imagen ilustrativa; no corresponde a la reunión del Copom de noviembre de 2026."
+        }
+      },
+      "firstSeen": "2026-11-10T13:03:08-03:00"
+    },
+    {
       "id": "governo-prorroga-desoneracao-gasolina-etanol-dezembro-2026-11-10",
       "date": "2026-11-10",
       "category": "ECONOMIA",
