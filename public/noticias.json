@@ -2,9 +2,66 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "10/11/2026",
-  "updatedAt": "2026-11-10T16:55:23-03:00",
+  "updatedAt": "2026-11-10T18:01:51-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "irmao-viktor-orban-detido-trafico-pessoas-hungria-2026-11-10",
+      "date": "2026-11-10",
+      "category": "MUNDO",
+      "title": "Irmão de Viktor Orbán é detido na Hungria em investigação sobre tráfico de pessoas",
+      "subtitle": "Áron Orbán está entre os suspeitos citados pelo premiê Péter Magyar; polícia confirma quatro detenções, mas não divulgou os nomes.",
+      "facts": "Autoridades húngaras detiveram quatro pessoas e realizaram buscas em Budapeste e no condado de Pest em uma investigação sobre suposto tráfico de pessoas e influência indevida. O primeiro-ministro Péter Magyar afirmou que Áron Orbán, de 49 anos, irmão do ex-premiê Viktor Orbán, está entre os detidos. A polícia e o órgão anticorrupção confirmaram a operação, mas não divulgaram oficialmente os nomes dos suspeitos. Segundo investigadores, o grupo teria cobrado taxas para facilitar a entrada de cidadãos vietnamitas na Hungria em 2024, com destino posterior à Europa Ocidental; a Associated Press relata mais de cem pessoas potencialmente envolvidas. As suspeitas ainda estão sob investigação, sem condenação.",
+      "analysis": "O caso expõe a tensão política na Hungria após a vitória eleitoral de Péter Magyar em abril de 2026, que encerrou os 16 anos de governo de Viktor Orbán. O novo governo criou uma estrutura anticorrupção para investigar possíveis irregularidades do período anterior. A investigação sobre permissões de residência envolve tanto possível exploração de migrantes quanto suspeitas de uso de conexões políticas para obtenção de vantagens financeiras. É necessário distinguir a detenção, a atribuição de participação feita pelo governo e a prova judicial de eventual crime.",
+      "counterpoint": "Viktor Orbán classificou a detenção do irmão como vingança política e afirmou ser o verdadeiro alvo da operação. As autoridades policiais não identificaram publicamente os quatro presos, o que torna indispensável atribuir a identificação de Áron ao primeiro-ministro e às reportagens independentes. A defesa deve ter acesso ao devido processo e à presunção de inocência.",
+      "sources": [
+        {
+          "name": "Reuters — Hungary detains Viktor Orban's brother (10/11/2026)",
+          "url": "https://www.reuters.com/world/europe/hungary-detains-viktor-orbans-brother-people-smuggling-probe-pm-says-2026-11-10/"
+        },
+        {
+          "name": "Associated Press — Hungarian authorities detain Orbán's younger brother (10/11/2026)",
+          "url": "https://apnews.com/article/12ee230e47e0ff692133d0db96d1275f"
+        },
+        {
+          "name": "The Guardian — Viktor Orbán's brother detained (10/11/2026)",
+          "url": "https://www.theguardian.com/world/2026/nov/10/viktor-orban-brother-aron-detained-people-smuggling-investigation-hungarian-pm-says"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Viktor_Orb%C3%A1n_2025.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/",
+          "credit": "Vladimir Gerdo / RIA Novosti / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Viktor_Orb%C3%A1n_2025.jpg",
+          "caption": "FOTO DE ARQUIVO (28/11/2025): Viktor Orbán durante visita oficial a Moscou. A fotografia mostra o ex-primeiro-ministro, não seu irmão Áron nem a detenção de novembro de 2026."
+        }
+      ],
+      "en": {
+        "title": "Viktor Orbán's brother detained in Hungary in people-smuggling investigation",
+        "subtitle": "Prime Minister Péter Magyar identifies Áron Orbán as a suspect; police confirm four detentions but have not released names.",
+        "facts": "Hungarian authorities detained four people and searched premises in Budapest and Pest county as part of an investigation into suspected people-smuggling and influence peddling. Prime Minister Péter Magyar said that Áron Orbán, 49, brother of former Prime Minister Viktor Orbán, was among those detained. Police and the anti-corruption office confirmed the operation but did not officially name the suspects. Investigators allege that a group charged fees to facilitate entry for Vietnamese nationals into Hungary in 2024, with onward travel to Western Europe; the Associated Press reported that more than 100 people may have been involved. The allegations remain under investigation and no conviction has been established.",
+        "analysis": "The case highlights political tensions after Péter Magyar's April 2026 election victory ended Viktor Orbán's 16-year rule. The new government established an anti-corruption body to investigate possible misconduct under the previous administration. The visa investigation raises questions about migrant exploitation and the alleged use of political connections for financial gain. Detention, government identification of a suspect and judicial proof of wrongdoing are distinct matters.",
+        "counterpoint": "Viktor Orbán described his brother's detention as political revenge and said he was the real target. Police have not publicly identified the four detainees, so Áron's identification must be attributed to the prime minister and independent reporting. Due process and the presumption of innocence remain essential.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (November 28, 2025): former Hungarian Prime Minister Viktor Orbán during an official visit to Moscow. The image does not depict his brother Áron or the November 2026 detention."
+        }
+      },
+      "es": {
+        "title": "Detienen al hermano de Viktor Orbán en Hungría por una investigación de tráfico de personas",
+        "subtitle": "El primer ministro Péter Magyar identifica a Áron Orbán entre los sospechosos; la policía confirma cuatro detenciones, pero no publica nombres.",
+        "facts": "Las autoridades húngaras detuvieron a cuatro personas y realizaron registros en Budapest y el condado de Pest en una investigación por presunto tráfico de personas y tráfico de influencias. El primer ministro Péter Magyar afirmó que Áron Orbán, de 49 años y hermano del ex primer ministro Viktor Orbán, figura entre los detenidos. La policía y la oficina anticorrupción confirmaron la operación, pero no identificaron oficialmente a los sospechosos. Según los investigadores, el grupo habría cobrado comisiones para facilitar la entrada de ciudadanos vietnamitas en Hungría durante 2024, con posterior traslado a Europa occidental; Associated Press informó de más de cien personas potencialmente involucradas. Las acusaciones siguen bajo investigación y no existe condena.",
+        "analysis": "El caso refleja la tensión política posterior a la victoria electoral de Péter Magyar en abril de 2026, que puso fin a 16 años de gobierno de Viktor Orbán. El nuevo Ejecutivo creó un organismo anticorrupción para investigar posibles irregularidades del período anterior. La investigación sobre visados plantea dudas sobre la explotación de migrantes y el presunto uso de contactos políticos para obtener beneficios económicos. La detención, la identificación gubernamental de un sospechoso y la prueba judicial de un delito son cuestiones diferentes.",
+        "counterpoint": "Viktor Orbán calificó la detención de su hermano de venganza política y sostuvo que él era el verdadero objetivo. La policía no ha identificado públicamente a los cuatro detenidos, por lo que la identificación de Áron debe atribuirse al primer ministro y a las informaciones independientes. Deben respetarse el debido proceso y la presunción de inocencia.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (28 de noviembre de 2025): el ex primer ministro húngaro Viktor Orbán durante una visita oficial a Moscú. La imagen no muestra a su hermano Áron ni la detención de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "brasil-defende-transicao-combustiveis-fosseis-cop31-2026-11-10",
       "date": "2026-11-10",
