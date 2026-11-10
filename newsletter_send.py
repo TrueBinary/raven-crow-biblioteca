@@ -69,7 +69,9 @@ def _api(method: str, path: str, body=None):
     req = urllib.request.Request(
         API + path if path.startswith("/") else path, method=method,
         data=json.dumps(body).encode() if body is not None else None,
-        headers={"Authorization": f"Token {os.environ['BUTTONDOWN_API_KEY']}", "Content-Type": "application/json"})
+        # Live-Dangerously: o Buttondown exige esse aceite para criar e-mail já em 'about_to_send' (envio automático escolhido).
+        headers={"Authorization": f"Token {os.environ['BUTTONDOWN_API_KEY']}", "Content-Type": "application/json",
+                 "X-Buttondown-Live-Dangerously": "true"})
     try:
         with urllib.request.urlopen(req, timeout=30) as r:
             return json.load(r)
