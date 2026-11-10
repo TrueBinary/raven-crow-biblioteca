@@ -1,16 +1,9 @@
 name: Cloudflare site release
 # Publishes main to the private R2 bucket behind ravencrow.cloud. Never commits, so it cannot loop.
+# Manual only (09/11/2026): the PC release (ops/cloudflare/release-local.ps1) is the single deployer;
+# running both could publish an older pinned commit over a newer one. ci.yml runs the tests on every push.
 on:
-  push:
-    branches: [main]
-    paths: ['index.html', 'public/**', 'ops/cloudflare/**']
-  # Commits pushed by news-pages.yml use GITHUB_TOKEN and do not fire `push`.
-  workflow_run:
-    workflows: ['Atualizar paginas da Coluna']
-    types: [completed]
   workflow_dispatch:
-  pull_request:
-    paths: ['ops/cloudflare/**', 'tests/cloudflare/**', '.github/workflows/cloudflare-site-release.yml']
 permissions:
   contents: read
 concurrency:
