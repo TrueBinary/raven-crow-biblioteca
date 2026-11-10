@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "governo-prorroga-desoneracao-gasolina-etanol-dezembro-2026-11-10",
+      "date": "2026-11-10",
+      "category": "ECONOMIA",
+      "title": "Governo prorroga desoneração de gasolina e etanol até 9 de dezembro; custo estimado supera R$ 3,5 bilhões",
+      "subtitle": "Decreto 13.159 mantém tributos federais zerados e subvenção ao etanol por mais 30 dias, em resposta à alta internacional do petróleo.",
+      "facts": "O governo federal prorrogou até 9 de dezembro de 2026 a redução a zero de tributos federais incidentes sobre gasolina e etanol hidratado. O Decreto 13.159 foi assinado em 9 de novembro pelo presidente em exercício, Geraldo Alckmin, e publicado em edição extra do Diário Oficial da União. Permanecem zeradas as alíquotas de PIS/Pasep, Cofins e Cide-Combustíveis sobre a gasolina, exceto gasolina de aviação, e de PIS/Pasep e Cofins sobre etanol hidratado. Segundo o Ministério da Fazenda, a desoneração equivale a R$ 0,89 por litro de gasolina A e R$ 0,19 por litro de etanol. Também foi mantida a subvenção de R$ 0,428 por litro de etanol hidratado, paga a produtores e cooperativas. A Fazenda estima impacto fiscal de R$ 2,76 bilhões com a prorrogação tributária e R$ 813,41 milhões com a subvenção nos 30 dias.",
+      "analysis": "A decisão evita o encerramento imediato dos benefícios em meio à pressão sobre os preços internacionais do petróleo associada ao conflito no Oriente Médio. A Fazenda afirma que compensará os R$ 2,76 bilhões de desoneração com receitas extraordinárias da União provenientes do setor petrolífero. A medida pode amortecer o repasse de custos, mas não determina sozinha o preço final nas bombas, que depende de mistura de combustíveis, refinarias, distribuição, margens comerciais e tributos estaduais. O prolongamento de desonerações também exige monitoramento de seu custo fiscal efetivo e da duração dos choques externos.",
+      "counterpoint": "O governo defende a medida como proteção temporária ao consumidor e incentivo à competitividade do etanol. Por outro lado, economistas e contribuintes podem questionar a sustentabilidade de renúncias e subvenções renovadas mensalmente e a efetividade do repasse aos motoristas. Os valores anunciados são estimativas fiscais, não prova de queda equivalente nos preços finais. Uma foto de posto citada em material oficial foi localizada, mas não foi validado link HTTPS direto para JPEG com tamanho e autorização de republicação conferidos; por isso a matéria usa o fallback visual.",
+      "sources": [
+        {
+          "name": "Ministério da Fazenda — prorrogação e impacto fiscal (10/11/2026)",
+          "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/governo-federal-prorroga-ate-9-de-dezembro-a-desoneracao-da-gasolina-e-do-etanol"
+        },
+        {
+          "name": "Casa Civil — Decreto 13.159/2026 (09/11/2026)",
+          "url": "https://www.gov.br/casacivil/pt-br/assuntos/noticias/2026/novembro/governo-federal-prorroga-por-mais-30-dias-medidas-de-desoneracao-de-tributos-sobre-gasolina-e-etanol"
+        },
+        {
+          "name": "Agência Brasil — governo prorroga desoneração (10/11/2026)",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-prorroga-ate-9-de-dezembro-desoneracao-da-gasolina-e-do-etanol"
+        },
+        {
+          "name": "Reuters — prorrogação dos benefícios (10/11/2026)",
+          "url": "https://economia.uol.com.br/noticias/reuters/2026/11/10/governo-prorroga-ate-9-de-dezembro-desoneracao-da-gasolina-e-do-etanol.htm"
+        }
+      ],
+      "en": {
+        "title": "Brazil extends gasoline and ethanol tax relief through December 9, with estimated cost above R$ 3.5 billion",
+        "subtitle": "Decree 13,159 keeps federal fuel taxes at zero and extends an ethanol subsidy for another 30 days amid higher global oil prices.",
+        "facts": "Brazil extended federal tax relief on gasoline and hydrous ethanol through December 9, 2026. Decree 13,159 was signed on November 9 by acting President Geraldo Alckmin and published in an extraordinary edition of the Official Gazette. PIS/Pasep, Cofins and Cide fuel taxes on gasoline remain at zero, excluding aviation gasoline; PIS/Pasep and Cofins on hydrous ethanol also remain at zero. According to the Finance Ministry, the relief equals R$ 0.89 per liter of gasoline A and R$ 0.19 per liter of ethanol. A subsidy of R$ 0.428 per liter of hydrous ethanol paid to producers and cooperatives was also extended. The ministry estimates a R$ 2.76 billion fiscal impact from tax relief and R$ 813.41 million from the ethanol subsidy over 30 days.",
+        "analysis": "The extension prevents the benefits from expiring immediately amid higher international oil prices linked to the Middle East conflict. The Finance Ministry says it will offset the R$ 2.76 billion tax relief through extraordinary government revenues from the oil sector. The policy may cushion fuel prices but does not determine retail pump prices, which also depend on blending, refining, distribution, commercial margins and state taxes. Repeated extensions warrant scrutiny of fiscal costs and how long external shocks persist.",
+        "counterpoint": "The government argues that the temporary measure protects consumers and preserves ethanol competitiveness. Critics may question the sustainability of recurring tax relief and subsidies and how much of the benefit reaches motorists. Announced amounts are fiscal estimates, not evidence of equivalent retail price reductions. No directly accessible JPEG with fully verified reuse rights and size was confirmed for this report, so the website's fallback image will be used.",
+        "category": "ECONOMY"
+      },
+      "es": {
+        "title": "Brasil prorroga hasta el 9 de diciembre la exención de impuestos a gasolina y etanol, con costo estimado superior a R$ 3.500 millones",
+        "subtitle": "El Decreto 13.159 mantiene en cero los impuestos federales y prolonga el subsidio al etanol por 30 días ante el alza del petróleo.",
+        "facts": "Brasil prorrogó hasta el 9 de diciembre de 2026 la reducción a cero de impuestos federales sobre gasolina y etanol hidratado. El Decreto 13.159 fue firmado el 9 de noviembre por el presidente en ejercicio, Geraldo Alckmin, y publicado en una edición extraordinaria del Diario Oficial. Siguen en cero PIS/Pasep, Cofins y Cide-Combustíveis para la gasolina, excepto la de aviación, y PIS/Pasep y Cofins para el etanol hidratado. Según el Ministerio de Hacienda, el beneficio equivale a R$ 0,89 por litro de gasolina A y R$ 0,19 por litro de etanol. También se prorrogó el subsidio de R$ 0,428 por litro de etanol hidratado pagado a productores y cooperativas. El ministerio estima un impacto fiscal de R$ 2.760 millones por la desgravación y R$ 813,41 millones por el subsidio durante 30 días.",
+        "analysis": "La decisión evita que los beneficios caduquen de inmediato en medio del aumento de los precios internacionales del petróleo asociado al conflicto en Oriente Medio. Hacienda afirma que compensará los R$ 2.760 millones mediante ingresos extraordinarios del sector petrolero. La medida puede moderar los precios, pero no determina por sí sola el valor final en las estaciones de servicio, que también depende de mezclas, refinerías, distribución, márgenes e impuestos estatales. Las prórrogas sucesivas requieren evaluar el costo fiscal real y la duración de las presiones externas.",
+        "counterpoint": "El gobierno defiende la medida temporal como protección al consumidor y apoyo a la competitividad del etanol. Los críticos pueden cuestionar la sostenibilidad de exenciones y subsidios renovados cada mes y cuánto llega realmente al conductor. Los valores anunciados son estimaciones fiscales, no pruebas de rebajas equivalentes en los precios finales. No se confirmó un enlace JPEG directo con derechos de reutilización y tamaño plenamente verificados, por lo que se utilizará la imagen alternativa del sitio.",
+        "category": "ECONOMÍA"
+      },
+      "firstSeen": "2026-11-10T12:02:34-03:00"
+    },
+    {
       "id": "franca-convoca-embaixador-ira-ciberataque-supermercados-2026-11-10",
       "date": "2026-11-10",
       "category": "MUNDO",
