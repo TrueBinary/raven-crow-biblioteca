@@ -19,7 +19,9 @@ API = "https://api.buttondown.com/v1"
 BRT = timezone(timedelta(hours=-3))
 MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho",
          "agosto", "setembro", "outubro", "novembro", "dezembro"]
-RODAPE = f"\n\n---\n\nMais em [ravencrow.cloud]({SITE}/)."
+RODAPE = (f"\n\n---\n\nMais em [ravencrow.cloud]({SITE}/).\n\n"
+          "Siga o Corvo no [Instagram](https://www.instagram.com/ravencrowcc/) "
+          "e no [YouTube](https://www.youtube.com/channel/UC7QOwGdezKSy8NiaIalE9-w).")
 
 
 def _md(text: str) -> str:

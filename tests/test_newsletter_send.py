@@ -31,6 +31,8 @@ class DigestTests(unittest.TestCase):
         self.assertNotIn("a-2", mail["body"])
         self.assertEqual(mail["body"].count("noticias/a-1/"), 1)
         self.assertIn("Título \\[um\\]", mail["body"])
+        self.assertTrue(mail["body"].rstrip().endswith("(https://www.youtube.com/channel/UC7QOwGdezKSy8NiaIalE9-w)."))
+        self.assertIn("(https://www.instagram.com/ravencrowcc/)", mail["body"])
 
     def test_no_news_means_no_digest(self):
         tmp, root = _root([], [])
