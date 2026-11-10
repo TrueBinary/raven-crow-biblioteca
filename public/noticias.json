@@ -2,9 +2,49 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "10/11/2026",
-  "updatedAt": "2026-11-10T10:00:00-03:00",
+  "updatedAt": "2026-11-10T10:55:46-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "franca-convoca-embaixador-ira-ciberataque-supermercados-2026-11-10",
+      "date": "2026-11-10",
+      "category": "MUNDO",
+      "title": "França convoca embaixador do Irã após acusação de ciberataque a 700 supermercados",
+      "subtitle": "Paris atribui sabotagem de sistemas de refrigeração à Guarda Revolucionária iraniana e prepara pedido de sanções europeias; Teerã rejeita acusação.",
+      "facts": "O Ministério das Relações Exteriores da França confirmou em 10 de novembro de 2026 que convocou o embaixador do Irã em Paris, após atribuir a agentes ligados à Guarda Revolucionária iraniana uma campanha de ataques cibernéticos contra sistemas de refrigeração de supermercados franceses. Segundo declaração oficial francesa de 9 de novembro, os incidentes ocorreram na noite de 11 para 12 de outubro e atingiram controladores instalados em mais de 700 estabelecimentos, provocando perdas de alimentos, danos materiais e alguns focos de incêndio. A Procuradoria de Paris abriu investigação. A convocação do diplomata foi confirmada pela Reuters nesta terça-feira; a Associated Press também relatou a acusação e os danos. A autoria iraniana é uma atribuição das autoridades francesas, não uma conclusão judicial definitiva.",
+      "analysis": "O episódio revela como sistemas conectados de refrigeração podem se tornar alvos de sabotagem com consequências econômicas e sanitárias. O governo francês pretende defender sanções europeias e admite medidas adicionais proporcionais para dissuadir novos ataques. A segurança de equipamentos industriais conectados passa a integrar diretamente a política externa e a proteção de cadeias de abastecimento. A investigação poderá esclarecer a cadeia de comando e a extensão dos danos, mas a atribuição estatal de um ciberataque exige distinguir evidências técnicas divulgadas de acusações diplomáticas.",
+      "counterpoint": "O Irã rejeitou a acusação francesa, segundo a Reuters. Ainda não há sentença judicial definitiva que estabeleça a responsabilidade dos suspeitos. A investigação francesa e eventuais sanções devem ser acompanhadas de divulgação verificável de evidências e respeito ao devido processo. Não foi identificada nesta rodada uma foto direta do incidente com autorização e URL JPEG validada, portanto o artigo utilizará o logo de fallback.",
+      "sources": [
+        {
+          "name": "Ministério das Relações Exteriores da França — declaração de atribuição (09/11/2026)",
+          "url": "https://www.diplomatie.gouv.fr/fr/presse-et-ressources/decouvrir-et-informer/actualites/declaration-d-attribution-a-l-iran-de-cyberattaques-visant-la-france"
+        },
+        {
+          "name": "Reuters — França convoca embaixador iraniano (10/11/2026)",
+          "url": "https://www.reuters.com/world/europe/france-summons-iran-envoy-over-supermarket-fridge-hack-warns-response-2026-11-10/"
+        },
+        {
+          "name": "Associated Press — France blames Iran for a cyberattack (09/11/2026)",
+          "url": "https://apnews.com/article/6914ecf1a3285291653e103655f9e4a4"
+        }
+      ],
+      "en": {
+        "title": "France summons Iranian ambassador over cyberattack on 700 supermarkets",
+        "subtitle": "Paris blames Iran-linked Revolutionary Guard operatives for refrigeration sabotage and seeks European sanctions; Tehran rejects the allegation.",
+        "facts": "France's Foreign Ministry confirmed on November 10, 2026 that it summoned Iran's ambassador in Paris after attributing cyberattacks on supermarket refrigeration controls to operatives linked to Iran's Revolutionary Guard. According to France's official November 9 statement, the attacks took place overnight on October 11–12 and targeted controllers at more than 700 retail sites, causing food losses, property damage and some fires. Paris prosecutors opened an investigation. Reuters confirmed the ambassador's summons on Tuesday, while the Associated Press separately reported the accusations and damage. Iranian responsibility remains an attribution by French authorities, not a final judicial finding.",
+        "analysis": "The episode illustrates how connected refrigeration systems can be targeted for sabotage, with economic and public-health consequences. France plans to seek European sanctions and has warned it may take further proportionate steps to deter attacks. Industrial cybersecurity is increasingly a foreign-policy and supply-chain issue. Investigators still need to establish the command structure and full scale of the damage, and official attribution must be distinguished from a final court ruling.",
+        "counterpoint": "Iran rejected France's accusation, according to Reuters. No final judicial ruling has established the suspects' responsibility. Any sanctions and investigations should be assessed against disclosed evidence and due process. No incident photograph with verified reuse rights and a validated direct JPEG URL was identified for this report.",
+        "category": "WORLD"
+      },
+      "es": {
+        "title": "Francia convoca al embajador iraní por ciberataque a 700 supermercados",
+        "subtitle": "París acusa a agentes vinculados con la Guardia Revolucionaria iraní de sabotear sistemas de refrigeración y busca sanciones europeas; Teherán rechaza la acusación.",
+        "facts": "El Ministerio de Exteriores de Francia confirmó el 10 de noviembre de 2026 que convocó al embajador de Irán en París después de atribuir ataques informáticos contra sistemas de refrigeración de supermercados a agentes vinculados con la Guardia Revolucionaria iraní. Según la declaración oficial francesa del 9 de noviembre, los ataques ocurrieron durante la noche del 11 al 12 de octubre y afectaron controladores en más de 700 establecimientos, causando pérdidas de alimentos, daños materiales y algunos incendios. La Fiscalía de París abrió una investigación. Reuters confirmó la convocatoria del diplomático el martes y Associated Press informó por separado sobre las acusaciones y los daños. La responsabilidad iraní sigue siendo una atribución de las autoridades francesas, no una conclusión judicial definitiva.",
+        "analysis": "El episodio muestra cómo los sistemas de refrigeración conectados pueden convertirse en objetivos de sabotaje con consecuencias económicas y sanitarias. Francia pretende impulsar sanciones europeas y advierte que podría adoptar otras medidas proporcionales para disuadir nuevos ataques. La ciberseguridad industrial es cada vez más una cuestión de política exterior y protección de cadenas de suministro. La investigación deberá aclarar la cadena de mando y el alcance de los daños; una atribución oficial no equivale a una sentencia.",
+        "counterpoint": "Irán rechazó la acusación francesa, según Reuters. Todavía no existe una sentencia definitiva que establezca la responsabilidad de los sospechosos. Las investigaciones y posibles sanciones deben examinarse a la luz de las pruebas divulgadas y del debido proceso. No se identificó una fotografía del incidente con derechos de reutilización y URL JPEG directa verificados.",
+        "category": "MUNDO"
+      }
+    },
     {
       "id": "china-superavit-comercial-um-trilhao-dolares-2026-11-10",
       "date": "2026-11-10",
