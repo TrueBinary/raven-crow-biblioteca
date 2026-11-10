@@ -1,0 +1,72 @@
+name: Publicar site
+# Gera as páginas, faz commit como github-actions[bot] e publica a main no R2 por trás do ravencrow.cloud.
+# Faz o que ops/cloudflare/release-local.ps1 fazia no PC. O push com o GITHUB_TOKEN não dispara workflows, então não há loop.
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Só simular o envio ao R2
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: site-release
+  cancel-in-progress: false
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment: cloudflare-production
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          filter: blob:none
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Fotos por link
+        # A pasta não existe no runner: só entram as fotos do campo "photos" dos JSON.
+        run: node ops/cloudflare/import-photos.mjs . .sem-pasta-de-fotos
+      - name: Gerar páginas
+        run: |
+          pip install -q pillow
+          for b in build-raven.py build-column.py build-news-index.py build-library.py; do python "$b"; done
+      - name: Commit das páginas
+        id: commit
+        run: |
+          git add index.html public/noticias.html public/noticias public/sitemap.xml public/robots.txt public/raven-analytics.js public/editorial-feed.json public/editorial-images.json public/editorial/covers public/editorial/photos public/editorial-photo-credits.json public/creditos-fotos.html public/coluna.html public/coluna public/livros.html public/livros.json public/en public/es public/sitemap-news.xml
+          if [ -f public/sitemap-coluna.xml ]; then git add public/sitemap-coluna.xml; fi
+          if git diff --cached --quiet; then echo "changed=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "Atualizar paginas indexaveis da Coluna"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+      - name: Portões de conteúdo
+        run: node ops/cloudflare/content-integrity.mjs HEAD && node ops/cloudflare/public-pages.mjs HEAD
+      - name: Testes do Worker e do envio
+        run: RAVEN_OFFLINE=1 node --test 'tests/cloudflare/*.test.mjs'
+      - name: Push
+        id: push
+        run: |
+          if [ "${{ steps.commit.outputs.changed }}" != "true" ]; then echo "pushed=true" >> "$GITHUB_OUTPUT"; exit 0; fi
+          if git push origin HEAD:main; then echo "pushed=true" >> "$GITHUB_OUTPUT"; else
+            echo "::notice::A main andou durante o build; o próximo disparo publica a versão nova."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Enviar ao R2
+        if: steps.push.outputs.pushed == 'true'
+        shell: bash
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          set -o pipefail
+          node ops/cloudflare/release.mjs "$(git rev-parse HEAD)" ${{ inputs.dry_run && '--dry-run' || '' }} | tee release-summary.json
+      - name: Resumo
+        if: always()
+        run: |
+          { echo '```json'; cat release-summary.json 2>/dev/null; echo '```'; } >> "$GITHUB_STEP_SUMMARY"

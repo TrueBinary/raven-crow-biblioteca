@@ -73,26 +73,46 @@ test('dry run never writes', async () => {
   assert.equal(r.healthChecksPassed, null);
 });
 
-test('workflow serialises releases, keeps secrets off PRs and never commits', () => {
-  const y = readFileSync(new URL('../../.github/workflows/cloudflare-site-release.yml', import.meta.url), 'utf8');
-  assert.match(y, /concurrency:\s*\n\s*group: cloudflare-site-release\s*\n\s*cancel-in-progress: false/);
+const wf = () => readFileSync(new URL('../../.github/workflows/site-release.yml', import.meta.url), 'utf8');
+
+test('site-release: um publicador por vez, segredos no ambiente, sem gatilho perigoso', () => {
+  const y = wf();
+  assert.match(y, /concurrency:\s*\n\s*group: site-release\s*\n\s*cancel-in-progress: false/);
   assert.match(y, /environment: cloudflare-production/);
-  assert.doesNotMatch(y, /pull_request_target/);
-  assert.doesNotMatch(y, /git (commit|push)/);
-  // Manual only since 09/11/2026: the PC release is the single automatic deployer.
-  assert.doesNotMatch(y, /^\s*(push|workflow_run|schedule):/m);
+  assert.match(y, /contents: write/);
+  assert.doesNotMatch(y, /pull_request_target|^\s*token:/m);
+  assert.doesNotMatch(y, /RavenNewsEngine/);
 });
 
-test('release step fails when release.mjs fails, and publishes the commit the test job pinned', () => {
-  const y = readFileSync(new URL('../../.github/workflows/cloudflare-site-release.yml', import.meta.url), 'utf8');
-  const release = y.slice(y.indexOf('  release:'));
-  assert.match(release, /shell: bash/, 'tee must not hide a failing release (pipefail)');
-  assert.match(release, /ref: \$\{\{ needs\.test\.outputs\.sha \}\}/, 'release must check out the SHA the test job ran on');
-  assert.match(y.slice(0, y.indexOf('  release:')), /outputs:\s*\n\s*sha:/, 'test job must export the pinned SHA');
+test('site-release: passos na ordem fotos → páginas → commit → portões → testes → push → release', () => {
+  const y = wf();
+  const at = s => { const i = y.indexOf(s); assert.ok(i >= 0, s); return i; };
+  const order = ['import-photos.mjs', 'build-raven.py', 'build-column.py', 'build-news-index.py', 'build-library.py',
+    'Atualizar paginas indexaveis da Coluna', 'content-integrity.mjs HEAD', 'public-pages.mjs HEAD',
+    "node --test 'tests/cloudflare/", 'git push origin HEAD:main', 'release.mjs'];
+  order.reduce((prev, s) => { const i = at(s); assert.ok(i > prev, s + ' fora de ordem'); return i; }, -1);
+});
+
+test('site-release: git add tem os mesmos caminhos do release do PC', () => {
+  const ps = readFileSync(new URL('../../ops/cloudflare/release-local.ps1', import.meta.url), 'utf8');
+  const paths = ps.match(/^\s*git add (index\.html[^\r\n]*)/m)[1].trim().split(/\s+/);
+  const y = wf();
+  for (const p of paths) assert.ok(y.includes(p), 'faltando no workflow: ' + p);
+  assert.match(y, /sitemap-coluna\.xml/);
+});
+
+test('site-release: push recusado pula o release; release falha se release.mjs falhar', () => {
+  const y = wf();
+  const release = y.slice(y.indexOf('release.mjs') - 400);
+  assert.match(release, /if: steps\.push\.outputs\.pushed == 'true'/);
+  assert.match(release, /shell: bash/);
+  assert.match(release, /pipefail/);
+  assert.match(y, /CLOUDFLARE_API_TOKEN: \$\{\{ secrets\.CLOUDFLARE_API_TOKEN \}\}/);
+  assert.match(y, /dry_run/);
 });
 
 test('workflow has no ${{ }} inside a one-line { } map or run: { } (both break YAML parsing on GitHub)', () => {
-  const y = readFileSync(new URL('../../.github/workflows/cloudflare-site-release.yml', import.meta.url), 'utf8');
+  const y = wf();
   for (const line of y.split('\n')) {
     assert.doesNotMatch(line, /:\s*\{[^}\n]*\$\{\{/, line);
     assert.doesNotMatch(line, /^\s*run:\s*\{/, line);
