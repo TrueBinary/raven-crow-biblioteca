@@ -1,6 +1,47 @@
 {
   "articles": [
     {
+      "id": "brasil-defende-transicao-combustiveis-fosseis-cop31-2026-11-10",
+      "date": "2026-11-10",
+      "category": "MEIO AMBIENTE",
+      "title": "Brasil defende na COP31 plano para reduzir dependência de petróleo, gás e carvão, mas proposta não é obrigatória",
+      "subtitle": "Roteiro apresentado em Antalya prevê medidas adaptáveis a cada país; expansão petrolífera brasileira expõe tensão entre discurso climático e política energética.",
+      "facts": "O Brasil defendeu nesta terça-feira, 10 de novembro de 2026, durante a COP31 em Antalya, na Turquia, um roteiro internacional para orientar a transição dos combustíveis fósseis para fontes de energia de menor emissão. O documento, divulgado originalmente em 3 de novembro após consultas a governos e especialistas, sugere que os países considerem redução de subsídios ao petróleo, gás e carvão, evitem ampliar infraestrutura fóssil e planejem investimentos em fontes renováveis. O roteiro não é juridicamente vinculante e não fixa um calendário obrigatório de abandono desses combustíveis. A Agência France-Presse informou que representantes de vários países, entre eles Reino Unido, Alemanha e Nigéria, apoiaram a discussão do texto no evento. A Associated Press também confirmou a apresentação brasileira na conferência.",
+      "analysis": "A proposta tenta transformar compromissos climáticos internacionais em medidas que cada governo possa adaptar à sua realidade econômica. No entanto, a defesa brasileira de reduzir a dependência de combustíveis fósseis convive com a expansão da exploração de petróleo no próprio país, inclusive com o debate sobre a Margem Equatorial. A questão central é como conciliar segurança energética, empregos, preços acessíveis e redução efetiva das emissões. Sem metas obrigatórias, financiamento e fiscalização, o roteiro pode orientar políticas nacionais, mas não assegura que sejam implementadas.",
+      "counterpoint": "Defensores da iniciativa argumentam que a transição precisa ser gradual, flexível e compatível com as condições de cada país. Críticos apontam que a ausência de prazos vinculantes enfraquece a cobrança por resultados e que a política brasileira de petróleo contrasta com sua liderança climática. O texto apresentado não representa decisão coletiva obrigatória da COP31. Sem foto liberada: não foi possível confirmar simultaneamente uma fotografia pertinente, a URL HTTPS direta de JPEG, o tamanho máximo de 3 MB e os direitos de reutilização para esta matéria.",
+      "sources": [
+        {
+          "name": "AFP — Brasil pauta saída dos combustíveis fósseis na COP31 (10/11/2026)",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/10/brasil-pauta-saida-dos-combustiveis-fosseis-na-cop31.htm"
+        },
+        {
+          "name": "Associated Press — Brazil presents road map at UN climate talks (10/11/2026)",
+          "url": "https://apnews.com/article/1a76dbefe56039c8841e9aeb49468048"
+        },
+        {
+          "name": "Folha de S.Paulo — Contradições da proposta brasileira na COP31 (10/11/2026)",
+          "url": "https://www1.folha.uol.com.br/ambiente/2026/11/em-meio-a-contradicoes-brasil-relanca-proposta-para-transicao-energetica-na-cop31.shtml"
+        }
+      ],
+      "en": {
+        "title": "Brazil promotes fossil-fuel transition road map at COP31, but proposal is not binding",
+        "subtitle": "The plan discussed in Antalya suggests country-specific steps to move away from oil, gas and coal while Brazil faces questions over its own oil expansion.",
+        "facts": "On Tuesday, November 10, 2026, Brazil advocated an international road map at COP31 in Antalya, Türkiye, to help countries shift from fossil fuels toward lower-emission energy. First released on November 3 following consultations with governments and experts, the document suggests considering reductions in fossil-fuel subsidies, avoiding expansion of fossil infrastructure and planning renewable-energy investments. The road map is not legally binding and sets no mandatory deadline for phasing out oil, gas and coal. Agence France-Presse reported support for discussing the proposal from representatives of several countries, including the United Kingdom, Germany and Nigeria. The Associated Press independently confirmed its presentation at the summit.",
+        "analysis": "The initiative seeks to translate international climate commitments into practical steps tailored to national economies. However, Brazil's advocacy of a shift away from fossil fuels sits alongside its own oil exploration plans, including the debate over the Equatorial Margin. Policymakers must balance energy security, employment, affordability and emissions reductions. Without enforceable targets, funding and oversight, the road map can guide national policy but cannot guarantee implementation.",
+        "counterpoint": "Supporters say an effective transition must be gradual and flexible enough to reflect different national circumstances. Critics argue that the lack of binding deadlines weakens accountability and that Brazil's oil policy clashes with its climate leadership. The proposal is not a binding COP31 decision. No cleared photo: a relevant direct HTTPS JPEG, size limit and republication rights could not all be verified.",
+        "category": "ENVIRONMENT"
+      },
+      "es": {
+        "title": "Brasil impulsa en la COP31 una hoja de ruta para dejar los combustibles fósiles, pero sin obligaciones vinculantes",
+        "subtitle": "El plan debatido en Antalya propone medidas adaptadas a cada país mientras la expansión petrolera brasileña plantea contradicciones.",
+        "facts": "El martes 10 de noviembre de 2026, Brasil defendió en la COP31 de Antalya, Turquía, una hoja de ruta internacional para ayudar a los países a pasar de los combustibles fósiles a fuentes de energía con menos emisiones. Publicado inicialmente el 3 de noviembre tras consultas con gobiernos y especialistas, el documento propone considerar la reducción de subsidios al petróleo, gas y carbón, evitar la expansión de infraestructura fósil y planificar inversiones en energías renovables. La propuesta no es jurídicamente vinculante ni fija una fecha obligatoria para abandonar estos combustibles. Agence France-Presse informó del apoyo al debate de representantes de varios países, incluidos Reino Unido, Alemania y Nigeria. Associated Press confirmó de forma independiente la presentación en la cumbre.",
+        "analysis": "La iniciativa busca convertir los compromisos climáticos internacionales en medidas adaptables a cada economía. Sin embargo, el discurso brasileño de reducción de combustibles fósiles convive con planes de expansión petrolera, incluido el debate sobre la Margen Ecuatorial. Los gobiernos deben conciliar seguridad energética, empleo, precios accesibles y reducción de emisiones. Sin metas obligatorias, financiación y supervisión, la hoja de ruta puede orientar políticas nacionales, pero no garantiza su ejecución.",
+        "counterpoint": "Sus defensores consideran necesaria una transición gradual y flexible que respete las condiciones de cada país. Los críticos señalan que la ausencia de plazos vinculantes debilita la rendición de cuentas y que la política petrolera de Brasil contradice su liderazgo climático. La propuesta no constituye una decisión obligatoria de la COP31. Sin foto autorizada: no se pudo verificar conjuntamente un JPEG HTTPS directo pertinente, su tamaño y los derechos de republicación.",
+        "category": "MEDIO AMBIENTE"
+      },
+      "firstSeen": "2026-11-10T16:55:23-03:00"
+    },
+    {
       "id": "merz-condiciona-orcamento-ue-apoio-ucrania-fico-reage-2026-11-10",
       "date": "2026-11-10",
       "category": "MUNDO",
