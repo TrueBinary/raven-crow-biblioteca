@@ -2,9 +2,62 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "10/11/2026",
-  "updatedAt": "2026-11-10T09:02:01-03:00",
+  "updatedAt": "2026-11-10T10:00:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "china-superavit-comercial-um-trilhao-dolares-2026-11-10",
+      "date": "2026-11-10",
+      "category": "ECONOMIA",
+      "title": "Superávit comercial da China supera US$ 1 trilhão até outubro, com salto nas exportações",
+      "subtitle": "Dados aduaneiros divulgados nesta terça-feira mostram alta de 35,2% nas exportações de outubro e ampliam pressão comercial sobre EUA e União Europeia.",
+      "facts": "A China registrou superávit comercial acumulado de US$ 1,04 trilhão entre janeiro e outubro de 2026, segundo dados da alfândega chinesa divulgados em 10 de novembro. É o segundo ano consecutivo em que o saldo supera US$ 1 trilhão, marca alcançada um mês antes do que em 2025. As exportações chinesas em outubro cresceram 35,2% em dólares na comparação anual, acima dos 33,5% esperados por economistas consultados pela Reuters. As importações avançaram 41,6% no mesmo período. Apesar do salto das vendas externas, o superávit apenas de outubro recuou para US$ 105,3 bilhões, ante US$ 133,5 bilhões em setembro, porque as compras do exterior cresceram mais rapidamente. Produtos tecnológicos, semicondutores e automóveis contribuíram para o avanço das exportações. Os números foram reportados independentemente pela Reuters e pela Associated Press a partir dos dados oficiais chineses.",
+      "analysis": "O resultado destaca a força exportadora da China e a dependência de compradores estrangeiros para sustentar sua atividade econômica diante do consumo doméstico fraco e das dificuldades do setor imobiliário. A demanda mundial por equipamentos para inteligência artificial favoreceu fabricantes de componentes eletrônicos. Por outro lado, saldos comerciais elevados ampliam as tensões com Estados Unidos e União Europeia, que discutem tarifas e barreiras a determinados produtos chineses. O resultado acumulado não equivale a lucro fiscal do governo: trata-se da diferença entre o valor das exportações e o das importações de mercadorias. O crescimento expressivo das importações em outubro também recomenda cautela ao interpretar a variação mensal.",
+      "counterpoint": "Autoridades chinesas afirmam buscar comércio internacional mais equilibrado, e não a ampliação deliberada do superávit. Economistas alertam que a dependência das exportações e da demanda por tecnologia pode tornar o crescimento vulnerável a novas restrições comerciais ou à desaceleração do investimento global em inteligência artificial. A fotografia é de arquivo de 2007 e não retrata a divulgação dos dados de novembro de 2026.",
+      "sources": [
+        {
+          "name": "Reuters — China's trade surplus soars past $1 trillion as AI boom powers exports (10/11/2026)",
+          "url": "https://www.reuters.com/world/asia-pacific/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-2026-11-10/"
+        },
+        {
+          "name": "Associated Press — China's trade surplus surpasses $1 trillion for a 2nd straight year (10/11/2026)",
+          "url": "https://apnews.com/article/0fc56d7bd8bbff86ce6672bb67691f22"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Yangshan_Deepwater_Port.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "YHBEST1/Wikimedia Commons",
+          "license": "Domínio público — obra liberada pelo autor (https://commons.wikimedia.org/wiki/File:Yangshan_Deepwater_Port.jpg)",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Yangshan_Deepwater_Port.jpg",
+          "caption": "FOTO DE ARQUIVO (2007): Porto de águas profundas de Yangshan, em Xangai, China. Imagem ilustrativa do comércio marítimo chinês, não dos dados divulgados em 10/11/2026."
+        }
+      ],
+      "en": {
+        "title": "China's trade surplus tops $1 trillion through October as exports surge",
+        "subtitle": "Customs figures released Tuesday show October exports up 35.2%, raising trade tensions with the United States and European Union.",
+        "facts": "China recorded a cumulative merchandise trade surplus of US$1.04 trillion from January through October 2026, according to Chinese customs data released on November 10. It is the second consecutive year that the surplus has exceeded US$1 trillion, reaching that mark a month earlier than in 2025. Chinese exports rose 35.2% in US dollar terms in October compared with a year earlier, beating the 33.5% increase expected by economists polled by Reuters. Imports grew 41.6% over the same period. Despite the surge in overseas sales, the surplus for October alone narrowed to US$105.3 billion from US$133.5 billion in September as imports grew faster. Technology products, semiconductors and automobiles helped drive exports. Reuters and the Associated Press independently reported the figures using official Chinese customs data.",
+        "analysis": "The figures underline China's export strength and its reliance on foreign buyers to support activity amid weak domestic consumption and difficulties in the property sector. Global demand for artificial intelligence equipment has benefited electronics manufacturers. However, large trade surpluses heighten tensions with the United States and European Union, which are considering tariffs and restrictions on some Chinese goods. The cumulative trade surplus is not government fiscal profit: it is the difference between the value of merchandise exports and imports. October's sharp import growth also warrants caution when interpreting monthly changes.",
+        "counterpoint": "Chinese officials say they seek more balanced international trade rather than a deliberately widening surplus. Economists warn that reliance on exports and technology demand leaves growth vulnerable to trade restrictions or slower global investment in artificial intelligence. The accompanying photograph dates from 2007 and does not show the November 2026 data release.",
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (2007): Yangshan Deepwater Port in Shanghai, China. Illustrative image of Chinese maritime trade, not the November 10, 2026 data release."
+        }
+      },
+      "es": {
+        "title": "El superávit comercial de China supera US$ 1 billón hasta octubre por el auge exportador",
+        "subtitle": "Los datos aduaneros divulgados el martes muestran un aumento del 35,2 % en las exportaciones de octubre y mayores tensiones con Estados Unidos y la Unión Europea.",
+        "facts": "China registró un superávit comercial acumulado de US$ 1,04 billones entre enero y octubre de 2026, según datos de las aduanas chinas publicados el 10 de noviembre. Es el segundo año consecutivo en que el saldo supera US$ 1 billón, un umbral alcanzado un mes antes que en 2025. Las exportaciones chinas aumentaron un 35,2 % en dólares en octubre respecto del mismo mes del año anterior, por encima del 33,5 % previsto por los economistas consultados por Reuters. Las importaciones crecieron un 41,6 % en el mismo período. Pese al fuerte avance de las ventas al exterior, el superávit correspondiente solo a octubre se redujo a US$ 105.300 millones, frente a US$ 133.500 millones en septiembre, debido al crecimiento más rápido de las importaciones. Los productos tecnológicos, los semiconductores y los automóviles impulsaron las exportaciones. Reuters y Associated Press informaron de manera independiente sobre los datos oficiales chinos.",
+        "analysis": "Las cifras ponen de relieve la fortaleza exportadora de China y su dependencia de compradores extranjeros para sostener la actividad ante la debilidad del consumo interno y los problemas del sector inmobiliario. La demanda mundial de equipos para inteligencia artificial ha beneficiado a los fabricantes electrónicos. Sin embargo, los elevados superávits comerciales agravan las tensiones con Estados Unidos y la Unión Europea, que evalúan aranceles y restricciones sobre determinados productos chinos. El superávit comercial acumulado no equivale a beneficios fiscales del Gobierno: representa la diferencia entre exportaciones e importaciones de mercancías. El fuerte aumento de las importaciones en octubre también exige cautela al interpretar la variación mensual.",
+        "counterpoint": "Las autoridades chinas afirman que buscan un comercio internacional más equilibrado y no una ampliación deliberada del superávit. Los economistas advierten de que la dependencia de las exportaciones y de la demanda tecnológica puede volver vulnerable el crecimiento ante nuevas barreras comerciales o una desaceleración de la inversión mundial en inteligencia artificial. La fotografía es de archivo de 2007 y no muestra la publicación de los datos de noviembre de 2026.",
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (2007): Puerto de aguas profundas de Yangshan, en Shanghái, China. Imagen ilustrativa del comercio marítimo chino; no muestra la publicación de datos del 10 de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "operacao-prende-seis-policiais-penais-guarulhos-2026-11-10",
       "date": "2026-11-10",
