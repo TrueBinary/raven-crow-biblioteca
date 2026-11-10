@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "ministerio-justica-pede-remocao-348-perfis-bets-ilegais-2026-11-10": "editorial/covers/ministerio-justica-pede-remocao-348-perfis-bets-ilegais-2026-11-10.svg",
     "arabia-saudita-intercepta-tres-misseis-houthis-2026-11-10": "editorial/covers/arabia-saudita-intercepta-tres-misseis-houthis-2026-11-10.svg",
     "justica-suspende-regras-vale-refeicao-abbt-2026-11-10": "editorial/covers/justica-suspende-regras-vale-refeicao-abbt-2026-11-10.svg",
     "fachin-arquiva-inquerito-fake-news-stf-2026-11-10": "editorial/covers/fachin-arquiva-inquerito-fake-news-stf-2026-11-10.svg",
@@ -144,7 +145,8 @@
     "a-padaria-e-o-alvara-para-o-sol-nascer-2026-11-09": "editorial/photos/a-padaria-e-o-alvara-para-o-sol-nascer-2026-11-09.jpg",
     "fachin-arquiva-inquerito-fake-news-stf-2026-11-10": "editorial/photos/fachin-arquiva-inquerito-fake-news-stf-2026-11-10.jpg",
     "justica-suspende-regras-vale-refeicao-abbt-2026-11-10": "editorial/photos/justica-suspende-regras-vale-refeicao-abbt-2026-11-10.jpg",
-    "arabia-saudita-intercepta-tres-misseis-houthis-2026-11-10": "editorial/photos/arabia-saudita-intercepta-tres-misseis-houthis-2026-11-10.jpg"
+    "arabia-saudita-intercepta-tres-misseis-houthis-2026-11-10": "editorial/photos/arabia-saudita-intercepta-tres-misseis-houthis-2026-11-10.jpg",
+    "ministerio-justica-pede-remocao-348-perfis-bets-ilegais-2026-11-10": "editorial/photos/ministerio-justica-pede-remocao-348-perfis-bets-ilegais-2026-11-10.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -512,6 +514,12 @@
       "srcset": "editorial/photos/arabia-saudita-intercepta-tres-misseis-houthis-2026-11-10-640.webp 640w, editorial/photos/arabia-saudita-intercepta-tres-misseis-houthis-2026-11-10-1280.webp 1280w",
       "width": 1280,
       "height": 960
+    },
+    "ministerio-justica-pede-remocao-348-perfis-bets-ilegais-2026-11-10": {
+      "src": "editorial/photos/ministerio-justica-pede-remocao-348-perfis-bets-ilegais-2026-11-10-1280.webp",
+      "srcset": "editorial/photos/ministerio-justica-pede-remocao-348-perfis-bets-ilegais-2026-11-10-640.webp 640w, editorial/photos/ministerio-justica-pede-remocao-348-perfis-bets-ilegais-2026-11-10-1280.webp 1280w",
+      "width": 1280,
+      "height": 2276
     }
   }
 }
