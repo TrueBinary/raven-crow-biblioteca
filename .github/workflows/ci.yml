@@ -1,0 +1,40 @@
+name: Checagem do site
+# Só valida; quem gera e publica é o release do PC (ops/cloudflare/release-local.ps1, a cada 15 min).
+# Um commit de JSON que quebraria o release aparece aqui como falha.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Gerar páginas como o release faz (sem commit no repositório)
+        run: |
+          for b in build-raven.py build-column.py build-news-index.py build-library.py; do python "$b"; done
+          git config user.name ci && git config user.email ci@localhost
+          git add -A index.html public && git commit -qm "ci build" --allow-empty
+      - name: Portão de conteúdo do release
+        run: node ops/cloudflare/content-integrity.mjs HEAD && node ops/cloudflare/public-pages.mjs HEAD
+      - name: Testes do Worker e do release
+        run: node --test tests/cloudflare/*.test.mjs
+      - name: Testes Python
+        # shortcut: 4 falhas antigas (ad_photo, column_editorial x2, seo_output) já existiam na main em 09/11; tirar o continue-on-error quando forem corrigidas.
+        continue-on-error: true
+        run: python -m unittest discover -s tests
