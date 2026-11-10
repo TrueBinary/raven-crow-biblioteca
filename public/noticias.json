@@ -2,9 +2,66 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "10/11/2026",
-  "updatedAt": "2026-11-10T01:39:59-03:00",
+  "updatedAt": "2026-11-10T03:00:20-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "justica-suspende-regras-vale-refeicao-abbt-2026-11-10",
+      "date": "2026-11-10",
+      "category": "ECONOMIA",
+      "title": "Justiça suspende parte das novas regras de vale-refeição e alimentação para operadoras",
+      "subtitle": "Liminar obtida pela ABBT atinge teto de taxas, prazo de repasse e exigências de abertura do sistema; governo federal pode recorrer.",
+      "facts": "A Justiça Federal do Distrito Federal concedeu, em 9 de novembro de 2026, liminar à Associação Brasileira das Empresas de Benefícios ao Trabalhador (ABBT) para suspender a aplicação de dispositivos do Decreto 12.712/2025 às empresas associadas. A decisão foi proferida pelo juiz Frederico Botelho de Barros Viana, da 22ª Vara Federal Cível, e beneficia operadoras como Alelo, Ticket, VR e Pluxee, integrantes da associação. Entre os dispositivos atingidos estão o teto de 3,6% para taxas cobradas de estabelecimentos, o limite de 2% para tarifa de intercâmbio e o prazo de até 15 dias para repasse dos pagamentos. A liminar também questiona exigências de abertura dos arranjos de pagamento, mas o alcance exato sobre a interoperabilidade foi descrito de maneiras diferentes na cobertura jornalística. A decisão é provisória e a União poderá recorrer. Agência Brasil, Reuters e Folha de S.Paulo noticiaram o caso em 9 de novembro.",
+      "analysis": "A disputa opõe o objetivo do governo de ampliar a concorrência entre operadoras e facilitar a aceitação dos cartões à alegação das empresas de que o decreto ultrapassou a regulamentação permitida pela lei do Programa de Alimentação do Trabalhador (PAT). Para restaurantes e supermercados, a limitação das taxas e a antecipação dos repasses poderiam reduzir custos e melhorar o fluxo de caixa. A liminar, porém, restringe temporariamente a aplicação dessas obrigações às empresas representadas pela ABBT. O consumidor não deve presumir que seu benefício foi cancelado: a controvérsia envolve regras de operação e aceitação, não o pagamento do saldo do trabalhador.",
+      "counterpoint": "O governo defende que as medidas estimulem a concorrência e beneficiem o comércio. A ABBT sustenta que o Executivo criou obrigações não previstas em lei e que a implementação exige ajustes técnicos. A liminar não representa decisão definitiva sobre a validade do decreto, não se estende automaticamente a todas as empresas do setor e pode ser modificada em recurso. Há divergências entre veículos sobre a extensão da suspensão da interoperabilidade; a leitura integral do despacho deve prevalecer. A foto é de arquivo, anterior à decisão.",
+      "sources": [
+        {
+          "name": "Agência Brasil — Justiça suspende regra que ampliou aceitação de VR e VA em maquininhas (09/11/2026)",
+          "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-suspende-regra-que-ampliou-aceitacao-de-vr-e-va-em-maquininhas"
+        },
+        {
+          "name": "Reuters/UOL — Justiça Federal suspende parte das regras para vale-refeição (09/11/2026)",
+          "url": "https://economia.uol.com.br/noticias/reuters/2026/11/09/justica-federal-suspende-parte-das-regras-para-vale-refeicao.amp.htm"
+        },
+        {
+          "name": "Folha de S.Paulo — Justiça suspende novas regras do vale-refeição para empresas líderes do setor (09/11/2026)",
+          "url": "https://c-level.folha.uol.com.br/negocios/2026/11/justica-suspende-novas-regras-do-vale-refeicao-para-empresas-lideres-do-setor.shtml"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://imagens.ebc.com.br/R9aFivGBUYL7V_sRhuPokBZcz7o=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/12/_d6a9139.jpg?itok=W1psKWHO",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Fernando Frazão/Agência Brasil",
+          "license": "Agência Brasil — reprodução fotojornalística com crédito obrigatório",
+          "source_article": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-suspende-regra-que-ampliou-aceitacao-de-vr-e-va-em-maquininhas",
+          "caption": "FOTO DE ARQUIVO (12/01/2025): transação comercial em maquininha no Rio de Janeiro. Imagem ilustrativa, não registra a decisão judicial de 09/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Brazilian court temporarily blocks meal voucher rules for major operators",
+        "subtitle": "An injunction obtained by the ABBT trade group suspends fee caps, settlement deadlines and parts of the new payment-system requirements for member companies.",
+        "facts": "On November 9, 2026, a federal court in Brazil's Federal District granted an injunction requested by the Associação Brasileira das Empresas de Benefícios ao Trabalhador (ABBT, Brazilian Association of Employee Benefit Companies), suspending provisions of Decree 12,712/2025 for its member companies. Federal judge Frederico Botelho de Barros Viana of the 22nd Federal Civil Court issued the order, which covers operators including Alelo, Ticket, VR and Pluxee. The affected measures include a 3.6% cap on merchant fees, a 2% interchange-fee ceiling and a requirement to settle merchant payments within 15 days. The injunction also challenges requirements to open payment networks, although news outlets have described its precise implications for interoperability differently. The order is provisional and the federal government may appeal. Agência Brasil, Reuters and Folha de S.Paulo reported the ruling on November 9.",
+        "analysis": "The dispute pits the government's goal of increasing competition and expanding card acceptance against operators' argument that the decree exceeded the authority granted under Brazil's Programa de Alimentação do Trabalhador (PAT, Worker Food Program). Lower fees and faster settlement could reduce costs and improve cash flow for restaurants and supermarkets. The injunction temporarily limits the application of these obligations to ABBT members. Workers should not interpret the ruling as a cancellation of their meal voucher balances: the dispute concerns payment and acceptance rules.",
+        "counterpoint": "The government says the changes would increase competition and benefit merchants. The ABBT argues that the decree imposes requirements not provided for by statute and that technical adjustments are necessary. The injunction is not a final ruling on the decree's legality, does not automatically cover every operator and may be changed on appeal. Reports differ on the scope of the interoperability suspension; the full judicial order is authoritative. The photograph is archival.",
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (January 12, 2025): card payment terminal transaction in Rio de Janeiro. Illustrative image; it does not depict the November 9, 2026 court ruling."
+        }
+      },
+      "es": {
+        "title": "La Justicia brasileña suspende temporalmente reglas de vales de comida para grandes operadoras",
+        "subtitle": "Una medida cautelar solicitada por la ABBT frena límites de tarifas, plazos de pago y parte de las nuevas exigencias del sistema para sus asociadas.",
+        "facts": "El 9 de noviembre de 2026, la Justicia Federal del Distrito Federal de Brasil concedió una medida cautelar a la Associação Brasileira das Empresas de Benefícios ao Trabalhador (ABBT, Asociación Brasileña de Empresas de Beneficios al Trabajador) que suspende disposiciones del Decreto 12.712/2025 para sus empresas asociadas. El juez Frederico Botelho de Barros Viana, de la 22.ª Vara Federal Civil, dictó la resolución, que beneficia a operadoras como Alelo, Ticket, VR y Pluxee. Las normas afectadas incluyen el límite del 3,6 % a las tasas cobradas a los comercios, el tope del 2 % para las tarifas de intercambio y la obligación de transferir los pagos a los establecimientos en un máximo de 15 días. La cautelar también cuestiona exigencias de apertura de los sistemas de pago, aunque los medios han descrito de manera distinta su alcance preciso sobre la interoperabilidad. La decisión es provisional y el gobierno federal puede recurrirla. Agência Brasil, Reuters y Folha de S.Paulo informaron sobre la resolución el 9 de noviembre.",
+        "analysis": "La disputa enfrenta el objetivo gubernamental de ampliar la competencia y la aceptación de tarjetas con el argumento de las operadoras de que el decreto excedió la potestad reglamentaria prevista en el Programa de Alimentação do Trabalhador (PAT, Programa de Alimentación del Trabajador). Unas tarifas menores y pagos más rápidos podrían reducir costes y mejorar la liquidez de restaurantes y supermercados. Sin embargo, la medida cautelar restringe temporalmente esas obligaciones para las empresas de la ABBT. Los trabajadores no deben interpretar la resolución como una cancelación del saldo de sus vales: la controversia se refiere a las reglas de operación y aceptación.",
+        "counterpoint": "El gobierno sostiene que las medidas fomentarían la competencia y beneficiarían al comercio. La ABBT afirma que el decreto creó obligaciones no previstas en la ley y que se necesitan ajustes técnicos. La cautelar no es una sentencia definitiva sobre la legalidad del decreto, no abarca automáticamente a todas las empresas y puede modificarse mediante recurso. Los medios discrepan sobre el alcance de la suspensión de la interoperabilidad; debe prevalecer el texto íntegro de la resolución judicial. La fotografía es de archivo.",
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (12 de enero de 2025): transacción con terminal de pago en Río de Janeiro. Imagen ilustrativa; no muestra la resolución judicial del 9 de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "fachin-arquiva-inquerito-fake-news-stf-2026-11-10",
       "date": "2026-11-10",
