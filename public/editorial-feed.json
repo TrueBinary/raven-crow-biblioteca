@@ -1,6 +1,64 @@
 {
   "articles": [
     {
+      "id": "arabia-saudita-intercepta-tres-misseis-houthis-2026-11-10",
+      "date": "2026-11-10",
+      "category": "MUNDO",
+      "title": "Arábia Saudita diz ter interceptado três mísseis e drone em nova ofensiva atribuída aos houthis",
+      "subtitle": "Coalizão informou que dois projéteis foram destruídos perto de Riade e outro no sul do país; autoridades emitiram alertas à população.",
+      "facts": "A coalizão liderada pela Arábia Saudita afirmou nesta terça-feira, 10 de novembro de 2026, ter interceptado e destruído três mísseis e um drone lançados pelo movimento houthi, do Iêmen. Segundo o porta-voz militar Turki al-Maliki, um míssil balístico e um míssil de cruzeiro tinham como destino a região de Riade; outro míssil balístico foi interceptado na região sul e um drone foi abatido na Província Oriental. A Defesa Civil saudita emitiu alertas para Riade, Abha e Khamis Mushait e depois comunicou que o perigo havia passado. A Reuters e a Al Jazeera noticiaram os comunicados da coalizão. Os houthis não haviam reivindicado imediatamente os lançamentos descritos nesta terça-feira. Separadamente, a agência houthi Saba relatou ataques sauditas contra Sanaa, alegação que não estava confirmada pelas autoridades sauditas no momento das reportagens.",
+      "analysis": "A nova série de interceptações evidencia o agravamento da insegurança regional e o risco para centros urbanos e instalações energéticas sauditas. A escalada acontece após ataques anteriores contra edifícios da Aramco e infraestrutura de petróleo, enquanto o conflito no Iêmen e a guerra envolvendo o Irã ampliam a pressão sobre rotas de exportação de energia. O anúncio de interceptação não equivale a uma verificação independente de todos os detalhes militares; os números apresentados nesta notícia são os divulgados pela coalizão saudita. O impacto econômico depende da continuidade dos ataques, da segurança dos oleodutos e da situação dos estreitos de Hormuz e Bab el-Mandeb.",
+      "counterpoint": "Até o momento das reportagens consultadas, não havia reivindicação imediata dos houthis para esses lançamentos específicos. A cobertura de ataques contra Sanaa também inclui alegações das autoridades controladas pelos houthis que exigem confirmação independente. Não há base para afirmar que os mísseis tenham atingido o centro de Riade ou causado vítimas nesta rodada. A imagem é uma foto de arquivo da cidade em 2022 e não mostra os ataques ou as interceptações.",
+      "sources": [
+        {
+          "name": "Reuters — Saudi-led coalition says it intercepts Houthi missiles (10/11/2026)",
+          "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/"
+        },
+        {
+          "name": "Al Jazeera — Saudi Arabia downs missiles fired at Riyadh (10/11/2026)",
+          "url": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline"
+        },
+        {
+          "name": "UOL — Defesa saudita intercepta dois mísseis houthis a caminho de Riad (10/11/2026)",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/10/defesa-saudita-intercepta-dois-misseis-houthis-a-caminho-de-riad.ghtm"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Riyadh_skyline.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Thesadcactus/Wikimedia Commons",
+          "license": "CC BY-SA 4.0 — atribuição e compartilhamento pela mesma licença (https://creativecommons.org/licenses/by-sa/4.0/)",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Riyadh_skyline.jpg",
+          "caption": "FOTO DE ARQUIVO (20/04/2022): vista de Riade, Arábia Saudita, a partir do Bairro Diplomático. A imagem não retrata as interceptações de 10/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Saudi Arabia says it intercepted three missiles and a drone in new attacks blamed on Houthis",
+        "subtitle": "Coalition says two projectiles were destroyed near Riyadh and another in the south, as authorities issued public warnings.",
+        "facts": "On November 10, 2026, the Saudi-led coalition said it intercepted and destroyed three missiles and a drone launched by Yemen's Houthi movement. Coalition spokesman Turki al-Maliki said a ballistic missile and a cruise missile were aimed at the Riyadh region, another ballistic missile was intercepted in southern Saudi Arabia, and a drone was brought down over the Eastern Province. Civil defence authorities issued alerts for Riyadh, Abha and Khamis Mushait before declaring the danger over. Reuters and Al Jazeera reported the coalition's statements. The Houthis had not immediately claimed responsibility for Tuesday's launches. Separately, the Houthi-run Saba agency reported Saudi strikes on Sanaa, a claim Saudi authorities had not confirmed at the time of reporting.",
+        "analysis": "The latest interceptions underline growing risks to Saudi cities and energy infrastructure amid renewed fighting in Yemen and a broader regional conflict involving Iran. Previous attacks damaged Aramco facilities and threatened oil infrastructure. The coalition's interception claims are not independently verified accounts of every military detail; the figures cited here come from Saudi officials. The economic consequences depend on whether attacks persist and on the security of pipelines and shipping through the Strait of Hormuz and Bab el-Mandeb.",
+        "counterpoint": "There was no immediate Houthi claim of responsibility for these specific launches at the time of the reports. Accounts of strikes on Sanaa from Houthi-run authorities also require independent corroboration. There is no basis to report that the missiles struck central Riyadh or caused casualties in this incident. The accompanying city photograph was taken in 2022 and does not depict the attacks or interceptions.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (April 20, 2022): View of Riyadh, Saudi Arabia, from the Diplomatic Quarter. It does not show the November 10, 2026 interceptions."
+        }
+      },
+      "es": {
+        "title": "Arabia Saudita afirma haber interceptado tres misiles y un dron en nuevos ataques atribuidos a los hutíes",
+        "subtitle": "La coalición asegura que destruyó dos proyectiles cerca de Riad y otro en el sur, mientras las autoridades alertaban a la población.",
+        "facts": "El 10 de noviembre de 2026, la coalición encabezada por Arabia Saudita afirmó haber interceptado y destruido tres misiles y un dron lanzados por el movimiento hutí de Yemen. Según su portavoz, Turki al-Maliki, un misil balístico y otro de crucero se dirigían a la región de Riad, un tercer misil balístico fue interceptado en el sur y un dron fue derribado en la Provincia Oriental. Protección Civil emitió alertas para Riad, Abha y Khamis Mushait y posteriormente anunció que el peligro había pasado. Reuters y Al Jazeera informaron sobre los comunicados de la coalición. Los hutíes no habían reivindicado inmediatamente los lanzamientos del martes. Por separado, la agencia Saba, controlada por los hutíes, denunció ataques saudíes contra Saná, una afirmación no confirmada por las autoridades saudíes en ese momento.",
+        "analysis": "Las nuevas interceptaciones muestran el aumento de los riesgos para las ciudades y las instalaciones energéticas saudíes en medio de la reanudación de los combates en Yemen y del conflicto regional que involucra a Irán. Ataques anteriores dañaron instalaciones de Aramco y amenazaron infraestructuras petroleras. Los datos de interceptación proceden de la coalición y no constituyen una verificación independiente de todos los detalles militares. Las consecuencias económicas dependerán de la continuidad de los ataques y de la seguridad de oleoductos y rutas marítimas por Ormuz y Bab el-Mandeb.",
+        "counterpoint": "Hasta el momento de las publicaciones, los hutíes no habían reivindicado estos lanzamientos concretos. Las denuncias de ataques contra Saná difundidas por autoridades hutíes también requieren corroboración independiente. No hay base para afirmar que los misiles alcanzaron el centro de Riad o causaron víctimas en este episodio. La fotografía de la ciudad es de 2022 y no muestra los ataques ni las interceptaciones.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (20 de abril de 2022): Vista de Riad, Arabia Saudita, desde el Barrio Diplomático. No muestra las interceptaciones del 10 de noviembre de 2026."
+        }
+      },
+      "firstSeen": "2026-11-10T04:00:39-03:00"
+    },
+    {
       "id": "justica-suspende-regras-vale-refeicao-abbt-2026-11-10",
       "date": "2026-11-10",
       "category": "ECONOMIA",
