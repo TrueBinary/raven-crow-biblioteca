@@ -2,9 +2,66 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "11/11/2026",
-  "updatedAt": "2026-11-11T04:02:57-03:00",
+  "updatedAt": "2026-11-11T05:04:06-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "navio-emirados-atacado-golfo-persico-ormuz-2026-11-11",
+      "date": "2026-11-11",
+      "category": "MUNDO",
+      "title": "Navio dos Emirados Árabes é atacado no Golfo Pérsico; tensão marítima persiste perto de Ormuz",
+      "subtitle": "Operadora confirma danos em embarcação nas águas dos Emirados; causa, responsáveis e eventual impacto sobre tripulantes ainda não foram detalhados.",
+      "facts": "Uma embarcação dos Emirados Árabes Unidos foi atacada e danificada na tarde de terça-feira, 10 de novembro de 2026, em águas territoriais emiradenses no Golfo Pérsico, informou o jornal The National, citando a operadora Adnoc Logistics and Services. Em comunicado, a empresa confirmou que equipes responsáveis atuavam na resposta ao incidente, mas não identificou publicamente o navio nem informou a extensão dos danos ou a existência de vítimas. O caso ocorre durante uma sequência de ataques e incidentes envolvendo navios comerciais nas proximidades do Estreito de Ormuz. Em reportagem de 11 de novembro, a Reuters registrou a continuidade das agressões à navegação e o impacto das incertezas sobre os preços do petróleo. A agência britânica de operações de comércio marítimo UKMTO também divulgou alertas sobre incidentes com petroleiros na região, mas esses relatos não devem ser automaticamente confundidos com o ataque específico à embarcação emiradense.",
+      "analysis": "O novo incidente aumenta a preocupação com a segurança de uma das principais rotas globais de transporte de petróleo e gás. Mesmo quando não interrompem por completo a passagem de navios, ataques podem elevar custos de seguro, frete, escolta e operações portuárias. O mercado de energia tem reagido de forma volátil aos sinais contraditórios de possível distensão entre Estados Unidos e Irã e à persistência de riscos no mar. Segundo a Reuters, os contratos futuros de petróleo voltaram a subir na quarta-feira depois de terem alcançado mínimas de dois meses na sessão anterior. É essencial separar o dano confirmado pela operadora das alegações sobre autoria ou mecanismo do ataque, ainda sem comprovação suficiente para este caso.",
+      "counterpoint": "A operadora confirmou danos e ações de resposta, mas não divulgou detalhes técnicos que permitam concluir como o ataque ocorreu, quem o executou ou se houve vítimas. As autoridades iranianas atribuem alguns incidentes na região a minas e rotas de navegação que consideram não autorizadas, enquanto outros países contestam a legitimidade dessas restrições. Essas declarações não provam responsabilidade iraniana neste ataque específico. Novos comunicados da empresa ou das autoridades marítimas podem esclarecer o ocorrido.",
+      "sources": [
+        {
+          "name": "The National — UAE ship attacked and damaged in Arabian Gulf (10/11/2026)",
+          "url": "https://www.thenationalnews.com/business/energy/2026/11/10/uae-ship-attacked-and-damaged-in-arabian-gulf/"
+        },
+        {
+          "name": "Reuters — Oil rebounds as Hormuz shipping attacks blunt hopes for Iran truce (11/11/2026)",
+          "url": "https://www.reuters.com/business/energy/oil-rises-two-month-low-hormuz-shipping-attacks-offset-iran-truce-hopes-2026-11-11/"
+        },
+        {
+          "name": "Reuters — Tankers continue to burn in the Middle East despite hopes for de-escalation (10/11/2026)",
+          "url": "https://www.reuters.com/business/energy/tankers-continue-burn-middle-east-despite-hopes-de-escalation-2026-11-10/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Flickr_-_Official_U.S._Navy_Imagery_-_U.S._Navy_ships_transit_the_Strait_of_Hormuz..jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público nos Estados Unidos — obra oficial de militar da Marinha dos EUA; https://commons.wikimedia.org/wiki/File:Flickr_-_Official_U.S._Navy_Imagery_-_U.S._Navy_ships_transit_the_Strait_of_Hormuz..jpg",
+          "credit": "Alex R. Forster / U.S. Navy / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Flickr_-_Official_U.S._Navy_Imagery_-_U.S._Navy_ships_transit_the_Strait_of_Hormuz..jpg",
+          "caption": "FOTO DE ARQUIVO (11/05/2012): navios da Marinha dos EUA atravessam o Estreito de Ormuz. Alex R. Forster / U.S. Navy / Wikimedia Commons. A imagem não retrata o ataque à embarcação emiradense de 10/11/2026."
+        }
+      ],
+      "en": {
+        "title": "UAE vessel attacked in Persian Gulf as shipping risks persist near Hormuz",
+        "subtitle": "Operator confirms damage in UAE waters; cause, responsibility and any casualties have not been disclosed.",
+        "facts": "A vessel from the United Arab Emirates was attacked and damaged in UAE territorial waters in the Persian Gulf on the afternoon of Tuesday, November 10, 2026, The National reported, citing operator Adnoc Logistics and Services. In a statement, the company confirmed that response teams were working on the incident but did not publicly identify the ship, detail the damage or say whether anyone was injured. The incident comes amid a series of attacks and maritime incidents involving commercial shipping near the Strait of Hormuz. Reuters reported on November 11 that attacks on shipping were continuing and that uncertainty was affecting oil prices. The United Kingdom Maritime Trade Operations (UKMTO) also issued warnings about tanker incidents in the region, but those reports should not automatically be conflated with this particular UAE vessel attack.",
+        "analysis": "The incident adds to concerns about security along a major global oil and gas shipping route. Even without a complete closure, attacks can raise insurance, freight, escort and port operating costs. Energy markets have been volatile amid conflicting signals of possible US-Iran de-escalation and continued threats at sea. Reuters reported that oil futures rebounded on Wednesday after hitting two-month lows in the previous session. Confirmed damage reported by the operator must be distinguished from unverified claims about who was responsible or how the attack was carried out.",
+        "counterpoint": "The operator confirmed damage and a response effort but released no technical details establishing how the incident occurred, who carried it out or whether there were casualties. Iranian authorities have attributed some regional incidents to mines and shipping routes they regard as unauthorized, while other governments dispute those restrictions. Such statements do not establish Iranian responsibility for this particular incident. Further company or maritime authority statements may clarify the circumstances.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (May 11, 2012): US Navy vessels transiting the Strait of Hormuz. Alex R. Forster / US Navy / Wikimedia Commons. This image does not depict the November 10, 2026 attack on the UAE vessel."
+        }
+      },
+      "es": {
+        "title": "Atacan un buque de Emiratos Árabes Unidos en el golfo Pérsico mientras persisten los riesgos cerca de Ormuz",
+        "subtitle": "La operadora confirma daños en aguas emiratíes; no se han detallado la causa, los responsables ni posibles víctimas.",
+        "facts": "Un buque de Emiratos Árabes Unidos fue atacado y sufrió daños en aguas territoriales emiratíes del golfo Pérsico durante la tarde del martes 10 de noviembre de 2026, informó The National citando a la operadora Adnoc Logistics and Services. En un comunicado, la empresa confirmó que los equipos responsables estaban atendiendo el incidente, pero no identificó públicamente el barco ni precisó el alcance de los daños o si hubo heridos. El suceso se produce en medio de una serie de ataques e incidentes marítimos contra embarcaciones comerciales cerca del estrecho de Ormuz. Reuters informó el 11 de noviembre de que los ataques a la navegación continuaban y de que la incertidumbre afectaba a los precios del petróleo. El centro británico de operaciones comerciales marítimas (UKMTO) también emitió alertas sobre incidentes con petroleros en la región, aunque esos informes no deben confundirse automáticamente con el ataque específico al buque emiratí.",
+        "analysis": "El incidente incrementa la preocupación por la seguridad de una ruta fundamental para el transporte mundial de petróleo y gas. Incluso sin un cierre total, los ataques pueden elevar los costes de seguros, fletes, escoltas y operaciones portuarias. Los mercados energéticos han mostrado volatilidad ante señales contradictorias de una posible distensión entre Estados Unidos e Irán y la persistencia de amenazas en el mar. Reuters señaló que los futuros del petróleo repuntaron el miércoles tras alcanzar mínimos de dos meses en la sesión anterior. Los daños confirmados por la operadora deben distinguirse de las afirmaciones no verificadas sobre la autoría o el mecanismo del ataque.",
+        "counterpoint": "La operadora confirmó daños y trabajos de respuesta, pero no divulgó detalles técnicos que permitan establecer cómo ocurrió el ataque, quién lo ejecutó o si hubo víctimas. Las autoridades iraníes atribuyen algunos incidentes regionales a minas y rutas de navegación que consideran no autorizadas, mientras otros gobiernos cuestionan esas restricciones. Estas declaraciones no prueban la responsabilidad iraní en este caso concreto. Nuevos comunicados de la empresa o de las autoridades marítimas podrían aclarar lo sucedido.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (11 de mayo de 2012): buques de la Armada estadounidense cruzan el estrecho de Ormuz. Alex R. Forster / US Navy / Wikimedia Commons. La imagen no muestra el ataque al buque emiratí del 10 de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "lula-erdogan-turquia-cooperacao-defesa-minerais-criticos-2026-11-11",
       "date": "2026-11-11",
