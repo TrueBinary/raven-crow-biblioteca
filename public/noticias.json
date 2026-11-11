@@ -6,6 +6,63 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "governo-propoe-ajuste-fiscal-ate-60-bilhoes-2027-2026-11-11",
+      "date": "2026-11-11",
+      "category": "ECONOMIA",
+      "title": "Governo propõe ajuste fiscal de até R$ 60 bilhões para 2027 e quer limitar crescimento de despesas",
+      "subtitle": "Bruno Moretti anuncia pacote com redução de benefícios tributários e novas travas orçamentárias; medidas ainda dependem do Congresso.",
+      "facts": "O ministro do Planejamento e Orçamento, Bruno Moretti, afirmou nesta quarta-feira, 11 de novembro de 2026, que o governo prepara um projeto de lei complementar com impacto estimado entre R$ 50 bilhões e R$ 60 bilhões sobre as contas públicas em 2027. Em audiência na Comissão Mista de Orçamento, o ministro explicou que o texto prevê novas possibilidades de bloqueio de gastos, capazes de limitar a expansão real das despesas a 2% ao ano, abaixo do teto de 2,5% do arcabouço fiscal. O pacote também inclui redução de benefícios tributários, limites a compensações de tributos e alterações no cálculo de despesas vinculadas à receita do petróleo. Segundo a Folha de S.Paulo, o senador Jaques Wagner (PT-BA) apresentaria a proposta e Eduardo Braga (MDB-AM) poderia relatá-la. Reuters e UOL também noticiaram os valores e o conteúdo do anúncio. Trata-se de proposta, não de economia já realizada nem de lei aprovada.",
+      "analysis": "A iniciativa tenta reforçar a credibilidade da meta de superávit primário de 0,5% do PIB em 2027, em meio à pressão da dívida pública e dos juros. A contenção adicional de gastos, estimada em R$ 12,8 bilhões, e a revisão de incentivos fiscais distribuem o esforço entre redução de despesas e aumento potencial de arrecadação. A exclusão de receitas extraordinárias do petróleo da base de cálculo de obrigações vinculadas pode reduzir o crescimento de determinadas despesas, inclusive na saúde, e exige exame cuidadoso de seus efeitos. A execução depende do texto final, da aprovação legislativa e do comportamento efetivo das receitas e despesas.",
+      "counterpoint": "O impacto de R$ 50 bilhões a R$ 60 bilhões é projeção apresentada pelo governo, não resultado auditado. A tramitação pode alterar as medidas, e cortes de benefícios tributários podem enfrentar resistência de setores econômicos. Mudanças nas bases de cálculo de gastos obrigatórios, especialmente em saúde, merecem avaliação de consequências sociais e jurídicas. A proposta busca cumprir metas fiscais, mas o alcance real dependerá de aprovação, implementação e execução do orçamento.",
+      "sources": [
+        {
+          "name": "Reuters — Brazil unveils fiscal package worth up to $10.8 billion for next year (11/11/2026)",
+          "url": "https://www.reuters.com/world/americas/brazil-unveil-fiscal-package-worth-up-108-billion-next-year-minister-says-2026-11-11/"
+        },
+        {
+          "name": "Folha de S.Paulo — Medidas fiscais terão impacto de cerca de R$ 60 bi, diz Moretti (11/11/2026)",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/11/medidas-fiscais-terao-impacto-de-cerca-de-r-60-bi-e-podem-ser-votadas-hoje-diz-ministro-do-planejamento.shtml"
+        },
+        {
+          "name": "UOL — Projeto com medidas de ajuste terá impacto de até R$ 60 bi (11/11/2026)",
+          "url": "https://economia.uol.com.br/colunas/jessica-sant-ana/2026/11/11/projeto-com-medidas-de-ajuste-tera-impacto-de-ate-r-60-bi-diz-moretti.ghtm"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Pal%C3%A1cio_do_Congresso_Nacional_-_Bras%C3%ADlia_-_20250924230932.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) — https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Túllio F / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_do_Congresso_Nacional_-_Bras%C3%ADlia_-_20250924230932.jpg",
+          "caption": "FOTO DE ARQUIVO (24/09/2025): Palácio do Congresso Nacional, em Brasília, onde será analisada a proposta de ajuste fiscal. Túllio F / Wikimedia Commons (CC BY-SA 4.0). Não retrata o anúncio de 11/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Brazilian government proposes fiscal measures worth up to R$ 60 billion for 2027",
+        "subtitle": "Planning Minister Bruno Moretti outlines tax-break reductions and tighter spending controls; Congress has yet to approve the measures.",
+        "facts": "On November 11, 2026, Planning and Budget Minister Bruno Moretti said Brazil's government was preparing a supplementary bill expected to improve public finances by R$ 50 billion to R$ 60 billion in 2027. Speaking before Congress's Joint Budget Committee, Moretti said the proposal would authorize additional spending freezes to restrict real expenditure growth to 2% a year, compared with the current fiscal framework's 2.5% ceiling. The package also includes cuts to tax benefits, limits on tax-credit offsets and changes to how extraordinary oil revenue is counted for mandatory spending calculations. Folha de S.Paulo reported that Senator Jaques Wagner (PT-BA) would introduce the bill and Senator Eduardo Braga (MDB-AM) could serve as rapporteur. Reuters and UOL independently reported the announcement. The figures are government projections, not savings already achieved, and the bill has not yet been enacted.",
+        "analysis": "The package is intended to support the government's 2027 primary-surplus target of 0.5% of GDP amid debt and interest-rate pressures. An additional spending restraint estimated at R$ 12.8 billion and reduced tax breaks would combine expenditure control with potentially higher revenue. Excluding extraordinary oil receipts from the calculation base for mandatory expenditure could curb spending growth, including in healthcare, and requires scrutiny of its consequences. The outcome will depend on the final bill, congressional approval and actual budget execution.",
+        "counterpoint": "The projected R$ 50 billion to R$ 60 billion impact is a government estimate rather than audited savings. Congress may amend the measures, and businesses benefiting from tax incentives may oppose the cuts. Changes affecting mandatory spending, particularly healthcare, require social and legal assessment. Meeting fiscal targets will depend on implementation and actual revenues and expenditures.",
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (September 24, 2025): Brazil's National Congress building in Brasília, where the fiscal proposal is expected to be debated. Túllio F / Wikimedia Commons (CC BY-SA 4.0). It does not show the November 11, 2026 announcement."
+        }
+      },
+      "es": {
+        "title": "El Gobierno brasileño propone un ajuste fiscal de hasta R$ 60.000 millones para 2027",
+        "subtitle": "Bruno Moretti anuncia recortes de beneficios tributarios y nuevas restricciones al gasto; las medidas aún necesitan aprobación del Congreso.",
+        "facts": "El 11 de noviembre de 2026, el ministro de Planificación y Presupuesto, Bruno Moretti, anunció que el Gobierno prepara un proyecto de ley complementaria con un impacto estimado de entre R$ 50.000 millones y R$ 60.000 millones en las cuentas públicas de 2027. Ante la Comisión Mixta de Presupuesto, Moretti explicó que la propuesta permitiría nuevas congelaciones de recursos para limitar el crecimiento real del gasto al 2% anual, frente al máximo del 2,5% previsto en el marco fiscal vigente. El paquete también contempla recortes de beneficios tributarios, límites a las compensaciones fiscales y cambios en el cálculo de los ingresos petroleros extraordinarios utilizados para determinar gastos obligatorios. Según Folha de S.Paulo, el senador Jaques Wagner (PT-BA) presentaría el proyecto y Eduardo Braga (MDB-AM) podría actuar como ponente. Reuters y UOL también informaron del anuncio. Son estimaciones oficiales, no ahorros realizados ni una ley ya aprobada.",
+        "analysis": "El paquete busca reforzar la meta de superávit primario del 0,5% del PIB para 2027, en un contexto de presión de la deuda y los intereses. La contención adicional del gasto, estimada en R$ 12.800 millones, y la reducción de incentivos fiscales combinarían menores desembolsos con una posible mayor recaudación. Excluir ingresos extraordinarios del petróleo de la base de cálculo de gastos obligatorios podría limitar el aumento de partidas, incluida la sanidad, por lo que sus consecuencias merecen un análisis detallado. El resultado dependerá del texto final, de la aprobación legislativa y de la ejecución presupuestaria.",
+        "counterpoint": "El impacto previsto de R$ 50.000 millones a R$ 60.000 millones es una proyección del Gobierno, no un ahorro auditado. El Congreso podría modificar las medidas, y los sectores beneficiados por incentivos tributarios pueden oponerse. Los cambios que afecten al gasto obligatorio, especialmente en sanidad, requieren evaluación social y jurídica. Cumplir las metas fiscales dependerá de la aplicación de las normas y de los ingresos y gastos efectivos.",
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (24 de septiembre de 2025): edificio del Congreso Nacional de Brasil, en Brasilia, donde se debatiría la propuesta fiscal. Túllio F / Wikimedia Commons (CC BY-SA 4.0). No muestra el anuncio del 11 de noviembre de 2026."
+        }
+      }
+    },
+    {
       "id": "ataque-drones-porto-ust-luga-incendio-tres-feridos-2026-11-11",
       "date": "2026-11-11",
       "category": "MUNDO",
