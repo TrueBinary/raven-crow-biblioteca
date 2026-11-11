@@ -70,7 +70,7 @@ def _head(lang, title, desc, url, alternates, css, extra=""):
 
 def _top(lang, prefix, pt_href):
     return ('<header class="rc-top"><div class="rc-line"><a class="rc-brand" href="' + prefix + lang + '/"><i aria-hidden="true"></i>RAVEN CROW</a>'
-            '<nav aria-label="Sections"><a href="' + prefix + lang + '/">' + LANGS[lang]["nav"] + '</a><a href="' + pt_href + '" hreflang="pt-BR">Português</a></nav></div>'
+            '</div>'  # idioma: seletor PT·EN·ES do Worker (o link "Português" repetia o PT)
             '<img class="rc-logo" src="' + prefix + 'raven-logo.webp" alt="" width="56" height="56"></header>')
 
 
