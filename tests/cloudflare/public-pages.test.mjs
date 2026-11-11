@@ -67,6 +67,8 @@ test('stylesheet that does not exist is blocking', () => {
 
 test('ad slot without PUBLICIDADE label, or ads.txt without publisher', () => {
   assert.match(run(site({ 'index.html': head('https://ravencrow.cloud/', ld('WebSite')) + '<ins class="adsbygoogle"></ins>' })).errors.join(), /ad without label/);
+  // /en/ e /es/ levam a etiqueta traduzida (ADVERTISING / PUBLICIDAD).
+  assert.deepEqual(run(site({ 'index.html': head('https://ravencrow.cloud/', ld('WebSite')) + '<ins class="adsbygoogle"></ins><span>ADVERTISING</span>' })).errors, []);
   assert.match(run(site({ 'public/ads.txt': '' })).errors.join(), /ads\.txt/);
 });
 

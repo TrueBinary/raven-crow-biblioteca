@@ -51,22 +51,12 @@ page='''<!doctype html><html lang="pt-BR"><head>
 <script defer src="raven-frontpage.js"></script><script defer src="raven-analytics.js"></script>
 </body></html>'''
 (PUBLIC/'noticias.html').write_text(page,encoding='utf-8')
-# Homepage: plain links to the newest articles inside .rc-mag-main, so crawlers find them without running JS.
-# raven-frontpage.js empties .rc-mag-main and draws the magazine on top, so the visible page does not change.
-latest=sorted((a for a in articles if re.fullmatch(r'[a-z0-9-]{3,100}',str(a.get('id','')))),key=lambda a:a.get('date',''),reverse=True)[:12]
-static='<ul class="rc-static-links">'+''.join(f'<li><a href="noticias/{escape(a["id"],quote=True)}/">{escape(a.get("title",""))}</a></li>' for a in latest)+'</ul>'
-home_now=(ROOT/'index.html').read_text(encoding='utf-8')
-home_new=re.sub(r'<div class="rc-mag-main">(?:<ul class="rc-static-links">.*?</ul>)?</div>',lambda m:'<div class="rc-mag-main">'+static+'</div>',home_now,count=1,flags=re.S)
-if 'rc-static-links' not in home_new:raise RuntimeError('Homepage .rc-mag-main container missing')
-# Preload the lead story's photo so the browser finds the LCP image in the HTML instead of after JS + feed fetch.
-# Must pick the same story and sizes as raven-frontpage.js (first valid article, photo from editorial-images.json).
+# Capa: destaque + últimas notícias já em HTML (frontpage_static.py), sem o pulo de layout do JS trocando a lista.
+from frontpage_static import inject, render_main
 images=json.loads((PUBLIC/'editorial-images.json').read_text(encoding='utf-8'))
-lead=next((a for a in articles if re.fullmatch(r'[a-z0-9-]{3,100}',str(a.get('id','')))),{})
-v=None if lead.get('image') else images.get('photoVariants',{}).get(lead.get('id'))
-preload=(f'<link rel="preload" as="image" data-rc-lead href="{escape(v["src"],quote=True)}" imagesrcset="{escape(v["srcset"],quote=True)}" '
-         'imagesizes="(max-width: 900px) 100vw, 900px" fetchpriority="high">') if v else ''
-home_new=re.sub(r'<link rel="preload" as="image" data-rc-lead[^>]*>','',home_new)
-home_new=home_new.replace('</head>',preload+'</head>',1)
+home_now=(ROOT/'index.html').read_text(encoding='utf-8')
+home_new=inject(home_now,render_main(articles,images,'pt'))
+home_new=re.sub(r'<link rel="preload" as="image" data-rc-lead[^>]*>','',home_new)  # a <img> do destaque já está no HTML
 from newsletter import block as newsletter_block
 nl=newsletter_block('home')
 home_new=re.sub(r'<!-- rc-newsletter:start -->.*?<!-- rc-newsletter:end -->',lambda m:'<!-- rc-newsletter:start -->'+(f'<div class="wrap">{nl}</div>' if nl else '')+'<!-- rc-newsletter:end -->',home_new,count=1,flags=re.S)

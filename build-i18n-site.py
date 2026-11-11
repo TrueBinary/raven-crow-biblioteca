@@ -12,6 +12,7 @@ import sys
 from pathlib import Path
 
 from news_i18n import LANGS, PAGE_SLUGS, SECTIONS, block as news_block
+from frontpage_static import inject, render_main
 
 ROOT = Path(__file__).resolve().parent
 PUBLIC = ROOT / "public"
@@ -154,6 +155,7 @@ def build(extract=False, write=True):
     feed = json.loads((PUBLIC / "editorial-feed.json").read_text(encoding="utf-8")).get("articles", [])
     essays = json.loads((PUBLIC / "coluna-ensaios.json").read_text(encoding="utf-8")).get("essays", [])
     books = json.loads((PUBLIC / "livros.json").read_text(encoding="utf-8"))
+    images = json.loads((PUBLIC / "editorial-images.json").read_text(encoding="utf-8"))
     tail_pt = "A importância dos vínculos, do cuidado, da educação e da fé vivida em casa."
     missing = {}
     for lang in LANGS:
@@ -167,7 +169,11 @@ def build(extract=False, write=True):
             src = re.sub(r"<!-- raven-seo:start -->.*?<!-- raven-seo:end -->\n?", "", src, flags=re.S)
             src = re.sub(r'<link rel="preload" as="image" data-rc-lead[^>]*>', "", src)
             src = drop_untranslated(src, done_news, done_essays)
+            if not name:  # capa: a revista em HTML é refeita no idioma depois de traduzir o resto
+                src = inject(src, "")
             out = t.page(src)
+            if not name:
+                out = inject(out, render_main(feed, images, lang))
             out = out.replace('<html lang="pt-BR">', f'<html lang="{lang}">', 1)
             out = re.sub(r'("(?:canonical)"\s+href=|property="og:url"\s+content=)"' + re.escape(BASE) + r'/(?:index\.html)?' + re.escape(pt_url(name).lstrip("/")) + '"',
                          lambda m: m.group(1) + '"' + BASE + local_url(lang, name) + '"', out)

@@ -33,7 +33,7 @@ export function validatePublicPages(src) {
       const css = repoPath(new URL(href, base).pathname);
       if (!src.exists(css)) errors.push(`${loc}: stylesheet ${css} missing`);
     }
-    if (/adsbygoogle|data-ad-slot/.test(html) && !/publicidade/i.test(html)) errors.push(`${loc}: ad without label PUBLICIDADE`);
+    if (/adsbygoogle|data-ad-slot/.test(html) && !/publicidad|advertising/i.test(html)) errors.push(`${loc}: ad without label PUBLICIDADE`);
     if (!/raven-analytics\.js/.test(html)) warnings.push(`${loc}: no analytics script`);
     if (path === 'index.html' && !/"@type":\s*"WebSite"/.test(html)) errors.push('home: WebSite schema missing');
     if (/^public\/(noticias|coluna)\/[^/]+\/index\.html$/.test(path) && !/"@type":\s*"(News)?Article"/.test(html)) warnings.push(`${loc}: Article schema missing`);
