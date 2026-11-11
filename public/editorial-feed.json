@@ -1,6 +1,64 @@
 {
   "articles": [
     {
+      "id": "russia-afirma-interceptar-92-drones-regiao-leningrado-2026-11-11",
+      "date": "2026-11-11",
+      "category": "MUNDO",
+      "title": "Rússia afirma ter derrubado 92 drones na região de Leningrado, perto de portos estratégicos",
+      "subtitle": "Governador russo relata interceptações na madrugada de quarta-feira; Reuters não conseguiu confirmar o número de forma independente.",
+      "facts": "Na madrugada de quarta-feira, 11 de novembro de 2026, o governador da região russa de Leningrado, Aleksandr Drozdenko, afirmou que as defesas antiaéreas derrubaram 92 drones na região, no noroeste da Rússia. O número é uma declaração oficial russa, não uma contagem comprovada de maneira independente: a Reuters registrou expressamente que não conseguiu verificar a informação. A região abriga os portos bálticos de Ust-Luga, Primorsk e Vysotsk, importantes para exportações russas de petróleo e grãos, além da refinaria de Kirishi. O relato ocorre após um ataque de drone na segunda-feira, 9 de novembro, que provocou incêndio na refinaria de Kirishi; autoridades também informaram a morte de uma mulher na região. Não há confirmação independente, nesta apuração, de que os 92 drones tenham atingido os portos ou causado novos danos às instalações.",
+      "analysis": "O alerta evidencia a vulnerabilidade de corredores logísticos russos próximos ao mar Báltico, relevantes para receitas de exportação e abastecimento energético. Interceptações anunciadas por autoridades não permitem concluir, por si, a dimensão real do ataque nem identificar os alvos de cada aeronave. O episódio coincide com negociações entre Rússia, Ucrânia e Estados Unidos em Abu Dhabi, retomadas após meses de impasse. A continuidade de ações militares durante a diplomacia reforça a distância entre conversações e redução efetiva das hostilidades. É importante distinguir o ataque relatado nesta madrugada dos danos documentados à refinaria de Kirishi no dia 9.",
+      "counterpoint": "O governo regional russo sustenta que suas forças interceptaram os drones, mas o balanço de 92 permanece sem verificação independente. Não se deve tratar essa cifra como perda confirmada de aeronaves ucranianas nem inferir destruição de portos ou instalações petrolíferas. Também não há confirmação pública suficiente, nesta rodada, sobre a autoria de cada lançamento. Novas informações de autoridades e observadores independentes poderão alterar o balanço.",
+      "sources": [
+        {
+          "name": "Reuters — Russia shoots down 92 drones over Leningrad region (11/11/2026)",
+          "url": "https://www.reuters.com/world/europe/russia-shoots-down-92-drones-over-leningrad-region-2026-11-11/"
+        },
+        {
+          "name": "Mezha — Drones attack Russia’s Leningrad Region; relato do governador (11/11/2026)",
+          "url": "https://mezha.net/eng/news/mezha-1a2aa30394e39856d9d3ee45_drones_attack_russia-s/"
+        },
+        {
+          "name": "The Moscow Times — incêndio na refinaria Kirishi em 09/11/2026 (contexto)",
+          "url": "https://www.themoscowtimes.com/2026/11/09/ukrainian-drone-attack-kills-woman-sparks-fire-at-leningrad-region-refinery-a94204"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/%D0%A3%D1%81%D1%82%D1%8C-%D0%9B%D1%83%D0%B3%D0%B0%2C_%D0%BF%D0%BE%D1%80%D1%82_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Красный / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:%D0%A3%D1%81%D1%82%D1%8C-%D0%9B%D1%83%D0%B3%D0%B0,_%D0%BF%D0%BE%D1%80%D1%82_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83.jpg",
+          "caption": "FOTO DE ARQUIVO (13/06/2021): vista aérea do porto de Ust-Luga, na região russa de Leningrado. A imagem não mostra a atividade de drones relatada em 11/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Russia says it shot down 92 drones over Leningrad region near strategic ports",
+        "subtitle": "Regional governor reports overnight interceptions; Reuters says it could not independently verify the figure.",
+        "facts": "Early on Wednesday, November 11, 2026, Leningrad region Governor Aleksandr Drozdenko said Russian air defenses had shot down 92 drones in the northwestern region. The number is a Russian official claim, not an independently verified count: Reuters explicitly said it could not confirm the report. The region includes the Baltic ports of Ust-Luga, Primorsk and Vysotsk, important to Russian oil and grain exports, and the Kirishi oil refinery. The announcement follows a November 9 drone strike that set part of the Kirishi refinery on fire; authorities also reported that a woman was killed in the region. This reporting does not independently establish that the 92 drones hit the ports or caused new damage to facilities.",
+        "analysis": "The alert underscores the exposure of Russian logistics corridors along the Baltic, which matter to export revenue and energy supply. An official interception tally alone cannot establish the true scale of an attack or the intended target of each aircraft. The episode comes as Russia, Ukraine and the United States resume negotiations in Abu Dhabi after months of deadlock. Continued military activity alongside diplomacy highlights the gap between talks and a reduction in hostilities. The reported events on November 11 should not be confused with the separately documented Kirishi refinery fire on November 9.",
+        "counterpoint": "Russian regional authorities say air defenses intercepted the drones, but the figure of 92 has not been independently verified. It should not be presented as a confirmed number of Ukrainian aircraft lost, nor as evidence that ports or oil installations were destroyed. The origin of each drone has not been sufficiently established in this reporting. Later official and independent accounts may revise the tally.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (June 13, 2021): aerial view of Ust-Luga port in Russia's Leningrad region. The image does not depict the reported drone activity of November 11, 2026."
+        }
+      },
+      "es": {
+        "title": "Rusia afirma haber derribado 92 drones en la región de Leningrado, cerca de puertos estratégicos",
+        "subtitle": "El gobernador regional informa de interceptaciones durante la madrugada; Reuters no pudo verificar la cifra de manera independiente.",
+        "facts": "En la madrugada del miércoles 11 de noviembre de 2026, el gobernador de la región rusa de Leningrado, Aleksandr Drozdenko, afirmó que las defensas antiaéreas derribaron 92 drones en esta zona del noroeste del país. Se trata de una declaración oficial rusa, no de un recuento comprobado de forma independiente: Reuters señaló expresamente que no pudo verificar la información. La región alberga los puertos bálticos de Ust-Luga, Primorsk y Vysotsk, importantes para las exportaciones rusas de petróleo y cereales, además de la refinería de Kirishi. El anuncio llega después de un ataque con drones del 9 de noviembre que provocó un incendio en la refinería de Kirishi; las autoridades también informaron de la muerte de una mujer en la región. Esta investigación no confirma que los 92 drones alcanzaran los puertos o causaran nuevos daños.",
+        "analysis": "La alerta pone de relieve la exposición de los corredores logísticos rusos del Báltico, relevantes para los ingresos por exportaciones y el suministro energético. Una cifra oficial de interceptaciones no permite establecer por sí sola la magnitud real del ataque ni el objetivo de cada aeronave. El episodio coincide con la reanudación de las negociaciones entre Rusia, Ucrania y Estados Unidos en Abu Dabi tras meses de bloqueo. La actividad militar paralela a la diplomacia muestra la distancia entre las conversaciones y una reducción efectiva de las hostilidades. Conviene distinguir los sucesos del 11 de noviembre del incendio documentado en la refinería de Kirishi el día 9.",
+        "counterpoint": "Las autoridades regionales rusas sostienen que las defensas interceptaron los drones, pero la cifra de 92 no ha sido verificada de manera independiente. No debe presentarse como una cantidad confirmada de aeronaves ucranianas perdidas ni como prueba de la destrucción de puertos o instalaciones petroleras. Tampoco se ha establecido suficientemente el origen de cada dron en esta cobertura. Nuevos informes oficiales e independientes podrían modificar el balance.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (13 de junio de 2021): vista aérea del puerto de Ust-Luga, en la región rusa de Leningrado. La imagen no muestra la actividad de drones comunicada el 11 de noviembre de 2026."
+        }
+      },
+      "firstSeen": "2026-11-11T01:02:48-03:00"
+    },
+    {
       "id": "papa-leao-xiv-vigilia-jovens-buenos-aires-2026-11-10",
       "date": "2026-11-10",
       "category": "MUNDO",

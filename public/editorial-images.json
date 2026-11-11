@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "russia-afirma-interceptar-92-drones-regiao-leningrado-2026-11-11": "editorial/covers/russia-afirma-interceptar-92-drones-regiao-leningrado-2026-11-11.svg",
     "papa-leao-xiv-vigilia-jovens-buenos-aires-2026-11-10": "editorial/covers/papa-leao-xiv-vigilia-jovens-buenos-aires-2026-11-10.svg",
     "dolar-fecha-5586-maior-15-meses-inflacao-eua-2026-11-10": "editorial/covers/dolar-fecha-5586-maior-15-meses-inflacao-eua-2026-11-10.svg",
     "arabia-saudita-intercepta-misseis-houthis-riade-2026-11-10": "editorial/covers/arabia-saudita-intercepta-misseis-houthis-riade-2026-11-10.svg",
@@ -181,7 +182,8 @@
     "merz-condiciona-orcamento-ue-apoio-ucrania-fico-reage-2026-11-10": "editorial/photos/merz-condiciona-orcamento-ue-apoio-ucrania-fico-reage-2026-11-10.jpg",
     "arabia-saudita-intercepta-misseis-houthis-riade-2026-11-08": "editorial/photos/arabia-saudita-intercepta-misseis-houthis-riade-2026-11-08.jpg",
     "polonia-luto-nacional-ataque-cracovia-2026-11-08": "editorial/photos/polonia-luto-nacional-ataque-cracovia-2026-11-08.jpg",
-    "papa-leao-xiv-vigilia-jovens-buenos-aires-2026-11-10": "editorial/photos/papa-leao-xiv-vigilia-jovens-buenos-aires-2026-11-10.jpg"
+    "papa-leao-xiv-vigilia-jovens-buenos-aires-2026-11-10": "editorial/photos/papa-leao-xiv-vigilia-jovens-buenos-aires-2026-11-10.jpg",
+    "russia-afirma-interceptar-92-drones-regiao-leningrado-2026-11-11": "editorial/photos/russia-afirma-interceptar-92-drones-regiao-leningrado-2026-11-11.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -669,6 +671,12 @@
       "srcset": "editorial/photos/papa-leao-xiv-vigilia-jovens-buenos-aires-2026-11-10-320.webp 320w, editorial/photos/papa-leao-xiv-vigilia-jovens-buenos-aires-2026-11-10-640.webp 640w, editorial/photos/papa-leao-xiv-vigilia-jovens-buenos-aires-2026-11-10-643.webp 643w",
       "width": 643,
       "height": 787
+    },
+    "russia-afirma-interceptar-92-drones-regiao-leningrado-2026-11-11": {
+      "src": "editorial/photos/russia-afirma-interceptar-92-drones-regiao-leningrado-2026-11-11-1280.webp",
+      "srcset": "editorial/photos/russia-afirma-interceptar-92-drones-regiao-leningrado-2026-11-11-320.webp 320w, editorial/photos/russia-afirma-interceptar-92-drones-regiao-leningrado-2026-11-11-640.webp 640w, editorial/photos/russia-afirma-interceptar-92-drones-regiao-leningrado-2026-11-11-1280.webp 1280w",
+      "width": 1280,
+      "height": 960
     }
   }
 }
