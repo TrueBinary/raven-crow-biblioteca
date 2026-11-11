@@ -2,9 +2,49 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "11/11/2026",
-  "updatedAt": "2026-11-11T06:01:47-03:00",
+  "updatedAt": "2026-11-11T07:01:08-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "camara-aprova-mp-renegociacao-dividas-rurais-senado-prazo-2026-11-11",
+      "date": "2026-11-11",
+      "category": "POLÍTICA",
+      "title": "Câmara aprova renegociação de dívidas rurais; MP precisa passar pelo Senado antes de perder validade",
+      "subtitle": "Texto negociado com o agronegócio prevê juros diferenciados para produtores atingidos por eventos climáticos; votação no Senado ainda é necessária.",
+      "facts": "A Câmara dos Deputados aprovou na terça-feira, 10 de novembro de 2026, a Medida Provisória 1.376/2026, em texto substitutivo apresentado pelo relator Paulo Pimenta (PT-RS). A proposta permite renegociar dívidas de produtores e cooperativas rurais afetados por quebras de safra ligadas a eventos climáticos extremos entre 2019 e 2025. Segundo a Agência Câmara, a modalidade geral prevê juros de 6% ao ano para agricultores familiares do Pronaf, 9% para produtores do Pronamp e 12% para os demais, com limites e critérios específicos. O texto também cria condições especiais para produtores com perdas em três ou mais safras, com taxas de 5%, 8% e 11%, respectivamente. A data de referência para determinadas situações de inadimplência foi ampliada, e a proposta admite laudos coletivos para alguns beneficiários. A Câmara aprovou a MP, mas isso não equivale à conversão em lei: a proposta ainda depende de deliberação do Senado dentro do prazo legislativo.",
+      "analysis": "A renegociação tenta aliviar o endividamento rural causado por secas, enchentes e outros choques climáticos que prejudicaram a capacidade de pagamento dos produtores. O projeto amplia o acesso ao refinanciamento e estabelece carência, mas não elimina a dívida original. A efetividade dependerá de comprovação das perdas, regulamentação, disponibilidade de recursos para equalização de juros e aprovação final pelo Congresso. O prazo apertado no Senado torna a tramitação um ponto central: sem conclusão legislativa, as alterações aprovadas pela Câmara não se tornam automaticamente lei. A proposta foi negociada entre representantes do governo e do setor agropecuário, mas há divergências sobre o alcance e as condições financeiras.",
+      "counterpoint": "Parlamentares ligados ao agronegócio avaliam que juros, garantias e condições de acesso ainda podem ser insuficientes para parte dos produtores; o governo e a equipe econômica precisam considerar o custo fiscal e a disponibilidade orçamentária. A MP também contém dispositivo sobre subprodutos de tabaco, incluído no texto aprovado, que pode gerar controvérsia por não tratar diretamente de crédito rural. Até a confirmação da votação do Senado, não é correto afirmar que as novas regras já foram definitivamente aprovadas pelo Congresso.",
+      "sources": [
+        {
+          "name": "Agência Câmara — Câmara aprova renegociação de dívidas rurais (10/11/2026)",
+          "url": "https://www.camara.leg.br/noticias/1317852-camara-aprova-renegociacao-de-dividas-rurais-de-produtores-prejudicados-por-eventos-climaticos-extremos"
+        },
+        {
+          "name": "Senado Notícias — Renegociação avança em meio a divergências (10/11/2026)",
+          "url": "https://www12.senado.leg.br/noticias/audios/2026/11/renegociacao-de-dividas-rurais-avanca-no-congresso-em-meio-a-divergencias"
+        },
+        {
+          "name": "Estadão Conteúdo via UOL — Câmara aprova MP; texto segue ao Senado (10/11/2026)",
+          "url": "https://economia.uol.com.br/noticias/estadao-conteudo/2026/11/10/camara-aprova-mp-da-renegociacao-das-dividas-rurais-texto-segue-para-senado.htm"
+        }
+      ],
+      "en": {
+        "title": "Brazil's lower house approves rural debt renegotiation measure; Senate vote still needed",
+        "subtitle": "Negotiated bill offers differentiated interest rates to farmers hit by extreme weather, but must clear the Senate before the legislative deadline.",
+        "facts": "On Tuesday, November 10, 2026, Brazil's Chamber of Deputies approved Provisional Measure 1,376/2026 in a substitute text reported by lawmaker Paulo Pimenta (PT-RS). The measure would allow farmers and rural cooperatives affected by weather-related crop losses between 2019 and 2025 to refinance debts. According to the Chamber's official news service, the standard terms provide annual interest rates of 6% for family farmers under Pronaf (the National Program for Strengthening Family Farming), 9% for producers under Pronamp (the National Program to Support Medium-Sized Rural Producers), and 12% for other producers, subject to eligibility criteria and loan caps. Special terms for those with losses in three or more harvests provide rates of 5%, 8% and 11%, respectively. Some delinquency deadlines were extended and collective technical reports are allowed for certain applicants. Approval by the Chamber is not final enactment: the Senate must still vote within the legislative deadline.",
+        "analysis": "The measure aims to ease agricultural debt caused by droughts, flooding and other climate shocks that undermined producers' ability to repay loans. It broadens refinancing access and provides grace periods, but does not cancel existing debt. Its impact will depend on proof of losses, implementing rules, available funding for interest subsidies and final congressional approval. The approaching Senate deadline is decisive: changes approved by the Chamber do not automatically become law. The text emerged from negotiations between government representatives and the farm sector, although disputes remain over its scope and financial terms.",
+        "counterpoint": "Agribusiness lawmakers say interest rates, collateral and access conditions may still be insufficient for some farmers; fiscal authorities must also consider budget costs. The Chamber-approved text includes a provision on tobacco-related products that could be controversial because it is unrelated to agricultural credit. Until the Senate vote is confirmed, the new rules cannot be described as definitively passed by Congress.",
+        "category": "POLITICS"
+      },
+      "es": {
+        "title": "La Cámara de Brasil aprueba renegociar deudas rurales; aún falta la votación del Senado",
+        "subtitle": "El texto negociado ofrece tasas diferenciadas a productores afectados por fenómenos climáticos extremos, pero debe superar el trámite del Senado.",
+        "facts": "El martes 10 de noviembre de 2026, la Cámara de Diputados de Brasil aprobó la Medida Provisional 1.376/2026, mediante un texto sustitutivo del diputado Paulo Pimenta (PT-RS). La propuesta permitiría refinanciar deudas de productores y cooperativas rurales perjudicados por pérdidas de cosechas relacionadas con fenómenos climáticos extremos entre 2019 y 2025. Según la Agencia Cámara, las condiciones generales contemplan intereses anuales del 6 % para agricultores familiares del Pronaf (Programa Nacional de Fortalecimiento de la Agricultura Familiar), del 9 % para productores del Pronamp (Programa Nacional de Apoyo al Mediano Productor Rural) y del 12 % para los demás, sujetos a límites y requisitos. Los afectados por pérdidas en tres o más cosechas podrían acceder a tasas especiales del 5 %, 8 % y 11 %, respectivamente. Se amplió la fecha de referencia para ciertas deudas vencidas y se permiten informes técnicos colectivos para determinados beneficiarios. La aprobación en la Cámara no equivale a la conversión definitiva en ley: todavía falta el voto del Senado dentro del plazo legislativo.",
+        "analysis": "La renegociación busca aliviar el endeudamiento causado por sequías, inundaciones y otros fenómenos que redujeron la capacidad de pago de los agricultores. Amplía las opciones de refinanciación y prevé períodos de carencia, pero no elimina las deudas. Su eficacia dependerá de la acreditación de pérdidas, la reglamentación, los recursos disponibles para subvencionar intereses y la aprobación final del Congreso. El plazo ajustado del Senado es determinante: los cambios aprobados por la Cámara no se convierten automáticamente en ley. La propuesta surgió de negociaciones entre el Gobierno y el sector agropecuario, aunque persisten discrepancias sobre su alcance y condiciones.",
+        "counterpoint": "Parlamentarios vinculados al agronegocio consideran que los intereses, las garantías y los requisitos todavía pueden ser insuficientes para parte de los productores; las autoridades económicas también deben evaluar el coste presupuestario. El texto incluye una disposición sobre productos derivados del tabaco que podría generar polémica por su escasa relación con el crédito rural. Hasta confirmar la votación del Senado, no corresponde afirmar que las nuevas reglas ya recibieron la aprobación definitiva del Congreso.",
+        "category": "POLÍTICA"
+      }
+    },
     {
       "id": "ebola-congo-supera-11-mil-casos-5387-mortes-2026-11-11",
       "date": "2026-11-11",
