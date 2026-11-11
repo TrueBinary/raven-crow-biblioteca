@@ -26,6 +26,12 @@
         "analysis": "The alerts disrupted education and required a substantial police response. Similar threats across borders call for coordination, but their resemblance does not establish a common perpetrator, foreign involvement or the presence of explosive devices. Authorities must balance precautionary safety measures, continuity of classes and clear public communication.",
         "counterpoint": "Italy's government said it had no evidence of a concrete danger while inspections continued as a precaution. Investigators have not established who sent the messages. Claims of responsibility by particular organizations or foreign states remain unproven.",
         "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (August 17, 2016): exterior of the Giulio Cesare high school in Rome, a school named in coverage of the November 11, 2026 bomb threats. Sergio D’Afflitto / Wikimedia Commons (CC BY-SA 4.0). It does not depict the evacuation or police inspections."
+        },
+        "video_captions": {
+          "1": "Nordest24 news report dated November 11, 2026, about emailed bomb threats to Italian schools and precautionary evacuations in the Fiume Veneto area. It describes checks by the Carabinieri and the absence of danger identified locally."
+        },
         "slug": "italy-evacuates-312-schools-after-emailed-bomb-threats-no-explosives-reported-2026-11-11"
       },
       "es": {
@@ -35,8 +41,34 @@
         "analysis": "Las amenazas interrumpieron las actividades escolares y movilizaron a las fuerzas de seguridad. La semejanza de mensajes en distintos países requiere coordinación, pero no demuestra un autor común, injerencia extranjera ni la existencia de artefactos explosivos. Las autoridades deben equilibrar las medidas preventivas, la continuidad educativa y la comunicación pública responsable.",
         "counterpoint": "El Gobierno italiano señaló que no había pruebas de un peligro concreto, aunque mantuvo las inspecciones por precaución. La autoría de los mensajes sigue bajo investigación. No se ha demostrado la responsabilidad de ninguna organización ni de un Estado extranjero.",
         "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (17 de agosto de 2016): fachada del instituto Giulio Cesare de Roma, citado en la cobertura de las amenazas del 11 de noviembre de 2026. Sergio D’Afflitto / Wikimedia Commons (CC BY-SA 4.0). No muestra la evacuación ni las inspecciones policiales."
+        },
+        "video_captions": {
+          "1": "Reportaje de Nordest24 del 11 de noviembre de 2026 sobre amenazas de bomba por correo electrónico a escuelas italianas y evacuaciones preventivas en la zona de Fiume Veneto. Informa de las verificaciones de los Carabinieri y la ausencia de peligro detectado localmente."
+        },
         "slug": "italia-evacua-312-escuelas-por-amenazas-de-bomba-enviadas-por-correo-no-se-2026-11-11"
       },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Roma_liceo_classico_Giulio_Cesare.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) — https://creativecommons.org/licenses/by-sa/4.0/; reuso permitido com atribuição e compartilhamento pela mesma licença para adaptações.",
+          "credit": "Sergio D’Afflitto (Blackcat) / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Roma_liceo_classico_Giulio_Cesare.jpg",
+          "caption": "FOTO DE ARQUIVO (17/08/2016): fachada do Liceo classico statale Giulio Cesare, em Roma, citado na cobertura das ameaças de 11/11/2026. Foto: Sergio D’Afflitto / Wikimedia Commons (CC BY-SA 4.0). Não retrata a evacuação ou as inspeções de 2026."
+        }
+      ],
+      "videos": [
+        {
+          "youtube": "https://www.youtube.com/watch?v=ULtwiY9xB28",
+          "start": 2,
+          "placement": "fatos",
+          "caption": "Reportagem do Nordest24 de 11/11/2026 sobre ameaças de bomba enviadas a escolas italianas e evacuações preventivas na região de Fiume Veneto. O vídeo relata a ação dos carabinieri e a ausência de perigo identificado nas verificações locais.",
+          "credit": "Nordest24"
+        }
+      ],
       "firstSeen": "2026-11-11T11:12:00-03:00"
     },
     {
