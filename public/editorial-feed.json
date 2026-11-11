@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "id": "ataque-drones-porto-ust-luga-incendio-tres-feridos-2026-11-11",
+      "date": "2026-11-11",
+      "category": "MUNDO",
+      "title": "Ataque com drones provoca incêndio no porto russo de Ust-Luga e deixa três feridos, diz governador",
+      "subtitle": "Autoridades russas relatam danos a instalações portuárias e elétricas no Báltico; balanço e autoria ainda não foram confirmados independentemente.",
+      "facts": "Um ataque com drones provocou um incêndio na área do porto de Ust-Luga, na região russa de Leningrado, nesta quarta-feira, 11 de novembro de 2026, segundo o governador regional Aleksandr Drozdenko. O governador informou que três trabalhadores ficaram feridos e que uma estação elétrica foi afetada. O porto de Ust-Luga é um centro importante para exportações russas de petróleo, derivados e outros produtos pelo mar Báltico. A Reuters noticiou o anúncio, mas ressaltou que não conseguiu verificar de forma independente todos os detalhes. A cobertura do UOL também registrou o incêndio, os três feridos e alertas sobre drones em países bálticos. A contagem de drones interceptados mudou ao longo do dia: um informe inicial mencionava 92, enquanto uma atualização atribuída ao governador mencionou 150. Esses totais são alegações oficiais, não dados confirmados por observação independente.",
+      "analysis": "A ocorrência é relevante porque Ust-Luga concentra infraestrutura logística estratégica para a receita de exportações russas. Danos a terminais e fornecimento de energia podem afetar temporariamente operações e custos de transporte, mas a extensão efetiva do prejuízo ainda não foi estabelecida. O episódio também coincidiu com alertas de segurança na Letônia, Lituânia e Estônia, além de medidas temporárias de restrição aérea e marítima na Finlândia. As tensões militares prosseguiram apesar das negociações entre Rússia e Ucrânia mediadas pelos Estados Unidos em Abu Dhabi. Não há base para atribuir, sem ressalvas, cada drone identificado na região a um mesmo operador ou missão.",
+      "counterpoint": "As informações sobre feridos, interceptações e danos foram divulgadas por autoridades russas e dependem de confirmação independente. A Reuters afirmou expressamente que não pôde verificar de imediato o relato do governador. Os alertas em países vizinhos não demonstram, por si, a origem dos drones. Tampouco é possível concluir que as exportações russas foram interrompidas de forma prolongada ou estimar perdas econômicas com os dados disponíveis.",
+      "sources": [
+        {
+          "name": "Reuters — Drone attack causes fire in Russia's Baltic Sea port of Ust-Luga (11/11/2026)",
+          "url": "https://www.reuters.com/world/drone-attack-causes-fire-russias-baltic-sea-port-ust-luga-governor-says-2026-11-11/"
+        },
+        {
+          "name": "UOL Notícias — Países bálticos alertam para drones durante ataques entre Rússia e Ucrânia (11/11/2026)",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/11/paises-balticos-alertam-para-drones-durante-ataques-entre-russia-e-ucrania.ghtm"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/2016_10_03_ULCT_foto.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) — https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Burleski / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:2016_10_03_ULCT_foto.jpg",
+          "caption": "FOTO DE ARQUIVO (01/10/2016): terminal de contêineres do porto de Ust-Luga, na Rússia. Burleski / Wikimedia Commons (CC BY-SA 4.0). A imagem não retrata o ataque nem o incêndio de 11/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Drone attack sparks fire at Russia's Ust-Luga port and injures three, governor says",
+        "subtitle": "Russian authorities report damage to port and power infrastructure on the Baltic Sea; the toll and responsibility have not been independently verified.",
+        "facts": "On Wednesday, November 11, 2026, a drone attack sparked a fire in the port area of Ust-Luga in Russia's Leningrad region, according to regional governor Aleksandr Drozdenko. He said three workers were injured and an electrical station was affected. Ust-Luga is a major Baltic Sea export hub for Russian oil, refined products and other goods. Reuters reported the governor's statement but said it could not independently verify all details. UOL's coverage also reported the fire, three injuries and drone alerts in the Baltic countries. Initial official reports cited 92 intercepted drones, while a later update attributed to the governor cited 150. Neither figure has been independently established.",
+        "analysis": "The incident matters because Ust-Luga is a strategic logistics hub for Russian exports. Damage to port facilities and power supplies could disrupt operations and increase shipping costs, but the scale and duration of any impact remain unknown. The attack coincided with security alerts in Latvia, Lithuania and Estonia and temporary airspace and maritime restrictions in Finland. Fighting continued despite US-mediated talks between Russia and Ukraine in Abu Dhabi. The available evidence does not establish that every drone detected in the region had the same origin or mission.",
+        "counterpoint": "Casualty, interception and damage figures come from Russian authorities and require independent confirmation. Reuters explicitly said it could not immediately verify the governor's account. Drone warnings in neighboring countries do not establish the aircraft's origin. There is also insufficient evidence to claim a prolonged shutdown of Russian exports or to estimate economic losses.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (October 1, 2016): container terminal at Ust-Luga port, Russia. Burleski / Wikimedia Commons (CC BY-SA 4.0). This photograph does not show the November 11, 2026 attack or fire."
+        },
+        "slug": "drone-attack-sparks-fire-at-russia-s-ust-luga-port-and-injures-three-governor-2026-11-11"
+      },
+      "es": {
+        "title": "Un ataque con drones provoca un incendio en el puerto ruso de Ust-Luga y deja tres heridos, según el gobernador",
+        "subtitle": "Las autoridades rusas informan de daños en instalaciones portuarias y eléctricas del Báltico; el balance y la autoría no han sido verificados de forma independiente.",
+        "facts": "El miércoles 11 de noviembre de 2026, un ataque con drones provocó un incendio en el puerto de Ust-Luga, en la región rusa de Leningrado, según el gobernador Aleksandr Drozdenko. El funcionario afirmó que tres trabajadores resultaron heridos y que una estación eléctrica sufrió daños. Ust-Luga es un centro importante para las exportaciones rusas de petróleo, derivados y otras mercancías por el mar Báltico. Reuters informó de las declaraciones, pero advirtió que no pudo verificar todos los detalles de manera independiente. UOL también informó del incendio, los tres heridos y las alertas por drones en países bálticos. Los primeros informes oficiales mencionaban 92 drones interceptados; una actualización posterior atribuida al gobernador elevó la cifra a 150. Ninguna de las dos cifras está confirmada de forma independiente.",
+        "analysis": "El episodio es relevante porque Ust-Luga concentra infraestructura logística estratégica para las exportaciones rusas. Los daños en las terminales y el suministro eléctrico podrían alterar las operaciones y encarecer el transporte, pero todavía se desconoce su alcance y duración. El ataque coincidió con alertas de seguridad en Letonia, Lituania y Estonia y restricciones temporales aéreas y marítimas en Finlandia. Los combates continuaron pese a las conversaciones entre Rusia y Ucrania mediadas por Estados Unidos en Abu Dabi. No hay pruebas suficientes para atribuir todos los drones detectados en la región a un mismo operador o misión.",
+        "counterpoint": "Los datos sobre heridos, interceptaciones y daños proceden de autoridades rusas y necesitan verificación independiente. Reuters señaló expresamente que no pudo confirmar de inmediato el relato del gobernador. Las alertas en países vecinos no demuestran el origen de los aparatos. Tampoco es posible afirmar que las exportaciones rusas se interrumpieron durante un período prolongado ni calcular pérdidas económicas con la información disponible.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (1 de octubre de 2016): terminal de contenedores del puerto de Ust-Luga, Rusia. Burleski / Wikimedia Commons (CC BY-SA 4.0). La imagen no muestra el ataque ni el incendio del 11 de noviembre de 2026."
+        },
+        "slug": "un-ataque-con-drones-provoca-un-incendio-en-el-puerto-ruso-de-ust-luga-y-deja-2026-11-11"
+      },
+      "firstSeen": "2026-11-11T11:56:00-03:00"
+    },
+    {
       "id": "quenia-ultimo-paciente-ebola-alta-contagem-42-dias-2026-11-11",
       "date": "2026-11-11",
       "category": "MUNDO",
