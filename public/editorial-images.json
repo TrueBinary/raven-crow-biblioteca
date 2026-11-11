@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "ebola-congo-supera-11-mil-casos-5387-mortes-2026-11-11": "editorial/covers/ebola-congo-supera-11-mil-casos-5387-mortes-2026-11-11.svg",
     "navio-emirados-atacado-golfo-persico-ormuz-2026-11-11": "editorial/covers/navio-emirados-atacado-golfo-persico-ormuz-2026-11-11.svg",
     "lula-erdogan-turquia-cooperacao-defesa-minerais-criticos-2026-11-11": "editorial/covers/lula-erdogan-turquia-cooperacao-defesa-minerais-criticos-2026-11-11.svg",
     "governo-negocia-ajuste-fiscal-80-bilhoes-2027-saude-educacao-2026-11-11": "editorial/covers/governo-negocia-ajuste-fiscal-80-bilhoes-2027-saude-educacao-2026-11-11.svg",
@@ -191,7 +192,8 @@
     "petrobras-lucro-398-bilhoes-terceiro-trimestre-2026-11-11": "editorial/photos/petrobras-lucro-398-bilhoes-terceiro-trimestre-2026-11-11.jpg",
     "governo-negocia-ajuste-fiscal-80-bilhoes-2027-saude-educacao-2026-11-11": "editorial/photos/governo-negocia-ajuste-fiscal-80-bilhoes-2027-saude-educacao-2026-11-11.jpg",
     "lula-erdogan-turquia-cooperacao-defesa-minerais-criticos-2026-11-11": "editorial/photos/lula-erdogan-turquia-cooperacao-defesa-minerais-criticos-2026-11-11.jpg",
-    "navio-emirados-atacado-golfo-persico-ormuz-2026-11-11": "editorial/photos/navio-emirados-atacado-golfo-persico-ormuz-2026-11-11.jpg"
+    "navio-emirados-atacado-golfo-persico-ormuz-2026-11-11": "editorial/photos/navio-emirados-atacado-golfo-persico-ormuz-2026-11-11.jpg",
+    "ebola-congo-supera-11-mil-casos-5387-mortes-2026-11-11": "editorial/photos/ebola-congo-supera-11-mil-casos-5387-mortes-2026-11-11.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -709,6 +711,12 @@
       "srcset": "editorial/photos/navio-emirados-atacado-golfo-persico-ormuz-2026-11-11-320.webp 320w, editorial/photos/navio-emirados-atacado-golfo-persico-ormuz-2026-11-11-640.webp 640w, editorial/photos/navio-emirados-atacado-golfo-persico-ormuz-2026-11-11-960.webp 960w, editorial/photos/navio-emirados-atacado-golfo-persico-ormuz-2026-11-11-1280.webp 1280w",
       "width": 1280,
       "height": 853
+    },
+    "ebola-congo-supera-11-mil-casos-5387-mortes-2026-11-11": {
+      "src": "editorial/photos/ebola-congo-supera-11-mil-casos-5387-mortes-2026-11-11-960.webp",
+      "srcset": "editorial/photos/ebola-congo-supera-11-mil-casos-5387-mortes-2026-11-11-320.webp 320w, editorial/photos/ebola-congo-supera-11-mil-casos-5387-mortes-2026-11-11-640.webp 640w, editorial/photos/ebola-congo-supera-11-mil-casos-5387-mortes-2026-11-11-960.webp 960w",
+      "width": 960,
+      "height": 633
     }
   }
 }

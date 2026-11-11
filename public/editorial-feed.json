@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "ebola-congo-supera-11-mil-casos-5387-mortes-2026-11-11",
+      "date": "2026-11-11",
+      "category": "MUNDO",
+      "title": "Surto de Ebola no Congo supera 11 mil casos e 5,3 mil mortes, apontam autoridades",
+      "subtitle": "Balanço de 11.042 infecções e 5.387 mortes torna a epidemia a mais letal já registrada no país; conflitos dificultam atendimento e vigilância.",
+      "facts": "O Ministério da Saúde da República Democrática do Congo informou nesta quarta-feira, 11 de novembro de 2026, que o surto de Ebola causado pelo vírus Bundibugyo chegou a 11.042 casos confirmados e 5.387 mortes. Os números foram reportados pela Associated Press e pela Reuters, citada em reportagem da Al Jazeera. O surto, declarado em meados de maio, já alcança oito das 26 províncias congolesas, com focos particularmente difíceis de controlar em Ituri e Kivu do Norte. A epidemia é a mais letal registrada na história do país e a segunda maior já documentada no mundo, atrás da crise da África Ocidental de 2014 a 2016. O avanço da doença é agravado por conflitos armados, acesso precário a unidades de saúde, demora no diagnóstico e ataques contra profissionais e estruturas sanitárias. As autoridades pedem corredores seguros para que as equipes médicas alcancem comunidades afetadas.",
+      "analysis": "Os números indicam gravidade excepcional: as 5.387 mortes equivalem a quase metade dos casos confirmados, embora essa proporção bruta não represente necessariamente o risco individual de morrer após uma infecção, pois diagnósticos e registros podem estar incompletos. A Organização Mundial da Saúde havia documentado a rápida expansão da variante Bundibugyo desde o início do surto e, segundo a cobertura de novembro, autorizou ensaios clínicos de duas vacinas candidatas. Não existe vacina aprovada especificamente para essa variante, o que reforça a importância de rastreamento de contatos, isolamento, proteção das equipes e atendimento oportuno. A circulação em zonas de conflito e o deslocamento de pessoas aumentam a complexidade da resposta, sem significar que todos os países vizinhos estejam sob a mesma situação epidemiológica.",
+      "counterpoint": "Os dados divulgados são um retrato sujeito a atualização pelas autoridades de saúde. A contagem de casos confirmados pode subestimar infecções em áreas inacessíveis; por outro lado, não se deve inferir, apenas a partir do total, que a doença se espalha sem controle por toda a África. As fontes não comprovam que uma vacina específica contra Bundibugyo já esteja disponível para uso amplo. O surto de 2026 não deve ser confundido com o episódio de Ebola ocorrido no Congo em 2018–2020.",
+      "sources": [
+        {
+          "name": "Associated Press — Ebola tops 11,000 cases in Congo's deadliest outbreak (11/11/2026)",
+          "url": "https://apnews.com/article/cae4cef6e48c1d2210a59c72676bff29"
+        },
+        {
+          "name": "Al Jazeera / Reuters — Ebola cases in DR Congo pass 11,000, with 5,387 deaths (11/11/2026)",
+          "url": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths"
+        },
+        {
+          "name": "Organização Mundial da Saúde — Ebola disease caused by Bundibugyo virus, DR Congo (01/08/2026; contexto)",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON614"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/SECRETARY-GENERAL%E2%80%99S_VISIT_TO_THE_DEMOCRATIC_REPUBLIC_OF_THE_CONGO_%2848710365336%29.jpg/960px-SECRETARY-GENERAL%E2%80%99S_VISIT_TO_THE_DEMOCRATIC_REPUBLIC_OF_THE_CONGO_%2848710365336%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0) — https://creativecommons.org/licenses/by-sa/2.0/",
+          "credit": "MONUSCO Photos / UN/Martine Perret / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:SECRETARY-GENERAL%E2%80%99S_VISIT_TO_THE_DEMOCRATIC_REPUBLIC_OF_THE_CONGO_(48710365336).jpg",
+          "caption": "FOTO DE ARQUIVO (01/09/2019): visita ao Centro de Tratamento de Ebola de Mangina, na República Democrática do Congo. MONUSCO Photos / UN/Martine Perret / Wikimedia Commons (CC BY-SA 2.0). A imagem não retrata o surto de 2026."
+        }
+      ],
+      "en": {
+        "title": "Congo Ebola outbreak tops 11,000 cases and 5,300 deaths, authorities report",
+        "subtitle": "The tally of 11,042 infections and 5,387 deaths makes it the country's deadliest outbreak; conflict is hampering medical care and surveillance.",
+        "facts": "The Democratic Republic of the Congo's Health Ministry reported on Wednesday, November 11, 2026, that the Ebola outbreak caused by Bundibugyo virus had reached 11,042 confirmed cases and 5,387 deaths. The figures were reported by the Associated Press and Reuters, as carried by Al Jazeera. Declared in mid-May, the outbreak has spread to eight of Congo's 26 provinces, with particularly difficult conditions in Ituri and North Kivu. It is the deadliest Ebola outbreak in the country's history and the world's second largest on record, after the 2014–2016 West African epidemic. Armed conflict, poor access to health services, delayed diagnosis and attacks on healthcare workers and facilities are complicating containment. Authorities are calling for safe access so medical teams can reach affected communities.",
+        "analysis": "The figures underscore the severity of the crisis: 5,387 deaths amount to almost half the confirmed cases, although that crude ratio is not necessarily an individual's risk of death after infection because diagnosis and reporting may be incomplete. The World Health Organization had documented the rapid expansion of Bundibugyo virus disease earlier in the outbreak and, according to November reporting, authorized trials of two candidate vaccines. No vaccine is approved specifically for this variant, making contact tracing, isolation, protection of healthcare workers and timely care crucial. Conflict and displacement complicate the response, without implying that neighboring countries face identical outbreaks.",
+        "counterpoint": "The figures are a snapshot that may be revised by health authorities. Confirmed cases may undercount infections in inaccessible areas, while the totals alone do not prove uncontrolled spread across all of Africa. Available sources do not establish that a Bundibugyo-specific vaccine is already widely available. The 2026 outbreak should not be confused with Congo's 2018–2020 Ebola epidemic.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (September 1, 2019): visit to the Mangina Ebola Treatment Centre in the Democratic Republic of the Congo. MONUSCO Photos / UN/Martine Perret / Wikimedia Commons (CC BY-SA 2.0). This photograph does not depict the 2026 outbreak."
+        },
+        "slug": "congo-ebola-outbreak-tops-11-000-cases-and-5-300-deaths-authorities-report-2026-11-11"
+      },
+      "es": {
+        "title": "El brote de ébola en el Congo supera los 11.000 casos y las 5.300 muertes, según las autoridades",
+        "subtitle": "El balance de 11.042 infecciones y 5.387 fallecidos convierte la epidemia en la más mortífera del país; el conflicto dificulta la atención médica.",
+        "facts": "El Ministerio de Salud de la República Democrática del Congo informó el miércoles 11 de noviembre de 2026 que el brote de ébola causado por el virus Bundibugyo alcanzó 11.042 casos confirmados y 5.387 muertes. Las cifras fueron publicadas por Associated Press y Reuters, citada por Al Jazeera. Declarado a mediados de mayo, el brote afecta a ocho de las 26 provincias del país, con dificultades especialmente graves en Ituri y Kivu del Norte. Se trata de la epidemia de ébola más mortífera de la historia congoleña y la segunda mayor registrada en el mundo, después de la crisis de África Occidental de 2014 a 2016. Los conflictos armados, el acceso precario a la atención sanitaria, los diagnósticos tardíos y los ataques contra personal e instalaciones de salud dificultan el control. Las autoridades piden acceso seguro para los equipos médicos.",
+        "analysis": "Las cifras reflejan una crisis excepcional: las 5.387 muertes equivalen a casi la mitad de los casos confirmados, aunque esta proporción bruta no representa necesariamente el riesgo individual de fallecimiento, ya que el diagnóstico y los registros pueden ser incompletos. La Organización Mundial de la Salud había documentado la rápida expansión del virus Bundibugyo desde el comienzo del brote y, según la cobertura de noviembre, autorizó ensayos de dos vacunas candidatas. No existe una vacuna aprobada específicamente para esta variante, por lo que son fundamentales el rastreo de contactos, el aislamiento, la protección del personal sanitario y la atención temprana. Los conflictos y los desplazamientos complican la respuesta, sin implicar que los países vecinos sufran la misma situación epidemiológica.",
+        "counterpoint": "Los datos publicados son provisionales y pueden cambiar con nuevas actualizaciones oficiales. Los casos confirmados pueden subestimar las infecciones en zonas inaccesibles, pero las cifras tampoco demuestran por sí solas una propagación descontrolada por toda África. Las fuentes no acreditan que ya exista una vacuna específica contra Bundibugyo de uso generalizado. El brote de 2026 no debe confundirse con la epidemia congoleña de 2018–2020.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (1 de septiembre de 2019): visita al Centro de Tratamiento de Ébola de Mangina, República Democrática del Congo. MONUSCO Photos / UN/Martine Perret / Wikimedia Commons (CC BY-SA 2.0). La fotografía no muestra el brote de 2026."
+        },
+        "slug": "el-brote-de-ebola-en-el-congo-supera-los-11-000-casos-y-las-5-300-muertes-segun-2026-11-11"
+      },
+      "firstSeen": "2026-11-11T06:01:47-03:00"
+    },
+    {
       "id": "navio-emirados-atacado-golfo-persico-ormuz-2026-11-11",
       "date": "2026-11-11",
       "category": "MUNDO",
