@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "tse-multa-meta-facebook-75-milhoes-ordens-eleicoes-2026-11-11",
+      "date": "2026-11-11",
+      "category": "JUSTIÇA",
+      "title": "TSE multa Facebook em R$ 7,5 milhões por descumprir ordens durante eleição; não comprova favorecimento deliberado",
+      "subtitle": "Decisão unânime pune atrasos e respostas incompletas da plataforma a determinações judiciais no segundo turno; Meta nega ter beneficiado qualquer candidato.",
+      "facts": "O Tribunal Superior Eleitoral (TSE) decidiu por unanimidade, na noite de terça-feira, 10 de novembro de 2026, aplicar multa de R$ 7,5 milhões à Facebook Serviços Online do Brasil Ltda., empresa do grupo Meta, por descumprimento de determinações judiciais relativas à distribuição e ao alcance de conteúdos eleitorais no segundo turno da eleição presidencial. A representação foi apresentada pela coligação de Luiz Inácio Lula da Silva e questionava possíveis diferenças de tratamento entre conteúdos de sua campanha e os da candidatura de Flávio Bolsonaro. Segundo o tribunal, a empresa apresentou informações incompletas, fora dos prazos fixados ou em formatos que dificultavam sua verificação, embora tenha adotado algumas medidas corretivas. O valor corresponde a três dias de multa de R$ 500 mil, entre 17 e 19 de outubro, e seis dias de R$ 1 milhão, entre 20 e 25 de outubro. O relator, ministro Marco Aurélio Bellizze, registrou que não há elementos suficientes neste julgamento para afirmar atuação deliberada da empresa para desequilibrar a eleição.",
+      "analysis": "A decisão distingue duas questões: o descumprimento de ordens judiciais, que fundamentou a multa, e a acusação de favorecimento político intencional, que não foi demonstrada neste julgamento. O caso expõe dificuldades práticas de fiscalizar sistemas algorítmicos de distribuição de conteúdo e ferramentas de inteligência artificial durante uma campanha eleitoral. O tribunal considerou insuficientes declarações genéricas de isonomia e dados apresentados de modo agregado, sem permitir checagem adequada. Isso não autoriza afirmar que a Justiça Eleitoral tenha comprovado manipulação deliberada de votos, nem que todas as falhas relatadas fossem direcionadas a uma candidatura. A discussão sobre os limites da fiscalização deve levar em conta, ao mesmo tempo, a igualdade de oportunidades eleitorais, a transparência das plataformas e a liberdade de expressão.",
+      "counterpoint": "A Meta, por meio de sua defesa, negou ter favorecido candidatos e sustentou que cumpriu as determinações judiciais, atribuindo problemas identificados a falhas técnicas que teriam sido corrigidas. O TSE rejeitou a suficiência do cumprimento apresentado para fins de multa, mas o relator expressamente afastou a conclusão de interferência deliberada sem prova robusta em procedimento adequado. O julgamento não representa condenação por fraude eleitoral nem prova de que o resultado da eleição foi alterado.",
+      "sources": [
+        {
+          "name": "TSE — decisão unânime e fundamentos (10/11/2026)",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Novembro/tse-multa-facebook-em-r-7-5-milhoes-por-descumprir-determinacoes-judiciais"
+        },
+        {
+          "name": "Reuters — Brazil electoral court fines Meta, sees no deliberate election bias (11/11/2026)",
+          "url": "https://www.reuters.com/legal/litigation/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias-2026-11-11/"
+        },
+        {
+          "name": "Agência Brasil — TSE multa Meta em R$ 7,5 milhões (10/11/2026)",
+          "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/tse-multa-meta-em-r-75-milhoes-por-descumprir-decisao-nas-eleicoes"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/TRE_nova_sede_brasilia.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público (PD-self), declarado pelo autor no Wikimedia Commons",
+          "credit": "Borowskki / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:TRE_nova_sede_brasilia.jpg",
+          "caption": "FOTO DE ARQUIVO (26/02/2012): fachada do Tribunal Superior Eleitoral em Brasília. Borowskki / Wikimedia Commons, domínio público. A imagem não mostra o julgamento de 10/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Brazil's electoral court fines Facebook R$7.5 million for failing to comply with election orders; deliberate bias not established",
+        "subtitle": "Unanimous ruling penalizes delayed and incomplete responses to court orders during the presidential runoff; Meta denies favoring either candidate.",
+        "facts": "Brazil's Superior Electoral Court (TSE) unanimously decided on Tuesday evening, November 10, 2026, to fine Facebook Serviços Online do Brasil Ltda., part of Meta, R$7.5 million for failing to comply with court orders concerning the distribution and reach of election-related content during the presidential runoff. The case was brought by Luiz Inácio Lula da Silva's coalition, which alleged unequal treatment of content linked to his campaign and Flávio Bolsonaro's candidacy. The court said the company supplied incomplete information, missed deadlines and submitted material that was difficult to verify, despite taking some corrective steps. The fine consists of three daily penalties of R$500,000 from October 17 to 19 and six of R$1 million from October 20 to 25. Reporting judge Marco Aurélio Bellizze said the record did not establish deliberate action by the company to tilt the election.",
+        "analysis": "The ruling separates noncompliance with judicial orders, which prompted the fine, from intentional political favoritism, which was not established in this proceeding. It highlights the practical difficulty of auditing algorithmic content distribution and artificial intelligence tools during an election campaign. The court found generic assurances of equal treatment and aggregated data insufficient for meaningful oversight. That does not establish deliberate vote manipulation or prove that every reported technical failure targeted one campaign. The debate also involves electoral fairness, platform transparency and freedom of expression.",
+        "counterpoint": "Meta's legal representatives denied favoring either candidate and maintained that the company had complied with court orders, attributing identified problems to technical faults that were corrected. The court deemed its response insufficient to avoid a penalty, but the reporting judge explicitly said deliberate electoral interference would require stronger evidence in appropriate proceedings. The ruling is not a finding of election fraud or proof that the result was changed.",
+        "category": "JUSTICE",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (February 26, 2012): exterior of Brazil's Superior Electoral Court in Brasília. Borowskki / Wikimedia Commons, public domain. The photograph does not depict the November 10, 2026 ruling."
+        },
+        "slug": "brazil-s-electoral-court-fines-facebook-r-7-5-million-for-failing-to-comply-2026-11-11"
+      },
+      "es": {
+        "title": "El tribunal electoral brasileño multa a Facebook con R$ 7,5 millones por incumplir órdenes; no se probó favoritismo deliberado",
+        "subtitle": "La decisión unánime sanciona retrasos y respuestas incompletas a órdenes judiciales durante la segunda vuelta; Meta niega haber favorecido a un candidato.",
+        "facts": "El Tribunal Superior Electoral de Brasil (TSE) decidió por unanimidad, en la noche del martes 10 de noviembre de 2026, imponer una multa de R$ 7,5 millones a Facebook Serviços Online do Brasil Ltda., del grupo Meta, por incumplir órdenes judiciales relacionadas con la distribución y el alcance de contenidos electorales durante la segunda vuelta presidencial. La causa fue presentada por la coalición de Luiz Inácio Lula da Silva, que denunció un posible trato desigual entre contenidos de su campaña y los de Flávio Bolsonaro. Según el tribunal, la empresa presentó información incompleta, fuera de plazo o difícil de verificar, aunque adoptó algunas medidas correctivas. La sanción equivale a tres multas diarias de R$ 500.000 entre el 17 y el 19 de octubre y seis de R$ 1 millón entre el 20 y el 25 de octubre. El ponente, magistrado Marco Aurélio Bellizze, señaló que en este procedimiento no había elementos suficientes para afirmar una actuación deliberada destinada a desequilibrar la elección.",
+        "analysis": "La sentencia distingue el incumplimiento de órdenes judiciales, motivo de la multa, de la acusación de favoritismo político intencional, que no quedó acreditada en este procedimiento. El caso revela dificultades prácticas para fiscalizar los sistemas algorítmicos de distribución de contenido y las herramientas de inteligencia artificial durante una campaña electoral. El tribunal consideró insuficientes las declaraciones genéricas de igualdad de trato y los datos agregados que impedían una verificación adecuada. Esto no demuestra manipulación deliberada de votos ni que todos los fallos técnicos denunciados afectaran a una sola candidatura. El debate también comprende la igualdad electoral, la transparencia de las plataformas y la libertad de expresión.",
+        "counterpoint": "La defensa de Meta negó haber favorecido a candidatos y sostuvo que cumplió las órdenes judiciales, atribuyendo los problemas a fallos técnicos corregidos. El tribunal consideró insuficiente su actuación para evitar la sanción, pero el ponente aclaró que una conclusión de interferencia electoral deliberada requeriría pruebas más sólidas en el procedimiento correspondiente. La decisión no supone una condena por fraude electoral ni demuestra que se alterara el resultado de la votación.",
+        "category": "JUSTICIA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (26 de febrero de 2012): fachada del Tribunal Superior Electoral de Brasil en Brasilia. Borowskki / Wikimedia Commons, dominio público. La imagen no muestra el fallo del 10 de noviembre de 2026."
+        },
+        "slug": "el-tribunal-electoral-brasileno-multa-a-facebook-con-r-7-5-millones-por-2026-11-11"
+      },
+      "firstSeen": "2026-11-11T09:55:45-03:00"
+    },
+    {
       "id": "guterres-cop31-alerta-crise-climatica-supera-resposta-global-2026-11-11",
       "date": "2026-11-11",
       "category": "MUNDO",
