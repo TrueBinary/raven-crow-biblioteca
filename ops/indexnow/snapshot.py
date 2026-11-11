@@ -23,7 +23,7 @@ def key_to_url(path: str) -> str | None:
         return HOST + '/' + key.removesuffix('.html')
     if key in ('en/index.html','es/index.html'):
         return HOST + '/' + key.removesuffix('index.html')
-    if re.fullmatch(r'(?:(?:en|es)/)?(?:noticias|coluna)/[a-z0-9-]{3,100}/index\.html',key):
+    if re.fullmatch(r'(?:en/(?:news|column)|es/(?:noticias|columna)|noticias|coluna)/[a-z0-9-]{3,100}/index\.html',key):
         return HOST + '/' + key.removesuffix('index.html')
     return None
 

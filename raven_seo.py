@@ -12,6 +12,8 @@ from pathlib import Path
 import re
 from xml.sax.saxutils import escape as xml_escape
 
+from news_i18n import section
+
 BASE = "https://ravencrow.cloud"
 SLUG = re.compile(r"[a-z0-9-]{3,100}\Z")
 MARKED = re.compile(r"\s*<!-- raven-seo:start -->.*?<!-- raven-seo:end -->\s*", re.S)
@@ -294,8 +296,9 @@ def build(root: Path, today: date | None = None) -> dict:
     for lang in ("en", "es"):
         pages = []
         for kind in ("noticias", "coluna"):
-            for f in sorted((pub / lang / kind).glob("*/index.html")):
-                pages.append((BASE + "/" + lang + "/" + kind + "/" + f.parent.name + "/", mods.get(BASE + "/" + kind + "/" + f.parent.name + "/")))
+            local = section(lang, kind)
+            for f in sorted((pub / lang / local).glob("*/index.html")):
+                pages.append((BASE + "/" + lang + "/" + local + "/" + f.parent.name + "/", mods.get(BASE + "/" + kind + "/" + f.parent.name + "/")))
         if (pub / lang / "index.html").is_file():
             entries.append((BASE + "/" + lang + "/", max((m for _, m in pages if m), default=None)))
         entries.extend(pages)
@@ -322,7 +325,7 @@ def _write_column_sitemap(pub: Path, entries, essays):
         if url.startswith(BASE + "/coluna/"):
             columns.append((url, modified))
             continue
-        match = re.fullmatch(re.escape(BASE) + r"/(en|es)/coluna/([^/]+)/", url)
+        match = re.fullmatch(re.escape(BASE) + r"/(en|es)/(?:column|columna)/([^/]+)/", url)
         if not match:
             continue
         lang, slug = match.groups()
@@ -337,7 +340,7 @@ def _write_column_sitemap(pub: Path, entries, essays):
                 not all(isinstance(paragraph, str) and paragraph.strip()
                         for paragraph in paragraphs)):
             continue
-        page = pub / lang / "coluna" / slug / "index.html"
+        page = pub / lang / section(lang, "coluna") / slug / "index.html"
         if _published(page, url):
             columns.append((url, modified))
     latest = max((modified for _, modified in columns if modified), default=None)

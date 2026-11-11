@@ -7,7 +7,7 @@ from html import escape
 import json
 import re
 from column_photos import photo_figure
-from news_i18n import LANGS, hreflang
+from news_i18n import LANGS, hreflang, section
 from newsletter import block as newsletter_block
 
 # Translated essays: "en"/"es" block {title, subtitle, eyebrow, section, paragraphs:[...], photo_caption} -> /<lang>/coluna/<id>/.
@@ -135,7 +135,7 @@ for essay in ESSAYS:
  <div class="rc-col-story-back"><a href="/coluna">← Voltar à Coluna do Corvo</a><a href="/apoie">Apoie o projeto ↗</a></div>
 </main><footer class="rc-col-footer"><div>© Raven Crow · Opinião editorial</div><div><a href="/coluna">Outros ensaios</a> · <a href="/">Início</a></div></footer>
 <script defer src="raven-analytics.js"></script></body></html>'''
-    tr={l:f"{BASE}/{l}/coluna/{slug}/" for l in COL_LANGS if essay_block(essay,l)}
+    tr={l:f"{BASE}/{l}/{section(l,'coluna')}/{slug}/" for l in COL_LANGS if essay_block(essay,l)}
     canon=f'<link rel="canonical" href="{h(url)}">'
     if tr:article=article.replace(canon,canon+hreflang(url,tr),1)
     target=PUBLIC/"coluna"/slug
@@ -170,7 +170,7 @@ for essay in ESSAYS:
         extra+=f'<meta property="og:locale" content="{LANGS[lang]["locale"]}"><meta property="og:site_name" content="Raven Crow">'
         extra+='<script type="application/ld+json">'+json.dumps(schema,ensure_ascii=False).replace("<","\\u003c")+"</script>"
         page=page.replace(canon.replace(h(url),h(lurl)),canon.replace(h(url),h(lurl))+hreflang(url,tr)+extra,1)
-        d=PUBLIC/lang/"coluna"/slug
+        d=PUBLIC/lang/section(lang,"coluna")/slug
         d.mkdir(parents=True,exist_ok=True)
         (d/"index.html").write_text(page,encoding="utf-8")
 from raven_seo import build as build_seo

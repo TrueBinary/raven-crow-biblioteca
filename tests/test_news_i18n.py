@@ -22,10 +22,10 @@ class NewsI18nTests(unittest.TestCase):
             credits = {"nova-2026": {"path": "editorial/photos/nova-2026.jpg", "artist": "X/Agência Brasil", "caption": "Legenda"}}
             url = render_article(root, a, "en", "", credits, "", "https://b", lambda t: t)
             render_article(root, a, "es", "", credits, "", "https://b", lambda t: t)
-            en = (root / "public/en/noticias/nova-2026/index.html").read_text(encoding="utf-8")
+            en = (root / "public/en/news/nova-2026/index.html").read_text(encoding="utf-8")
             es = (root / "public/es/noticias/nova-2026/index.html").read_text(encoding="utf-8")
-            self.assertEqual(url, "https://b/en/noticias/nova-2026/")
-            self.assertIn('<link rel="canonical" href="https://b/en/noticias/nova-2026/">', en)
+            self.assertEqual(url, "https://b/en/news/nova-2026/")
+            self.assertIn('<link rel="canonical" href="https://b/en/news/nova-2026/">', en)
             self.assertIn('hreflang="es" href="https://b/es/noticias/nova-2026/"', en)
             self.assertIn('hreflang="pt-BR" href="https://b/noticias/nova-2026/"', es)
             self.assertIn("English caption", en)
@@ -38,11 +38,11 @@ class NewsI18nTests(unittest.TestCase):
             self.assertIn('<meta property="og:site_name" content="Raven Crow">', en)
             # Sem firstSeen: só a data, nunca o updatedAt da edição (que anda a cada atualização).
             render_article(root, a, "en", "2026-11-08T22:00:00-03:00", credits, "", "https://b", lambda t: t)
-            en = (root / "public/en/noticias/nova-2026/index.html").read_text(encoding="utf-8")
+            en = (root / "public/en/news/nova-2026/index.html").read_text(encoding="utf-8")
             self.assertIn('"dateModified": "2026-11-08"', en)
             a["firstSeen"] = "2026-11-08T09:10:00-03:00"
             render_article(root, a, "en", "2026-11-08T22:00:00-03:00", credits, "", "https://b", lambda t: t)
-            en = (root / "public/en/noticias/nova-2026/index.html").read_text(encoding="utf-8")
+            en = (root / "public/en/news/nova-2026/index.html").read_text(encoding="utf-8")
             self.assertIn('"datePublished": "2026-11-08T09:10:00-03:00"', en)
             self.assertIn('"dateModified": "2026-11-08T09:10:00-03:00"', en)
             self.assertRegex(es, r'<footer class="rc-foot"><span>[^<]*<time datetime="2026-11-08">8 de noviembre de 2026</time></span>')

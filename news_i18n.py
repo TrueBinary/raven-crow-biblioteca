@@ -1,4 +1,4 @@
-"""Translated editions of news articles: public/<lang>/noticias/<id>/ from the article's "<lang>" block, plus /<lang>/.
+"""Translated editions of news articles: public/<lang>/<news|noticias>/<id>/ from the article's "<lang>" block, plus /<lang>/.
 
 The news agent writes e.g. "en": {title, subtitle, facts, analysis, counterpoint, category, photo_captions} (same for "es").
 Articles without a complete block get no page in that language. Photos and sources are shared with the Portuguese page.
@@ -74,8 +74,16 @@ def _top(lang, prefix, pt_href):
             '<img class="rc-logo" src="' + prefix + 'raven-logo.webp" alt="" width="56" height="56"></header>')
 
 
+# Seções com nome no idioma da edição, para o Google ler a URL na língua certa (/en/news/, /es/columna/).
+SECTIONS = {"en": {"noticias": "news", "coluna": "column"}, "es": {"noticias": "noticias", "coluna": "columna"}}
+
+
+def section(lang: str, kind: str) -> str:
+    return SECTIONS[lang][kind]
+
+
 def url_of(base: str, lang: str, slug: str) -> str:
-    return f"{base}/{lang}/noticias/{slug}/"
+    return f"{base}/{lang}/{section(lang, 'noticias')}/{slug}/"
 
 
 def render_article(root: Path, a: dict, lang: str, updated: str, credits: dict, css: str, base: str, title_html) -> str:
@@ -116,7 +124,7 @@ def render_article(root: Path, a: dict, lang: str, updated: str, credits: dict, 
             + '<p><a href="../../../noticias/' + slug + '/" hreflang="pt-BR">Leia em português →</a></p></main>'
             + '<footer class="rc-foot"><span>' + L["foot"] + ' / <time datetime="' + _esc(a["date"]) + '">' + fmt_date(a["date"], lang) + "</time></span><b>Raven Crow</b></footer>"
             + '<script defer src="../../../raven-analytics.js"></script></body></html>')
-    dest = root / "public" / lang / "noticias" / slug
+    dest = root / "public" / lang / section(lang, "noticias") / slug
     dest.mkdir(parents=True, exist_ok=True)
     (dest / "index.html").write_text(page, encoding="utf-8")
     return url
@@ -125,12 +133,12 @@ def render_article(root: Path, a: dict, lang: str, updated: str, credits: dict, 
 def render_index(root: Path, lang: str, items: list, css: str, base: str) -> str:
     """Write public/<lang>/index.html listing the articles in that language (newest first) and return its URL."""
     L, url = LANGS[lang], f"{base}/{lang}/"
-    rows = "".join('<li><a href="noticias/' + _esc(a["id"]) + '/"><strong>' + _esc(block(a, lang)["title"]) + "</strong></a><br><small>"
+    rows = "".join('<li><a href="' + section(lang, "noticias") + '/' + _esc(a["id"]) + '/"><strong>' + _esc(block(a, lang)["title"]) + "</strong></a><br><small>"
                    + fmt_date(a["date"], lang) + " · " + _esc(block(a, lang).get("subtitle", "")) + "</small></li>"
                    for a in sorted(items, key=lambda x: x.get("date", ""), reverse=True))
     alts = {l: f"{base}/{l}/" for l in LANGS}
     page = (_head(lang, L["index_title"], L["index_desc"], url, hreflang(base + "/", alts), css)
-            + '<body class="rc-news">' + _top(lang, "../", "../index.html")
+            + '<body class="rc-news">' + _top(lang, "../", "/")
             + '<main><span class="rc-pill">Raven Crow / ' + L["edition"] + "</span><h1>" + L["index_h1"] + "</h1>"
             + "<p><strong>" + L["index_lead"] + "</strong></p>"
             + "<ul>" + (rows or "<li>" + L["soon"] + "</li>") + "</ul></main>"

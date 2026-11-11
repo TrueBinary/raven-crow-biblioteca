@@ -112,17 +112,17 @@ class SeoBuilderTests(unittest.TestCase):
             "es": {"title": "Familia y justicia", "paragraphs": ["Traducción publicada"]},
         })
         (pub / "coluna-ensaios.json").write_text(json.dumps(data), encoding="utf-8")
-        en_url = "https://ravencrow.cloud/en/coluna/familia-e-justica/"
-        en_page = pub / "en" / "coluna" / "familia-e-justica" / "index.html"
+        en_url = "https://ravencrow.cloud/en/column/familia-e-justica/"
+        en_page = pub / "en" / "column" / "familia-e-justica" / "index.html"
         en_page.parent.mkdir(parents=True)
         en_page.write_text('<html><head><title>Essay</title><link rel="canonical" href="' +
                            en_url + '"></head><body>Published</body></html>', encoding="utf-8")
-        es_page = pub / "es" / "coluna" / "familia-e-justica" / "index.html"
+        es_page = pub / "es" / "columna" / "familia-e-justica" / "index.html"
         es_page.parent.mkdir(parents=True)
         es_page.write_text("<html><head><title>Essay</title></head><body>Missing canonical</body></html>",
                            encoding="utf-8")
-        orphan_url = "https://ravencrow.cloud/en/coluna/orphan-draft/"
-        orphan = pub / "en" / "coluna" / "orphan-draft" / "index.html"
+        orphan_url = "https://ravencrow.cloud/en/column/orphan-draft/"
+        orphan = pub / "en" / "column" / "orphan-draft" / "index.html"
         orphan.parent.mkdir(parents=True)
         orphan.write_text('<html><head><title>Draft</title><link rel="canonical" href="' +
                           orphan_url + '"></head><body>Draft</body></html>', encoding="utf-8")
@@ -140,7 +140,7 @@ class SeoBuilderTests(unittest.TestCase):
         self.assertEqual(entries, {
             "https://ravencrow.cloud/coluna": "2026-11-04",
             "https://ravencrow.cloud/coluna/familia-e-justica/": "2026-11-04",
-            "https://ravencrow.cloud/en/coluna/familia-e-justica/": "2026-11-04",
+            "https://ravencrow.cloud/en/column/familia-e-justica/": "2026-11-04",
         })
 
     def test_sitemap_only_has_rendered_canonical_pages_with_true_dates(self):

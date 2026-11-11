@@ -17,13 +17,13 @@ const aliases = [
   ['/noticia', '/noticias', 302],
   ['/apoio', '/apoie', 302],
   ['/en/noticias', '/en/', 302],
-  ['/en/noticias/', '/en/', 302],
+  ['/en/news/', '/en/', 302],
   ['/es/noticias', '/es/', 302],
   ['/es/noticias/', '/es/', 302],
   ['/en/coluna', '/en/', 302],
-  ['/en/coluna/', '/en/', 302],
+  ['/en/column/', '/en/', 302],
   ['/es/coluna', '/es/', 302],
-  ['/es/coluna/', '/es/', 302],
+  ['/es/columna/', '/es/', 302],
 ];
 test('section URL aliases redirect to existing canonical pages without R2 access', async () => {
   const forbiddenR2 = { head() { throw Error('Redirect must not touch R2'); } };
@@ -39,7 +39,7 @@ test('section URL aliases redirect to existing canonical pages without R2 access
 test('redirects do not convert article paths or unknown sections into aliases', async () => {
   const visited = [];
   const env = {RAVEN_MEDIA:{async head(key){visited.push(key);return null;}}};
-  for (const path of ['/noticias/artigo-valido/','/coluna/artigo-valido/','/en/noticias/artigo-valido/','/noticias-inexistentes/']) {
+  for (const path of ['/noticias/artigo-valido/','/coluna/artigo-valido/','/en/news/artigo-valido/','/noticias-inexistentes/']) {
     const response = await worker.fetch(new Request('https://ravencrow.cloud'+path),env);
     assert.equal(response.status,404,path);
     assert.equal(response.headers.get('location'),null,path);
@@ -55,4 +55,11 @@ test('clean page URLs are served from the .html object and keep the query string
   assert.equal(r.headers.get('location'),'/noticias?q=stf');
   for (const path of ['/abc','/ads.txt','/404.html','/google4d032a0e9d3268ea.html'])
     assert.equal((await worker.fetch(new Request('https://ravencrow.cloud'+path),env)).headers.get('location'),null,path);
+});
+test('old translated section paths move to the localized section names', async () => {
+  const forbiddenR2 = { head() { throw Error('Redirect must not touch R2'); } };
+  for (const [from,to] of [['/en/noticias/abc-def/','/en/news/abc-def/'],['/en/coluna/abc-def','/en/column/abc-def/'],['/es/coluna/abc-def/','/es/columna/abc-def/']]) {
+    const r = await worker.fetch(new Request('https://ravencrow.cloud'+from),{RAVEN_MEDIA:forbiddenR2});
+    assert.equal(r.status,301,from); assert.equal(r.headers.get('location'),to,from);
+  }
 });
