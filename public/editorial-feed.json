@@ -43,7 +43,8 @@
         "category": "WORLD",
         "photo_captions": {
           "1": "ARCHIVE PHOTO (June 13, 2021): aerial view of Ust-Luga port in Russia's Leningrad region. The image does not depict the reported drone activity of November 11, 2026."
-        }
+        },
+        "slug": "russia-afirma-interceptar-92-drones-regiao-leningrado-2026-11-11"
       },
       "es": {
         "title": "Rusia afirma haber derribado 92 drones en la región de Leningrado, cerca de puertos estratégicos",
@@ -54,7 +55,8 @@
         "category": "MUNDO",
         "photo_captions": {
           "1": "FOTO DE ARCHIVO (13 de junio de 2021): vista aérea del puerto de Ust-Luga, en la región rusa de Leningrado. La imagen no muestra la actividad de drones comunicada el 11 de noviembre de 2026."
-        }
+        },
+        "slug": "russia-afirma-interceptar-92-drones-regiao-leningrado-2026-11-11"
       },
       "firstSeen": "2026-11-11T01:02:48-03:00"
     },
