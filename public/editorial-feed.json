@@ -2179,6 +2179,10 @@
         {
           "name": "R7 — 08/11/2026, 20h52",
           "url": "https://noticias.r7.com/brasilia/vamos-criar-as-condicoes-para-reduzir-a-taxa-de-juros-diz-lula-em-pronunciamento-08112026/"
+        },
+        {
+          "name": "CanalGov — pronunciamento à nação, 08/11/2026 (vídeo oficial)",
+          "url": "https://www.youtube.com/watch?v=6rCBEAc15D4"
         }
       ],
       "photos": [
@@ -2192,6 +2196,15 @@
           "caption": "FOTO DE ARQUIVO (07/09/2026): presidente Luiz Inácio Lula da Silva durante desfile cívico-militar em Brasília. Não retrata o pronunciamento de 08/11/2026."
         }
       ],
+      "videos": [
+        {
+          "youtube": "https://www.youtube.com/watch?v=6rCBEAc15D4",
+          "start": 358,
+          "placement": "fatos",
+          "caption": "Pronunciamento do presidente Lula em rede nacional em 8 de novembro de 2026. A partir de 05:58, ele fala sobre a dívida pública, os juros altos e o compromisso com a responsabilidade fiscal.",
+          "credit": "CanalGov"
+        }
+      ],
       "en": {
         "title": "Lula pledges fiscal responsibility and lower interest rates but offers no concrete measures",
         "subtitle": "In his first televised address since reelection, Brazil's president acknowledges concerns about public debt and defends investment and social programs.",
@@ -2201,6 +2214,9 @@
         "category": "POLITICS",
         "photo_captions": {
           "1": "ARCHIVE PHOTO (September 7, 2026): President Luiz Inácio Lula da Silva at a civic-military parade in Brasília. Not a photograph of the November 8 address."
+        },
+        "video_captions": {
+          "1": "President Lula's nationally televised address on November 8, 2026. From 05:58, he discusses public debt, high interest rates and his commitment to fiscal responsibility."
         }
       },
       "es": {
@@ -2212,6 +2228,9 @@
         "category": "POLÍTICA",
         "photo_captions": {
           "1": "FOTO DE ARCHIVO (7 de septiembre de 2026): el presidente Luiz Inácio Lula da Silva durante un desfile cívico-militar en Brasilia. No corresponde al discurso del 8 de noviembre."
+        },
+        "video_captions": {
+          "1": "Discurso televisado del presidente Lula del 8 de noviembre de 2026. Desde el minuto 05:58, aborda la deuda pública, los tipos de interés elevados y su compromiso con la responsabilidad fiscal."
         }
       }
     },
