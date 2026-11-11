@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "id": "guterres-cop31-alerta-crise-climatica-supera-resposta-global-2026-11-11",
+      "date": "2026-11-11",
+      "category": "MUNDO",
+      "title": "Guterres alerta na COP31 que crise climática avança mais rápido que resposta dos governos",
+      "subtitle": "Secretário-geral da ONU cobra redução de emissões e saída dos combustíveis fósseis; países discutem eletrificação, mas proposta não estabelece abandono obrigatório de petróleo, gás e carvão.",
+      "facts": "Em 11 de novembro de 2026, na cúpula de líderes da COP31, em Antália, na Turquia, o secretário-geral das Nações Unidas, António Guterres, advertiu que a crise climática avança mais rapidamente que a resposta internacional e pediu aceleração dos cortes de emissões e da transição para além dos combustíveis fósseis. A Reuters registrou o discurso durante as negociações que reúnem representantes de quase 200 países. A conferência ocorre de 9 a 20 de novembro, segundo a Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC). A Turquia promove a iniciativa de elevar a participação da eletricidade no consumo mundial de energia a 35% até 2035, conhecida como '35 by 35'. O compromisso de eletrificação, porém, não exige que toda a eletricidade venha de fontes limpas e não constitui um calendário vinculante para encerrar o uso de petróleo, gás e carvão. A ONU também apresentou em 10 de novembro a discussão sobre um roteiro voluntário brasileiro de transição energética, sem obrigação jurídica automática para os demais países.",
+      "analysis": "O pronunciamento desloca o debate de metas gerais para execução, financiamento e infraestrutura. A ampliação do uso de eletricidade em transportes, aquecimento e indústria pode reduzir emissões quando acompanhada de geração menos poluente; sem essa condição, a eletrificação por si só não garante descarbonização. O roteiro brasileiro apresentado na COP31 procura orientar planos nacionais para reduzir a dependência de combustíveis fósseis, mas deixa a implementação a cargo dos governos. A própria ONU reconhece que redes elétricas insuficientes e custos de financiamento elevados são obstáculos relevantes. A urgência climática defendida por Guterres contrasta com a dificuldade de converter declarações diplomáticas em medidas verificáveis e compromissos juridicamente exigíveis.",
+      "counterpoint": "Países produtores de petróleo e gás e economias dependentes desses combustíveis argumentam que uma transição rápida precisa considerar empregos, segurança energética, preços e capacidade de investimento. A proposta turca de eletrificação pretende ampliar alternativas energéticas, mas críticos observam que ela não estabelece exigência de energia limpa nem eliminação dos combustíveis fósseis. Até esta apuração, a COP31 não havia aprovado um novo acordo vinculante sobre esses pontos. O alerta de Guterres expressa uma avaliação e uma cobrança política da ONU, não uma decisão já adotada pelos países.",
+      "sources": [
+        {
+          "name": "Reuters — Climate crisis is 'outrunning us', UN chief warns COP31 (11/11/2026)",
+          "url": "https://www.reuters.com/sustainability/cop/world-leaders-address-cop31-turkey-pushes-new-climate-deal-2026-11-11/"
+        },
+        {
+          "name": "UNFCCC — Antalya Leaders' Summit COP31, programação oficial (11/11/2026)",
+          "url": "https://unfccc.int/cop31/high-level"
+        },
+        {
+          "name": "Nações Unidas — COP31: Energy transition takes centre stage (10/11/2026)",
+          "url": "https://www.un.org/en/desa/cop31-energy-transition-takes-centre-stage-as-countries-map-path-beyond-fossil-fuels"
+        },
+        {
+          "name": "The Guardian — COP31 live, declarações de Guterres (11/11/2026)",
+          "url": "https://www.theguardian.com/environment/live/2026/nov/11/climate-crisis-talks-turkey-latest-news-updates"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ant%C3%B3nio-Guterres.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Atribuição 3.0 Brasil (CC BY 3.0 BR) — https://creativecommons.org/licenses/by/3.0/br/",
+          "credit": "José Cruz / Agência Brasil / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Ant%C3%B3nio-Guterres.jpg",
+          "caption": "FOTO DE ARQUIVO (03/12/2003): António Guterres, então ex-primeiro-ministro de Portugal. Foto: José Cruz / Agência Brasil / Wikimedia Commons (CC BY 3.0 BR). A imagem não retrata a COP31 nem o pronunciamento de 11/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Guterres warns at COP31 that climate crisis is advancing faster than governments' response",
+        "subtitle": "UN chief calls for faster emissions cuts and a shift away from fossil fuels; countries discuss electrification, but the proposal does not mandate an end to oil, gas and coal.",
+        "facts": "On November 11, 2026, at the COP31 leaders' summit in Antalya, Türkiye, United Nations Secretary-General António Guterres warned that the climate crisis was advancing faster than the international response and called for faster emissions reductions and a transition away from fossil fuels. Reuters reported his remarks as negotiators from nearly 200 countries gathered. The conference runs from November 9 to 20, according to the United Nations Framework Convention on Climate Change (UNFCCC). Türkiye is promoting the '35 by 35' initiative, which aims to increase electricity's share of global energy use to 35% by 2035. However, the electrification proposal does not require all electricity to come from clean sources and does not establish a binding deadline for ending oil, gas and coal use. On November 10, the UN also reported discussions of Brazil's voluntary energy-transition roadmap, which does not automatically impose legal obligations on other countries.",
+        "analysis": "The speech shifts attention from broad targets to implementation, finance and infrastructure. Greater electrification of transport, heating and industry can lower emissions when accompanied by cleaner power generation; electrification alone does not guarantee decarbonization. Brazil's roadmap presented at COP31 seeks to guide national plans for reducing fossil-fuel dependence, but implementation remains with governments. The UN itself identifies inadequate power grids and high financing costs as major obstacles. Guterres' call for urgency contrasts with the difficulty of turning diplomatic declarations into verifiable measures and legally enforceable commitments.",
+        "counterpoint": "Oil- and gas-producing countries and economies reliant on fossil fuels argue that a rapid transition must account for employment, energy security, prices and investment capacity. Türkiye's electrification initiative aims to expand energy alternatives, but critics note that it neither requires clean power nor mandates a fossil-fuel phaseout. At the time of reporting, COP31 had not adopted a new binding agreement on these points. Guterres' warning is a UN assessment and political appeal, not a decision already adopted by participating countries.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (December 3, 2003): António Guterres, then a former prime minister of Portugal. José Cruz / Agência Brasil / Wikimedia Commons (CC BY 3.0 BR). This image does not show COP31 or his November 11, 2026 address."
+        },
+        "slug": "guterres-warns-at-cop31-that-climate-crisis-is-advancing-faster-than-2026-11-11"
+      },
+      "es": {
+        "title": "Guterres advierte en la COP31 que la crisis climática avanza más rápido que la respuesta de los gobiernos",
+        "subtitle": "El secretario general de la ONU pide recortes más rápidos de emisiones y abandonar progresivamente los combustibles fósiles; la propuesta de electrificación no obliga a dejar el petróleo, el gas y el carbón.",
+        "facts": "El 11 de noviembre de 2026, durante la cumbre de líderes de la COP31 en Antalya, Turquía, el secretario general de las Naciones Unidas, António Guterres, advirtió que la crisis climática avanza más rápido que la respuesta internacional y pidió acelerar la reducción de emisiones y la transición para dejar atrás los combustibles fósiles. Reuters informó sobre su intervención mientras negociadores de casi 200 países participaban en las conversaciones. Según la Convención Marco de las Naciones Unidas sobre el Cambio Climático (UNFCCC), la conferencia se celebra del 9 al 20 de noviembre. Turquía promueve la iniciativa '35 by 35', destinada a elevar la participación de la electricidad en el consumo energético mundial al 35 % para 2035. Sin embargo, la propuesta no exige que toda esa electricidad provenga de fuentes limpias ni fija un plazo vinculante para abandonar el petróleo, el gas y el carbón. El 10 de noviembre, la ONU también informó sobre el debate de una hoja de ruta voluntaria presentada por Brasil para la transición energética, sin obligaciones jurídicas automáticas para otros países.",
+        "analysis": "El discurso desplaza la atención de las metas generales hacia la ejecución, la financiación y la infraestructura. Una mayor electrificación del transporte, la calefacción y la industria puede reducir emisiones si se acompaña de generación más limpia; electrificar no garantiza por sí solo la descarbonización. La hoja de ruta brasileña presentada en la COP31 busca orientar planes nacionales para reducir la dependencia de combustibles fósiles, pero su aplicación corresponde a los gobiernos. La propia ONU identifica las redes eléctricas insuficientes y los altos costes de financiación como obstáculos importantes. La urgencia defendida por Guterres contrasta con la dificultad de transformar declaraciones diplomáticas en medidas verificables y compromisos jurídicamente exigibles.",
+        "counterpoint": "Los países productores de petróleo y gas y las economías dependientes de esos combustibles sostienen que una transición rápida debe tener en cuenta el empleo, la seguridad energética, los precios y la capacidad de inversión. La iniciativa turca de electrificación pretende ampliar las alternativas, pero sus críticos señalan que no exige electricidad limpia ni la eliminación de los combustibles fósiles. Hasta el momento de esta información, la COP31 no había aprobado un nuevo acuerdo vinculante sobre estos puntos. La advertencia de Guterres expresa una evaluación y una petición política de la ONU, no una decisión ya adoptada por los países participantes.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (3 de diciembre de 2003): António Guterres, entonces ex primer ministro de Portugal. José Cruz / Agência Brasil / Wikimedia Commons (CC BY 3.0 BR). La imagen no muestra la COP31 ni su intervención del 11 de noviembre de 2026."
+        },
+        "slug": "guterres-advierte-en-la-cop31-que-la-crisis-climatica-avanza-mas-rapido-que-la-2026-11-11"
+      },
+      "firstSeen": "2026-11-11T08:57:52-03:00"
+    },
+    {
       "id": "portugal-tempestade-charles-fecha-escolas-servicos-alerta-2026-11-11",
       "date": "2026-11-11",
       "category": "MUNDO",
