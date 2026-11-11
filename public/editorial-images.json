@@ -214,7 +214,8 @@
     "morre-alexander-darchiev-embaixador-russia-estados-unidos-2026-11-11": "editorial/photos/morre-alexander-darchiev-embaixador-russia-estados-unidos-2026-11-11.jpg",
     "arabia-saudita-intercepta-tres-misseis-riade-dois-drones-2026-11-11": "editorial/photos/arabia-saudita-intercepta-tres-misseis-riade-dois-drones-2026-11-11.jpg",
     "quenia-ultimo-paciente-ebola-alta-contagem-42-dias-2026-11-11": "editorial/photos/quenia-ultimo-paciente-ebola-alta-contagem-42-dias-2026-11-11.jpg",
-    "ataque-drones-porto-ust-luga-incendio-tres-feridos-2026-11-11": "editorial/photos/ataque-drones-porto-ust-luga-incendio-tres-feridos-2026-11-11.jpg"
+    "ataque-drones-porto-ust-luga-incendio-tres-feridos-2026-11-11": "editorial/photos/ataque-drones-porto-ust-luga-incendio-tres-feridos-2026-11-11.jpg",
+    "a-transparencia-que-precisa-de-lanterna-e-advogado-2026-11-11": "editorial/photos/a-transparencia-que-precisa-de-lanterna-e-advogado-2026-11-11.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -792,6 +793,12 @@
       "srcset": "editorial/photos/ataque-drones-porto-ust-luga-incendio-tres-feridos-2026-11-11-320.webp 320w, editorial/photos/ataque-drones-porto-ust-luga-incendio-tres-feridos-2026-11-11-640.webp 640w, editorial/photos/ataque-drones-porto-ust-luga-incendio-tres-feridos-2026-11-11-960.webp 960w, editorial/photos/ataque-drones-porto-ust-luga-incendio-tres-feridos-2026-11-11-1280.webp 1280w",
       "width": 1280,
       "height": 853
+    },
+    "a-transparencia-que-precisa-de-lanterna-e-advogado-2026-11-11": {
+      "src": "editorial/photos/a-transparencia-que-precisa-de-lanterna-e-advogado-2026-11-11-1280.webp",
+      "srcset": "editorial/photos/a-transparencia-que-precisa-de-lanterna-e-advogado-2026-11-11-320.webp 320w, editorial/photos/a-transparencia-que-precisa-de-lanterna-e-advogado-2026-11-11-640.webp 640w, editorial/photos/a-transparencia-que-precisa-de-lanterna-e-advogado-2026-11-11-960.webp 960w, editorial/photos/a-transparencia-que-precisa-de-lanterna-e-advogado-2026-11-11-1280.webp 1280w",
+      "width": 1280,
+      "height": 960
     }
   }
 }
