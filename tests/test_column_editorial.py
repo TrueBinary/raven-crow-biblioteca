@@ -29,7 +29,7 @@ class ColumnEditorialTests(unittest.TestCase):
   data=json.loads((PUBLIC/'editorial-feed.json').read_text(encoding='utf-8'))['articles']
   self.assertGreaterEqual(len(data),7)
   js=(PUBLIC/'raven-column.js').read_text(encoding='utf-8')
-  self.assertIn("fetch('editorial-feed.json'",js)
+  self.assertIn("fetch('/editorial-feed.json'",js)
   self.assertIn("noticias/",js)
   self.assertIn('root.replaceChildren()',js)
  def test_family_piece_cites_original_catholic_sources_and_is_labeled_opinion(self):

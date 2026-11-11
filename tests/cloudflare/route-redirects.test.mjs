@@ -16,14 +16,15 @@ const aliases = [
   ['/colunas', '/coluna', 302],
   ['/noticia', '/noticias', 302],
   ['/apoio', '/apoie', 302],
-  ['/en/noticias', '/en/', 302],
-  ['/en/news/', '/en/', 302],
-  ['/es/noticias', '/es/', 302],
-  ['/es/noticias/', '/es/', 302],
-  ['/en/coluna', '/en/', 302],
-  ['/en/column/', '/en/', 302],
-  ['/es/coluna', '/es/', 302],
-  ['/es/columna/', '/es/', 302],
+  ['/en/noticias', '/en/news', 301],
+  ['/en/news/', '/en/news', 301],
+  ['/es/noticias/', '/es/noticias', 301],
+  ['/en/coluna', '/en/column', 301],
+  ['/en/column/', '/en/column', 301],
+  ['/es/coluna', '/es/columna', 301],
+  ['/es/columna/', '/es/columna', 301],
+  ['/en/about.html', '/en/about', 301],
+  ['/es/privacidad/', '/es/privacidad', 301],
 ];
 test('section URL aliases redirect to existing canonical pages without R2 access', async () => {
   const forbiddenR2 = { head() { throw Error('Redirect must not touch R2'); } };

@@ -82,6 +82,11 @@ def section(lang: str, kind: str) -> str:
     return SECTIONS[lang][kind]
 
 
+# Páginas do site inteiro por idioma: /en/about é a tradução de /sobre (build-i18n-site.py).
+PAGE_SLUGS = {"en": {"noticias": "news", "coluna": "column", "livros": "library", "apoie": "support", "sobre": "about", "termos": "terms", "privacidade": "privacy"},
+              "es": {"noticias": "noticias", "coluna": "columna", "livros": "libros", "apoie": "apoyo", "sobre": "sobre", "termos": "terminos", "privacidade": "privacidad"}}
+
+
 def url_of(base: str, lang: str, slug: str) -> str:
     return f"{base}/{lang}/{section(lang, 'noticias')}/{slug}/"
 

@@ -41,7 +41,7 @@ jobs:
       - name: Gerar páginas
         run: |
           pip install -q pillow==13.0.0
-          for b in build-raven.py build-column.py build-news-index.py build-library.py; do python "$b"; done
+          for b in build-raven.py build-column.py build-news-index.py build-library.py build-i18n-site.py; do python "$b"; done
       - name: Commit das páginas
         id: commit
         run: |

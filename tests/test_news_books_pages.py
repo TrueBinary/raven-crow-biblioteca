@@ -13,7 +13,7 @@ class NewsAndBooksTests(unittest.TestCase):
   for marker in ['data-feed-mode="all"','id="editorial-feed"','raven-unified.css','raven-frontpage.js','rc-mag-main','rc-mag-side','rc-global-header','raven-ad-visibility.js']:
    self.assertIn(marker,html,marker)
   self.assertIn("root.dataset.feedMode==='all'",js)
-  self.assertIn("fetch('editorial-feed.json'",js)
+  self.assertIn("fetch('/editorial-feed.json'",js)
   self.assertIn("new URLSearchParams(location.search)",js)
   self.assertIn('hero.id=lead.id',js)
   self.assertIn('link.id=a.id',js)

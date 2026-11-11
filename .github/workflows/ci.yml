@@ -28,7 +28,7 @@ jobs:
       - name: Gerar páginas como o release faz (sem commit no repositório)
         run: |
           pip install -q pillow==13.0.0  # WebP das fotos (column_photos.webp_variants), como no Publicar site
-          for b in build-raven.py build-column.py build-news-index.py build-library.py; do python "$b"; done
+          for b in build-raven.py build-column.py build-news-index.py build-library.py build-i18n-site.py; do python "$b"; done
           git config user.name ci && git config user.email ci@localhost
           git add -A index.html public && git commit -qm "ci build" --allow-empty
       - name: Portão de conteúdo do release

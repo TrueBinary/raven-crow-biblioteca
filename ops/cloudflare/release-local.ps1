@@ -24,7 +24,7 @@ function Update-Pages {
   try {
     # Cleared photos the news agent dropped in its inbox go in before the builders (they win over automatic Commons photos).
     & node (Join-Path $PSScriptRoot 'import-photos.mjs') $BuildTree $PhotoInbox 2>&1 | Where-Object { "$_" -match '^PHOTO' } | ForEach-Object { Log "$_" }
-    foreach ($b in 'build-raven.py', 'build-column.py', 'build-news-index.py', 'build-library.py') {
+    foreach ($b in 'build-raven.py', 'build-column.py', 'build-news-index.py', 'build-library.py', 'build-i18n-site.py') {
       $o = & python $b 2>&1
       if ($LASTEXITCODE -ne 0) { Log "PAGES FAILED $b`: $((($o | Out-String).Trim() -split "\r?\n")[-1])"; return }
     }

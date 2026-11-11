@@ -134,6 +134,8 @@ test('translated editions: /en, /es and /<lang>/noticias/<id> map to their index
   assert.equal(resolveKey('/en/news/abc-def'), 'en/news/abc-def/index.html');
   assert.equal(resolveKey('/es/noticias/abc-def/'), 'es/noticias/abc-def/index.html');
   assert.equal(resolveKey('/fr/noticias/abc-def'), 'fr/noticias/abc-def');
+  for (const p of ['/en/about', '/en/news', '/en/library', '/es/sobre', '/es/noticias', '/es/terminos']) assert.equal(resolveKey(p), p.slice(1) + '.html', p);
+  assert.equal(resolveKey('/en/sobre'), 'en/sobre');
 });
 
 test('every HTML page gets the same favicon links in <head>, unless it already declares one', async () => {

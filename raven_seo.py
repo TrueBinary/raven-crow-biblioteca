@@ -12,7 +12,7 @@ from pathlib import Path
 import re
 from xml.sax.saxutils import escape as xml_escape
 
-from news_i18n import section
+from news_i18n import PAGE_SLUGS, section
 
 BASE = "https://ravencrow.cloud"
 SLUG = re.compile(r"[a-z0-9-]{3,100}\Z")
@@ -301,6 +301,9 @@ def build(root: Path, today: date | None = None) -> dict:
                 pages.append((BASE + "/" + lang + "/" + local + "/" + f.parent.name + "/", mods.get(BASE + "/" + kind + "/" + f.parent.name + "/")))
         if (pub / lang / "index.html").is_file():
             entries.append((BASE + "/" + lang + "/", max((m for _, m in pages if m), default=None)))
+        for name, slug in PAGE_SLUGS[lang].items():  # build-i18n-site.py
+            if (pub / lang / (slug + ".html")).is_file():
+                entries.append((BASE + "/" + lang + "/" + slug, mods.get(BASE + "/" + name)))
         entries.extend(pages)
     # Hubs (home, noticias.html, coluna.html...) change whenever any article does: use the newest article date.
     newest = max((m for _, m in entries if m), default=None)

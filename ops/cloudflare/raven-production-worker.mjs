@@ -3,7 +3,7 @@
 const BASE='https://raw.githubusercontent.com/TrueBinary/raven-crow-biblioteca/main/';
 const MIME={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.mjs':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.xml':'application/xml; charset=utf-8','.txt':'text/plain; charset=utf-8','.svg':'image/svg+xml','.png':'image/png','.jpg':'image/jpeg','.jpeg':'image/jpeg','.webp':'image/webp','.gif':'image/gif','.ico':'image/x-icon','.woff2':'font/woff2','.mp4':'video/mp4','.pdf':'application/pdf'};
 export const mimeFor=k=>MIME[/\.[^./]+$/.exec(k.toLowerCase())?.[0]]||'application/octet-stream';
-export function resolveKey(raw){let p;try{p=decodeURIComponent(raw)}catch{return null}if(!p.startsWith('/')||p.includes('..')||p.includes('\\')||p.includes('//')||p.includes('\0')||!/^\/[A-Za-z0-9_\-./]*$/.test(p))return null;if(p==='/'||p==='/index.html')return 'index.html';if(/^\/(?:en|es)$/.test(p))return p.slice(1)+'/index.html';if(PAGES.includes(p.slice(1)))return p.slice(1)+'.html';if(/^\/(?:(?:en\/(?:news|column))|(?:es\/(?:noticias|columna))|noticias|coluna)\/[a-z0-9-]{3,100}$/.test(p))return p.slice(1)+'/index.html';return p.endsWith('/')?p.slice(1)+'index.html':p.slice(1)}
+export function resolveKey(raw){let p;try{p=decodeURIComponent(raw)}catch{return null}if(!p.startsWith('/')||p.includes('..')||p.includes('\\')||p.includes('//')||p.includes('\0')||!/^\/[A-Za-z0-9_\-./]*$/.test(p))return null;if(p==='/'||p==='/index.html')return 'index.html';if(/^\/(?:en|es)$/.test(p))return p.slice(1)+'/index.html';if(PAGES.includes(p.slice(1)))return p.slice(1)+'.html';const lp=/^\/(en|es)\/([a-z]+)$/.exec(p);if(lp&&LOCAL_PAGES[lp[1]].includes(lp[2]))return p.slice(1)+'.html';if(/^\/(?:(?:en\/(?:news|column))|(?:es\/(?:noticias|columna))|noticias|coluna)\/[a-z0-9-]{3,100}$/.test(p))return p.slice(1)+'/index.html';return p.endsWith('/')?p.slice(1)+'index.html':p.slice(1)}
 export function parseByteRange(value,size){if(value==null)return null;const m=/^bytes=(\d*)-(\d*)$/.exec(value.trim());if(!m||(!m[1]&&!m[2]))return null;const a=m[1]!==''?Number(m[1]):null,b=m[2]!==''?Number(m[2]):null;if((a!==null&&!Number.isSafeInteger(a))||(b!==null&&!Number.isSafeInteger(b))||(a!==null&&b!==null&&b<a))return null;if(!Number.isSafeInteger(size)||size<=0)return {invalid:true};if(a===null){if(!b)return {invalid:true};const len=Math.min(b,size);return {offset:size-len,length:len}}if(a>=size)return {invalid:true};return {offset:a,length:(b===null?size:Math.min(b+1,size))-a}}
 const src=key=>key==='index.html'?'index.html':'public/'+key;
 const json=(o,status=200)=>new Response(JSON.stringify(o),{status,headers:{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'}});
@@ -24,13 +24,15 @@ export default {async fetch(req,env){return withSocialBar(await handle(req,env))
 // URLs limpas: páginas sem .html, nunca index.html na barra, e erro de digitação leva à página certa.
 // Mesmo mapa de news_i18n.SECTIONS: as edições traduzidas usam o nome da seção no idioma.
 const LOCAL_SECTIONS=Object.freeze({en:{noticias:'news',coluna:'column'},es:{noticias:'noticias',coluna:'columna'}});
+// Páginas traduzidas do site inteiro (PAGE_SLUGS em news_i18n.py): /en/about -> en/about.html.
+export const LOCAL_PAGES=Object.freeze({en:['news','column','library','support','about','terms','privacy'],es:['noticias','columna','libros','apoyo','sobre','terminos','privacidad']});
 export const PAGES=Object.freeze(['noticias','coluna','livros','apoie','sobre','termos','privacidade','creditos-fotos']);
 const ALIASES=Object.freeze({'termos-de-uso':'/termos','politica-de-privacidade':'/privacidade','biblioteca':'/livros','inicio':'/','home':'/'});
 function distance(a,b){const d=Array.from({length:b.length+1},(_,i)=>i);for(let i=1;i<=a.length;i++){let prev=d[0];d[0]=i;for(let j=1;j<=b.length;j++){const t=d[j];d[j]=Math.min(d[j]+1,d[j-1]+1,prev+(a[i-1]===b[j-1]?0:1));prev=t}}return d[b.length]}
 export function cleanRoute(path){
  if(path.endsWith('/index.html'))return [path.slice(0,-'index.html'.length),301];
  const moved=/^\/(en|es)\/(noticias|coluna)\/([a-z0-9-]{3,100})(?:\/.*)?$/.exec(path);if(moved){const local=LOCAL_SECTIONS[moved[1]][moved[2]];if(local!==moved[2])return ['/'+moved[1]+'/'+local+'/'+moved[3]+'/',301]}
- if(/^\/(?:en\/(?:news|column)|es\/columna)\/?$/.test(path))return [path.slice(0,4),302];
+ const lp=/^\/(en|es)\/([a-z]+)(?:\.html|\/)$/.exec(path);if(lp&&LOCAL_PAGES[lp[1]].includes(lp[2]))return ['/'+lp[1]+'/'+lp[2],301];
  const html=/^\/([a-z-]+)\.html$/.exec(path);if(html&&PAGES.includes(html[1]))return ['/'+html[1],301];
  const seg=/^\/([A-Za-z-]{2,40})\/?$/.exec(path);if(!seg)return null;
  const name=seg[1].toLowerCase();
@@ -41,12 +43,11 @@ export function cleanRoute(path){
  let best=null,score=3,tie=false;for(const page of PAGES){const d=distance(name,page);if(d<score){best=page;score=d;tie=false}else if(d===score)tie=true}
  return best&&!tie?['/'+best,302]:null;
 }
-// Edições en/es não têm índice de seção: voltam para a capa do idioma.
+// Índices antigos com nome em português: vão para o índice traduzido do idioma.
 const SECTION_REDIRECTS=Object.freeze({
- '/en/noticias':['/en/',302],'/en/noticias/':['/en/',302],
- '/es/noticias':['/es/',302],'/es/noticias/':['/es/',302],
- '/en/coluna':['/en/',302],'/en/coluna/':['/en/',302],
- '/es/coluna':['/es/',302],'/es/coluna/':['/es/',302],
+ '/en/noticias':['/en/news',301],'/en/noticias/':['/en/news',301],
+ '/en/coluna':['/en/column',301],'/en/coluna/':['/en/column',301],
+ '/es/coluna':['/es/columna',301],'/es/coluna/':['/es/columna',301],
 });
 // Show a branded error only for navigable pages, never for broken JS/CSS/media.
 async function notFound(req,env,path){
