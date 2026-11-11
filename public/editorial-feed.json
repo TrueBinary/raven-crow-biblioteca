@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "governo-negocia-ajuste-fiscal-80-bilhoes-2027-saude-educacao-2026-11-11",
+      "date": "2026-11-11",
+      "category": "ECONOMIA",
+      "title": "Governo negocia ajuste fiscal de até R$ 80 bilhões para 2027; saúde e educação entram no debate",
+      "subtitle": "Reuters relata proposta equivalente a 0,5% do PIB; mudança na base dos pisos constitucionais e revisão de benefícios tributários ainda dependem de projeto e votação no Congresso.",
+      "facts": "Reportagem da Reuters publicada na noite de terça-feira, 10 de novembro de 2026, afirma que o governo de Luiz Inácio Lula da Silva negociou com o Congresso um projeto de ajuste fiscal para 2027 estimado entre R$ 70 bilhões e R$ 80 bilhões, equivalente a cerca de 0,5% do Produto Interno Bruto (PIB), segundo fonte governamental com conhecimento das conversas. A fonte disse que um senador aliado deverá apresentar a proposta nos próximos dias. Entre os pontos em discussão está excluir receitas extraordinárias da base de cálculo dos pisos constitucionais de saúde e educação mesmo em cenário de superávit fiscal; a regra atual, segundo a reportagem, permite a exclusão em caso de déficit. Também se discutem cortes adicionais de benefícios tributários, sem detalhes definitivos. A Folha de S.Paulo relatou, separadamente, tratativas sobre um pacote de R$ 70 bilhões a R$ 80 bilhões e medidas de contenção orçamentária, incluindo autorização para cancelar até R$ 12,8 bilhões em despesas de 2027 caso a arrecadação decepcione. Não há, até esta apuração, texto final aprovado, economia efetivamente realizada ou nova lei em vigor.",
+      "analysis": "A proposta busca sinalizar compromisso com a trajetória das contas públicas após a reeleição presidencial e a pressão dos mercados sobre câmbio, juros e dívida. O valor de R$ 70 bilhões a R$ 80 bilhões é uma estimativa de ajuste em negociação, não um corte executado. Uma mudança na forma de calcular os pisos constitucionais pode diminuir a obrigação mínima de despesas em saúde e educação em comparação com a regra vigente; isso exige distinguir economia fiscal projetada de redução nominal efetiva no orçamento dessas áreas. A Folha apontou impacto de pelo menos R$ 6 bilhões no piso de saúde em 2027, sujeito ao desenho final. Outras medidas em discussão envolvem benefícios tributários e instrumentos de contenção de gastos. O alcance, a constitucionalidade e os efeitos distributivos dependem da redação, do debate parlamentar e de eventuais alterações.",
+      "counterpoint": "Defensores do ajuste argumentam que regras mais previsíveis e revisão de renúncias tributárias podem reduzir riscos fiscais e, com o tempo, aliviar o custo de financiamento da dívida. Críticos alertam que alterar a base dos pisos de saúde e educação pode restringir recursos disponíveis para serviços públicos, sobretudo se receitas extraordinárias deixarem de ser consideradas. As reportagens se baseiam em fontes e negociações ainda não convertidas em lei; não é correto apresentar o pacote como aprovado nem afirmar que R$ 80 bilhões já foram cortados.",
+      "sources": [
+        {
+          "name": "Reuters — governo acerta com Congresso projeto de ajuste fiscal de 0,5% do PIB, diz fonte (10/11/2026)",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/10/governo-acerta-com-congresso-projeto-de-ajuste-fiscal-de-05-do-pib-em-2027-diz-fonte.amp.htm"
+        },
+        {
+          "name": "Folha de S.Paulo — governo sinaliza cancelamento extra de R$ 12,8 bi em 2027 (11/11/2026)",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/11/governo-sinaliza-ao-mercado-cancelamento-extra-de-r-128-bi-em-gastos-em-2027-para-cumprir-meta.shtml"
+        },
+        {
+          "name": "Reuters — Brazil plans measures for 2027 fiscal savings, source says (11/11/2026)",
+          "url": "https://www.reuters.com/world/americas/brazil-plans-measures-2027-fiscal-savings-source-says-2026-11-11/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/17.09.26_-_Presidente_Lula_faz_an%C3%BAncio_de_atualiza%C3%A7%C3%A3o_monet%C3%A1ria_do_Bolsa_Fam%C3%ADlia_%2855533831581%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/ (Wikimedia Commons, arquivo originado do Flickr Lula Oficial)",
+          "credit": "Ricardo Stuckert / Lula Oficial / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:17.09.26_-_Presidente_Lula_faz_an%C3%BAncio_de_atualiza%C3%A7%C3%A3o_monet%C3%A1ria_do_Bolsa_Fam%C3%ADlia_(55533831581).jpg",
+          "caption": "FOTO DE ARQUIVO (17/09/2026): presidente Lula em anúncio sobre o Bolsa Família, com integrantes da equipe do governo, incluindo Dario Durigan. Ricardo Stuckert / Lula Oficial / Wikimedia Commons (CC BY-SA 4.0). A imagem não retrata a negociação do ajuste fiscal de novembro."
+        }
+      ],
+      "en": {
+        "title": "Brazil's government discusses up to R$80 billion in 2027 fiscal measures, with health and education rules in focus",
+        "subtitle": "Reuters reports a proposal worth 0.5% of GDP; changes to constitutional spending floors and tax benefits remain under negotiation and require congressional approval.",
+        "facts": "A Reuters report published on the evening of Tuesday, November 10, 2026, said President Luiz Inácio Lula da Silva's government had negotiated a fiscal adjustment bill with Congress for 2027, estimated at R$70 billion to R$80 billion, or about 0.5% of gross domestic product (GDP), according to a government source familiar with the talks. An allied senator is expected to introduce the proposal in the coming days. One measure under discussion would exclude extraordinary revenue from the basis used to calculate constitutionally mandated minimum spending on health and education even when the government posts a fiscal surplus; the existing exclusion reportedly applies in deficit years. Further reductions in tax benefits are also being considered, without final details. Folha de S.Paulo independently reported discussions of a R$70 billion to R$80 billion package and budget controls, including authority to cancel up to R$12.8 billion in 2027 expenditure if revenue falls short. No final bill has been approved, no projected savings have yet materialized, and no new law is in force.",
+        "analysis": "The proposal aims to reassure investors about the public finances after the presidential election and market pressure on the currency, interest rates and debt. R$70 billion to R$80 billion is an estimate for a package under negotiation, not spending already cut. Changing the basis of constitutional spending floors could lower required minimum allocations to health and education compared with existing rules; projected fiscal savings must be distinguished from an actual nominal reduction in those budgets. Folha estimated an impact of at least R$6 billion on the 2027 health spending floor, subject to the final design. Other proposals concern tax breaks and spending controls. Their scope, legal implications and distributional effects will depend on the final text and congressional debate.",
+        "counterpoint": "Supporters say more predictable rules and a review of tax breaks could reduce fiscal risk and eventually ease debt financing costs. Critics warn that recalculating minimum health and education spending could constrain resources for public services, particularly if extraordinary revenues are excluded. The reports concern discussions based on sources, not enacted legislation: the package has not been approved and R$80 billion has not already been cut.",
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (September 17, 2026): President Lula at a Bolsa Família announcement with members of the administration, including Dario Durigan. Ricardo Stuckert / Lula Oficial / Wikimedia Commons (CC BY-SA 4.0). The image does not show the November fiscal negotiations."
+        },
+        "slug": "brazil-s-government-discusses-up-to-r-80-billion-in-2027-fiscal-measures-with-2026-11-11"
+      },
+      "es": {
+        "title": "El Gobierno de Brasil negocia un ajuste fiscal de hasta R$ 80.000 millones para 2027; salud y educación, en debate",
+        "subtitle": "Reuters informa de una propuesta equivalente al 0,5 % del PIB; los cambios en los mínimos constitucionales de gasto y en los beneficios fiscales aún deben debatirse y aprobarse.",
+        "facts": "Una información de Reuters publicada la noche del martes 10 de noviembre de 2026 señala que el Gobierno de Luiz Inácio Lula da Silva negoció con el Congreso un proyecto de ajuste fiscal para 2027, estimado entre R$ 70.000 millones y R$ 80.000 millones, alrededor del 0,5 % del producto interior bruto (PIB), según una fuente gubernamental conocedora de las conversaciones. Se espera que un senador aliado presente la propuesta en los próximos días. Entre las medidas estudiadas figura excluir los ingresos extraordinarios de la base de cálculo de los mínimos constitucionales de gasto en salud y educación incluso cuando haya superávit fiscal; actualmente, según la información, la exclusión se aplica en situaciones de déficit. También se discuten nuevos recortes de beneficios tributarios, sin detalles definitivos. Folha de S.Paulo informó de manera independiente sobre un paquete de R$ 70.000 millones a R$ 80.000 millones y controles presupuestarios, incluida la posibilidad de cancelar hasta R$ 12.800 millones en gastos de 2027 si la recaudación resulta insuficiente. No existe todavía un texto final aprobado, ni ahorros efectivamente realizados, ni una nueva ley vigente.",
+        "analysis": "La propuesta pretende transmitir confianza sobre la trayectoria de las cuentas públicas tras la reelección presidencial y la presión de los mercados sobre el tipo de cambio, los intereses y la deuda. La cifra de R$ 70.000 millones a R$ 80.000 millones es una estimación de medidas en negociación, no un recorte ya ejecutado. Modificar la base de cálculo de los mínimos constitucionales podría reducir las asignaciones mínimas obligatorias para salud y educación respecto de las normas actuales; es necesario distinguir el ahorro fiscal proyectado de una reducción nominal efectiva en sus presupuestos. Folha señaló un impacto de al menos R$ 6.000 millones sobre el mínimo de salud en 2027, sujeto al diseño definitivo. Otras medidas afectan a los beneficios tributarios y al control del gasto. Su alcance, implicaciones jurídicas y efectos distributivos dependerán del texto final y del debate parlamentario.",
+        "counterpoint": "Los partidarios del ajuste sostienen que unas reglas más previsibles y la revisión de exenciones tributarias pueden reducir el riesgo fiscal y, con el tiempo, aliviar el coste de financiación de la deuda. Los críticos advierten que recalcular los mínimos de salud y educación podría limitar los recursos disponibles para servicios públicos, especialmente si se excluyen ingresos extraordinarios. Las informaciones describen negociaciones basadas en fuentes, no legislación aprobada: el paquete aún no está aprobado y no se han recortado R$ 80.000 millones.",
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (17 de septiembre de 2026): el presidente Lula en un anuncio sobre Bolsa Família junto a integrantes del Gobierno, incluido Dario Durigan. Ricardo Stuckert / Lula Oficial / Wikimedia Commons (CC BY-SA 4.0). La imagen no muestra las negociaciones fiscales de noviembre."
+        },
+        "slug": "el-gobierno-de-brasil-negocia-un-ajuste-fiscal-de-hasta-r-80-000-millones-para-2026-11-11"
+      },
+      "firstSeen": "2026-11-11T02:55:27-03:00"
+    },
+    {
       "id": "petrobras-lucro-398-bilhoes-terceiro-trimestre-2026-11-11",
       "date": "2026-11-11",
       "category": "ECONOMIA",
