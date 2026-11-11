@@ -1,6 +1,64 @@
 {
   "articles": [
     {
+      "id": "papa-leao-xiv-vigilia-jovens-buenos-aires-2026-11-10",
+      "date": "2026-11-10",
+      "category": "MUNDO",
+      "title": "Papa Leão XIV reúne cerca de 1 milhão em vigília na Argentina e alerta jovens contra culto à fama",
+      "subtitle": "Em Buenos Aires, pontífice critica a busca de popularidade, dinheiro e aparência como fins em si mesmos; estimativas de público são das autoridades e organizadores.",
+      "facts": "O papa Leão XIV participou na noite de terça-feira, 10 de novembro de 2026, de uma vigília de oração com jovens no Monumento de los Españoles, em Buenos Aires, durante sua viagem à Argentina. Reuters e Associated Press relataram público estimado em cerca de 1 milhão de pessoas. O pontífice exortou os jovens a não transformarem dinheiro, sucesso, aparência e popularidade nas redes sociais em ídolos, e a seguirem exemplos de santidade. Mais cedo, celebrou missa em Córdoba, com público estimado em 650 mil pessoas. O Vaticano confirmou a programação da vigília para as 20h15, horário local. As estimativas de presença não constituem contagem independente.",
+      "analysis": "A fala do pontífice insere a cultura digital e a pressão por reconhecimento público no debate moral e espiritual sobre prioridades pessoais. A presença de uma multidão em Buenos Aires evidencia a capacidade de mobilização da Igreja Católica na Argentina, mas não demonstra por si só uma mudança duradoura na prática religiosa. O recado contra a idolatria de métricas e prestígio tem relevância também para criadores de conteúdo e para o ambiente de redes sociais.",
+      "counterpoint": "A crítica papal à busca obsessiva por fama não equivale a uma condenação geral da tecnologia, do trabalho ou das redes sociais. As cifras de público são estimativas divulgadas na cobertura jornalística, e não números auditados. A viagem também ocorre em contexto de debates sociais e econômicos argentinos; declarações pastorais do papa não devem ser confundidas automaticamente com apoio a um partido ou candidato.",
+      "sources": [
+        {
+          "name": "Reuters — Pope Leo draws million-strong crowd at Argentine vigil (10/11/2026)",
+          "url": "https://www.reuters.com/world/americas/pope-leo-draws-650000-another-strong-argentine-turnout-2026-11-10/"
+        },
+        {
+          "name": "Associated Press — Pope Leo XIV urges youth in Argentina to reject idols (10/11/2026)",
+          "url": "https://apnews.com/article/d07891d04b6338e56dc6a7984b839cf8"
+        },
+        {
+          "name": "Vaticano — Apostolic Journey to Argentina: Prayer Vigil with Young People (10/11/2026)",
+          "url": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/11/10/argentina-veglia-giovani.html"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Le%C3%B3n_XIV.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/; reutilização com atribuição",
+          "credit": "Gobierno de la República Argentina / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Le%C3%B3n_XIV.jpg",
+          "caption": "FOTO DE ARQUIVO (7/6/2025): papa Leão XIV durante audiência no Vaticano. Crédito: Governo da República Argentina / Wikimedia Commons, CC BY 4.0. A imagem não retrata a vigília de 10/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Pope Leo XIV draws estimated million to Argentina youth vigil, warns against worship of fame",
+        "subtitle": "At a Buenos Aires prayer vigil, the pontiff urges young people not to make money, looks or social-media popularity their idols.",
+        "facts": "On the evening of November 10, 2026, Pope Leo XIV attended a prayer vigil with young people at the Monumento de los Españoles in Buenos Aires during his Argentina visit. Reuters and Associated Press reported an estimated attendance of around 1 million. He urged young people not to idolize money, success, appearance or social-media popularity, and to follow examples of holiness. Earlier, he celebrated Mass in Córdoba, where attendance was estimated at 650,000. The Vatican scheduled the vigil for 8:15 p.m. local time. The crowd estimates were not independently audited counts.",
+        "analysis": "The pope's message brings digital culture and the pressure for public recognition into a broader moral and spiritual discussion about personal priorities. The large turnout highlights the Catholic Church's ability to mobilize people in Argentina, but it does not by itself establish a lasting change in religious practice. His warning about the worship of metrics and prestige also resonates with content creators and social-media audiences.",
+        "counterpoint": "The pope's criticism of obsessive fame-seeking is not a blanket condemnation of technology, work or social media. Reported crowd sizes are estimates rather than audited totals. The visit also takes place amid Argentine social and economic debates; pastoral statements should not automatically be read as endorsements of a party or candidate.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (June 7, 2025): Pope Leo XIV during a Vatican audience. Credit: Government of Argentina / Wikimedia Commons, CC BY 4.0. Not a photograph of the November 10, 2026 vigil."
+        }
+      },
+      "es": {
+        "title": "León XIV reúne a cerca de un millón en una vigilia juvenil en Argentina y advierte contra el culto a la fama",
+        "subtitle": "En Buenos Aires, el pontífice pide a los jóvenes que no conviertan el dinero, la apariencia ni la popularidad digital en ídolos.",
+        "facts": "La noche del 10 de noviembre de 2026, el papa León XIV participó en una vigilia de oración con jóvenes en el Monumento de los Españoles de Buenos Aires, durante su visita a Argentina. Reuters y Associated Press informaron de una asistencia estimada en alrededor de un millón de personas. El pontífice pidió no idolatrar el dinero, el éxito, la apariencia ni la popularidad en las redes sociales, y seguir ejemplos de santidad. Horas antes celebró una misa en Córdoba, con una asistencia estimada de 650.000 personas. El Vaticano había programado la vigilia para las 20:15, hora local. Las cifras de público no son recuentos auditados de forma independiente.",
+        "analysis": "El mensaje del papa sitúa la cultura digital y la presión por el reconocimiento público dentro de un debate moral y espiritual sobre las prioridades personales. La gran concurrencia demuestra la capacidad de convocatoria de la Iglesia católica en Argentina, pero por sí sola no prueba un cambio duradero en la práctica religiosa. La advertencia contra la idolatría de las métricas y el prestigio también interpela a creadores de contenido y usuarios de redes sociales.",
+        "counterpoint": "La crítica papal a la búsqueda obsesiva de fama no supone una condena general de la tecnología, el trabajo ni las redes sociales. Las cifras de asistencia son estimaciones periodísticas, no totales auditados. La visita ocurre además en medio de debates sociales y económicos argentinos; las declaraciones pastorales no deben interpretarse automáticamente como respaldo a un partido o candidato.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (7 de junio de 2025): el papa León XIV durante una audiencia en el Vaticano. Crédito: Gobierno de Argentina / Wikimedia Commons, CC BY 4.0. No muestra la vigilia del 10 de noviembre de 2026."
+        }
+      },
+      "firstSeen": "2026-11-10T23:56:59-03:00"
+    },
+    {
       "id": "dolar-fecha-5586-maior-15-meses-inflacao-eua-2026-11-10",
       "date": "2026-11-10",
       "category": "ECONOMIA",
