@@ -11,7 +11,7 @@ import re
 import sys
 from pathlib import Path
 
-from news_i18n import LANGS, PAGE_SLUGS, SECTIONS, block as news_block
+from news_i18n import LANGS, PAGE_SLUGS, SECTIONS, block as news_block, local_slug
 from frontpage_static import inject, render_main
 
 ROOT = Path(__file__).resolve().parent
@@ -70,7 +70,8 @@ class Translator:
         if m:
             done = self.news if m.group(1) == "noticias" else self.essays
             if m.group(2) in done:
-                return f"/{self.lang}/{SECTIONS[self.lang][m.group(1)]}/{m.group(2)}/" + frag
+                local = done[m.group(2)] if isinstance(done, dict) else m.group(2)
+                return f"/{self.lang}/{SECTIONS[self.lang][m.group(1)]}/{local}/" + frag
             return f"/{m.group(1)}/{m.group(2)}/" + frag
         return path + frag
 
@@ -160,7 +161,8 @@ def build(extract=False, write=True):
     missing = {}
     for lang in LANGS:
         static = {k: v[lang] for k, v in words_all.items() if isinstance(v, dict) and v.get(lang)}
-        done_news = {a["id"] for a in feed if news_block(a, lang) and (PUBLIC / lang / SECTIONS[lang]["noticias"] / a["id"] / "index.html").is_file()}
+        # id em português -> slug no idioma (news_i18n.assign_slugs)
+        done_news = {a["id"]: local_slug(a, lang) for a in feed if news_block(a, lang) and (PUBLIC / lang / SECTIONS[lang]["noticias"] / local_slug(a, lang) / "index.html").is_file()}
         done_essays = {e["id"] for e in essays if (PUBLIC / lang / SECTIONS[lang]["coluna"] / e["id"] / "index.html").is_file()}
         tail = (tail_pt, static[tail_pt]) if tail_pt in static else None
         t = Translator(lang, {**static, **dynamic_words(lang, feed, essays, tail)}, done_news, done_essays)

@@ -45,7 +45,7 @@ jobs:
       - name: Commit das páginas
         id: commit
         run: |
-          git add index.html public/noticias.html public/noticias public/sitemap.xml public/robots.txt public/raven-analytics.js public/editorial-feed.json public/editorial-images.json public/editorial/covers public/editorial/photos public/editorial-photo-credits.json public/creditos-fotos.html public/coluna.html public/coluna public/livros.html public/livros.json public/en public/es public/sitemap-news.xml
+          git add index.html public/noticias.html public/noticias public/sitemap.xml public/robots.txt public/raven-analytics.js public/editorial-feed.json public/editorial-images.json public/editorial/covers public/editorial/photos public/editorial-photo-credits.json public/creditos-fotos.html public/coluna.html public/coluna public/livros.html public/livros.json public/en public/es public/news-slugs.json public/sitemap-news.xml
           if [ -f public/sitemap-coluna.xml ]; then git add public/sitemap-coluna.xml; fi
           if git diff --cached --quiet; then echo "changed=false" >> "$GITHUB_OUTPUT"; exit 0; fi
           git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "Atualizar paginas indexaveis da Coluna"

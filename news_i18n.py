@@ -4,6 +4,8 @@ The news agent writes e.g. "en": {title, subtitle, facts, analysis, counterpoint
 Articles without a complete block get no page in that language. Photos and sources are shared with the Portuguese page.
 """
 import html
+import re
+import unicodedata
 import json
 from pathlib import Path
 from urllib.parse import urlparse
@@ -87,6 +89,50 @@ PAGE_SLUGS = {"en": {"noticias": "news", "coluna": "column", "livros": "library"
               "es": {"noticias": "noticias", "coluna": "columna", "livros": "libros", "apoie": "apoyo", "sobre": "sobre", "termos": "terminos", "privacidade": "privacidad"}}
 
 
+SLUGS_FILE = "public/news-slugs.json"  # {pt_id: {en: slug, es: slug}}; commitado pelo Publicar site
+
+
+def slugify(text: str, limit: int = 80) -> str:
+    s = unicodedata.normalize("NFKD", str(text)).encode("ascii", "ignore").decode().lower()
+    s = re.sub(r"[^a-z0-9]+", "-", s).strip("-")
+    return s[:limit].rsplit("-", 1)[0] if len(s) > limit else s
+
+
+def assign_slugs(root: Path, articles: list) -> None:
+    """URL no idioma (/en/news/lula-fights-alcolumbre-2026-11-12/) a partir do título traduzido, gravada uma vez e nunca
+    mais trocada. Página já publicada fica com o id em português. Põe o slug em a[lang]["slug"] para quem monta links."""
+    path = root / SLUGS_FILE
+    store = json.loads(path.read_text(encoding="utf-8")) if path.is_file() else {}
+    before = json.dumps(store, sort_keys=True)
+    taken = {l: {v[l] for v in store.values() if l in v} for l in LANGS}
+    for a in articles:
+        aid = str(a.get("id", ""))
+        if not re.fullmatch(r"[a-z0-9-]{3,100}", aid):
+            continue
+        for lang in langs_of(a):
+            s = store.setdefault(aid, {}).get(lang)
+            if not s:
+                if (root / "public" / lang / section(lang, "noticias") / aid / "index.html").is_file():
+                    s = aid
+                else:
+                    date = re.search(r"\d{4}-\d{2}-\d{2}$", aid)
+                    base = "-".join(x for x in (slugify(block(a, lang)["title"]), date.group(0) if date else "") if x) or aid
+                    s, n = base[:100], 2
+                    while s in taken[lang]:
+                        s, n = f"{base[:96]}-{n}", n + 1
+                store[aid][lang] = s
+                taken[lang].add(s)
+            a[lang] = {**a[lang], "slug": s}
+    store = {k: v for k, v in store.items() if v}
+    if json.dumps(store, sort_keys=True) != before:
+        path.write_text(json.dumps(store, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8")
+
+
+def local_slug(a: dict, lang: str) -> str:
+    b = block(a, lang) or {}
+    return b["slug"] if re.fullmatch(r"[a-z0-9-]{3,100}", str(b.get("slug", ""))) else a["id"]
+
+
 def url_of(base: str, lang: str, slug: str) -> str:
     return f"{base}/{lang}/{section(lang, 'noticias')}/{slug}/"
 
@@ -94,7 +140,7 @@ def url_of(base: str, lang: str, slug: str) -> str:
 def render_article(root: Path, a: dict, lang: str, updated: str, credits: dict, css: str, base: str, title_html) -> str:
     """Write public/<lang>/noticias/<id>/index.html and return its URL."""
     b, slug, L = block(a, lang), a["id"], LANGS[lang]
-    url, pt_url = url_of(base, lang, slug), f"{base}/noticias/{slug}/"
+    url, pt_url = url_of(base, lang, local_slug(a, lang)), f"{base}/noticias/{slug}/"
     caps = b.get("photo_captions") if isinstance(b.get("photo_captions"), dict) else {}
     local = dict(credits)
     for n, key in ((1, slug), (2, f"{slug}--2"), (3, f"{slug}--3")):
@@ -116,7 +162,7 @@ def render_article(root: Path, a: dict, lang: str, updated: str, credits: dict, 
     og = (f'<meta property="og:image" content="{image}"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{image}">'
           if image else "")
     ld = og + '<meta property="og:type" content="article"><script type="application/ld+json">' + json.dumps(schema, ensure_ascii=False).replace("<", "\\u003c") + "</script>"
-    alts = {l: url_of(base, l, slug) for l in langs_of(a)}
+    alts = {l: url_of(base, l, local_slug(a, l)) for l in langs_of(a)}
     h = L["h"]
     page = (_head(lang, b["title"] + " | Raven Crow", b.get("subtitle", ""), url, hreflang(pt_url, alts), css, ld)
             + '<body class="rc-news">' + _top(lang, "../../../", "../../../noticias/" + slug + "/")
@@ -129,7 +175,7 @@ def render_article(root: Path, a: dict, lang: str, updated: str, credits: dict, 
             + '<p><a href="../../../noticias/' + slug + '/" hreflang="pt-BR">Leia em português →</a></p></main>'
             + '<footer class="rc-foot"><span>' + L["foot"] + ' / <time datetime="' + _esc(a["date"]) + '">' + fmt_date(a["date"], lang) + "</time></span><b>Raven Crow</b></footer>"
             + '<script defer src="../../../raven-analytics.js"></script></body></html>')
-    dest = root / "public" / lang / section(lang, "noticias") / slug
+    dest = root / "public" / lang / section(lang, "noticias") / local_slug(a, lang)
     dest.mkdir(parents=True, exist_ok=True)
     (dest / "index.html").write_text(page, encoding="utf-8")
     return url
@@ -138,7 +184,7 @@ def render_article(root: Path, a: dict, lang: str, updated: str, credits: dict, 
 def render_index(root: Path, lang: str, items: list, css: str, base: str) -> str:
     """Write public/<lang>/index.html listing the articles in that language (newest first) and return its URL."""
     L, url = LANGS[lang], f"{base}/{lang}/"
-    rows = "".join('<li><a href="' + section(lang, "noticias") + '/' + _esc(a["id"]) + '/"><strong>' + _esc(block(a, lang)["title"]) + "</strong></a><br><small>"
+    rows = "".join('<li><a href="' + section(lang, "noticias") + '/' + _esc(local_slug(a, lang)) + '/"><strong>' + _esc(block(a, lang)["title"]) + "</strong></a><br><small>"
                    + fmt_date(a["date"], lang) + " · " + _esc(block(a, lang).get("subtitle", "")) + "</small></li>"
                    for a in sorted(items, key=lambda x: x.get("date", ""), reverse=True))
     alts = {l: f"{base}/{l}/" for l in LANGS}

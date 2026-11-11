@@ -21,8 +21,8 @@ const imagePath=(a,assets)=>{
  return typeof cover==='string'&&/^editorial\/covers\/[a-z0-9-]+\.svg$/.test(cover)?'/'+cover:null;
 };
 // Em inglês/espanhol só entra a matéria com tradução completa (a mesma regra de news_i18n.py).
-const localize=a=>{if(LANG==='pt')return a;const b=a[LANG];if(!b||!['title','facts','analysis','counterpoint'].every(k=>typeof b[k]==='string'&&b[k].trim()))return null;return {...a,title:b.title,subtitle:b.subtitle||'',category:b.category||'',facts:b.facts,analysis:b.analysis,counterpoint:b.counterpoint}};
-const href=a=>t.newsPath+encodeURIComponent(a.id)+'/';
+const localize=a=>{if(LANG==='pt')return a;const b=a[LANG];if(!b||!['title','facts','analysis','counterpoint'].every(k=>typeof b[k]==='string'&&b[k].trim()))return null;return {...a,slug:/^[a-z0-9-]{3,100}$/.test(b.slug||'')?b.slug:a.id,title:b.title,subtitle:b.subtitle||'',category:b.category||'',facts:b.facts,analysis:b.analysis,counterpoint:b.counterpoint}};
+const href=a=>t.newsPath+encodeURIComponent(a.slug||a.id)+'/';
 const readingTime=a=>Math.max(2,Math.ceil(((a.facts||'')+' '+(a.analysis||'')+' '+(a.counterpoint||'')).split(/\s+/).length/210));
 const formatDate=date=>{if(!/^\d{4}-\d{2}-\d{2}$/.test(date||''))return 'Raven Crow';const [y,m,d]=date.split('-');return LANG==='en'?m+'/'+d+'/'+y:d+'/'+m+'/'+y};
 const image=(path,cls,alt,eager=false)=>{const el=make('img',cls);el.src=path;el.alt=alt;el.loading=eager?'eager':'lazy';el.decoding='async';if(eager)el.fetchPriority='high';return el};

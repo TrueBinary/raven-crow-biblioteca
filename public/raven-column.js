@@ -7,7 +7,7 @@ const t={pt:{path:'/noticias/',file:'Imagem ilustrativa de arquivo',cat:'ANÁLIS
  es:{path:'/es/noticias/',file:'Foto ilustrativa de archivo',cat:'ANÁLISIS',arc:' · ARCHIVO',fallback:'Análisis Raven Crow',more:'Lee la nota y consulta las fuentes.',empty:'No hay notas archivadas por ahora.',error:'No fue posible cargar el archivo ahora.',all:'Ve a noticias y análisis',hub:'/es/noticias'}}[LANG]||null;
 if(!t)return;
 // Em inglês/espanhol só a matéria com tradução completa (regra de news_i18n.py).
-const localize=a=>{if(LANG==='pt')return a;const b=a[LANG];if(!b||!['title','facts','analysis','counterpoint'].every(k=>typeof b[k]==='string'&&b[k].trim()))return null;return {...a,title:b.title,subtitle:b.subtitle||'',category:b.category||''}};
+const localize=a=>{if(LANG==='pt')return a;const b=a[LANG];if(!b||!['title','facts','analysis','counterpoint'].every(k=>typeof b[k]==='string'&&b[k].trim()))return null;return {...a,slug:/^[a-z0-9-]{3,100}$/.test(b.slug||'')?b.slug:a.id,title:b.title,subtitle:b.subtitle||'',category:b.category||''}};
 const make=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(text!==undefined)e.textContent=text;return e};
 try{
  const [res,assetRes]=await Promise.all([fetch('/editorial-feed.json',{cache:'no-store'}),fetch('/editorial-images.json').catch(()=>null)]);
@@ -22,7 +22,7 @@ try{
  items.sort((a,b)=>String(b.date||'').localeCompare(String(a.date||'')));
  root.replaceChildren();
  for(const article of items){
-   const a=make('a','rc-col-archive-item');a.href=t.path+encodeURIComponent(article.id)+'/';
+   const a=make('a','rc-col-archive-item');a.href=t.path+encodeURIComponent(article.slug||article.id)+'/';
    const thumb=make('div','rc-col-thumb'),photo=assets.photos&&assets.photos[article.id];
    const img=make('img',typeof photo==='string'?'':'rc-col-thumb-placeholder');
    img.src=typeof photo==='string'&&/^editorial\/photos\/[a-z0-9-]+\.jpg$/.test(photo)?'/'+photo:'/raven-logo.webp';

@@ -8,7 +8,7 @@ Mesma marcação de raven-frontpage.js: mudou um, mude o outro.
 import re
 from html import escape
 
-from news_i18n import SECTIONS, block
+from news_i18n import SECTIONS, block, local_slug
 
 T = {
     "pt": {"img": "Imagem ilustrativa: ", "news": "Notícias", "lead": "Confira a análise completa.", "min": " min de leitura", "file": "Foto ilustrativa de arquivo",
@@ -26,7 +26,7 @@ def _story(a: dict, lang: str):
     if lang == "pt":
         return a
     b = block(a, lang)
-    return {**a, "title": b["title"], "subtitle": b.get("subtitle", ""), "category": b.get("category", ""),
+    return {**a, "slug": local_slug(a, lang), "title": b["title"], "subtitle": b.get("subtitle", ""), "category": b.get("category", ""),
             "facts": b["facts"], "analysis": b["analysis"], "counterpoint": b["counterpoint"]} if b else None
 
 
@@ -68,7 +68,7 @@ def render_main(articles: list, images: dict, lang: str) -> str:
         return ""
     lead, e = stories[0], escape
     pic = _img(lead, images, "rc-mag-hero-image", t["img"] + lead["title"], HERO_SIZES, True)
-    out = (f'<a class="rc-mag-hero" href="{path}{lead["id"]}/" id="{lead["id"]}">{pic}<div class="rc-mag-hero-content">'
+    out = (f'<a class="rc-mag-hero" href="{path}{lead.get("slug", lead["id"])}/" id="{lead["id"]}">{pic}<div class="rc-mag-hero-content">'
            f'<span class="rc-mag-tag">{e(lead.get("category") or t["news"])}</span><h2>{e(lead["title"])}</h2><p>{e(lead.get("subtitle") or t["lead"])}</p>'
            f'<span class="rc-mag-meta">{_date(lead.get("date", ""), lang)}  ·  {_minutes(lead)}{t["min"]}{"  ·  " + t["file"] if pic else ""}</span></div></a>'
            f'<h2 class="rc-mag-section-title">{t["latest"]}</h2><div class="rc-mag-list">')
@@ -76,7 +76,7 @@ def render_main(articles: list, images: dict, lang: str) -> str:
         pic = _img(a, images, "rc-mag-item-image", t["img"] + a["title"], THUMB_SIZES, False)
         tile = (f'<div class="rc-mag-thumbnail">{pic}</div>' if pic else
                 '<div class="rc-mag-thumbnail rc-mag-thumbnail-empty"><img class="rc-mag-placeholder" src="/raven-logo.webp" alt="" loading="lazy" decoding="async"></div>')
-        out += (f'<a class="rc-mag-item" href="{path}{a["id"]}/" id="{a["id"]}">{tile}<div class="rc-mag-item-body">'
+        out += (f'<a class="rc-mag-item" href="{path}{a.get("slug", a["id"])}/" id="{a["id"]}">{tile}<div class="rc-mag-item-body">'
                 f'<span class="rc-mag-tag">{e(a.get("category") or t["analysis"])}</span><h3>{e(a["title"])}</h3><p>{e(a.get("subtitle") or t["more"])}</p>'
                 f'<span class="rc-mag-meta">{_date(a.get("date", ""), lang)}  ·  {_minutes(a)}{t["min"]}</span></div></a>')
     out += "</div>"
