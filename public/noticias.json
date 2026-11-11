@@ -2,9 +2,66 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "11/11/2026",
-  "updatedAt": "2026-11-11T11:12:00-03:00",
+  "updatedAt": "2026-11-11T11:56:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "espanha-greve-geral-habitacao-salarios-eleicoes-2026-11-11",
+      "date": "2026-11-11",
+      "category": "MUNDO",
+      "title": "Espanha tem greve geral por moradia e salários; protestos e confrontos marcam dia",
+      "subtitle": "Paralisação apoiada por UGT e CCOO ocorre antes das eleições antecipadas de 29 de novembro e afeta transportes, portos e fábricas.",
+      "facts": "A Espanha realiza nesta quarta-feira, 11 de novembro de 2026, uma greve geral de 24 horas convocada por sindicatos e associações de inquilinos contra o encarecimento dos aluguéis, a dificuldade de acesso à moradia e a perda do poder de compra. Reuters e Associated Press confirmaram paralisações em setores como transportes, portos e indústria automobilística, além de protestos em várias cidades. Houve confrontos com policiais e detenções em episódios localizados, incluindo piquetes em Madri. UGT e CCOO relataram adesão de até 90% em portos e no setor automotivo, número informado pelos organizadores, não uma medição independente. O país realizará eleições legislativas antecipadas em 29 de novembro.",
+      "analysis": "A mobilização coloca a crise de moradia no centro da campanha eleitoral espanhola. A Reuters cita estimativa do banco central de déficit de aproximadamente 750 mil moradias, enquanto sindicatos exigem maior proteção a inquilinos e melhores salários. O conflito também expõe divergências sobre como ampliar a oferta de imóveis: representantes empresariais defendem mais construção e redução de impostos, ao passo que organizações de inquilinos pedem limites à especulação e proteção contra despejos. O efeito da greve varia entre setores e regiões.",
+      "counterpoint": "As taxas de adesão divulgadas por sindicatos não representam necessariamente o conjunto dos trabalhadores. A entidade empresarial CEOE considera a paralisação contraproducente e argumenta que ampliar a construção e reduzir custos tributários ajudaria a aliviar o problema habitacional. O governo de Pedro Sánchez atribui parte da crise a decisões regionais e municipais, mas manifestantes também responsabilizam a administração central. Confrontos pontuais não devem ser atribuídos a todos os participantes.",
+      "sources": [
+        {
+          "name": "Reuters — Workers across Spain stage first general strike in 14 years (11/11/2026)",
+          "url": "https://www.reuters.com/business/world-at-work/workers-across-spain-stage-first-general-strike-14-years-anger-over-housing-2026-11-11/"
+        },
+        {
+          "name": "Associated Press — Spain's workers hold a general strike over housing costs (11/11/2026)",
+          "url": "https://apnews.com/article/68a061a72d7cdf842b7803a816e46ef0"
+        },
+        {
+          "name": "Europa Press — Arranca la huelga general por la vivienda y los salarios (11/11/2026)",
+          "url": "https://www.europapress.es/economia/laboral-00346/noticia-arranca-huelga-general-vivienda-salarios-primera-presidencia-pedro-sanchez-20261111000049.html"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Manifestaci%C3%B3n_por_una_vivienda_digna_-_250209_131616.jpg/960px-Manifestaci%C3%B3n_por_una_vivienda_digna_-_250209_131616.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0 (Creative Commons Attribution-ShareAlike 4.0 International)",
+          "credit": "Barcex / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Manifestaci%C3%B3n_por_una_vivienda_digna_-_250209_131616.jpg",
+          "caption": "FOTO DE ARQUIVO (09/02/2025): manifestação por moradia digna em Madri, Espanha. Barcex / Wikimedia Commons, CC BY-SA 4.0. Não retrata a greve geral de 11/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Spain holds nationwide strike over housing and wages as protests and clashes erupt",
+        "subtitle": "UGT- and CCOO-backed walkout ahead of the November 29 snap election disrupts transport, ports and factories.",
+        "facts": "Spain is holding a 24-hour general strike on Wednesday, November 11, 2026, backed by trade unions and tenants' groups protesting rising rents, housing shortages and eroding purchasing power. Reuters and the Associated Press independently reported disruptions in transport, ports and automotive manufacturing, alongside demonstrations across the country. Isolated clashes with police and arrests were reported, including at picket lines in Madrid. UGT and CCOO said participation reached up to 90% at ports and in the automotive sector; those are organizers' figures, not independently verified national turnout. Spain is scheduled to hold a snap parliamentary election on November 29.",
+        "analysis": "The strike places housing affordability at the center of Spain's election campaign. Reuters cited a central-bank estimate of a roughly 750,000-home shortage. Unions want stronger tenant protections and higher wages, while employers advocate building more homes and cutting construction and purchase taxes. The scale of disruption varies by region and sector.",
+        "counterpoint": "Union turnout estimates should not be treated as a nationwide participation rate. Business lobby CEOE calls the strike counterproductive and argues that more housing supply and lower taxes would be more effective. Prime Minister Pedro Sánchez's government points to regional and municipal policies, but protesters also hold the national government responsible. Isolated clashes do not characterize all demonstrators.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (February 9, 2025): housing-rights demonstration in Madrid, Spain. Barcex / Wikimedia Commons, CC BY-SA 4.0. This does not depict the November 11, 2026 general strike."
+        }
+      },
+      "es": {
+        "title": "España vive una huelga general por vivienda y salarios con protestas y enfrentamientos",
+        "subtitle": "El paro respaldado por UGT y CCOO, antes de las elecciones anticipadas del 29 de noviembre, afecta al transporte, los puertos y las fábricas.",
+        "facts": "España celebra el miércoles 11 de noviembre de 2026 una huelga general de 24 horas, convocada por sindicatos y asociaciones de inquilinos contra el encarecimiento del alquiler, la escasez de vivienda y la pérdida de poder adquisitivo. Reuters y Associated Press confirmaron interrupciones en el transporte, los puertos y la industria automovilística, además de manifestaciones en distintas ciudades. Se registraron enfrentamientos aislados con la policía y detenciones, entre otros lugares en piquetes de Madrid. UGT y CCOO afirmaron que el seguimiento alcanzó hasta el 90% en los puertos y el sector del automóvil; son cifras de los convocantes, no una medición independiente a escala nacional. Las elecciones legislativas anticipadas están previstas para el 29 de noviembre.",
+        "analysis": "La movilización sitúa el acceso a la vivienda en el centro de la campaña electoral. Reuters cita una estimación del banco central de un déficit de unas 750.000 viviendas. Los sindicatos reclaman protección para los inquilinos y mejores salarios, mientras que las organizaciones empresariales proponen aumentar la construcción y reducir los impuestos vinculados a la vivienda. El impacto del paro varía según la región y el sector.",
+        "counterpoint": "Las cifras de seguimiento difundidas por los sindicatos no equivalen a una tasa nacional comprobada. La patronal CEOE considera contraproducente la huelga y defiende ampliar la oferta de viviendas y reducir impuestos. El Gobierno de Pedro Sánchez señala la responsabilidad de administraciones regionales y locales, pero los manifestantes también critican al Ejecutivo central. Los incidentes aislados no representan al conjunto de participantes.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (9 de febrero de 2025): manifestación por una vivienda digna en Madrid, España. Barcex / Wikimedia Commons, CC BY-SA 4.0. No muestra la huelga general del 11 de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "italia-evacua-312-escolas-ameacas-bomba-2026-11-11",
       "date": "2026-11-11",
