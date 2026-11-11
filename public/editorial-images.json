@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "governo-propoe-ajuste-fiscal-ate-60-bilhoes-2027-2026-11-11": "editorial/covers/governo-propoe-ajuste-fiscal-ate-60-bilhoes-2027-2026-11-11.svg",
     "ataque-drones-porto-ust-luga-incendio-tres-feridos-2026-11-11": "editorial/covers/ataque-drones-porto-ust-luga-incendio-tres-feridos-2026-11-11.svg",
     "quenia-ultimo-paciente-ebola-alta-contagem-42-dias-2026-11-11": "editorial/covers/quenia-ultimo-paciente-ebola-alta-contagem-42-dias-2026-11-11.svg",
     "arabia-saudita-intercepta-tres-misseis-riade-dois-drones-2026-11-11": "editorial/covers/arabia-saudita-intercepta-tres-misseis-riade-dois-drones-2026-11-11.svg",
@@ -215,7 +216,8 @@
     "arabia-saudita-intercepta-tres-misseis-riade-dois-drones-2026-11-11": "editorial/photos/arabia-saudita-intercepta-tres-misseis-riade-dois-drones-2026-11-11.jpg",
     "quenia-ultimo-paciente-ebola-alta-contagem-42-dias-2026-11-11": "editorial/photos/quenia-ultimo-paciente-ebola-alta-contagem-42-dias-2026-11-11.jpg",
     "ataque-drones-porto-ust-luga-incendio-tres-feridos-2026-11-11": "editorial/photos/ataque-drones-porto-ust-luga-incendio-tres-feridos-2026-11-11.jpg",
-    "a-transparencia-que-precisa-de-lanterna-e-advogado-2026-11-11": "editorial/photos/a-transparencia-que-precisa-de-lanterna-e-advogado-2026-11-11.jpg"
+    "a-transparencia-que-precisa-de-lanterna-e-advogado-2026-11-11": "editorial/photos/a-transparencia-que-precisa-de-lanterna-e-advogado-2026-11-11.jpg",
+    "governo-propoe-ajuste-fiscal-ate-60-bilhoes-2027-2026-11-11": "editorial/photos/governo-propoe-ajuste-fiscal-ate-60-bilhoes-2027-2026-11-11.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -799,6 +801,12 @@
       "srcset": "editorial/photos/a-transparencia-que-precisa-de-lanterna-e-advogado-2026-11-11-320.webp 320w, editorial/photos/a-transparencia-que-precisa-de-lanterna-e-advogado-2026-11-11-640.webp 640w, editorial/photos/a-transparencia-que-precisa-de-lanterna-e-advogado-2026-11-11-960.webp 960w, editorial/photos/a-transparencia-que-precisa-de-lanterna-e-advogado-2026-11-11-1280.webp 1280w",
       "width": 1280,
       "height": 960
+    },
+    "governo-propoe-ajuste-fiscal-ate-60-bilhoes-2027-2026-11-11": {
+      "src": "editorial/photos/governo-propoe-ajuste-fiscal-ate-60-bilhoes-2027-2026-11-11-1280.webp",
+      "srcset": "editorial/photos/governo-propoe-ajuste-fiscal-ate-60-bilhoes-2027-2026-11-11-320.webp 320w, editorial/photos/governo-propoe-ajuste-fiscal-ate-60-bilhoes-2027-2026-11-11-640.webp 640w, editorial/photos/governo-propoe-ajuste-fiscal-ate-60-bilhoes-2027-2026-11-11-960.webp 960w, editorial/photos/governo-propoe-ajuste-fiscal-ate-60-bilhoes-2027-2026-11-11-1280.webp 1280w",
+      "width": 1280,
+      "height": 720
     }
   }
 }
