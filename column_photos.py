@@ -3,7 +3,7 @@ from html import escape
 from pathlib import Path
 import re
 
-WIDTHS = (640, 1280)
+WIDTHS = (320, 640, 1280)
 
 
 def webp_variants(public: Path, path: str) -> dict:

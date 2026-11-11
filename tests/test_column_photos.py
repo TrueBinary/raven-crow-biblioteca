@@ -44,12 +44,12 @@ class ColumnPhotoTests(unittest.TestCase):
         credits = {s: {"path": f"editorial/photos/{s}.jpg", "artist": "A"} for s in ("grande", "pequena")}
         html = photo_figure("grande", credits, self.public, "T")
         self.assertIn('src="editorial/photos/grande-1280.webp"', html)
-        self.assertIn('srcset="editorial/photos/grande-640.webp 640w, editorial/photos/grande-1280.webp 1280w"', html)
+        self.assertIn('srcset="editorial/photos/grande-320.webp 320w, editorial/photos/grande-640.webp 640w, editorial/photos/grande-1280.webp 1280w"', html)
         self.assertIn('width="1280" height="640"', html)
         with Image.open(self.public / "editorial/photos/grande-640.webp") as im:
             self.assertEqual(im.size, (640, 320))
         small = photo_figure("pequena", credits, self.public, "T")  # never upscaled
-        self.assertIn('srcset="editorial/photos/pequena-500.webp 500w"', small)
+        self.assertIn('srcset="editorial/photos/pequena-320.webp 320w, editorial/photos/pequena-500.webp 500w"', small)
         self.assertFalse((self.public / "editorial/photos/pequena-640.webp").exists())
 
 

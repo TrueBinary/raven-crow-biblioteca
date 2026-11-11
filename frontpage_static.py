@@ -85,6 +85,32 @@ def render_main(articles: list, images: dict, lang: str) -> str:
     return out
 
 
+CSS = ("raven-editorial.css", "raven-unified.css", "raven-navigation.css")
+FONTS = [("Barlow Condensed", w, f"barlow-condensed-{w}") for w in (600, 700, 800, 900)] + [("DM Sans", "400 700", "dm-sans")]
+# O que inline_head() troca: links do Google Fonts, os 3 CSS da capa e o bloco que ela mesma escreveu antes.
+HEAD = re.compile(r'<link rel="preconnect" href="https://fonts\.g[^>]*>\s*|<link href="https://fonts\.googleapis\.com/[^>]*>\s*'
+                  r'|<link rel="stylesheet" href="/?(?:' + "|".join(re.escape(c) for c in CSS) + r')">\s*'
+                  r'|<link rel="preload" as="font"[^>]*>\s*|<style data-inline="[^"]*">.*?</style>\s*', re.S)
+
+
+def inline_head(page: str, public) -> str:
+    """CSS da capa e fontes próprias dentro do HTML: o primeiro desenho não espera 4 idas à rede (FCP no PageSpeed).
+
+    Lê os .css a cada build, então mudar raven-unified.css continua valendo na capa.
+    """
+    css = "".join(f"@font-face{{font-family:'{f}';font-style:normal;font-weight:{w};font-display:swap;src:url(/fonts/{n}.woff2) format('woff2')}}"
+                  for f, w, n in FONTS)
+    css += "\n".join((public / c).read_text(encoding="utf-8") for c in CSS)
+    block = ('<link rel="preload" as="font" type="font/woff2" href="/fonts/barlow-condensed-900.woff2" crossorigin>\n'
+             '<link rel="preload" as="font" type="font/woff2" href="/fonts/dm-sans.woff2" crossorigin>\n'
+             f'<style data-inline="{" ".join(CSS)}">{css}</style>\n')
+    first = []
+    out = HEAD.sub(lambda m: "" if first else first.append(1) or block, page)
+    if not first:
+        raise RuntimeError("Capa sem os links de CSS/fontes esperados")
+    return out
+
+
 MAIN = re.compile(r'(<div class="rc-mag-main"(?: data-ssr="1")?>).*?(</div>\s*<div class="rc-mag-side">)', re.S)
 
 

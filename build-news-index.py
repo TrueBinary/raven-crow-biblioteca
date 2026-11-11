@@ -52,10 +52,10 @@ page='''<!doctype html><html lang="pt-BR"><head>
 </body></html>'''
 (PUBLIC/'noticias.html').write_text(page,encoding='utf-8')
 # Capa: destaque + últimas notícias já em HTML (frontpage_static.py), sem o pulo de layout do JS trocando a lista.
-from frontpage_static import inject, render_main
+from frontpage_static import inject, inline_head, render_main
 images=json.loads((PUBLIC/'editorial-images.json').read_text(encoding='utf-8'))
 home_now=(ROOT/'index.html').read_text(encoding='utf-8')
-home_new=inject(home_now,render_main(articles,images,'pt'))
+home_new=inline_head(inject(home_now,render_main(articles,images,"pt")),PUBLIC)
 home_new=re.sub(r'<link rel="preload" as="image" data-rc-lead[^>]*>','',home_new)  # a <img> do destaque já está no HTML
 from newsletter import block as newsletter_block
 nl=newsletter_block('home')
