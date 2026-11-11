@@ -2,9 +2,45 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "10/11/2026",
-  "updatedAt": "2026-11-10T20:58:00-03:00",
+  "updatedAt": "2026-11-10T22:01:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "dolar-fecha-5586-maior-15-meses-inflacao-eua-2026-11-10",
+      "date": "2026-11-10",
+      "category": "ECONOMIA",
+      "title": "Dólar fecha a R$ 5,586, maior valor em 15 meses, após inflação dos EUA superar previsões",
+      "subtitle": "Moeda sobe 1,46% e Ibovespa recua 0,52%; dados americanos elevam expectativas de juros mais altos.",
+      "facts": "O dólar comercial fechou em R$ 5,5860 nesta terça-feira, 10 de novembro de 2026, alta de 1,46% e maior valor de fechamento desde 31 de julho de 2025. A cotação chegou a R$ 5,6135 durante a sessão. O Ibovespa recuou 0,52%, para 171.336,99 pontos. A inflação ao consumidor nos Estados Unidos avançou 0,4% em outubro, acima da previsão de 0,3%, ampliando apostas de aumento dos juros pelo Federal Reserve. No Brasil, investidores também avaliaram a ata do Copom, que ressaltou riscos inflacionários e fiscais. Agência Brasil, Folha e UOL divulgaram os números do fechamento.",
+      "analysis": "A valorização do dólar pode pressionar preços de produtos importados, insumos e contratos atrelados à moeda americana, embora os efeitos dependam de duração e repasse. Juros mais altos nos Estados Unidos tendem a tornar ativos denominados em dólar relativamente mais atraentes, pressionando moedas emergentes. A cautela com a política fiscal brasileira e a perspectiva de Selic elevada também influenciam expectativas. Um único pregão, porém, não determina tendência cambial de longo prazo.",
+      "counterpoint": "A alta não pode ser atribuída exclusivamente ao governo brasileiro: os dados de inflação dos EUA e a reprecificação dos juros americanos foram fatores internacionais importantes. Tampouco é possível afirmar que o dólar permanecerá nesse nível ou que haverá repasse integral e imediato aos consumidores. O fechamento de mercado é um retrato do pregão, sujeito a novas oscilações.",
+      "sources": [
+        {
+          "name": "Agência Brasil — dólar sobe 1,46% e fecha no maior valor em 15 meses (10/11/2026)",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-146-e-fecha-no-maior-valor-em-15-meses"
+        },
+        {
+          "name": "Folha de S.Paulo — dólar sobe a R$ 5,58 e Bolsa cai (10/11/2026)",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-alta-com-ata-do-copom-e-expectativa-por-dados-de-inflacao-nos-eua.shtml"
+        }
+      ],
+      "en": {
+        "title": "Dollar closes at R$5.586, a 15-month high, after US inflation tops forecasts",
+        "subtitle": "The US currency gains 1.46% while Brazil's Ibovespa falls 0.52%, as US inflation raises rate expectations.",
+        "facts": "On November 10, 2026, the US dollar closed at R$5.5860 in Brazil, up 1.46% and at its highest closing level since July 31, 2025. It reached R$5.6135 intraday. The Ibovespa fell 0.52% to 171,336.99 points. US consumer prices rose 0.4% in October, above a forecast of 0.3%, increasing expectations of a Federal Reserve interest-rate rise. In Brazil, investors also assessed the minutes of the Copom (Brazil's Monetary Policy Committee), which highlighted inflation and fiscal risks. Agência Brasil and other Brazilian outlets reported the closing figures.",
+        "analysis": "A stronger dollar can raise the cost of imports, inputs and dollar-linked contracts, depending on how long the move lasts and whether businesses pass costs on. Higher US interest rates can make dollar assets more attractive relative to emerging-market currencies. Brazil's fiscal outlook and expectations of sustained high domestic interest rates also affect sentiment. A single trading day, however, does not establish a long-term exchange-rate trend.",
+        "counterpoint": "The move cannot be attributed solely to Brazilian domestic policy: stronger-than-expected US inflation and changes in US interest-rate expectations were significant international factors. Nor does one closing price establish that the currency will stay at that level or that all costs will immediately reach consumers.",
+        "category": "ECONOMY"
+      },
+      "es": {
+        "title": "El dólar cierra en R$ 5,586, máximo en 15 meses, tras una inflación estadounidense superior a lo previsto",
+        "subtitle": "La moneda sube un 1,46 % y el Ibovespa cae un 0,52 % ante mayores expectativas de tipos de interés en Estados Unidos.",
+        "facts": "El 10 de noviembre de 2026, el dólar comercial cerró en Brasil a R$ 5,5860, con una subida del 1,46 % y su mayor nivel de cierre desde el 31 de julio de 2025. Durante la jornada alcanzó R$ 5,6135. El Ibovespa retrocedió un 0,52 %, hasta 171.336,99 puntos. Los precios al consumidor en Estados Unidos aumentaron un 0,4 % en octubre, por encima del 0,3 % previsto, elevando las expectativas de una subida de tipos por la Reserva Federal. En Brasil, los inversores también evaluaron el acta del Copom (Comité de Política Monetaria de Brasil), que señaló riesgos inflacionarios y fiscales. Agência Brasil y otros medios brasileños informaron sobre los datos del cierre.",
+        "analysis": "La apreciación del dólar puede encarecer las importaciones, los insumos y los contratos vinculados a la moneda estadounidense, dependiendo de la duración del movimiento y del traslado de costes. Unos tipos más altos en Estados Unidos pueden aumentar el atractivo relativo de los activos en dólares frente a monedas emergentes. Las perspectivas fiscales brasileñas y la expectativa de tipos nacionales elevados también influyen en el mercado. Una sola sesión no determina una tendencia cambiaria duradera.",
+        "counterpoint": "La subida no puede atribuirse exclusivamente a la política interna brasileña: la inflación estadounidense superior a lo previsto y las nuevas expectativas sobre sus tipos de interés fueron factores internacionales relevantes. Tampoco puede asegurarse que el dólar permanezca en ese nivel ni que todos los costes se trasladen inmediatamente al consumidor.",
+        "category": "ECONOMÍA"
+      }
+    },
     {
       "id": "arabia-saudita-intercepta-misseis-houthis-riade-2026-11-10",
       "date": "2026-11-10",
