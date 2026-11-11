@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "espanha-greve-geral-habitacao-salarios-eleicoes-2026-11-11": "editorial/covers/espanha-greve-geral-habitacao-salarios-eleicoes-2026-11-11.svg",
     "italia-evacua-312-escolas-ameacas-bomba-2026-11-11": "editorial/covers/italia-evacua-312-escolas-ameacas-bomba-2026-11-11.svg",
     "tse-multa-meta-facebook-75-milhoes-ordens-eleicoes-2026-11-11": "editorial/covers/tse-multa-meta-facebook-75-milhoes-ordens-eleicoes-2026-11-11.svg",
     "guterres-cop31-alerta-crise-climatica-supera-resposta-global-2026-11-11": "editorial/covers/guterres-cop31-alerta-crise-climatica-supera-resposta-global-2026-11-11.svg",
@@ -202,7 +203,8 @@
     "portugal-tempestade-charles-fecha-escolas-servicos-alerta-2026-11-11": "editorial/photos/portugal-tempestade-charles-fecha-escolas-servicos-alerta-2026-11-11.jpg",
     "guterres-cop31-alerta-crise-climatica-supera-resposta-global-2026-11-11": "editorial/photos/guterres-cop31-alerta-crise-climatica-supera-resposta-global-2026-11-11.jpg",
     "tse-multa-meta-facebook-75-milhoes-ordens-eleicoes-2026-11-11": "editorial/photos/tse-multa-meta-facebook-75-milhoes-ordens-eleicoes-2026-11-11.jpg",
-    "italia-evacua-312-escolas-ameacas-bomba-2026-11-11": "editorial/photos/italia-evacua-312-escolas-ameacas-bomba-2026-11-11.jpg"
+    "italia-evacua-312-escolas-ameacas-bomba-2026-11-11": "editorial/photos/italia-evacua-312-escolas-ameacas-bomba-2026-11-11.jpg",
+    "espanha-greve-geral-habitacao-salarios-eleicoes-2026-11-11": "editorial/photos/espanha-greve-geral-habitacao-salarios-eleicoes-2026-11-11.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -750,6 +752,12 @@
       "srcset": "editorial/photos/italia-evacua-312-escolas-ameacas-bomba-2026-11-11-320.webp 320w, editorial/photos/italia-evacua-312-escolas-ameacas-bomba-2026-11-11-640.webp 640w, editorial/photos/italia-evacua-312-escolas-ameacas-bomba-2026-11-11-960.webp 960w, editorial/photos/italia-evacua-312-escolas-ameacas-bomba-2026-11-11-1280.webp 1280w",
       "width": 1280,
       "height": 853
+    },
+    "espanha-greve-geral-habitacao-salarios-eleicoes-2026-11-11": {
+      "src": "editorial/photos/espanha-greve-geral-habitacao-salarios-eleicoes-2026-11-11-960.webp",
+      "srcset": "editorial/photos/espanha-greve-geral-habitacao-salarios-eleicoes-2026-11-11-320.webp 320w, editorial/photos/espanha-greve-geral-habitacao-salarios-eleicoes-2026-11-11-640.webp 640w, editorial/photos/espanha-greve-geral-habitacao-salarios-eleicoes-2026-11-11-960.webp 960w",
+      "width": 960,
+      "height": 540
     }
   }
 }
