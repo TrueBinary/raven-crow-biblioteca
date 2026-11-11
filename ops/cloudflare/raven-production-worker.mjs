@@ -3,7 +3,7 @@
 const BASE='https://raw.githubusercontent.com/TrueBinary/raven-crow-biblioteca/main/';
 const MIME={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.mjs':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.xml':'application/xml; charset=utf-8','.txt':'text/plain; charset=utf-8','.svg':'image/svg+xml','.png':'image/png','.jpg':'image/jpeg','.jpeg':'image/jpeg','.webp':'image/webp','.gif':'image/gif','.ico':'image/x-icon','.woff2':'font/woff2','.mp4':'video/mp4','.pdf':'application/pdf'};
 export const mimeFor=k=>MIME[/\.[^./]+$/.exec(k.toLowerCase())?.[0]]||'application/octet-stream';
-export function resolveKey(raw){let p;try{p=decodeURIComponent(raw)}catch{return null}if(!p.startsWith('/')||p.includes('..')||p.includes('\\')||p.includes('//')||p.includes('\0')||!/^\/[A-Za-z0-9_\-./]*$/.test(p))return null;if(p==='/'||p==='/index.html')return 'index.html';if(/^\/(?:en|es)$/.test(p))return p.slice(1)+'/index.html';if(/^\/(?:(?:en|es)\/)?(?:noticias|coluna)\/[a-z0-9-]{3,100}$/.test(p))return p.slice(1)+'/index.html';return p.endsWith('/')?p.slice(1)+'index.html':p.slice(1)}
+export function resolveKey(raw){let p;try{p=decodeURIComponent(raw)}catch{return null}if(!p.startsWith('/')||p.includes('..')||p.includes('\\')||p.includes('//')||p.includes('\0')||!/^\/[A-Za-z0-9_\-./]*$/.test(p))return null;if(p==='/'||p==='/index.html')return 'index.html';if(/^\/(?:en|es)$/.test(p))return p.slice(1)+'/index.html';if(PAGES.includes(p.slice(1)))return p.slice(1)+'.html';if(/^\/(?:(?:en|es)\/)?(?:noticias|coluna)\/[a-z0-9-]{3,100}$/.test(p))return p.slice(1)+'/index.html';return p.endsWith('/')?p.slice(1)+'index.html':p.slice(1)}
 export function parseByteRange(value,size){if(value==null)return null;const m=/^bytes=(\d*)-(\d*)$/.exec(value.trim());if(!m||(!m[1]&&!m[2]))return null;const a=m[1]!==''?Number(m[1]):null,b=m[2]!==''?Number(m[2]):null;if((a!==null&&!Number.isSafeInteger(a))||(b!==null&&!Number.isSafeInteger(b))||(a!==null&&b!==null&&b<a))return null;if(!Number.isSafeInteger(size)||size<=0)return {invalid:true};if(a===null){if(!b)return {invalid:true};const len=Math.min(b,size);return {offset:size-len,length:len}}if(a>=size)return {invalid:true};return {offset:a,length:(b===null?size:Math.min(b+1,size))-a}}
 const src=key=>key==='index.html'?'index.html':'public/'+key;
 const json=(o,status=200)=>new Response(JSON.stringify(o),{status,headers:{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'}});
@@ -20,10 +20,24 @@ const GTRANSLATE='<div class="gtranslate_wrapper"></div><script>window.gtranslat
 const ICONS='<link rel="icon" href="/favicon.ico" sizes="48x48"><link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png"><link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png"><link rel="apple-touch-icon" href="/apple-touch-icon.png">';
 async function withSocialBar(r){if(r.status!==200||!r.body||!(r.headers.get('Content-Type')||'').startsWith('text/html'))return r;const html=await r.text();const i=html.lastIndexOf('</body>');if(i<0)return new Response(html,{status:200,headers:r.headers});let out=html.slice(0,i)+SOCIAL_BAR+GTRANSLATE+html.slice(i);const hd=out.indexOf('</head>');if(hd>=0&&!out.slice(0,hd).includes('rel="icon"'))out=out.slice(0,hd)+ICONS+out.slice(hd);const h=new Headers(r.headers);h.set('Content-Length',String(new TextEncoder().encode(out).length));h.delete('ETag');return new Response(out,{status:200,headers:h})}
 export default {async fetch(req,env){return withSocialBar(await handle(req,env))}};
-// Only section aliases without a dedicated index are redirected; article paths stay unchanged.
+// URLs limpas: páginas sem .html, nunca index.html na barra, e erro de digitação leva à página certa.
+export const PAGES=Object.freeze(['noticias','coluna','livros','apoie','sobre','termos','privacidade','creditos-fotos']);
+const ALIASES=Object.freeze({'termos-de-uso':'/termos','politica-de-privacidade':'/privacidade','biblioteca':'/livros','inicio':'/','home':'/'});
+function distance(a,b){const d=Array.from({length:b.length+1},(_,i)=>i);for(let i=1;i<=a.length;i++){let prev=d[0];d[0]=i;for(let j=1;j<=b.length;j++){const t=d[j];d[j]=Math.min(d[j]+1,d[j-1]+1,prev+(a[i-1]===b[j-1]?0:1));prev=t}}return d[b.length]}
+export function cleanRoute(path){
+ if(path.endsWith('/index.html'))return [path.slice(0,-'index.html'.length),301];
+ const html=/^\/([a-z-]+)\.html$/.exec(path);if(html&&PAGES.includes(html[1]))return ['/'+html[1],301];
+ const seg=/^\/([A-Za-z-]{2,40})\/?$/.exec(path);if(!seg)return null;
+ const name=seg[1].toLowerCase();
+ if(PAGES.includes(name))return name===seg[1]&&!path.endsWith('/')?null:['/'+name,301];
+ if(ALIASES[name])return [ALIASES[name],301];
+ if(name==='en'||name==='es'||name.length<4)return null;
+ // Erro de digitação (colunas, noticia, sobr): só com um candidato claro; 302 porque é palpite.
+ let best=null,score=3,tie=false;for(const page of PAGES){const d=distance(name,page);if(d<score){best=page;score=d;tie=false}else if(d===score)tie=true}
+ return best&&!tie?['/'+best,302]:null;
+}
+// Edições en/es não têm índice de seção: voltam para a capa do idioma.
 const SECTION_REDIRECTS=Object.freeze({
- '/noticias':['/noticias.html',301],'/noticias/':['/noticias.html',301],
- '/coluna':['/coluna.html',301],'/coluna/':['/coluna.html',301],
  '/en/noticias':['/en/',302],'/en/noticias/':['/en/',302],
  '/es/noticias':['/es/',302],'/es/noticias/':['/es/',302],
  '/en/coluna':['/en/',302],'/en/coluna/':['/en/',302],
@@ -64,6 +78,7 @@ async function handle(req,env){
  if(path==='/__raven_migration_health')return json({status:'production',R2:true,domainCutover:true,githubFallback:env.GITHUB_FALLBACK==='1'});
  if(path.startsWith('/__migration/'))return new Response('Not Found',{status:404});
  if(req.method!=='GET'&&req.method!=='HEAD')return new Response('Method Not Allowed',{status:405,headers:{Allow:'GET, HEAD'}});
+ const clean=cleanRoute(path);if(clean)return new Response(null,{status:clean[1],headers:{Location:clean[0]+new URL(req.url).search,'Cache-Control':'public, max-age=300'}});
  const section=SECTION_REDIRECTS[path];if(section)return new Response(null,{status:section[1],headers:{Location:section[0],'Cache-Control':'public, max-age=300'}});
  const key=resolveKey(path);if(!key)return new Response('Invalid path',{status:400});
  const head=await env.RAVEN_MEDIA.head(key);

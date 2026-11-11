@@ -43,7 +43,7 @@ class AdPhotoRegressionTests(unittest.TestCase):
     def test_visible_photo_credits_page(self):
         self.assertTrue((ROOT/'public/creditos-fotos.html').exists())
         js=(ROOT/'public/raven-frontpage.js').read_text(encoding='utf-8')
-        self.assertIn('creditos-fotos.html',js)
+        self.assertIn("'/creditos-fotos'",js)
 
     def test_seven_existing_articles_have_relevant_jpeg_sources(self):
         import json

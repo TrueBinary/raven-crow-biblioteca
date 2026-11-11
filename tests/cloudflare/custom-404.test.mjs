@@ -40,7 +40,7 @@ test('existing pages and reserved internal URLs retain existing behavior',async(
  assert.equal((await call('/')).status,200);
  assert.equal((await call('/404.html')).status,200);
  assert.equal((await call('/__migration/import')).status,404);
- assert.equal((await call('/noticias')).status,301);
+ assert.equal((await call('/noticias.html')).status,301);
 });
 test('missing 404.html itself falls back to plain 404, avoiding recursion',async()=>{
  const r=await call('/pagina-inexistente',{},env(false));

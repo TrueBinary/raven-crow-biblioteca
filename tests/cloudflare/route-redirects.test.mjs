@@ -3,10 +3,19 @@ import assert from 'node:assert/strict';
 import worker from '../../ops/cloudflare/raven-production-worker.mjs';
 
 const aliases = [
-  ['/noticias', '/noticias.html', 301],
-  ['/noticias/', '/noticias.html', 301],
-  ['/coluna', '/coluna.html', 301],
-  ['/coluna/', '/coluna.html', 301],
+  ['/noticias/', '/noticias', 301],
+  ['/noticias.html', '/noticias', 301],
+  ['/coluna/', '/coluna', 301],
+  ['/coluna.html', '/coluna', 301],
+  ['/sobre.html', '/sobre', 301],
+  ['/Coluna', '/coluna', 301],
+  ['/index.html', '/', 301],
+  ['/en/index.html', '/en/', 301],
+  ['/noticias/abc-def/index.html', '/noticias/abc-def/', 301],
+  ['/termos-de-uso', '/termos', 301],
+  ['/colunas', '/coluna', 302],
+  ['/noticia', '/noticias', 302],
+  ['/apoio', '/apoie', 302],
   ['/en/noticias', '/en/', 302],
   ['/en/noticias/', '/en/', 302],
   ['/es/noticias', '/es/', 302],
@@ -36,4 +45,14 @@ test('redirects do not convert article paths or unknown sections into aliases', 
     assert.equal(response.headers.get('location'),null,path);
   }
   assert.equal(visited.length,4);
+});
+test('clean page URLs are served from the .html object and keep the query string on redirect', async () => {
+  const seen = [];
+  const env = {RAVEN_MEDIA:{async head(key){seen.push(key);return null;},async get(){return null;}}};
+  await worker.fetch(new Request('https://ravencrow.cloud/sobre'),env);
+  assert.deepEqual(seen,['sobre.html']);
+  const r = await worker.fetch(new Request('https://ravencrow.cloud/noticias.html?q=stf'),env);
+  assert.equal(r.headers.get('location'),'/noticias?q=stf');
+  for (const path of ['/abc','/ads.txt','/404.html','/google4d032a0e9d3268ea.html'])
+    assert.equal((await worker.fetch(new Request('https://ravencrow.cloud'+path),env)).headers.get('location'),null,path);
 });

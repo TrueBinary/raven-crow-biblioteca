@@ -135,7 +135,7 @@ def _crumbs(section: str, name: str, url: str):
         "@type": "BreadcrumbList", "itemListElement": [
             {"@type": "ListItem", "position": 1, "name": "Início", "item": BASE + "/"},
             {"@type": "ListItem", "position": 2, "name": section,
-             "item": BASE + ("/noticias.html" if section == "Notícias" else "/coluna.html")},
+             "item": BASE + ("/noticias" if section == "Notícias" else "/coluna")},
             {"@type": "ListItem", "position": 3, "name": name, "item": url},
         ],
     }
@@ -190,7 +190,7 @@ def build(root: Path, today: date | None = None) -> dict:
     }
     entries = [(BASE + "/", None)]
     for name in ("noticias", "coluna", "livros", "apoie", "sobre", "termos", "privacidade"):
-        url = BASE + "/" + name + ".html"
+        url = BASE + "/" + name
         if _published(pub / (name + ".html"), url):
             entries.append((url, None))
 
@@ -280,7 +280,7 @@ def build(root: Path, today: date | None = None) -> dict:
         "privacidade": ("WebPage", None),
     }
     for name, (kind, listing) in hubs.items():
-        url = BASE + "/" + name + ".html"
+        url = BASE + "/" + name
         file = pub / (name + ".html")
         if _published(file, url):
             graph = [{"@type": kind, "@id": url + "#page", "url": url,
@@ -341,8 +341,8 @@ def _write_column_sitemap(pub: Path, entries, essays):
         if _published(page, url):
             columns.append((url, modified))
     latest = max((modified for _, modified in columns if modified), default=None)
-    if any(url == BASE + "/coluna.html" for url, _ in entries):
-        columns.insert(0, (BASE + "/coluna.html", latest))
+    if any(url == BASE + "/coluna" for url, _ in entries):
+        columns.insert(0, (BASE + "/coluna", latest))
     rows = ['<?xml version="1.0" encoding="UTF-8"?>',
             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for url, modified in columns:

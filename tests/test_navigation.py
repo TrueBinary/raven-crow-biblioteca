@@ -7,7 +7,7 @@ class NavigationTests(unittest.TestCase):
    path=ROOT/'public'/f'{name}.html' if name!='index' else ROOT/'index.html'
    self.assertTrue(path.exists(),str(path))
    s=path.read_text(encoding='utf-8')
-   for link in ['noticias.html','coluna.html','livros.html','apoie.html','sobre.html']:
+   for link in ['/noticias','/coluna','/livros','/apoie','/sobre']:
     self.assertIn('href="'+link+'"',s)
    self.assertIn('raven-navigation.css',s)
    self.assertIn('raven-navigation.js',s)
@@ -19,7 +19,7 @@ class NavigationTests(unittest.TestCase):
  def test_sitemap_includes_navigation_pages(self):
   s=(ROOT/'public/sitemap.xml').read_text(encoding='utf-8')
   for page in ['coluna','livros','apoie','sobre']:
-   self.assertIn('https://ravencrow.cloud/'+page+'.html',s)
+   self.assertIn('<loc>https://ravencrow.cloud/'+page+'</loc>',s)
  def test_support_link(self):
   s=(ROOT/'public/apoie.html').read_text(encoding='utf-8')
   self.assertIn('https://pixgg.com/ravencrow',s)

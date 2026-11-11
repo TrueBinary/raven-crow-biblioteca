@@ -65,7 +65,7 @@ for essay in ESSAYS:
 featured=next(a for a in ESSAYS if a["section"]=="Fé e família")
 others=[a for a in ESSAYS if a["id"]!=featured["id"]]
 # The opinion hub is also a gateway to the complete existing news-analysis archive.
-hub=f'''{meta("Coluna do Corvo — Política, Filosofia, Fé e Família","Ensaios e opiniões sobre política, filosofia, fé e família, além das análises já publicadas pelo Raven Crow.",BASE+"/coluna.html")}
+hub=f'''{meta("Coluna do Corvo — Política, Filosofia, Fé e Família","Ensaios e opiniões sobre política, filosofia, fé e família, além das análises já publicadas pelo Raven Crow.",BASE+"/coluna")}
 <body class="rc-subpage rc-column">{HEADER}
 <main id="main-content" class="rc-col-shell">
 <section class="rc-col-hero" aria-labelledby="column-heading">
@@ -99,17 +99,17 @@ hub=f'''{meta("Coluna do Corvo — Política, Filosofia, Fé e Família","Ensaio
 </section>
 </div>
 <section id="arquivo" class="rc-col-archive" aria-labelledby="archive-heading">
-  <div class="rc-col-archive-head"><div><p class="rc-col-overline">MATÉRIAS QUE JÁ PUBLICAMOS</p><h2 id="archive-heading">Arquivo de análises</h2></div><a href="noticias.html">Ver todas as notícias <span aria-hidden="true">↗</span></a></div>
+  <div class="rc-col-archive-head"><div><p class="rc-col-overline">MATÉRIAS QUE JÁ PUBLICAMOS</p><h2 id="archive-heading">Arquivo de análises</h2></div><a href="/noticias">Ver todas as notícias <span aria-hidden="true">↗</span></a></div>
   <p class="rc-col-archive-desc">Textos publicados anteriormente pelo Corvo Investigador, mantidos no acervo com suas datas, fontes e contrapontos.</p>
   <div id="rc-col-archive-list" class="rc-col-archive-list" aria-live="polite"><p class="rc-col-loading">Carregando análises anteriores...</p></div>
 </section>
 <section class="rc-col-closing" aria-label="Linha editorial">
  <span class="rc-col-closer-icon" aria-hidden="true">✦</span>
  <div><h2>Convicção não dispensa argumento.</h2><p>Os ensaios expressam interpretações editoriais. Fatos, documentos e posições contrárias devem permanecer identificáveis. Os próximos textos poderão ampliar esta seção sem apagar o acervo anterior.</p></div>
- <a href="sobre.html">Conheça o projeto <span aria-hidden="true">↗</span></a>
+ <a href="/sobre">Conheça o projeto <span aria-hidden="true">↗</span></a>
 </section>
 </main>
-<footer class="rc-col-footer"><div>© Raven Crow · O Corvo Investigador</div><div><a href="noticias.html">Notícias</a> · <a href="apoie.html">Apoie</a> · <a href="privacidade.html">Privacidade</a> · <a href="termos.html">Termos</a> · <a href="index.html">Início</a></div></footer>
+<footer class="rc-col-footer"><div>© Raven Crow · O Corvo Investigador</div><div><a href="/noticias">Notícias</a> · <a href="/apoie">Apoie</a> · <a href="/privacidade">Privacidade</a> · <a href="/termos">Termos</a> · <a href="/">Início</a></div></footer>
 <script defer src="raven-column.js"></script><script defer src="raven-analytics.js"></script>
 </body></html>'''
 (PUBLIC/"coluna.html").write_text(hub,encoding="utf-8")
@@ -122,7 +122,7 @@ for essay in ESSAYS:
     article=f'''{meta(essay["title"],essay["subtitle"],url,article=True,base=True)}
 <body class="rc-subpage rc-column rc-column-article">{HEADER}
 <main class="rc-col-story" id="main-content">
- <nav class="rc-col-breadcrumb" aria-label="Localização"><a href="coluna.html">Coluna do Corvo</a> <span aria-hidden="true">/</span> {h(essay["section"])}</nav>
+ <nav class="rc-col-breadcrumb" aria-label="Localização"><a href="/coluna">Coluna do Corvo</a> <span aria-hidden="true">/</span> {h(essay["section"])}</nav>
  <header class="rc-col-story-header">
   <span class="rc-col-story-tag">{h(essay["eyebrow"])} · Opinião</span>
   <h1>{h(essay["title"])}</h1><p class="rc-col-story-dek">{h(essay["subtitle"])}</p>
@@ -132,8 +132,8 @@ for essay in ESSAYS:
  <article class="rc-col-story-body">{paragraphs}</article>
  <section class="rc-col-sources" aria-labelledby="sources-heading"><h2 id="sources-heading">Fontes e leituras</h2><ul>{sources}</ul><p>Este texto é um ensaio de interpretação. As fontes citadas permitem consultar as obras e documentos originais.</p></section>
  {newsletter_block('coluna')}
- <div class="rc-col-story-back"><a href="coluna.html">← Voltar à Coluna do Corvo</a><a href="apoie.html">Apoie o projeto ↗</a></div>
-</main><footer class="rc-col-footer"><div>© Raven Crow · Opinião editorial</div><div><a href="coluna.html">Outros ensaios</a> · <a href="index.html">Início</a></div></footer>
+ <div class="rc-col-story-back"><a href="/coluna">← Voltar à Coluna do Corvo</a><a href="/apoie">Apoie o projeto ↗</a></div>
+</main><footer class="rc-col-footer"><div>© Raven Crow · Opinião editorial</div><div><a href="/coluna">Outros ensaios</a> · <a href="/">Início</a></div></footer>
 <script defer src="raven-analytics.js"></script></body></html>'''
     tr={l:f"{BASE}/{l}/coluna/{slug}/" for l in COL_LANGS if essay_block(essay,l)}
     canon=f'<link rel="canonical" href="{h(url)}">'
@@ -158,8 +158,8 @@ for essay in ESSAYS:
  {photo_figure(slug,credits,PUBLIC,b["title"])}
  <article class="rc-col-story-body">{paras}</article>
  <section class="rc-col-sources" aria-labelledby="sources-heading"><h2 id="sources-heading">{L["sources"]}</h2><ul>{sources}</ul><p>{L["note"]}</p></section>
- <div class="rc-col-story-back"><a href="coluna/{slug}/" hreflang="pt-BR">{L["back"]}</a><a href="apoie.html">{L["support"]}</a></div>
-</main><footer class="rc-col-footer"><div>{L["foot"]}</div><div><a href="{lang}/">Raven Crow · {lang.upper()}</a> · <a href="index.html">Raven Crow</a></div></footer>
+ <div class="rc-col-story-back"><a href="coluna/{slug}/" hreflang="pt-BR">{L["back"]}</a><a href="/apoie">{L["support"]}</a></div>
+</main><footer class="rc-col-footer"><div>{L["foot"]}</div><div><a href="{lang}/">Raven Crow · {lang.upper()}</a> · <a href="/">Raven Crow</a></div></footer>
 <script defer src="raven-analytics.js"></script></body></html>'''
         page=page.replace('<html lang="pt-BR">',f'<html lang="{lang}">',1).replace('<base href="../../">','<base href="../../../">',1)
         image=f"{BASE}/editorial/photos/{slug}.jpg" if (PUBLIC/"editorial"/"photos"/f"{slug}.jpg").is_file() else None

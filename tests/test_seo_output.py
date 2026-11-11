@@ -23,7 +23,7 @@ class PublishedSeoTests(unittest.TestCase):
             path = urlparse(url).path
             page = ROOT / "index.html" if path == "/" else (
                 PUBLIC / path.lstrip("/") / "index.html" if path.endswith("/")
-                else PUBLIC / path.lstrip("/")
+                else PUBLIC / (path.lstrip("/") + ("" if "." in path else ".html"))
             )
             self.assertTrue(page.is_file(), url)
             html = page.read_text(encoding="utf-8")

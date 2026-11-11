@@ -24,7 +24,7 @@ class ColumnEditorialTests(unittest.TestCase):
    self.assertIn('Opinião',s)
    self.assertIn('Fontes e leituras',s)
    self.assertIn('raven-column.css',s)
-   self.assertIn('coluna.html',s)
+   self.assertIn('href="/coluna"',s)
  def test_existing_articles_survive_and_feed_is_dynamic(self):
   data=json.loads((PUBLIC/'editorial-feed.json').read_text(encoding='utf-8'))['articles']
   self.assertGreaterEqual(len(data),7)

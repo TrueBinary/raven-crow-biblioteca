@@ -21,11 +21,11 @@ class SeoBuilderTests(unittest.TestCase):
         (pub / "editorial" / "photos").mkdir(parents=True)
         for file, url in [
             (self.root / "index.html", "https://ravencrow.cloud/"),
-            (pub / "noticias.html", "https://ravencrow.cloud/noticias.html"),
-            (pub / "coluna.html", "https://ravencrow.cloud/coluna.html"),
-            (pub / "livros.html", "https://ravencrow.cloud/livros.html"),
-            (pub / "sobre.html", "https://ravencrow.cloud/sobre.html"),
-            (pub / "apoie.html", "https://ravencrow.cloud/apoie.html"),
+            (pub / "noticias.html", "https://ravencrow.cloud/noticias"),
+            (pub / "coluna.html", "https://ravencrow.cloud/coluna"),
+            (pub / "livros.html", "https://ravencrow.cloud/livros"),
+            (pub / "sobre.html", "https://ravencrow.cloud/sobre"),
+            (pub / "apoie.html", "https://ravencrow.cloud/apoie"),
             (pub / "noticias" / "estudo-tributacao" / "index.html",
              "https://ravencrow.cloud/noticias/estudo-tributacao/"),
             (pub / "coluna" / "familia-e-justica" / "index.html",
@@ -138,7 +138,7 @@ class SeoBuilderTests(unittest.TestCase):
             for item in tree.findall("s:url", ns)
         }
         self.assertEqual(entries, {
-            "https://ravencrow.cloud/coluna.html": "2026-11-04",
+            "https://ravencrow.cloud/coluna": "2026-11-04",
             "https://ravencrow.cloud/coluna/familia-e-justica/": "2026-11-04",
             "https://ravencrow.cloud/en/coluna/familia-e-justica/": "2026-11-04",
         })

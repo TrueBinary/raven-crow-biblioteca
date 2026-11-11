@@ -49,13 +49,13 @@ try{
   content.append(make('span','rc-mag-tag',a.category||'Análise'),make('h3','',a.title),make('p','',a.subtitle||'Leia a matéria completa.'),make('span','rc-mag-meta',formatDate(a.date)+'  ·  '+readingTime(a)+' min de leitura'));
   link.append(tile,content);list.append(link);
  }
- if(assets.photos&&Object.keys(assets.photos).length){const credits=make('a','rc-mag-photo-credits','Créditos e licenças das fotografias');credits.href='creditos-fotos.html';main.append(credits)}
+ if(assets.photos&&Object.keys(assets.photos).length){const credits=make('a','rc-mag-photo-credits','Créditos e licenças das fotografias');credits.href='/creditos-fotos';main.append(credits)}
  for(const old of side.querySelectorAll('.rc-mag-popular,.rc-mag-column'))old.remove();
  const popular=make('section','rc-mag-popular');popular.append(make('h2','rc-mag-section-title','EM ALTA'));
  stories.slice(0,4).forEach((a,i)=>{const link=make('a','rc-mag-popular-item');link.href='noticias/'+encodeURIComponent(a.id)+'/';link.append(make('strong','',String(i+1)),make('span','',a.title));popular.append(link)});
  side.append(popular);
  const column=make('section','rc-mag-column');column.append(make('h2','rc-mag-section-title','COLUNA DO CORVO'));
- const columnLink=make('a','rc-mag-column-link','Leia nossas análises e investigações');columnLink.href='coluna.html';column.append(columnLink);side.append(column);
+ const columnLink=make('a','rc-mag-column-link','Leia nossas análises e investigações');columnLink.href='/coluna';column.append(columnLink);side.append(column);
  if(isFullArchive&&location.hash){const id=decodeURIComponent(location.hash.slice(1));if(/^[a-z0-9-]{3,100}$/.test(id))root.querySelector('#'+id)?.scrollIntoView({block:'start'})}
 }catch(error){
  const main=root.querySelector('.rc-mag-main')||root;

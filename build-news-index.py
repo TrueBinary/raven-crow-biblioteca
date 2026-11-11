@@ -24,10 +24,10 @@ page='''<!doctype html><html lang="pt-BR"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#090a0c">
 <meta name="description" content="Acompanhe todas as matérias, análises políticas e notícias do Raven Crow em um só lugar, com acesso ao arquivo e às fontes.">
-<link rel="canonical" href="https://ravencrow.cloud/noticias.html">
+<link rel="canonical" href="https://ravencrow.cloud/noticias">
 <meta property="og:type" content="website"><meta property="og:title" content="Notícias e análises | Raven Crow">
 <meta property="og:description" content="Notícias, contexto e análises com acesso ao arquivo de matérias do Raven Crow.">
-<meta property="og:url" content="https://ravencrow.cloud/noticias.html">
+<meta property="og:url" content="https://ravencrow.cloud/noticias">
 <title>Notícias e análises | Raven Crow</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700;800;900&family=DM+Sans:wght@400;500;600;700;800&display=swap">
 <link rel="stylesheet" href="raven-navigation.css"><link rel="stylesheet" href="raven-unified.css"><link rel="stylesheet" href="raven-news.css">
@@ -46,8 +46,8 @@ page='''<!doctype html><html lang="pt-BR"><head>
 </section>
 <noscript><section class="rc-news-noscript"><h2>Arquivo de notícias</h2><ul>'''+''.join(links)+'''</ul></section></noscript>
 <section class="rc-news-next"><div><span>MAIS CONTEXTO</span><h2>Uma notícia abre perguntas. A leitura aprofunda.</h2><p>Conheça os ensaios do Corvo Investigador e a nossa seleção de livros.</p></div>
-<nav aria-label="Explorar mais"><a href="coluna.html">Ler a coluna</a><a href="livros.html">Conhecer livros</a></nav></section>
-</main><footer class="rc-news-footer">© Raven Crow · <a href="coluna.html">Coluna do Corvo</a> · <a href="sobre.html">Sobre</a> · <a href="privacidade.html">Privacidade</a> · <a href="termos.html">Termos</a></footer>
+<nav aria-label="Explorar mais"><a href="/coluna">Ler a coluna</a><a href="/livros">Conhecer livros</a></nav></section>
+</main><footer class="rc-news-footer">© Raven Crow · <a href="/coluna">Coluna do Corvo</a> · <a href="/sobre">Sobre</a> · <a href="/privacidade">Privacidade</a> · <a href="/termos">Termos</a></footer>
 <script defer src="raven-frontpage.js"></script><script defer src="raven-analytics.js"></script>
 </body></html>'''
 (PUBLIC/'noticias.html').write_text(page,encoding='utf-8')

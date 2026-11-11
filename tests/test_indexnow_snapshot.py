@@ -10,7 +10,7 @@ def page(text='A', extra='', url=URL):
 
 class SnapshotTests(unittest.TestCase):
     def test_routes_map_to_canonical_urls(self):
-        for path, end in [('index.html','/'), ('public/en/index.html','/en/'), ('public/es/coluna/abc/index.html','/es/coluna/abc/'), ('public/noticias.html','/noticias.html')]:
+        for path, end in [('index.html','/'), ('public/en/index.html','/en/'), ('public/es/coluna/abc/index.html','/es/coluna/abc/'), ('public/noticias.html','/noticias')]:
             self.assertEqual(key_to_url(path), URL.rstrip('/')+end)
         for path in ['../index.html','public/404.html','public/clips/x.mp4','https://evil.test/index.html']:
             self.assertIsNone(key_to_url(path))

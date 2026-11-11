@@ -157,7 +157,7 @@ def render_credits_page(public:Path,credits:dict,articles:list[dict]):
 main{max-width:850px;margin:auto;padding:44px 22px 80px}h1{font-size:clamp(32px,6vw,56px);line-height:1.1}
 h1,h2{font-weight:900}h2{font-size:22px;margin:0 0 8px}li{padding:24px 0;border-top:1px solid #34343a}
 ul{list-style:none;padding:0}p{color:#c5c0c0}a{color:#ff777d}small{color:#e0b2b2}</style></head>
-<body><main><a href="index.html">← Raven Crow</a><h1>Créditos das fotografias</h1>
+<body><main><a href="/">← Raven Crow</a><h1>Créditos das fotografias</h1>
 <p>As fotos são imagens ilustrativas de arquivo e não devem ser interpretadas como registros dos acontecimentos narrados.</p>
 <ul>'''+body+'''</ul></main></body></html>'''
     target=public/"creditos-fotos.html"

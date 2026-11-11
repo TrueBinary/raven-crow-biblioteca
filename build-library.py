@@ -56,7 +56,7 @@ page='''<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Biblioteca do Corvo | Raven Crow">
 <meta property="og:description" content="15 leituras selecionadas, com resumos e razões para ler cada obra.">
-<link rel="canonical" href="https://ravencrow.cloud/livros.html">
+<link rel="canonical" href="https://ravencrow.cloud/livros">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700;800;900&family=DM+Sans:wght@400;500;600;700;800&display=swap">
 <link rel="stylesheet" href="raven-navigation.css"><link rel="stylesheet" href="raven-books.css">
 <script defer src="raven-navigation.js"></script></head>
@@ -79,11 +79,11 @@ page+='''</div>
 <noscript><ul class="rc-books-noscript">'''+noscript+'''</ul></noscript>
 </section>
 <section class="rc-books-next"><p class="rc-books-eyebrow">LEIA ANTES DE ESCOLHER</p><h2>Um livro não precisa confirmar o que você já pensa.</h2><p>Os autores desta lista têm perspectivas distintas e, em alguns casos, controversas. Compare interpretações, consulte o texto original e forme seu próprio juízo.</p>
-<a href="coluna.html">Explore a Coluna do Corvo ↗</a></section>
+<a href="/coluna">Explore a Coluna do Corvo ↗</a></section>
 <aside class="rc-books-disclosure" aria-label="Divulgação de afiliados"><h2>Divulgação de afiliados</h2>
 <p>Os links levam a buscas de edições na Amazon Brasil e podem conter identificação de afiliado. O Raven Crow pode receber comissão em compras qualificadas. Os preços, formatos e estoques dependem da loja; confira a edição antes de comprar.</p>
 <p>As recomendações são editoriais, não implicam concordância integral com os autores e não representam promessa de benefício financeiro ou pessoal.</p></aside>
-</main><footer class="rc-books-footer">© Raven Crow · <a href="sobre.html">Sobre</a> · <a href="coluna.html">Coluna</a> · <a href="index.html">Início</a></footer>
+</main><footer class="rc-books-footer">© Raven Crow · <a href="/sobre">Sobre</a> · <a href="/coluna">Coluna</a> · <a href="/">Início</a></footer>
 <script defer src="raven-books.js"></script><script defer src="raven-analytics.js"></script>
 </body></html>'''
 (PUBLIC/'livros.html').write_text(page,encoding='utf-8')
