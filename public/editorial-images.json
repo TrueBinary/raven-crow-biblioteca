@@ -173,7 +173,12 @@
     "petroleo-brent-abaixo-90-dolares-tensao-ira-2026-11-10": "editorial/photos/petroleo-brent-abaixo-90-dolares-tensao-ira-2026-11-10.jpg",
     "irmao-viktor-orban-detido-trafico-pessoas-hungria-2026-11-10": "editorial/photos/irmao-viktor-orban-detido-trafico-pessoas-hungria-2026-11-10.jpg",
     "porto-santos-confirma-ataque-cibernetico-sistemas-2026-11-10": "editorial/photos/porto-santos-confirma-ataque-cibernetico-sistemas-2026-11-10.jpg",
-    "uniao-europeia-50-milhoes-seguranca-maritima-mar-negro-2026-11-10": "editorial/photos/uniao-europeia-50-milhoes-seguranca-maritima-mar-negro-2026-11-10.jpg"
+    "uniao-europeia-50-milhoes-seguranca-maritima-mar-negro-2026-11-10": "editorial/photos/uniao-europeia-50-milhoes-seguranca-maritima-mar-negro-2026-11-10.jpg",
+    "dolar-fecha-5586-maior-15-meses-inflacao-eua-2026-11-10": "editorial/photos/dolar-fecha-5586-maior-15-meses-inflacao-eua-2026-11-10.jpg",
+    "arabia-saudita-intercepta-misseis-houthis-riade-2026-11-10": "editorial/photos/arabia-saudita-intercepta-misseis-houthis-riade-2026-11-10.jpg",
+    "brasil-defende-transicao-combustiveis-fosseis-cop31-2026-11-10": "editorial/photos/brasil-defende-transicao-combustiveis-fosseis-cop31-2026-11-10.jpg",
+    "merz-condiciona-orcamento-ue-apoio-ucrania-fico-reage-2026-11-10": "editorial/photos/merz-condiciona-orcamento-ue-apoio-ucrania-fico-reage-2026-11-10.jpg",
+    "arabia-saudita-intercepta-misseis-houthis-riade-2026-11-08": "editorial/photos/arabia-saudita-intercepta-misseis-houthis-riade-2026-11-08.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -619,6 +624,36 @@
       "srcset": "editorial/photos/uniao-europeia-50-milhoes-seguranca-maritima-mar-negro-2026-11-10-640.webp 640w, editorial/photos/uniao-europeia-50-milhoes-seguranca-maritima-mar-negro-2026-11-10-1280.webp 1280w",
       "width": 1280,
       "height": 851
+    },
+    "dolar-fecha-5586-maior-15-meses-inflacao-eua-2026-11-10": {
+      "src": "editorial/photos/dolar-fecha-5586-maior-15-meses-inflacao-eua-2026-11-10-1280.webp",
+      "srcset": "editorial/photos/dolar-fecha-5586-maior-15-meses-inflacao-eua-2026-11-10-640.webp 640w, editorial/photos/dolar-fecha-5586-maior-15-meses-inflacao-eua-2026-11-10-1280.webp 1280w",
+      "width": 1280,
+      "height": 960
+    },
+    "arabia-saudita-intercepta-misseis-houthis-riade-2026-11-10": {
+      "src": "editorial/photos/arabia-saudita-intercepta-misseis-houthis-riade-2026-11-10-1280.webp",
+      "srcset": "editorial/photos/arabia-saudita-intercepta-misseis-houthis-riade-2026-11-10-640.webp 640w, editorial/photos/arabia-saudita-intercepta-misseis-houthis-riade-2026-11-10-1280.webp 1280w",
+      "width": 1280,
+      "height": 960
+    },
+    "brasil-defende-transicao-combustiveis-fosseis-cop31-2026-11-10": {
+      "src": "editorial/photos/brasil-defende-transicao-combustiveis-fosseis-cop31-2026-11-10-1280.webp",
+      "srcset": "editorial/photos/brasil-defende-transicao-combustiveis-fosseis-cop31-2026-11-10-640.webp 640w, editorial/photos/brasil-defende-transicao-combustiveis-fosseis-cop31-2026-11-10-1280.webp 1280w",
+      "width": 1280,
+      "height": 960
+    },
+    "merz-condiciona-orcamento-ue-apoio-ucrania-fico-reage-2026-11-10": {
+      "src": "editorial/photos/merz-condiciona-orcamento-ue-apoio-ucrania-fico-reage-2026-11-10-656.webp",
+      "srcset": "editorial/photos/merz-condiciona-orcamento-ue-apoio-ucrania-fico-reage-2026-11-10-640.webp 640w, editorial/photos/merz-condiciona-orcamento-ue-apoio-ucrania-fico-reage-2026-11-10-656.webp 656w",
+      "width": 656,
+      "height": 890
+    },
+    "arabia-saudita-intercepta-misseis-houthis-riade-2026-11-08": {
+      "src": "editorial/photos/arabia-saudita-intercepta-misseis-houthis-riade-2026-11-08-1280.webp",
+      "srcset": "editorial/photos/arabia-saudita-intercepta-misseis-houthis-riade-2026-11-08-640.webp 640w, editorial/photos/arabia-saudita-intercepta-misseis-houthis-riade-2026-11-08-1280.webp 1280w",
+      "width": 1280,
+      "height": 960
     }
   }
 }
