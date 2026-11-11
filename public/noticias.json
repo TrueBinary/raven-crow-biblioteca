@@ -6,6 +6,46 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "pesquisadores-relatam-roubo-documentos-tajiquistao-ia-2026-11-11",
+      "date": "2026-11-11",
+      "category": "MUNDO",
+      "title": "Pesquisadores relatam roubo de mais de 2 mil documentos do Tajiquistão com auxílio de IA",
+      "subtitle": "Relatório da CloudSEK atribui operação ao grupo Silent Lynx; ligação com o Cazaquistão é hipótese técnica, não responsabilidade estatal comprovada.",
+      "facts": "A empresa de segurança cibernética CloudSEK divulgou nesta quarta-feira, 11 de novembro de 2026, uma investigação segundo a qual operadores do grupo Silent Lynx obtiveram mais de 2 mil documentos ligados à segurança nacional do Tajiquistão. Segundo a empresa, os pesquisadores descobriram infraestrutura exposta dos atacantes, contendo registros de uso do agente de inteligência artificial Hermes. A Reuters informou que o agente teria auxiliado em reconhecimento, programação e organização de arquivos retirados de um sistema eletrônico de documentos governamentais. A apuração da CloudSEK também descreve acesso à rede ferroviária tajique e a uma plataforma geoespacial do Uzbequistão. Trata-se de achados de uma investigação privada, ainda sem confirmação pública independente dos governos envolvidos.",
+      "analysis": "O caso sugere que ferramentas de IA capazes de executar tarefas em sequência podem acelerar operações de espionagem cibernética, sobretudo quando já existem credenciais comprometidas e falhas de controle de acesso. O relatório descreve um operador humano dirigindo o agente, e não uma IA agindo por iniciativa própria. Segundo a CloudSEK, o grupo começou atividades de reconhecimento em agosto de 2026 e reuniu registros operacionais até outubro. A origem exata e a extensão das intrusões permanecem sujeitas a investigação adicional.",
+      "counterpoint": "A CloudSEK associou a infraestrutura ao grupo Silent Lynx com alta confiança, mas classificou como apenas moderada a hipótese de ligação com o Cazaquistão, apoiada em indícios como idioma, horários de atividade e conexões de internet. Esses sinais não demonstram participação do governo cazaque. A Reuters informou que autoridades do Cazaquistão e do Tajiquistão não responderam imediatamente aos pedidos de comentário. Não é possível tratar todos os detalhes técnicos relatados pela empresa como fatos verificados independentemente.",
+      "sources": [
+        {
+          "name": "CloudSEK — Off the Rails: Inside an Exposed Silent Lynx Server (11/11/2026)",
+          "url": "https://www.cloudsek.com/blog/off-the-rails-inside-an-exposed-silent-lynx-server"
+        },
+        {
+          "name": "Reuters — Kazakhstan-linked hackers used AI to steal Tajik government documents, researchers say (11/11/2026)",
+          "url": "https://www.reuters.com/legal/government/kazakhstan-linked-hackers-used-ai-steal-tajik-government-documents-researchers-2026-11-11/"
+        },
+        {
+          "name": "The IT Nerd — Cyber Espionage Group Silent Lynx Compromises Tajikistan Railway (11/11/2026)",
+          "url": "https://itnerd.blog/2026/11/11/"
+        }
+      ],
+      "en": {
+        "title": "Researchers report theft of more than 2,000 Tajik government documents with AI assistance",
+        "subtitle": "CloudSEK links the operation to Silent Lynx; indications of a Kazakhstan connection do not establish state responsibility.",
+        "facts": "Cybersecurity company CloudSEK published findings on Wednesday, November 11, 2026, alleging that operators associated with the Silent Lynx group obtained more than 2,000 Tajikistan national-security-related documents. The company said researchers found exposed attacker infrastructure containing records of the Hermes artificial intelligence agent. Reuters reported that the agent allegedly assisted with reconnaissance, coding and organizing files taken from a government electronic document system. CloudSEK also described access to Tajikistan's railway network and an Uzbek geospatial platform. These are findings from a private investigation, without independent public confirmation from the governments concerned.",
+        "analysis": "The case suggests that AI agents able to carry out multistep tasks may accelerate cyberespionage, particularly where attackers already possess compromised credentials and exploit weak access controls. The report describes a human operator directing the agent, not an AI independently initiating the operation. CloudSEK said reconnaissance began in August 2026, with operational records extending into October. The full scope and origin of the intrusions require further investigation.",
+        "counterpoint": "CloudSEK expressed high confidence in linking the exposed infrastructure to Silent Lynx, but only medium confidence in a possible Kazakhstan nexus based on language, working hours and internet connections. These clues do not prove involvement by the Kazakh government. Reuters said Kazakh and Tajik officials had not immediately responded to requests for comment. The company's technical account has not been independently verified in full.",
+        "category": "WORLD"
+      },
+      "es": {
+        "title": "Investigadores denuncian el robo de más de 2.000 documentos de Tayikistán con ayuda de IA",
+        "subtitle": "CloudSEK vincula la operación a Silent Lynx; los indicios sobre Kazajistán no prueban responsabilidad estatal.",
+        "facts": "La empresa de ciberseguridad CloudSEK publicó el miércoles 11 de noviembre de 2026 una investigación según la cual operadores vinculados al grupo Silent Lynx obtuvieron más de 2.000 documentos relacionados con la seguridad nacional de Tayikistán. Los investigadores hallaron infraestructura expuesta de los atacantes con registros del uso del agente de inteligencia artificial Hermes. Reuters informó que el agente habría ayudado en tareas de reconocimiento, programación y organización de archivos extraídos de un sistema gubernamental de gestión documental. CloudSEK también describió accesos a la red ferroviaria tayika y a una plataforma geoespacial de Uzbekistán. Son hallazgos de una investigación privada, todavía sin confirmación pública independiente de los gobiernos afectados.",
+        "analysis": "El caso apunta a que los agentes de IA capaces de ejecutar tareas sucesivas pueden acelerar el ciberespionaje, especialmente cuando ya existen credenciales comprometidas y controles de acceso deficientes. El informe describe a un operador humano que dirigía al agente, no a una IA que iniciara la operación por sí sola. Según CloudSEK, el reconocimiento comenzó en agosto de 2026 y los registros operativos llegan hasta octubre. El alcance y el origen exactos de las intrusiones requieren más investigación.",
+        "counterpoint": "CloudSEK atribuyó la infraestructura a Silent Lynx con alta confianza, pero calificó de moderada la hipótesis de una conexión con Kazajistán, basada en el idioma, los horarios y las conexiones a internet. Estos indicios no demuestran la participación del Gobierno kazajo. Reuters señaló que las autoridades kazajas y tayikas no habían respondido inmediatamente a las solicitudes de comentarios. No se han verificado de manera independiente todos los detalles técnicos del informe.",
+        "category": "MUNDO"
+      }
+    },
+    {
       "id": "espanha-greve-geral-habitacao-salarios-eleicoes-2026-11-11",
       "date": "2026-11-11",
       "category": "MUNDO",
