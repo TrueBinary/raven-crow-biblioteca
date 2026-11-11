@@ -6,6 +6,63 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "operacao-refit-dez-presos-fraude-fiscal-55-bilhoes-2026-11-11",
+      "date": "2026-11-11",
+      "category": "JUSTIÇA",
+      "title": "Operação contra grupo ligado à Refit prende dez e apura fraude fiscal de R$ 5,5 bilhões",
+      "subtitle": "Ministério Público investiga suposta sonegação e lavagem de dinheiro; controlador Ricardo Magro não foi localizado.",
+      "facts": "O Ministério Público do Estado do Rio de Janeiro (MPRJ) deflagrou nesta quarta-feira, 11 de novembro de 2026, uma operação contra suspeitas de fraude fiscal e lavagem de dinheiro envolvendo o grupo da Refinaria de Manguinhos (Refit). Segundo a Reuters e a Agência Brasil, ao menos dez pessoas foram presas. A Justiça expediu 17 mandados de prisão e 19 de busca e apreensão, com diligências no Rio de Janeiro e em São Paulo. A investigação estima prejuízo tributário de R$ 5,5 bilhões e aponta que distribuidoras ligadas à refinaria teriam participado de um esquema para evitar o pagamento de impostos ao longo da cadeia de combustíveis. Ricardo Andrade Magro, controlador da Refit e apontado pelos promotores como suposto líder do esquema, foi alvo de mandado, mas não foi localizado. As acusações ainda dependem de apuração judicial.",
+      "analysis": "A suspeita de uma rede empresarial integrada para reduzir ilegalmente o recolhimento de tributos pode ter consequências relevantes para a concorrência no mercado de combustíveis e para as receitas estaduais. O valor de R$ 5,5 bilhões é uma estimativa de prejuízo da investigação, não dinheiro já recuperado. As diligências realizadas em dois estados demonstram a dimensão da apuração, mas a responsabilização de cada investigado depende de provas, contraditório e julgamento.",
+      "counterpoint": "Mandados e prisões não equivalem a condenações. A Refit contesta acusações de fraude e discute débitos tributários na Justiça. A Reuters informou que não conseguiu contato com o grupo e com a defesa de Ricardo Magro para manifestação na data da operação. Os balanços de prisões são parciais, e possíveis conexões com organizações criminosas não podem ser tratadas como comprovadas.",
+      "sources": [
+        {
+          "name": "Reuters (11/11/2026)",
+          "url": "https://economia.uol.com.br/noticias/reuters/2026/11/11/operacao-contra-refit-prende-10-por-suspeita-de-fraude-fiscal-de-r55-bi.htm"
+        },
+        {
+          "name": "Agência Brasil (11/11/2026)",
+          "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/mp-mira-empresarios-ligados-refit-por-fraude-fiscal-de-r-55"
+        },
+        {
+          "name": "UOL (11/11/2026)",
+          "url": "https://economia.uol.com.br/noticias/redacao/2026/11/11/mp-faz-operacao-contra-suposta-fraude-fiscal-de-r-55-bi-ligada-a-refit.ghtm"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Refinaria_de_Manguinhos.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/",
+          "credit": "Deborabella / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Refinaria_de_Manguinhos.jpg",
+          "caption": "FOTO DE ARQUIVO (29/09/2009): Refinaria de Manguinhos, Rio de Janeiro. Deborabella / Wikimedia Commons (CC BY-SA 3.0). Não retrata a operação policial de 11/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Ten arrested in Brazil as prosecutors investigate alleged R$ 5.5 billion Refit tax fraud",
+        "subtitle": "Prosecutors investigate suspected tax evasion and money laundering; Refit controller Ricardo Magro was not located.",
+        "facts": "On November 11, 2026, the Rio de Janeiro State Public Prosecutor's Office (MPRJ) launched an operation investigating alleged tax fraud and money laundering involving the Refinaria de Manguinhos (Refit) business group. Reuters and Agência Brasil reported at least ten arrests. Courts issued 17 arrest warrants and 19 search-and-seizure warrants in Rio de Janeiro and São Paulo. Investigators estimate R$ 5.5 billion in unpaid taxes and allege that distributors linked to the refinery were used to avoid tax payments throughout the fuel supply chain. Refit controller Ricardo Andrade Magro, described by prosecutors as the suspected leader, was sought but not located. The allegations remain subject to judicial scrutiny.",
+        "analysis": "The alleged use of an integrated corporate network to evade taxes could affect competition in fuel markets and state revenues. The R$ 5.5 billion figure is an investigative estimate, not funds recovered. Operations across two states show the inquiry's scope, but individual liability requires evidence and due process.",
+        "counterpoint": "Arrest warrants and detentions are not convictions. Refit disputes fraud allegations and is challenging tax debts in court. Reuters could not reach the company or Ricardo Magro's lawyers for comment on the day of the operation. Arrest counts are preliminary, and alleged organized-crime connections are not proven.",
+        "category": "JUSTICE",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (September 29, 2009): Refinaria de Manguinhos, Rio de Janeiro. Deborabella / Wikimedia Commons (CC BY-SA 3.0). This does not show the November 11, 2026 police operation."
+        }
+      },
+      "es": {
+        "title": "Diez detenidos en Brasil por una investigación de presunto fraude fiscal de R$ 5.500 millones vinculado a Refit",
+        "subtitle": "La Fiscalía investiga supuesta evasión tributaria y blanqueo de capitales; no se localizó al controlador Ricardo Magro.",
+        "facts": "El 11 de noviembre de 2026, el Ministerio Público del Estado de Río de Janeiro (MPRJ) puso en marcha una operación contra presuntos delitos fiscales y blanqueo de capitales relacionados con el grupo de Refinaria de Manguinhos (Refit). Reuters y Agência Brasil informaron de al menos diez detenciones. La Justicia emitió 17 órdenes de detención y 19 de registro e incautación en Río de Janeiro y São Paulo. La investigación estima R$ 5.500 millones en impuestos no pagados y sostiene que distribuidoras vinculadas a la refinería habrían servido para eludir tributos en la cadena de combustibles. Ricardo Andrade Magro, controlador de Refit y señalado como presunto dirigente del esquema, fue buscado sin ser localizado. Las acusaciones están pendientes de evaluación judicial.",
+        "analysis": "El supuesto uso de una red empresarial integrada para evadir impuestos podría afectar la competencia en el mercado de combustibles y los ingresos públicos. Los R$ 5.500 millones constituyen una estimación de los investigadores, no fondos recuperados. Las diligencias en dos estados reflejan el alcance de la pesquisa, pero la responsabilidad individual exige pruebas y debido proceso.",
+        "counterpoint": "Las órdenes de detención y los arrestos no equivalen a condenas. Refit rechaza las acusaciones de fraude y litiga sus deudas tributarias. Reuters no logró contactar con la empresa ni con los abogados de Ricardo Magro el día del operativo. Las cifras de detenciones son provisionales y los supuestos vínculos con organizaciones criminales no están demostrados.",
+        "category": "JUSTICIA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (29 de septiembre de 2009): Refinaria de Manguinhos, Río de Janeiro. Deborabella / Wikimedia Commons (CC BY-SA 3.0). No muestra el operativo policial del 11 de noviembre de 2026."
+        }
+      }
+    },
+    {
       "id": "governo-propoe-ajuste-fiscal-ate-60-bilhoes-2027-2026-11-11",
       "date": "2026-11-11",
       "category": "ECONOMIA",
