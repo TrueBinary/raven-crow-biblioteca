@@ -2,9 +2,70 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "11/11/2026",
-  "updatedAt": "2026-11-11T07:01:08-03:00",
+  "updatedAt": "2026-11-11T07:55:42-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "portugal-tempestade-charles-fecha-escolas-servicos-alerta-2026-11-11",
+      "date": "2026-11-11",
+      "category": "MUNDO",
+      "title": "Portugal fecha escolas e serviços públicos por tempestade Charles; governo decreta alerta nacional",
+      "subtitle": "Medida preventiva vale nesta quarta-feira (11) no território continental, diante da previsão de chuva intensa, ventos perigosos e risco de inundações.",
+      "facts": "Portugal entrou em situação de alerta em todo o território continental nesta quarta-feira, 11 de novembro de 2026, por causa da aproximação da tempestade Charles. O governo determinou o encerramento de estabelecimentos de ensino públicos, privados e sociais, incluindo creches e pré-escolar, e de serviços públicos não essenciais. O Despacho n.º 13773-A/2026 estabelece medidas excepcionais das 00h00 às 23h59 desta quarta-feira, além da suspensão de eventos ao ar livre e de restrições de acesso a zonas arborizadas, orla marítima, linhas de água e áreas inundáveis. Autoridades pediram que a população evite deslocações não essenciais. O Instituto Português do Mar e da Atmosfera (IPMA) previa rajadas de vento de até 140 km/h em locais expostos, segundo a Agência Brasil, enquanto a Reuters citou previsões de até 150 km/h. A Associated Press noticiou que ruas de Lisboa estavam pouco movimentadas e que um grande evento de tecnologia cancelou as atividades do dia. Os números representam previsões de diferentes fontes e não medições confirmadas de rajadas em todo o país.",
+      "analysis": "A paralisação preventiva procura reduzir o número de pessoas expostas a ventos fortes, inundações, queda de árvores e dificuldades de transporte, liberando recursos para atendimento de emergências. A ordem afeta famílias, empresas, mobilidade e serviços, mas não equivale ao fechamento de atividades essenciais. Bombeiros, forças de segurança, serviços de saúde e equipes de energia e comunicações tiveram prontidão reforçada. A decisão também reflete a experiência de tempestades anteriores que causaram danos significativos na Península Ibérica. É necessário acompanhar boletins meteorológicos e de proteção civil para avaliar os impactos efetivamente registrados, distinguindo-os dos riscos previstos.",
+      "counterpoint": "A suspensão generalizada de aulas e serviços pode causar perdas econômicas e dificuldades logísticas, especialmente para pais de crianças pequenas e trabalhadores presenciais. O governo português sustenta que a redução de circulação é uma medida proporcional ao risco e orienta empregadores a facilitar o teletrabalho. Até esta apuração, não havia base para atribuir à tempestade Charles números definitivos de mortos, feridos ou prejuízos. A duração do alerta informada pelo governo é limitada a 11 de novembro e pode ser reavaliada pelas autoridades.",
+      "sources": [
+        {
+          "name": "Governo de Portugal — Declaração de situação de alerta (10/11/2026)",
+          "url": "https://portugal.gov.pt/gc25/comunicacao/noticias/declaracao-de-situacao-de-alerta"
+        },
+        {
+          "name": "Reuters — Portugal braces for Storm Charles (10/11/2026)",
+          "url": "https://www.reuters.com/business/environment/portugal-braces-storm-charles-shut-schools-ready-rescue-teams-2026-11-10/"
+        },
+        {
+          "name": "Associated Press — Portugal closes schools and non-essential services (11/11/2026)",
+          "url": "https://apnews.com/article/462f7dfd9a5abb0ea0a21d5163d49f37"
+        },
+        {
+          "name": "Agência Brasil / Lusa — Portugal decreta alerta e fecha escolas (10/11/2026)",
+          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/portugal-decreta-alerta-e-fecha-escolas-com-chegada-de-tempestade"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Commuting_in_the_rain.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Pmmsanches / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Commuting_in_the_rain.jpg",
+          "caption": "FOTO DE ARQUIVO (21/05/2014): bicicleta estacionada sob chuva em Lisboa, Portugal. Pmmsanches / Wikimedia Commons (CC BY-SA 4.0). A imagem não retrata a tempestade Charles de 11/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Portugal shuts schools and non-essential public services as Storm Charles prompts nationwide alert",
+        "subtitle": "Precautionary measures take effect on Wednesday, November 11, across mainland Portugal amid forecasts of heavy rain, dangerous winds and flooding.",
+        "facts": "Portugal entered a state of alert across its mainland territory on Wednesday, November 11, 2026, as Storm Charles approached. The government ordered public, private and social-sector educational establishments, including nurseries and preschools, to close, along with non-essential public services. Order No. 13773-A/2026 establishes exceptional measures from midnight to 11:59 p.m. Wednesday, including the suspension of outdoor events and restrictions on access to wooded areas, coastlines, waterways and flood-prone zones. Authorities urged people to avoid non-essential travel. Portugal's meteorological institute, IPMA (Portuguese Institute for Sea and Atmosphere), forecast gusts of up to 140 km/h in exposed areas, according to Agência Brasil, while Reuters cited forecasts reaching 150 km/h. The Associated Press reported largely empty streets in Lisbon and the cancellation of a major technology event for the day. These figures are forecasts from different reports, not confirmed nationwide wind measurements.",
+        "analysis": "The precautionary shutdown aims to limit exposure to strong winds, flooding, falling trees and transport disruption, while keeping emergency resources available. It affects families, businesses, travel and public services, but does not mean essential operations are closed. Firefighters, security forces, healthcare providers and energy and communications teams were placed on heightened readiness. The decision also reflects damage caused by previous storms across the Iberian Peninsula. Subsequent weather and civil protection bulletins will be needed to assess actual impacts rather than anticipated risks.",
+        "counterpoint": "The broad closure of schools and public services can create economic costs and logistical difficulties, especially for families with young children and workers unable to work remotely. Portuguese authorities say limiting movement is proportionate to the risk and have encouraged employers to facilitate remote work. At the time of reporting, no definitive death toll, injury count or damage estimate could be attributed to Storm Charles. The alert was announced for November 11 and may be reassessed by authorities.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (May 21, 2014): a bicycle parked in the rain in Lisbon, Portugal. Pmmsanches / Wikimedia Commons (CC BY-SA 4.0). This is not an image of Storm Charles on November 11, 2026."
+        }
+      },
+      "es": {
+        "title": "Portugal cierra escuelas y servicios públicos no esenciales ante la tormenta Charles",
+        "subtitle": "Las medidas preventivas rigen este miércoles 11 de noviembre en Portugal continental ante previsiones de lluvias intensas, vientos peligrosos e inundaciones.",
+        "facts": "Portugal entró en situación de alerta en todo su territorio continental el miércoles 11 de noviembre de 2026 ante la llegada de la tormenta Charles. El Gobierno ordenó el cierre de centros educativos públicos, privados y del sector social, incluidas guarderías y educación preescolar, así como de servicios públicos no esenciales. La Orden n.º 13773-A/2026 establece medidas excepcionales desde las 00:00 hasta las 23:59 del miércoles, además de suspender eventos al aire libre y restringir el acceso a áreas arboladas, costas, cursos de agua y zonas inundables. Las autoridades pidieron evitar desplazamientos innecesarios. El IPMA (Instituto Portugués del Mar y de la Atmósfera) preveía ráfagas de hasta 140 km/h en zonas expuestas, según Agência Brasil, mientras Reuters citó previsiones de hasta 150 km/h. Associated Press informó de calles poco transitadas en Lisboa y de la cancelación de las actividades del día de un gran evento tecnológico. Estas cifras son previsiones de distintas fuentes, no mediciones definitivas en todo el país.",
+        "analysis": "El cierre preventivo busca reducir la exposición de la población a vientos fuertes, inundaciones, caídas de árboles y problemas de transporte, y mantener disponibles los recursos de emergencia. Afecta a familias, empresas, movilidad y servicios públicos, pero no supone la suspensión de las actividades esenciales. Bomberos, fuerzas de seguridad, servicios sanitarios y equipos de energía y comunicaciones reforzaron su preparación. La decisión también responde a los daños causados por temporales anteriores en la península ibérica. Los boletines meteorológicos y de protección civil permitirán evaluar los impactos reales y distinguirlos de los riesgos previstos.",
+        "counterpoint": "El cierre generalizado de centros educativos y servicios puede causar costes económicos y dificultades logísticas, especialmente a familias con niños pequeños y trabajadores que no pueden teletrabajar. El Gobierno portugués sostiene que reducir la movilidad es proporcional al riesgo y anima a las empresas a facilitar el trabajo remoto. Hasta esta cobertura, no había base para atribuir a Charles cifras definitivas de fallecidos, heridos o pérdidas materiales. La alerta se anunció para el 11 de noviembre y puede ser revisada por las autoridades.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (21 de mayo de 2014): bicicleta estacionada bajo la lluvia en Lisboa, Portugal. Pmmsanches / Wikimedia Commons (CC BY-SA 4.0). La imagen no corresponde a la tormenta Charles del 11 de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "camara-aprova-mp-renegociacao-dividas-rurais-senado-prazo-2026-11-11",
       "date": "2026-11-11",
