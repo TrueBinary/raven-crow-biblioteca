@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "arabia-saudita-intercepta-tres-misseis-riade-dois-drones-2026-11-11": "editorial/covers/arabia-saudita-intercepta-tres-misseis-riade-dois-drones-2026-11-11.svg",
     "morre-alexander-darchiev-embaixador-russia-estados-unidos-2026-11-11": "editorial/covers/morre-alexander-darchiev-embaixador-russia-estados-unidos-2026-11-11.svg",
     "russia-ucrania-acertam-troca-prisioneiros-abu-dhabi-sem-cessar-fogo-2026-11-11": "editorial/covers/russia-ucrania-acertam-troca-prisioneiros-abu-dhabi-sem-cessar-fogo-2026-11-11.svg",
     "pesquisadores-relatam-roubo-documentos-tajiquistao-ia-2026-11-11": "editorial/covers/pesquisadores-relatam-roubo-documentos-tajiquistao-ia-2026-11-11.svg",
@@ -208,7 +209,8 @@
     "tse-multa-meta-facebook-75-milhoes-ordens-eleicoes-2026-11-11": "editorial/photos/tse-multa-meta-facebook-75-milhoes-ordens-eleicoes-2026-11-11.jpg",
     "italia-evacua-312-escolas-ameacas-bomba-2026-11-11": "editorial/photos/italia-evacua-312-escolas-ameacas-bomba-2026-11-11.jpg",
     "espanha-greve-geral-habitacao-salarios-eleicoes-2026-11-11": "editorial/photos/espanha-greve-geral-habitacao-salarios-eleicoes-2026-11-11.jpg",
-    "morre-alexander-darchiev-embaixador-russia-estados-unidos-2026-11-11": "editorial/photos/morre-alexander-darchiev-embaixador-russia-estados-unidos-2026-11-11.jpg"
+    "morre-alexander-darchiev-embaixador-russia-estados-unidos-2026-11-11": "editorial/photos/morre-alexander-darchiev-embaixador-russia-estados-unidos-2026-11-11.jpg",
+    "arabia-saudita-intercepta-tres-misseis-riade-dois-drones-2026-11-11": "editorial/photos/arabia-saudita-intercepta-tres-misseis-riade-dois-drones-2026-11-11.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -768,6 +770,12 @@
       "srcset": "editorial/photos/morre-alexander-darchiev-embaixador-russia-estados-unidos-2026-11-11-320.webp 320w, editorial/photos/morre-alexander-darchiev-embaixador-russia-estados-unidos-2026-11-11-475.webp 475w",
       "width": 475,
       "height": 662
+    },
+    "arabia-saudita-intercepta-tres-misseis-riade-dois-drones-2026-11-11": {
+      "src": "editorial/photos/arabia-saudita-intercepta-tres-misseis-riade-dois-drones-2026-11-11-1280.webp",
+      "srcset": "editorial/photos/arabia-saudita-intercepta-tres-misseis-riade-dois-drones-2026-11-11-320.webp 320w, editorial/photos/arabia-saudita-intercepta-tres-misseis-riade-dois-drones-2026-11-11-640.webp 640w, editorial/photos/arabia-saudita-intercepta-tres-misseis-riade-dois-drones-2026-11-11-960.webp 960w, editorial/photos/arabia-saudita-intercepta-tres-misseis-riade-dois-drones-2026-11-11-1280.webp 1280w",
+      "width": 1280,
+      "height": 427
     }
   }
 }
