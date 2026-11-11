@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": "italia-evacua-312-escolas-ameacas-bomba-2026-11-11",
+      "date": "2026-11-11",
+      "category": "MUNDO",
+      "title": "Itália evacua 312 escolas após ameaças de bomba por e-mail; autoridades não encontram explosivos",
+      "subtitle": "Mensagens anônimas também atingem escolas no Reino Unido e na Irlanda; governo italiano afirma não haver indícios de ameaça concreta.",
+      "facts": "Autoridades italianas evacuaram 312 escolas nesta quarta-feira, 11 de novembro de 2026, após o recebimento de mensagens eletrônicas anônimas com ameaças de bomba. A primeira-ministra Giorgia Meloni declarou que não havia indicação de perigo concreto e que os estudantes estavam seguros, enquanto policiais inspecionavam as instalações. Até os relatos disponíveis, não foram encontrados explosivos nem registradas pessoas feridas em decorrência das ameaças. Mensagens semelhantes chegaram a estabelecimentos escolares na Escócia, Irlanda do Norte e República da Irlanda. Em parte desses locais, as autoridades trataram os avisos como trotes e não determinaram evacuações. A Reuters e a Associated Press confirmaram o episódio de forma independente.",
+      "analysis": "O caso provocou uma interrupção significativa do funcionamento escolar e exigiu mobilização policial em diversas localidades. A disseminação de ameaças semelhantes em países diferentes amplia a necessidade de coordenação entre autoridades, mas a coincidência de mensagens não comprova autoria comum, coordenação estrangeira ou existência de artefatos explosivos. A resposta precisa equilibrar prevenção de riscos, continuidade das aulas e comunicação responsável para não amplificar o efeito pretendido por autores de possíveis trotes.",
+      "counterpoint": "O governo italiano afirmou que não havia evidência de perigo concreto, embora tenha mantido inspeções por precaução. As autoridades ainda investigam a origem das mensagens. Suspeitas de interferência de países estrangeiros ou de organizações específicas não foram demonstradas e não devem ser apresentadas como conclusões.",
+      "sources": [
+        {
+          "name": "Associated Press — Italy evacuates over 300 schools due to bomb alert (11/11/2026)",
+          "url": "https://apnews.com/article/0f312fda4ee2e9cdcebd0d6e1a40d9e8"
+        },
+        {
+          "name": "Reuters — Hoax bomb alerts sent to schools in Italy, UK and Ireland (11/11/2026)",
+          "url": "https://www.reuters.com/world/least-300-italian-schools-evacuated-after-email-bomb-alerts-2026-11-11/"
+        }
+      ],
+      "en": {
+        "title": "Italy evacuates 312 schools after emailed bomb threats; no explosives reported",
+        "subtitle": "Anonymous messages also reach schools in the UK and Ireland; Italy's government says there is no evidence of a concrete threat.",
+        "facts": "Italian authorities evacuated 312 schools on Wednesday, November 11, 2026, following anonymous emailed bomb threats. Prime Minister Giorgia Meloni said there was no indication of an actual danger and that students were safe as police checked the premises. At the time of reporting, no explosives had been found and no injuries linked to the threats were reported. Similar messages reached schools in Scotland, Northern Ireland and the Republic of Ireland. Some local authorities treated the alerts as hoaxes without ordering evacuations. Reuters and the Associated Press independently reported the incidents.",
+        "analysis": "The alerts disrupted education and required a substantial police response. Similar threats across borders call for coordination, but their resemblance does not establish a common perpetrator, foreign involvement or the presence of explosive devices. Authorities must balance precautionary safety measures, continuity of classes and clear public communication.",
+        "counterpoint": "Italy's government said it had no evidence of a concrete danger while inspections continued as a precaution. Investigators have not established who sent the messages. Claims of responsibility by particular organizations or foreign states remain unproven.",
+        "category": "WORLD",
+        "slug": "italy-evacuates-312-schools-after-emailed-bomb-threats-no-explosives-reported-2026-11-11"
+      },
+      "es": {
+        "title": "Italia evacúa 312 escuelas por amenazas de bomba enviadas por correo; no se hallaron explosivos",
+        "subtitle": "Mensajes anónimos también llegan a centros educativos del Reino Unido e Irlanda; el Gobierno italiano descarta indicios de peligro concreto.",
+        "facts": "Las autoridades italianas evacuaron 312 escuelas el miércoles 11 de noviembre de 2026 después de recibir amenazas anónimas de bomba por correo electrónico. La primera ministra Giorgia Meloni afirmó que no había indicios de un peligro real y que los alumnos estaban seguros mientras la policía inspeccionaba los edificios. Hasta el momento de los informes, no se habían encontrado explosivos ni registrado heridos vinculados a las amenazas. Mensajes similares llegaron a escuelas de Escocia, Irlanda del Norte y la República de Irlanda. Algunas autoridades locales consideraron que se trataba de falsas alarmas y no ordenaron evacuaciones. Reuters y Associated Press informaron de los hechos de manera independiente.",
+        "analysis": "Las amenazas interrumpieron las actividades escolares y movilizaron a las fuerzas de seguridad. La semejanza de mensajes en distintos países requiere coordinación, pero no demuestra un autor común, injerencia extranjera ni la existencia de artefactos explosivos. Las autoridades deben equilibrar las medidas preventivas, la continuidad educativa y la comunicación pública responsable.",
+        "counterpoint": "El Gobierno italiano señaló que no había pruebas de un peligro concreto, aunque mantuvo las inspecciones por precaución. La autoría de los mensajes sigue bajo investigación. No se ha demostrado la responsabilidad de ninguna organización ni de un Estado extranjero.",
+        "category": "MUNDO",
+        "slug": "italia-evacua-312-escuelas-por-amenazas-de-bomba-enviadas-por-correo-no-se-2026-11-11"
+      },
+      "firstSeen": "2026-11-11T11:12:00-03:00"
+    },
+    {
       "id": "tse-multa-meta-facebook-75-milhoes-ordens-eleicoes-2026-11-11",
       "date": "2026-11-11",
       "category": "JUSTIÇA",
