@@ -6,6 +6,63 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "quenia-ultimo-paciente-ebola-alta-contagem-42-dias-2026-11-11",
+      "date": "2026-11-11",
+      "category": "MUNDO",
+      "title": "Quênia dá alta ao último paciente de ebola e inicia contagem de 42 dias para encerrar surto",
+      "subtitle": "Após nove casos e duas mortes, país não tem pacientes em tratamento; declaração de fim do surto depende de ausência de novas infecções até 23 de dezembro.",
+      "facts": "O Quênia deu alta nesta quarta-feira, 11 de novembro de 2026, ao último paciente que permanecia em tratamento contra ebola, segundo o ministro da Saúde Aden Duale e a Organização Mundial da Saúde (OMS). As últimas 11 pessoas sob monitoramento também foram liberadas. O país registrou nove casos confirmados desde 6 de outubro, com duas mortes e sete recuperações. Todos os 135 contatos identificados foram acompanhados e não houve transmissão comunitária detectada. A contagem oficial de 42 dias começa em 12 de novembro e, se não houver novos casos, o Quênia poderá ser declarado livre do surto em 23 de dezembro de 2026. A OMS, Reuters e Associated Press confirmaram o anúncio.",
+      "analysis": "A alta do último paciente é um marco importante de contenção, mas não significa que o Quênia já tenha recebido a declaração formal de fim do surto. Os 42 dias correspondem a duas vezes o período máximo de incubação do vírus e servem para verificar se a transmissão realmente cessou. O rastreamento de contatos e o isolamento precoce limitaram o surto a um único agrupamento epidemiológico. A experiência queniana contrasta com a situação na República Democrática do Congo, onde a epidemia permanece ativa. Equipes de resposta rápida, vigilância de sintomas e acompanhamento dos sobreviventes continuarão durante a espera.",
+      "counterpoint": "A OMS ressalta que a vigilância não pode ser encerrada antecipadamente. Um novo caso durante os 42 dias mudaria a avaliação do fim do surto. A notícia não deve ser apresentada como erradicação do ebola no continente africano: a República Democrática do Congo segue enfrentando transmissão, e a circulação transfronteiriça exige cooperação sanitária. As autoridades quenianas dizem manter as medidas de prevenção e a OMS desaconselha restrições generalizadas de viagem e comércio.",
+      "sources": [
+        {
+          "name": "Organização Mundial da Saúde — Kenya’s last Ebola patient goes home (11/11/2026)",
+          "url": "https://afro.who.int/countries/kenya/news/kenyas-last-ebola-patient-goes-home-42-day-countdown-begins"
+        },
+        {
+          "name": "Reuters — Kenya releases last Ebola patient (11/11/2026)",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/kenya-releases-last-ebola-patient-starts-42-day-countdown-disease-free-status-2026-11-11/"
+        },
+        {
+          "name": "Associated Press — Kenya discharges last Ebola patient (11/11/2026)",
+          "url": "https://apnews.com/article/74689c9faa169dafeee5d21852fde992"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Kenyatta_National_Hospital.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) — https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Rotsee / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Kenyatta_National_Hospital.jpg",
+          "caption": "FOTO DE ARQUIVO (28/12/2014): ala C do Kenyatta National Hospital, em Nairóbi, instituição citada pela OMS entre os serviços envolvidos na resposta ao ebola. Rotsee / Wikimedia Commons (CC BY-SA 4.0). Não retrata a alta de 11/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Kenya discharges last Ebola patient and begins 42-day countdown to end outbreak",
+        "subtitle": "After nine infections and two deaths, no patients remain in treatment; a formal outbreak-end declaration depends on no new cases through December 23.",
+        "facts": "On Wednesday, November 11, 2026, Kenya discharged its last Ebola patient, according to Health Cabinet Secretary Aden Duale and the World Health Organization (WHO). The final 11 monitored contacts were also released. Since October 6, Kenya has recorded nine confirmed infections, two deaths and seven recoveries. Health authorities traced all 135 identified contacts and reported no detected community transmission. The official 42-day countdown starts on November 12; if no new infections occur, Kenya could be declared free of the outbreak on December 23, 2026. The WHO, Reuters and Associated Press confirmed the announcement.",
+        "analysis": "The final discharge is an important containment milestone, but it is not yet a formal declaration that the outbreak is over. The 42-day period equals twice the virus's maximum incubation period and is designed to detect any remaining transmission. Contact tracing and early isolation kept the Kenyan outbreak within a single epidemiological cluster. The situation contrasts with the ongoing epidemic in the Democratic Republic of the Congo. Rapid-response teams, symptom surveillance and follow-up care for survivors will continue.",
+        "counterpoint": "The WHO stresses that surveillance must continue throughout the countdown. Any new case would change the assessment. Kenya's progress does not mean Ebola has been eliminated across Africa: transmission continues in the Democratic Republic of the Congo and cross-border coordination remains essential. Kenyan authorities say preventive measures remain in place, while the WHO advises against blanket travel and trade restrictions.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (December 28, 2014): section C of Kenyatta National Hospital in Nairobi, one of the facilities acknowledged by WHO for its role in the Ebola response. Rotsee / Wikimedia Commons (CC BY-SA 4.0). This is not a photograph of the November 11, 2026 discharge."
+        }
+      },
+      "es": {
+        "title": "Kenia da de alta al último paciente de ébola e comienza la cuenta de 42 días para cerrar el brote",
+        "subtitle": "Tras nueve contagios y dos muertes, ya no quedan pacientes en tratamiento; la declaración oficial exige que no aparezcan nuevos casos hasta el 23 de diciembre.",
+        "facts": "El miércoles 11 de noviembre de 2026, Kenia dio de alta al último paciente con ébola, según el secretario de Salud Aden Duale y la Organización Mundial de la Salud (OMS). También fueron liberados los últimos 11 contactos bajo vigilancia. Desde el 6 de octubre se registraron nueve infecciones confirmadas, dos muertes y siete recuperaciones. Las autoridades siguieron a los 135 contactos identificados y no detectaron transmisión comunitaria. La cuenta oficial de 42 días comienza el 12 de noviembre; si no hay nuevos casos, Kenia podría ser declarada libre del brote el 23 de diciembre de 2026. La OMS, Reuters y Associated Press confirmaron el anuncio.",
+        "analysis": "El alta final representa un avance importante en la contención, pero todavía no equivale a una declaración oficial del fin del brote. Los 42 días corresponden al doble del período máximo de incubación del virus y permiten detectar posibles contagios restantes. El rastreo de contactos y el aislamiento temprano limitaron el brote keniano a un único grupo epidemiológico. La situación contrasta con la epidemia que continúa en la República Democrática del Congo. Seguirán activos los equipos de respuesta rápida, la vigilancia y la atención a supervivientes.",
+        "counterpoint": "La OMS insiste en mantener la vigilancia durante toda la cuenta regresiva. Un nuevo caso modificaría la evaluación. El avance de Kenia no significa que el ébola haya desaparecido de África: la transmisión continúa en la República Democrática del Congo y la coordinación fronteriza sigue siendo esencial. Las autoridades kenianas mantienen las medidas preventivas, mientras la OMS desaconseja restricciones generales a los viajes y el comercio.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (28 de diciembre de 2014): ala C del Kenyatta National Hospital en Nairobi, centro reconocido por la OMS por su participación en la respuesta al ébola. Rotsee / Wikimedia Commons (CC BY-SA 4.0). No muestra el alta del 11 de noviembre de 2026."
+        }
+      }
+    },
+    {
       "id": "arabia-saudita-intercepta-tres-misseis-riade-dois-drones-2026-11-11",
       "date": "2026-11-11",
       "category": "MUNDO",
