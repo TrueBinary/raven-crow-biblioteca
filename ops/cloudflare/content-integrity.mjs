@@ -1,5 +1,6 @@
 // Publication integrity gate for the Raven Crow site. Reports, never repairs: editorial data stays with its owners.
 import { execFileSync } from 'node:child_process';
+import { resolveKey } from './raven-production-worker.mjs';
 
 // Sources read repo-relative paths ('index.html', 'public/...').
 export const mapSource = files => ({ exists: p => p in files, read: p => files[p] });
@@ -12,10 +13,11 @@ const REQUIRED = ['index.html', 'public/noticias.html', 'public/coluna.html', 'p
 const JSON_FILES = ['public/editorial-feed.json', 'public/noticias.json', 'public/editorial-images.json', 'public/editorial-photo-credits.json', 'public/coluna-ensaios.json', 'public/livros.json'];
 const ID = /^[a-z0-9-]{3,100}$/;
 
-const pathForUrl = url => {
-  const p = new URL(url).pathname;
-  if (p === '/') return 'index.html';
-  return 'public' + (p.endsWith('/') ? p + 'index.html' : p);
+// Mesmo mapeamento do Worker (URLs limpas: /sobre -> public/sobre.html).
+export const pathForUrl = url => {
+  const key = resolveKey(new URL(url).pathname);
+  if (!key) throw Error('invalid path');
+  return key === 'index.html' ? key : 'public/' + key;
 };
 
 export function validateSiteContent(src) {

@@ -1,8 +1,8 @@
 // SEO, analytics and ads parity for every page in the sitemap. Reports only; never edits pages.
-import { gitSource } from './content-integrity.mjs';
+import { gitSource, pathForUrl } from './content-integrity.mjs';
 
 const ORIGIN = 'https://ravencrow.cloud';
-const repoPath = urlPath => (urlPath === '/' ? 'index.html' : 'public' + (urlPath.endsWith('/') ? urlPath + 'index.html' : urlPath));
+const repoPath = urlPath => pathForUrl('https://ravencrow.cloud' + urlPath);
 const urlPathOf = file => (file === 'index.html' ? '/' : file.replace(/^public/, '').replace(/index\.html$/, ''));
 
 export function validatePublicPages(src) {
