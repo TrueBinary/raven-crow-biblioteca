@@ -19,7 +19,7 @@ def key_to_url(path: str) -> str | None:
     if path == 'index.html': return HOST + '/'
     if not path.startswith('public/') or '..' in path: return None
     key = path[7:]
-    if key in ('noticias.html','coluna.html','livros.html','sobre.html','apoie.html'):
+    if key in ('noticias.html','coluna.html','livros.html','sobre.html','apoie.html','termos.html','privacidade.html'):
         return HOST + '/' + key
     if key in ('en/index.html','es/index.html'):
         return HOST + '/' + key.removesuffix('index.html')

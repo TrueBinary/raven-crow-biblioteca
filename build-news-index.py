@@ -47,7 +47,7 @@ page='''<!doctype html><html lang="pt-BR"><head>
 <noscript><section class="rc-news-noscript"><h2>Arquivo de notícias</h2><ul>'''+''.join(links)+'''</ul></section></noscript>
 <section class="rc-news-next"><div><span>MAIS CONTEXTO</span><h2>Uma notícia abre perguntas. A leitura aprofunda.</h2><p>Conheça os ensaios do Corvo Investigador e a nossa seleção de livros.</p></div>
 <nav aria-label="Explorar mais"><a href="coluna.html">Ler a coluna</a><a href="livros.html">Conhecer livros</a></nav></section>
-</main><footer class="rc-news-footer">© Raven Crow · <a href="coluna.html">Coluna do Corvo</a> · <a href="sobre.html">Sobre</a></footer>
+</main><footer class="rc-news-footer">© Raven Crow · <a href="coluna.html">Coluna do Corvo</a> · <a href="sobre.html">Sobre</a> · <a href="privacidade.html">Privacidade</a> · <a href="termos.html">Termos</a></footer>
 <script defer src="raven-frontpage.js"></script><script defer src="raven-analytics.js"></script>
 </body></html>'''
 (PUBLIC/'noticias.html').write_text(page,encoding='utf-8')

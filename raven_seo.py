@@ -189,7 +189,7 @@ def build(root: Path, today: date | None = None) -> dict:
         if SLUG.fullmatch(str(x.get("id", "")))
     }
     entries = [(BASE + "/", None)]
-    for name in ("noticias", "coluna", "livros", "apoie", "sobre"):
+    for name in ("noticias", "coluna", "livros", "apoie", "sobre", "termos", "privacidade"):
         url = BASE + "/" + name + ".html"
         if _published(pub / (name + ".html"), url):
             entries.append((url, None))
@@ -276,6 +276,8 @@ def build(root: Path, today: date | None = None) -> dict:
         "livros": ("CollectionPage", None),
         "sobre": ("AboutPage", None),
         "apoie": ("WebPage", None),
+        "termos": ("WebPage", None),
+        "privacidade": ("WebPage", None),
     }
     for name, (kind, listing) in hubs.items():
         url = BASE + "/" + name + ".html"
