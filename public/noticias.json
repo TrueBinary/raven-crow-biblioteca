@@ -6,6 +6,63 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "arabia-saudita-intercepta-tres-misseis-riade-dois-drones-2026-11-11",
+      "date": "2026-11-11",
+      "category": "MUNDO",
+      "title": "Arábia Saudita afirma ter interceptado três mísseis contra Riade e dois drones",
+      "subtitle": "Coalizão saudita atribui os lançamentos aos houthis; comunicados não informam vítimas ou danos.",
+      "facts": "A coalizão liderada pela Arábia Saudita anunciou nesta quarta-feira, 11 de novembro de 2026, que suas defesas aéreas interceptaram e destruíram três mísseis de cruzeiro lançados pelos houthis do Iêmen em direção à região de Riade. O porta-voz da coalizão, Turki al-Maliki, afirmou posteriormente que outros dois drones foram interceptados enquanto se dirigiam, segundo a coalizão, a Meca e regiões do sul do país. Reuters, AFP e Anadolu relataram os anúncios. As autoridades não detalharam vítimas ou danos dos incidentes. As trajetórias e os alvos anunciados são alegações da coalizão, não fatos integralmente verificados de forma independente.",
+      "analysis": "O episódio ocorre após novas interceptações anunciadas na terça-feira e em meio à escalada militar entre os houthis e forças apoiadas por Riade. Ataques contra áreas urbanas, aeroportos e instalações petrolíferas elevam os riscos para civis e para o abastecimento de energia. A guerra no Iêmen envolve também ataques aéreos sauditas, que trazem preocupações humanitárias. A proximidade das rotas comerciais do mar Vermelho amplia as repercussões regionais. A notícia desta quarta-feira representa um novo conjunto de lançamentos, distinto dos episódios relatados em 10 de novembro.",
+      "counterpoint": "As informações sobre os alvos e as interceptações vêm da coalizão saudita, parte no conflito. Os houthis já negaram anteriormente acusações de ataques dirigidos a Meca e Medina. Não há comprovação independente de todos os detalhes e não é possível inferir mortes ou danos a partir dos comunicados. Também é necessário considerar os ataques sauditas contra posições houthis no Iêmen.",
+      "sources": [
+        {
+          "name": "Reuters — Saudi air defences intercept three Houthi cruise missiles (11/11/2026)",
+          "url": "https://www.reuters.com/world/middle-east/saudi-air-defences-intercept-three-houthi-cruise-missiles-launched-toward-riyadh-2026-11-11/"
+        },
+        {
+          "name": "AFP — Coalizão afirma ter interceptado três mísseis (11/11/2026)",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/11/coalizao-liderada-por-riade-afirma-ter-interceptado-tres-misseis-dos-houthis.amp.htm"
+        },
+        {
+          "name": "Anadolu — Coalition intercepts three missiles and two drones (11/11/2026)",
+          "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-3-houthi-cruise-missiles-2-drones-targeting-riyadh-mecca-southern-saudi-arabia/4120837"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Wv_Riyadh_banner.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Thesadcactus / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Wv_Riyadh_banner.jpg",
+          "caption": "FOTO DE ARQUIVO (20/04/2022): panorama de Riade visto do Bairro Diplomático. Thesadcactus / Wikimedia Commons (CC BY-SA 4.0). Não retrata as interceptações de 11/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Saudi Arabia says it intercepted three Houthi missiles targeting Riyadh and two drones",
+        "subtitle": "The Saudi-led coalition attributes the launches to Yemen's Houthis; no casualties or damage were reported in the statements.",
+        "facts": "On Wednesday, November 11, 2026, the Saudi-led coalition said its air defenses had intercepted and destroyed three cruise missiles launched by Yemen's Houthis toward the Riyadh region. Coalition spokesman Turki al-Maliki subsequently said two drones had also been intercepted while allegedly heading toward Mecca and southern parts of the country. Reuters, AFP and Anadolu reported the announcements. Officials provided no details about casualties or damage from these incidents. The reported trajectories and targets are coalition claims and have not been fully independently verified.",
+        "analysis": "The announcement follows interceptions reported on Tuesday and comes amid renewed fighting between the Houthis and Saudi-backed forces. Threats to cities, airports and oil infrastructure increase risks to civilians and energy supplies. The conflict also involves Saudi airstrikes in Yemen, raising humanitarian concerns. Its proximity to Red Sea shipping routes gives the escalation wider regional consequences. Wednesday's reported launches are separate from those reported on November 10.",
+        "counterpoint": "The claims about targets and interceptions come from the Saudi-led coalition, a party to the conflict. The Houthis have previously denied allegations that they targeted Mecca and Medina. Not every detail has been independently verified, and no casualties or damage should be inferred from the statements. Saudi attacks on Houthi positions in Yemen are also part of the broader context.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (April 20, 2022): Riyadh skyline from the Diplomatic Quarter. Thesadcactus / Wikimedia Commons (CC BY-SA 4.0). Not a photograph of the November 11, 2026 interceptions."
+        }
+      },
+      "es": {
+        "title": "Arabia Saudita afirma haber interceptado tres misiles hutíes hacia Riad y dos drones",
+        "subtitle": "La coalición saudí atribuye los lanzamientos a los hutíes; los comunicados no detallan víctimas ni daños.",
+        "facts": "El miércoles 11 de noviembre de 2026, la coalición liderada por Arabia Saudita afirmó que sus defensas aéreas interceptaron y destruyeron tres misiles de crucero lanzados por los hutíes de Yemen hacia la región de Riad. El portavoz Turki al-Maliki anunció después la interceptación de otros dos drones que, según la coalición, se dirigían a La Meca y al sur del país. Reuters, AFP y Anadolu informaron sobre los comunicados. Las autoridades no precisaron víctimas ni daños por estos incidentes. Las trayectorias y los objetivos declarados son afirmaciones de la coalición que no han sido verificadas por completo de forma independiente.",
+        "analysis": "El episodio sucede después de las interceptaciones anunciadas el martes y en medio de una escalada entre los hutíes y las fuerzas apoyadas por Riad. Las amenazas contra ciudades, aeropuertos e instalaciones petroleras aumentan los riesgos para civiles y el suministro energético. El conflicto incluye bombardeos saudíes en Yemen que suscitan preocupación humanitaria. La cercanía de las rutas comerciales del mar Rojo amplía las consecuencias regionales. Los lanzamientos denunciados este miércoles son distintos de los comunicados el 10 de noviembre.",
+        "counterpoint": "Los datos sobre objetivos e interceptaciones proceden de la coalición saudí, parte del conflicto. Los hutíes han negado anteriormente acusaciones de ataques dirigidos a La Meca y Medina. No se han verificado independientemente todos los detalles y no pueden suponerse víctimas ni daños no comunicados. Los ataques saudíes contra posiciones hutíes en Yemen también forman parte del contexto.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (20 de abril de 2022): panorámica de Riad desde el Barrio Diplomático. Thesadcactus / Wikimedia Commons (CC BY-SA 4.0). No muestra las interceptaciones del 11 de noviembre de 2026."
+        }
+      }
+    },
+    {
       "id": "morre-alexander-darchiev-embaixador-russia-estados-unidos-2026-11-11",
       "date": "2026-11-11",
       "category": "MUNDO",
