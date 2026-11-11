@@ -178,7 +178,8 @@
     "arabia-saudita-intercepta-misseis-houthis-riade-2026-11-10": "editorial/photos/arabia-saudita-intercepta-misseis-houthis-riade-2026-11-10.jpg",
     "brasil-defende-transicao-combustiveis-fosseis-cop31-2026-11-10": "editorial/photos/brasil-defende-transicao-combustiveis-fosseis-cop31-2026-11-10.jpg",
     "merz-condiciona-orcamento-ue-apoio-ucrania-fico-reage-2026-11-10": "editorial/photos/merz-condiciona-orcamento-ue-apoio-ucrania-fico-reage-2026-11-10.jpg",
-    "arabia-saudita-intercepta-misseis-houthis-riade-2026-11-08": "editorial/photos/arabia-saudita-intercepta-misseis-houthis-riade-2026-11-08.jpg"
+    "arabia-saudita-intercepta-misseis-houthis-riade-2026-11-08": "editorial/photos/arabia-saudita-intercepta-misseis-houthis-riade-2026-11-08.jpg",
+    "polonia-luto-nacional-ataque-cracovia-2026-11-08": "editorial/photos/polonia-luto-nacional-ataque-cracovia-2026-11-08.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -652,6 +653,12 @@
     "arabia-saudita-intercepta-misseis-houthis-riade-2026-11-08": {
       "src": "editorial/photos/arabia-saudita-intercepta-misseis-houthis-riade-2026-11-08-1280.webp",
       "srcset": "editorial/photos/arabia-saudita-intercepta-misseis-houthis-riade-2026-11-08-640.webp 640w, editorial/photos/arabia-saudita-intercepta-misseis-houthis-riade-2026-11-08-1280.webp 1280w",
+      "width": 1280,
+      "height": 960
+    },
+    "polonia-luto-nacional-ataque-cracovia-2026-11-08": {
+      "src": "editorial/photos/polonia-luto-nacional-ataque-cracovia-2026-11-08-1280.webp",
+      "srcset": "editorial/photos/polonia-luto-nacional-ataque-cracovia-2026-11-08-640.webp 640w, editorial/photos/polonia-luto-nacional-ataque-cracovia-2026-11-08-1280.webp 1280w",
       "width": 1280,
       "height": 960
     }
