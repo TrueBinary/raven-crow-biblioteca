@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "id": "petrobras-lucro-398-bilhoes-terceiro-trimestre-2026-11-11",
+      "date": "2026-11-11",
+      "category": "ECONOMIA",
+      "title": "Petrobras lucra R$ 39,8 bilhões no 3º trimestre, mas fica abaixo da expectativa de analistas",
+      "subtitle": "Resultado cresce 21,5% em um ano, impulsionado por produção recorde e petróleo mais caro; estatal anuncia R$ 15,3 bilhões para acionistas e revê investimentos.",
+      "facts": "A Petrobras divulgou na noite de terça-feira, 10 de novembro de 2026, lucro líquido de R$ 39,75 bilhões, arredondado para R$ 39,8 bilhões, no terceiro trimestre de 2026 (julho a setembro). O valor representa alta de 21,5% sobre o mesmo período de 2025, mas ficou abaixo dos cerca de R$ 47 bilhões esperados por analistas consultados pela LSEG, segundo a Reuters. A receita de vendas somou aproximadamente R$ 169,3 bilhões, crescimento de 32,4% na comparação anual. O fluxo de caixa operacional atingiu R$ 61,8 bilhões, aumento de 15% em doze meses, informou a companhia. A estatal atribuiu o desempenho operacional a recordes consecutivos de produção, com maior volume de óleo e gás extraído. Em comunicado, também anunciou remuneração de R$ 15,3 bilhões aos acionistas referente ao trimestre e elevou sua previsão de investimento em projetos em implantação para 2026 de US$ 19,4 bilhões para uma faixa entre US$ 24 bilhões e US$ 25,5 bilhões.",
+      "analysis": "O avanço do lucro não significa que a empresa superou as projeções do mercado: houve crescimento frente a 2025, mas o resultado contábil ficou aquém do consenso de analistas. O EBITDA ajustado, medida usada para analisar a geração operacional antes de juros, impostos, depreciação e amortização, chegou a aproximadamente R$ 85,8 bilhões, abaixo da previsão de R$ 94 bilhões citada pela Reuters. O petróleo mais caro e a expansão da produção ajudaram a receita, mas a companhia também apontou despesas e efeitos não recorrentes. A Petrobras informou lucro de cerca de R$ 47,9 bilhões quando excluídos itens extraordinários; esse número ajustado não deve ser confundido com o lucro líquido reportado de R$ 39,8 bilhões. O aumento da estimativa de investimentos pode sustentar projetos futuros, mas exige acompanhamento de execução, retorno e geração de caixa.",
+      "counterpoint": "Na avaliação da estatal, os recordes de produção e a ampliação da carteira de projetos apontam capacidade de expansão. Já investidores e analistas podem observar que o lucro e o EBITDA ajustado ficaram abaixo do esperado e que o orçamento de investimentos foi ampliado. O anúncio de remuneração aos acionistas não determina, por si só, melhora ou piora nos preços de combustíveis; estes dependem de outras variáveis. Os dados são resultados empresariais publicados em 10 de novembro, não projeções de lucro garantido para os trimestres seguintes.",
+      "sources": [
+        {
+          "name": "Petrobras — divulgação oficial dos resultados do 3T26 (10/11/2026)",
+          "url": "https://agencia.petrobras.com.br/en/w/negocio/petrobras-registra-lucro-l%C3%ADquido-de-r-39-8-bilh%C3%B5es-no-terceiro-trimestre-de-2026"
+        },
+        {
+          "name": "Reuters — Petrobras posts 21.5% rise in third-quarter profit (10/11/2026)",
+          "url": "https://www.reuters.com/business/energy/brazils-petrobras-posts-215-rise-third-quarter-net-profit-2026-11-10/"
+        },
+        {
+          "name": "Agência Brasil — Petrobras tem lucro de R$ 39,8 bilhões (10/11/2026)",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-tem-lucro-de-r-398-bilhoes-alta-de-215"
+        },
+        {
+          "name": "CNN Brasil — Petrobras tem R$ 39,75 bi de lucro no 3º trimestre (10/11/2026)",
+          "url": "https://www.cnnbrasil.com.br/infra/petrobras-tem-r-3975-bi-de-lucro-liquido-no-3o-tri-alta-de-215/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/17.08.2026_-_Visita_ao_navio-sonda_da_Petrobras_-_55470957511.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) — https://creativecommons.org/licenses/by-sa/4.0/; licença confirmada no Wikimedia Commons e no Flickr de origem",
+          "credit": "Ricardo Stuckert / Lula Oficial / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:17.08.2026_-_Visita_ao_navio-sonda_da_Petrobras_-_55470957511.jpg",
+          "caption": "FOTO DE ARQUIVO (17/08/2026): Lula e Magda Chambriard em visita a navio-sonda da Petrobras na Bacia da Foz do Amazonas (AP). Foto: Ricardo Stuckert / Lula Oficial / Wikimedia Commons (CC BY-SA 4.0). A imagem não retrata a divulgação do balanço de 10/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Petrobras posts R$39.8 billion third-quarter profit, below analysts' expectations",
+        "subtitle": "Profit rises 21.5% year on year on record production and higher oil prices; company announces R$15.3 billion in shareholder payouts and raises its investment forecast.",
+        "facts": "On Tuesday evening, November 10, 2026, Petrobras reported third-quarter 2026 net profit of R$39.75 billion, or approximately R$39.8 billion, for July through September. This marked a 21.5% increase from the same period in 2025, but fell short of the roughly R$47 billion expected by analysts surveyed by LSEG, Reuters reported. Sales revenue reached approximately R$169.3 billion, up 32.4% year on year. Operating cash flow rose 15% to R$61.8 billion, according to the company. Petrobras attributed its operating performance to successive production records and higher oil and gas output. It also announced R$15.3 billion in shareholder remuneration for the quarter and raised its 2026 investment forecast for projects under implementation from US$19.4 billion to a range of US$24 billion to US$25.5 billion.",
+        "analysis": "Higher profit does not mean the company beat market forecasts: earnings increased from 2025 but missed analyst consensus. Adjusted EBITDA, a measure of operating performance before interest, taxes, depreciation and amortization, reached roughly R$85.8 billion, below the approximately R$94 billion forecast reported by Reuters. Higher oil prices and expanding production helped revenue, while expenses and non-recurring items also affected the result. Petrobras reported approximately R$47.9 billion in profit excluding exceptional items; this adjusted measure should not be confused with reported net profit of R$39.8 billion. Increased planned investment may support future projects but warrants scrutiny of execution, returns and cash flow.",
+        "counterpoint": "Petrobras views production records and portfolio expansion as signs of growth potential. Investors and analysts may nonetheless focus on earnings and adjusted EBITDA missing expectations, as well as the higher investment budget. Shareholder payouts do not by themselves determine future fuel prices, which depend on other factors. These are corporate results released on November 10, not guaranteed earnings for future quarters.",
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (August 17, 2026): Lula and Magda Chambriard visiting a Petrobras drilling vessel in the Foz do Amazonas Basin, Amapá, Brazil. Ricardo Stuckert / Lula Oficial / Wikimedia Commons (CC BY-SA 4.0). This photo does not show the November 10 earnings release."
+        },
+        "slug": "petrobras-posts-r-39-8-billion-third-quarter-profit-below-analysts-expectations-2026-11-11"
+      },
+      "es": {
+        "title": "Petrobras gana R$ 39.800 millones en el tercer trimestre, pero no alcanza las previsiones de los analistas",
+        "subtitle": "El beneficio aumenta un 21,5 % interanual gracias a la producción récord y al petróleo más caro; la empresa anuncia R$ 15.300 millones para los accionistas y eleva la previsión de inversiones.",
+        "facts": "En la noche del martes 10 de noviembre de 2026, Petrobras comunicó un beneficio neto de R$ 39.750 millones —aproximadamente R$ 39.800 millones— en el tercer trimestre de 2026, de julio a septiembre. La cifra supone un aumento del 21,5 % respecto del mismo período de 2025, aunque quedó por debajo de los cerca de R$ 47.000 millones esperados por analistas consultados por LSEG, según Reuters. Los ingresos por ventas alcanzaron unos R$ 169.300 millones, un 32,4 % más interanual. El flujo de caja operativo creció un 15 %, hasta R$ 61.800 millones, de acuerdo con la empresa. Petrobras atribuyó su desempeño a sucesivos récords de producción y al aumento de la extracción de petróleo y gas. También anunció una remuneración de R$ 15.300 millones a los accionistas correspondiente al trimestre y elevó su previsión de inversión para proyectos en ejecución en 2026, desde US$ 19.400 millones hasta una banda de US$ 24.000 millones a US$ 25.500 millones.",
+        "analysis": "Que el beneficio haya aumentado no significa que la compañía haya superado las previsiones del mercado: avanzó frente a 2025, pero quedó por debajo del consenso. El EBITDA ajustado, una medida de desempeño operativo antes de intereses, impuestos, depreciación y amortización, alcanzó unos R$ 85.800 millones, inferior a los aproximadamente R$ 94.000 millones previstos según Reuters. El petróleo más caro y la expansión de la producción impulsaron los ingresos, aunque los gastos y partidas no recurrentes también afectaron al resultado. Petrobras informó un beneficio de aproximadamente R$ 47.900 millones excluidos los elementos extraordinarios; esta medida ajustada no equivale al beneficio neto publicado de R$ 39.800 millones. La mayor previsión de inversiones puede sostener proyectos futuros, pero exige vigilar su ejecución, rentabilidad y flujo de caja.",
+        "counterpoint": "Petrobras considera que sus récords de producción y la ampliación de proyectos reflejan potencial de crecimiento. Por otro lado, los inversores y analistas pueden prestar atención al beneficio y al EBITDA ajustado inferiores a lo previsto, así como al mayor presupuesto de inversión. Los pagos a los accionistas no determinan por sí solos la evolución de los precios de los combustibles, que dependen de otros factores. Se trata de resultados empresariales divulgados el 10 de noviembre, no de beneficios garantizados para próximos trimestres.",
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (17 de agosto de 2026): Lula y Magda Chambriard durante una visita a un buque de perforación de Petrobras en la cuenca de Foz do Amazonas, Amapá, Brasil. Ricardo Stuckert / Lula Oficial / Wikimedia Commons (CC BY-SA 4.0). La fotografía no muestra la presentación de resultados del 10 de noviembre."
+        },
+        "slug": "petrobras-gana-r-39-800-millones-en-el-tercer-trimestre-pero-no-alcanza-las-2026-11-11"
+      },
+      "firstSeen": "2026-11-11T01:45:49-03:00"
+    },
+    {
       "id": "russia-afirma-interceptar-92-drones-regiao-leningrado-2026-11-11",
       "date": "2026-11-11",
       "category": "MUNDO",
