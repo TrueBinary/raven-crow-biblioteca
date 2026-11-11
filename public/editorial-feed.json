@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "lula-erdogan-turquia-cooperacao-defesa-minerais-criticos-2026-11-11",
+      "date": "2026-11-11",
+      "category": "POLÍTICA",
+      "title": "Lula e Erdogan discutem parceria em defesa e minerais críticos durante COP31 na Turquia",
+      "subtitle": "Presidentes conversaram em Antália sobre ampliar o comércio bilateral e processar minerais estratégicos no Brasil; ainda não há acordo específico anunciado.",
+      "facts": "O presidente Luiz Inácio Lula da Silva se reuniu na terça-feira, 10 de novembro de 2026, com o presidente da Turquia, Recep Tayyip Erdogan, em Antália, durante a COP31. Segundo comunicado da Presidência brasileira reproduzido pela Agência Brasil, Lula propôs fortalecer a cooperação bilateral na indústria de defesa e sugeriu colaboração turca no processamento de minerais críticos em território brasileiro. Os dois líderes também discutiram ampliar o comércio bilateral, estimado em aproximadamente US$ 6 bilhões, e realizar uma primeira reunião do Conselho Estratégico entre os países, coordenado pelos vice-presidentes Geraldo Alckmin e Cevdet Yilmaz. Erdogan parabenizou Lula pela reeleição e sinalizou intenção de visitar o Brasil acompanhado de empresários, ainda sem data divulgada. O encontro ocorreu à margem da conferência climática; não foi anunciado contrato assinado nem investimento de valor determinado.",
+      "analysis": "O processamento de minerais críticos é uma etapa de maior valor agregado do que a simples exportação de minério bruto. A possibilidade de cooperação com a Turquia pode interessar à política industrial brasileira e à diversificação de parceiros em defesa e cadeias de suprimentos. Contudo, declarações de intenção em uma reunião diplomática não equivalem a investimentos aprovados, transferência de tecnologia ou criação imediata de empregos. A concretização depende de negociações técnicas, custos, capacidade industrial e regras de licenciamento. O comércio bilateral, citado em valores aproximados pelas fontes, é uma referência de escala atual e não uma meta de crescimento já contratada.",
+      "counterpoint": "O governo brasileiro destaca oportunidades industriais e o fortalecimento de relações diplomáticas que completarão cem anos em 2027. Uma avaliação cautelosa exige distinguir interesse político de compromisso juridicamente vinculante: não foram apresentados cronograma, empresas participantes, orçamento nem detalhes de eventual cooperação militar. A reunião ocorreu durante a COP31, mas os entendimentos sobre defesa e minerais não são, por si, decisões formais da conferência do clima.",
+      "sources": [
+        {
+          "name": "Agência Brasil / Radioagência Nacional — Lula se reúne com Erdogan (10/11/2026)",
+          "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-11/presidente-lula-se-reune-com-lider-da-turquia-tayyip-erdogan"
+        },
+        {
+          "name": "UOL — Lula encontra Erdogan e cita parceria na defesa (10/11/2026)",
+          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/10/lula-encontra-erdogan-na-turquia.htm"
+        },
+        {
+          "name": "Estadão Conteúdo via UOL — Cooperação em minerais críticos (10/11/2026)",
+          "url": "https://economia.uol.com.br/noticias/estadao-conteudo/2026/11/10/lula-se-reune-com-erdogan-e-sugere-cooperacao-com-turquia-em-processamento-de-minerais-criticos.htm"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/17.09.26_-_Presidente_Lula_faz_an%C3%BAncio_de_atualiza%C3%A7%C3%A3o_monet%C3%A1ria_do_Bolsa_Fam%C3%ADlia_%2855533831581%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/ (Wikimedia Commons, arquivo originado do Flickr Lula Oficial)",
+          "credit": "Ricardo Stuckert / Lula Oficial / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:17.09.26_-_Presidente_Lula_faz_an%C3%BAncio_de_atualiza%C3%A7%C3%A3o_monet%C3%A1ria_do_Bolsa_Fam%C3%ADlia_(55533831581).jpg",
+          "caption": "FOTO DE ARQUIVO (17/09/2026): presidente Lula em anúncio do Bolsa Família no Brasil. Ricardo Stuckert / Lula Oficial / Wikimedia Commons (CC BY-SA 4.0). A fotografia não registra o encontro com Erdogan em Antália em 10/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Lula and Erdogan discuss defence and critical-minerals cooperation at COP31 in Turkey",
+        "subtitle": "Meeting in Antalya focused on expanding bilateral trade and processing strategic minerals in Brazil; no specific agreement was announced.",
+        "facts": "Brazilian President Luiz Inácio Lula da Silva met Turkish President Recep Tayyip Erdogan in Antalya on Tuesday, November 10, 2026, during COP31. According to the Brazilian presidency's account reported by Agência Brasil, Lula proposed stronger cooperation in the defence industry and suggested Turkish participation in processing critical minerals in Brazil. The leaders also discussed expanding bilateral trade, estimated at about US$6 billion, and holding the first meeting of their Strategic Council, coordinated by Vice Presidents Geraldo Alckmin and Cevdet Yilmaz. Erdogan congratulated Lula on his re-election and indicated that he intended to visit Brazil with business representatives, although no date was announced. The talks took place on the sidelines of the climate summit; no signed contract or investment amount was announced.",
+        "analysis": "Processing critical minerals can generate more value than exporting unprocessed ore. Cooperation with Turkey could support Brazilian industrial policy and diversify defence and supply-chain partnerships. However, diplomatic expressions of interest do not constitute approved investment, technology transfer or immediate job creation. Implementation would require technical negotiations, financing, industrial capacity and regulatory approvals. The approximate bilateral trade figure describes the current relationship, not a binding growth target.",
+        "counterpoint": "Brazil's government highlights industrial opportunities and closer diplomatic ties ahead of their centenary in 2027. A cautious assessment must distinguish political interest from binding commitments: the meeting produced no public timetable, list of participating companies, budget or detailed military cooperation terms. The talks took place during COP31, but defence and minerals discussions are not formal climate-conference decisions.",
+        "category": "POLITICS",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (September 17, 2026): President Lula at a Bolsa Família announcement in Brazil. Ricardo Stuckert / Lula Oficial / Wikimedia Commons (CC BY-SA 4.0). This image does not depict his November 10 meeting with Erdogan in Antalya."
+        },
+        "slug": "lula-and-erdogan-discuss-defence-and-critical-minerals-cooperation-at-cop31-in-2026-11-11"
+      },
+      "es": {
+        "title": "Lula y Erdogan estudian cooperación en defensa y minerales críticos durante la COP31 en Turquía",
+        "subtitle": "La reunión en Antalya abordó la ampliación del comercio bilateral y el procesamiento de minerales estratégicos en Brasil; no se anunció ningún acuerdo específico.",
+        "facts": "El presidente brasileño Luiz Inácio Lula da Silva se reunió el martes 10 de noviembre de 2026 con el presidente turco Recep Tayyip Erdogan en Antalya, durante la COP31. Según la Presidencia brasileña, citada por Agência Brasil, Lula propuso reforzar la cooperación en la industria de defensa y planteó la participación turca en el procesamiento de minerales críticos en territorio brasileño. Los mandatarios también hablaron de ampliar el comercio bilateral, estimado en unos US$ 6.000 millones, y celebrar la primera reunión de su Consejo Estratégico, coordinado por los vicepresidentes Geraldo Alckmin y Cevdet Yilmaz. Erdogan felicitó a Lula por su reelección y manifestó su intención de visitar Brasil con empresarios, aunque no se anunció una fecha. La conversación tuvo lugar al margen de la cumbre climática; no se comunicó la firma de contratos ni inversiones de importe determinado.",
+        "analysis": "El procesamiento de minerales críticos puede generar más valor que la exportación de materias primas sin transformar. La cooperación con Turquía podría favorecer la política industrial brasileña y diversificar sus socios en defensa y cadenas de suministro. Sin embargo, las declaraciones diplomáticas de interés no equivalen a inversiones aprobadas, transferencia de tecnología ni creación inmediata de empleo. Su ejecución dependería de negociaciones técnicas, financiación, capacidad industrial y autorizaciones. La cifra aproximada del comercio bilateral refleja la relación actual, no un objetivo de crecimiento comprometido.",
+        "counterpoint": "El Gobierno brasileño destaca las oportunidades industriales y el fortalecimiento de las relaciones diplomáticas, que cumplirán cien años en 2027. Una evaluación prudente distingue el interés político de los compromisos vinculantes: no se publicaron plazos, empresas participantes, presupuesto ni detalles de una posible cooperación militar. Aunque la reunión se celebró durante la COP31, los asuntos de defensa y minerales no constituyen decisiones formales de la conferencia climática.",
+        "category": "POLÍTICA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (17 de septiembre de 2026): el presidente Lula durante un anuncio del programa Bolsa Família en Brasil. Ricardo Stuckert / Lula Oficial / Wikimedia Commons (CC BY-SA 4.0). La imagen no muestra la reunión del 10 de noviembre con Erdogan en Antalya."
+        },
+        "slug": "lula-y-erdogan-estudian-cooperacion-en-defensa-y-minerales-criticos-durante-la-2026-11-11"
+      },
+      "firstSeen": "2026-11-11T04:02:57-03:00"
+    },
+    {
       "id": "governo-negocia-ajuste-fiscal-80-bilhoes-2027-saude-educacao-2026-11-11",
       "date": "2026-11-11",
       "category": "ECONOMIA",
