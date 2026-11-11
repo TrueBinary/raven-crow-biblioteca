@@ -1,7 +1,81 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11",
+  "updatedAt": "2026-11-11T19:00:00-03:00",
   "essays": [
+    {
+      "id": "a-transparencia-que-precisa-de-lanterna-e-advogado-2026-11-11",
+      "section": "Política e sociedade",
+      "date": "2026-11-11",
+      "title": "A TRANSPARÊNCIA QUE PRECISA DE LANTERNA E ADVOGADO",
+      "subtitle": "O governo diz que está tudo à vista. O cidadão só precisa encontrar a chave do terceiro subsolo.",
+      "eyebrow": "OPINIÃO",
+      "paragraphs": [
+        "Imagine entrar numa repartição pública e encontrar uma placa enorme: TRANSPARÊNCIA TOTAL. Você pede para ver um contrato. O funcionário sorri, entrega uma lanterna sem pilhas e indica uma porta trancada no terceiro subsolo. A chave, explica ele, está disponível mediante requerimento; o formulário do requerimento pode ser solicitado em outro requerimento. Bem-vindo à transparência de vitrine: a instituição anuncia que não tem nada a esconder, mas parece ter alugado um depósito só para guardar os interruptores.",
+        "No Brasil, publicidade administrativa não é um favor que a autoridade concede quando acorda bem-humorada. A Constituição, no artigo 37, inclui a publicidade entre os princípios da administração pública. A Lei 12.527, de 2011, conhecida como Lei de Acesso à Informação, disciplina o direito de pedir informações e estabelece a publicidade como regra e o sigilo como exceção, dentro das hipóteses legais. É uma ideia simples, quase ofensiva para quem prefere a solenidade de um carimbo: o dinheiro público e os atos de governo precisam ser examináveis por quem paga a conta.",
+        "Mas publicar informação não é o mesmo que torná-la compreensível. Um portal pode oferecer milhares de arquivos, tabelas indecifráveis, siglas que parecem nomes de satélites e documentos que exigem um curso de arqueologia digital. O cidadão procura quanto custou determinada contratação e encontra uma planilha com quarenta abas, três códigos de despesa e um PDF que abre de lado. A administração, orgulhosa, responde que está tudo ali. Está mesmo. Também é possível esconder uma agulha num caminhão de agulhas e declarar, com rigor estatístico, que ninguém foi privado do objeto procurado.",
+        "É importante reconhecer a objeção legítima: governos administram dados pessoais, investigações, informações sensíveis e contratos complexos. Nem todo documento pode ser exposto integralmente, nem toda decisão cabe numa frase de rede social. A própria legislação prevê proteções e restrições justificadas. O que não se segue daí é que a complexidade deva virar desculpa permanente para impedir o escrutínio. Proteger o dado pessoal de um cidadão é uma obrigação; proteger o constrangimento político de um gabinete não é uma nova categoria de direito fundamental.",
+        "Há uma inversão curiosa nesse teatro. Quando a autoridade quer convencer o público, a comunicação é instantânea: vídeo, slogan, gráfico colorido, legenda em letras garrafais e alguém apontando para a câmera com a confiança de quem acabou de descobrir o futuro. Quando o contribuinte pede os números que sustentam a propaganda, começa a peregrinação: protocolo, prazo, recurso, senha, comprovante e talvez uma oferenda ao deus da autenticação em duas etapas. A máquina que encontra você para cobrar um tributo parece precisar de uma expedição cartográfica para localizar a própria justificativa.",
+        "Transparência de verdade não exige que todos concordem com cada gasto. Exige que possam compreender o que foi decidido, por quem, com qual fundamento e a que custo. O cidadão pode achar uma obra necessária; o vizinho pode considerá-la desperdício. A divergência é saudável quando ambos enxergam a mesma documentação. Sem informação inteligível, o debate público vira uma disputa entre torcidas que gritam diante de uma caixa fechada. E quem controla a caixa vende ingresso para os dois lados.",
+        "Meu caro leitor, o poder público não precisa de uma iluminação teatral que o faça parecer virtuoso nas fotografias. Precisa de luz suficiente para que seus atos sejam vistos, contestados e corrigidos. O governante não é proprietário da verdade nem do cofre; é responsável por decisões tomadas em nome de terceiros. A transparência que só funciona para quem já sabe a resposta é como uma janela pintada na parede: fica bonita no projeto, mas não deixa entrar um raio de sol. E se a repartição insistir em oferecer uma lanterna sem pilhas, ao menos tenha a decência de não chamar a escuridão de serviço prestado."
+      ],
+      "sources": [
+        {
+          "title": "Constituição da República Federativa do Brasil, art. 37",
+          "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+        },
+        {
+          "title": "Lei nº 12.527/2011 — Lei de Acesso à Informação",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+        },
+        {
+          "title": "Controladoria-Geral da União — Acesso à Informação",
+          "url": "https://www.gov.br/acessoainformacao/pt-br"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/National_Congress_of_Brazil%2C_Brasilia.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+          "credit": "CivArmy / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:National_Congress_of_Brazil,_Brasilia.jpg",
+          "caption": "FOTO DE ARQUIVO (27/10/2013), Brasília, DF: fachada do Congresso Nacional. Registro ilustrativo da instituição, não retrata acontecimento recente."
+        }
+      ],
+      "en": {
+        "title": "TRANSPARENCY REQUIRES A FLASHLIGHT AND A LAWYER",
+        "subtitle": "The government says everything is on display. Citizens only need to find the key to the third basement.",
+        "eyebrow": "OPINION",
+        "section": "Politics and society",
+        "paragraphs": [
+          "Imagine walking into a government office beneath a huge sign reading TOTAL TRANSPARENCY. You ask to see a contract. The clerk smiles, hands you a flashlight without batteries and points toward a locked door three floors underground. The key, he explains, is available by application; the application form must be requested through another application. Welcome to showroom transparency: the institution claims it has nothing to hide, yet seems to have rented a warehouse just to store the light switches.",
+          "In Brazil, administrative openness is not a favor granted by an official in a generous mood. Article 37 of the Constitution names publicity among the principles of public administration. Law 12,527 of 2011, the Access to Information Law, governs requests for information and makes disclosure the rule and secrecy the legally defined exception. It is a simple idea, almost insulting to those who prefer the solemnity of a rubber stamp: public money and government acts must be open to scrutiny by those who foot the bill.",
+          "But publishing information is not the same as making it understandable. A portal can offer thousands of files, indecipherable tables, acronyms that sound like satellite names and documents requiring a degree in digital archaeology. A citizen looks for the cost of a procurement and finds a spreadsheet with forty tabs, three spending codes and a PDF displayed sideways. The administration proudly replies that everything is there. Indeed it is. You can also hide a needle in a truckload of needles and claim, with statistical precision, that nobody was denied access to the item.",
+          "There is a legitimate objection: governments handle personal data, investigations, sensitive information and complex contracts. Not every document can be released in full, and not every decision fits in a social-media caption. The law itself provides justified protections and restrictions. But complexity is no excuse for permanently obstructing scrutiny. Protecting a citizen's personal data is a duty; protecting a minister's political embarrassment is not a newly discovered fundamental right.",
+          "There is a curious reversal in this performance. When officials want to persuade the public, communication is immediate: video, slogan, colorful chart, enormous subtitles and someone pointing at the camera as though they had just discovered the future. When taxpayers ask for the figures behind the publicity, the pilgrimage begins: ticket number, deadline, appeal, password, receipt and perhaps an offering to the god of two-factor authentication. The machine that knows exactly where to find you to collect a tax suddenly needs a cartographic expedition to locate its own explanation.",
+          "Real transparency does not require everyone to agree with every expenditure. It requires people to understand what was decided, by whom, on what grounds and at what cost. One citizen may find a project necessary; a neighbor may call it wasteful. That disagreement is healthy when both can see the same records. Without intelligible information, public debate becomes rival fan clubs shouting at a sealed box. And whoever controls the box sells tickets to both sides.",
+          "Dear reader, government does not need theatrical lighting to look virtuous in photographs. It needs enough light for its actions to be seen, challenged and corrected. A ruler does not own truth or the treasury; the officeholder is accountable for decisions made on behalf of others. Transparency that works only for people who already know the answer is like a window painted on a wall: attractive on the blueprint, but it lets in no sunlight. And if the office insists on offering a flashlight without batteries, it could at least have the decency not to call the darkness a public service."
+        ],
+        "photo_caption": "ARCHIVE PHOTO (October 27, 2013), Brasília, Brazil: National Congress building. Institutional illustration, not a recent event."
+      },
+      "es": {
+        "title": "LA TRANSPARENCIA NECESITA UNA LINTERNA Y UN ABOGADO",
+        "subtitle": "El gobierno dice que todo está a la vista. Solo hay que encontrar la llave del tercer sótano.",
+        "eyebrow": "OPINIÓN",
+        "section": "Política y sociedad",
+        "paragraphs": [
+          "Imagine entrar en una oficina pública bajo un enorme cartel: TRANSPARENCIA TOTAL. Pide ver un contrato. El funcionario sonríe, le entrega una linterna sin pilas y señala una puerta cerrada en el tercer sótano. La llave, explica, se obtiene mediante solicitud; el formulario de solicitud debe pedirse mediante otra solicitud. Bienvenido a la transparencia de escaparate: la institución anuncia que no tiene nada que esconder, pero parece haber alquilado un almacén solo para guardar los interruptores.",
+          "En Brasil, la publicidad de los actos administrativos no es un favor que la autoridad concede cuando se levanta de buen humor. El artículo 37 de la Constitución incluye la publicidad entre los principios de la administración pública. La Ley 12.527 de 2011, conocida como Ley de Acceso a la Información, regula las solicitudes y establece la publicidad como regla y el secreto como excepción en los supuestos legales. Es una idea sencilla, casi ofensiva para quien prefiere la solemnidad de un sello: el dinero público y los actos del gobierno deben poder ser examinados por quienes pagan la cuenta.",
+          "Pero publicar información no equivale a hacerla comprensible. Un portal puede ofrecer miles de archivos, tablas indescifrables, siglas que parecen nombres de satélites y documentos que requieren un título en arqueología digital. El ciudadano busca cuánto costó una contratación y encuentra una hoja de cálculo con cuarenta pestañas, tres códigos de gasto y un PDF girado. La administración responde orgullosa que todo está allí. Y es cierto. También se puede esconder una aguja en un camión lleno de agujas y declarar, con rigor estadístico, que nadie fue privado del objeto buscado.",
+          "Existe una objeción legítima: los gobiernos gestionan datos personales, investigaciones, información sensible y contratos complejos. No todos los documentos pueden divulgarse íntegramente ni todas las decisiones caben en una frase de redes sociales. La propia ley contempla protecciones y restricciones justificadas. Pero de ahí no se deduce que la complejidad deba servir de excusa permanente para impedir el control público. Proteger los datos personales de un ciudadano es un deber; proteger la vergüenza política de un despacho no es una nueva categoría de derecho fundamental.",
+          "Hay una inversión curiosa en este teatro. Cuando la autoridad quiere convencer al público, la comunicación es instantánea: vídeo, eslogan, gráfico colorido, subtítulos gigantes y alguien señalando a la cámara con la seguridad de quien acaba de descubrir el futuro. Cuando el contribuyente pide las cifras que respaldan la propaganda, empieza la peregrinación: número de expediente, plazo, recurso, contraseña, comprobante y quizá una ofrenda al dios de la autenticación en dos pasos. La máquina que lo encuentra para cobrar un impuesto necesita de pronto una expedición cartográfica para localizar su propia justificación.",
+          "La transparencia auténtica no exige que todos estén de acuerdo con cada gasto. Exige que puedan entender qué se decidió, quién lo hizo, con qué fundamento y a qué coste. Un ciudadano puede considerar necesaria una obra; su vecino puede verla como un despilfarro. La discrepancia es sana cuando ambos pueden consultar la misma documentación. Sin información inteligible, el debate público se convierte en dos hinchadas que gritan frente a una caja cerrada. Y quien controla la caja vende entradas a los dos bandos.",
+          "Querido lector, el poder público no necesita una iluminación teatral que lo haga parecer virtuoso en las fotografías. Necesita luz suficiente para que sus actos puedan verse, cuestionarse y corregirse. El gobernante no es dueño de la verdad ni del tesoro; responde por decisiones tomadas en nombre de terceros. La transparencia que solo funciona para quien ya conoce la respuesta es como una ventana pintada en la pared: queda preciosa en el plano, pero no deja pasar un rayo de sol. Y si la oficina insiste en ofrecer una linterna sin pilas, al menos debería tener la decencia de no llamar servicio público a la oscuridad."
+        ],
+        "photo_caption": "FOTO DE ARCHIVO (27/10/2013), Brasilia, Brasil: edificio del Congreso Nacional. Imagen institucional, no representa un acontecimiento reciente."
+      }
+    },
     {
       "id": "o-algoritmo-mandou-e-a-consciencia-pediu-demissao-2026-11-11",
       "section": "Filosofia e ideias",
