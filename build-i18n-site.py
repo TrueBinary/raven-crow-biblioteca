@@ -207,4 +207,6 @@ if __name__ == "__main__":
     miss = build("--extract" in sys.argv)
     from raven_seo import build as build_seo
     build_seo(ROOT)
+    from page_assets import finish_pages, site_pages
+    print("Fontes/versões em", finish_pages(PUBLIC, site_pages(ROOT)), "páginas")  # último: vale para todos os builders
     print("Site traduzido:", {l: f"{len(PAGES)} páginas, {len(m)} textos sem tradução" for l, m in miss.items()})

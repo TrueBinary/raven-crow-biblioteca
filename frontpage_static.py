@@ -9,6 +9,7 @@ import re
 from html import escape
 
 from news_i18n import SECTIONS, block, local_slug
+from page_assets import FONT_FACE
 
 T = {
     "pt": {"img": "Imagem ilustrativa: ", "news": "Notícias", "lead": "Confira a análise completa.", "min": " min de leitura", "file": "Foto ilustrativa de arquivo",
@@ -86,7 +87,6 @@ def render_main(articles: list, images: dict, lang: str) -> str:
 
 
 CSS = ("raven-editorial.css", "raven-unified.css", "raven-navigation.css")
-FONTS = [("Barlow Condensed", w, f"barlow-condensed-{w}") for w in (600, 700, 800, 900)] + [("DM Sans", "400 700", "dm-sans")]
 # O que inline_head() troca: links do Google Fonts, os 3 CSS da capa e o bloco que ela mesma escreveu antes.
 HEAD = re.compile(r'<link rel="preconnect" href="https://fonts\.g[^>]*>\s*|<link href="https://fonts\.googleapis\.com/[^>]*>\s*'
                   r'|<link rel="stylesheet" href="/?(?:' + "|".join(re.escape(c) for c in CSS) + r')">\s*'
@@ -98,9 +98,7 @@ def inline_head(page: str, public) -> str:
 
     Lê os .css a cada build, então mudar raven-unified.css continua valendo na capa.
     """
-    css = "".join(f"@font-face{{font-family:'{f}';font-style:normal;font-weight:{w};font-display:swap;src:url(/fonts/{n}.woff2) format('woff2')}}"
-                  for f, w, n in FONTS)
-    css += "\n".join((public / c).read_text(encoding="utf-8") for c in CSS)
+    css = FONT_FACE + "\n".join((public / c).read_text(encoding="utf-8") for c in CSS)
     block = ('<link rel="preload" as="font" type="font/woff2" href="/fonts/barlow-condensed-900.woff2" crossorigin>\n'
              '<link rel="preload" as="font" type="font/woff2" href="/fonts/dm-sans.woff2" crossorigin>\n'
              f'<style data-inline="{" ".join(CSS)}">{css}</style>\n')
