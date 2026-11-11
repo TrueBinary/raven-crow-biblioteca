@@ -1,12 +1,10 @@
-// Idempotent Git -> R2 sync (deletes only retired clips/, see prunePlanned) for the Raven Crow site. Verifies size + MD5 ETag per object.
+// Idempotent, delete-free Git -> R2 sync for the Raven Crow site. Verifies size + MD5 ETag per object.
 import { execFileSync } from 'node:child_process';
 import { createHash } from 'node:crypto';
 import { readFileSync } from 'node:fs';
 import { getSourceManifest, listR2All } from './inventory.mjs';
 
 const MAX_PUT = 300 * 1024 * 1024; // REST object PUT limit
-const RETIRED_CLIP = /^clips\/[a-f0-9]{64}\.(?:mp4|jpg)$/;
-const MAX_PRUNE = 250; // a bad checkout must not wipe the clip store: above this, delete nothing and log
 const md5 = b => createHash('md5').update(b).digest('hex');
 const srcPath = key => (key === 'index.html' ? 'index.html' : 'public/' + key);
 const readBlob = (repo, ref, key) => execFileSync('git', ['-C', repo, 'show', `${ref}:${srcPath(key)}`], { maxBuffer: MAX_PUT + 1 });
@@ -33,11 +31,6 @@ export async function syncMedia({ gitRef, repo = process.cwd(), api = cloudflare
     else { result.skipped++; result.verified++; }
   }
   result.planned = todo.map(s => ({ key: s.key, size: s.size, update: !!s.update }));
-  // The one exception to delete-free: clips the CorteFlow retirer removed from git after they were posted
-  // (config/raven-clip-retire.mjs). Clips only reach R2 through git, so absent from git = retired.
-  const inGit = new Set(source.map(s => s.key));
-  result.prunePlanned = [...dest.keys()].filter(k => RETIRED_CLIP.test(k) && !inGit.has(k));
-  result.pruned = 0;
   if (result.failed.length || dryRun) return result;
   if (only) todo.splice(0, todo.length, ...todo.filter(s => only.has(s.key)));
 
@@ -47,10 +40,6 @@ export async function syncMedia({ gitRef, repo = process.cwd(), api = cloudflare
     const batch = todo.filter(s => phaseOf(s.key) === phase);
     await runBatch(batch);
     if (result.failed.length) break;
-  }
-  if (!result.failed.length && !only) {
-    if (result.prunePlanned.length > MAX_PRUNE) log(`prune skipped: ${result.prunePlanned.length} clips > ${MAX_PRUNE}`);
-    else for (const key of result.prunePlanned) { await api.delete(key); result.pruned++; log(`DELETED ${key}`); }
   }
   return result;
 
@@ -105,10 +94,6 @@ export function cloudflareApi({ accountId = process.env.CLOUDFLARE_ACCOUNT_ID, b
       if (!res.ok || !j?.success) { const e = Error('HTTP ' + res.status + ' ' + JSON.stringify(j?.errors || '')); e.status = res.status; throw e; }
       return { key, size: Number(j.result.size), etag: j.result.etag };
     },
-    async delete(key) {
-      const res = await fetch(base() + key.split('/').map(encodeURIComponent).join('/'), { method: 'DELETE', headers: { Authorization: 'Bearer ' + token() } });
-      if (!res.ok && res.status !== 404) throw Error('DELETE ' + key + ' HTTP ' + res.status);
-    },
   };
 }
 
@@ -117,7 +102,7 @@ if (import.meta.url === `file:///${process.argv[1]?.replace(/\\/g, '/')}` || imp
   const only = args.find(a => a.startsWith('--only='))?.slice(7).split(',');
   const r = await syncMedia({ gitRef: args.find(a => !a.startsWith('--')) || 'origin/main', dryRun: args.includes('--dry-run'), only: only && new Set(only), log: m => console.error(m) });
   const bytes = r.planned.reduce((a, x) => a + x.size, 0);
-  console.log(JSON.stringify({ commit: r.commit, uploaded: r.uploaded, updated: r.updated, skipped: r.skipped, verified: r.verified, failed: r.failed, plannedCount: r.planned.length, plannedBytes: bytes, pruned: r.pruned, prunePlanned: r.prunePlanned.length }, null, 1));
+  console.log(JSON.stringify({ commit: r.commit, uploaded: r.uploaded, updated: r.updated, skipped: r.skipped, verified: r.verified, failed: r.failed, plannedCount: r.planned.length, plannedBytes: bytes }, null, 1));
   process.exitCode = r.failed.length ? 2 : 0;
 }
 

@@ -5,7 +5,7 @@ Owner of this contract: site hosting (Cloudflare). Owner of the producer: the cu
 ## URL
 
 - Public URL: `https://ravencrow.cloud/clips/<sha256>.mp4` or `https://www.ravencrow.cloud/clips/<sha256>.mp4` (both served by Worker `raven-crow-site-production`). The pipeline currently uses the `www` form (`RAVEN_CLIPS_BASE`).
-- `<sha256>` is the SHA-256 of the exact MP4 bytes. A key is written once and never overwritten or deleted; a changed video gets a new hash and a new URL.
+- `<sha256>` is the SHA-256 of the exact MP4 bytes. A key is written once and never overwritten (it is deleted only when retired after posting); a changed video gets a new hash and a new URL.
 - Thumbnail: same path with `.jpg`.
 
 ## "Ready" definition
@@ -19,15 +19,11 @@ A clip is ready for Buffer only when `node ops/cloudflare/video-url.mjs <url> <s
 
 `findDuplicateClips()` in the same module reports two queue entries pointing at the same hash.
 
-## How a clip reaches R2 today
+## How a clip reaches R2 today (since 2026-11-11)
 
-1. Pipeline commits `public/clips/<sha>.mp4` + `.jpg` to GitHub `main` and pushes (`uploadApprovedToSite`).
-2. Release (`ops/cloudflare/release.mjs`) syncs `main` to R2 with integrity checks. While GitHub Actions is locked it runs from the Windows task "Raven Crow - release site R2" every 15 minutes (`ops/cloudflare/release-local.ps1`).
-3. Until step 2 runs, the Worker serves the clip from GitHub Raw (`X-Raven-Migration-Stage: github-fallback`) because `GITHUB_FALLBACK=1`.
-
-## Why the GitHub fallback must stay on for now
-
-`waitForSiteMedia` waits at most 18 × 10 s = 3 min after the push and only checks HEAD/Range (not the stage header). Release runs up to 15 min later. With the fallback off, new clips would fail with `SITE_DEPLOY_NOT_READY` and not be scheduled.
+1. `uploadApprovedToSite` in `D:\CorteFlow\configaven-site-media.mjs` PUTs `clips/<sha>.mp4` and `.jpg` straight into the R2 bucket `raven-crow-media` (REST API, cf CLI login; `config/raven-r2.mjs`), checks size + MD5 ETag, then waits for the public URL. Clips no longer go through git: each one used to stay in the repository history forever (4+ GB).
+2. `config/raven-clip-retire.mjs` (daily, 06:30) lists `clips/` in R2 and deletes clips already posted on every destination; for old clips still tracked in git it does `git rm` first, so the site sync cannot upload them again.
+3. The site sync (`r2-sync.mjs`) never deletes anything: clips that exist only in R2 are not its business.
 
 ## Requirements for the pipeline owner (a separate, reviewed release)
 

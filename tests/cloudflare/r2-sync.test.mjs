@@ -163,15 +163,11 @@ test('favicon.ico is site chrome and may be replaced; clips and photos stay immu
   assert.equal(isMutable('noticias/fotos/x.jpg'), false);
 });
 
-test('clips removed from git (retired after posting) are deleted from R2; nothing else is', async t => {
+test('clips that live only in R2 (CorteFlow uploads them directly) are never deleted by the sync', async t => {
   const dir = repo(); t.after(() => rmSync(dir, { recursive: true, force: true }));
-  const gone = 'clips/' + 'a'.repeat(64) + '.mp4', thumb = 'clips/' + 'a'.repeat(64) + '.jpg', page = 'old-page.html';
-  const api = fakeApi({ [gone]: Buffer.from('v'), [thumb]: Buffer.from('j'), [page]: Buffer.from('p') });
-  const deleted = [];
-  api.delete = async key => { deleted.push(key); api.objects.delete(key); };
-  const dry = await syncMedia({ gitRef: 'HEAD', repo: dir, api, dryRun: true });
-  assert.deepEqual([dry.prunePlanned.sort(), deleted], [[thumb, gone].sort(), []]);
-  const r = await syncMedia({ gitRef: 'HEAD', repo: dir, api });
-  assert.deepEqual([deleted.sort(), r.pruned], [[thumb, gone].sort(), 2]);
-  assert.ok(api.objects.has(page), 'a sincronização continua sem apagar páginas');
+  const clip = 'clips/' + 'a'.repeat(64) + '.mp4';
+  const api = fakeApi({ [clip]: Buffer.from('v') });
+  api.delete = async () => assert.fail('sync must not delete');
+  await syncMedia({ gitRef: 'HEAD', repo: dir, api });
+  assert.ok(api.objects.has(clip));
 });
