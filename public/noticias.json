@@ -6,6 +6,46 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "russia-ucrania-acertam-troca-prisioneiros-abu-dhabi-sem-cessar-fogo-2026-11-11",
+      "date": "2026-11-11",
+      "category": "MUNDO",
+      "title": "Rússia e Ucrânia acertam troca de prisioneiros em Abu Dhabi, mas negociações terminam sem cessar-fogo",
+      "subtitle": "Após dois dias de conversas mediadas pelos Estados Unidos, delegações concordam em princípio com intercâmbio humanitário; número de pessoas e calendário ainda serão definidos.",
+      "facts": "Representantes de Rússia e Ucrânia encerraram nesta quarta-feira, 11 de novembro de 2026, dois dias de negociações em Abu Dhabi, nos Emirados Árabes Unidos, com mediação dos Estados Unidos. As delegações anunciaram um acordo de princípio para uma troca de prisioneiros de guerra em larga escala, mas não houve avanço decisivo para encerrar o conflito nem anúncio de cessar-fogo. O enviado americano Jared Kushner afirmou que o número definitivo de pessoas a serem trocadas seria definido posteriormente. O presidente ucraniano Volodymyr Zelenskyy havia mencionado a discussão de uma troca de 1.000 por 1.000 prisioneiros, possivelmente 1.500 por 1.500, mas essas cifras não constituem quantidade final aprovada. Reuters e Associated Press confirmaram o resultado das negociações.",
+      "analysis": "O entendimento humanitário oferece um resultado concreto em meio a divergências persistentes sobre territórios ocupados, garantias de segurança para a Ucrânia e a participação de países europeus nas futuras negociações. Os enviados americanos Steve Witkoff e Jared Kushner planejam seguir a Moscou para conversar com Vladimir Putin e depois encontrar Zelenskyy. O avanço na troca de prisioneiros não equivale a um tratado de paz: a guerra e os ataques continuam, enquanto as posições sobre Donbas e a arquitetura de segurança europeia permanecem distantes.",
+      "counterpoint": "Autoridades russas e ucranianas descreveram progressos em determinados pontos, mas o enviado americano reconheceu a profunda falta de confiança entre os lados. A Rússia mantém exigências territoriais rejeitadas por Kyiv e resiste à participação direta dos europeus no formato trilateral. Ucrânia e parceiros europeus defendem garantias de segurança e um papel europeu nas decisões que afetam o continente. Até que números, datas e execução sejam anunciados e verificados, a troca deve ser tratada como acordo de princípio, não como libertação já realizada.",
+      "sources": [
+        {
+          "name": "Reuters — Russia and Ukraine say some progress made at talks, US cites a lack of trust (11/11/2026)",
+          "url": "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/"
+        },
+        {
+          "name": "Associated Press — Russia and Ukraine agree to a large prisoner exchange as talks end with no major breakthrough (11/11/2026)",
+          "url": "https://apnews.com/article/7c8d1024302e0c6ad8be064eec852a64"
+        },
+        {
+          "name": "Interfax-Ukraine — Ukraine-Russia talks in Abu Dhabi end, European round begins (11/11/2026)",
+          "url": "https://en.interfax.com.ua/news/general/1234699-amp.html"
+        }
+      ],
+      "en": {
+        "title": "Russia and Ukraine agree in principle to prisoner swap in Abu Dhabi, but no ceasefire emerges",
+        "subtitle": "After two days of US-mediated talks, delegations announce a planned humanitarian exchange; the number of prisoners and timetable remain unsettled.",
+        "facts": "Russian and Ukrainian representatives concluded two days of US-mediated talks in Abu Dhabi, United Arab Emirates, on Wednesday, November 11, 2026. The delegations announced an agreement in principle on a large-scale prisoner-of-war exchange, but no breakthrough toward ending the war and no ceasefire. US envoy Jared Kushner said the final number of prisoners would be determined later. Ukrainian President Volodymyr Zelenskyy had said the parties discussed swapping 1,000 prisoners from each side, potentially 1,500 each, but those figures are not finalized. Reuters and the Associated Press independently reported the outcome.",
+        "analysis": "The humanitarian understanding is a tangible result amid continuing disagreements over occupied territory, Ukraine's security guarantees and Europe's participation in future negotiations. US envoys Steve Witkoff and Jared Kushner plan to travel to Moscow to meet Vladimir Putin and later see Zelenskyy. A prisoner swap agreement is not a peace treaty: fighting continues and the sides remain far apart on Donbas and Europe's security architecture.",
+        "counterpoint": "Russian and Ukrainian officials described some progress, but the US mediator acknowledged deep mistrust. Moscow continues to demand territory that Kyiv refuses to surrender and questions European involvement in the trilateral format. Ukraine and European partners seek credible security guarantees and a say in decisions affecting Europe. Until the numbers, schedule and actual releases are confirmed, this remains an agreement in principle, not a completed exchange.",
+        "category": "WORLD"
+      },
+      "es": {
+        "title": "Rusia y Ucrania acuerdan en principio un canje de prisioneros en Abu Dabi, pero no un alto el fuego",
+        "subtitle": "Tras dos días de conversaciones mediadas por Estados Unidos, las delegaciones anuncian un intercambio humanitario pendiente de concretar cifras y calendario.",
+        "facts": "Representantes de Rusia y Ucrania concluyeron el miércoles 11 de noviembre de 2026 dos días de negociaciones en Abu Dabi, Emiratos Árabes Unidos, con mediación de Estados Unidos. Las delegaciones anunciaron un acuerdo de principio para un intercambio de prisioneros de guerra a gran escala, pero sin avances decisivos hacia el fin de la guerra ni anuncio de alto el fuego. El enviado estadounidense Jared Kushner dijo que la cifra definitiva se determinaría posteriormente. El presidente ucraniano Volodymyr Zelenskyy había mencionado conversaciones sobre un canje de 1.000 por 1.000 prisioneros, posiblemente 1.500 por 1.500, pero no son cantidades definitivas. Reuters y Associated Press confirmaron por separado el resultado.",
+        "analysis": "El entendimiento humanitario supone un resultado concreto pese a las diferencias sobre los territorios ocupados, las garantías de seguridad para Ucrania y la participación europea en futuras negociaciones. Los enviados estadounidenses Steve Witkoff y Jared Kushner prevén viajar a Moscú para reunirse con Vladimir Putin y posteriormente con Zelenskyy. Un acuerdo de intercambio no equivale a un tratado de paz: continúan los combates y persisten las diferencias sobre Donbas y la seguridad europea.",
+        "counterpoint": "Las autoridades rusas y ucranianas hablaron de ciertos avances, pero el mediador estadounidense reconoció una profunda desconfianza. Moscú mantiene exigencias territoriales rechazadas por Kyiv y cuestiona la presencia europea en el formato trilateral. Ucrania y sus socios europeos reclaman garantías de seguridad y participación en decisiones que afectan al continente. Hasta confirmar cifras, fechas y liberaciones efectivas, se trata de un acuerdo de principio, no de un canje realizado.",
+        "category": "MUNDO"
+      }
+    },
+    {
       "id": "pesquisadores-relatam-roubo-documentos-tajiquistao-ia-2026-11-11",
       "date": "2026-11-11",
       "category": "MUNDO",
