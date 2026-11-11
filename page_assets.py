@@ -26,7 +26,8 @@ def finish_pages(public: Path, pages) -> int:
     def version(name):
         if name not in versions:
             f = public / name
-            versions[name] = hashlib.md5(f.read_bytes()).hexdigest()[:8] if f.is_file() else None
+            # LF como no git/R2: no Windows a cópia de trabalho é CRLF e o hash não bateria com a ETag do R2
+            versions[name] = hashlib.md5(f.read_bytes().replace(b"\r\n", b"\n")).hexdigest()[:8] if f.is_file() else None
         return versions[name]
 
     def stamp(m):

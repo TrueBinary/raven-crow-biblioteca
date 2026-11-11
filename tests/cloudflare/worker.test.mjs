@@ -157,3 +157,15 @@ test('plain UTF-8 IndexNow key is served unchanged from R2', async () => {
   assert.equal(head.status, 200);
   assert.equal(head.body, null);
 });
+
+test('raven-*.css/js?v=<md5[:8]> is cached a year only when R2 holds that exact version', async () => {
+  const b = bucket(FILES), etag = '"6e4c873f00000000000000000000000a"';
+  const withEtag = o => o && { ...o, httpEtag: etag };
+  const e = { RAVEN_MEDIA: { head: async k => withEtag(await b.head(k)), get: async (k, o) => withEtag(await b.get(k, o)) } };
+  const cc = async (p, init) => (await call(p, init, e)).headers.get('cache-control');
+  assert.equal(await cc('/raven-frontpage.js?v=6e4c873f'), 'public, max-age=31536000, immutable');
+  assert.equal(await cc('/raven-frontpage.js?v=6e4c873f', { method: 'HEAD' }), 'public, max-age=31536000, immutable');
+  assert.equal(await cc('/raven-frontpage.js?v=6e4c873f', { headers: { 'If-None-Match': etag } }), 'public, max-age=31536000, immutable');
+  assert.equal(await cc('/raven-frontpage.js?v=deadbeef'), 'public, max-age=300', 'R2 ainda com o arquivo antigo: cache curto');
+  assert.equal(await cc('/raven-frontpage.js'), 'public, max-age=300');
+});

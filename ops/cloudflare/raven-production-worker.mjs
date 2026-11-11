@@ -95,10 +95,15 @@ async function handle(req,env){
   }
   return notFound(req,env,path);
  }
- const inm=req.headers.get('If-None-Match');if(inm&&(inm.trim()==='*'||inm.split(',').some(t=>t.trim().replace(/^W\//,'')===head.httpEtag.replace(/^W\//,''))))return new Response(null,{status:304,headers:{ETag:head.httpEtag,'Cache-Control':cache(key)}});
- if(req.method==='HEAD')return respond(key,head,'HEAD',null);
+ // raven-*.css/js?v=<md5[:8]> (page_assets.py): um ano só se o R2 já tem exatamente essa versão (a ETag é o MD5);
+ // no meio de uma publicação a página nova pode chegar antes do CSS novo e o velho não pode ficar preso no cache.
+ const v=new URL(req.url).searchParams.get('v');
+ const cc=v&&/^[0-9a-f]{8}$/.test(v)&&/\.(?:css|js)$/.test(key)&&head.httpEtag.replace(/^W\/|"/g,'').startsWith(v)?'public, max-age=31536000, immutable':cache(key);
+ const pin=r=>{r.headers.set('Cache-Control',cc);return r};
+ const inm=req.headers.get('If-None-Match');if(inm&&(inm.trim()==='*'||inm.split(',').some(t=>t.trim().replace(/^W\//,'')===head.httpEtag.replace(/^W\//,''))))return new Response(null,{status:304,headers:{ETag:head.httpEtag,'Cache-Control':cc}});
+ if(req.method==='HEAD')return pin(respond(key,head,'HEAD',null));
  const range=parseByteRange(req.headers.get('Range'),head.size);
  if(range?.invalid)return new Response(null,{status:416,headers:{'Content-Range':'bytes */'+head.size,'Accept-Ranges':'bytes'}});
  const body=await env.RAVEN_MEDIA.get(key,range?{range}:undefined);
- return body?respond(key,body,'GET',range):new Response('Not Found',{status:404});
+ return body?pin(respond(key,body,'GET',range)):new Response('Not Found',{status:404});
 }
