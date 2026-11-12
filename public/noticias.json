@@ -6,6 +6,46 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "ipca-outubro-014-inflacao-12-meses-463-2026-11-12",
+      "date": "2026-11-12",
+      "category": "ECONOMIA",
+      "title": "Inflação desacelera a 0,14% em outubro, mas acumulado de 12 meses sobe a 4,63%",
+      "subtitle": "IPCA fica abaixo das previsões; alimentos avançam 1,04% e inflação segue acima do teto da meta.",
+      "facts": "O Índice Nacional de Preços ao Consumidor Amplo (IPCA), divulgado pelo IBGE nesta quinta-feira, 12 de novembro de 2026, subiu 0,14% em outubro, ante 0,82% em setembro. O resultado ficou abaixo da previsão de 0,25% dos economistas consultados pela Reuters. Apesar da desaceleração mensal, a inflação acumulada em 12 meses avançou de 4,58% para 4,63%, acima do teto de 4,5% da meta do Banco Central. Entre os grupos, alimentação e bebidas subiu 1,04%, enquanto habitação recuou 0,51% e transportes caiu 0,59%, segundo os dados reproduzidos pela Reuters. O indicador é uma média de preços e não significa que todos os produtos ficaram mais baratos.",
+      "analysis": "O dado mensal mais fraco que o esperado oferece algum alívio, mas não elimina a pressão sobre o orçamento doméstico. A alta de alimentos contrasta com o recuo de transportes e habitação e ajuda a explicar por que famílias podem sentir uma inflação diferente da média. A taxa acumulada em 12 meses continua acima do intervalo de tolerância da meta, o que mantém a política monetária sob escrutínio. A leitura isolada de outubro não permite afirmar que haverá corte imediato da Selic.",
+      "counterpoint": "O índice desacelerou, mas a conta do supermercado não recebeu o memorando: alimentação e bebidas subiram 1,04%. É preciso reconhecer o alívio no número geral sem confundir inflação menor com queda generalizada dos preços. A discussão econômica séria deve olhar para a renda real das famílias, os custos de crédito e a trajetória fiscal, não apenas para uma manchete conveniente.",
+      "sources": [
+        {
+          "name": "Reuters — IPCA de outubro divulgado em 12/11/2026",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/12/ipca-sobe-014-em-outubro-diz-ibge.amp.htm"
+        },
+        {
+          "name": "CNN Brasil — divulgação do IBGE, 12/11/2026",
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/inflacao-ipca-12-novembro-2026/"
+        },
+        {
+          "name": "Folha de S.Paulo — análise do IPCA de outubro, 12/11/2026",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/11/inflacao-medida-pelo-ipca-fica-em-014-em-outubro-abaixo-das-expectativas.shtml"
+        }
+      ],
+      "en": {
+        "title": "Brazil's inflation slows to 0.14% in October, but 12-month rate rises to 4.63%",
+        "subtitle": "The IPCA comes in below forecasts; food and beverages rise 1.04% while annual inflation remains above the target ceiling.",
+        "facts": "Brazil's national statistics agency, IBGE, reported on November 12, 2026 that the Broad National Consumer Price Index (IPCA) rose 0.14% in October, down from 0.82% in September. The figure was below the 0.25% forecast in a Reuters survey. However, inflation over 12 months increased from 4.58% to 4.63%, exceeding the Central Bank's 4.5% target ceiling. Food and beverages rose 1.04%, while housing fell 0.51% and transport declined 0.59%, according to data reported by Reuters. The headline index is an average and does not imply that prices fell across the board.",
+        "analysis": "The softer monthly reading offers some relief but does not erase pressure on household budgets. Rising food prices contrast with declines in housing and transport, helping explain why consumers may experience inflation differently from the national average. With the annual rate still above the tolerance band, monetary policy remains under scrutiny. One monthly reading alone does not establish that an immediate cut in the Selic benchmark rate is warranted.",
+        "counterpoint": "The headline rate slowed, but grocery bills did not get the memo: food and beverages rose 1.04%. Acknowledging the improvement does not mean claiming prices are falling across the board. The real test is purchasing power, borrowing costs and the fiscal outlook, not a convenient headline.",
+        "category": "ECONOMY"
+      },
+      "es": {
+        "title": "La inflación de Brasil se desacelera al 0,14% en octubre, pero la tasa interanual sube al 4,63%",
+        "subtitle": "El IPCA queda por debajo de las previsiones; alimentos y bebidas aumentan un 1,04% y la inflación supera el techo de la meta.",
+        "facts": "El Instituto Brasileño de Geografía y Estadística (IBGE) informó el 12 de noviembre de 2026 que el Índice Nacional de Precios al Consumidor Amplio (IPCA) subió un 0,14% en octubre, frente al 0,82% de septiembre. El dato quedó por debajo del 0,25% previsto en una encuesta de Reuters. Sin embargo, la inflación acumulada en 12 meses pasó del 4,58% al 4,63%, por encima del techo del 4,5% de la meta del Banco Central. Alimentos y bebidas aumentaron un 1,04%, mientras que vivienda cayó un 0,51% y transporte retrocedió un 0,59%, según los datos difundidos por Reuters. El índice general es un promedio y no implica que todos los precios hayan bajado.",
+        "analysis": "El menor aumento mensual supone cierto alivio, pero no elimina la presión sobre los presupuestos familiares. El encarecimiento de los alimentos contrasta con las caídas en vivienda y transporte, por lo que los hogares pueden percibir una inflación distinta del promedio. La tasa interanual continúa por encima del margen de tolerancia de la meta y mantiene la política monetaria bajo examen. Un solo dato mensual no permite anticipar un recorte inmediato de la tasa Selic.",
+        "counterpoint": "El índice general se desaceleró, pero la compra del supermercado no recibió el aviso: alimentos y bebidas subieron un 1,04%. Reconocer la mejora no significa afirmar que todos los precios están bajando. Lo importante es el poder adquisitivo, el costo del crédito y las cuentas públicas, no un titular conveniente.",
+        "category": "ECONOMÍA"
+      }
+    },
+    {
       "id": "desabamento-brooklyn-nova-york-oito-mortos-2026-11-12",
       "date": "2026-11-12",
       "category": "MUNDO",
