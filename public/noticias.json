@@ -6,6 +6,46 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "africa-do-sul-decimo-preso-recrutamento-guerra-ucrania-2026-11-12",
+      "date": "2026-11-12",
+      "category": "MUNDO",
+      "title": "África do Sul prende décimo suspeito de recrutamento para guerra na Ucrânia",
+      "subtitle": "Operação conjunta com a Interpol investiga estrangeiros que tentariam viajar para participar do conflito; polícia apura possíveis redes de aliciamento.",
+      "facts": "A polícia da África do Sul informou nesta quinta-feira, 12 de novembro de 2026, que um décimo suspeito foi preso em uma investigação sobre viagens e possível recrutamento para a guerra entre Rússia e Ucrânia. Segundo a Associated Press e o veículo sul-africano NovaNews, a detenção mais recente envolveu um estrangeiro de 38 anos interceptado quando se preparava para deixar o país. Nove outros suspeitos haviam sido detidos anteriormente nesta semana, em operações no aeroporto internacional O.R. Tambo e em um hotel de Joanesburgo. A investigação envolve a unidade policial Hawks, a Interpol e outros órgãos de segurança. Os primeiros nove investigados foram identificados pela AP como cidadãos do Zimbábue. A legislação sul-africana restringe atividades mercenárias e assistência militar estrangeira não autorizada. Os detidos são suspeitos e não foram condenados. A polícia ainda não estabeleceu publicamente a nacionalidade do décimo preso nem confirmou de forma definitiva para qual lado todos pretendiam combater.",
+      "analysis": "O caso amplia o alerta sobre redes transnacionais que usam promessas de emprego, treinamento e remuneração para atrair estrangeiros a conflitos armados. Autoridades de países africanos relataram anteriormente denúncias de cidadãos que teriam viajado à Rússia para trabalhar e acabado enviados à frente de batalha. É necessário distinguir esses relatos de acusações comprovadas contra os dez presos nesta operação. A investigação poderá esclarecer se houve aliciamento, fraude ou tentativa voluntária de participação no conflito e qual foi o papel de eventuais intermediários.",
+      "counterpoint": "Prometer emprego e entregar uma trincheira é um tipo de recrutamento que merece investigação rigorosa. Mas suspeita não é sentença: a polícia precisa demonstrar quem organizou as viagens, o que cada detido sabia e se houve engano ou coação. A guerra já produz vítimas demais para que pessoas vulneráveis sejam tratadas como mão de obra descartável.",
+      "sources": [
+        {
+          "name": "Associated Press — décima prisão em investigação sobre recrutamento (12/11/2026)",
+          "url": "https://apnews.com/article/997e065eeeff10b062500ed7db89ee0c"
+        },
+        {
+          "name": "NovaNews (África do Sul) — Hawks prendem décimo suspeito (12/11/2026)",
+          "url": "https://novanews.co.za/hawks-arrest-10th-suspect-russia-ukraine-recruitment/"
+        },
+        {
+          "name": "TimesLIVE — declaração policial sobre as nove primeiras prisões (09/11/2026)",
+          "url": "https://www.timeslive.co.za/news/south-africa/2026-11-09-nine-foreigners-nabbed-at-joburg-airport-over-alleged-russia-ukraine-war-link/"
+        }
+      ],
+      "en": {
+        "title": "South Africa arrests tenth suspect in Ukraine war recruitment probe",
+        "subtitle": "A joint operation involving Interpol is investigating foreign nationals allegedly planning to travel to take part in the war.",
+        "facts": "South African police said on Thursday, November 12, 2026, that a tenth suspect had been arrested in an investigation into travel and possible recruitment for the Russia-Ukraine war. According to the Associated Press and South African outlet NovaNews, the latest arrest involved a 38-year-old foreign national intercepted while preparing to leave the country. Nine other suspects were arrested earlier in the week at O.R. Tambo International Airport and a hotel in Johannesburg. The investigation involves the Hawks police unit, Interpol and other security agencies. The Associated Press identified the first nine suspects as Zimbabwean nationals. South African law restricts mercenary activity and unauthorized foreign military assistance. The detainees are suspects, not convicted offenders. Police have not publicly established the tenth suspect's nationality or definitively confirmed which side all the suspects intended to fight for.",
+        "analysis": "The case highlights concerns about transnational networks using job offers, training and promised pay to attract foreign nationals to armed conflicts. Authorities in African countries have previously reported allegations that people traveled to Russia for work but were then sent to the front lines. Those reports must be distinguished from proven allegations against the ten suspects in this operation. Investigators will need to determine whether recruitment, deception or voluntary participation occurred and what role intermediaries played.",
+        "counterpoint": "Promising someone a job and delivering a trench is a form of recruitment that deserves rigorous scrutiny. But suspicion is not a conviction: investigators must establish who organized the trips, what each detainee knew and whether coercion or deception occurred. The war has already claimed too many lives for vulnerable people to be treated as disposable labor.",
+        "category": "WORLD"
+      },
+      "es": {
+        "title": "Sudáfrica detiene a un décimo sospechoso en una investigación sobre reclutamiento para la guerra en Ucrania",
+        "subtitle": "Una operación conjunta con Interpol investiga a extranjeros que presuntamente planeaban viajar para participar en el conflicto.",
+        "facts": "La policía de Sudáfrica informó el jueves 12 de noviembre de 2026 de la detención de un décimo sospechoso en una investigación sobre viajes y posible reclutamiento para la guerra entre Rusia y Ucrania. Según Associated Press y el medio sudafricano NovaNews, el último detenido es un extranjero de 38 años interceptado cuando se preparaba para salir del país. Otros nueve sospechosos fueron arrestados esta semana en el aeropuerto internacional O.R. Tambo y en un hotel de Johannesburgo. La investigación involucra a la unidad policial Hawks, Interpol y otros organismos de seguridad. Associated Press identificó a los primeros nueve investigados como ciudadanos de Zimbabue. La legislación sudafricana restringe las actividades mercenarias y la asistencia militar extranjera no autorizada. Los detenidos son sospechosos, no condenados. La policía aún no ha establecido públicamente la nacionalidad del décimo arrestado ni ha confirmado de forma definitiva para qué bando pretendían combatir todos.",
+        "analysis": "El caso pone de relieve la preocupación por redes transnacionales que utilizan ofertas de empleo, formación y remuneración para atraer extranjeros a conflictos armados. Autoridades de países africanos han denunciado anteriormente casos de personas que viajaron a Rusia por trabajo y terminaron enviadas al frente. Esos relatos deben distinguirse de acusaciones probadas contra los diez sospechosos de esta operación. La investigación deberá aclarar si hubo captación, engaño o participación voluntaria y qué papel desempeñaron los intermediarios.",
+        "counterpoint": "Prometer un empleo y entregar una trinchera es una forma de reclutamiento que merece una investigación rigurosa. Pero una sospecha no equivale a una condena: la policía debe demostrar quién organizó los viajes, qué sabía cada detenido y si hubo engaño o coacción. La guerra ya ha causado demasiadas víctimas como para tratar a personas vulnerables como mano de obra desechable.",
+        "category": "MUNDO"
+      }
+    },
+    {
       "id": "jensen-huang-deixa-nvidia-colette-kress-ceo-interina-2026-11-12",
       "date": "2026-11-12",
       "category": "TECNOLOGIA",
