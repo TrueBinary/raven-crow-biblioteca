@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "id": "pgr-gonet-defende-manter-vorcaro-preso-caso-master-2026-11-12",
+      "date": "2026-11-12",
+      "category": "JUSTIÇA",
+      "title": "PGR pede ao STF que mantenha Vorcaro preso e aponta risco às investigações do Banco Master",
+      "subtitle": "Paulo Gonet enviou parecer na quarta-feira (11) contra a soltura do ex-controlador do Master; Supremo ainda decidirá.",
+      "facts": "O procurador-geral da República, Paulo Gonet, apresentou ao Supremo Tribunal Federal (STF), em 11 de novembro de 2026, parecer favorável à manutenção da prisão preventiva de Daniel Vorcaro, ex-controlador do Banco Master. O documento responde a pedido de soltura da defesa e a solicitação do ministro Edson Fachin. Vorcaro está preso desde março de 2026 e custodiado na Papudinha, no Distrito Federal. A Procuradoria-Geral da República (PGR) sustenta que persistem riscos à ordem pública, à instrução criminal e à aplicação da lei penal. A investigação envolve suspeitas de fraudes em carteiras de crédito negociadas entre Banco Master e Banco de Brasília (BRB). A Polícia Federal indiciou Vorcaro e outros investigados no início de novembro, mas indiciamento não equivale a condenação. A PGR também se manifestou sobre pedidos de outros investigados. O parecer não é decisão judicial e o STF ainda não decidiu sobre a soltura.",
+      "analysis": "A PGR cita a gravidade dos fatos sob apuração, a suposta influência do ex-banqueiro, valores ainda não recuperados e suspeitas de interferência nas investigações. Relatos sobre intimidações, acesso a dados sigilosos e cooptação de agentes públicos integram as alegações investigadas e não devem ser tratados como condenações definitivas. A defesa contesta a prisão, alega excesso de prazo e afirma que não houve perícia oficial comprovando prejuízo ao BRB no negócio de carteiras de crédito. O Supremo deverá avaliar os fundamentos atuais da prisão preventiva, a complexidade do inquérito e a presunção de inocência. O caso levanta questões sobre fiscalização bancária e a integridade de instituições públicas.",
+      "counterpoint": "O caso Master não pode virar um campeonato de narrativas: suspeita grave não é sentença, mas também não pode ser varrida para debaixo do tapete. Se há risco concreto de interferência nas provas, a PGR precisa demonstrá-lo ao STF; se a defesa questiona a prisão, a resposta deve ser jurídica, não política. Transparência para investigar possíveis fraudes e respeito à presunção de inocência são exigências simultâneas.",
+      "sources": [
+        {
+          "name": "Agência Brasil (11/11/2026)",
+          "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pgr-envia-ao-supremo-parecer-favoravel-manter-prisao-de-vorcaro"
+        },
+        {
+          "name": "Congresso em Foco (12/11/2026)",
+          "url": "https://www.congressoemfoco.com.br/noticia/131533/pgr-defende-manter-vorcaro-preso-e-aponta-risco-a-investigacao"
+        },
+        {
+          "name": "Revista Oeste (12/11/2026)",
+          "url": "https://revistaoeste.com/politica/gonet-defende-manutencao-da-prisao-de-vorcaro/"
+        },
+        {
+          "name": "VEJA (11/11/2026)",
+          "url": "https://veja.abril.com.br/brasil/pgr-cita-influencia-de-vorcaro-e-defende-manutencao-da-prisao/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Paulo_Gonet_%283x4%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/",
+          "credit": "Jefferson Rudy/Agência Senado",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Paulo_Gonet_(3x4).jpg",
+          "caption": "FOTO DE ARQUIVO (03/02/2025): Paulo Gonet em sessão solene do Congresso Nacional. Jefferson Rudy/Agência Senado, CC BY 2.0. Não retrata o parecer de novembro de 2026."
+        }
+      ],
+      "en": {
+        "title": "Brazil's prosecutor general urges Supreme Court to keep Banco Master ex-owner detained",
+        "subtitle": "Paulo Gonet filed an opinion on November 11 opposing Daniel Vorcaro's release; the court has not yet ruled.",
+        "facts": "Brazil's prosecutor general, Paulo Gonet, submitted an opinion to the Supreme Federal Court (STF, Brazil's Supreme Court) on November 11, 2026, supporting continued pretrial detention of Daniel Vorcaro, Banco Master's former controlling shareholder. The filing responds to a defense request for release and to a request from Justice Edson Fachin. Vorcaro has been detained since March 2026 and is held at the Papudinha facility in the Federal District. The Prosecutor General's Office (PGR) argues that risks to public order, evidence gathering and enforcement of criminal law remain. The investigation concerns alleged irregularities in loan portfolios traded between Banco Master and Banco de Brasília (BRB). Federal Police indicted Vorcaro and other suspects in early November, but an indictment is not a conviction. The PGR also addressed requests by other suspects. The opinion is not a judicial ruling and the Supreme Court has not decided whether to release him.",
+        "analysis": "Prosecutors cite the seriousness of the alleged wrongdoing, Vorcaro's purported influence, unrecovered assets and suspicions of interference with investigators. Allegations of intimidation, access to confidential information and influence over officials remain under investigation and must not be presented as established criminal guilt. The defense disputes detention, alleges excessive delay and says no official expert report has established losses to BRB in the loan-portfolio transaction. The Supreme Court must assess the current grounds for pretrial detention, the investigation's complexity and the presumption of innocence. The case raises broader concerns about banking supervision and institutional integrity.",
+        "counterpoint": "The Banco Master case cannot become a contest of narratives: serious allegations are not a verdict, but they cannot be swept aside either. Prosecutors must demonstrate any concrete risk to evidence before the Supreme Court, and the defense's objections deserve legal rather than political answers. Investigating possible fraud transparently and respecting the presumption of innocence are equally essential.",
+        "category": "JUSTICE",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (February 3, 2025): Paulo Gonet at a congressional ceremony. Jefferson Rudy/Agência Senado, CC BY 2.0. Not the November 2026 filing."
+        },
+        "slug": "brazil-s-prosecutor-general-urges-supreme-court-to-keep-banco-master-ex-owner-2026-11-12"
+      },
+      "es": {
+        "title": "Fiscal general de Brasil pide al Supremo mantener preso al exdueño del Banco Master",
+        "subtitle": "Paulo Gonet presentó el 11 de noviembre un dictamen contra la liberación de Daniel Vorcaro; el tribunal aún debe decidir.",
+        "facts": "El procurador general de Brasil, Paulo Gonet, presentó ante el Supremo Tribunal Federal (STF, máxima corte de Brasil) el 11 de noviembre de 2026 un dictamen favorable a mantener la prisión preventiva de Daniel Vorcaro, excontrolador del Banco Master. El documento responde a una solicitud de libertad de la defensa y a una petición del magistrado Edson Fachin. Vorcaro está detenido desde marzo de 2026 en el centro conocido como Papudinha, en el Distrito Federal. La Procuraduría General de la República (PGR) sostiene que persisten riesgos para el orden público, la obtención de pruebas y la aplicación de la ley penal. La investigación aborda presuntas irregularidades en carteras de crédito negociadas entre Banco Master y Banco de Brasília (BRB). La Policía Federal imputó formalmente a Vorcaro y otros investigados a comienzos de noviembre, pero ello no equivale a una condena. La PGR también se pronunció sobre solicitudes de otros investigados. El dictamen no es una decisión judicial y el STF todavía no ha resuelto la solicitud de libertad.",
+        "analysis": "La fiscalía menciona la gravedad de los hechos investigados, la presunta influencia del exbanquero, activos aún no recuperados y sospechas de interferencia en las investigaciones. Las denuncias de intimidación, acceso a información reservada e influencia sobre funcionarios siguen bajo investigación y no constituyen una condena. La defensa cuestiona la detención, alega exceso de plazo y afirma que ninguna pericia oficial ha demostrado pérdidas para el BRB en la operación de carteras de crédito. El Supremo deberá evaluar los fundamentos actuales de la prisión preventiva, la complejidad del caso y la presunción de inocencia. El asunto plantea preguntas sobre supervisión bancaria e integridad institucional.",
+        "counterpoint": "El caso Banco Master no puede convertirse en una competencia de relatos: una sospecha grave no es una sentencia, pero tampoco debe ocultarse. La fiscalía debe demostrar cualquier riesgo concreto para las pruebas ante el Supremo, y las objeciones de la defensa merecen respuestas jurídicas, no políticas. La transparencia al investigar posibles fraudes y el respeto a la presunción de inocencia son exigencias simultáneas.",
+        "category": "JUSTICIA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (3 de febrero de 2025): Paulo Gonet en una ceremonia del Congreso. Jefferson Rudy/Agência Senado, CC BY 2.0. No muestra el dictamen de noviembre de 2026."
+        },
+        "slug": "fiscal-general-de-brasil-pide-al-supremo-mantener-preso-al-exdueno-del-banco-2026-11-12"
+      },
+      "firstSeen": "2026-11-12T08:00:00-03:00"
+    },
+    {
       "id": "governo-holandes-risco-queda-acordo-impostos-2026-11-12",
       "date": "2026-11-12",
       "category": "MUNDO",
