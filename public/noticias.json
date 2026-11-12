@@ -2,9 +2,62 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-12T02:13:11-03:00",
+  "updatedAt": "2026-11-12T06:02:25-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "santander-eleva-oferta-acoes-brasil-5-por-cento-2026-11-12",
+      "date": "2026-11-12",
+      "category": "ECONOMIA",
+      "title": "Santander eleva em 5% oferta para comprar fatia restante do banco no Brasil, avaliada em € 1,9 bilhão",
+      "subtitle": "Matriz espanhola melhora relação de troca de ações para adquirir cerca de 10% do Santander Brasil ainda nas mãos de investidores; operação não está concluída.",
+      "facts": "O Banco Santander anunciou nesta quinta-feira, 12 de novembro de 2026, que aumentou em 5% a relação de troca proposta aos acionistas minoritários do Santander Brasil, em comparação com a oferta inicialmente anunciada em 30 de julho. A matriz espanhola pretende adquirir as ações, units e recibos de ações que ainda não detém, correspondentes a aproximadamente 10% do capital da subsidiária brasileira. Pela nova proposta, cada unit ou ADS do Santander Brasil dá direito a 0,4260 ação de emissão do Banco Santander, antes dos ajustes por dividendos; para cada ação ordinária ou preferencial, a relação passa a 0,2130. Se houver adesão integral, a matriz emitirá cerca de 166 milhões de ações, equivalentes a aproximadamente 1,1% do seu capital, com contrapartida máxima estimada em € 1,9 bilhão, com base no fechamento de mercado anterior. O Santander prevê submeter os aumentos de capital a uma assembleia extraordinária esperada para 15 de dezembro de 2026. A oferta ainda depende de condições e aprovações regulatórias. Não é uma aquisição já concluída nem uma compra integral do banco brasileiro, cuja maioria já pertence ao grupo.",
+      "analysis": "A revisão tenta tornar a operação mais atraente aos acionistas minoritários e simplificar a estrutura acionária do grupo. A contrapartida será feita com ações novas da matriz, por meio de BDRs ou ADSs, e não por um pagamento integral em dinheiro. Segundo o Santander, a transação poderá aumentar o lucro por ação em aproximadamente 0,3% a partir de 2029, projeção sujeita a riscos e condições de mercado. A Reuters contextualiza a iniciativa em meio à pressão sobre resultados da operação brasileira: o lucro líquido no país recuou 15% na comparação anual no terceiro trimestre e as provisões aumentaram 23%. A oferta é voluntária e não significa, por si só, que o Santander Brasil sairá da B3.",
+      "counterpoint": "Para os minoritários, a pergunta central é se a nova relação de troca remunera adequadamente a participação que possuem, considerando riscos cambiais, liquidez e perspectivas de cada banco. A matriz sustenta que a proposta amplia o acesso dos investidores a um grupo global mais diversificado. Já o investidor deve observar que receber ações da controladora não equivale a receber € 1,9 bilhão em dinheiro: esse é o valor máximo estimado da transação, e o resultado depende da adesão e das aprovações. A melhora de 5% na relação de troca também não garante valorização futura dos papéis.",
+      "sources": [
+        {
+          "name": "Banco Santander — comunicado oficial de 12/11/2026",
+          "url": "https://www.santander.com/en/press-room/press-releases/2026/11/santander-announces-a-5-increase-in-the-exchange-ratio-for-its-intended-exchange-offer-for-the-outstanding-shares-of-santander-brasil"
+        },
+        {
+          "name": "Reuters — Santander raises offer for Brazilian unit, 12/11/2026",
+          "url": "https://www.reuters.com/business/finance/santander-announces-5-rise-offer-buy-remaining-10-brazilian-unit-2026-11-12/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Ag%C3%AAncia_do_Banco_Santander_001.JPG",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 3.0 Brazil (CC BY-SA 3.0 BR)",
+          "credit": "Paulo RS Menezes / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Ag%C3%AAncia_do_Banco_Santander_001.JPG",
+          "caption": "FOTO DE ARQUIVO (24/11/2013): agência do Santander no bairro Partenon, Porto Alegre (RS). Paulo RS Menezes / Wikimedia Commons, CC BY-SA 3.0 BR. Não retrata o anúncio da oferta."
+        }
+      ],
+      "en": {
+        "title": "Santander raises offer for remaining Brazilian stake by 5%, valuing deal at €1.9 billion",
+        "subtitle": "The Spanish parent improves its share-exchange terms for roughly 10% of Santander Brasil still held by outside investors; the transaction has not closed.",
+        "facts": "Banco Santander announced on November 12, 2026 that it had increased by 5% the share-exchange ratio offered to Santander Brasil minority investors compared with the terms announced on July 30. The Spanish parent aims to acquire the common shares, preferred shares, units and American Depositary Shares (ADSs) it does not already own, representing roughly 10% of the Brazilian subsidiary's capital. Under the revised terms, each Santander Brasil unit or ADS would receive 0.4260 newly issued Banco Santander shares before dividend adjustments, while each common or preferred share would receive 0.2130. Full acceptance would involve issuing around 166 million new shares, or approximately 1.1% of the parent's existing share capital, with maximum consideration estimated at €1.9 billion based on the previous day's closing price. Santander expects to seek approval for the capital increases at an extraordinary shareholders' meeting scheduled for December 15, 2026. The offer remains subject to regulatory and other customary conditions. It is not a completed takeover, nor an acquisition of the entire Brazilian bank, most of which is already controlled by the group.",
+        "analysis": "The revised proposal aims to make the deal more attractive to minority shareholders and simplify the group's ownership structure. Consideration consists of newly issued parent-company shares delivered through Brazilian Depositary Receipts (BDRs) or ADSs, rather than an all-cash payment. Santander projects that the transaction could lift earnings per share by approximately 0.3% from 2029, an estimate subject to market risks. Reuters reports that third-quarter net profit in Brazil fell 15% year on year and provisions rose 23%, highlighting pressure on the subsidiary's performance. The offer is voluntary and does not in itself imply delisting from Brazil's B3 exchange.",
+        "counterpoint": "For minority shareholders, the key question is whether the new exchange ratio fairly compensates them, taking account of currency risk, liquidity and the prospects of both banks. The parent argues that investors would gain exposure to a more diversified global group. But receiving parent-company shares is not the same as receiving €1.9 billion in cash: that is the estimated maximum value of the deal, and the outcome depends on participation and approvals. A 5% improvement in exchange terms does not guarantee future share-price gains.",
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (November 24, 2013): Santander branch in the Partenon neighborhood of Porto Alegre, Brazil. Paulo RS Menezes / Wikimedia Commons, CC BY-SA 3.0 BR. Not a photograph of the offer announcement."
+        }
+      },
+      "es": {
+        "title": "Santander mejora un 5% su oferta por la participación restante en Brasil, valorada en €1.900 millones",
+        "subtitle": "La matriz española mejora el canje de acciones para adquirir cerca del 10% de Santander Brasil que aún poseen inversores externos; la operación no ha concluido.",
+        "facts": "Banco Santander anunció el 12 de noviembre de 2026 un aumento del 5% en la relación de canje ofrecida a los accionistas minoritarios de Santander Brasil frente a los términos divulgados el 30 de julio. La matriz española pretende adquirir las acciones ordinarias, preferentes, units y certificados de depósito estadounidenses (ADS) que todavía no posee, equivalentes a aproximadamente el 10% del capital de su filial brasileña. Según la nueva propuesta, cada unit o ADS de Santander Brasil se canjearía por 0,4260 acciones nuevas de Banco Santander, antes de ajustes por dividendos; cada acción ordinaria o preferente se canjearía por 0,2130. Si todos aceptaran, la matriz emitiría unos 166 millones de acciones nuevas, alrededor del 1,1% de su capital actual, por una contraprestación máxima estimada en €1.900 millones según el cierre bursátil anterior. Santander prevé solicitar la aprobación de las ampliaciones de capital en una junta extraordinaria prevista para el 15 de diciembre de 2026. La oferta sigue sujeta a autorizaciones regulatorias y otras condiciones habituales. No es una compra ya concluida ni la adquisición de la totalidad del banco brasileño, cuya mayor parte ya pertenece al grupo.",
+        "analysis": "La revisión busca atraer a los accionistas minoritarios y simplificar la estructura accionarial del grupo. La contraprestación se realizará con acciones nuevas de la matriz, mediante certificados de depósito brasileños (BDR) o ADS, y no íntegramente en efectivo. Santander calcula que la operación podría elevar el beneficio por acción alrededor de un 0,3% desde 2029, una proyección sujeta a riesgos de mercado. Reuters señala que el beneficio neto en Brasil cayó un 15% interanual en el tercer trimestre y las provisiones aumentaron un 23%, reflejo de las presiones sobre la filial. La oferta es voluntaria y no implica por sí sola la exclusión de Santander Brasil de la bolsa B3.",
+        "counterpoint": "Para los minoritarios, lo esencial es evaluar si el nuevo canje compensa adecuadamente su participación, teniendo en cuenta el riesgo cambiario, la liquidez y las perspectivas de ambos bancos. La matriz sostiene que ofrece exposición a un grupo internacional más diversificado. Pero recibir acciones de la controladora no equivale a cobrar €1.900 millones en efectivo: esa cifra representa el valor máximo estimado de la transacción, sujeto a aceptación y autorizaciones. Una mejora del 5% en el canje tampoco garantiza futuras subidas de las acciones.",
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (24 de noviembre de 2013): sucursal del Santander en el barrio Partenon de Porto Alegre, Brasil. Paulo RS Menezes / Wikimedia Commons, CC BY-SA 3.0 BR. No muestra el anuncio de la oferta."
+        }
+      }
+    },
     {
       "id": "ataque-israelense-hospital-nasser-gaza-seis-mortos-2026-11-12",
       "date": "2026-11-12",
