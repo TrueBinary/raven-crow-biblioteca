@@ -30,6 +30,9 @@
         "analysis": "The violence struck a busy residential and commercial area near the US capital's political center, disrupting ordinary activities. Police sealed off surrounding blocks, deployed specialized teams and attempted to negotiate with the suspect. Investigators will need to establish the precise sequence of events, any connection between the gunman and the victims, the weapon's origin and whether previous disputes played a role. The reported death toll distinguishes the person killed in the attack from the suspect, who also died.",
         "counterpoint": "A trip to the gym should end with a workout, not an emergency operation. Investigators must establish what happened, who was targeted and whether warning signs were missed. Treating an unproven theory about motive as a verdict would only undermine that work.",
         "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (May 20, 2009): Logan Circle Park in Washington, D.C. Kas Hayes / Wikimedia Commons (CC BY-SA 4.0). Not the gym or the November 12, 2026 shooting."
+        },
         "slug": "breaking-washington-gym-shooting-leaves-one-dead-and-four-wounded-suspect-also-2026-11-12"
       },
       "es": {
@@ -39,8 +42,22 @@
         "analysis": "El episodio ocurrió en una zona residencial y comercial concurrida, próxima al centro político de la capital estadounidense, e interrumpió actividades cotidianas. La policía acordonó varias calles, movilizó unidades especializadas e intentó negociar con el sospechoso. La investigación deberá aclarar la secuencia exacta de los disparos, la relación entre el atacante y las víctimas, el origen del arma y cualquier posible vínculo con conflictos anteriores. El balance distingue a la persona fallecida durante el ataque del sospechoso, que también murió.",
         "counterpoint": "Ir al gimnasio debería terminar con ejercicio, no con un operativo de emergencia. Es necesario esclarecer lo ocurrido, identificar a las víctimas y determinar si hubo señales de alerta previas. Convertir una hipótesis sobre el motivo en una sentencia anticipada solo perjudica la investigación.",
         "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (20/05/2009): parque Logan Circle, en Washington, D.C. Kas Hayes / Wikimedia Commons (CC BY-SA 4.0). No muestra el gimnasio ni el ataque del 12/11/2026."
+        },
         "slug": "urgente-un-tiroteo-en-un-gimnasio-de-washington-deja-un-muerto-y-cuatro-heridos-2026-11-12"
       },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logan_Circle_Park%2C_Washington_DC.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0",
+          "credit": "Kas Hayes / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Logan_Circle_Park,_Washington_DC.jpg",
+          "caption": "FOTO DE ARQUIVO (20/05/2009): parque Logan Circle, em Washington, D.C. Kas Hayes / Wikimedia Commons (CC BY-SA 4.0). Não mostra a academia nem o ataque de 12/11/2026."
+        }
+      ],
       "firstSeen": "2026-11-12T10:05:00-03:00"
     },
     {
@@ -73,6 +90,9 @@
         "analysis": "The talks show the gap between reopening dialogue and reaching a workable settlement. Russia continues to demand territory and rejects European troops as a security guarantee, while Ukraine opposes surrendering land it still controls. European participation remains disputed: Witkoff's remarks are not a formally confirmed commitment from Moscow. Without agreement on borders and security, further meetings may sustain diplomacy without delivering immediate peace.",
         "counterpoint": "Threatening to attack foreign forces while discussing peace is an unusual form of diplomacy: the negotiating table comes with an artillery warning. Still, testing verifiable proposals is better than selling empty optimism. Any settlement must address Ukrainians' security and cannot mistake military occupation for consent.",
         "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (May 31, 2024): Vladimir Putin at an official meeting in Russia. Russian Presidential Press Service / Kremlin.ru (CC BY 4.0). Not the November 12, 2026 remarks."
+        },
         "slug": "putin-threatens-foreign-troops-in-ukraine-during-new-us-led-peace-talks-2026-11-12"
       },
       "es": {
@@ -82,8 +102,22 @@
         "analysis": "La ronda diplomática muestra la distancia entre reabrir el diálogo y alcanzar un acuerdo viable. Rusia mantiene sus exigencias territoriales y rechaza tropas europeas como garantía de seguridad, mientras Ucrania se opone a entregar las zonas que aún controla. La participación europea sigue en disputa: las declaraciones de Witkoff no constituyen un compromiso formal confirmado por Moscú. Sin consenso sobre fronteras y seguridad, nuevas reuniones podrían mantener el diálogo sin producir una paz inmediata.",
         "counterpoint": "Amenazar con atacar fuerzas extranjeras mientras se negocia la paz es una diplomacia peculiar: la mesa de diálogo viene acompañada de una advertencia de artillería. Aun así, es preferible examinar propuestas verificables antes que vender optimismo vacío. Un acuerdo debe proteger la seguridad de los ucranianos y no confundir ocupación militar con consentimiento.",
         "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (31/05/2024): Vladimir Putin en una reunión oficial en Rusia. Prensa de la Presidencia de Rusia / Kremlin.ru (CC BY 4.0). No muestra sus declaraciones del 12/11/2026."
+        },
         "slug": "putin-amenaza-a-tropas-extranjeras-en-ucrania-durante-nuevas-negociaciones-con-2026-11-12"
       },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Vladimir_Putin_%282024-05-31%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 4.0",
+          "credit": "Serviço de Imprensa da Presidência da Rússia / Kremlin.ru / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_(2024-05-31).jpg",
+          "caption": "FOTO DE ARQUIVO (31/05/2024): Vladimir Putin em reunião oficial na Rússia. Imprensa da Presidência da Rússia / Kremlin.ru (CC BY 4.0). Não retrata o pronunciamento de 12/11/2026."
+        }
+      ],
       "firstSeen": "2026-11-12T10:05:00-03:00"
     },
     {
@@ -116,6 +150,9 @@
         "analysis": "Security in and around the Strait of Hormuz remains vital to international energy supplies. Attacks on merchant vessels raise insurance costs, threaten delivery schedules and put multinational crews at risk. This case also demonstrates why confirmed maritime alerts and government statements must be distinguished from claims made by parties to the conflict. The crew's safe evacuation does not remove the potential environmental and economic consequences of a tanker fire.",
         "counterpoint": "Commercial shipping should not become target practice for geopolitical confrontation. All 22 crew members escaped safely this time, but how many more incidents will it take before civilian navigation stops being treated as military leverage? Accountability requires identifying the attacker, not choosing a convenient culprit.",
         "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (July 30, 2022): SKS Darent oil tanker at Kwinana, Australia. Calistemon / Wikimedia Commons (CC BY-SA 4.0). This is not MT Dominica Prosperity, hit on November 11, 2026."
+        },
         "slug": "oil-tanker-struck-by-projectile-off-uae-coast-22-crew-members-evacuated-2026-11-12"
       },
       "es": {
@@ -125,8 +162,22 @@
         "analysis": "La seguridad del estrecho de Ormuz sigue siendo esencial para el suministro energético mundial. Los ataques contra buques mercantes encarecen los seguros, pueden retrasar las entregas y ponen en peligro a tripulaciones de distintas nacionalidades. Este caso también muestra por qué deben distinguirse las alertas marítimas y declaraciones oficiales verificadas de las afirmaciones de las partes enfrentadas. La evacuación segura no elimina los posibles daños ambientales y económicos de un incendio a bordo.",
         "counterpoint": "Un barco comercial no debería convertirse en blanco de tiro de las disputas geopolíticas. Esta vez los 22 tripulantes salieron con vida; ¿cuántos incidentes más harán falta para que la navegación civil deje de utilizarse como herramienta de presión militar? Exigir responsabilidades significa identificar al autor, no elegir un culpable por conveniencia.",
         "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (30/07/2022): petrolero SKS Darent en Kwinana, Australia. Calistemon / Wikimedia Commons (CC BY-SA 4.0). No es el MT Dominica Prosperity, alcanzado el 11/11/2026."
+        },
         "slug": "un-petrolero-recibe-el-impacto-de-un-proyectil-cerca-de-emiratos-arabes-evacuan-2026-11-12"
       },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Crude_Oil_Tanker_SKS_Darent_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_July_2022_02.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0",
+          "credit": "Calistemon / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Crude_Oil_Tanker_SKS_Darent_at_BP_Oil_Refinery_Jetty,_Kwinana,_July_2022_02.jpg",
+          "caption": "FOTO DE ARQUIVO (30/07/2022): petroleiro SKS Darent em Kwinana, Austrália. Calistemon / Wikimedia Commons (CC BY-SA 4.0). Não é o MT Dominica Prosperity atingido em 11/11/2026."
+        }
+      ],
       "firstSeen": "2026-11-12T10:05:00-03:00"
     },
     {
@@ -159,6 +210,9 @@
         "analysis": "The joint position increases diplomatic pressure on Beijing in a strategically important area for Asian trade and supply chains. Taiwan considers its eastern waters vital to possible resupply routes in a crisis. The G7 warning highlights the risk of coercion and miscalculation, but is neither a declaration of war nor evidence of an active blockade. The challenge is to keep shipping safe, prevent incidents between vessels and preserve communication channels.",
         "counterpoint": "A stretch of sea does not become one government's exclusive property just because it draws a line on a map. The G7 is right to demand safe navigation, but statements matter only when backed by sustained diplomacy. Taiwan should not be treated as a disposable piece in a contest between powers; nor should anyone announce a war that has not begun.",
         "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (March 27, 2026): foreign ministers at an earlier G7 meeting on Ukraine in Cernay-la-Ville, France. Freddie Everett / US Department of State (public domain). Not the meeting behind the Taiwan statement."
+        },
         "slug": "g7-warns-china-s-activities-east-of-taiwan-threaten-shipping-and-regional-2026-11-12"
       },
       "es": {
@@ -168,8 +222,22 @@
         "analysis": "La postura conjunta aumenta la presión diplomática sobre Pekín en una zona crucial para el comercio y las cadenas de suministro de Asia. Taiwán considera importantes sus aguas orientales para eventuales rutas de abastecimiento durante una crisis. La advertencia del G7 refleja preocupación por la coerción y los errores de cálculo, pero no constituye una declaración de guerra ni confirma un bloqueo en marcha. El desafío consiste en proteger la navegación, evitar incidentes y mantener abiertas las comunicaciones.",
         "counterpoint": "El mar no se convierte en propiedad exclusiva de un gobierno porque este dibuje una línea en el mapa. El G7 tiene razón al exigir navegación segura, pero las declaraciones solo sirven si van acompañadas de diplomacia constante. Taiwán no debe ser una pieza desechable en una disputa entre potencias; tampoco corresponde anunciar una guerra que no ha comenzado.",
         "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (27/03/2026): cancilleres durante una reunión anterior del G7 sobre Ucrania, en Cernay-la-Ville, Francia. Freddie Everett / Departamento de Estado de EE. UU. (dominio público). No es la reunión del comunicado sobre Taiwán."
+        },
         "slug": "el-g7-advierte-que-las-actividades-de-china-al-este-de-taiwan-amenazan-la-2026-11-12"
       },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Secretary_Rubio_Attends_G7_Meeting_on_Support_for_Ukraine_%2855171686265%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público — obra do governo federal dos Estados Unidos (PD-USGov)",
+          "credit": "Freddie Everett / Departamento de Estado dos EUA / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Secretary_Rubio_Attends_G7_Meeting_on_Support_for_Ukraine_(55171686265).jpg",
+          "caption": "FOTO DE ARQUIVO (27/03/2026): chanceleres em reunião anterior do G7 sobre a Ucrânia, em Cernay-la-Ville, França. Freddie Everett / Departamento de Estado dos EUA (domínio público). Não é a reunião que motivou o comunicado sobre Taiwan."
+        }
+      ],
       "firstSeen": "2026-11-12T10:05:00-03:00"
     },
     {
@@ -202,6 +270,9 @@
         "analysis": "The case highlights concerns about transnational networks using job offers, training and promised pay to attract foreign nationals to armed conflicts. Authorities in African countries have previously reported allegations that people traveled to Russia for work but were then sent to the front lines. Those reports must be distinguished from proven allegations against the ten suspects in this operation. Investigators will need to determine whether recruitment, deception or voluntary participation occurred and what role intermediaries played.",
         "counterpoint": "Promising someone a job and delivering a trench is a form of recruitment that deserves rigorous scrutiny. But suspicion is not a conviction: investigators must establish who organized the trips, what each detainee knew and whether coercion or deception occurred. The war has already claimed too many lives for vulnerable people to be treated as disposable labor.",
         "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (October 6, 2024): O.R. Tambo Airport terminal in Johannesburg, South Africa. Alfrednadjere / Wikimedia Commons (CC BY-SA 4.0). Does not show the November 2026 arrests."
+        },
         "slug": "south-africa-arrests-tenth-suspect-in-ukraine-war-recruitment-probe-2026-11-12"
       },
       "es": {
@@ -211,8 +282,22 @@
         "analysis": "El caso pone de relieve la preocupación por redes transnacionales que utilizan ofertas de empleo, formación y remuneración para atraer extranjeros a conflictos armados. Autoridades de países africanos han denunciado anteriormente casos de personas que viajaron a Rusia por trabajo y terminaron enviadas al frente. Esos relatos deben distinguirse de acusaciones probadas contra los diez sospechosos de esta operación. La investigación deberá aclarar si hubo captación, engaño o participación voluntaria y qué papel desempeñaron los intermediarios.",
         "counterpoint": "Prometer un empleo y entregar una trinchera es una forma de reclutamiento que merece una investigación rigurosa. Pero una sospecha no equivale a una condena: la policía debe demostrar quién organizó los viajes, qué sabía cada detenido y si hubo engaño o coacción. La guerra ya ha causado demasiadas víctimas como para tratar a personas vulnerables como mano de obra desechable.",
         "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (06/10/2024): terminal del aeropuerto O.R. Tambo de Johannesburgo, Sudáfrica. Alfrednadjere / Wikimedia Commons (CC BY-SA 4.0). No muestra las detenciones de noviembre de 2026."
+        },
         "slug": "sudafrica-detiene-a-un-decimo-sospechoso-en-una-investigacion-sobre-2026-11-12"
       },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/L%27a%C3%A9roport_OR_TAMBO_de_Johanesbourg_19.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0",
+          "credit": "Alfrednadjere / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:L%27a%C3%A9roport_OR_TAMBO_de_Johanesbourg_19.jpg",
+          "caption": "FOTO DE ARQUIVO (06/10/2024): terminal do aeroporto O.R. Tambo, em Joanesburgo, África do Sul. Alfrednadjere / Wikimedia Commons (CC BY-SA 4.0). Não registra as prisões de novembro de 2026."
+        }
+      ],
       "firstSeen": "2026-11-12T10:05:00-03:00"
     },
     {
@@ -309,6 +394,9 @@
         "analysis": "The softer monthly reading offers some relief but does not erase pressure on household budgets. Rising food prices contrast with declines in housing and transport, helping explain why consumers may experience inflation differently from the national average. With the annual rate still above the tolerance band, monetary policy remains under scrutiny. One monthly reading alone does not establish that an immediate cut in the Selic benchmark rate is warranted.",
         "counterpoint": "The headline rate slowed, but grocery bills did not get the memo: food and beverages rose 1.04%. Acknowledging the improvement does not mean claiming prices are falling across the board. The real test is purchasing power, borrowing costs and the fiscal outlook, not a convenient headline.",
         "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (November 28, 2014): shopper at São Luiz supermarket in Planaltina, Federal District. Edilson Rodrigues / Agência Senado (CC BY 2.0). Not the October 2026 inflation survey."
+        },
         "slug": "brazil-s-inflation-slows-to-0-14-in-october-but-12-month-rate-rises-to-4-63-2026-11-12"
       },
       "es": {
@@ -318,8 +406,22 @@
         "analysis": "El menor aumento mensual supone cierto alivio, pero no elimina la presión sobre los presupuestos familiares. El encarecimiento de los alimentos contrasta con las caídas en vivienda y transporte, por lo que los hogares pueden percibir una inflación distinta del promedio. La tasa interanual continúa por encima del margen de tolerancia de la meta y mantiene la política monetaria bajo examen. Un solo dato mensual no permite anticipar un recorte inmediato de la tasa Selic.",
         "counterpoint": "El índice general se desaceleró, pero la compra del supermercado no recibió el aviso: alimentos y bebidas subieron un 1,04%. Reconocer la mejora no significa afirmar que todos los precios están bajando. Lo importante es el poder adquisitivo, el costo del crédito y las cuentas públicas, no un titular conveniente.",
         "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (28/11/2014): consumidor en el supermercado São Luiz de Planaltina, Distrito Federal. Edilson Rodrigues / Agência Senado (CC BY 2.0). No corresponde a la medición de inflación de octubre de 2026."
+        },
         "slug": "la-inflacion-de-brasil-se-desacelera-al-0-14-en-octubre-pero-la-tasa-interanual-2026-11-12"
       },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Senado_Federal_do_Brasil_Fotos_produzidas_pelo_Senado_%2815714451759%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 2.0",
+          "credit": "Edilson Rodrigues / Agência Senado / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Senado_Federal_do_Brasil_Fotos_produzidas_pelo_Senado_(15714451759).jpg",
+          "caption": "FOTO DE ARQUIVO (28/11/2014): consumidor em supermercado São Luiz, Planaltina, Distrito Federal. Edilson Rodrigues / Agência Senado (CC BY 2.0). Não registra os dados de inflação de outubro de 2026."
+        }
+      ],
       "firstSeen": "2026-11-12T10:05:00-03:00"
     },
     {

@@ -247,7 +247,9 @@
     "pgr-gonet-defende-manter-vorcaro-preso-caso-master-2026-11-12": "editorial/photos/pgr-gonet-defende-manter-vorcaro-preso-caso-master-2026-11-12.jpg",
     "falha-linha-8-diamante-passageiros-caminham-trilhos-carapicuiba-2026-11-12": "editorial/photos/falha-linha-8-diamante-passageiros-caminham-trilhos-carapicuiba-2026-11-12.jpg",
     "a-geladeira-virou-refem-da-peca-2026-11-12": "editorial/photos/a-geladeira-virou-refem-da-peca-2026-11-12.jpg",
-    "jensen-huang-deixa-nvidia-colette-kress-ceo-interina-2026-11-12": "editorial/photos/jensen-huang-deixa-nvidia-colette-kress-ceo-interina-2026-11-12.jpg"
+    "jensen-huang-deixa-nvidia-colette-kress-ceo-interina-2026-11-12": "editorial/photos/jensen-huang-deixa-nvidia-colette-kress-ceo-interina-2026-11-12.jpg",
+    "ataque-tiros-academia-washington-logan-circle-2026-11-12": "editorial/photos/ataque-tiros-academia-washington-logan-circle-2026-11-12.jpg",
+    "putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12": "editorial/photos/putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -909,6 +911,18 @@
       "srcset": "editorial/photos/jensen-huang-deixa-nvidia-colette-kress-ceo-interina-2026-11-12-320.webp 320w, editorial/photos/jensen-huang-deixa-nvidia-colette-kress-ceo-interina-2026-11-12-640.webp 640w, editorial/photos/jensen-huang-deixa-nvidia-colette-kress-ceo-interina-2026-11-12-960.webp 960w, editorial/photos/jensen-huang-deixa-nvidia-colette-kress-ceo-interina-2026-11-12-1129.webp 1129w",
       "width": 1129,
       "height": 1678
+    },
+    "ataque-tiros-academia-washington-logan-circle-2026-11-12": {
+      "src": "editorial/photos/ataque-tiros-academia-washington-logan-circle-2026-11-12-1280.webp",
+      "srcset": "editorial/photos/ataque-tiros-academia-washington-logan-circle-2026-11-12-320.webp 320w, editorial/photos/ataque-tiros-academia-washington-logan-circle-2026-11-12-640.webp 640w, editorial/photos/ataque-tiros-academia-washington-logan-circle-2026-11-12-960.webp 960w, editorial/photos/ataque-tiros-academia-washington-logan-circle-2026-11-12-1280.webp 1280w",
+      "width": 1280,
+      "height": 960
+    },
+    "putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12": {
+      "src": "editorial/photos/putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12-1280.webp",
+      "srcset": "editorial/photos/putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12-320.webp 320w, editorial/photos/putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12-640.webp 640w, editorial/photos/putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12-960.webp 960w, editorial/photos/putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12-1280.webp 1280w",
+      "width": 1280,
+      "height": 790
     }
   }
 }
