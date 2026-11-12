@@ -1,6 +1,74 @@
 {
   "articles": [
     {
+      "id": "california-baniu-creatina-restricao-menores-ab2030-2026-11-12",
+      "date": "2026-11-12",
+      "category": "MUNDO",
+      "title": "CALIFÓRNIA BANIU A CREATINA? Lei restringe venda a menores de 18 anos em 2027",
+      "subtitle": "Nova regra cita a creatina entre os ingredientes relevantes, mas não proíbe seu consumo nem a venda geral: o alvo são suplementos comercializados para hipertrofia ou emagrecimento e vendidos a menores.",
+      "facts": "A Califórnia sancionou em 28 de setembro de 2026 a lei AB 2030, aprovada como Chapter 720, que entrará em vigor em 1º de janeiro de 2027. A norma proíbe vender, oferecer ou entregar a menores de 18 anos determinados suplementos alimentares apresentados como produtos para ganho muscular ou perda de peso, além de comprimidos emagrecedores vendidos sem prescrição. No texto, a creatina aparece expressamente como um dos ingredientes que os tribunais podem levar em conta para decidir se um suplemento está abrangido pela restrição. Isso não significa que o estado tenha banido a creatina para todas as pessoas, nem que todo produto com creatina esteja automaticamente proibido. A aplicação considera também rótulos, propaganda, exposição e finalidade declarada. Lojas e vendedores à distância precisarão adotar controles de idade para produtos abrangidos, e o descumprimento pode gerar multa civil de até US$ 500 por infração. Há exceção para menores com prescrição médica. A lei voltou ao noticiário em 9 e 10 de novembro, com reportagens sobre o impacto nas lojas de suplementos.",
+      "analysis": "A justificativa oficial é proteger adolescentes de suplementos cuja publicidade promete emagrecimento ou hipertrofia, incluindo produtos mal rotulados ou potencialmente contaminados. Por outro lado, associações do setor criticam a ausência de uma lista objetiva de produtos e a possibilidade de que suplementos tradicionais, incluindo a creatina, sejam abrangidos conforme sua apresentação comercial. O efeito concreto dependerá da aplicação da lei pelos comerciantes e autoridades. O debate não equivale a uma conclusão científica de que a creatina seja um esteroide ou substância ilegal: o monohidrato de creatina é um recurso ergogênico nutricional estudado na literatura esportiva. A restrição é de venda por faixa etária, não uma proibição geral de uso da molécula.",
+      "counterpoint": "Imagine se isso vira moda: daqui a pouco a creatina estará sendo tratada, na prática, na mesma prateleira regulatória de recursos ergogênicos de alto risco. A ironia é que ela já é um recurso ergogênico nutricional — mas isso está muito longe de torná-la um anabolizante ou substância proibida. A preocupação de quem critica a AB 2030 é colocar itens com perfis de risco distintos sob regras semelhantes. Já os defensores dizem que a medida busca reduzir o acesso de menores a produtos de emagrecimento e ganho muscular vendidos com promessas potencialmente enganosas. O texto aprovado exige comprovação de idade, não torna a creatina ilegal para adultos.",
+      "sources": [
+        {
+          "name": "California Legislature — AB 2030, Chapter 720 (texto integral sancionado em 28/09/2026)",
+          "url": "https://legiscan.com/CA/text/AB2030/id/3460802"
+        },
+        {
+          "name": "Governador da Califórnia — anúncio oficial de sanção da AB 2030 (28/09/2026)",
+          "url": "https://www.gov.ca.gov/2026/09/28/governor-newsom-signs-legislation-creating-non-upf-label-other-health-bills-advancing-californias-nation-leading-healthcare-strategy/"
+        },
+        {
+          "name": "FOX 11 Los Angeles — verificação de identidade para creatina e suplementos (10/11/2026)",
+          "url": "https://www.foxla.com/news/california-minors-banned-from-buying-creatine-fitness-supplments-2027"
+        },
+        {
+          "name": "Council for Responsible Nutrition — alcance e controvérsias da AB 2030 (09/2026)",
+          "url": "https://www.crnusa.org/Need-to-Know/Sept-2026-Extra"
+        },
+        {
+          "name": "International Society of Sports Nutrition — revisão científica sobre creatina (2017)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5469049/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Creatine_monohydrate_powder.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) — https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Awkwafaba / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Creatine_monohydrate_powder.jpg",
+          "caption": "FOTO DE ARQUIVO (14/01/2026): creatina monohidratada em pó, suplemento citado entre os ingredientes avaliáveis pela lei AB 2030 da Califórnia. Awkwafaba / Wikimedia Commons (CC BY-SA 4.0). Não retrata uma fiscalização ou a sanção da lei."
+        }
+      ],
+      "en": {
+        "title": "DID CALIFORNIA BAN CREATINE? Law restricts sales to minors starting in 2027",
+        "subtitle": "The new rule names creatine as a factor when assessing covered products, but does not impose a blanket ban; it targets supplements marketed for muscle gain or weight loss and sold to minors.",
+        "facts": "California enacted Assembly Bill 2030, Chapter 720, on September 28, 2026; it takes effect on January 1, 2027. The law bars the sale, offer or delivery to people under 18 of certain dietary supplements marketed for muscle building or weight loss, along with nonprescription diet pills. Creatine is expressly named as one ingredient courts may consider when deciding whether a supplement is covered. This is not a statewide ban on creatine for all ages, and the presence of creatine alone does not automatically classify every product. Labels, marketing, displays and claims also matter. Retailers and online sellers must verify age for covered products; violations may carry civil penalties of up to US$ 500 each. The law includes an exception for minors with a prescription. News coverage on November 9 and 10 brought renewed attention to the rules for supplement stores.",
+        "analysis": "California's stated aim is to protect teenagers from products promoted for rapid weight loss or muscle growth, including supplements that may be mislabeled or contaminated. Industry groups argue that the absence of a definitive list of covered products creates uncertainty for retailers and consumers. Implementation will depend on how the statutory criteria are applied. Creatine monohydrate is an established nutritional ergogenic aid in sports science; the law does not declare it an anabolic steroid or an illegal substance. Its restriction concerns sales by age, not a universal ban on the compound.",
+        "counterpoint": "Imagine if this catches on: next, creatine could be treated in practice like high-risk or prohibited performance aids. The irony is that creatine already is a nutritional ergogenic aid, but that does not make it an anabolic steroid or a banned substance. Critics of AB 2030 question whether products with different risk profiles should face similar sales controls. Supporters argue the age restriction helps protect minors from misleadingly marketed weight-loss and muscle-building products. The law requires age checks; it does not make creatine illegal for adults.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (January 14, 2026): creatine monohydrate powder, a supplement ingredient listed among the factors considered under California's AB 2030. Awkwafaba / Wikimedia Commons (CC BY-SA 4.0). The image does not show enforcement or the law being signed."
+        },
+        "slug": "did-california-ban-creatine-law-restricts-sales-to-minors-starting-in-2027-2026-11-12"
+      },
+      "es": {
+        "title": "¿CALIFORNIA PROHIBIÓ LA CREATINA? Una ley restringe la venta a menores desde 2027",
+        "subtitle": "La nueva norma menciona la creatina como factor para determinar qué productos abarca, pero no establece una prohibición general: afecta a suplementos promocionados para ganar músculo o adelgazar y vendidos a menores.",
+        "facts": "California promulgó el 28 de septiembre de 2026 la ley AB 2030, registrada como Chapter 720, que entrará en vigor el 1 de enero de 2027. La norma prohíbe vender, ofrecer o entregar a menores de 18 años determinados suplementos alimenticios promocionados para aumentar la masa muscular o perder peso, además de pastillas adelgazantes de venta libre. La creatina aparece expresamente como uno de los ingredientes que los tribunales pueden considerar para determinar si un producto está sujeto a la restricción. Esto no significa una prohibición general de la creatina ni que cualquier producto que la contenga quede automáticamente restringido. También se evalúan el etiquetado, la publicidad, la presentación y los beneficios anunciados. Comercios y vendedores en línea deberán comprobar la edad de quienes compren productos incluidos en la norma; las infracciones pueden acarrear multas civiles de hasta US$ 500 por caso. Hay una excepción para menores con receta médica. La ley volvió a recibir atención mediática los días 9 y 10 de noviembre por sus consecuencias para las tiendas de suplementos.",
+        "analysis": "El objetivo declarado por California es proteger a los adolescentes frente a productos que prometen adelgazamiento o crecimiento muscular, incluidos suplementos potencialmente mal etiquetados o contaminados. Asociaciones del sector cuestionan la falta de una lista definitiva de productos sujetos a la norma y la inseguridad que genera para comercios y consumidores. Su impacto dependerá de cómo se interpreten los criterios legales. La creatina monohidratada es una ayuda ergogénica nutricional reconocida en la literatura deportiva; la ley no la clasifica como esteroide anabólico ni como sustancia ilegal. Se limita a la venta por edad, no a una prohibición universal de la molécula.",
+        "counterpoint": "Imaginen que esta tendencia se extienda: dentro de poco podrían tratar la creatina, en la práctica, como si perteneciera al mismo grupo regulatorio que las ayudas ergogénicas de alto riesgo o prohibidas. La ironía es que la creatina ya es una ayuda ergogénica nutricional, pero eso no la convierte en un anabolizante ni en una sustancia prohibida. Los críticos de la AB 2030 cuestionan que productos con perfiles de riesgo diferentes afronten restricciones parecidas. Sus defensores sostienen que el control de edad protege a los menores frente a suplementos publicitados con promesas engañosas. La ley exige verificar la edad; no prohíbe la creatina a los adultos.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (14 de enero de 2026): creatina monohidratada en polvo, ingrediente citado entre los criterios considerados por la AB 2030 de California. Awkwafaba / Wikimedia Commons (CC BY-SA 4.0). No muestra inspecciones ni la firma de la ley."
+        },
+        "slug": "california-prohibio-la-creatina-una-ley-restringe-la-venta-a-menores-desde-2027-2026-11-12"
+      },
+      "firstSeen": "2026-11-12T02:13:11-03:00"
+    },
+    {
       "id": "banco-do-brasil-lucro-cai-665-por-cento-3t26-2026-11-11",
       "date": "2026-11-11",
       "category": "ECONOMIA",
