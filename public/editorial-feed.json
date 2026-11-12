@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "caixa-vida-previdencia-vazamento-dados-76-milhoes-2026-11-12",
+      "date": "2026-11-12",
+      "category": "TECNOLOGIA",
+      "title": "URGENTE: ataque cibernético à Caixa Vida e Previdência expõe dados de base com 7,6 milhões de clientes",
+      "subtitle": "Empresa confirma cópia não autorizada de informações cadastrais; investigação preliminar não aponta acesso a senhas nem a dados bancários.",
+      "facts": "A Caixa Vida e Previdência (CVP), empresa ligada à Caixa Seguridade, confirmou em 12 de novembro de 2026 um incidente cibernético identificado em 6 de novembro. Segundo comunicado da companhia, invasores acessaram e copiaram dados pessoais e cadastrais para fora de seu ambiente tecnológico. A base envolvida abrange 7,6 milhões de clientes ativos e registros de ex-clientes, cujo total não foi informado. Nomes e CPFs estão entre as informações afetadas; parte dos registros inclui endereços, telefones, e-mails e datas de nascimento. A companhia informou ter contido o acesso indevido, reforçado seus sistemas, contratado investigação especializada e comunicado o episódio à Autoridade Nacional de Proteção de Dados (ANPD). De acordo com a apuração preliminar divulgada pela empresa, não há indícios de comprometimento de senhas, dados de autenticação, informações financeiras ou bancárias. A empresa está notificando clientes afetados. O incidente na CVP não equivale, por si só, a uma invasão de contas correntes ou do sistema Pix da Caixa Econômica Federal.",
+      "analysis": "A exposição de informações cadastrais cria riscos mesmo sem evidência de roubo de senhas ou movimentação bancária. Nome, CPF e dados de contato podem ser explorados em mensagens fraudulentas e tentativas de engenharia social que simulam atendimento bancário ou de seguradora. A dimensão exata dos registros copiados e eventual uso indevido ainda dependem da investigação. A comunicação transparente aos titulares e à ANPD, a proteção contra golpes e a avaliação das causas do incidente serão fundamentais para medir a resposta da empresa.",
+      "counterpoint": "Quando uma base com milhões de cadastros é acessada por criminosos, dizer que as senhas não foram atingidas é importante, mas não encerra o problema. Nome, CPF e telefone podem virar munição para golpes convincentes. A cobrança deve ser por explicações, prevenção e proteção efetiva dos clientes — sem espalhar o boato de que o dinheiro de todas essas pessoas foi roubado.",
+      "sources": [
+        {
+          "name": "CNN Brasil — comunicado da Caixa Seguridade sobre o incidente (12/11/2026)",
+          "url": "https://www.cnnbrasil.com.br/economia/money/negocios/caixa-sofre-ataque-hacker-que-afeta-76-milhoes-de-clientes/"
+        },
+        {
+          "name": "Estadão/TecMundo — nota da Caixa Vida e Previdência e esclarecimentos (12/11/2026)",
+          "url": "https://www.estadao.com.br/tecmundo/ciberseguranca/caixa-vida-e-previdencia-sofre-ataque-hacker-e-dados-de-76-milhoes-sao-expostos/"
+        },
+        {
+          "name": "Folha de S.Paulo — dados expostos e medidas de resposta (12/11/2026)",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/11/caixa-seguridade-informa-vazamento-de-dados-de-76-milhoes-de-clientes.shtml"
+        }
+      ],
+      "en": {
+        "title": "BREAKING: Cyberattack on Caixa Vida e Previdência exposes records from a database with 7.6 million customers",
+        "subtitle": "The company confirms unauthorized copying of customer records; preliminary findings show no evidence that passwords or banking information were accessed.",
+        "facts": "Caixa Vida e Previdência (CVP), a company associated with Caixa Seguridade, confirmed on November 12, 2026, a cyber incident first identified on November 6. According to the company, attackers gained unauthorized access and copied personal and registration data outside its systems. The affected database includes 7.6 million active customers and former customers, whose total number has not been disclosed. Names and Brazilian taxpayer identification numbers (CPFs) were among the affected information; some records also included addresses, telephone numbers, email addresses and dates of birth. The company said it contained the intrusion, strengthened security, hired external specialists to investigate and notified ANPD (Brazil's National Data Protection Authority). Preliminary findings disclosed by the company show no evidence that passwords, authentication credentials, financial or banking data were compromised. Affected customers are being notified. The CVP incident does not, by itself, establish that Caixa Econômica Federal checking accounts or its Pix payment system were breached.",
+        "analysis": "Even without evidence of stolen passwords or unauthorized financial transactions, exposed customer records can facilitate fraud. Names, identification numbers and contact details may help criminals impersonate bank or insurance staff in convincing phishing attempts. Investigators have yet to determine the full extent of copied records or whether they were misused. Clear notification, effective anti-fraud guidance and scrutiny of the security failures will be central to evaluating the response.",
+        "counterpoint": "When criminals access a database containing millions of customer records, reassurance that passwords were not exposed matters — but it does not settle the issue. Names, identification numbers and phone numbers can still be exploited in scams. The public deserves explanations and effective safeguards, without false claims that every affected customer's money was stolen.",
+        "category": "TECHNOLOGY",
+        "slug": "breaking-cyberattack-on-caixa-vida-e-previdencia-exposes-records-from-a-2026-11-12"
+      },
+      "es": {
+        "title": "URGENTE: ciberataque a Caixa Vida e Previdência expone datos de una base con 7,6 millones de clientes",
+        "subtitle": "La empresa confirma una copia no autorizada de registros personales; la investigación preliminar no encuentra indicios de acceso a contraseñas ni a información bancaria.",
+        "facts": "Caixa Vida e Previdência (CVP), empresa vinculada a Caixa Seguridade, confirmó el 12 de noviembre de 2026 un incidente cibernético detectado el 6 de noviembre. Según la compañía, los atacantes accedieron sin autorización a sus sistemas y copiaron datos personales y de registro fuera de su entorno tecnológico. La base afectada incluye 7,6 millones de clientes activos y registros de antiguos clientes, cuyo número total no fue divulgado. Entre los datos comprometidos figuran nombres y números de identificación fiscal brasileños (CPF); algunos registros también contenían direcciones, teléfonos, correos electrónicos y fechas de nacimiento. La empresa afirmó haber contenido el acceso, reforzado sus sistemas, contratado especialistas externos y notificado a la ANPD (Autoridad Nacional de Protección de Datos de Brasil). La investigación preliminar no encontró indicios de compromiso de contraseñas, credenciales de autenticación, información financiera o bancaria. La compañía está notificando a los afectados. El incidente en CVP no demuestra, por sí mismo, que las cuentas corrientes de Caixa Econômica Federal ni su sistema de pagos Pix hayan sido vulnerados.",
+        "analysis": "La exposición de datos de registro puede facilitar estafas incluso sin evidencia de robo de contraseñas o movimientos bancarios. Nombres, identificaciones y datos de contacto permiten elaborar mensajes fraudulentos que imitan a bancos o aseguradoras. La cantidad exacta de registros copiados y su posible uso indebido siguen bajo investigación. La información transparente a los clientes, la prevención de fraudes y el examen de las fallas de seguridad serán fundamentales.",
+        "counterpoint": "Cuando delincuentes acceden a una base con millones de registros, aclarar que las contraseñas no fueron afectadas es importante, pero no resuelve todo. Nombres, identificaciones y teléfonos también pueden utilizarse en estafas. Hace falta exigir explicaciones y protección real, sin difundir que se robó el dinero de todos los clientes afectados.",
+        "category": "TECNOLOGÍA",
+        "slug": "urgente-ciberataque-a-caixa-vida-e-previdencia-expone-datos-de-una-base-con-7-6-2026-11-12"
+      },
+      "firstSeen": "2026-11-12T10:05:00-03:00"
+    },
+    {
       "id": "reino-unido-sanciona-dez-maiores-petroleiras-russas-slavneft-2026-11-12",
       "date": "2026-11-12",
       "category": "MUNDO",
