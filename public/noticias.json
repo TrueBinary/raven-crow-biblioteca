@@ -2,9 +2,62 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-12T08:00:00-03:00",
+  "updatedAt": "2026-11-12T09:00:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "falha-linha-8-diamante-passageiros-caminham-trilhos-carapicuiba-2026-11-12",
+      "date": "2026-11-12",
+      "category": "BRASIL",
+      "title": "URGENTE: falha na Linha 8-Diamante deixa passageiros presos e provoca caminhada pelos trilhos em SP",
+      "subtitle": "Falha de tração entre General Miguel Costa e Carapicuíba provoca evacuação improvisada e interrupção parcial do serviço.",
+      "facts": "Na manhã desta quinta-feira, 12 de novembro de 2026, uma falha de tração interrompeu a circulação de um trem da Linha 8-Diamante, operada pela ViaMobilidade, entre as estações General Miguel Costa e Carapicuíba, na Grande São Paulo. Segundo passageiros ouvidos pelo UOL, o trem parou por volta das 6h32 e o desembarque ocorreu perto das 7h15, após mais de 30 minutos sem ar-condicionado e informações claras. A Folha de S.Paulo também relatou passageiros quebrando janelas, abrindo portas e caminhando pelos trilhos. Há divergência entre as reportagens sobre o horário exato da parada: a Folha cita cerca de 7h10. A concessionária afirmou ter interrompido o trecho por segurança, mantendo circulação parcial em outros segmentos. Não havia confirmação independente de feridos ou previsão segura para normalização total na apuração.",
+      "analysis": "O episódio levanta questões sobre protocolos de emergência, comunicação e segurança ferroviária. Passageiros relatam demora nas orientações e condições difíceis dentro do trem. Segundo as reportagens, os canais oficiais ainda indicavam operação normal durante parte da ocorrência. Cabe à concessionária explicar a cronologia, o plano de contingência e a condução da evacuação; às autoridades reguladoras, fiscalizar o procedimento. Caminhar pelos trilhos sem acompanhamento oferece riscos adicionais. Não há provas de sabotagem nem justificativa para extrapolar a falha a toda a rede.",
+      "counterpoint": "O passageiro paga passagem para chegar ao destino, não para fazer uma prova de sobrevivência nos trilhos. A concessionária pode explicar a falha técnica, mas deve garantir comunicação rápida e evacuação segura. Ao mesmo tempo, sair de uma composição e caminhar pela via férrea sem orientação pode ser perigoso; é necessário apurar por que os usuários se sentiram obrigados a agir assim. Segurança e transparência são deveres, não favores.",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo, 12/11/2026",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/linha-8-diamante-apresenta-falha-e-passageiros-caminham-sobre-os-trilhos-em-carapicuiba-sp.shtml"
+        },
+        {
+          "name": "UOL, 12/11/2026",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/12/problema-linha-8-diamante-viamobilidade.ghtm"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/TUE_Serie_7000_ViaMobilidade_%282023%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC0 1.0 Universal Public Domain Dedication",
+          "credit": "Sorocabano 32 / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:TUE_Serie_7000_ViaMobilidade_(2023).jpg",
+          "caption": "FOTO DE ARQUIVO (02/06/2023): trem Série 7000 da ViaMobilidade na estação Osasco. Sorocabano 32 / Wikimedia Commons (CC0 1.0). Não retrata a falha de 12/11/2026."
+        }
+      ],
+      "en": {
+        "title": "BREAKING: Line 8-Diamond train failure strands passengers, who walk along tracks near São Paulo",
+        "subtitle": "Traction failure between General Miguel Costa and Carapicuíba prompts an improvised evacuation and partial service disruption.",
+        "facts": "On Thursday morning, November 12, 2026, a traction failure stopped a ViaMobilidade Line 8-Diamond train between General Miguel Costa and Carapicuíba stations in Greater São Paulo. Passengers interviewed by UOL said the train stopped at around 6:32 a.m. and they disembarked around 7:15 a.m., after more than 30 minutes without air conditioning or clear information. Folha de S.Paulo also reported that passengers broke windows, opened doors and walked along the tracks. Reports differ on the exact time of the stop: Folha cited approximately 7:10 a.m. The operator said it suspended the affected section for safety while running partial services elsewhere. No independently confirmed injury count or reliable time for full restoration was available during reporting.",
+        "analysis": "The incident raises questions about emergency protocols, communication and railway safety. Riders reported delayed guidance and difficult conditions aboard the train. News reports said official service pages continued to indicate normal operation during part of the disruption. The operator should explain the timeline, contingency plan and evacuation process, while regulators review the response. Walking along tracks without guidance presents further risks. There is no evidence of sabotage or grounds to generalize this failure to the entire network.",
+        "counterpoint": "Passengers pay to reach their destination, not to take a survival test on the tracks. The operator can explain the technical failure but must provide prompt information and safe evacuation. At the same time, walking on railway tracks without guidance is dangerous; investigators should establish why riders felt compelled to do so. Safety and transparency are obligations, not favors.",
+        "category": "BRAZIL",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (June 2, 2023): ViaMobilidade Series 7000 train at Osasco station. Sorocabano 32 / Wikimedia Commons (CC0 1.0). Not the November 12, 2026 incident."
+        }
+      },
+      "es": {
+        "title": "URGENTE: avería en la Línea 8-Diamante deja pasajeros varados que caminan por las vías en São Paulo",
+        "subtitle": "Una falla de tracción entre General Miguel Costa y Carapicuíba provoca una evacuación improvisada y la interrupción parcial del servicio.",
+        "facts": "En la mañana del jueves 12 de noviembre de 2026, una falla de tracción detuvo un tren de la Línea 8-Diamante de ViaMobilidade entre las estaciones General Miguel Costa y Carapicuíba, en el Gran São Paulo. Pasajeros entrevistados por UOL dijeron que el tren se detuvo alrededor de las 6:32 y que desembarcaron cerca de las 7:15, después de más de 30 minutos sin aire acondicionado ni información clara. Folha de S.Paulo también informó que algunos pasajeros rompieron ventanas, abrieron puertas y caminaron por las vías. Los informes difieren sobre la hora exacta de la detención: Folha mencionó aproximadamente las 7:10. La operadora afirmó que suspendió el tramo por seguridad y mantuvo servicios parciales en otros segmentos. No había una cifra de heridos confirmada de manera independiente ni un horario fiable para la normalización total.",
+        "analysis": "El incidente plantea dudas sobre los protocolos de emergencia, la comunicación y la seguridad ferroviaria. Los usuarios denunciaron demoras en las orientaciones y condiciones difíciles dentro del tren. Según los reportajes, las páginas oficiales indicaban operación normal durante parte de la interrupción. La operadora debe explicar la cronología, el plan de contingencia y la evacuación; las autoridades reguladoras deben fiscalizar la respuesta. Caminar por las vías sin acompañamiento supone riesgos adicionales. No existen pruebas de sabotaje ni motivos para generalizar esta falla a toda la red.",
+        "counterpoint": "El pasajero paga el billete para llegar a su destino, no para hacer una prueba de supervivencia sobre las vías. La operadora puede explicar la falla técnica, pero debe garantizar información rápida y evacuación segura. Al mismo tiempo, caminar por las vías sin orientación es peligroso; hay que investigar por qué los usuarios sintieron la necesidad de hacerlo. Seguridad y transparencia son deberes, no favores.",
+        "category": "BRASIL",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (2 de junio de 2023): tren Serie 7000 de ViaMobilidade en la estación Osasco. Sorocabano 32 / Wikimedia Commons (CC0 1.0). No muestra el incidente del 12 de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "pgr-gonet-defende-manter-vorcaro-preso-caso-master-2026-11-12",
       "date": "2026-11-12",
