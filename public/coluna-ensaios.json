@@ -1,7 +1,85 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T19:00:00-03:00",
+  "updatedAt": "2026-11-12T10:03:00-03:00",
   "essays": [
+    {
+      "id": "a-geladeira-virou-refem-da-peca-2026-11-12",
+      "section": "Política e sociedade",
+      "date": "2026-11-12",
+      "title": "A GELADEIRA VIROU REFÉM DA PEÇA. E O DONO AINDA PAGA O RESGATE.",
+      "subtitle": "O direito de reparar expõe uma contradição: compramos o aparelho, mas nem sempre conseguimos escolher como mantê-lo funcionando.",
+      "eyebrow": "OPINIÃO",
+      "paragraphs": [
+        "Imagine a cena: a geladeira de uma família para de funcionar numa sexta-feira. O técnico chega, abre a tampa, examina uma pecinha do tamanho de uma moeda e anuncia a sentença: o aparelho inteiro talvez tenha de ser trocado. Na cozinha, o leite esquenta; na sala, o orçamento familiar entra em hipotermia. O cidadão comprou uma geladeira, mas descobre que, em certos mercados, comprar não significa necessariamente conseguir consertar. O fabricante vende o produto; o destino da pecinha parece depender de uma reunião secreta do Conselho Supremo dos Parafusos.",
+        "Há uma diferença enorme entre inovação e descarte compulsório. Ninguém exige que uma máquina dure eternamente, nem que toda peça seja produzida para sempre. Mas é legítimo desconfiar de um mercado em que a substituição se torna mais simples do que o reparo não por impossibilidade técnica, mas por obstáculos de acesso a componentes, informações ou assistência. A propriedade começa a ficar estranha quando você pode pagar pelo objeto, carregá-lo para casa e ainda assim depender de terceiros para exercer uma liberdade elementar: tentar prolongar sua vida útil. É como comprar uma casa e descobrir que trocar a maçaneta exige autorização do arquiteto e assinatura do síndico da fechadura.",
+        "O Brasil não parte do zero. O artigo 32 do Código de Defesa do Consumidor determina que fabricantes e importadores assegurem a oferta de componentes e peças enquanto houver fabricação ou importação, mantendo-a por período razoável após o encerramento. A regra não promete disponibilidade eterna nem transforma qualquer reparo em obrigação gratuita. Ela reconhece, porém, que vender um produto e desaparecer com suas peças é uma relação comercial que merece limites. O direito existe no papel; a discussão prática é se o consumidor consegue exercê-lo sem contratar um detetive particular para localizar uma dobradiça.",
+        "A União Europeia avançou por outro caminho com a Diretiva 2024/1799, adotada em 2024 e com prazo de transposição nacional até 31 de julho de 2026. A norma procura tornar reparos mais acessíveis e prevê obrigações para categorias de produtos abrangidas pelos requisitos europeus de reparabilidade. Não é uma ordem mágica para ressuscitar qualquer torradeira, nem vale automaticamente para toda mercadoria brasileira. É uma resposta institucional a uma pergunta simples: quando um bem pode ser reparado, por que a opção de consertá-lo deve parecer um favor concedido ao comprador? O burocrata europeu, por uma vez, encontrou uma utilidade pública para o formulário: informar preço e prazo antes de alguém vender o rim para comprar uma máquina nova.",
+        "Há uma objeção séria, e convém não escondê-la debaixo da bancada. Fabricantes investem em projetos, segurança, pesquisa e redes de assistência; peças disponíveis e reparos mal executados têm custos e riscos reais. Obrigar a manter estoques infinitos encareceria produtos e poderia punir a inovação. O problema não se resolve decretando que todo celular seja desmontável com uma colher. Resolve-se distinguindo exigências proporcionais de barreiras artificiais, transparência de monopólio de informação, segurança legítima de desculpa comercial. Liberdade econômica não é licença para prometer ao consumidor uma coisa e entregar um labirinto de dependências.",
+        "Há também uma ironia ecológica. Discursos empresariais e governamentais adoram a sustentabilidade, sobretudo quando ela cabe numa embalagem verde e num vídeo institucional com árvores em câmera lenta. Mas a virtude ambiental começa numa pergunta pouco cinematográfica: dá para trocar a peça quebrada? Uma sociedade que celebra a reciclagem enquanto torna difícil o conserto corre o risco de transformar a lixeira em departamento de marketing. O planeta recebe o discurso; a família recebe a fatura. E o técnico continua procurando a peça, talvez com a ajuda de um arqueólogo especializado em eletrodomésticos extintos.",
+        "Meu caro leitor, defender o direito de reparar não significa declarar guerra à indústria nem exigir que o Estado administre cada parafuso. Significa lembrar que propriedade, responsabilidade e concorrência precisam sobreviver à nota fiscal. O fabricante deve poder inovar; o consumidor deve poder conhecer as condições de manutenção e escolher, dentro de limites razoáveis, como cuidar do que comprou. Voltemos à cozinha: a geladeira talvez precise mesmo ser substituída, e às vezes esse será o melhor negócio. Mas a decisão deveria nascer de uma avaliação honesta, não do desaparecimento misterioso de uma peça. Afinal, o eletrodoméstico foi comprado para conservar comida — não para manter o proprietário refém."
+      ],
+      "sources": [
+        {
+          "title": "Código de Defesa do Consumidor — Lei 8.078/1990, art. 32 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+        },
+        {
+          "title": "Senado Federal — Código de Defesa do Consumidor e normas correlatas, art. 32",
+          "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/591816/CDC_e_normas_correlatas_5ed.pdf"
+        },
+        {
+          "title": "União Europeia — Diretiva 2024/1799, texto consolidado em 31/07/2026",
+          "url": "https://eur-lex.europa.eu/eli/dir/2024/1799/2026-07-31"
+        },
+        {
+          "title": "Conselho da União Europeia — Direito à reparação de produtos",
+          "url": "https://www.consilium.europa.eu/pt/policies/right-to-repair-products/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Repair_Caf%C3%A9_Trier_Reparatur.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "RaMa2016 / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Repair_Caf%C3%A9_Trier_Reparatur.jpg",
+          "caption": "FOTO DE ARQUIVO (28/11/2015, Trier, Alemanha): participantes consertam um aparelho elétrico no Repair Café Trier. Imagem ilustrativa, não retrata acontecimento recente."
+        }
+      ],
+      "en": {
+        "title": "THE REFRIGERATOR IS HOSTAGE TO A SPARE PART. AND ITS OWNER PAYS THE RANSOM.",
+        "subtitle": "The right to repair reveals a contradiction: we buy the appliance, yet cannot always choose how to keep it working.",
+        "eyebrow": "OPINION",
+        "section": "Politics and society",
+        "paragraphs": [
+          "Picture this: a family's refrigerator stops working on a Friday. The repair technician opens the back, inspects a part no bigger than a coin and delivers the verdict: the whole appliance may have to go. In the kitchen, the milk warms up; in the living room, the family budget freezes. The customer bought a refrigerator, yet discovers that in some markets buying something does not necessarily mean being able to repair it. The manufacturer sells the appliance, while the fate of a tiny part appears to rest with a secret Supreme Council of Screws.",
+          "There is a vast difference between innovation and forced disposal. Nobody demands that machines last forever or that every component be manufactured indefinitely. But suspicion is warranted when replacement becomes easier than repair not because repair is impossible, but because access to parts, information or service is restricted. Ownership begins to look peculiar when you can pay for an object and take it home, yet remain dependent on others to exercise a basic freedom: extending its useful life. It is like buying a house only to discover that replacing a doorknob requires the architect's permission and the lock superintendent's signature.",
+          "Brazil is not starting from scratch. Article 32 of its Consumer Protection Code requires manufacturers and importers to supply replacement parts while a product is manufactured or imported and for a reasonable period afterward. The rule does not promise eternal availability or free repairs for everything. It does recognize that selling a product and then making its components vanish deserves legal limits. The right exists on paper; the practical question is whether buyers can exercise it without hiring a private detective to find a hinge.",
+          "The European Union took another route with Directive 2024/1799, adopted in 2024, which member states were required to transpose by July 31, 2026. It seeks to make repairs more accessible and establishes obligations for categories covered by EU repairability requirements. It is not a magic order to resurrect every toaster, nor does it automatically govern every product sold in Brazil. It answers a straightforward question: when something can be repaired, why should the option feel like a favor bestowed upon its owner? For once, the European bureaucrat has found a useful purpose for a form: telling people the price and timeline before they sell a kidney to buy a new machine.",
+          "There is a serious counterargument, and it should not be hidden beneath the workbench. Manufacturers invest in design, safety, research and service networks; stocking parts and performing poor repairs carry real costs and risks. Requiring infinite inventories would raise prices and could penalize innovation. The solution is not to decree that every phone must come apart with a spoon. It is to distinguish proportionate requirements from artificial barriers, transparency from information monopolies, and legitimate safety from commercial excuses. Economic freedom is not permission to promise one thing to customers and deliver a maze of dependencies.",
+          "There is also an environmental irony. Corporate and government campaigns love sustainability, especially when it fits on green packaging or in a promotional video featuring slow-motion trees. But environmental responsibility begins with an uncinematic question: can the broken part be replaced? A society that celebrates recycling while making repair difficult risks turning the rubbish bin into a marketing department. The planet gets the speech; the family gets the bill. Meanwhile the technician is still hunting for the component, perhaps assisted by an archaeologist specializing in extinct appliances.",
+          "Dear reader, defending the right to repair does not mean declaring war on industry or asking government to manage every screw. It means remembering that ownership, responsibility and competition must survive the receipt. Manufacturers should be free to innovate; customers should know the maintenance conditions and have reasonable choices about caring for what they own. Back in the kitchen, perhaps the refrigerator really does need replacing, and sometimes that will be the best deal. But the decision should follow an honest assessment, not the mysterious disappearance of a part. After all, the appliance was bought to preserve food—not to hold its owner hostage."
+        ],
+        "photo_caption": "ARCHIVE PHOTO (November 28, 2015, Trier, Germany): participants repair an electrical appliance at Repair Café Trier. Illustrative image, not a recent event."
+      },
+      "es": {
+        "title": "EL FRIGORÍFICO ES REHÉN DE UNA PIEZA. Y SU DUEÑO PAGA EL RESCATE.",
+        "subtitle": "El derecho a reparar revela una contradicción: compramos el aparato, pero no siempre podemos elegir cómo mantenerlo funcionando.",
+        "eyebrow": "OPINIÓN",
+        "section": "Política y sociedad",
+        "paragraphs": [
+          "Imagine la escena: el frigorífico de una familia deja de funcionar un viernes. Llega el técnico, abre la tapa, examina una pieza del tamaño de una moneda y dicta sentencia: quizá haya que cambiar el aparato entero. En la cocina se calienta la leche; en el salón se congela el presupuesto familiar. El ciudadano compró un frigorífico, pero descubre que en ciertos mercados comprar no significa necesariamente poder reparar. El fabricante vende el aparato; el destino de la pieza parece depender de una reunión secreta del Consejo Supremo de los Tornillos.",
+          "Hay una diferencia enorme entre innovación y descarte forzoso. Nadie exige que una máquina dure eternamente ni que todas sus piezas se fabriquen para siempre. Pero es legítimo desconfiar de un mercado donde sustituir resulta más sencillo que reparar, no por imposibilidad técnica, sino por obstáculos para acceder a componentes, información o servicios. La propiedad empieza a parecer extraña cuando uno paga por un objeto, se lo lleva a casa y aun así depende de terceros para ejercer una libertad elemental: prolongar su vida útil. Es como comprar una vivienda y descubrir que cambiar el pomo exige permiso del arquitecto y firma del administrador de cerraduras.",
+          "Brasil no parte de cero. El artículo 32 de su Código de Defensa del Consumidor obliga a fabricantes e importadores a ofrecer piezas de repuesto mientras se fabrique o importe el producto y durante un período razonable después. La norma no promete disponibilidad eterna ni reparaciones gratuitas para todo. Sí reconoce que vender un producto y hacer desaparecer sus componentes merece límites. El derecho existe sobre el papel; la cuestión práctica es si el consumidor puede ejercerlo sin contratar a un detective privado para localizar una bisagra.",
+          "La Unión Europea avanzó por otra vía con la Directiva 2024/1799, adoptada en 2024 y cuyo plazo de transposición nacional venció el 31 de julio de 2026. Busca facilitar las reparaciones y establece obligaciones para categorías sujetas a requisitos europeos de reparabilidad. No es una orden mágica para resucitar cualquier tostadora ni se aplica automáticamente a toda mercancía brasileña. Responde a una pregunta sencilla: cuando un bien puede repararse, ¿por qué la opción de arreglarlo debe parecer un favor concedido al comprador? Por una vez, el burócrata europeo encontró una utilidad pública al formulario: informar del precio y el plazo antes de que alguien venda un riñón para comprar otra máquina.",
+          "Existe una objeción seria y no conviene esconderla bajo el banco de trabajo. Los fabricantes invierten en diseño, seguridad, investigación y redes de asistencia; mantener repuestos y realizar reparaciones deficientes implica costes y riesgos reales. Exigir existencias infinitas encarecería los productos y podría castigar la innovación. La solución no consiste en decretar que todo móvil deba desmontarse con una cuchara. Consiste en distinguir exigencias proporcionadas de barreras artificiales, transparencia de monopolio informativo y seguridad legítima de excusa comercial. La libertad económica no autoriza a prometer una cosa al cliente y entregarle un laberinto de dependencias.",
+          "También hay una ironía ecológica. Las campañas empresariales y gubernamentales adoran la sostenibilidad, sobre todo cuando cabe en un envase verde y en un vídeo institucional con árboles a cámara lenta. Pero la responsabilidad ambiental empieza con una pregunta poco cinematográfica: ¿puede cambiarse la pieza averiada? Una sociedad que celebra el reciclaje mientras dificulta la reparación corre el riesgo de convertir el cubo de basura en departamento de marketing. El planeta recibe el discurso; la familia recibe la factura. Y el técnico sigue buscando la pieza, quizá con ayuda de un arqueólogo especializado en electrodomésticos extinguidos.",
+          "Querido lector, defender el derecho a reparar no significa declarar la guerra a la industria ni pedir que el Estado administre cada tornillo. Significa recordar que propiedad, responsabilidad y competencia deben sobrevivir a la factura. El fabricante ha de poder innovar; el consumidor debe conocer las condiciones de mantenimiento y elegir, dentro de límites razonables, cómo cuidar lo que compró. Volvamos a la cocina: quizá realmente haya que sustituir el frigorífico y a veces será la mejor opción. Pero la decisión debería nacer de una evaluación honesta, no de la desaparición misteriosa de una pieza. Al fin y al cabo, el aparato se compró para conservar alimentos, no para mantener como rehén a su dueño."
+        ],
+        "photo_caption": "FOTO DE ARCHIVO (28/11/2015, Tréveris, Alemania): participantes reparan un aparato eléctrico en Repair Café Trier. Imagen ilustrativa, no corresponde a un hecho reciente."
+      }
+    },
     {
       "id": "a-transparencia-que-precisa-de-lanterna-e-advogado-2026-11-11",
       "section": "Política e sociedade",
