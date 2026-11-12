@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "desabamento-brooklyn-nova-york-oito-mortos-2026-11-12",
+      "date": "2026-11-12",
+      "category": "MUNDO",
+      "title": "URGENTE: sobe para oito o número de mortos após desabamento de prédio no Brooklyn, em Nova York",
+      "subtitle": "Bombeiros seguem buscando sobreviventes nos escombros; ao menos 17 pessoas ficaram feridas, segundo balanço divulgado nesta quinta-feira.",
+      "facts": "Subiu para oito o número de mortos no desabamento de um prédio de três andares no bairro de Flatbush, no Brooklyn, em Nova York, segundo o balanço divulgado nesta quinta-feira, 12 de novembro de 2026, pelo prefeito Zohran Mamdani e noticiado pela Associated Press e pelo Washington Post. O edifício caiu na tarde de quarta-feira (11), ao lado de um terreno onde eram realizadas escavações para uma nova construção. Pelo menos 17 pessoas ficaram feridas, incluindo integrantes das equipes de emergência. Mais de 250 bombeiros, policiais e socorristas participaram das buscas, com cães farejadores e ferramentas manuais para alcançar pessoas presas. Uma mulher e uma família com duas crianças foram retiradas com vida. As autoridades ainda investigam o motivo do colapso; não há comprovação de que a escavação vizinha tenha provocado o acidente. Relatos anteriores de Reuters e AFP mencionavam dois mortos, número posteriormente atualizado por AP e Washington Post. A contagem pode mudar conforme os trabalhos avançarem.",
+      "analysis": "A proximidade de uma obra e a queda de destroços dentro de uma escavação vizinha são elementos relevantes para a investigação técnica, mas não permitem atribuir culpa a uma empresa ou a trabalhadores sem perícia. Equipes de emergência alertaram para o risco de novos desmoronamentos durante a retirada de entulho. O balanço de vítimas evoluiu rapidamente ao longo da noite, o que exige cuidado com manchetes baseadas em números antigos. O episódio também levanta perguntas sobre inspeções, estabilidade estrutural e medidas de proteção em obras urbanas densamente povoadas.",
+      "counterpoint": "Uma cidade que constrói para cima precisa garantir que o chão não desapareça sob os pés de quem já mora ali. É legítimo cobrar fiscalização, licenças e responsabilidades — mas seria irresponsável transformar a escavação vizinha em culpada antes de uma investigação técnica. Neste momento, a prioridade é salvar quem ainda possa estar sob os escombros e esclarecer o que falhou.",
+      "sources": [
+        {
+          "name": "Associated Press — atualização de 12/11/2026",
+          "url": "https://apnews.com/article/292b3ece5d9ba6e375413c9f4671cf00"
+        },
+        {
+          "name": "The Washington Post — balanço de oito mortos, 12/11/2026",
+          "url": "https://www.washingtonpost.com/nation/2026/11/12/brooklyn-building-collapse-kills-two-injures-17-new-york-city-officials-say/"
+        },
+        {
+          "name": "Reuters — primeiros relatos do colapso, 12/11/2026",
+          "url": "https://www.reuters.com/world/building-collapse-brooklyn-kills-least-one-injures-10-2026-11-12/"
+        }
+      ],
+      "en": {
+        "title": "BREAKING: Death toll rises to eight after Brooklyn building collapse in New York",
+        "subtitle": "Rescuers continue searching the rubble; at least 17 people were injured, according to Thursday's updated figures.",
+        "facts": "Eight people have died after a three-story building collapsed in Flatbush, Brooklyn, New York, according to a November 12, 2026 update attributed to Mayor Zohran Mamdani and reported by the Associated Press and The Washington Post. The building fell on Wednesday afternoon, November 11, beside a site where excavation work was underway for a new development. At least 17 people were injured, including emergency responders. More than 250 firefighters, police officers and rescuers searched the rubble using dogs and hand tools. A woman and a family with two children were rescued alive. The cause remains under investigation; the adjacent excavation has not been established as the cause. Earlier Reuters and AFP reports cited two deaths, before AP and The Washington Post reported the higher toll. The figures may change as searches continue.",
+        "analysis": "The excavation next door and the fact that debris fell into the construction pit are important investigative details, but neither establishes responsibility without engineering findings. Emergency teams warned that unstable rubble created further danger during rescue work. Rapidly changing casualty counts also show why early headlines require careful updating. The disaster raises questions about structural inspections and safeguards around construction sites in densely populated neighborhoods.",
+        "counterpoint": "A city that keeps building upward must ensure the ground does not give way beneath its existing residents. Demanding inspections and accountability is reasonable; blaming the neighboring excavation before a technical investigation is not. The immediate priorities are finding survivors and determining what went wrong.",
+        "category": "WORLD",
+        "slug": "breaking-death-toll-rises-to-eight-after-brooklyn-building-collapse-in-new-york-2026-11-12"
+      },
+      "es": {
+        "title": "URGENTE: aumentan a ocho los muertos por el derrumbe de un edificio en Brooklyn, Nueva York",
+        "subtitle": "Los equipos de rescate siguen buscando entre los escombros; al menos 17 personas resultaron heridas, según el balance actualizado del jueves.",
+        "facts": "Ocho personas murieron tras el derrumbe de un edificio de tres pisos en Flatbush, Brooklyn, Nueva York, según el balance del 12 de noviembre de 2026 atribuido al alcalde Zohran Mamdani y publicado por Associated Press y The Washington Post. El edificio se desplomó la tarde del miércoles 11 de noviembre junto a un terreno donde se realizaban excavaciones para una nueva construcción. Al menos 17 personas resultaron heridas, incluidos miembros de los servicios de emergencia. Más de 250 bomberos, policías y rescatistas participaron en la búsqueda con perros y herramientas manuales. Una mujer y una familia con dos niños fueron rescatadas con vida. La causa sigue bajo investigación; no se ha demostrado que las excavaciones vecinas provocaran el derrumbe. Los primeros informes de Reuters y AFP mencionaban dos fallecidos, cifra actualizada posteriormente por AP y The Washington Post. El balance podría cambiar mientras continúan las labores.",
+        "analysis": "La excavación cercana y los escombros que cayeron en ella son elementos importantes para la investigación, pero no permiten atribuir responsabilidades sin un peritaje técnico. Los equipos de emergencia advirtieron del peligro de nuevos desprendimientos durante el rescate. La rápida evolución del número de víctimas exige actualizar las noticias con cautela. La tragedia plantea preguntas sobre inspecciones estructurales y medidas de seguridad en obras situadas en barrios densamente poblados.",
+        "counterpoint": "Una ciudad que construye cada vez más alto debe asegurarse de que el suelo no desaparezca bajo los pies de sus habitantes. Exigir controles y responsabilidades es razonable; culpar a las excavaciones vecinas antes de una investigación técnica no lo es. La prioridad inmediata es encontrar sobrevivientes y esclarecer qué falló.",
+        "category": "MUNDO",
+        "slug": "urgente-aumentan-a-ocho-los-muertos-por-el-derrumbe-de-un-edificio-en-brooklyn-2026-11-12"
+      },
+      "firstSeen": "2026-11-12T10:05:00-03:00"
+    },
+    {
       "id": "falha-linha-8-diamante-passageiros-caminham-trilhos-carapicuiba-2026-11-12",
       "date": "2026-11-12",
       "category": "BRASIL",
