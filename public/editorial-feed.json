@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "petroleo-brent-sobe-3-dolares-ataques-arabia-saudita-ormuz-2026-11-12",
+      "date": "2026-11-12",
+      "category": "ECONOMIA",
+      "title": "Petróleo Brent fecha a US$ 95,82 após ataques a instalações sauditas e tensão em Ormuz",
+      "subtitle": "Barril sobe US$ 3,06 nesta quinta-feira; houthis reivindicam ofensivas, mas extensão dos danos ainda não está confirmada.",
+      "facts": "Os contratos futuros do petróleo Brent encerraram a quinta-feira, 12 de novembro de 2026, a US$ 95,82 por barril, alta de US$ 3,06 (3,3%). O petróleo americano WTI fechou a US$ 88,74, avanço de US$ 2,21 (2,6%). A valorização ocorreu em meio a novas preocupações com o fornecimento de petróleo no Oriente Médio, após os houthis do Iêmen reivindicarem ataques contra uma estação de bombeamento do oleoduto Leste-Oeste saudita, instalações em Yanbu e um prédio da Saudi Aramco em Riade. A coalizão liderada pela Arábia Saudita declarou ter interceptado dois drones. As alegações sobre alvos atingidos e a extensão dos danos não foram confirmadas independentemente. O Estreito de Ormuz também enfrenta interrupções e ameaças à navegação. A Reuters relatou que o Irã afirmou que quatro petroleiros foram atingidos, informação que não pôde verificar. Apesar da alta diária, Brent e WTI acumulavam queda aproximada de 2,5% na semana.",
+      "analysis": "A recuperação do petróleo reflete a reprecificação do risco de interrupções em rotas e instalações energéticas, não necessariamente uma queda já comprovada na produção global. O oleoduto Leste-Oeste e o terminal de Yanbu são alternativas relevantes à passagem por Ormuz. Preços mais altos podem pressionar custos de transporte e inflação em países importadores, enquanto estoques e perspectivas diplomáticas seguem influenciando as cotações. A duração do movimento dependerá de danos efetivos, capacidade de exportação e segurança da navegação.",
+      "counterpoint": "O petróleo sobe ao primeiro sinal de que o conflito pode alcançar mais infraestrutura. Mas uma reivindicação de ataque não equivale a dano comprovado: sem confirmação independente, transformar cada anúncio militar em certeza seria trocar jornalismo por propaganda. Para o consumidor, a conta pode chegar antes da paz.",
+      "sources": [
+        {
+          "name": "Reuters — fechamento do petróleo e riscos à oferta, 12/11/2026",
+          "url": "https://www.reuters.com/business/energy/oil-prices-drop-more-than-1-hopes-iran-ukraine-peace-talks-pressure-markets-2026-11-12/"
+        },
+        {
+          "name": "Wall Street Journal — petróleo reage à tensão EUA-Irã, 12/11/2026",
+          "url": "https://www.wsj.com/finance/commodities-futures/oil-resumes-decline-as-risk-premium-fades-bcdc7fc5"
+        },
+        {
+          "name": "UOL — houthis reivindicam ataques contra infraestrutura saudita, 12/11/2026",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/12/houthis-dizem-ter-atacado-oleoduto-e-predio-da-aramco-na-arabia-saudita.ghtm"
+        }
+      ],
+      "en": {
+        "title": "Brent oil closes at $95.82 as Saudi energy sites face attack claims and Hormuz tensions rise",
+        "subtitle": "Benchmark gains $3.06 on Thursday; Houthis claim strikes, but the extent of any damage remains unconfirmed.",
+        "facts": "Brent crude futures closed Thursday, November 12, 2026, at US$95.82 a barrel, up US$3.06 (3.3%). US West Texas Intermediate (WTI) settled at US$88.74, a rise of US$2.21 (2.6%). Prices climbed amid renewed concerns over Middle East oil supplies after Yemen's Houthis claimed attacks on a pumping station along Saudi Arabia's East-West pipeline, facilities in Yanbu and a Saudi Aramco building in Riyadh. The Saudi-led coalition said it intercepted two drones. The claims about targets hit and the extent of damage have not been independently confirmed. Shipping through the Strait of Hormuz also faces disruptions and threats. Reuters reported an Iranian claim that four tankers were hit but could not verify it. Despite the day's rise, both benchmarks were down roughly 2.5% for the week.",
+        "analysis": "The rebound reflects renewed pricing of the risk to energy infrastructure and shipping routes, rather than necessarily indicating a confirmed loss of global production. Saudi Arabia's East-West pipeline and Yanbu terminal offer an alternative to the Strait of Hormuz. Higher prices could increase transport costs and inflationary pressure for importers, while inventories and diplomatic expectations continue to influence the market. The outlook depends on verified damage, export capacity and shipping security.",
+        "counterpoint": "Oil prices jump whenever conflict threatens more infrastructure. But a claim of an attack is not proof of damage. Treating every military statement as established fact would turn journalism into propaganda. Consumers may face higher costs long before peace arrives.",
+        "category": "ECONOMY",
+        "slug": "brent-oil-closes-at-95-82-as-saudi-energy-sites-face-attack-claims-and-hormuz-2026-11-12"
+      },
+      "es": {
+        "title": "El Brent cierra en US$95,82 ante amenazas a instalaciones saudíes y tensión en Ormuz",
+        "subtitle": "El barril sube US$3,06 este jueves; los hutíes reivindican ataques, pero los daños siguen sin confirmación independiente.",
+        "facts": "Los futuros del petróleo Brent cerraron el jueves 12 de noviembre de 2026 en US$95,82 por barril, con un alza de US$3,06 (3,3%). El West Texas Intermediate (WTI) estadounidense terminó en US$88,74, un avance de US$2,21 (2,6%). Los precios subieron por nuevas preocupaciones sobre el suministro de Oriente Medio después de que los hutíes de Yemen reivindicaran ataques contra una estación de bombeo del oleoducto Este-Oeste de Arabia Saudita, instalaciones en Yanbu y un edificio de Saudi Aramco en Riad. La coalición liderada por Arabia Saudita afirmó haber interceptado dos drones. Ni los objetivos alcanzados ni la magnitud de los daños han sido confirmados de forma independiente. El tráfico marítimo por el estrecho de Ormuz también afronta interrupciones y amenazas. Reuters informó que Irán afirmó que cuatro petroleros fueron alcanzados, pero no pudo verificarlo. Pese a la subida diaria, ambas referencias acumulaban una caída cercana al 2,5% en la semana.",
+        "analysis": "El repunte refleja una nueva prima de riesgo para la infraestructura energética y las rutas marítimas, no necesariamente una pérdida confirmada de producción mundial. El oleoducto Este-Oeste y la terminal de Yanbu ofrecen una alternativa al estrecho de Ormuz. Un petróleo más caro puede presionar el transporte y la inflación de los países importadores, mientras las reservas y las expectativas diplomáticas siguen influyendo en los precios. La evolución dependerá de daños comprobados, capacidad exportadora y seguridad marítima.",
+        "counterpoint": "El petróleo sube cada vez que el conflicto amenaza más infraestructura. Pero reivindicar un ataque no demuestra que haya causado daños. Dar por cierta toda declaración militar sería convertir el periodismo en propaganda. Los consumidores pueden pagar el precio mucho antes de que llegue la paz.",
+        "category": "ECONOMÍA",
+        "slug": "el-brent-cierra-en-us-95-82-ante-amenazas-a-instalaciones-saudies-y-tension-en-2026-11-12"
+      },
+      "firstSeen": "2026-11-12T10:05:00-03:00"
+    },
+    {
       "id": "corteva-acoes-despencam-crise-agro-brasil-revisao-lucro-2026-11-12",
       "date": "2026-11-12",
       "category": "ECONOMIA",
