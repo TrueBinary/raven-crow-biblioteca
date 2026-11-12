@@ -6,6 +6,63 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "ataque-israelense-hospital-nasser-gaza-seis-mortos-2026-11-12",
+      "date": "2026-11-12",
+      "category": "MUNDO",
+      "title": "Ataque israelense atinge Hospital Nasser em Gaza e deixa seis mortos, incluindo cirurgião",
+      "subtitle": "Bombardeio atingiu área cirúrgica em Khan Younis; Israel afirma ter visado integrantes do Hamas, mas alegações sobre uso militar do hospital não foram verificadas independentemente.",
+      "facts": "Um ataque aéreo israelense atingiu na madrugada de quinta-feira, 12 de novembro de 2026, um prédio do Hospital Nasser, em Khan Younis, no sul da Faixa de Gaza. A Defesa Civil de Gaza informou pelo menos seis mortos, entre eles o cirurgião Rezik Abushira, e cerca de 20 feridos. A agência Reuters e a Associated Press relataram danos à ala cirúrgica e a setores do hospital, com imagens de destroços, pacientes retirados dos corredores e equipes de resgate em ação. As informações sobre vítimas foram atribuídas às autoridades de saúde e de defesa civil locais; a identificação completa das vítimas e o balanço final podem mudar. O Exército de Israel confirmou a operação e disse que o alvo era um comandante do Hamas e outros integrantes do grupo supostamente escondidos no complexo hospitalar. Israel afirmou que o local vinha sendo usado para operações militares; não apresentou, nas reportagens consultadas, provas independentes dessas alegações. O ataque ocorreu durante um cessar-fogo negociado em 2025, cuja observância segue contestada pelas partes.",
+      "analysis": "O Hospital Nasser é uma das principais estruturas de atendimento ainda operacionais no sul de Gaza. Ataques a instalações de saúde agravam a dificuldade de tratar pacientes, sobretudo em meio à escassez de suprimentos e à deterioração da infraestrutura. Pelo direito internacional humanitário, hospitais têm proteção especial; uma alegação de uso militar não elimina automaticamente as obrigações de distinguir combatentes e civis, verificar o alvo, adotar precauções e evitar danos civis excessivos. A legalidade concreta da operação exige apuração independente de seus objetivos, meios e consequências. As alegações do Exército israelense sobre atividades do Hamas no hospital e as informações das autoridades de Gaza sobre vítimas devem ser atribuídas claramente às respectivas fontes.",
+      "counterpoint": "Se havia militantes operando no hospital, como afirma Israel, essa acusação precisa ser demonstrada com evidências verificáveis, não apenas com um comunicado militar. E mesmo diante de um alvo legítimo, pacientes, médicos e civis não perdem sua proteção. Ao mesmo tempo, transformar um hospital em base militar, caso comprovado, também seria uma violação grave. O ponto não é escolher qual versão merece fé automática: é exigir provas, investigação e responsabilidade por cada morte. Um cessar-fogo que convive com ataques a hospitais expõe a distância entre a diplomacia e a segurança real dos civis.",
+      "sources": [
+        {
+          "name": "Reuters — Israeli strike on southern Gaza hospital kills six (12/11/2026)",
+          "url": "https://www.reuters.com/world/middle-east/israeli-strike-southern-gaza-hospital-kills-four-gaza-civil-defence-says-2026-11-11/"
+        },
+        {
+          "name": "Associated Press — Israeli strike on a Gaza hospital kills 6 people (12/11/2026)",
+          "url": "https://apnews.com/article/50b547b5a82388b6b415aee4d776fbfb"
+        },
+        {
+          "name": "Times of Israel — declaração de IDF e Shin Bet sobre o alvo (12/11/2026)",
+          "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-overnight-strike-on-gaza-hospital-targeted-top-hamas-commander-other-operatives/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Israeli_destruction_on_al-Seqaly_Street_in_Khan_Younis%2C_Gaza_War%2C_June_11_2024.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "credit": "Rawanmurad2025 / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Israeli_destruction_on_al-Seqaly_Street_in_Khan_Younis,_Gaza_War,_June_11_2024.jpg",
+          "caption": "FOTO DE ARQUIVO (11/06/2024): destruição na rua al-Seqaly, em Khan Younis, Faixa de Gaza. Rawanmurad2025 / Wikimedia Commons, CC BY-SA 4.0. Não mostra o Hospital Nasser nem o ataque de 12/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Israeli strike hits Nasser Hospital in Gaza, killing six including a surgeon",
+        "subtitle": "The strike damaged a surgical area in Khan Younis; Israel says it targeted Hamas members, but claims of military use of the hospital have not been independently verified.",
+        "facts": "An Israeli airstrike hit a building at Nasser Hospital in Khan Younis, southern Gaza, early on November 12, 2026. Gaza's civil defence reported at least six deaths, including surgeon Rezik Abushira, and about 20 people injured. Reuters and the Associated Press described damage to surgical and other hospital areas, with footage showing rubble, patients being evacuated and rescue workers at the scene. The casualty figures come from local health and civil-defence authorities and may change as further information emerges. Israel's military confirmed the operation, saying it targeted a Hamas commander and other members of the group allegedly hiding in the hospital complex. Israel alleged the facility was being used for military operations, but the claims were not independently substantiated in the reports reviewed. The strike occurred amid a ceasefire negotiated in 2025, which both sides accuse the other of violating.",
+        "analysis": "Nasser Hospital is among the most important medical facilities still operating in southern Gaza. Attacks on healthcare infrastructure compound the difficulty of treating patients amid shortages and widespread damage. International humanitarian law gives hospitals special protection. Allegations of military use do not automatically remove obligations to distinguish civilians from combatants, verify targets, take precautions and avoid disproportionate civilian harm. Determining whether this operation complied with the law requires an independent examination of its aims, methods and consequences. Both Israel's allegations about Hamas activities and Gaza authorities' casualty reports must be clearly attributed.",
+        "counterpoint": "If militants were operating inside the hospital, as Israel alleges, that claim requires verifiable evidence rather than a military statement alone. Even when a lawful military target exists, patients, medical workers and civilians remain protected. Conversely, using a hospital as a military base, if established, would itself be a serious violation. The task is not to accept either side's claims on faith, but to demand evidence, investigation and accountability. A ceasefire accompanied by strikes on hospitals highlights the gap between diplomacy and actual civilian safety.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (June 11, 2024): destruction on al-Seqaly Street in Khan Younis, Gaza Strip. Rawanmurad2025 / Wikimedia Commons, CC BY-SA 4.0. This does not show Nasser Hospital or the November 12, 2026 strike."
+        }
+      },
+      "es": {
+        "title": "Ataque israelí alcanza el Hospital Nasser en Gaza y deja seis muertos, entre ellos un cirujano",
+        "subtitle": "El bombardeo dañó una zona quirúrgica en Khan Younis; Israel afirma que atacó a miembros de Hamas, pero las acusaciones de uso militar del hospital no se han verificado de manera independiente.",
+        "facts": "Un ataque aéreo israelí alcanzó un edificio del Hospital Nasser, en Khan Younis, al sur de la Franja de Gaza, durante la madrugada del 12 de noviembre de 2026. La defensa civil de Gaza informó de al menos seis muertos, incluido el cirujano Rezik Abushira, y unos 20 heridos. Reuters y Associated Press describieron daños en áreas quirúrgicas y otras dependencias del hospital, con imágenes de escombros, evacuaciones de pacientes y equipos de rescate. Las cifras proceden de las autoridades sanitarias y de defensa civil locales y podrían cambiar. El Ejército israelí confirmó la operación y aseguró que buscaba a un comandante de Hamas y otros miembros del grupo presuntamente ocultos en el complejo. Israel sostuvo que las instalaciones se utilizaban para operaciones militares, pero las informaciones consultadas no aportaron una verificación independiente de esa afirmación. El ataque ocurrió durante un alto el fuego negociado en 2025, cuyo cumplimiento sigue siendo objeto de acusaciones cruzadas.",
+        "analysis": "El Hospital Nasser es uno de los principales centros médicos que siguen funcionando en el sur de Gaza. Los ataques contra infraestructuras sanitarias dificultan aún más la atención a los pacientes en medio de la escasez y la destrucción. El derecho internacional humanitario otorga protección especial a los hospitales. Una acusación de uso militar no elimina automáticamente la obligación de distinguir entre civiles y combatientes, verificar los objetivos, adoptar precauciones y evitar daños civiles desproporcionados. Determinar la legalidad de esta operación exige una investigación independiente de sus objetivos, métodos y consecuencias. Tanto las acusaciones de Israel sobre actividades de Hamas como los datos de víctimas difundidos por las autoridades de Gaza deben atribuirse con claridad.",
+        "counterpoint": "Si había combatientes dentro del hospital, como sostiene Israel, esa acusación necesita pruebas verificables y no solo un comunicado militar. Incluso ante un objetivo legítimo, los pacientes, los profesionales sanitarios y los civiles conservan su protección. A la vez, utilizar un hospital como base militar, si se demuestra, también sería una violación grave. No se trata de creer automáticamente a una de las partes, sino de exigir pruebas, investigación y responsabilidades. Un alto el fuego acompañado de ataques contra hospitales muestra la distancia entre la diplomacia y la seguridad real de los civiles.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (11 de junio de 2024): destrucción en la calle al-Seqaly, en Khan Younis, Franja de Gaza. Rawanmurad2025 / Wikimedia Commons, CC BY-SA 4.0. No muestra el Hospital Nasser ni el ataque del 12 de noviembre de 2026."
+        }
+      }
+    },
+    {
       "id": "russia-ucrania-ataques-capitais-enviados-eua-moscou-2026-11-12",
       "date": "2026-11-12",
       "title": "Rússia e Ucrânia trocam ataques às capitais enquanto enviados dos EUA chegam a Moscou",
