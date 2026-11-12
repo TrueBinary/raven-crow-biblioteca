@@ -5,7 +5,7 @@
   "updatedAt": "2026-11-12T10:05:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
-    {
+{
       "id": "petroleo-brent-sobe-3-dolares-ataques-arabia-saudita-ormuz-2026-11-12",
       "date": "2026-11-12",
       "category": "ECONOMIA",
@@ -34,7 +34,10 @@
         "facts": "Brent crude futures closed Thursday, November 12, 2026, at US$95.82 a barrel, up US$3.06 (3.3%). US West Texas Intermediate (WTI) settled at US$88.74, a rise of US$2.21 (2.6%). Prices climbed amid renewed concerns over Middle East oil supplies after Yemen's Houthis claimed attacks on a pumping station along Saudi Arabia's East-West pipeline, facilities in Yanbu and a Saudi Aramco building in Riyadh. The Saudi-led coalition said it intercepted two drones. The claims about targets hit and the extent of damage have not been independently confirmed. Shipping through the Strait of Hormuz also faces disruptions and threats. Reuters reported an Iranian claim that four tankers were hit but could not verify it. Despite the day's rise, both benchmarks were down roughly 2.5% for the week.",
         "analysis": "The rebound reflects renewed pricing of the risk to energy infrastructure and shipping routes, rather than necessarily indicating a confirmed loss of global production. Saudi Arabia's East-West pipeline and Yanbu terminal offer an alternative to the Strait of Hormuz. Higher prices could increase transport costs and inflationary pressure for importers, while inventories and diplomatic expectations continue to influence the market. The outlook depends on verified damage, export capacity and shipping security.",
         "counterpoint": "Oil prices jump whenever conflict threatens more infrastructure. But a claim of an attack is not proof of damage. Treating every military statement as established fact would turn journalism into propaganda. Consumers may face higher costs long before peace arrives.",
-        "category": "ECONOMY"
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (June 2, 2012): oil tanks at Ras Tanura port in Saudi Arabia. Ciacho5 / Wikimedia Commons (CC BY-SA 3.0). The image does not depict the November 2026 attacks or any reported damage at Yanbu."
+        }
       },
       "es": {
         "title": "El Brent cierra en US$95,82 ante amenazas a instalaciones saudíes y tensión en Ormuz",
@@ -42,10 +45,24 @@
         "facts": "Los futuros del petróleo Brent cerraron el jueves 12 de noviembre de 2026 en US$95,82 por barril, con un alza de US$3,06 (3,3%). El West Texas Intermediate (WTI) estadounidense terminó en US$88,74, un avance de US$2,21 (2,6%). Los precios subieron por nuevas preocupaciones sobre el suministro de Oriente Medio después de que los hutíes de Yemen reivindicaran ataques contra una estación de bombeo del oleoducto Este-Oeste de Arabia Saudita, instalaciones en Yanbu y un edificio de Saudi Aramco en Riad. La coalición liderada por Arabia Saudita afirmó haber interceptado dos drones. Ni los objetivos alcanzados ni la magnitud de los daños han sido confirmados de forma independiente. El tráfico marítimo por el estrecho de Ormuz también afronta interrupciones y amenazas. Reuters informó que Irán afirmó que cuatro petroleros fueron alcanzados, pero no pudo verificarlo. Pese a la subida diaria, ambas referencias acumulaban una caída cercana al 2,5% en la semana.",
         "analysis": "El repunte refleja una nueva prima de riesgo para la infraestructura energética y las rutas marítimas, no necesariamente una pérdida confirmada de producción mundial. El oleoducto Este-Oeste y la terminal de Yanbu ofrecen una alternativa al estrecho de Ormuz. Un petróleo más caro puede presionar el transporte y la inflación de los países importadores, mientras las reservas y las expectativas diplomáticas siguen influyendo en los precios. La evolución dependerá de daños comprobados, capacidad exportadora y seguridad marítima.",
         "counterpoint": "El petróleo sube cada vez que el conflicto amenaza más infraestructura. Pero reivindicar un ataque no demuestra que haya causado daños. Dar por cierta toda declaración militar sería convertir el periodismo en propaganda. Los consumidores pueden pagar el precio mucho antes de que llegue la paz.",
-        "category": "ECONOMÍA"
-      }
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (02/06/2012): depósitos de petróleo del puerto de Ras Tanura, Arabia Saudita. Ciacho5 / Wikimedia Commons (CC BY-SA 3.0). No muestra los ataques de noviembre de 2026 ni los supuestos daños en Yanbu."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/RarTanura434.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "credit": "Ciacho5 / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:RarTanura434.jpg",
+          "caption": "FOTO DE ARQUIVO (02/06/2012): tanques de petróleo no porto de Ras Tanura, na Arábia Saudita. Ciacho5 / Wikimedia Commons (CC BY-SA 3.0). Não retrata os ataques de novembro de 2026 nem os danos reivindicados em Yanbu."
+        }
+      ]
     },
-    {
+{
       "id": "corteva-acoes-despencam-crise-agro-brasil-revisao-lucro-2026-11-12",
       "date": "2026-11-12",
       "category": "ECONOMIA",
@@ -74,7 +91,10 @@
         "facts": "Shares of US crop-protection company Corteva fell sharply on Thursday, November 12, 2026, after it lowered its full-year earnings outlook. The company said weakness in Brazil was a major factor: farmers face expensive financing, liquidity constraints and pricing pressure, while excess distributor inventory has delayed purchases. In results released on November 11, Corteva reported third-quarter global revenue of US$1.59 billion, down 9% year over year, and a pro forma loss of US$54 million. Organic sales in Latin America declined 31%. Its 2026 adjusted operating EBITDA forecast was lowered to US$1.1 billion–US$1.125 billion. Reuters reported that shares were down around 20% during Thursday's session; the market price fluctuated throughout the day.",
         "analysis": "The results highlight how high interest rates, tight credit and excess inventory can ripple through Brazil's agricultural input supply chain. Weaker purchasing does not necessarily imply an equivalent drop in farm output, but it affects suppliers, distributors and investors. Corteva-specific factors, including the recent separation of its seeds business, also matter. Upcoming earnings will help show whether the weakness is temporary or extends into 2027.",
         "counterpoint": "When borrowing costs rise and farmers postpone buying inputs, the impact can reach US stock markets. But attributing the entire share-price decline to one Brazilian policy would ignore inventories, competition, pricing and Corteva's own business decisions.",
-        "category": "ECONOMY"
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (March 20, 2016): soybean field in Brasnorte, Mato Grosso, Brazil. Marcelo Camargo / Agência Brasil (CC BY 3.0 BR). Illustrates Brazilian agriculture; it does not document Corteva's 2026 results."
+        }
       },
       "es": {
         "title": "Las acciones de Corteva se desploman por la debilidad del agro brasileño y el recorte de previsiones",
@@ -82,10 +102,24 @@
         "facts": "Las acciones de la estadounidense Corteva, especializada en protección de cultivos, cayeron con fuerza el jueves 12 de noviembre de 2026 después de que la empresa recortara sus previsiones anuales. La compañía atribuyó buena parte del deterioro a Brasil: los agricultores afrontan financiación costosa, falta de liquidez y presión sobre los precios, mientras los inventarios acumulados en la distribución retrasan nuevas compras. En sus resultados publicados el 11 de noviembre, Corteva informó ingresos globales de US$1.590 millones en el tercer trimestre, un 9% menos interanual, y pérdidas pro forma de US$54 millones. Las ventas orgánicas de América Latina bajaron un 31%. Su previsión de EBITDA operativo ajustado para 2026 quedó entre US$1.100 millones y US$1.125 millones. Reuters informó de una caída cercana al 20% de las acciones durante la sesión del jueves; la cotización varió a lo largo del día.",
         "analysis": "Los resultados muestran cómo los intereses elevados, la restricción del crédito y los inventarios excesivos afectan a la cadena de insumos agrícolas brasileña. Menores compras no implican necesariamente una caída equivalente de la producción, pero perjudican a proveedores, distribuidores e inversores. También influyen factores propios de Corteva, incluida la reciente separación de su negocio de semillas. Los próximos balances permitirán evaluar si la debilidad persiste en 2027.",
         "counterpoint": "Cuando el crédito se encarece y el agricultor aplaza la compra de insumos, el efecto llega incluso a Wall Street. Pero atribuir toda la caída bursátil a una sola política brasileña ignoraría los inventarios, los precios, la competencia y las decisiones de la propia compañía.",
-        "category": "ECONOMÍA"
-      }
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (20/03/2016): cultivo de soja en Brasnorte, Mato Grosso, Brasil. Marcelo Camargo / Agência Brasil (CC BY 3.0 BR). Ilustra la agricultura brasileña; no documenta los resultados de Corteva en 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/SojaBrasnorte.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution 3.0 Brazil (CC BY 3.0 BR), Agência Brasil",
+          "credit": "Marcelo Camargo / Agência Brasil, via Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:SojaBrasnorte.jpg",
+          "caption": "FOTO DE ARQUIVO (20/03/2016): lavoura de soja em Brasnorte, Mato Grosso. Marcelo Camargo / Agência Brasil (CC BY 3.0 BR). Imagem ilustrativa da agricultura brasileira, sem relação direta com os resultados da Corteva em 2026."
+        }
+      ]
     },
-    {
+{
       "id": "caixa-vida-previdencia-vazamento-dados-76-milhoes-2026-11-12",
       "date": "2026-11-12",
       "category": "TECNOLOGIA",
@@ -114,7 +148,10 @@
         "facts": "Caixa Vida e Previdência (CVP), a company associated with Caixa Seguridade, confirmed on November 12, 2026, a cyber incident first identified on November 6. According to the company, attackers gained unauthorized access and copied personal and registration data outside its systems. The affected database includes 7.6 million active customers and former customers, whose total number has not been disclosed. Names and Brazilian taxpayer identification numbers (CPFs) were among the affected information; some records also included addresses, telephone numbers, email addresses and dates of birth. The company said it contained the intrusion, strengthened security, hired external specialists to investigate and notified ANPD (Brazil's National Data Protection Authority). Preliminary findings disclosed by the company show no evidence that passwords, authentication credentials, financial or banking data were compromised. Affected customers are being notified. The CVP incident does not, by itself, establish that Caixa Econômica Federal checking accounts or its Pix payment system were breached.",
         "analysis": "Even without evidence of stolen passwords or unauthorized financial transactions, exposed customer records can facilitate fraud. Names, identification numbers and contact details may help criminals impersonate bank or insurance staff in convincing phishing attempts. Investigators have yet to determine the full extent of copied records or whether they were misused. Clear notification, effective anti-fraud guidance and scrutiny of the security failures will be central to evaluating the response.",
         "counterpoint": "When criminals access a database containing millions of customer records, reassurance that passwords were not exposed matters — but it does not settle the issue. Names, identification numbers and phone numbers can still be exploited in scams. The public deserves explanations and effective safeguards, without false claims that every affected customer's money was stolen.",
-        "category": "TECHNOLOGY"
+        "category": "TECHNOLOGY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (August 14, 2016): Caixa Econômica Federal branch in Paratinga, Bahia, Brazil. Fronteira / Wikimedia Commons (CC BY-SA 4.0). Illustrative institutional image, not a facility of Caixa Vida e Previdência or a record of the 2026 cyber incident."
+        }
       },
       "es": {
         "title": "URGENTE: ciberataque a Caixa Vida e Previdência expone datos de una base con 7,6 millones de clientes",
@@ -122,10 +159,24 @@
         "facts": "Caixa Vida e Previdência (CVP), empresa vinculada a Caixa Seguridade, confirmó el 12 de noviembre de 2026 un incidente cibernético detectado el 6 de noviembre. Según la compañía, los atacantes accedieron sin autorización a sus sistemas y copiaron datos personales y de registro fuera de su entorno tecnológico. La base afectada incluye 7,6 millones de clientes activos y registros de antiguos clientes, cuyo número total no fue divulgado. Entre los datos comprometidos figuran nombres y números de identificación fiscal brasileños (CPF); algunos registros también contenían direcciones, teléfonos, correos electrónicos y fechas de nacimiento. La empresa afirmó haber contenido el acceso, reforzado sus sistemas, contratado especialistas externos y notificado a la ANPD (Autoridad Nacional de Protección de Datos de Brasil). La investigación preliminar no encontró indicios de compromiso de contraseñas, credenciales de autenticación, información financiera o bancaria. La compañía está notificando a los afectados. El incidente en CVP no demuestra, por sí mismo, que las cuentas corrientes de Caixa Econômica Federal ni su sistema de pagos Pix hayan sido vulnerados.",
         "analysis": "La exposición de datos de registro puede facilitar estafas incluso sin evidencia de robo de contraseñas o movimientos bancarios. Nombres, identificaciones y datos de contacto permiten elaborar mensajes fraudulentos que imitan a bancos o aseguradoras. La cantidad exacta de registros copiados y su posible uso indebido siguen bajo investigación. La información transparente a los clientes, la prevención de fraudes y el examen de las fallas de seguridad serán fundamentales.",
         "counterpoint": "Cuando delincuentes acceden a una base con millones de registros, aclarar que las contraseñas no fueron afectadas es importante, pero no resuelve todo. Nombres, identificaciones y teléfonos también pueden utilizarse en estafas. Hace falta exigir explicaciones y protección real, sin difundir que se robó el dinero de todos los clientes afectados.",
-        "category": "TECNOLOGÍA"
-      }
+        "category": "TECNOLOGÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (14/08/2016): sucursal de Caixa Econômica Federal en Paratinga, Bahía, Brasil. Fronteira / Wikimedia Commons (CC BY-SA 4.0). Imagen institucional ilustrativa, no de Caixa Vida e Previdência ni del incidente informático de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ag%C3%AAncia_Caixa_Econ%C3%B4mica_Federal%2C_Paratinga%2C_2016.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "credit": "Fronteira / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Ag%C3%AAncia_Caixa_Econ%C3%B4mica_Federal,_Paratinga,_2016.jpg",
+          "caption": "FOTO DE ARQUIVO (14/08/2016): agência da Caixa Econômica Federal em Paratinga, Bahia. Fronteira / Wikimedia Commons (CC BY-SA 4.0). Imagem institucional ilustrativa, não é da Caixa Vida e Previdência nem do incidente cibernético de 2026."
+        }
+      ]
     },
-    {
+{
       "id": "reino-unido-sanciona-dez-maiores-petroleiras-russas-slavneft-2026-11-12",
       "date": "2026-11-12",
       "category": "MUNDO",
@@ -154,7 +205,10 @@
         "facts": "On Thursday, November 12, 2026, the UK government announced new sanctions targeting Russia's energy sector. Adding oil producer Slavneft means Britain has now sanctioned all ten of Russia's largest oil producers, according to the British government's official statement. The package also covers vessels involved in transporting Russian oil and liquefied natural gas (LNG), major coal companies and Rosneft's Vostok Oil project. The announcement coincided with a European Political Community summit in Dublin, where Prime Minister Andy Burnham planned to discuss the war in Ukraine and peace negotiations with other leaders. The UK's official sanctions register was updated on November 12. Reuters also reported the measures. The claim about all ten major producers comes from the British government; it does not mean Russian oil exports have stopped.",
         "analysis": "London says the goal is to raise the economic cost of the war for Moscow by restricting energy revenues and transport networks. The actual impact will depend on enforcement, alternative buyers, global prices and sanctions-evasion routes. Restrictions on companies and vessels can complicate trade but do not amount to a physical blockade of Russian oil. The move comes alongside diplomatic efforts over Ukraine, and its economic effects remain to be assessed.",
         "counterpoint": "Britain is trying to target war funding rather than promise that a signature will end the conflict. Cutting revenues may increase pressure on Moscow, but the real test is enforcement: oil does not stop moving simply because a government publishes a list. Effects on prices and consumers also deserve scrutiny.",
-        "category": "WORLD"
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (April 13, 2010): oil exploration drilling rig in Russia's Evenkiysky District, catalogued under Slavneft on Wikimedia Commons. ShavPS / Wikimedia Commons (CC BY-SA 3.0). Not the UK's November 12, 2026 sanctions announcement."
+        }
       },
       "es": {
         "title": "Reino Unido sanciona a Slavneft y alcanza a las diez mayores petroleras de Rusia",
@@ -162,8 +216,22 @@
         "facts": "El jueves 12 de noviembre de 2026, el Gobierno británico anunció nuevas sanciones contra el sector energético ruso. Con la inclusión de la petrolera Slavneft, el Reino Unido se convierte, según su comunicado oficial, en el primer país que sanciona a las diez mayores productoras de petróleo de Rusia. Las medidas también afectan a buques vinculados al transporte de petróleo y gas natural licuado (GNL), grandes empresas carboneras y el proyecto Vostok Oil, asociado a Rosneft. El anuncio coincidió con la cumbre de la Comunidad Política Europea en Dublín, donde el primer ministro Andy Burnham tenía previsto tratar la guerra en Ucrania y las negociaciones de paz con otros dirigentes. El registro oficial británico de sanciones fue actualizado el 12 de noviembre. Reuters también informó de las medidas. La afirmación sobre las diez principales productoras procede del Gobierno británico; no implica que hayan cesado las exportaciones rusas.",
         "analysis": "Londres sostiene que busca aumentar el coste económico de la guerra para Moscú limitando los ingresos energéticos y las redes de transporte. El efecto real dependerá de la aplicación de las medidas, los compradores alternativos, los precios internacionales y las posibles vías para eludirlas. Las sanciones a empresas y buques pueden dificultar el comercio, pero no constituyen un bloqueo físico del petróleo ruso. La iniciativa coincide con esfuerzos diplomáticos sobre Ucrania y sus efectos económicos aún deben evaluarse.",
         "counterpoint": "El Reino Unido intenta golpear la financiación de la guerra, no prometer que una firma resolverá el conflicto. Reducir ingresos puede aumentar la presión sobre Moscú, pero la prueba será la aplicación: el petróleo no deja de circular solo porque un gobierno publique una lista. También hay que vigilar las consecuencias para los precios y los consumidores.",
-        "category": "MUNDO"
-      }
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (13/04/2010): torre de exploración petrolera en el distrito de Evenkiysky, Rusia, catalogada bajo Slavneft en Wikimedia Commons. ShavPS / Wikimedia Commons (CC BY-SA 3.0). No muestra el anuncio británico de sanciones del 12/11/2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Kordinskaya_oil_exploration_drilling_rig_in_Evenkiysky_District.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "credit": "ShavPS / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Kordinskaya_oil_exploration_drilling_rig_in_Evenkiysky_District.jpg",
+          "caption": "FOTO DE ARQUIVO (13/04/2010): instalação de exploração de petróleo na região de Evenkiysky, Rússia, classificada no acervo da Slavneft. ShavPS / Wikimedia Commons (CC BY-SA 3.0). Não representa o anúncio britânico de sanções de 12/11/2026."
+        }
+      ]
     },
     {
       "id": "ataque-tiros-academia-washington-logan-circle-2026-11-12",
@@ -568,7 +636,7 @@
         }
       ]
     },
-    {
+{
       "id": "desabamento-brooklyn-nova-york-oito-mortos-2026-11-12",
       "date": "2026-11-12",
       "category": "MUNDO",
@@ -597,7 +665,10 @@
         "facts": "Eight people have died after a three-story building collapsed in Flatbush, Brooklyn, New York, according to a November 12, 2026 update attributed to Mayor Zohran Mamdani and reported by the Associated Press and The Washington Post. The building fell on Wednesday afternoon, November 11, beside a site where excavation work was underway for a new development. At least 17 people were injured, including emergency responders. More than 250 firefighters, police officers and rescuers searched the rubble using dogs and hand tools. A woman and a family with two children were rescued alive. The cause remains under investigation; the adjacent excavation has not been established as the cause. Earlier Reuters and AFP reports cited two deaths, before AP and The Washington Post reported the higher toll. The figures may change as searches continue.",
         "analysis": "The excavation next door and the fact that debris fell into the construction pit are important investigative details, but neither establishes responsibility without engineering findings. Emergency teams warned that unstable rubble created further danger during rescue work. Rapidly changing casualty counts also show why early headlines require careful updating. The disaster raises questions about structural inspections and safeguards around construction sites in densely populated neighborhoods.",
         "counterpoint": "A city that keeps building upward must ensure the ground does not give way beneath its existing residents. Demanding inspections and accountability is reasonable; blaming the neighboring excavation before a technical investigation is not. The immediate priorities are finding survivors and determining what went wrong.",
-        "category": "WORLD"
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (December 5, 2012): apartment buildings on a street in Flatbush, Brooklyn, New York. Downtowngal / Wikimedia Commons (CC BY-SA 3.0). It does not show the collapsed building or the November 11–12, 2026 rescue operations."
+        }
       },
       "es": {
         "title": "URGENTE: aumentan a ocho los muertos por el derrumbe de un edificio en Brooklyn, Nueva York",
@@ -605,8 +676,22 @@
         "facts": "Ocho personas murieron tras el derrumbe de un edificio de tres pisos en Flatbush, Brooklyn, Nueva York, según el balance del 12 de noviembre de 2026 atribuido al alcalde Zohran Mamdani y publicado por Associated Press y The Washington Post. El edificio se desplomó la tarde del miércoles 11 de noviembre junto a un terreno donde se realizaban excavaciones para una nueva construcción. Al menos 17 personas resultaron heridas, incluidos miembros de los servicios de emergencia. Más de 250 bomberos, policías y rescatistas participaron en la búsqueda con perros y herramientas manuales. Una mujer y una familia con dos niños fueron rescatadas con vida. La causa sigue bajo investigación; no se ha demostrado que las excavaciones vecinas provocaran el derrumbe. Los primeros informes de Reuters y AFP mencionaban dos fallecidos, cifra actualizada posteriormente por AP y The Washington Post. El balance podría cambiar mientras continúan las labores.",
         "analysis": "La excavación cercana y los escombros que cayeron en ella son elementos importantes para la investigación, pero no permiten atribuir responsabilidades sin un peritaje técnico. Los equipos de emergencia advirtieron del peligro de nuevos desprendimientos durante el rescate. La rápida evolución del número de víctimas exige actualizar las noticias con cautela. La tragedia plantea preguntas sobre inspecciones estructurales y medidas de seguridad en obras situadas en barrios densamente poblados.",
         "counterpoint": "Una ciudad que construye cada vez más alto debe asegurarse de que el suelo no desaparezca bajo los pies de sus habitantes. Exigir controles y responsabilidades es razonable; culpar a las excavaciones vecinas antes de una investigación técnica no lo es. La prioridad inmediata es encontrar sobrevivientes y esclarecer qué falló.",
-        "category": "MUNDO"
-      }
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (05/12/2012): edificios de viviendas en una calle de Flatbush, Brooklyn, Nueva York. Downtowngal / Wikimedia Commons (CC BY-SA 3.0). No muestra el edificio derrumbado ni los rescates del 11 y 12/11/2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flatbush_side_street.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "credit": "Downtowngal / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Flatbush_side_street.jpg",
+          "caption": "FOTO DE ARQUIVO (05/12/2012): edifícios residenciais em uma rua de Flatbush, Brooklyn, Nova York. Downtowngal / Wikimedia Commons (CC BY-SA 3.0). Não mostra o prédio que desabou nem as operações de resgate de 11 e 12/11/2026."
+        }
+      ]
     },
     {
       "id": "falha-linha-8-diamante-passageiros-caminham-trilhos-carapicuiba-2026-11-12",
