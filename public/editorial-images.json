@@ -252,7 +252,9 @@
     "ataque-tiros-academia-washington-logan-circle-2026-11-12": "editorial/photos/ataque-tiros-academia-washington-logan-circle-2026-11-12.jpg",
     "putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12": "editorial/photos/putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12.jpg",
     "petroleiro-atingido-projetil-emirados-tripulacao-evacuada-2026-11-12": "editorial/photos/petroleiro-atingido-projetil-emirados-tripulacao-evacuada-2026-11-12.jpg",
-    "g7-alerta-acoes-china-leste-taiwan-navegacao-2026-11-12": "editorial/photos/g7-alerta-acoes-china-leste-taiwan-navegacao-2026-11-12.jpg"
+    "g7-alerta-acoes-china-leste-taiwan-navegacao-2026-11-12": "editorial/photos/g7-alerta-acoes-china-leste-taiwan-navegacao-2026-11-12.jpg",
+    "africa-do-sul-decimo-preso-recrutamento-guerra-ucrania-2026-11-12": "editorial/photos/africa-do-sul-decimo-preso-recrutamento-guerra-ucrania-2026-11-12.jpg",
+    "ipca-outubro-014-inflacao-12-meses-463-2026-11-12": "editorial/photos/ipca-outubro-014-inflacao-12-meses-463-2026-11-12.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -938,6 +940,18 @@
       "srcset": "editorial/photos/g7-alerta-acoes-china-leste-taiwan-navegacao-2026-11-12-320.webp 320w, editorial/photos/g7-alerta-acoes-china-leste-taiwan-navegacao-2026-11-12-640.webp 640w, editorial/photos/g7-alerta-acoes-china-leste-taiwan-navegacao-2026-11-12-960.webp 960w, editorial/photos/g7-alerta-acoes-china-leste-taiwan-navegacao-2026-11-12-1280.webp 1280w",
       "width": 1280,
       "height": 888
+    },
+    "africa-do-sul-decimo-preso-recrutamento-guerra-ucrania-2026-11-12": {
+      "src": "editorial/photos/africa-do-sul-decimo-preso-recrutamento-guerra-ucrania-2026-11-12-1280.webp",
+      "srcset": "editorial/photos/africa-do-sul-decimo-preso-recrutamento-guerra-ucrania-2026-11-12-320.webp 320w, editorial/photos/africa-do-sul-decimo-preso-recrutamento-guerra-ucrania-2026-11-12-640.webp 640w, editorial/photos/africa-do-sul-decimo-preso-recrutamento-guerra-ucrania-2026-11-12-960.webp 960w, editorial/photos/africa-do-sul-decimo-preso-recrutamento-guerra-ucrania-2026-11-12-1280.webp 1280w",
+      "width": 1280,
+      "height": 901
+    },
+    "ipca-outubro-014-inflacao-12-meses-463-2026-11-12": {
+      "src": "editorial/photos/ipca-outubro-014-inflacao-12-meses-463-2026-11-12-1280.webp",
+      "srcset": "editorial/photos/ipca-outubro-014-inflacao-12-meses-463-2026-11-12-320.webp 320w, editorial/photos/ipca-outubro-014-inflacao-12-meses-463-2026-11-12-640.webp 640w, editorial/photos/ipca-outubro-014-inflacao-12-meses-463-2026-11-12-960.webp 960w, editorial/photos/ipca-outubro-014-inflacao-12-meses-463-2026-11-12-1280.webp 1280w",
+      "width": 1280,
+      "height": 852
     }
   }
 }
