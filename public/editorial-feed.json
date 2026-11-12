@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12",
+      "date": "2026-11-12",
+      "category": "MUNDO",
+      "title": "Putin ameaça tropas estrangeiras na Ucrânia durante nova rodada de negociações com os EUA",
+      "subtitle": "Presidente russo rejeita forças europeias em eventual acordo; emissários americanos relatam possível participação da Europa em futuras conversas, ainda sem consenso.",
+      "facts": "O presidente russo Vladimir Putin afirmou nesta quinta-feira, 12 de novembro de 2026, que a presença de tropas estrangeiras na Ucrânia após um eventual acordo de paz poderia provocar nova guerra e que essas forças seriam tratadas como alvos, segundo Reuters, Associated Press e The Guardian. Putin se reuniu em Moscou com os enviados americanos Steve Witkoff e Jared Kushner. Witkoff afirmou que representantes europeus poderão participar da próxima rodada de negociações, mas o assessor do Kremlin Yuri Ushakov não confirmou esse entendimento e a Associated Press relatou oposição russa à participação europeia. Os enviados devem seguir para Dublin para conversar com o presidente ucraniano Volodymyr Zelenskyy. Permanecem divergências sobre territórios ocupados, garantias de segurança e eventual presença militar europeia. Não foi anunciado cessar-fogo nem acordo definitivo. Zelenskyy também relatou novas restrições ao serviço de comunicação militar Starshield, com impacto nas operações ucranianas; o relato não equivale a uma confirmação independente da causa das interrupções.",
+      "analysis": "A rodada diplomática expõe a distância entre a abertura para conversas e um acordo viável. A Rússia insiste em demandas territoriais e rejeita tropas europeias como garantia de segurança, enquanto a Ucrânia resiste a ceder áreas ainda sob seu controle. A participação europeia é um ponto contestado: a declaração de Witkoff não deve ser apresentada como compromisso formal aceito por Moscou. Sem consenso sobre garantias e fronteiras, novas reuniões podem manter o diálogo aberto sem produzir paz imediata.",
+      "counterpoint": "Negociar a paz enquanto se ameaça atacar qualquer força estrangeira é uma diplomacia peculiar: a mesa de conversa vem acompanhada de um aviso de artilharia. Ainda assim, é melhor testar propostas verificáveis do que vender otimismo vazio. Um acordo precisa respeitar a segurança dos ucranianos e não pode confundir ocupação militar com consentimento.",
+      "sources": [
+        {
+          "name": "Reuters — Putin e enviados dos EUA discutem negociações de paz, 12/11/2026",
+          "url": "https://www.reuters.com/world/europe/us-envoys-arrive-moscow-latest-round-ukrainian-peace-talks-with-putin-2026-11-12/"
+        },
+        {
+          "name": "Associated Press — enviados americanos se reúnem com Putin, 12/11/2026",
+          "url": "https://apnews.com/article/683810203340077f33611fd1d1757b23"
+        },
+        {
+          "name": "The Guardian — Putin ameaça tropas estrangeiras na Ucrânia, 12/11/2026",
+          "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink"
+        }
+      ],
+      "en": {
+        "title": "Putin threatens foreign troops in Ukraine during new US-led peace talks",
+        "subtitle": "Russia's president rejects European forces under a potential settlement; US envoys suggest Europe could join future talks, but no agreement has been confirmed.",
+        "facts": "Russian President Vladimir Putin said on November 12, 2026, that foreign troops deployed in Ukraine after a possible peace settlement could trigger renewed war and would be treated as targets, according to Reuters, the Associated Press and The Guardian. Putin met US envoys Steve Witkoff and Jared Kushner in Moscow. Witkoff said European representatives could join the next round of talks, but Kremlin aide Yuri Ushakov did not confirm the arrangement, while the Associated Press reported Russian opposition to European participation. The envoys are expected to travel to Dublin for talks with Ukrainian President Volodymyr Zelenskyy. Major disagreements remain over occupied territory, security guarantees and European troops. No ceasefire or final settlement has been announced. Zelenskyy also reported new restrictions on the Starshield military communications service affecting Ukrainian operations; the cause of the disruptions has not been independently established.",
+        "analysis": "The talks show the gap between reopening dialogue and reaching a workable settlement. Russia continues to demand territory and rejects European troops as a security guarantee, while Ukraine opposes surrendering land it still controls. European participation remains disputed: Witkoff's remarks are not a formally confirmed commitment from Moscow. Without agreement on borders and security, further meetings may sustain diplomacy without delivering immediate peace.",
+        "counterpoint": "Threatening to attack foreign forces while discussing peace is an unusual form of diplomacy: the negotiating table comes with an artillery warning. Still, testing verifiable proposals is better than selling empty optimism. Any settlement must address Ukrainians' security and cannot mistake military occupation for consent.",
+        "category": "WORLD",
+        "slug": "putin-threatens-foreign-troops-in-ukraine-during-new-us-led-peace-talks-2026-11-12"
+      },
+      "es": {
+        "title": "Putin amenaza a tropas extranjeras en Ucrania durante nuevas negociaciones con Estados Unidos",
+        "subtitle": "El presidente ruso rechaza fuerzas europeas en un posible acuerdo; enviados estadounidenses plantean la participación de Europa en futuras conversaciones, aún sin consenso.",
+        "facts": "El presidente ruso Vladimir Putin afirmó el 12 de noviembre de 2026 que el despliegue de tropas extranjeras en Ucrania después de un eventual acuerdo de paz podría desencadenar otra guerra y que esas fuerzas serían consideradas objetivos, según Reuters, Associated Press y The Guardian. Putin se reunió en Moscú con los enviados estadounidenses Steve Witkoff y Jared Kushner. Witkoff dijo que representantes europeos podrían participar en la próxima ronda, pero el asesor del Kremlin Yuri Ushakov no confirmó ese entendimiento y Associated Press informó de la oposición rusa a la participación europea. Los enviados tienen previsto viajar a Dublín para reunirse con el presidente ucraniano Volodymyr Zelenskyy. Persisten diferencias sobre los territorios ocupados, las garantías de seguridad y una eventual presencia militar europea. No se ha anunciado un alto el fuego ni un acuerdo definitivo. Zelenskyy también denunció nuevas restricciones al servicio de comunicaciones militares Starshield que afectan a las operaciones ucranianas; la causa de las interrupciones no se ha confirmado de forma independiente.",
+        "analysis": "La ronda diplomática muestra la distancia entre reabrir el diálogo y alcanzar un acuerdo viable. Rusia mantiene sus exigencias territoriales y rechaza tropas europeas como garantía de seguridad, mientras Ucrania se opone a entregar las zonas que aún controla. La participación europea sigue en disputa: las declaraciones de Witkoff no constituyen un compromiso formal confirmado por Moscú. Sin consenso sobre fronteras y seguridad, nuevas reuniones podrían mantener el diálogo sin producir una paz inmediata.",
+        "counterpoint": "Amenazar con atacar fuerzas extranjeras mientras se negocia la paz es una diplomacia peculiar: la mesa de diálogo viene acompañada de una advertencia de artillería. Aun así, es preferible examinar propuestas verificables antes que vender optimismo vacío. Un acuerdo debe proteger la seguridad de los ucranianos y no confundir ocupación militar con consentimiento.",
+        "category": "MUNDO",
+        "slug": "putin-amenaza-a-tropas-extranjeras-en-ucrania-durante-nuevas-negociaciones-con-2026-11-12"
+      },
+      "firstSeen": "2026-11-12T10:05:00-03:00"
+    },
+    {
       "id": "petroleiro-atingido-projetil-emirados-tripulacao-evacuada-2026-11-12",
       "date": "2026-11-12",
       "category": "MUNDO",
