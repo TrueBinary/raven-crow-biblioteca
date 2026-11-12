@@ -6,6 +6,46 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "g7-alerta-acoes-china-leste-taiwan-navegacao-2026-11-12",
+      "date": "2026-11-12",
+      "category": "MUNDO",
+      "title": "G7 alerta que ações da China a leste de Taiwan ameaçam navegação e estabilidade regional",
+      "subtitle": "Declaração conjunta divulgada após encontro em Paris condena coerção e pede solução pacífica; Pequim rejeita críticas, e Taiwan agradece apoio.",
+      "facts": "Os ministros das Relações Exteriores do G7 divulgaram em 11 de novembro de 2026 uma declaração conjunta após reuniões em Paris, realizadas nos dias 9 e 10, alertando que a atividade cada vez mais assertiva da China nas águas a leste de Taiwan ameaça a estabilidade regional, a liberdade de navegação e a segurança do transporte marítimo internacional. O texto, publicado oficialmente pelo governo britânico, rejeita tentativas unilaterais de alterar a situação existente por força, coerção ou ameaças e defende diálogo para resolver as divergências entre Pequim e Taipei. Em 12 de novembro, Taiwan agradeceu a manifestação e prometeu reforçar sua capacidade de defesa. Autoridades taiwanesas dizem que patrulhas chinesas podem servir de ensaio para um bloqueio marítimo, mas essa interpretação não é prova de que um bloqueio tenha sido decidido ou iniciado. A China reivindica soberania sobre Taiwan, que possui governo próprio e rejeita essa reivindicação. Segundo a Reuters, Pequim criticou o comunicado do G7 como interferência em assuntos internos. O documento não anuncia novas sanções nem ação militar.",
+      "analysis": "A posição conjunta amplia a pressão diplomática sobre Pequim num ponto sensível para cadeias de abastecimento e rotas marítimas da Ásia. Para Taiwan, as águas orientais são relevantes para eventuais linhas de suprimento em uma crise. O alerta do G7 demonstra preocupação com coerção e risco de erro de cálculo, mas não equivale a uma declaração de guerra ou a confirmação de bloqueio. O desafio dos governos envolvidos é preservar o comércio e evitar incidentes entre embarcações, mantendo canais de comunicação abertos.",
+      "counterpoint": "O mar não vira propriedade exclusiva de um governo porque ele resolveu desenhar uma linha no mapa. O G7 tem razão em cobrar navegação segura, mas comunicados solenes só valem alguma coisa quando são acompanhados de diplomacia consistente. Taiwan não pode ser tratada como peça descartável de um jogo entre potências; tampouco é responsável anunciar uma guerra que não começou.",
+      "sources": [
+        {
+          "name": "Governo do Reino Unido — declaração oficial dos ministros do G7, 11/11/2026",
+          "url": "https://www.gov.uk/government/news/joint-declaration-following-the-g7-foreign-ministers-meeting-in-paris"
+        },
+        {
+          "name": "Reuters — G7 alerta para atividade chinesa a leste de Taiwan, 12/11/2026",
+          "url": "https://www.reuters.com/world/china/g7-foreign-ministers-say-chinas-actions-east-taiwan-threaten-stability-2026-11-12/"
+        },
+        {
+          "name": "Central News Agency de Taiwan — comunicado e reação de Taipei, 12/11/2026",
+          "url": "https://www.cna.com.tw/news/aipl/202611120003.aspx"
+        }
+      ],
+      "en": {
+        "title": "G7 warns China's activities east of Taiwan threaten shipping and regional stability",
+        "subtitle": "Joint statement after Paris meeting opposes coercion and calls for peaceful dialogue; Beijing rejects criticism and Taipei welcomes the support.",
+        "facts": "G7 foreign ministers issued a joint declaration on November 11, 2026, following meetings in Paris on November 9 and 10. The statement, published by the UK government, says China's increasingly assertive activities in waters east of Taiwan threaten regional stability, freedom of navigation and international shipping safety. The ministers oppose unilateral changes to the status quo through force, coercion or threats and encourage peaceful cross-strait dialogue. On November 12, Taiwan welcomed the declaration and pledged to strengthen its defences. Taiwanese officials suspect Chinese coast guard patrols may be preparations for a maritime blockade, but that assessment does not establish that a blockade has been ordered or begun. China claims sovereignty over self-governed Taiwan, which rejects Beijing's claim. Reuters reported that Beijing denounced the G7 statement as interference in its internal affairs. The declaration does not announce sanctions or military action.",
+        "analysis": "The joint position increases diplomatic pressure on Beijing in a strategically important area for Asian trade and supply chains. Taiwan considers its eastern waters vital to possible resupply routes in a crisis. The G7 warning highlights the risk of coercion and miscalculation, but is neither a declaration of war nor evidence of an active blockade. The challenge is to keep shipping safe, prevent incidents between vessels and preserve communication channels.",
+        "counterpoint": "A stretch of sea does not become one government's exclusive property just because it draws a line on a map. The G7 is right to demand safe navigation, but statements matter only when backed by sustained diplomacy. Taiwan should not be treated as a disposable piece in a contest between powers; nor should anyone announce a war that has not begun.",
+        "category": "WORLD"
+      },
+      "es": {
+        "title": "El G7 advierte que las actividades de China al este de Taiwán amenazan la navegación y la estabilidad regional",
+        "subtitle": "La declaración conjunta tras la reunión de París rechaza la coerción y pide diálogo pacífico; Pekín critica el pronunciamiento y Taipéi agradece el respaldo.",
+        "facts": "Los ministros de Exteriores del G7 publicaron una declaración conjunta el 11 de noviembre de 2026, tras reunirse en París los días 9 y 10. El texto, difundido oficialmente por el gobierno británico, afirma que las actividades cada vez más firmes de China en las aguas al este de Taiwán amenazan la estabilidad regional, la libertad de navegación y la seguridad del transporte marítimo internacional. Los ministros se oponen a cualquier cambio unilateral del statu quo mediante fuerza, coerción o amenazas y piden resolver las diferencias mediante diálogo pacífico. El 12 de noviembre, Taiwán celebró el comunicado y prometió fortalecer su defensa. Funcionarios taiwaneses sospechan que las patrullas de la guardia costera china podrían ensayar un bloqueo marítimo, pero esa hipótesis no demuestra que se haya ordenado o iniciado un bloqueo. China reivindica la soberanía sobre Taiwán, que tiene gobierno propio y rechaza la pretensión de Pekín. Según Reuters, Pekín calificó la declaración del G7 de injerencia en asuntos internos. El documento no anuncia sanciones ni operaciones militares.",
+        "analysis": "La postura conjunta aumenta la presión diplomática sobre Pekín en una zona crucial para el comercio y las cadenas de suministro de Asia. Taiwán considera importantes sus aguas orientales para eventuales rutas de abastecimiento durante una crisis. La advertencia del G7 refleja preocupación por la coerción y los errores de cálculo, pero no constituye una declaración de guerra ni confirma un bloqueo en marcha. El desafío consiste en proteger la navegación, evitar incidentes y mantener abiertas las comunicaciones.",
+        "counterpoint": "El mar no se convierte en propiedad exclusiva de un gobierno porque este dibuje una línea en el mapa. El G7 tiene razón al exigir navegación segura, pero las declaraciones solo sirven si van acompañadas de diplomacia constante. Taiwán no debe ser una pieza desechable en una disputa entre potencias; tampoco corresponde anunciar una guerra que no ha comenzado.",
+        "category": "MUNDO"
+      }
+    },
+    {
       "id": "africa-do-sul-decimo-preso-recrutamento-guerra-ucrania-2026-11-12",
       "date": "2026-11-12",
       "category": "MUNDO",
