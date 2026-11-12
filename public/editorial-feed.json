@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "ataque-tiros-academia-washington-logan-circle-2026-11-12",
+      "date": "2026-11-12",
+      "category": "MUNDO",
+      "title": "URGENTE: ataque a tiros em academia de Washington deixa um morto e quatro feridos; suspeito também morre",
+      "subtitle": "Disparos no bairro de Logan Circle provocaram operação policial e bloqueios; uma das vítimas feridas estava em estado crítico.",
+      "facts": "Um homem armado abriu fogo na manhã desta quinta-feira, 12 de novembro de 2026, na academia VIDA Fitness e nas imediações do bairro de Logan Circle, em Washington, capital dos Estados Unidos. Segundo a polícia local, uma pessoa morreu e outras quatro ficaram feridas, uma delas em estado crítico. O suspeito fugiu para um apartamento no sétimo andar de um edifício próximo, onde se entrincheirou. Durante as negociações com agentes policiais, foi ouvido um disparo; os policiais entraram e encontraram o homem morto, aparentemente por um tiro autoinfligido. A morte do suspeito foi confirmada em reportagens da Associated Press, Reuters e NPR. A polícia informou que o atendimento começou por volta das 8h, horário local, e mobilizou equipes táticas, provocando bloqueios de ruas e medidas preventivas em escolas próximas. As autoridades investigam a motivação do ataque. Reportagens mencionam uma possível disputa envolvendo a administração do condomínio, mas essa hipótese não deve ser tratada como conclusão oficial sobre o motivo dos disparos.",
+      "analysis": "O episódio ocorreu em uma área residencial e comercial movimentada, próxima ao centro político da capital americana, e atingiu pessoas que estavam em atividades cotidianas. A resposta policial incluiu isolamento de quarteirões, mobilização de equipes especializadas e negociação com o suspeito. A investigação deverá esclarecer a sequência exata dos tiros, a relação entre as vítimas e o autor, a origem da arma e a possível ligação com disputas anteriores. Os números divulgados distinguem a vítima fatal do ataque e o suspeito, que também morreu.",
+      "counterpoint": "Uma ida à academia deveria terminar com treino e cansaço, não com uma operação de emergência. É preciso apurar como a violência começou, quem foi atingido e quais sinais poderiam ter sido percebidos antes do ataque. Transformar uma hipótese sobre o motivo em sentença pronta só atrapalha a investigação.",
+      "sources": [
+        {
+          "name": "Reuters — Gunman kills one, wounds four in busy Washington, DC, neighborhood (12/11/2026)",
+          "url": "https://www.reuters.com/world/us/heavily-armed-police-respond-washington-dc-active-shooter-incident-2026-11-12/"
+        },
+        {
+          "name": "Associated Press — 5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself (12/11/2026)",
+          "url": "https://apnews.com/article/3cee6a4ada875fcc18e932e536c63dcd"
+        },
+        {
+          "name": "NPR — DC shooting leaves 1 person killed, 4 injured. Gunman dead (12/11/2026)",
+          "url": "https://www.wosu.org/npr-news/2026-11-12/dc-shooting-leaves-1-person-killed-4-injured-gunman-dead"
+        }
+      ],
+      "en": {
+        "title": "BREAKING: Washington gym shooting leaves one dead and four wounded; suspect also dies",
+        "subtitle": "Gunfire in Logan Circle prompted a major police response and street closures; one of the injured was in critical condition.",
+        "facts": "A gunman opened fire on Thursday morning, November 12, 2026, at VIDA Fitness and nearby locations in Washington, D.C.'s Logan Circle neighborhood. Police said one person was killed and four others were wounded, including one in critical condition. The suspect retreated to a seventh-floor apartment in a nearby building and barricaded himself inside. During negotiations with officers, a gunshot was heard; police entered and found him dead from what appeared to be a self-inflicted gunshot wound. His death was confirmed in reports by the Associated Press, Reuters and NPR. Police said the initial emergency response began around 8 a.m. local time. Tactical teams deployed, streets were closed and nearby schools took precautions. Investigators are still determining the motive. Reports have mentioned a possible dispute involving condominium management, but that remains a line of inquiry rather than a definitive explanation for the attack.",
+        "analysis": "The violence struck a busy residential and commercial area near the US capital's political center, disrupting ordinary activities. Police sealed off surrounding blocks, deployed specialized teams and attempted to negotiate with the suspect. Investigators will need to establish the precise sequence of events, any connection between the gunman and the victims, the weapon's origin and whether previous disputes played a role. The reported death toll distinguishes the person killed in the attack from the suspect, who also died.",
+        "counterpoint": "A trip to the gym should end with a workout, not an emergency operation. Investigators must establish what happened, who was targeted and whether warning signs were missed. Treating an unproven theory about motive as a verdict would only undermine that work.",
+        "category": "WORLD",
+        "slug": "breaking-washington-gym-shooting-leaves-one-dead-and-four-wounded-suspect-also-2026-11-12"
+      },
+      "es": {
+        "title": "URGENTE: un tiroteo en un gimnasio de Washington deja un muerto y cuatro heridos; el sospechoso también fallece",
+        "subtitle": "Los disparos en Logan Circle provocaron un amplio operativo policial y cortes de calles; uno de los heridos estaba en estado crítico.",
+        "facts": "Un hombre armado abrió fuego la mañana del jueves 12 de noviembre de 2026 en el gimnasio VIDA Fitness y sus alrededores, en el barrio de Logan Circle de Washington, capital de Estados Unidos. Según la policía, una persona murió y otras cuatro resultaron heridas, una de ellas en estado crítico. El sospechoso se refugió en un apartamento del séptimo piso de un edificio cercano, donde se atrincheró. Durante las negociaciones con los agentes se escuchó un disparo; al entrar, la policía lo encontró muerto por lo que parecía ser un tiro autoinfligido. Su fallecimiento fue confirmado en informaciones de Associated Press, Reuters y NPR. La policía señaló que la respuesta inicial comenzó alrededor de las 8 de la mañana, hora local. Se desplegaron equipos tácticos, se cerraron calles y las escuelas cercanas adoptaron precauciones. Las autoridades investigan el motivo. Algunas informaciones mencionan una posible disputa con la administración del condominio, pero esa hipótesis no constituye una conclusión definitiva sobre el ataque.",
+        "analysis": "El episodio ocurrió en una zona residencial y comercial concurrida, próxima al centro político de la capital estadounidense, e interrumpió actividades cotidianas. La policía acordonó varias calles, movilizó unidades especializadas e intentó negociar con el sospechoso. La investigación deberá aclarar la secuencia exacta de los disparos, la relación entre el atacante y las víctimas, el origen del arma y cualquier posible vínculo con conflictos anteriores. El balance distingue a la persona fallecida durante el ataque del sospechoso, que también murió.",
+        "counterpoint": "Ir al gimnasio debería terminar con ejercicio, no con un operativo de emergencia. Es necesario esclarecer lo ocurrido, identificar a las víctimas y determinar si hubo señales de alerta previas. Convertir una hipótesis sobre el motivo en una sentencia anticipada solo perjudica la investigación.",
+        "category": "MUNDO",
+        "slug": "urgente-un-tiroteo-en-un-gimnasio-de-washington-deja-un-muerto-y-cuatro-heridos-2026-11-12"
+      },
+      "firstSeen": "2026-11-12T10:05:00-03:00"
+    },
+    {
       "id": "putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12",
       "date": "2026-11-12",
       "category": "MUNDO",
