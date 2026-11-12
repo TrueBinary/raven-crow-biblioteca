@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "governo-holandes-risco-queda-acordo-impostos-2026-11-12",
+      "date": "2026-11-12",
+      "category": "MUNDO",
+      "title": "Governo da Holanda fica à beira de ruptura após acordo para aumentar impostos sobre os mais ricos",
+      "subtitle": "Partido liberal VVD ameaça rever participação na coalizão de Rob Jetten após aliados negociarem com a oposição um pacote tributário para 2027.",
+      "facts": "A coalizão minoritária que governa os Países Baixos enfrenta uma crise nesta quinta-feira, 12 de novembro de 2026, após dois dos três partidos governistas negociarem com a oposição um acordo sobre impostos para o orçamento de 2027. O D66, do primeiro-ministro Rob Jetten, e os democratas-cristãos do CDA acertaram com os partidos PRO e Volt uma proposta que eleva a tributação de rendimentos de patrimônio e poupança de contribuintes de alta renda e reduz a cobrança de imposto de renda sobre faixas inferiores. O acordo prevê aproximadamente € 1 bilhão em arrecadação adicional com medidas sobre patrimônio, segundo a imprensa holandesa. A líder do VVD, Dilan Yeşilgöz-Zegerius, disse que seu partido, o terceiro integrante da coalizão, foi surpreendido e que a proposta contraria o pacto de governo. Ela advertiu que a continuidade da parceria exigiria uma revisão fundamental se os aliados apoiassem o texto. Jetten cancelou a participação em uma reunião europeia na Irlanda para acompanhar o debate parlamentar. O governo, empossado em fevereiro, dispõe de 66 dos 150 assentos da Câmara Baixa e depende de votos da oposição. Até a apuração desta notícia, não havia confirmação de renúncia, dissolução do gabinete ou convocação de eleições antecipadas.",
+      "analysis": "O impasse envolve tanto a política fiscal quanto a confiança entre os parceiros de governo. Para D66 e CDA, negociar com PRO e Volt abre caminho para aprovar o orçamento sem uma maioria própria; para o VVD, o aumento da tributação sobre patrimônio e a exclusão do partido das negociações prejudicam o ambiente de investimentos e violam o acordo da coalizão. A proposta também contempla mudanças em impostos sobre heranças e doações e ações contra evasão tributária. O risco de queda do gabinete é concreto, mas ainda condicional: o Parlamento precisa debater as medidas e os partidos decidirão se mantêm o apoio à coalizão. Caso o governo caia, poderão ocorrer novas eleições em 2027, sem que isso esteja decidido.",
+      "counterpoint": "A Holanda virou um laboratório de uma pergunta que também interessa ao Brasil: até onde um governo pode aumentar impostos para fechar a conta sem romper a confiança de quem sustenta a própria coalizão? Os defensores da proposta dizem que cobrar mais de grandes patrimônios permite aliviar trabalhadores de menor renda. O VVD responde que elevar a carga sobre poupança, investimento e empresas pode prejudicar a economia. A discussão é legítima; o problema político é negociar a conta com a oposição e deixar um sócio do governo sabendo do acordo depois. Em política, não basta somar votos para aprovar um imposto: também é preciso explicar quem pagará, quais efeitos se esperam e por que o pacto de governo ainda vale.",
+      "sources": [
+        {
+          "name": "Associated Press — Dutch coalition near collapse, 12/11/2026",
+          "url": "https://apnews.com/article/44da18d84c98188db80e6d081fa41cff"
+        },
+        {
+          "name": "DutchNews.nl — D66 and CDA agree deal with Pro to save budget, 11/11/2026",
+          "url": "https://www.dutchnews.nl/2026/11/d66-and-cda-agree-deal-with-pro-to-save-budget-vvd-frozen-out/"
+        },
+        {
+          "name": "NL Times — Dutch Cabinet in crisis, 11/11/2026",
+          "url": "https://nltimes.nl/2026/11/11/dutch-cabinet-crisis-vvd-leave-coalition-tax-deal-left-center"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Tweede_kamer.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público (dedicação do autor / PD-self)",
+          "credit": "Sisyfus (Jan Kranendonki) / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Tweede_kamer.jpg",
+          "caption": "FOTO DE ARQUIVO (11/06/2007): interior da Câmara dos Representantes dos Países Baixos, em Haia. Sisyfus (Jan Kranendonki) / Wikimedia Commons, domínio público. Não retrata o debate de 12/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Dutch government faces possible collapse over tax deal targeting wealthy savers",
+        "subtitle": "VVD threatens to reconsider its place in Prime Minister Rob Jetten's coalition after partners reach a 2027 tax agreement with opposition parties.",
+        "facts": "The Netherlands' minority coalition faced a political crisis on November 12, 2026 after two of its three governing parties reached a deal with opposition groups on tax measures for the 2027 budget. Prime Minister Rob Jetten's D66 and the Christian Democratic Appeal (CDA) agreed with PRO and Volt on proposals to increase taxes on income from wealth and savings while reducing income tax for lower earners. Dutch reporting puts the additional revenue from wealth-related measures at roughly €1 billion. VVD leader Dilan Yeşilgöz-Zegerius said the third coalition partner had been blindsided and argued that the agreement breached the governing pact. She warned that continued cooperation would require a fundamental reset if the measures passed. Jetten cancelled a European meeting in Ireland to attend the parliamentary debate. His government, sworn in in February, holds just 66 of the lower house's 150 seats and needs opposition support. As of this report, no government resignation, dissolution or snap election had been confirmed.",
+        "analysis": "The dispute concerns both fiscal policy and trust between governing partners. D66 and CDA see the deal with PRO and Volt as a route to passing a budget without an outright parliamentary majority. VVD argues that higher taxes on savings, investment and businesses would harm the economy and breach the coalition agreement. The compromise also involves inheritance and gift taxes and measures against tax avoidance. A collapse remains possible but is not a settled outcome: lawmakers must debate the plan and the parties must decide whether to remain together. Early elections in 2027 are a possibility, not an announced decision.",
+        "counterpoint": "The Dutch dispute poses a question familiar well beyond the Netherlands: how far can a government raise taxes to balance its budget before it breaks the trust holding its coalition together? Supporters say higher taxes on large fortunes could help reduce the burden on lower-income workers. VVD argues the measures could damage savings, investment and business confidence. Both arguments deserve scrutiny. But securing votes from the opposition while leaving a governing partner out of the deal is a political risk in its own right. A majority for a tax bill does not settle who ultimately pays or whether the coalition can survive.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (June 11, 2007): interior of the Dutch House of Representatives in The Hague. Sisyfus (Jan Kranendonki) / Wikimedia Commons, public domain. Not a photograph of the November 12, 2026 debate."
+        },
+        "slug": "dutch-government-faces-possible-collapse-over-tax-deal-targeting-wealthy-savers-2026-11-12"
+      },
+      "es": {
+        "title": "El Gobierno neerlandés, al borde de una ruptura por un acuerdo fiscal sobre las grandes fortunas",
+        "subtitle": "El VVD amenaza con revisar su participación en la coalición de Rob Jetten tras un pacto tributario para 2027 negociado con la oposición.",
+        "facts": "La coalición minoritaria que gobierna los Países Bajos afrontó una crisis el 12 de noviembre de 2026 después de que dos de sus tres partidos alcanzaran un acuerdo con la oposición sobre impuestos para el presupuesto de 2027. El D66 del primer ministro Rob Jetten y la Llamada Demócrata Cristiana (CDA) pactaron con PRO y Volt aumentar los impuestos sobre rentas del patrimonio y del ahorro, a la vez que se reduce el impuesto sobre la renta de los contribuyentes con menores ingresos. Según medios neerlandeses, las medidas patrimoniales recaudarían aproximadamente €1.000 millones adicionales. La líder del VVD, Dilan Yeşilgöz-Zegerius, afirmó que su partido, tercer socio de la coalición, fue sorprendido y que el acuerdo vulnera el pacto de gobierno. Advirtió que mantener la cooperación exigiría una revisión fundamental si las medidas prosperan. Jetten canceló una reunión europea en Irlanda para acudir al debate parlamentario. Su Gobierno, investido en febrero, dispone de 66 de los 150 escaños de la Cámara Baja y depende de la oposición. Hasta el cierre de esta información no se había confirmado ninguna dimisión del gabinete, disolución ni convocatoria electoral anticipada.",
+        "analysis": "El conflicto afecta tanto a la política fiscal como a la confianza entre socios. D66 y CDA consideran que el pacto con PRO y Volt facilita aprobar el presupuesto sin mayoría propia; el VVD sostiene que gravar más el ahorro, la inversión y las empresas perjudica a la economía y rompe el acuerdo de coalición. El compromiso también contempla cambios en los impuestos sobre herencias y donaciones y medidas contra la evasión fiscal. La caída del Gobierno es posible, pero no está decidida: el Parlamento debe debatir las medidas y los partidos resolver si continúan juntos. Unas elecciones anticipadas en 2027 son una posibilidad, no un anuncio oficial.",
+        "counterpoint": "La crisis neerlandesa plantea una pregunta conocida también en Brasil: ¿hasta dónde puede subir los impuestos un Gobierno para cuadrar las cuentas sin romper la confianza que mantiene unida su coalición? Los defensores de la propuesta sostienen que gravar más las grandes fortunas permite aliviar a los trabajadores de menores ingresos. El VVD replica que podría perjudicar el ahorro, la inversión y la actividad empresarial. Ambos argumentos merecen análisis. Pero pactar con la oposición dejando fuera a un socio del Gobierno supone, por sí mismo, un riesgo político. Conseguir votos para aprobar un impuesto no aclara quién acabará pagándolo ni garantiza la supervivencia de la coalición.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (11 de junio de 2007): interior de la Cámara de Representantes de los Países Bajos, en La Haya. Sisyfus (Jan Kranendonki) / Wikimedia Commons, dominio público. No muestra el debate del 12 de noviembre de 2026."
+        },
+        "slug": "el-gobierno-neerlandes-al-borde-de-una-ruptura-por-un-acuerdo-fiscal-sobre-las-2026-11-12"
+      },
+      "firstSeen": "2026-11-12T07:03:46-03:00"
+    },
+    {
       "id": "santander-eleva-oferta-acoes-brasil-5-por-cento-2026-11-12",
       "date": "2026-11-12",
       "category": "ECONOMIA",
