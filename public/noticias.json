@@ -6,6 +6,67 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "jensen-huang-deixa-nvidia-colette-kress-ceo-interina-2026-11-12",
+      "date": "2026-11-12",
+      "category": "TECNOLOGIA",
+      "title": "URGENTE: Jensen Huang deixa comando da Nvidia; Colette Kress assume como CEO interina",
+      "subtitle": "Cofundador sai da presidência executiva e do conselho da fabricante de chips, após crise de governança; diretora financeira comandará a empresa durante a busca por sucessor.",
+      "facts": "Jensen Huang deixou nesta quinta-feira, 12 de novembro de 2026, o cargo de presidente-executivo da Nvidia, fabricante americana de chips que se tornou uma das principais fornecedoras de infraestrutura para inteligência artificial. A diretora financeira Colette Kress foi indicada para assumir interinamente a função enquanto a companhia busca um sucessor permanente, segundo reportagens da Reuters e da Associated Press. Huang, cofundador da empresa em 1993, também deixa o conselho de administração, informou a Reuters. A Associated Press relatou ainda que Harvey C. Jones foi nomeado presidente do conselho. A decisão ocorre após denúncias sobre relacionamentos pessoais do executivo e suspeitas de riscos à segurança nacional, cuja extensão ainda está sob investigação. A Nvidia afirmou anteriormente não ter motivos para acreditar que segredos da empresa ou a segurança nacional tenham sido comprometidos; não há comprovação pública de espionagem por Huang. As ações da companhia recuaram fortemente nas negociações antes da abertura da bolsa americana, conforme as agências.",
+      "analysis": "A saída de Huang encerra um ciclo de mais de três décadas em que o cofundador conduziu a Nvidia da indústria gráfica ao centro do mercado global de inteligência artificial. A escolha da diretora financeira para a liderança provisória indica uma tentativa de continuidade administrativa, mas deixa em aberto quem será responsável pela estratégia tecnológica de longo prazo. O episódio amplia a atenção dos investidores sobre governança, controles internos e riscos reputacionais. As alegações que motivaram a crise precisam ser distinguidas das conclusões de qualquer investigação, ainda não apresentadas de forma definitiva ao público.",
+      "counterpoint": "A empresa que vende parte dos chips por trás da revolução da inteligência artificial agora tem um problema que nenhuma GPU resolve: sucessão e confiança. Jensen Huang ajudou a transformar a Nvidia em potência global, mas o futuro da companhia não deveria depender da imagem de uma única pessoa. Cobrar apuração séria e transparência é essencial; transformar suspeitas em condenação antes das provas, não.",
+      "sources": [
+        {
+          "name": "Reuters — saída de Jensen Huang e nomeação interina de Colette Kress (12/11/2026), via MarketScreener",
+          "url": "https://www.marketscreener.com/news/nvidia-ceo-jensen-huang-to-step-down-in-big-blow-to-ai-boom-ce785ed8df8ff725"
+        },
+        {
+          "name": "Associated Press — Jensen Huang renuncia e Colette Kress assume interinamente (12/11/2026)",
+          "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
+        },
+        {
+          "name": "Bloomberg News — saída de Huang e substituição interina (12/11/2026), via Bloomberg Law",
+          "url": "https://news.bloomberglaw.com/private-equity/huang-face-of-the-ai-boom-ousted-by-nvidia-board-as-ceo-1"
+        },
+        {
+          "name": "Nvidia — nota do conselho sobre investigação independente (08/11/2026)",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/default.aspx"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution 4.0 International (CC BY 4.0), Comissão Europeia",
+          "credit": "Peter Dasilva / Comissão Europeia / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_(cropped)_(2024).jpg",
+          "caption": "FOTO DE ARQUIVO (13/05/2024): Jensen Huang durante encontro com Josep Borrell nos Estados Unidos. Peter Dasilva / Comissão Europeia, CC BY 4.0. Não retrata o anúncio de saída de 12/11/2026."
+        }
+      ],
+      "en": {
+        "title": "BREAKING: Jensen Huang steps down as Nvidia CEO; Colette Kress takes over on an interim basis",
+        "subtitle": "The cofounder leaves the chipmaker's top job and board amid a governance crisis; the chief financial officer will lead the company as it searches for a successor.",
+        "facts": "Jensen Huang stepped down as Nvidia's chief executive on Thursday, November 12, 2026. The US chipmaker is a major supplier of infrastructure used in artificial intelligence. Chief Financial Officer Colette Kress will serve as interim CEO while the company searches for a permanent replacement, according to Reuters and the Associated Press. Huang, who cofounded Nvidia in 1993, is also leaving its board of directors, Reuters reported. The Associated Press also reported the appointment of Harvey C. Jones as board chair. The decision follows allegations concerning Huang's personal relationships and possible national security risks, which remain under investigation. Nvidia previously said it had no reason to believe company secrets or national security had been compromised; public evidence has not established that Huang engaged in espionage. The company's shares fell sharply in premarket trading, according to the news agencies.",
+        "analysis": "Huang's departure ends more than three decades of leadership during which Nvidia grew from a graphics technology company into a central supplier for the global AI industry. Naming the chief financial officer as interim leader may provide administrative continuity, but leaves unanswered who will guide the company's long-term technology strategy. Investors are also weighing corporate governance, internal safeguards and reputational risk. Allegations surrounding the crisis should not be presented as proven findings while the investigations continue.",
+        "counterpoint": "The company supplying chips for much of the AI revolution now faces a problem that no GPU can solve: succession and trust. Huang helped build Nvidia into a global powerhouse, but the company's future should not depend on a single leader's image. Serious scrutiny and transparency are essential; declaring guilt before the evidence is not.",
+        "category": "TECHNOLOGY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (May 13, 2024): Jensen Huang during a meeting with Josep Borrell in the United States. Peter Dasilva / European Commission, CC BY 4.0. The image does not depict the November 12, 2026 leadership announcement."
+        }
+      },
+      "es": {
+        "title": "URGENTE: Jensen Huang deja la dirección de Nvidia; Colette Kress asume como CEO interina",
+        "subtitle": "El cofundador abandona la presidencia ejecutiva y el consejo de la fabricante de chips en medio de una crisis de gobierno corporativo; la directora financiera liderará la búsqueda de un sucesor.",
+        "facts": "Jensen Huang dejó el puesto de consejero delegado de Nvidia el jueves 12 de noviembre de 2026. La fabricante estadounidense de chips es una de las principales proveedoras de infraestructura para inteligencia artificial. Según Reuters y Associated Press, la directora financiera Colette Kress asumirá como CEO interina mientras la compañía busca un reemplazo permanente. Huang, cofundador de Nvidia en 1993, también deja el consejo de administración, informó Reuters. Associated Press señaló además que Harvey C. Jones fue nombrado presidente del consejo. La decisión llega tras denuncias relacionadas con la vida personal del ejecutivo y posibles riesgos para la seguridad nacional, que siguen bajo investigación. Nvidia había afirmado que no tenía motivos para creer que sus secretos comerciales o la seguridad nacional estuvieran comprometidos; no existen pruebas públicas concluyentes de que Huang haya practicado espionaje. Las acciones cayeron con fuerza en las operaciones previas a la apertura de Wall Street, según las agencias.",
+        "analysis": "La salida de Huang pone fin a más de tres décadas de liderazgo en las que Nvidia pasó del sector de gráficos al centro de la industria mundial de inteligencia artificial. La elección de la directora financiera como responsable provisional puede facilitar la continuidad administrativa, pero queda por definir quién dirigirá la estrategia tecnológica a largo plazo. Los inversores observan ahora los mecanismos de gobierno corporativo, los controles internos y los riesgos reputacionales. Las acusaciones que desencadenaron la crisis no deben confundirse con conclusiones probadas de las investigaciones en curso.",
+        "counterpoint": "La empresa que suministra chips para buena parte de la revolución de la inteligencia artificial afronta ahora un problema que ninguna GPU puede resolver: sucesión y confianza. Huang contribuyó a convertir Nvidia en una potencia global, pero su futuro no debería depender de la imagen de una sola persona. Es necesario exigir transparencia e investigación rigurosa, sin condenar a nadie antes de conocer las pruebas.",
+        "category": "TECNOLOGÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (13/05/2024): Jensen Huang durante una reunión con Josep Borrell en Estados Unidos. Peter Dasilva / Comisión Europea, CC BY 4.0. La imagen no muestra el anuncio del 12/11/2026."
+        }
+      }
+    },
+    {
       "id": "ipca-outubro-014-inflacao-12-meses-463-2026-11-12",
       "date": "2026-11-12",
       "category": "ECONOMIA",
