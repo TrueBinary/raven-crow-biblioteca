@@ -30,6 +30,9 @@
         "analysis": "The rebound reflects renewed pricing of the risk to energy infrastructure and shipping routes, rather than necessarily indicating a confirmed loss of global production. Saudi Arabia's East-West pipeline and Yanbu terminal offer an alternative to the Strait of Hormuz. Higher prices could increase transport costs and inflationary pressure for importers, while inventories and diplomatic expectations continue to influence the market. The outlook depends on verified damage, export capacity and shipping security.",
         "counterpoint": "Oil prices jump whenever conflict threatens more infrastructure. But a claim of an attack is not proof of damage. Treating every military statement as established fact would turn journalism into propaganda. Consumers may face higher costs long before peace arrives.",
         "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (June 2, 2012): oil tanks at Ras Tanura port in Saudi Arabia. Ciacho5 / Wikimedia Commons (CC BY-SA 3.0). The image does not depict the November 2026 attacks or any reported damage at Yanbu."
+        },
         "slug": "brent-oil-closes-at-95-82-as-saudi-energy-sites-face-attack-claims-and-hormuz-2026-11-12"
       },
       "es": {
@@ -39,8 +42,22 @@
         "analysis": "El repunte refleja una nueva prima de riesgo para la infraestructura energética y las rutas marítimas, no necesariamente una pérdida confirmada de producción mundial. El oleoducto Este-Oeste y la terminal de Yanbu ofrecen una alternativa al estrecho de Ormuz. Un petróleo más caro puede presionar el transporte y la inflación de los países importadores, mientras las reservas y las expectativas diplomáticas siguen influyendo en los precios. La evolución dependerá de daños comprobados, capacidad exportadora y seguridad marítima.",
         "counterpoint": "El petróleo sube cada vez que el conflicto amenaza más infraestructura. Pero reivindicar un ataque no demuestra que haya causado daños. Dar por cierta toda declaración militar sería convertir el periodismo en propaganda. Los consumidores pueden pagar el precio mucho antes de que llegue la paz.",
         "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (02/06/2012): depósitos de petróleo del puerto de Ras Tanura, Arabia Saudita. Ciacho5 / Wikimedia Commons (CC BY-SA 3.0). No muestra los ataques de noviembre de 2026 ni los supuestos daños en Yanbu."
+        },
         "slug": "el-brent-cierra-en-us-95-82-ante-amenazas-a-instalaciones-saudies-y-tension-en-2026-11-12"
       },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/RarTanura434.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "credit": "Ciacho5 / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:RarTanura434.jpg",
+          "caption": "FOTO DE ARQUIVO (02/06/2012): tanques de petróleo no porto de Ras Tanura, na Arábia Saudita. Ciacho5 / Wikimedia Commons (CC BY-SA 3.0). Não retrata os ataques de novembro de 2026 nem os danos reivindicados em Yanbu."
+        }
+      ],
       "firstSeen": "2026-11-12T10:05:00-03:00"
     },
     {
@@ -73,6 +90,9 @@
         "analysis": "The results highlight how high interest rates, tight credit and excess inventory can ripple through Brazil's agricultural input supply chain. Weaker purchasing does not necessarily imply an equivalent drop in farm output, but it affects suppliers, distributors and investors. Corteva-specific factors, including the recent separation of its seeds business, also matter. Upcoming earnings will help show whether the weakness is temporary or extends into 2027.",
         "counterpoint": "When borrowing costs rise and farmers postpone buying inputs, the impact can reach US stock markets. But attributing the entire share-price decline to one Brazilian policy would ignore inventories, competition, pricing and Corteva's own business decisions.",
         "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (March 20, 2016): soybean field in Brasnorte, Mato Grosso, Brazil. Marcelo Camargo / Agência Brasil (CC BY 3.0 BR). Illustrates Brazilian agriculture; it does not document Corteva's 2026 results."
+        },
         "slug": "corteva-shares-plunge-as-brazil-s-farm-sector-slowdown-forces-profit-outlook-cut-2026-11-12"
       },
       "es": {
@@ -82,8 +102,22 @@
         "analysis": "Los resultados muestran cómo los intereses elevados, la restricción del crédito y los inventarios excesivos afectan a la cadena de insumos agrícolas brasileña. Menores compras no implican necesariamente una caída equivalente de la producción, pero perjudican a proveedores, distribuidores e inversores. También influyen factores propios de Corteva, incluida la reciente separación de su negocio de semillas. Los próximos balances permitirán evaluar si la debilidad persiste en 2027.",
         "counterpoint": "Cuando el crédito se encarece y el agricultor aplaza la compra de insumos, el efecto llega incluso a Wall Street. Pero atribuir toda la caída bursátil a una sola política brasileña ignoraría los inventarios, los precios, la competencia y las decisiones de la propia compañía.",
         "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (20/03/2016): cultivo de soja en Brasnorte, Mato Grosso, Brasil. Marcelo Camargo / Agência Brasil (CC BY 3.0 BR). Ilustra la agricultura brasileña; no documenta los resultados de Corteva en 2026."
+        },
         "slug": "las-acciones-de-corteva-se-desploman-por-la-debilidad-del-agro-brasileno-y-el-2026-11-12"
       },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/SojaBrasnorte.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution 3.0 Brazil (CC BY 3.0 BR), Agência Brasil",
+          "credit": "Marcelo Camargo / Agência Brasil, via Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:SojaBrasnorte.jpg",
+          "caption": "FOTO DE ARQUIVO (20/03/2016): lavoura de soja em Brasnorte, Mato Grosso. Marcelo Camargo / Agência Brasil (CC BY 3.0 BR). Imagem ilustrativa da agricultura brasileira, sem relação direta com os resultados da Corteva em 2026."
+        }
+      ],
       "firstSeen": "2026-11-12T10:05:00-03:00"
     },
     {
@@ -116,6 +150,9 @@
         "analysis": "Even without evidence of stolen passwords or unauthorized financial transactions, exposed customer records can facilitate fraud. Names, identification numbers and contact details may help criminals impersonate bank or insurance staff in convincing phishing attempts. Investigators have yet to determine the full extent of copied records or whether they were misused. Clear notification, effective anti-fraud guidance and scrutiny of the security failures will be central to evaluating the response.",
         "counterpoint": "When criminals access a database containing millions of customer records, reassurance that passwords were not exposed matters — but it does not settle the issue. Names, identification numbers and phone numbers can still be exploited in scams. The public deserves explanations and effective safeguards, without false claims that every affected customer's money was stolen.",
         "category": "TECHNOLOGY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (August 14, 2016): Caixa Econômica Federal branch in Paratinga, Bahia, Brazil. Fronteira / Wikimedia Commons (CC BY-SA 4.0). Illustrative institutional image, not a facility of Caixa Vida e Previdência or a record of the 2026 cyber incident."
+        },
         "slug": "breaking-cyberattack-on-caixa-vida-e-previdencia-exposes-records-from-a-2026-11-12"
       },
       "es": {
@@ -125,8 +162,22 @@
         "analysis": "La exposición de datos de registro puede facilitar estafas incluso sin evidencia de robo de contraseñas o movimientos bancarios. Nombres, identificaciones y datos de contacto permiten elaborar mensajes fraudulentos que imitan a bancos o aseguradoras. La cantidad exacta de registros copiados y su posible uso indebido siguen bajo investigación. La información transparente a los clientes, la prevención de fraudes y el examen de las fallas de seguridad serán fundamentales.",
         "counterpoint": "Cuando delincuentes acceden a una base con millones de registros, aclarar que las contraseñas no fueron afectadas es importante, pero no resuelve todo. Nombres, identificaciones y teléfonos también pueden utilizarse en estafas. Hace falta exigir explicaciones y protección real, sin difundir que se robó el dinero de todos los clientes afectados.",
         "category": "TECNOLOGÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (14/08/2016): sucursal de Caixa Econômica Federal en Paratinga, Bahía, Brasil. Fronteira / Wikimedia Commons (CC BY-SA 4.0). Imagen institucional ilustrativa, no de Caixa Vida e Previdência ni del incidente informático de 2026."
+        },
         "slug": "urgente-ciberataque-a-caixa-vida-e-previdencia-expone-datos-de-una-base-con-7-6-2026-11-12"
       },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ag%C3%AAncia_Caixa_Econ%C3%B4mica_Federal%2C_Paratinga%2C_2016.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "credit": "Fronteira / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Ag%C3%AAncia_Caixa_Econ%C3%B4mica_Federal,_Paratinga,_2016.jpg",
+          "caption": "FOTO DE ARQUIVO (14/08/2016): agência da Caixa Econômica Federal em Paratinga, Bahia. Fronteira / Wikimedia Commons (CC BY-SA 4.0). Imagem institucional ilustrativa, não é da Caixa Vida e Previdência nem do incidente cibernético de 2026."
+        }
+      ],
       "firstSeen": "2026-11-12T10:05:00-03:00"
     },
     {
@@ -159,6 +210,9 @@
         "analysis": "London says the goal is to raise the economic cost of the war for Moscow by restricting energy revenues and transport networks. The actual impact will depend on enforcement, alternative buyers, global prices and sanctions-evasion routes. Restrictions on companies and vessels can complicate trade but do not amount to a physical blockade of Russian oil. The move comes alongside diplomatic efforts over Ukraine, and its economic effects remain to be assessed.",
         "counterpoint": "Britain is trying to target war funding rather than promise that a signature will end the conflict. Cutting revenues may increase pressure on Moscow, but the real test is enforcement: oil does not stop moving simply because a government publishes a list. Effects on prices and consumers also deserve scrutiny.",
         "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (April 13, 2010): oil exploration drilling rig in Russia's Evenkiysky District, catalogued under Slavneft on Wikimedia Commons. ShavPS / Wikimedia Commons (CC BY-SA 3.0). Not the UK's November 12, 2026 sanctions announcement."
+        },
         "slug": "uk-sanctions-slavneft-bringing-all-ten-of-russia-s-largest-oil-producers-under-2026-11-12"
       },
       "es": {
@@ -168,8 +222,22 @@
         "analysis": "Londres sostiene que busca aumentar el coste económico de la guerra para Moscú limitando los ingresos energéticos y las redes de transporte. El efecto real dependerá de la aplicación de las medidas, los compradores alternativos, los precios internacionales y las posibles vías para eludirlas. Las sanciones a empresas y buques pueden dificultar el comercio, pero no constituyen un bloqueo físico del petróleo ruso. La iniciativa coincide con esfuerzos diplomáticos sobre Ucrania y sus efectos económicos aún deben evaluarse.",
         "counterpoint": "El Reino Unido intenta golpear la financiación de la guerra, no prometer que una firma resolverá el conflicto. Reducir ingresos puede aumentar la presión sobre Moscú, pero la prueba será la aplicación: el petróleo no deja de circular solo porque un gobierno publique una lista. También hay que vigilar las consecuencias para los precios y los consumidores.",
         "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (13/04/2010): torre de exploración petrolera en el distrito de Evenkiysky, Rusia, catalogada bajo Slavneft en Wikimedia Commons. ShavPS / Wikimedia Commons (CC BY-SA 3.0). No muestra el anuncio británico de sanciones del 12/11/2026."
+        },
         "slug": "reino-unido-sanciona-a-slavneft-y-alcanza-a-las-diez-mayores-petroleras-de-rusia-2026-11-12"
       },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Kordinskaya_oil_exploration_drilling_rig_in_Evenkiysky_District.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "credit": "ShavPS / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Kordinskaya_oil_exploration_drilling_rig_in_Evenkiysky_District.jpg",
+          "caption": "FOTO DE ARQUIVO (13/04/2010): instalação de exploração de petróleo na região de Evenkiysky, Rússia, classificada no acervo da Slavneft. ShavPS / Wikimedia Commons (CC BY-SA 3.0). Não representa o anúncio britânico de sanções de 12/11/2026."
+        }
+      ],
       "firstSeen": "2026-11-12T10:05:00-03:00"
     },
     {
@@ -626,6 +694,9 @@
         "analysis": "The excavation next door and the fact that debris fell into the construction pit are important investigative details, but neither establishes responsibility without engineering findings. Emergency teams warned that unstable rubble created further danger during rescue work. Rapidly changing casualty counts also show why early headlines require careful updating. The disaster raises questions about structural inspections and safeguards around construction sites in densely populated neighborhoods.",
         "counterpoint": "A city that keeps building upward must ensure the ground does not give way beneath its existing residents. Demanding inspections and accountability is reasonable; blaming the neighboring excavation before a technical investigation is not. The immediate priorities are finding survivors and determining what went wrong.",
         "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (December 5, 2012): apartment buildings on a street in Flatbush, Brooklyn, New York. Downtowngal / Wikimedia Commons (CC BY-SA 3.0). It does not show the collapsed building or the November 11–12, 2026 rescue operations."
+        },
         "slug": "breaking-death-toll-rises-to-eight-after-brooklyn-building-collapse-in-new-york-2026-11-12"
       },
       "es": {
@@ -635,8 +706,22 @@
         "analysis": "La excavación cercana y los escombros que cayeron en ella son elementos importantes para la investigación, pero no permiten atribuir responsabilidades sin un peritaje técnico. Los equipos de emergencia advirtieron del peligro de nuevos desprendimientos durante el rescate. La rápida evolución del número de víctimas exige actualizar las noticias con cautela. La tragedia plantea preguntas sobre inspecciones estructurales y medidas de seguridad en obras situadas en barrios densamente poblados.",
         "counterpoint": "Una ciudad que construye cada vez más alto debe asegurarse de que el suelo no desaparezca bajo los pies de sus habitantes. Exigir controles y responsabilidades es razonable; culpar a las excavaciones vecinas antes de una investigación técnica no lo es. La prioridad inmediata es encontrar sobrevivientes y esclarecer qué falló.",
         "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (05/12/2012): edificios de viviendas en una calle de Flatbush, Brooklyn, Nueva York. Downtowngal / Wikimedia Commons (CC BY-SA 3.0). No muestra el edificio derrumbado ni los rescates del 11 y 12/11/2026."
+        },
         "slug": "urgente-aumentan-a-ocho-los-muertos-por-el-derrumbe-de-un-edificio-en-brooklyn-2026-11-12"
       },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flatbush_side_street.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "credit": "Downtowngal / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Flatbush_side_street.jpg",
+          "caption": "FOTO DE ARQUIVO (05/12/2012): edifícios residenciais em uma rua de Flatbush, Brooklyn, Nova York. Downtowngal / Wikimedia Commons (CC BY-SA 3.0). Não mostra o prédio que desabou nem as operações de resgate de 11 e 12/11/2026."
+        }
+      ],
       "firstSeen": "2026-11-12T10:05:00-03:00"
     },
     {
