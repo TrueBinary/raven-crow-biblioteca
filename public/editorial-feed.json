@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "reino-unido-sanciona-dez-maiores-petroleiras-russas-slavneft-2026-11-12",
+      "date": "2026-11-12",
+      "category": "MUNDO",
+      "title": "Reino Unido sanciona Slavneft e passa a atingir as dez maiores produtoras de petróleo da Rússia",
+      "subtitle": "Novo pacote britânico também mira navios e empresas de energia; Londres afirma querer reduzir receitas que financiam a guerra na Ucrânia.",
+      "facts": "O governo do Reino Unido anunciou nesta quinta-feira, 12 de novembro de 2026, novas sanções contra o setor energético da Rússia. A inclusão da produtora Slavneft faz do país, segundo o comunicado oficial britânico, o primeiro a aplicar sanções às dez maiores produtoras russas de petróleo. O pacote também inclui embarcações associadas ao transporte de petróleo e gás natural liquefeito (GNL), grandes empresas de carvão e o projeto Vostok Oil, ligado à Rosneft. O anúncio coincidiu com a reunião da Comunidade Política Europeia em Dublin, onde o primeiro-ministro Andy Burnham pretendia discutir a guerra na Ucrânia e as negociações de paz com outros líderes. O registro oficial britânico de sanções foi atualizado em 12 de novembro. A Reuters também noticiou as medidas. A declaração de que todas as dez maiores produtoras estão sancionadas é uma afirmação do governo britânico; não significa que as exportações russas tenham cessado.",
+      "analysis": "O objetivo declarado de Londres é aumentar o custo econômico da guerra para Moscou, restringindo receitas energéticas e redes de transporte. O alcance real depende de fiscalização, compradores alternativos, preços internacionais e possíveis rotas de evasão. Sanções contra empresas e navios podem dificultar operações, mas não equivalem a um bloqueio físico do petróleo russo. A iniciativa ocorre em paralelo a esforços diplomáticos sobre a Ucrânia, e seus efeitos econômicos ainda precisarão ser medidos.",
+      "counterpoint": "O Reino Unido tenta atingir o caixa da guerra em vez de prometer que uma assinatura resolverá o conflito. A lógica é clara: reduzir receitas pode ampliar a pressão sobre Moscou. O teste será a execução, porque petróleo não deixa de circular só porque um governo publicou uma lista. Também é preciso acompanhar impactos sobre preços e consumidores.",
+      "sources": [
+        {
+          "name": "Governo do Reino Unido — anúncio das sanções (12/11/2026)",
+          "url": "https://www.gov.uk/government/news/ukraine-set-to-be-focus-of-epc-summit-as-uk-sanctions-russias-top-ten-oil-producers"
+        },
+        {
+          "name": "Governo do Reino Unido — registro oficial de designações (atualizado em 12/11/2026)",
+          "url": "https://www.gov.uk/guidance/russia-list-of-designations-and-sanctions-notices"
+        },
+        {
+          "name": "Reuters — UK sanctions Russia's Slavneft (12/11/2026)",
+          "url": "https://www.reuters.com/business/energy/uk-sanctions-russias-slavneft-latest-move-against-oil-producers-2026-11-12/"
+        }
+      ],
+      "en": {
+        "title": "UK sanctions Slavneft, bringing all ten of Russia's largest oil producers under British restrictions",
+        "subtitle": "The new package also targets energy companies and vessels as London seeks to curb revenues funding the war in Ukraine.",
+        "facts": "On Thursday, November 12, 2026, the UK government announced new sanctions targeting Russia's energy sector. Adding oil producer Slavneft means Britain has now sanctioned all ten of Russia's largest oil producers, according to the British government's official statement. The package also covers vessels involved in transporting Russian oil and liquefied natural gas (LNG), major coal companies and Rosneft's Vostok Oil project. The announcement coincided with a European Political Community summit in Dublin, where Prime Minister Andy Burnham planned to discuss the war in Ukraine and peace negotiations with other leaders. The UK's official sanctions register was updated on November 12. Reuters also reported the measures. The claim about all ten major producers comes from the British government; it does not mean Russian oil exports have stopped.",
+        "analysis": "London says the goal is to raise the economic cost of the war for Moscow by restricting energy revenues and transport networks. The actual impact will depend on enforcement, alternative buyers, global prices and sanctions-evasion routes. Restrictions on companies and vessels can complicate trade but do not amount to a physical blockade of Russian oil. The move comes alongside diplomatic efforts over Ukraine, and its economic effects remain to be assessed.",
+        "counterpoint": "Britain is trying to target war funding rather than promise that a signature will end the conflict. Cutting revenues may increase pressure on Moscow, but the real test is enforcement: oil does not stop moving simply because a government publishes a list. Effects on prices and consumers also deserve scrutiny.",
+        "category": "WORLD",
+        "slug": "uk-sanctions-slavneft-bringing-all-ten-of-russia-s-largest-oil-producers-under-2026-11-12"
+      },
+      "es": {
+        "title": "Reino Unido sanciona a Slavneft y alcanza a las diez mayores petroleras de Rusia",
+        "subtitle": "El nuevo paquete también afecta a buques y empresas energéticas; Londres busca reducir los ingresos que financian la guerra en Ucrania.",
+        "facts": "El jueves 12 de noviembre de 2026, el Gobierno británico anunció nuevas sanciones contra el sector energético ruso. Con la inclusión de la petrolera Slavneft, el Reino Unido se convierte, según su comunicado oficial, en el primer país que sanciona a las diez mayores productoras de petróleo de Rusia. Las medidas también afectan a buques vinculados al transporte de petróleo y gas natural licuado (GNL), grandes empresas carboneras y el proyecto Vostok Oil, asociado a Rosneft. El anuncio coincidió con la cumbre de la Comunidad Política Europea en Dublín, donde el primer ministro Andy Burnham tenía previsto tratar la guerra en Ucrania y las negociaciones de paz con otros dirigentes. El registro oficial británico de sanciones fue actualizado el 12 de noviembre. Reuters también informó de las medidas. La afirmación sobre las diez principales productoras procede del Gobierno británico; no implica que hayan cesado las exportaciones rusas.",
+        "analysis": "Londres sostiene que busca aumentar el coste económico de la guerra para Moscú limitando los ingresos energéticos y las redes de transporte. El efecto real dependerá de la aplicación de las medidas, los compradores alternativos, los precios internacionales y las posibles vías para eludirlas. Las sanciones a empresas y buques pueden dificultar el comercio, pero no constituyen un bloqueo físico del petróleo ruso. La iniciativa coincide con esfuerzos diplomáticos sobre Ucrania y sus efectos económicos aún deben evaluarse.",
+        "counterpoint": "El Reino Unido intenta golpear la financiación de la guerra, no prometer que una firma resolverá el conflicto. Reducir ingresos puede aumentar la presión sobre Moscú, pero la prueba será la aplicación: el petróleo no deja de circular solo porque un gobierno publique una lista. También hay que vigilar las consecuencias para los precios y los consumidores.",
+        "category": "MUNDO",
+        "slug": "reino-unido-sanciona-a-slavneft-y-alcanza-a-las-diez-mayores-petroleras-de-rusia-2026-11-12"
+      },
+      "firstSeen": "2026-11-12T10:05:00-03:00"
+    },
+    {
       "id": "ataque-tiros-academia-washington-logan-circle-2026-11-12",
       "date": "2026-11-12",
       "category": "MUNDO",

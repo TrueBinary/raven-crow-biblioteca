@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "reino-unido-sanciona-dez-maiores-petroleiras-russas-slavneft-2026-11-12": "editorial/covers/reino-unido-sanciona-dez-maiores-petroleiras-russas-slavneft-2026-11-12.svg",
     "ataque-tiros-academia-washington-logan-circle-2026-11-12": "editorial/covers/ataque-tiros-academia-washington-logan-circle-2026-11-12.svg",
     "putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12": "editorial/covers/putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12.svg",
     "petroleiro-atingido-projetil-emirados-tripulacao-evacuada-2026-11-12": "editorial/covers/petroleiro-atingido-projetil-emirados-tripulacao-evacuada-2026-11-12.svg",
@@ -249,7 +250,9 @@
     "a-geladeira-virou-refem-da-peca-2026-11-12": "editorial/photos/a-geladeira-virou-refem-da-peca-2026-11-12.jpg",
     "jensen-huang-deixa-nvidia-colette-kress-ceo-interina-2026-11-12": "editorial/photos/jensen-huang-deixa-nvidia-colette-kress-ceo-interina-2026-11-12.jpg",
     "ataque-tiros-academia-washington-logan-circle-2026-11-12": "editorial/photos/ataque-tiros-academia-washington-logan-circle-2026-11-12.jpg",
-    "putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12": "editorial/photos/putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12.jpg"
+    "putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12": "editorial/photos/putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12.jpg",
+    "petroleiro-atingido-projetil-emirados-tripulacao-evacuada-2026-11-12": "editorial/photos/petroleiro-atingido-projetil-emirados-tripulacao-evacuada-2026-11-12.jpg",
+    "g7-alerta-acoes-china-leste-taiwan-navegacao-2026-11-12": "editorial/photos/g7-alerta-acoes-china-leste-taiwan-navegacao-2026-11-12.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -923,6 +926,18 @@
       "srcset": "editorial/photos/putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12-320.webp 320w, editorial/photos/putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12-640.webp 640w, editorial/photos/putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12-960.webp 960w, editorial/photos/putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12-1280.webp 1280w",
       "width": 1280,
       "height": 790
+    },
+    "petroleiro-atingido-projetil-emirados-tripulacao-evacuada-2026-11-12": {
+      "src": "editorial/photos/petroleiro-atingido-projetil-emirados-tripulacao-evacuada-2026-11-12-1280.webp",
+      "srcset": "editorial/photos/petroleiro-atingido-projetil-emirados-tripulacao-evacuada-2026-11-12-320.webp 320w, editorial/photos/petroleiro-atingido-projetil-emirados-tripulacao-evacuada-2026-11-12-640.webp 640w, editorial/photos/petroleiro-atingido-projetil-emirados-tripulacao-evacuada-2026-11-12-960.webp 960w, editorial/photos/petroleiro-atingido-projetil-emirados-tripulacao-evacuada-2026-11-12-1280.webp 1280w",
+      "width": 1280,
+      "height": 960
+    },
+    "g7-alerta-acoes-china-leste-taiwan-navegacao-2026-11-12": {
+      "src": "editorial/photos/g7-alerta-acoes-china-leste-taiwan-navegacao-2026-11-12-1280.webp",
+      "srcset": "editorial/photos/g7-alerta-acoes-china-leste-taiwan-navegacao-2026-11-12-320.webp 320w, editorial/photos/g7-alerta-acoes-china-leste-taiwan-navegacao-2026-11-12-640.webp 640w, editorial/photos/g7-alerta-acoes-china-leste-taiwan-navegacao-2026-11-12-960.webp 960w, editorial/photos/g7-alerta-acoes-china-leste-taiwan-navegacao-2026-11-12-1280.webp 1280w",
+      "width": 1280,
+      "height": 888
     }
   }
 }
