@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "corteva-acoes-despencam-crise-agro-brasil-revisao-lucro-2026-11-12",
+      "date": "2026-11-12",
+      "category": "ECONOMIA",
+      "title": "Corteva despenca em Wall Street após crise no agro brasileiro derrubar previsão de lucro",
+      "subtitle": "Fabricante de defensivos agrícolas reduz projeções para 2026; juros altos e dificuldades de caixa dos produtores brasileiros pressionam as vendas.",
+      "facts": "As ações da norte-americana Corteva sofreram forte queda nesta quinta-feira (12 de novembro de 2026), após a companhia revisar para baixo sua projeção anual de resultados. A empresa, especializada em defensivos agrícolas, atribuiu parte relevante da piora à fraqueza do mercado brasileiro: produtores rurais enfrentam custos de financiamento elevados, restrições de liquidez e preços pressionados, enquanto estoques acumulados na distribuição adiam novas compras. Segundo o balanço publicado em 11 de novembro, a receita global do terceiro trimestre caiu 9% em relação ao ano anterior, para US$ 1,59 bilhão, e a empresa registrou prejuízo pro forma de US$ 54 milhões. As vendas orgânicas da América Latina recuaram 31%. A projeção de EBITDA operacional ajustado para 2026 passou a US$ 1,1 bilhão a US$ 1,125 bilhão. A Reuters registrou recuo de cerca de 20% nas ações durante o pregão de quinta-feira; a cotação variou ao longo do dia.",
+      "analysis": "O resultado expõe o impacto combinado de juros elevados, aperto de crédito e estoques excessivos sobre a cadeia de insumos do agronegócio brasileiro. O enfraquecimento das compras não significa, isoladamente, uma queda equivalente na produção agrícola, mas afeta fornecedores, distribuidores e investidores. A magnitude da revisão de resultados também reflete fatores próprios da Corteva, inclusive a separação recente de seu negócio de sementes. Os próximos balanços ajudarão a esclarecer quanto da desaceleração é temporário e quanto persistirá em 2027.",
+      "counterpoint": "Quando o custo do dinheiro aperta e o agricultor posterga a compra de insumos, a conta chega até a bolsa americana. Mas seria simplista atribuir toda a queda das ações a uma única decisão econômica brasileira: estoques, preços, concorrência e escolhas da própria companhia também entram nessa conta.",
+      "sources": [
+        {
+          "name": "Corteva — balanço oficial do terceiro trimestre e projeções (11/11/2026)",
+          "url": "https://investors.corteva.com/static-files/655dca1d-4d14-4057-8297-04049f66c0af"
+        },
+        {
+          "name": "Reuters — queda das ações e pressão do mercado brasileiro (12/11/2026)",
+          "url": "https://www.reuters.com/world/americas/corteva-shares-slide-after-brazil-weakness-prompts-annual-profit-forecast-cut-2026-11-12/"
+        },
+        {
+          "name": "CNN Brasil — resultado e retração na América Latina (12/11/2026)",
+          "url": "https://www.cnnbrasil.com.br/agro/corteva-registra-prejuizo-de-us-54-milhoes-no-3-trimestre-de-2026/"
+        }
+      ],
+      "en": {
+        "title": "Corteva shares plunge as Brazil's farm-sector slowdown forces profit outlook cut",
+        "subtitle": "Crop-protection maker lowers its 2026 forecast as high borrowing costs and cash constraints weigh on Brazilian farmers' purchases.",
+        "facts": "Shares of US crop-protection company Corteva fell sharply on Thursday, November 12, 2026, after it lowered its full-year earnings outlook. The company said weakness in Brazil was a major factor: farmers face expensive financing, liquidity constraints and pricing pressure, while excess distributor inventory has delayed purchases. In results released on November 11, Corteva reported third-quarter global revenue of US$1.59 billion, down 9% year over year, and a pro forma loss of US$54 million. Organic sales in Latin America declined 31%. Its 2026 adjusted operating EBITDA forecast was lowered to US$1.1 billion–US$1.125 billion. Reuters reported that shares were down around 20% during Thursday's session; the market price fluctuated throughout the day.",
+        "analysis": "The results highlight how high interest rates, tight credit and excess inventory can ripple through Brazil's agricultural input supply chain. Weaker purchasing does not necessarily imply an equivalent drop in farm output, but it affects suppliers, distributors and investors. Corteva-specific factors, including the recent separation of its seeds business, also matter. Upcoming earnings will help show whether the weakness is temporary or extends into 2027.",
+        "counterpoint": "When borrowing costs rise and farmers postpone buying inputs, the impact can reach US stock markets. But attributing the entire share-price decline to one Brazilian policy would ignore inventories, competition, pricing and Corteva's own business decisions.",
+        "category": "ECONOMY",
+        "slug": "corteva-shares-plunge-as-brazil-s-farm-sector-slowdown-forces-profit-outlook-cut-2026-11-12"
+      },
+      "es": {
+        "title": "Las acciones de Corteva se desploman por la debilidad del agro brasileño y el recorte de previsiones",
+        "subtitle": "La fabricante de productos fitosanitarios reduce sus proyecciones para 2026 ante los altos costos financieros y las restricciones de liquidez de agricultores brasileños.",
+        "facts": "Las acciones de la estadounidense Corteva, especializada en protección de cultivos, cayeron con fuerza el jueves 12 de noviembre de 2026 después de que la empresa recortara sus previsiones anuales. La compañía atribuyó buena parte del deterioro a Brasil: los agricultores afrontan financiación costosa, falta de liquidez y presión sobre los precios, mientras los inventarios acumulados en la distribución retrasan nuevas compras. En sus resultados publicados el 11 de noviembre, Corteva informó ingresos globales de US$1.590 millones en el tercer trimestre, un 9% menos interanual, y pérdidas pro forma de US$54 millones. Las ventas orgánicas de América Latina bajaron un 31%. Su previsión de EBITDA operativo ajustado para 2026 quedó entre US$1.100 millones y US$1.125 millones. Reuters informó de una caída cercana al 20% de las acciones durante la sesión del jueves; la cotización varió a lo largo del día.",
+        "analysis": "Los resultados muestran cómo los intereses elevados, la restricción del crédito y los inventarios excesivos afectan a la cadena de insumos agrícolas brasileña. Menores compras no implican necesariamente una caída equivalente de la producción, pero perjudican a proveedores, distribuidores e inversores. También influyen factores propios de Corteva, incluida la reciente separación de su negocio de semillas. Los próximos balances permitirán evaluar si la debilidad persiste en 2027.",
+        "counterpoint": "Cuando el crédito se encarece y el agricultor aplaza la compra de insumos, el efecto llega incluso a Wall Street. Pero atribuir toda la caída bursátil a una sola política brasileña ignoraría los inventarios, los precios, la competencia y las decisiones de la propia compañía.",
+        "category": "ECONOMÍA",
+        "slug": "las-acciones-de-corteva-se-desploman-por-la-debilidad-del-agro-brasileno-y-el-2026-11-12"
+      },
+      "firstSeen": "2026-11-12T10:05:00-03:00"
+    },
+    {
       "id": "caixa-vida-previdencia-vazamento-dados-76-milhoes-2026-11-12",
       "date": "2026-11-12",
       "category": "TECNOLOGIA",
