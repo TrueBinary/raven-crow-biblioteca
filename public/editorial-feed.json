@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "xi-jinping-reafirma-reunificacao-taiwan-2026-11-12",
+      "date": "2026-11-12",
+      "category": "MUNDO",
+      "title": "Xi Jinping diz que 'reunificação' de Taiwan é inevitável; ilha rejeita reivindicação chinesa",
+      "subtitle": "Presidente chinês volta a defender integração de Taiwan a Pequim em discurso no aniversário de Sun Yat-sen, enquanto tensão regional aumenta.",
+      "facts": "O presidente da China, Xi Jinping, afirmou nesta quinta-feira, 12 de novembro de 2026, que a 'reunificação completa' de Taiwan com a China deve acontecer e que o curso da história não pode ser interrompido. A declaração foi feita no Grande Salão do Povo, em Pequim, durante uma cerimônia pelo 160º aniversário de nascimento de Sun Yat-sen, figura histórica da revolução de 1911. Xi apresentou a integração da ilha como missão histórica do Partido Comunista Chinês e disse defender um processo pacífico. Taiwan tem governo democraticamente eleito, rejeita a reivindicação de soberania de Pequim e não aceita a fórmula de 'um país, dois sistemas' proposta pela China. O pronunciamento ocorre em meio a novas advertências de ministros do G7 sobre a atividade de navios chineses a leste de Taiwan. O discurso não anunciou uma operação militar nem uma data para eventual mudança de status.",
+      "analysis": "A fala reforça uma posição antiga do governo chinês, mas ganha importância pelo momento diplomático: líderes do G7 alertaram que patrulhas chinesas no entorno de Taiwan podem ameaçar a estabilidade e a liberdade de navegação. A China considera Taiwan parte de seu território e afirma preferir uma solução pacífica, embora não tenha renunciado ao emprego da força. Em Taipei, o governo de Lai Ching-te sustenta que apenas os habitantes da ilha podem decidir seu futuro. É importante distinguir a retórica de Pequim de um anúncio concreto de invasão: não há, nesta declaração, uma ordem pública de ataque ou um cronograma de anexação.",
+      "counterpoint": "Quando um governante diz que o destino de uma população inteira é inevitável, vale perguntar: inevitável para quem? Pequim chama de reunificação aquilo que muitos taiwaneses enxergam como perda da própria autonomia. A estabilidade no estreito depende menos de profecias políticas e mais de negociação sem coerção. Ao mesmo tempo, uma declaração dura não deve ser transformada, sem evidências, em notícia de invasão iminente.",
+      "sources": [
+        {
+          "name": "Reuters — Xi says Taiwan 'reunification' must happen (12/11/2026)",
+          "url": "https://www.reuters.com/world/china/chinas-xi-says-taiwan-reunification-must-happen-history-cannot-be-stopped-2026-11-12/"
+        },
+        {
+          "name": "Reuters — G7 warns about Chinese actions east of Taiwan (12/11/2026)",
+          "url": "https://www.reuters.com/world/china/g7-foreign-ministers-say-chinas-actions-east-taiwan-threaten-stability-2026-11-12/"
+        },
+        {
+          "name": "Reuters — Taiwan's president demands equal APEC participation (12/11/2026)",
+          "url": "https://www.reuters.com/world/china/taiwan-is-taking-part-apec-china-summit-an-equal-basis-president-says-2026-11-12/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Xi_Jinping_%28cropped%29_%282024%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+          "credit": "Christophe Licoppe / União Europeia, via Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Xi_Jinping_(cropped)_(2024).jpg",
+          "caption": "FOTO DE ARQUIVO (06/05/2024): Xi Jinping durante visita à França. Christophe Licoppe / União Europeia, via Wikimedia Commons (CC BY 4.0). Não retrata o pronunciamento de 12 de novembro de 2026."
+        }
+      ],
+      "en": {
+        "title": "Xi Jinping says Taiwan 'reunification' is inevitable; island rejects China's claim",
+        "subtitle": "China's president again calls for Taiwan to come under Beijing's rule at a Sun Yat-sen anniversary event amid heightened regional tensions.",
+        "facts": "Chinese President Xi Jinping said on Thursday, November 12, 2026, that Taiwan's 'complete reunification' with China must happen and that the tide of history cannot be stopped. He spoke at Beijing's Great Hall of the People during a ceremony marking the 160th anniversary of Sun Yat-sen's birth, commemorating a leading figure in the 1911 revolution. Xi described bringing Taiwan under Beijing's control as a historic mission of the Chinese Communist Party and said he preferred a peaceful process. Democratically governed Taiwan rejects Beijing's sovereignty claim and its proposed 'one country, two systems' framework. The remarks come as G7 foreign ministers warn about Chinese maritime activity east of Taiwan. Xi did not announce a military operation or a timetable for changing the island's status.",
+        "analysis": "Xi's remarks reiterate Beijing's longstanding position, but their timing matters: G7 ministers have warned that Chinese patrols around Taiwan threaten regional stability and freedom of navigation. China regards Taiwan as part of its territory and says it prefers a peaceful outcome, while refusing to rule out force. Taiwan's government under Lai Ching-te says the island's future must be decided by its people. Strong rhetoric should not be confused with an actual invasion announcement: this speech included neither a public attack order nor an annexation schedule.",
+        "counterpoint": "When a leader says the destiny of an entire population is inevitable, the question is: inevitable for whom? Beijing calls it reunification; many in Taiwan see the potential loss of their autonomy. Stability in the strait requires negotiations without coercion, not political prophecies. At the same time, a forceful statement is not evidence of an imminent invasion.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (May 6, 2024): Xi Jinping during a visit to France. Christophe Licoppe / European Union, via Wikimedia Commons (CC BY 4.0). This does not depict the November 12, 2026 speech."
+        },
+        "slug": "xi-jinping-says-taiwan-reunification-is-inevitable-island-rejects-china-s-claim-2026-11-12"
+      },
+      "es": {
+        "title": "Xi Jinping afirma que la 'reunificación' de Taiwán es inevitable; la isla rechaza la reivindicación china",
+        "subtitle": "El presidente chino vuelve a defender la incorporación de Taiwán al control de Pekín durante un acto dedicado a Sun Yat-sen, en medio de nuevas tensiones regionales.",
+        "facts": "El presidente de China, Xi Jinping, afirmó este jueves, 12 de noviembre de 2026, que la 'reunificación completa' de Taiwán con China debe concretarse y que la corriente de la historia no puede detenerse. Habló en el Gran Palacio del Pueblo, en Pekín, durante una ceremonia por el 160.º aniversario del nacimiento de Sun Yat-sen, figura clave de la revolución de 1911. Xi presentó la incorporación de la isla como misión histórica del Partido Comunista Chino y dijo que prefería una vía pacífica. Taiwán, gobernado democráticamente, rechaza la reivindicación de soberanía de Pekín y su propuesta de 'un país, dos sistemas'. Las declaraciones coinciden con nuevas advertencias de los ministros del G7 sobre la actividad marítima china al este de Taiwán. Xi no anunció ninguna operación militar ni una fecha para modificar el estatus de la isla.",
+        "analysis": "Las palabras de Xi reiteran una postura histórica de Pekín, pero llegan en un momento delicado: los ministros del G7 advirtieron que las patrullas chinas alrededor de Taiwán amenazan la estabilidad regional y la libertad de navegación. China considera la isla parte de su territorio y afirma preferir una solución pacífica, aunque no descarta el uso de la fuerza. El gobierno taiwanés de Lai Ching-te sostiene que solo sus habitantes pueden decidir su futuro. Conviene distinguir la retórica política de un anuncio de invasión: el discurso no incluyó una orden pública de ataque ni un calendario de anexión.",
+        "counterpoint": "Cuando un gobernante declara inevitable el destino de toda una población, cabe preguntar: ¿inevitable para quién? Pekín habla de reunificación; muchos taiwaneses temen perder su autonomía. La estabilidad en el estrecho exige diálogo sin coerción, no profecías políticas. Y una declaración contundente tampoco demuestra que una invasión sea inminente.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (6 de mayo de 2024): Xi Jinping durante una visita a Francia. Christophe Licoppe / Unión Europea, vía Wikimedia Commons (CC BY 4.0). No muestra el discurso del 12 de noviembre de 2026."
+        },
+        "slug": "xi-jinping-afirma-que-la-reunificacion-de-taiwan-es-inevitable-la-isla-rechaza-2026-11-12"
+      },
+      "firstSeen": "2026-11-12T02:13:11-03:00"
+    },
+    {
       "id": "california-baniu-creatina-restricao-menores-ab2030-2026-11-12",
       "date": "2026-11-12",
       "category": "MUNDO",

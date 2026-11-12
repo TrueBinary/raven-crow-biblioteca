@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "xi-jinping-reafirma-reunificacao-taiwan-2026-11-12": "editorial/covers/xi-jinping-reafirma-reunificacao-taiwan-2026-11-12.svg",
     "california-baniu-creatina-restricao-menores-ab2030-2026-11-12": "editorial/covers/california-baniu-creatina-restricao-menores-ab2030-2026-11-12.svg",
     "banco-do-brasil-lucro-cai-665-por-cento-3t26-2026-11-11": "editorial/covers/banco-do-brasil-lucro-cai-665-por-cento-3t26-2026-11-11.svg",
     "operacao-refit-dez-presos-fraude-fiscal-55-bilhoes-2026-11-11": "editorial/covers/operacao-refit-dez-presos-fraude-fiscal-55-bilhoes-2026-11-11.svg",
@@ -223,7 +224,8 @@
     "governo-propoe-ajuste-fiscal-ate-60-bilhoes-2027-2026-11-11": "editorial/photos/governo-propoe-ajuste-fiscal-ate-60-bilhoes-2027-2026-11-11.jpg",
     "operacao-refit-dez-presos-fraude-fiscal-55-bilhoes-2026-11-11": "editorial/photos/operacao-refit-dez-presos-fraude-fiscal-55-bilhoes-2026-11-11.jpg",
     "banco-do-brasil-lucro-cai-665-por-cento-3t26-2026-11-11": "editorial/photos/banco-do-brasil-lucro-cai-665-por-cento-3t26-2026-11-11.jpg",
-    "california-baniu-creatina-restricao-menores-ab2030-2026-11-12": "editorial/photos/california-baniu-creatina-restricao-menores-ab2030-2026-11-12.jpg"
+    "california-baniu-creatina-restricao-menores-ab2030-2026-11-12": "editorial/photos/california-baniu-creatina-restricao-menores-ab2030-2026-11-12.jpg",
+    "xi-jinping-reafirma-reunificacao-taiwan-2026-11-12": "editorial/photos/xi-jinping-reafirma-reunificacao-taiwan-2026-11-12.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -831,6 +833,12 @@
       "srcset": "editorial/photos/california-baniu-creatina-restricao-menores-ab2030-2026-11-12-320.webp 320w, editorial/photos/california-baniu-creatina-restricao-menores-ab2030-2026-11-12-640.webp 640w, editorial/photos/california-baniu-creatina-restricao-menores-ab2030-2026-11-12-960.webp 960w, editorial/photos/california-baniu-creatina-restricao-menores-ab2030-2026-11-12-1280.webp 1280w",
       "width": 1280,
       "height": 1707
+    },
+    "xi-jinping-reafirma-reunificacao-taiwan-2026-11-12": {
+      "src": "editorial/photos/xi-jinping-reafirma-reunificacao-taiwan-2026-11-12-639.webp",
+      "srcset": "editorial/photos/xi-jinping-reafirma-reunificacao-taiwan-2026-11-12-320.webp 320w, editorial/photos/xi-jinping-reafirma-reunificacao-taiwan-2026-11-12-639.webp 639w",
+      "width": 639,
+      "height": 908
     }
   }
 }
