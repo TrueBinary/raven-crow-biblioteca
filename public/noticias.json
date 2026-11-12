@@ -5,7 +5,7 @@
   "updatedAt": "2026-11-12T10:05:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
-    {
+{
       "id": "ataque-tiros-academia-washington-logan-circle-2026-11-12",
       "date": "2026-11-12",
       "category": "MUNDO",
@@ -34,7 +34,10 @@
         "facts": "A gunman opened fire on Thursday morning, November 12, 2026, at VIDA Fitness and nearby locations in Washington, D.C.'s Logan Circle neighborhood. Police said one person was killed and four others were wounded, including one in critical condition. The suspect retreated to a seventh-floor apartment in a nearby building and barricaded himself inside. During negotiations with officers, a gunshot was heard; police entered and found him dead from what appeared to be a self-inflicted gunshot wound. His death was confirmed in reports by the Associated Press, Reuters and NPR. Police said the initial emergency response began around 8 a.m. local time. Tactical teams deployed, streets were closed and nearby schools took precautions. Investigators are still determining the motive. Reports have mentioned a possible dispute involving condominium management, but that remains a line of inquiry rather than a definitive explanation for the attack.",
         "analysis": "The violence struck a busy residential and commercial area near the US capital's political center, disrupting ordinary activities. Police sealed off surrounding blocks, deployed specialized teams and attempted to negotiate with the suspect. Investigators will need to establish the precise sequence of events, any connection between the gunman and the victims, the weapon's origin and whether previous disputes played a role. The reported death toll distinguishes the person killed in the attack from the suspect, who also died.",
         "counterpoint": "A trip to the gym should end with a workout, not an emergency operation. Investigators must establish what happened, who was targeted and whether warning signs were missed. Treating an unproven theory about motive as a verdict would only undermine that work.",
-        "category": "WORLD"
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (May 20, 2009): Logan Circle Park in Washington, D.C. Kas Hayes / Wikimedia Commons (CC BY-SA 4.0). Not the gym or the November 12, 2026 shooting."
+        }
       },
       "es": {
         "title": "URGENTE: un tiroteo en un gimnasio de Washington deja un muerto y cuatro heridos; el sospechoso también fallece",
@@ -42,10 +45,24 @@
         "facts": "Un hombre armado abrió fuego la mañana del jueves 12 de noviembre de 2026 en el gimnasio VIDA Fitness y sus alrededores, en el barrio de Logan Circle de Washington, capital de Estados Unidos. Según la policía, una persona murió y otras cuatro resultaron heridas, una de ellas en estado crítico. El sospechoso se refugió en un apartamento del séptimo piso de un edificio cercano, donde se atrincheró. Durante las negociaciones con los agentes se escuchó un disparo; al entrar, la policía lo encontró muerto por lo que parecía ser un tiro autoinfligido. Su fallecimiento fue confirmado en informaciones de Associated Press, Reuters y NPR. La policía señaló que la respuesta inicial comenzó alrededor de las 8 de la mañana, hora local. Se desplegaron equipos tácticos, se cerraron calles y las escuelas cercanas adoptaron precauciones. Las autoridades investigan el motivo. Algunas informaciones mencionan una posible disputa con la administración del condominio, pero esa hipótesis no constituye una conclusión definitiva sobre el ataque.",
         "analysis": "El episodio ocurrió en una zona residencial y comercial concurrida, próxima al centro político de la capital estadounidense, e interrumpió actividades cotidianas. La policía acordonó varias calles, movilizó unidades especializadas e intentó negociar con el sospechoso. La investigación deberá aclarar la secuencia exacta de los disparos, la relación entre el atacante y las víctimas, el origen del arma y cualquier posible vínculo con conflictos anteriores. El balance distingue a la persona fallecida durante el ataque del sospechoso, que también murió.",
         "counterpoint": "Ir al gimnasio debería terminar con ejercicio, no con un operativo de emergencia. Es necesario esclarecer lo ocurrido, identificar a las víctimas y determinar si hubo señales de alerta previas. Convertir una hipótesis sobre el motivo en una sentencia anticipada solo perjudica la investigación.",
-        "category": "MUNDO"
-      }
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (20/05/2009): parque Logan Circle, en Washington, D.C. Kas Hayes / Wikimedia Commons (CC BY-SA 4.0). No muestra el gimnasio ni el ataque del 12/11/2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logan_Circle_Park%2C_Washington_DC.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0",
+          "credit": "Kas Hayes / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Logan_Circle_Park,_Washington_DC.jpg",
+          "caption": "FOTO DE ARQUIVO (20/05/2009): parque Logan Circle, em Washington, D.C. Kas Hayes / Wikimedia Commons (CC BY-SA 4.0). Não mostra a academia nem o ataque de 12/11/2026."
+        }
+      ]
     },
-    {
+{
       "id": "putin-ameaca-tropas-estrangeiras-ucrania-negociacoes-moscou-2026-11-12",
       "date": "2026-11-12",
       "category": "MUNDO",
@@ -74,7 +91,10 @@
         "facts": "Russian President Vladimir Putin said on November 12, 2026, that foreign troops deployed in Ukraine after a possible peace settlement could trigger renewed war and would be treated as targets, according to Reuters, the Associated Press and The Guardian. Putin met US envoys Steve Witkoff and Jared Kushner in Moscow. Witkoff said European representatives could join the next round of talks, but Kremlin aide Yuri Ushakov did not confirm the arrangement, while the Associated Press reported Russian opposition to European participation. The envoys are expected to travel to Dublin for talks with Ukrainian President Volodymyr Zelenskyy. Major disagreements remain over occupied territory, security guarantees and European troops. No ceasefire or final settlement has been announced. Zelenskyy also reported new restrictions on the Starshield military communications service affecting Ukrainian operations; the cause of the disruptions has not been independently established.",
         "analysis": "The talks show the gap between reopening dialogue and reaching a workable settlement. Russia continues to demand territory and rejects European troops as a security guarantee, while Ukraine opposes surrendering land it still controls. European participation remains disputed: Witkoff's remarks are not a formally confirmed commitment from Moscow. Without agreement on borders and security, further meetings may sustain diplomacy without delivering immediate peace.",
         "counterpoint": "Threatening to attack foreign forces while discussing peace is an unusual form of diplomacy: the negotiating table comes with an artillery warning. Still, testing verifiable proposals is better than selling empty optimism. Any settlement must address Ukrainians' security and cannot mistake military occupation for consent.",
-        "category": "WORLD"
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (May 31, 2024): Vladimir Putin at an official meeting in Russia. Russian Presidential Press Service / Kremlin.ru (CC BY 4.0). Not the November 12, 2026 remarks."
+        }
       },
       "es": {
         "title": "Putin amenaza a tropas extranjeras en Ucrania durante nuevas negociaciones con Estados Unidos",
@@ -82,10 +102,24 @@
         "facts": "El presidente ruso Vladimir Putin afirmó el 12 de noviembre de 2026 que el despliegue de tropas extranjeras en Ucrania después de un eventual acuerdo de paz podría desencadenar otra guerra y que esas fuerzas serían consideradas objetivos, según Reuters, Associated Press y The Guardian. Putin se reunió en Moscú con los enviados estadounidenses Steve Witkoff y Jared Kushner. Witkoff dijo que representantes europeos podrían participar en la próxima ronda, pero el asesor del Kremlin Yuri Ushakov no confirmó ese entendimiento y Associated Press informó de la oposición rusa a la participación europea. Los enviados tienen previsto viajar a Dublín para reunirse con el presidente ucraniano Volodymyr Zelenskyy. Persisten diferencias sobre los territorios ocupados, las garantías de seguridad y una eventual presencia militar europea. No se ha anunciado un alto el fuego ni un acuerdo definitivo. Zelenskyy también denunció nuevas restricciones al servicio de comunicaciones militares Starshield que afectan a las operaciones ucranianas; la causa de las interrupciones no se ha confirmado de forma independiente.",
         "analysis": "La ronda diplomática muestra la distancia entre reabrir el diálogo y alcanzar un acuerdo viable. Rusia mantiene sus exigencias territoriales y rechaza tropas europeas como garantía de seguridad, mientras Ucrania se opone a entregar las zonas que aún controla. La participación europea sigue en disputa: las declaraciones de Witkoff no constituyen un compromiso formal confirmado por Moscú. Sin consenso sobre fronteras y seguridad, nuevas reuniones podrían mantener el diálogo sin producir una paz inmediata.",
         "counterpoint": "Amenazar con atacar fuerzas extranjeras mientras se negocia la paz es una diplomacia peculiar: la mesa de diálogo viene acompañada de una advertencia de artillería. Aun así, es preferible examinar propuestas verificables antes que vender optimismo vacío. Un acuerdo debe proteger la seguridad de los ucranianos y no confundir ocupación militar con consentimiento.",
-        "category": "MUNDO"
-      }
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (31/05/2024): Vladimir Putin en una reunión oficial en Rusia. Prensa de la Presidencia de Rusia / Kremlin.ru (CC BY 4.0). No muestra sus declaraciones del 12/11/2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Vladimir_Putin_%282024-05-31%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 4.0",
+          "credit": "Serviço de Imprensa da Presidência da Rússia / Kremlin.ru / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_(2024-05-31).jpg",
+          "caption": "FOTO DE ARQUIVO (31/05/2024): Vladimir Putin em reunião oficial na Rússia. Imprensa da Presidência da Rússia / Kremlin.ru (CC BY 4.0). Não retrata o pronunciamento de 12/11/2026."
+        }
+      ]
     },
-    {
+{
       "id": "petroleiro-atingido-projetil-emirados-tripulacao-evacuada-2026-11-12",
       "date": "2026-11-12",
       "category": "MUNDO",
@@ -114,7 +148,10 @@
         "facts": "The Liberia-flagged oil tanker MT Dominica Prosperity was struck by an unidentified projectile on Wednesday, November 11, 2026, about 14 nautical miles northwest of Ras Al-Khaimah in the United Arab Emirates, according to British maritime alerts reported by Reuters on Thursday, November 12. The impact caused an engine-room fire. All 22 crew members, including 19 Indian nationals, were safely evacuated, Indian Shipping Minister Sarbananda Sonowal said. Maritime security company Ambrey reported that the tanker was hit near the stern as it departed the Strait of Hormuz area. Neither the attacker nor the precise type of projectile had been confirmed. The incident comes amid escalating risks to commercial shipping in the Persian Gulf, but available evidence does not establish who fired the projectile.",
         "analysis": "Security in and around the Strait of Hormuz remains vital to international energy supplies. Attacks on merchant vessels raise insurance costs, threaten delivery schedules and put multinational crews at risk. This case also demonstrates why confirmed maritime alerts and government statements must be distinguished from claims made by parties to the conflict. The crew's safe evacuation does not remove the potential environmental and economic consequences of a tanker fire.",
         "counterpoint": "Commercial shipping should not become target practice for geopolitical confrontation. All 22 crew members escaped safely this time, but how many more incidents will it take before civilian navigation stops being treated as military leverage? Accountability requires identifying the attacker, not choosing a convenient culprit.",
-        "category": "WORLD"
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (July 30, 2022): SKS Darent oil tanker at Kwinana, Australia. Calistemon / Wikimedia Commons (CC BY-SA 4.0). This is not MT Dominica Prosperity, hit on November 11, 2026."
+        }
       },
       "es": {
         "title": "Un petrolero recibe el impacto de un proyectil cerca de Emiratos Árabes; evacúan a 22 tripulantes",
@@ -122,10 +159,24 @@
         "facts": "El petrolero MT Dominica Prosperity, con bandera de Liberia, fue alcanzado por un proyectil no identificado el miércoles 11 de noviembre de 2026, a unas 14 millas náuticas al noroeste de Ras Al-Khaimah, en Emiratos Árabes Unidos, según alertas marítimas británicas difundidas por Reuters el jueves 12. El impacto provocó un incendio en la sala de máquinas. Los 22 tripulantes, incluidos 19 ciudadanos indios, fueron evacuados sanos y salvos, informó el ministro indio de Transporte Marítimo, Sarbananda Sonowal. La firma de seguridad marítima Ambrey indicó que el buque recibió el impacto en la popa cuando salía de la zona del estrecho de Ormuz. No se había confirmado la autoría del ataque ni el tipo exacto de proyectil. El incidente se produce en medio de crecientes riesgos para la navegación comercial en el golfo Pérsico, pero no existen pruebas suficientes para atribuir el disparo a una fuerza concreta.",
         "analysis": "La seguridad del estrecho de Ormuz sigue siendo esencial para el suministro energético mundial. Los ataques contra buques mercantes encarecen los seguros, pueden retrasar las entregas y ponen en peligro a tripulaciones de distintas nacionalidades. Este caso también muestra por qué deben distinguirse las alertas marítimas y declaraciones oficiales verificadas de las afirmaciones de las partes enfrentadas. La evacuación segura no elimina los posibles daños ambientales y económicos de un incendio a bordo.",
         "counterpoint": "Un barco comercial no debería convertirse en blanco de tiro de las disputas geopolíticas. Esta vez los 22 tripulantes salieron con vida; ¿cuántos incidentes más harán falta para que la navegación civil deje de utilizarse como herramienta de presión militar? Exigir responsabilidades significa identificar al autor, no elegir un culpable por conveniencia.",
-        "category": "MUNDO"
-      }
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (30/07/2022): petrolero SKS Darent en Kwinana, Australia. Calistemon / Wikimedia Commons (CC BY-SA 4.0). No es el MT Dominica Prosperity, alcanzado el 11/11/2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Crude_Oil_Tanker_SKS_Darent_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_July_2022_02.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0",
+          "credit": "Calistemon / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Crude_Oil_Tanker_SKS_Darent_at_BP_Oil_Refinery_Jetty,_Kwinana,_July_2022_02.jpg",
+          "caption": "FOTO DE ARQUIVO (30/07/2022): petroleiro SKS Darent em Kwinana, Austrália. Calistemon / Wikimedia Commons (CC BY-SA 4.0). Não é o MT Dominica Prosperity atingido em 11/11/2026."
+        }
+      ]
     },
-    {
+{
       "id": "g7-alerta-acoes-china-leste-taiwan-navegacao-2026-11-12",
       "date": "2026-11-12",
       "category": "MUNDO",
@@ -154,7 +205,10 @@
         "facts": "G7 foreign ministers issued a joint declaration on November 11, 2026, following meetings in Paris on November 9 and 10. The statement, published by the UK government, says China's increasingly assertive activities in waters east of Taiwan threaten regional stability, freedom of navigation and international shipping safety. The ministers oppose unilateral changes to the status quo through force, coercion or threats and encourage peaceful cross-strait dialogue. On November 12, Taiwan welcomed the declaration and pledged to strengthen its defences. Taiwanese officials suspect Chinese coast guard patrols may be preparations for a maritime blockade, but that assessment does not establish that a blockade has been ordered or begun. China claims sovereignty over self-governed Taiwan, which rejects Beijing's claim. Reuters reported that Beijing denounced the G7 statement as interference in its internal affairs. The declaration does not announce sanctions or military action.",
         "analysis": "The joint position increases diplomatic pressure on Beijing in a strategically important area for Asian trade and supply chains. Taiwan considers its eastern waters vital to possible resupply routes in a crisis. The G7 warning highlights the risk of coercion and miscalculation, but is neither a declaration of war nor evidence of an active blockade. The challenge is to keep shipping safe, prevent incidents between vessels and preserve communication channels.",
         "counterpoint": "A stretch of sea does not become one government's exclusive property just because it draws a line on a map. The G7 is right to demand safe navigation, but statements matter only when backed by sustained diplomacy. Taiwan should not be treated as a disposable piece in a contest between powers; nor should anyone announce a war that has not begun.",
-        "category": "WORLD"
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (March 27, 2026): foreign ministers at an earlier G7 meeting on Ukraine in Cernay-la-Ville, France. Freddie Everett / US Department of State (public domain). Not the meeting behind the Taiwan statement."
+        }
       },
       "es": {
         "title": "El G7 advierte que las actividades de China al este de Taiwán amenazan la navegación y la estabilidad regional",
@@ -162,10 +216,24 @@
         "facts": "Los ministros de Exteriores del G7 publicaron una declaración conjunta el 11 de noviembre de 2026, tras reunirse en París los días 9 y 10. El texto, difundido oficialmente por el gobierno británico, afirma que las actividades cada vez más firmes de China en las aguas al este de Taiwán amenazan la estabilidad regional, la libertad de navegación y la seguridad del transporte marítimo internacional. Los ministros se oponen a cualquier cambio unilateral del statu quo mediante fuerza, coerción o amenazas y piden resolver las diferencias mediante diálogo pacífico. El 12 de noviembre, Taiwán celebró el comunicado y prometió fortalecer su defensa. Funcionarios taiwaneses sospechan que las patrullas de la guardia costera china podrían ensayar un bloqueo marítimo, pero esa hipótesis no demuestra que se haya ordenado o iniciado un bloqueo. China reivindica la soberanía sobre Taiwán, que tiene gobierno propio y rechaza la pretensión de Pekín. Según Reuters, Pekín calificó la declaración del G7 de injerencia en asuntos internos. El documento no anuncia sanciones ni operaciones militares.",
         "analysis": "La postura conjunta aumenta la presión diplomática sobre Pekín en una zona crucial para el comercio y las cadenas de suministro de Asia. Taiwán considera importantes sus aguas orientales para eventuales rutas de abastecimiento durante una crisis. La advertencia del G7 refleja preocupación por la coerción y los errores de cálculo, pero no constituye una declaración de guerra ni confirma un bloqueo en marcha. El desafío consiste en proteger la navegación, evitar incidentes y mantener abiertas las comunicaciones.",
         "counterpoint": "El mar no se convierte en propiedad exclusiva de un gobierno porque este dibuje una línea en el mapa. El G7 tiene razón al exigir navegación segura, pero las declaraciones solo sirven si van acompañadas de diplomacia constante. Taiwán no debe ser una pieza desechable en una disputa entre potencias; tampoco corresponde anunciar una guerra que no ha comenzado.",
-        "category": "MUNDO"
-      }
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (27/03/2026): cancilleres durante una reunión anterior del G7 sobre Ucrania, en Cernay-la-Ville, Francia. Freddie Everett / Departamento de Estado de EE. UU. (dominio público). No es la reunión del comunicado sobre Taiwán."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Secretary_Rubio_Attends_G7_Meeting_on_Support_for_Ukraine_%2855171686265%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público — obra do governo federal dos Estados Unidos (PD-USGov)",
+          "credit": "Freddie Everett / Departamento de Estado dos EUA / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Secretary_Rubio_Attends_G7_Meeting_on_Support_for_Ukraine_(55171686265).jpg",
+          "caption": "FOTO DE ARQUIVO (27/03/2026): chanceleres em reunião anterior do G7 sobre a Ucrânia, em Cernay-la-Ville, França. Freddie Everett / Departamento de Estado dos EUA (domínio público). Não é a reunião que motivou o comunicado sobre Taiwan."
+        }
+      ]
     },
-    {
+{
       "id": "africa-do-sul-decimo-preso-recrutamento-guerra-ucrania-2026-11-12",
       "date": "2026-11-12",
       "category": "MUNDO",
@@ -194,7 +262,10 @@
         "facts": "South African police said on Thursday, November 12, 2026, that a tenth suspect had been arrested in an investigation into travel and possible recruitment for the Russia-Ukraine war. According to the Associated Press and South African outlet NovaNews, the latest arrest involved a 38-year-old foreign national intercepted while preparing to leave the country. Nine other suspects were arrested earlier in the week at O.R. Tambo International Airport and a hotel in Johannesburg. The investigation involves the Hawks police unit, Interpol and other security agencies. The Associated Press identified the first nine suspects as Zimbabwean nationals. South African law restricts mercenary activity and unauthorized foreign military assistance. The detainees are suspects, not convicted offenders. Police have not publicly established the tenth suspect's nationality or definitively confirmed which side all the suspects intended to fight for.",
         "analysis": "The case highlights concerns about transnational networks using job offers, training and promised pay to attract foreign nationals to armed conflicts. Authorities in African countries have previously reported allegations that people traveled to Russia for work but were then sent to the front lines. Those reports must be distinguished from proven allegations against the ten suspects in this operation. Investigators will need to determine whether recruitment, deception or voluntary participation occurred and what role intermediaries played.",
         "counterpoint": "Promising someone a job and delivering a trench is a form of recruitment that deserves rigorous scrutiny. But suspicion is not a conviction: investigators must establish who organized the trips, what each detainee knew and whether coercion or deception occurred. The war has already claimed too many lives for vulnerable people to be treated as disposable labor.",
-        "category": "WORLD"
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (October 6, 2024): O.R. Tambo Airport terminal in Johannesburg, South Africa. Alfrednadjere / Wikimedia Commons (CC BY-SA 4.0). Does not show the November 2026 arrests."
+        }
       },
       "es": {
         "title": "Sudáfrica detiene a un décimo sospechoso en una investigación sobre reclutamiento para la guerra en Ucrania",
@@ -202,8 +273,22 @@
         "facts": "La policía de Sudáfrica informó el jueves 12 de noviembre de 2026 de la detención de un décimo sospechoso en una investigación sobre viajes y posible reclutamiento para la guerra entre Rusia y Ucrania. Según Associated Press y el medio sudafricano NovaNews, el último detenido es un extranjero de 38 años interceptado cuando se preparaba para salir del país. Otros nueve sospechosos fueron arrestados esta semana en el aeropuerto internacional O.R. Tambo y en un hotel de Johannesburgo. La investigación involucra a la unidad policial Hawks, Interpol y otros organismos de seguridad. Associated Press identificó a los primeros nueve investigados como ciudadanos de Zimbabue. La legislación sudafricana restringe las actividades mercenarias y la asistencia militar extranjera no autorizada. Los detenidos son sospechosos, no condenados. La policía aún no ha establecido públicamente la nacionalidad del décimo arrestado ni ha confirmado de forma definitiva para qué bando pretendían combatir todos.",
         "analysis": "El caso pone de relieve la preocupación por redes transnacionales que utilizan ofertas de empleo, formación y remuneración para atraer extranjeros a conflictos armados. Autoridades de países africanos han denunciado anteriormente casos de personas que viajaron a Rusia por trabajo y terminaron enviadas al frente. Esos relatos deben distinguirse de acusaciones probadas contra los diez sospechosos de esta operación. La investigación deberá aclarar si hubo captación, engaño o participación voluntaria y qué papel desempeñaron los intermediarios.",
         "counterpoint": "Prometer un empleo y entregar una trinchera es una forma de reclutamiento que merece una investigación rigurosa. Pero una sospecha no equivale a una condena: la policía debe demostrar quién organizó los viajes, qué sabía cada detenido y si hubo engaño o coacción. La guerra ya ha causado demasiadas víctimas como para tratar a personas vulnerables como mano de obra desechable.",
-        "category": "MUNDO"
-      }
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (06/10/2024): terminal del aeropuerto O.R. Tambo de Johannesburgo, Sudáfrica. Alfrednadjere / Wikimedia Commons (CC BY-SA 4.0). No muestra las detenciones de noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/L%27a%C3%A9roport_OR_TAMBO_de_Johanesbourg_19.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0",
+          "credit": "Alfrednadjere / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:L%27a%C3%A9roport_OR_TAMBO_de_Johanesbourg_19.jpg",
+          "caption": "FOTO DE ARQUIVO (06/10/2024): terminal do aeroporto O.R. Tambo, em Joanesburgo, África do Sul. Alfrednadjere / Wikimedia Commons (CC BY-SA 4.0). Não registra as prisões de novembro de 2026."
+        }
+      ]
     },
     {
       "id": "jensen-huang-deixa-nvidia-colette-kress-ceo-interina-2026-11-12",
@@ -266,7 +351,7 @@
         }
       }
     },
-    {
+{
       "id": "ipca-outubro-014-inflacao-12-meses-463-2026-11-12",
       "date": "2026-11-12",
       "category": "ECONOMIA",
@@ -295,7 +380,10 @@
         "facts": "Brazil's national statistics agency, IBGE, reported on November 12, 2026 that the Broad National Consumer Price Index (IPCA) rose 0.14% in October, down from 0.82% in September. The figure was below the 0.25% forecast in a Reuters survey. However, inflation over 12 months increased from 4.58% to 4.63%, exceeding the Central Bank's 4.5% target ceiling. Food and beverages rose 1.04%, while housing fell 0.51% and transport declined 0.59%, according to data reported by Reuters. The headline index is an average and does not imply that prices fell across the board.",
         "analysis": "The softer monthly reading offers some relief but does not erase pressure on household budgets. Rising food prices contrast with declines in housing and transport, helping explain why consumers may experience inflation differently from the national average. With the annual rate still above the tolerance band, monetary policy remains under scrutiny. One monthly reading alone does not establish that an immediate cut in the Selic benchmark rate is warranted.",
         "counterpoint": "The headline rate slowed, but grocery bills did not get the memo: food and beverages rose 1.04%. Acknowledging the improvement does not mean claiming prices are falling across the board. The real test is purchasing power, borrowing costs and the fiscal outlook, not a convenient headline.",
-        "category": "ECONOMY"
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (November 28, 2014): shopper at São Luiz supermarket in Planaltina, Federal District. Edilson Rodrigues / Agência Senado (CC BY 2.0). Not the October 2026 inflation survey."
+        }
       },
       "es": {
         "title": "La inflación de Brasil se desacelera al 0,14% en octubre, pero la tasa interanual sube al 4,63%",
@@ -303,8 +391,22 @@
         "facts": "El Instituto Brasileño de Geografía y Estadística (IBGE) informó el 12 de noviembre de 2026 que el Índice Nacional de Precios al Consumidor Amplio (IPCA) subió un 0,14% en octubre, frente al 0,82% de septiembre. El dato quedó por debajo del 0,25% previsto en una encuesta de Reuters. Sin embargo, la inflación acumulada en 12 meses pasó del 4,58% al 4,63%, por encima del techo del 4,5% de la meta del Banco Central. Alimentos y bebidas aumentaron un 1,04%, mientras que vivienda cayó un 0,51% y transporte retrocedió un 0,59%, según los datos difundidos por Reuters. El índice general es un promedio y no implica que todos los precios hayan bajado.",
         "analysis": "El menor aumento mensual supone cierto alivio, pero no elimina la presión sobre los presupuestos familiares. El encarecimiento de los alimentos contrasta con las caídas en vivienda y transporte, por lo que los hogares pueden percibir una inflación distinta del promedio. La tasa interanual continúa por encima del margen de tolerancia de la meta y mantiene la política monetaria bajo examen. Un solo dato mensual no permite anticipar un recorte inmediato de la tasa Selic.",
         "counterpoint": "El índice general se desaceleró, pero la compra del supermercado no recibió el aviso: alimentos y bebidas subieron un 1,04%. Reconocer la mejora no significa afirmar que todos los precios están bajando. Lo importante es el poder adquisitivo, el costo del crédito y las cuentas públicas, no un titular conveniente.",
-        "category": "ECONOMÍA"
-      }
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (28/11/2014): consumidor en el supermercado São Luiz de Planaltina, Distrito Federal. Edilson Rodrigues / Agência Senado (CC BY 2.0). No corresponde a la medición de inflación de octubre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Senado_Federal_do_Brasil_Fotos_produzidas_pelo_Senado_%2815714451759%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 2.0",
+          "credit": "Edilson Rodrigues / Agência Senado / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Senado_Federal_do_Brasil_Fotos_produzidas_pelo_Senado_(15714451759).jpg",
+          "caption": "FOTO DE ARQUIVO (28/11/2014): consumidor em supermercado São Luiz, Planaltina, Distrito Federal. Edilson Rodrigues / Agência Senado (CC BY 2.0). Não registra os dados de inflação de outubro de 2026."
+        }
+      ]
     },
     {
       "id": "desabamento-brooklyn-nova-york-oito-mortos-2026-11-12",
