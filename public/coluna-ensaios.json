@@ -1,7 +1,81 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T10:03:00-03:00",
+  "updatedAt": "2026-11-12T19:02:00-03:00",
   "essays": [
+    {
+      "id": "o-celular-guardou-tudo-e-o-dono-esqueceu-de-pensar-2026-11-12",
+      "section": "Filosofia e ideias",
+      "date": "2026-11-12",
+      "title": "O CELULAR GUARDOU TUDO. E O DONO ESQUECEU DE PENSAR.",
+      "subtitle": "Ter uma biblioteca no bolso não significa ter uma ideia na cabeça. A máquina responde; o julgamento continua sendo nosso.",
+      "eyebrow": "OPINIÃO",
+      "paragraphs": [
+        "Imagine um jantar de família. A avó pergunta em que ano aconteceu um episódio histórico, o pai saca o celular, o filho pergunta a um assistente e o tio, que antes inventava a resposta com convicção, agora inventa o comando de busca. Em dez segundos, todos têm uma data. Em vinte, ninguém sabe explicar o que aconteceu. A mesa ganhou uma enciclopédia de bolso e perdeu, por alguns instantes, a capacidade de conversar sem pedir licença ao carregador.",
+        "Não estou propondo que queimemos os telefones e voltemos a consultar almanaques à luz de vela. Uma biblioteca que cabe no bolso é uma conquista extraordinária. O problema começa quando confundimos acesso à informação com posse de conhecimento. Saber onde está uma resposta não é o mesmo que compreendê-la. O sujeito abre cinco abas, salva doze vídeos, marca três artigos para ler depois e vai dormir com a sensação de ter concluído um doutorado. A única tese defendida foi a de que amanhã, sem falta, ele finalmente lerá alguma coisa.",
+        "A preocupação não nasceu com a internet. No diálogo Fedro, Platão apresenta uma narrativa em que o rei egípcio questiona a promessa de que a escrita melhoraria a memória: confiar demais em sinais externos poderia produzir aparência de sabedoria em vez de compreensão. É um argumento colocado na boca de um personagem, não uma pesquisa sobre smartphones realizada na Grécia antiga. E há uma ironia deliciosa: conhecemos essa crítica à escrita porque alguém a escreveu. Se a civilização tivesse obedecido literalmente ao medo de toda ferramenta nova, talvez ainda estivéssemos tentando memorizar a lista de compras enquanto o açougueiro fechava a loja.",
+        "O ponto não é condenar o instrumento, mas perguntar quem está no comando. Um mapa digital ajuda a encontrar a rua; não ensina necessariamente a perceber a cidade. Uma busca encontra a frase de um filósofo; não substitui a leitura do argumento. Um resumo entrega a conclusão; não obriga ninguém a atravessar o raciocínio. Quando tudo vira atalho, corremos o risco de chegar ao destino sem reconhecer o caminho. E o pior é que o aplicativo ainda pergunta se gostamos da viagem.",
+        "A UNESCO, em seus materiais de alfabetização midiática e informacional, insiste em capacidades como analisar, avaliar criticamente e interpretar informações. Repare no verbo: avaliar, não apenas receber. É perfeitamente possível usar tecnologia para aprender melhor, confrontar fontes e ampliar horizontes. Um estudante que consulta documentos, compara interpretações e verifica datas está usando a máquina como ferramenta. Outro que copia a primeira resposta com ar de profeta eletrônico está apenas terceirizando a dúvida. E a dúvida, infelizmente, não aceita transferência bancária.",
+        "Existe uma objeção legítima: ninguém precisa decorar cada capital, data ou fórmula para ser inteligente. Concordo. A memória humana é limitada, e a divisão do trabalho intelectual permite que cada pessoa se aprofunde em algo. Mas há diferença entre não memorizar detalhes e não formar critérios. Se não sabemos distinguir uma fonte confiável de uma propaganda bem embalada, a abundância de respostas não nos torna livres; apenas nos deixa mais disponíveis para o próximo vendedor de certezas instantâneas. A ignorância, antes, precisava procurar uma biblioteca. Agora recebe notificações.",
+        "Voltemos ao jantar. A avó repete a pergunta. Desta vez, alguém responde com o que sabe, admite o que ignora, consulta uma fonte e explica por que ela merece confiança. O telefone continua na mesa, mas já não ocupa a cabeceira. Eis a pequena revolução: usar máquinas velozes sem transformar a própria cabeça numa sala de espera. Porque, meu caro leitor, quando o celular sabe tudo e o dono não examina nada, não temos um homem com uma biblioteca no bolso. Temos uma biblioteca carregando um homem."
+      ],
+      "sources": [
+        {
+          "title": "Platão, Fedro, 274e–275b — crítica à escrita e à memória",
+          "url": "https://adfonteslibrary.org/work-plato-phaedrus"
+        },
+        {
+          "title": "UNESCO IITE — Media and Information Literacy",
+          "url": "https://iite.unesco.org/mil/"
+        },
+        {
+          "title": "UNESCO — Media and Information Literate Citizens: Think Critically, Click Wisely! (2022)",
+          "url": "https://iite.unesco.org/publications/media-and-information-literate-citizens-think-critically-click-wisely/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/PhonesWhilstWalking.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/",
+          "credit": "Rawpixel Ltd / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:PhonesWhilstWalking.jpg",
+          "caption": "FOTO DE ARQUIVO (28/03/2018; local não informado): pessoas utilizando celulares em um espaço público. Imagem ilustrativa; não retrata acontecimento recente."
+        }
+      ],
+      "en": {
+        "title": "THE PHONE REMEMBERED EVERYTHING. ITS OWNER FORGOT TO THINK.",
+        "subtitle": "A library in your pocket does not guarantee an idea in your head. The machine answers; judgment is still ours.",
+        "eyebrow": "OPINION",
+        "section": "Philosophy and ideas",
+        "paragraphs": [
+          "Picture a family dinner. Grandma asks what year a historical event took place. Dad pulls out his phone, the son asks an assistant, and the uncle—who used to invent answers with magnificent confidence—now invents search prompts. Ten seconds later everyone has a date. Twenty seconds later nobody can explain what happened. The table has acquired a pocket encyclopedia and briefly lost the ability to talk without consulting a charger.",
+          "I am not suggesting we burn our phones and return to candlelit almanacs. A library in your pocket is an extraordinary achievement. Trouble starts when access to information is mistaken for knowledge. Knowing where an answer lives is not the same as understanding it. A man opens five tabs, saves twelve videos, bookmarks three articles for later and goes to bed feeling he has completed a doctorate. The only thesis he has defended is that tomorrow, without fail, he will finally read something.",
+          "This concern predates the internet. In Plato's Phaedrus, a story has an Egyptian king challenge the claim that writing would improve memory: too much reliance on external marks could create the appearance of wisdom rather than understanding. This is an argument voiced by a character, not an ancient Greek smartphone study. And the irony is delightful: we know the criticism of writing because somebody wrote it down. Had civilization obeyed every fear of new tools, we might still be memorizing shopping lists while the butcher closes his shop.",
+          "The point is not to condemn the tool but to ask who is in charge. A digital map helps you find a street; it does not necessarily teach you to notice a city. A search retrieves a philosopher's sentence; it cannot replace reading the argument. A summary hands you the conclusion without requiring you to follow the reasoning. When everything becomes a shortcut, we risk reaching the destination without recognizing the road. And the app still asks whether we enjoyed the trip.",
+          "UNESCO's media and information literacy materials emphasize skills such as analyzing, critically evaluating and interpreting information. Notice the verb: evaluate, not merely receive. Technology can absolutely help us learn, compare sources and broaden our horizons. A student who consults documents, weighs interpretations and checks dates is using a machine as a tool. Another who copies the first answer with the air of an electronic prophet is merely outsourcing doubt. Unfortunately, doubt does not accept bank transfers.",
+          "There is a fair objection: nobody needs to memorize every capital, date or formula to be intelligent. Agreed. Human memory is limited, and intellectual specialization lets people explore subjects in depth. But not memorizing details is different from failing to develop judgment. If we cannot tell a reliable source from beautifully packaged advertising, an abundance of answers does not make us free; it makes us more available to the next seller of instant certainty. Ignorance once had to visit a library. Now it sends notifications.",
+          "Back to dinner. Grandma repeats her question. This time someone answers what they know, admits what they do not, checks a source and explains why it deserves trust. The phone stays on the table but no longer sits at its head. That is the small revolution: using fast machines without turning your own mind into a waiting room. For when the phone knows everything and its owner examines nothing, we do not have a person carrying a library in a pocket. We have a library carrying a person."
+        ],
+        "photo_caption": "ARCHIVE PHOTO (March 28, 2018; location not specified): people using smartphones in a public space. Illustrative image, not a recent event."
+      },
+      "es": {
+        "title": "EL MÓVIL LO RECORDÓ TODO. SU DUEÑO OLVIDÓ PENSAR.",
+        "subtitle": "Llevar una biblioteca en el bolsillo no garantiza tener una idea en la cabeza. La máquina responde; el juicio sigue siendo nuestro.",
+        "eyebrow": "OPINIÓN",
+        "section": "Filosofía e ideas",
+        "paragraphs": [
+          "Imagine una cena familiar. La abuela pregunta en qué año ocurrió un episodio histórico, el padre saca el móvil, el hijo consulta a un asistente y el tío, que antes inventaba respuestas con absoluta seguridad, ahora inventa instrucciones de búsqueda. En diez segundos todos tienen una fecha. En veinte, nadie sabe explicar qué sucedió. La mesa ha ganado una enciclopedia de bolsillo y ha perdido, por unos instantes, la capacidad de conversar sin pedir permiso al cargador.",
+          "No propongo quemar los teléfonos ni volver a consultar almanaques a la luz de las velas. Una biblioteca que cabe en el bolsillo es un logro extraordinario. El problema empieza cuando confundimos el acceso a la información con el conocimiento. Saber dónde está una respuesta no equivale a comprenderla. Un señor abre cinco pestañas, guarda doce vídeos, marca tres artículos para leer después y se acuesta con la sensación de haber terminado un doctorado. La única tesis que ha defendido es que mañana, sin falta, por fin leerá algo.",
+          "La preocupación no nació con internet. En el diálogo Fedro, Platón presenta un relato en el que un rey egipcio cuestiona la promesa de que la escritura mejoraría la memoria: depender demasiado de signos externos podría producir apariencia de sabiduría en vez de comprensión. Es un argumento puesto en boca de un personaje, no un estudio griego sobre teléfonos inteligentes. Y hay una ironía deliciosa: conocemos esa crítica a la escritura porque alguien la escribió. Si la civilización hubiera obedecido todos los temores a las herramientas nuevas, quizá seguiríamos memorizando la lista de la compra mientras el carnicero cierra la tienda.",
+          "No se trata de condenar el instrumento, sino de preguntar quién manda. Un mapa digital ayuda a encontrar una calle; no necesariamente enseña a observar la ciudad. Una búsqueda encuentra una frase de un filósofo; no sustituye la lectura de su argumento. Un resumen entrega la conclusión; no obliga a recorrer el razonamiento. Cuando todo se convierte en atajo, corremos el riesgo de llegar al destino sin reconocer el camino. Y lo peor es que la aplicación todavía pregunta si nos gustó el viaje.",
+          "La UNESCO, en sus materiales de alfabetización mediática e informacional, insiste en capacidades como analizar, evaluar críticamente e interpretar información. Fíjese en el verbo: evaluar, no simplemente recibir. La tecnología puede ayudarnos a aprender mejor, contrastar fuentes y ampliar horizontes. Un estudiante que consulta documentos, compara interpretaciones y verifica fechas utiliza la máquina como herramienta. Otro que copia la primera respuesta con aires de profeta electrónico solo está subcontratando la duda. Y la duda, por desgracia, no admite transferencia bancaria.",
+          "Existe una objeción legítima: nadie necesita memorizar todas las capitales, fechas o fórmulas para ser inteligente. De acuerdo. La memoria humana es limitada y la especialización intelectual permite profundizar. Pero no memorizar detalles es distinto de no formar criterio. Si no sabemos distinguir una fuente fiable de una publicidad bien empaquetada, la abundancia de respuestas no nos hace libres; solo nos deja más disponibles para el próximo vendedor de certezas instantáneas. Antes la ignorancia tenía que buscar una biblioteca. Ahora envía notificaciones.",
+          "Volvamos a la cena. La abuela repite la pregunta. Esta vez alguien responde lo que sabe, admite lo que ignora, consulta una fuente y explica por qué merece confianza. El móvil sigue en la mesa, pero ya no preside la reunión. Esa es la pequeña revolución: utilizar máquinas veloces sin convertir la propia cabeza en una sala de espera. Porque, querido lector, cuando el teléfono lo sabe todo y su dueño no examina nada, no tenemos a una persona con una biblioteca en el bolsillo. Tenemos a una biblioteca que lleva a cuestas a una persona."
+        ],
+        "photo_caption": "FOTO DE ARCHIVO (28/03/2018; lugar no especificado): personas usando teléfonos móviles en un espacio público. Imagen ilustrativa, no corresponde a un hecho reciente."
+      }
+    },
     {
       "id": "a-geladeira-virou-refem-da-peca-2026-11-12",
       "section": "Política e sociedade",
