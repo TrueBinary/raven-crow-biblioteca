@@ -6,6 +6,42 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "bp-oferece-fatia-bumerangue-petrobras-co2-negociacoes-2026-11-13",
+      "date": "2026-11-13",
+      "category": "ECONOMIA",
+      "title": "BP oferece participação em megadescoberta à Petrobras, mas excesso de CO₂ dificulta negócio",
+      "subtitle": "Conversas sobre o bloco Bumerangue foram relatadas por Bloomberg e Reuters; não há acordo fechado, e a estatal avalia riscos técnicos.",
+      "facts": "A britânica BP manteve conversas com a Petrobras sobre a possível venda de uma participação no bloco Bumerangue, no pré-sal da Bacia de Santos, segundo reportagens publicadas em 12 de novembro de 2026 pela Bloomberg e pela Reuters. A BP detém atualmente 100% da área e descreve a descoberta anunciada em 2025 como sua maior em 25 anos. Fontes ouvidas pela Reuters afirmam que a área técnica da Petrobras analisa a oferta, mas vê obstáculos ligados à elevada concentração de dióxido de carbono (CO₂) no reservatório. O volume de cerca de 8 bilhões de barris de líquidos mencionado pela Bloomberg é estimativa de recursos no local, não reserva comercial comprovada nem produção garantida. As negociações podem não resultar em contrato; BP e Petrobras não confirmaram publicamente um acordo.",
+      "analysis": "O teor de CO₂ é uma variável decisiva porque a separação, o tratamento e a reinjeção do gás podem aumentar significativamente o custo de desenvolver o campo. A Petrobras trabalha em tecnologias de separação submarina, mas, segundo as fontes citadas pela Reuters, a prioridade seria aplicá-las primeiro ao campo de Júpiter, também na Bacia de Santos. A eventual parceria dependerá da avaliação geológica, de viabilidade econômica, de termos comerciais e de decisões de investimento ainda não tomadas. A própria BP informou anteriormente que procuraria parceiros enquanto avança na avaliação do Bumerangue.",
+      "counterpoint": "Oito bilhões de barris no anúncio impressionam, mas petróleo que ainda não pode ser extraído com lucro é promessa, não caixa. Antes de colocar dinheiro público numa participação, a Petrobras precisa demonstrar quanto custará lidar com o CO₂ e por que o projeto merece prioridade sobre os campos que já estão na fila.",
+      "sources": [
+        {
+          "name": "Bloomberg Línea — negociações BP e Petrobras, 12/11/2026",
+          "url": "https://www.bloomberglinea.com.br/negocios/bp-negocia-venda-de-fatia-de-sua-maior-descoberta-em-25-anos-a-petrobras-dizem-fontes/"
+        },
+        {
+          "name": "Reuters — análise da oferta e obstáculos técnicos, 12/11/2026",
+          "url": "https://economia.uol.com.br/noticias/reuters/2026/11/12/petrobras-avalia-fatia-de-bumerangue-ofertada-por-bp-nivel-de-co2-pesa-contra-ativo-dizem-fontes.htm"
+        }
+      ],
+      "en": {
+        "title": "BP offers Petrobras a stake in major oil discovery, but high CO₂ levels complicate a deal",
+        "subtitle": "Bloomberg and Reuters reported talks over the Bumerangue block; no agreement has been announced and technical risks remain under review.",
+        "facts": "BP has held talks with Petrobras about selling a stake in the Bumerangue block in Brazil's offshore Santos Basin, according to separate reports published by Bloomberg and Reuters on November 12, 2026. BP currently owns 100% of the block and has described its 2025 discovery as its largest in 25 years. Sources cited by Reuters say Petrobras technical teams are assessing the offer, with high carbon dioxide (CO₂) concentrations presenting a major obstacle. Bloomberg cited an estimate of roughly 8 billion barrels of liquids in place; that figure is not a proven commercially recoverable reserve or guaranteed production. No binding agreement has been announced, and the talks may not lead to a transaction.",
+        "analysis": "High CO₂ concentrations can substantially increase the cost of separating, processing and reinjecting gas from a reservoir. Petrobras is developing subsea separation technology, but Reuters' sources say its Jupiter field would take priority. Any investment in Bumerangue would require further geological and commercial evaluation, economic feasibility studies and decisions that have not yet been made. BP had previously said it would seek partners while appraising the discovery.",
+        "counterpoint": "Eight billion barrels sounds spectacular, but oil that cannot yet be produced profitably is a prospect, not cash flow. Before committing public-company capital, Petrobras should explain the cost of handling CO₂ and why this project deserves priority over existing developments.",
+        "category": "ECONOMY"
+      },
+      "es": {
+        "title": "BP ofrece a Petrobras una participación en un gran hallazgo petrolero, pero el exceso de CO₂ complica el negocio",
+        "subtitle": "Bloomberg y Reuters informaron de conversaciones sobre el bloque Bumerangue; no hay acuerdo cerrado y persisten riesgos técnicos.",
+        "facts": "BP ha mantenido conversaciones con Petrobras para vender una participación en el bloque Bumerangue, en la cuenca de Santos, frente a la costa de Brasil, según reportajes publicados por Bloomberg y Reuters el 12 de noviembre de 2026. BP posee actualmente el 100% del bloque y describe el hallazgo anunciado en 2025 como el mayor de los últimos 25 años. Fuentes citadas por Reuters indican que los equipos técnicos de Petrobras analizan la oferta, aunque la elevada concentración de dióxido de carbono (CO₂) supone un obstáculo importante. Bloomberg mencionó una estimación de unos 8.000 millones de barriles de líquidos in situ; esa cifra no equivale a reservas comerciales comprobadas ni a producción garantizada. No se ha anunciado ningún acuerdo y las conversaciones podrían terminar sin contrato.",
+        "analysis": "Las altas concentraciones de CO₂ pueden elevar considerablemente los costos de separación, tratamiento y reinyección del gas. Petrobras desarrolla tecnología de separación submarina, pero, según las fuentes de Reuters, daría prioridad al campo de Júpiter. Cualquier inversión en Bumerangue requerirá más evaluaciones geológicas, económicas y comerciales, además de decisiones todavía pendientes. BP había señalado anteriormente que buscaría socios mientras evalúa el hallazgo.",
+        "counterpoint": "Ocho mil millones de barriles suenan impresionantes, pero el petróleo que aún no puede extraerse de forma rentable es una posibilidad, no dinero en caja. Antes de comprometer capital, Petrobras debería explicar cuánto costará gestionar el CO₂ y por qué este proyecto tendría prioridad sobre otros desarrollos.",
+        "category": "ECONOMÍA"
+      }
+    },
+    {
       "id": "senado-aprova-texto-base-ajuste-fiscal-45-a-31-2026-11-13",
       "date": "2026-11-13",
       "category": "POLÍTICA",
