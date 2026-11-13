@@ -1,6 +1,52 @@
 {
   "articles": [
     {
+      "id": "brasil-ultrapassa-mil-casos-mpox-2026-11-13",
+      "date": "2026-11-13",
+      "category": "SAÚDE",
+      "title": "Brasil supera mil casos confirmados de mpox em 2026; Rio e São Paulo concentram registros",
+      "subtitle": "Levantamento divulgado em 13 de novembro aponta 1.023 confirmações e um óbito até o dia 12; Ministério da Saúde mantém vigilância e vacinação direcionada.",
+      "facts": "O Brasil contabilizava 1.023 casos confirmados de mpox em 2026 até 12 de novembro, além de 46 casos prováveis, 581 suspeitos e um óbito, segundo dados do painel do Ministério da Saúde divulgados pela Agência Brasil em 13 de novembro e reportados também pela revista Veja em 12 de novembro. O Rio de Janeiro liderava com 390 confirmações, seguido por São Paulo, com 388. Ceará registrava 61, Minas Gerais 45, Distrito Federal 41 e Santa Catarina 24. Outubro e novembro somavam 293 e 227 confirmações, respectivamente, representando mais da metade do total anual.",
+      "analysis": "O marco de mil confirmações exige atenção à evolução recente, mas não significa, por si só, que a situação seja comparável à de 2022. Em 5 de novembro, o Ministério da Saúde havia divulgado 665 casos e autorizado a aquisição de até 20 mil doses de vacina por meio da Opas, com prioridade para grupos de maior risco. O salto entre os balanços reforça a importância de observar datas de corte, atualizações do painel, distribuição regional e capacidade de diagnóstico. A transmissão ocorre principalmente por contato direto com lesões, secreções ou objetos contaminados; a orientação oficial é procurar avaliação diante de sintomas e evitar contato próximo enquanto houver suspeita.",
+      "counterpoint": "O dado não autoriza nem pânico nem descaso. A cobrança objetiva é por transparência na atualização dos números, diagnóstico acessível, orientação clara e vacinas chegando a quem mais precisa — sem transformar uma contagem epidemiológica em disputa de slogans.",
+      "sources": [
+        {
+          "name": "Agência Brasil — 13/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/casos-de-mpox-ultrapassam-mil-em-2026-e-se-concentram-em-seis-estados"
+        },
+        {
+          "name": "Veja — 12/11/2026",
+          "url": "https://veja.abril.com.br/saude/casos-de-mpox-passam-de-1-000-no-brasil-e-581-notificacoes-sao-investigadas/"
+        },
+        {
+          "name": "Ministério da Saúde — painel de mpox",
+          "url": "https://www.gov.br/saude/pt-br/composicao/svsa/cnie/painel-mpox/painel-mpox"
+        },
+        {
+          "name": "Ministério da Saúde — vacinação, 05/11/2026",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-autoriza-aquisicao-de-20-mil-doses-da-vacina-contra-mpox-por-meio-da-opas/"
+        }
+      ],
+      "en": {
+        "title": "Brazil surpasses 1,000 confirmed mpox cases in 2026, with Rio and São Paulo leading",
+        "subtitle": "Figures reported on November 13 show 1,023 confirmed cases and one death through November 12; health authorities continue targeted vaccination and surveillance.",
+        "facts": "Brazil had recorded 1,023 confirmed mpox cases in 2026 as of November 12, alongside 46 probable cases, 581 suspected cases and one death, according to Health Ministry surveillance figures reported by Agência Brasil on November 13 and independently by Veja on November 12. Rio de Janeiro accounted for 390 confirmed cases and São Paulo for 388, followed by Ceará with 61, Minas Gerais with 45, the Federal District with 41 and Santa Catarina with 24. October recorded 293 confirmations and November 227, together exceeding half the annual total.",
+        "analysis": "Crossing the 1,000-case threshold warrants attention but does not by itself establish a situation comparable to the 2022 outbreak. On November 5, the Health Ministry had reported 665 cases and authorized the purchase of up to 20,000 vaccine doses through PAHO, prioritizing higher-risk groups. The difference between reports highlights the importance of cutoff dates, updated surveillance figures, geographic distribution and testing capacity. Transmission mainly occurs through direct contact with lesions, bodily fluids or contaminated objects; official advice is to seek medical assessment for symptoms and avoid close contact when infection is suspected.",
+        "counterpoint": "The figures justify neither panic nor complacency. The practical test is whether authorities provide timely data, accessible diagnosis, clear guidance and vaccines for those most at risk, rather than turning surveillance into a battle of slogans.",
+        "category": "HEALTH",
+        "slug": "brazil-surpasses-1-000-confirmed-mpox-cases-in-2026-with-rio-and-sao-paulo-2026-11-13"
+      },
+      "es": {
+        "title": "Brasil supera los 1.000 casos confirmados de mpox en 2026; Río y São Paulo concentran los registros",
+        "subtitle": "Las cifras divulgadas el 13 de noviembre indican 1.023 confirmaciones y una muerte hasta el día 12; las autoridades mantienen la vigilancia y la vacunación dirigida.",
+        "facts": "Brasil registraba 1.023 casos confirmados de mpox en 2026 hasta el 12 de noviembre, además de 46 casos probables, 581 sospechosos y una muerte, según cifras del panel del Ministerio de Salud divulgadas por Agência Brasil el 13 de noviembre y reportadas de forma independiente por Veja el día 12. Río de Janeiro contabilizaba 390 casos y São Paulo 388, seguidos por Ceará con 61, Minas Gerais con 45, el Distrito Federal con 41 y Santa Catarina con 24. Octubre registró 293 confirmaciones y noviembre 227, que juntas superan la mitad del total anual.",
+        "analysis": "Superar los mil casos requiere atención, pero no demuestra por sí solo una situación comparable con el brote de 2022. El 5 de noviembre, el Ministerio de Salud había informado 665 casos y autorizado la compra de hasta 20.000 dosis de vacunas mediante la OPS, dando prioridad a los grupos de mayor riesgo. La diferencia entre balances destaca la importancia de las fechas de corte, las actualizaciones del sistema de vigilancia, la distribución territorial y la capacidad diagnóstica. La transmisión ocurre principalmente por contacto directo con lesiones, secreciones u objetos contaminados; las autoridades recomiendan consultar ante síntomas y evitar el contacto cercano si se sospecha infección.",
+        "counterpoint": "Las cifras no justifican ni el pánico ni la indiferencia. Lo importante es exigir datos oportunos, diagnóstico accesible, orientación clara y vacunas para quienes más las necesitan, sin convertir la vigilancia epidemiológica en una batalla de consignas.",
+        "category": "SALUD",
+        "slug": "brasil-supera-los-1-000-casos-confirmados-de-mpox-en-2026-rio-y-sao-paulo-2026-11-13"
+      }
+    },
+    {
       "id": "van-hollen-desafia-schumer-lideranca-democrata-senado-2026-11-13",
       "date": "2026-11-13",
       "category": "MUNDO",
