@@ -64,6 +64,9 @@ for essay in ESSAYS:
 
 featured=next(a for a in ESSAYS if a["section"]=="Fé e família")
 others=[a for a in ESSAYS if a["id"]!=featured["id"]]
+TRACKS=("Política e sociedade","Filosofia e ideias")
+# Fé e família além do destaque (e seção nova sem trilha) também precisam de link no HTML, senão ficam órfãos
+more_family=''.join(f'<li><a href="coluna/{h(a["id"])}/">{h(a["title"])}</a></li>' for a in others if a["section"] not in TRACKS)
 # The opinion hub is also a gateway to the complete existing news-analysis archive.
 hub=f'''{meta("Coluna do Corvo — Política, Filosofia, Fé e Família","Ensaios e opiniões sobre política, filosofia, fé e família, além das análises já publicadas pelo Raven Crow.",BASE+"/coluna")}
 <body class="rc-subpage rc-column">{HEADER}
@@ -84,6 +87,7 @@ hub=f'''{meta("Coluna do Corvo — Política, Filosofia, Fé e Família","Ensaio
     <h2 id="familia-heading">{h(featured["title"])}</h2>
     <p>{h(featured["subtitle"])} A importância dos vínculos, do cuidado, da educação e da fé vivida em casa.</p>
     <a class="rc-col-cta" href="coluna/{h(featured['id'])}/">Ler reflexão completa <span aria-hidden="true">↗</span></a>
+    {f'<ul class="rc-col-more" aria-label="Mais reflexões">{more_family}</ul>' if more_family else ''}
   </div>
 </section>
 <div class="rc-col-track-grid">

@@ -22,6 +22,9 @@ body.rc-column{background:var(--column-bg);color:var(--column-ink);font-family:'
 .rc-col-feature-copy>p:not(.rc-col-overline){color:#c7c4c6;font-size:16px;max-width:680px;line-height:1.65}
 .rc-col-cta{display:inline-flex;gap:16px;align-items:center;text-decoration:none;background:#c42630;color:white!important;padding:13px 19px;margin-top:13px;font-weight:800;border-radius:4px}
 .rc-col-cta:hover{background:#e23741}
+.rc-col-more{list-style:none;margin:20px 0 0;padding:16px 0 0;border-top:1px solid #494046;display:grid;gap:10px}
+.rc-col-more a{color:#e9e6e8;font-weight:700;text-decoration:underline;text-decoration-color:#c42630;text-underline-offset:4px}
+.rc-col-more a:hover{color:white}
 .rc-col-track-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:45px;margin:30px 0 72px}
 .rc-col-track{padding-top:23px;border-top:1px solid #656066;min-width:0}
 .rc-col-track-heading{display:flex;gap:15px;align-items:flex-start}

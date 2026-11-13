@@ -13,6 +13,12 @@ class ColumnEditorialTests(unittest.TestCase):
   self.assertIn('raven-column.js',s)
   self.assertIn('raven-column.css',s)
   self.assertIn('class="rc-global-header"',s)
+ def test_hub_links_every_essay_in_html(self):
+  # SEO: ensaio sem link no HTML do hub fica órfão; o Google só o acharia pelo sitemap
+  s=(PUBLIC/'coluna.html').read_text(encoding='utf-8')
+  essays=json.loads((PUBLIC/'coluna-ensaios.json').read_text(encoding='utf-8'))['essays']
+  missing=[e['id'] for e in essays if f'href="coluna/{e["id"]}/"' not in s]
+  self.assertEqual(missing,[])
  def test_three_opinion_articles_are_readable(self):
   data=json.loads((PUBLIC/'coluna-ensaios.json').read_text(encoding='utf-8'))['essays']
   self.assertGreaterEqual(len(data),3)
