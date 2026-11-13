@@ -268,7 +268,9 @@
     "desabamento-brooklyn-nova-york-oito-mortos-2026-11-12": "editorial/photos/desabamento-brooklyn-nova-york-oito-mortos-2026-11-12.jpg",
     "banco-do-brasil-kfw-100-milhoes-euros-bioeconomia-cop31-2026-11-12": "editorial/photos/banco-do-brasil-kfw-100-milhoes-euros-bioeconomia-cop31-2026-11-12.jpg",
     "dolar-fecha-565-maior-cotacao-desde-junho-2025-pacote-fiscal-2026-11-12": "editorial/photos/dolar-fecha-565-maior-cotacao-desde-junho-2025-pacote-fiscal-2026-11-12.jpg",
-    "camara-aprova-mp-renegociacao-dividas-rurais-senado-prazo-2026-11-11": "editorial/photos/camara-aprova-mp-renegociacao-dividas-rurais-senado-prazo-2026-11-11.jpg"
+    "camara-aprova-mp-renegociacao-dividas-rurais-senado-prazo-2026-11-11": "editorial/photos/camara-aprova-mp-renegociacao-dividas-rurais-senado-prazo-2026-11-11.jpg",
+    "russia-ucrania-acertam-troca-prisioneiros-abu-dhabi-sem-cessar-fogo-2026-11-11": "editorial/photos/russia-ucrania-acertam-troca-prisioneiros-abu-dhabi-sem-cessar-fogo-2026-11-11.jpg",
+    "pesquisadores-relatam-roubo-documentos-tajiquistao-ia-2026-11-11": "editorial/photos/pesquisadores-relatam-roubo-documentos-tajiquistao-ia-2026-11-11.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -1020,6 +1022,18 @@
       "srcset": "editorial/photos/camara-aprova-mp-renegociacao-dividas-rurais-senado-prazo-2026-11-11-320.webp 320w, editorial/photos/camara-aprova-mp-renegociacao-dividas-rurais-senado-prazo-2026-11-11-640.webp 640w, editorial/photos/camara-aprova-mp-renegociacao-dividas-rurais-senado-prazo-2026-11-11-768.webp 768w",
       "width": 768,
       "height": 473
+    },
+    "russia-ucrania-acertam-troca-prisioneiros-abu-dhabi-sem-cessar-fogo-2026-11-11": {
+      "src": "editorial/photos/russia-ucrania-acertam-troca-prisioneiros-abu-dhabi-sem-cessar-fogo-2026-11-11-1280.webp",
+      "srcset": "editorial/photos/russia-ucrania-acertam-troca-prisioneiros-abu-dhabi-sem-cessar-fogo-2026-11-11-320.webp 320w, editorial/photos/russia-ucrania-acertam-troca-prisioneiros-abu-dhabi-sem-cessar-fogo-2026-11-11-640.webp 640w, editorial/photos/russia-ucrania-acertam-troca-prisioneiros-abu-dhabi-sem-cessar-fogo-2026-11-11-960.webp 960w, editorial/photos/russia-ucrania-acertam-troca-prisioneiros-abu-dhabi-sem-cessar-fogo-2026-11-11-1280.webp 1280w",
+      "width": 1280,
+      "height": 854
+    },
+    "pesquisadores-relatam-roubo-documentos-tajiquistao-ia-2026-11-11": {
+      "src": "editorial/photos/pesquisadores-relatam-roubo-documentos-tajiquistao-ia-2026-11-11-1024.webp",
+      "srcset": "editorial/photos/pesquisadores-relatam-roubo-documentos-tajiquistao-ia-2026-11-11-320.webp 320w, editorial/photos/pesquisadores-relatam-roubo-documentos-tajiquistao-ia-2026-11-11-640.webp 640w, editorial/photos/pesquisadores-relatam-roubo-documentos-tajiquistao-ia-2026-11-11-960.webp 960w, editorial/photos/pesquisadores-relatam-roubo-documentos-tajiquistao-ia-2026-11-11-1024.webp 1024w",
+      "width": 1024,
+      "height": 768
     }
   }
 }
