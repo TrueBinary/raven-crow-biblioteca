@@ -6,6 +6,46 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "operacao-tax-mirage-fraudes-tributarias-185-milhoes-2026-11-12",
+      "date": "2026-11-12",
+      "category": "JUSTIÇA",
+      "title": "PF e Receita investigam fraude tributária superior a R$ 185 milhões na Operação Tax Mirage",
+      "subtitle": "Operação cumpriu 19 mandados em cinco estados; investigação aponta créditos previdenciários inexistentes, suspeita de lavagem de dinheiro e vantagens indevidas em licitações.",
+      "facts": "A Polícia Federal e a Receita Federal deflagraram em 12 de novembro de 2026 a Operação Tax Mirage, que apura um esquema de compensações tributárias indevidas superior a R$ 185 milhões. Foram cumpridos 19 mandados de busca e apreensão em Ponta Grossa, Paranaguá e Curitiba (PR), Porto Belo e Itapema (SC), Manaus (AM), Ji-Paraná (RO) e Boa Vista (RR). Segundo a Receita, o grupo oferecia a empresas supostos estudos de recuperação de créditos previdenciários que, conforme a investigação, não existiam, permitindo extinguir indevidamente dívidas fiscais. Os auditores identificaram ao menos 48 contribuintes em 32 municípios de dez estados. A Polícia Federal confirmou o cumprimento das medidas judiciais; os fatos ainda são objeto de investigação, sem conclusão judicial de culpa.",
+      "analysis": "O mecanismo descrito pelos investigadores vai além da possível perda de arrecadação. Empresas que utilizassem créditos inexistentes poderiam obter certidões de regularidade fiscal e participar de licitações em condições desiguais frente a concorrentes que pagaram seus tributos. A Receita também relatou indícios de patrimônio incompatível com a renda declarada, bens de luxo e possíveis interpostas pessoas para ocultação patrimonial. As buscas e apreensões visam reunir provas e identificar responsáveis; o montante apurado corresponde a compensações suspeitas e não deve ser apresentado como valor definitivamente recuperado ou como condenação. A fiscalização e a responsabilização dependem do exame dos materiais apreendidos e do devido processo legal.",
+      "counterpoint": "Quando uma empresa consegue apagar dívida fiscal com crédito que nunca existiu, a conta pode sobrar para quem paga imposto e disputa licitação honestamente. A operação merece investigação rigorosa e transparência sobre o dinheiro efetivamente recuperado — sem transformar suspeita em sentença antes da Justiça.",
+      "sources": [
+        {
+          "name": "Receita Federal — comunicado oficial, 12/11/2026",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-e-pf-cumprem-mandados-contra-esquema-de-fraudes-tributarias-superiores-a-r-185-milhoes-ocultacao-patrimonial-e-fraudes-em-licitacoes"
+        },
+        {
+          "name": "Polícia Federal — comunicado oficial, 12/11/2026",
+          "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/11/pf-e-rfb-investigam-fraudes-tributarias"
+        },
+        {
+          "name": "Folha de S.Paulo — 12/11/2026",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/11/receita-e-pf-investigam-fraudes-tributarias-que-somam-mais-de-r-185-milhoes.shtml"
+        }
+      ],
+      "en": {
+        "title": "Brazilian federal police and tax authority probe more than R$185 million in suspected tax fraud",
+        "subtitle": "Operation Tax Mirage executed 19 search warrants across five states; investigators cite nonexistent social security tax credits and possible misconduct in public procurement.",
+        "facts": "On November 12, 2026, Brazil's Federal Police and Federal Revenue Service launched Operation Tax Mirage to investigate suspected improper tax offsets exceeding R$185 million. Authorities executed 19 search warrants in eight cities across Paraná, Santa Catarina, Amazonas, Rondônia and Roraima. According to the tax authority, a group offered businesses purported tax-credit recovery services using social security contributions that had never been paid. Investigators identified at least 48 taxpayers in 32 municipalities across ten states. The investigation remains ongoing, and the allegations do not establish criminal guilt.",
+        "analysis": "Investigators say the alleged scheme may have affected competition for public contracts, as companies could obtain tax-compliance certificates using offsets based on nonexistent credits. Officials also reported indications of assets inconsistent with declared income and possible concealment of ownership. Seized evidence will be examined to establish the scope of any wrongdoing and potential losses. The reported figure refers to suspected improper offsets, not funds conclusively recovered, and no allegation should be treated as a conviction.",
+        "counterpoint": "If nonexistent credits can erase a company's tax debts, compliant businesses and taxpayers may bear the cost. Investigators should disclose what can actually be recovered while preserving due process and the presumption of innocence.",
+        "category": "JUSTICE"
+      },
+      "es": {
+        "title": "La Policía Federal y Hacienda de Brasil investigan un presunto fraude tributario de más de R$ 185 millones",
+        "subtitle": "La Operación Tax Mirage ejecutó 19 órdenes de registro en cinco estados; la investigación apunta a créditos previsionales inexistentes y posibles irregularidades en licitaciones.",
+        "facts": "El 12 de noviembre de 2026, la Policía Federal y la Receita Federal de Brasil iniciaron la Operación Tax Mirage para investigar compensaciones tributarias presuntamente indebidas por más de R$ 185 millones. Se ejecutaron 19 órdenes de registro en ocho ciudades de Paraná, Santa Catarina, Amazonas, Rondônia y Roraima. Según Hacienda, el grupo ofrecía servicios de recuperación de créditos basados en contribuciones previsionales que nunca se habían pagado. Los investigadores identificaron al menos 48 contribuyentes en 32 municipios de diez estados. La investigación continúa y las sospechas no equivalen a una condena.",
+        "analysis": "Según las autoridades, el presunto mecanismo podría haber distorsionado la competencia en contratos públicos, ya que algunas empresas habrían obtenido certificados de regularidad fiscal mediante compensaciones con créditos inexistentes. Los investigadores también señalaron indicios de patrimonio incompatible con los ingresos declarados y posible ocultación de bienes. Las pruebas incautadas serán analizadas para establecer responsabilidades y pérdidas. La cifra divulgada corresponde a compensaciones sospechosas, no a dinero recuperado definitivamente, y debe respetarse el debido proceso.",
+        "counterpoint": "Si un crédito inexistente permite borrar deudas fiscales, las empresas que cumplen la ley pueden quedar en desventaja. Hace falta transparencia sobre los valores realmente recuperables, sin convertir sospechas en sentencias anticipadas.",
+        "category": "JUSTICIA"
+      }
+    },
+    {
       "id": "trump-ameaca-dobrar-tarifas-mexico-caravanas-sheinbaum-2026-11-12",
       "date": "2026-11-12",
       "category": "MUNDO",
