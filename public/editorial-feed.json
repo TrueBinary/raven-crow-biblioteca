@@ -1,6 +1,48 @@
 {
   "articles": [
     {
+      "id": "senado-aprova-texto-base-ajuste-fiscal-45-a-31-2026-11-13",
+      "date": "2026-11-13",
+      "category": "POLÍTICA",
+      "title": "Senado aprova texto-base de ajuste fiscal por 45 a 31; quatro pontos ainda serão votados",
+      "subtitle": "PLP 299/2026 prevê restrição a benefícios tributários e instrumentos para conter despesas; texto ainda não concluiu tramitação.",
+      "facts": "O Senado aprovou na noite de quinta-feira, 12 de novembro de 2026, por 45 votos a 31, o texto-base do PLP 299/2026, pacote de ajuste fiscal do governo. O substitutivo foi relatado pelo senador Eduardo Braga (MDB-AM) e alterou o projeto apresentado por Jaques Wagner (PT-BA). A votação não encerrou a análise: quatro destaques ficaram para terça-feira, 17 de novembro, e, depois disso, a proposta ainda precisará passar pela Câmara dos Deputados. Conforme a Agência Senado, o Executivo estima melhora de R$ 45,1 bilhões a R$ 56,1 bilhões no resultado primário de 2027, valor estimado e não economia já realizada. A proposta inclui redução de benefícios tributários, instrumentos adicionais de bloqueio de despesas e mudanças nos repasses da Lei Kandir. A Agência Brasil noticiou estimativa mais ampla de R$ 50 bilhões a R$ 60 bilhões, atribuída ao ministro Bruno Moretti; os números refletem estimativas e recortes distintos.",
+      "analysis": "O avanço no Senado é uma etapa política relevante do primeiro pacote fiscal apresentado após as eleições, mas ainda não significa aprovação definitiva nem implementação das medidas. O projeto prevê limitar a 2% o crescimento real de despesas em anos com determinadas medidas de contenção, ante teto atual de 2,5%, e autorizar bloqueios adicionais para buscar o centro da meta fiscal. Parte das alterações pode afetar benefícios fiscais e transferências a estados, motivo de resistência de parlamentares. A votação dos destaques e a análise da Câmara poderão modificar o texto. A avaliação do efeito fiscal dependerá da redação final, da execução e do comportamento da arrecadação e das despesas.",
+      "counterpoint": "O governo comemora uma promessa de economia antes de terminar a votação — como quem já conta o dinheiro da venda antes de encontrar comprador. O contribuinte merece a conta completa: quais benefícios acabam, quais despesas realmente diminuem e quem pagará a diferença. Também seria erro chamar o texto-base de lei aprovada: ainda há destaques e Câmara pela frente.",
+      "sources": [
+        {
+          "name": "Agência Senado — texto principal aprovado, 12/11/2026",
+          "url": "https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado"
+        },
+        {
+          "name": "Agência Brasil — votação e estimativa, 12/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-texto-base-de-pacote-que-preve-economia-de-ate-r-60-bi"
+        },
+        {
+          "name": "Agência Senado — destaques e emendas, 12/11/2026",
+          "url": "https://www12.senado.leg.br/noticias/materias/2026/11/12/mesmo-com-urgencia-projeto-de-ajuste-fiscal-foi-alterado-por-emendas"
+        }
+      ],
+      "en": {
+        "title": "Brazilian Senate approves fiscal adjustment bill's main text by 45 votes to 31; four provisions remain",
+        "subtitle": "Bill PLP 299/2026 would curb tax breaks and expand spending controls, but has not completed the legislative process.",
+        "facts": "On Thursday evening, November 12, 2026, Brazil's Senate approved the main text of supplementary bill PLP 299/2026, a government fiscal adjustment package, by 45 votes to 31. Senator Eduardo Braga (MDB-AM) reported a revised version of the proposal introduced by Jaques Wagner (PT-BA). Four separately challenged provisions remain for a vote expected on November 17, after which the bill must still go to the Chamber of Deputies. The Senate news agency reported that the executive branch estimates an improvement of R$45.1 billion to R$56.1 billion in the 2027 primary fiscal balance, a projection rather than savings already achieved. The package includes reductions in tax benefits, additional budget-blocking powers and changes to transfers under the Kandir Law. Agência Brasil reported a broader R$50 billion to R$60 billion estimate attributed to Planning Minister Bruno Moretti; the figures reflect different estimates and scopes.",
+        "analysis": "The Senate vote is an important legislative step, but it does not amount to final approval or implementation. The proposal would cap inflation-adjusted spending growth at 2% rather than the current 2.5% in years when specified restraint measures apply, and allow further budget freezes to pursue the center of the fiscal target. Changes to tax benefits and state transfers face political resistance. Pending Senate votes and the Chamber of Deputies could still alter the text, while actual fiscal effects will depend on implementation and revenue and spending outcomes.",
+        "counterpoint": "The government is celebrating projected savings before the legislative vote is even finished — like counting proceeds from a sale before finding a buyer. Taxpayers deserve a complete accounting of which tax breaks end, which spending actually falls and who bears the costs. Calling this a law already passed would also be premature.",
+        "category": "POLITICS",
+        "slug": "brazilian-senate-approves-fiscal-adjustment-bill-s-main-text-by-45-votes-to-31-2026-11-13"
+      },
+      "es": {
+        "title": "El Senado de Brasil aprueba por 45 votos contra 31 el texto principal del ajuste fiscal; quedan cuatro puntos pendientes",
+        "subtitle": "El PLP 299/2026 reduciría beneficios tributarios y ampliaría los controles del gasto, pero aún no concluyó su tramitación.",
+        "facts": "La noche del jueves 12 de noviembre de 2026, el Senado brasileño aprobó por 45 votos contra 31 el texto principal del PLP 299/2026, el paquete de ajuste fiscal del Gobierno. El senador Eduardo Braga (MDB-AM) fue ponente del texto sustitutivo de la propuesta presentada por Jaques Wagner (PT-BA). Quedan cuatro puntos para una votación separada prevista para el 17 de noviembre y, después, el proyecto todavía deberá pasar por la Cámara de Diputados. Según la Agencia del Senado, el Ejecutivo estima una mejora de entre R$ 45.100 millones y R$ 56.100 millones en el resultado primario de 2027; se trata de una previsión, no de ahorros realizados. La propuesta incluye recortes de beneficios tributarios, instrumentos adicionales de bloqueo presupuestario y cambios en transferencias de la Ley Kandir. Agência Brasil informó de una estimación más amplia de entre R$ 50.000 millones y R$ 60.000 millones, atribuida al ministro Bruno Moretti; las cifras corresponden a estimaciones y alcances distintos.",
+        "analysis": "La aprobación del texto principal es un avance político, pero no equivale a la aprobación definitiva ni a la entrada en vigor de las medidas. La propuesta limitaría al 2%, frente al 2,5% actual, el crecimiento real del gasto en ejercicios sujetos a determinadas restricciones y permitiría nuevos bloqueos para alcanzar el centro de la meta fiscal. Los cambios en beneficios tributarios y transferencias a los estados generan resistencia. Las votaciones pendientes y la Cámara de Diputados todavía pueden modificar el texto; el efecto fiscal dependerá de la ejecución, los ingresos y los gastos.",
+        "counterpoint": "El Gobierno celebra un ahorro proyectado antes de terminar la votación, como quien cuenta el dinero de una venta antes de encontrar comprador. El contribuyente merece saber qué beneficios desaparecen, qué gastos se reducen realmente y quién asumirá el costo. Tampoco corresponde presentar el texto principal como una ley ya aprobada.",
+        "category": "POLÍTICA",
+        "slug": "el-senado-de-brasil-aprueba-por-45-votos-contra-31-el-texto-principal-del-2026-11-13"
+      }
+    },
+    {
       "id": "eua-anunciam-europeus-negociacoes-paz-ucrania-troca-prisioneiros-2026-11-13",
       "date": "2026-11-13",
       "category": "MUNDO",
