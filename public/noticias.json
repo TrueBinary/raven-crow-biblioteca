@@ -6,6 +6,46 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "banco-do-brasil-kfw-100-milhoes-euros-bioeconomia-cop31-2026-11-12",
+      "date": "2026-11-12",
+      "category": "ECONOMIA",
+      "title": "Banco do Brasil e KfW estruturam operação de € 100 milhões para bioeconomia na Amazônia",
+      "subtitle": "Parceria anunciada na COP31 mira crédito para produtores e comunidades; recursos ainda dependem da estruturação da operação.",
+      "facts": "O Banco do Brasil e o banco alemão de desenvolvimento KfW anunciaram em 11 de novembro de 2026, durante a COP31, uma declaração conjunta para estruturar uma operação de financiamento de € 100 milhões voltada a cadeias produtivas sustentáveis da bioeconomia, especialmente na Amazônia. O Banco do Brasil será responsável por selecionar e alocar operações elegíveis de crédito; o KfW atuará como financiador e monitorará o projeto em nome da cooperação financeira entre Brasil e Alemanha. A iniciativa busca apoiar pequenos produtores, agricultores familiares, comunidades tradicionais, povos indígenas, cooperativas e pequenas empresas. O anúncio não equivale a um desembolso imediato: a operação ainda será estruturada. A Agência Brasil publicou detalhes da iniciativa em 12 de novembro.",
+      "analysis": "O financiamento pode ampliar o acesso ao crédito para atividades que conciliem geração de renda e conservação ambiental, mas o impacto concreto dependerá das condições finais dos empréstimos, da seleção de beneficiários e da execução. A nova iniciativa dá sequência a uma parceria anunciada na COP30 de 2025, que envolveu captação de € 50 milhões e apoio técnico. A avaliação de resultados exigirá acompanhar desembolsos efetivos, inadimplência, empregos e benefícios ambientais, e não apenas valores anunciados.",
+      "counterpoint": "A promessa de € 100 milhões chama atenção, mas dinheiro anunciado em conferência não é dinheiro na conta do produtor. O teste real será saber quem receberá o crédito, em quais condições e se a burocracia permitirá que ele chegue à ponta.",
+      "sources": [
+        {
+          "name": "Banco do Brasil — comunicado oficial, 11/11/2026",
+          "url": "https://imprensa.bb.com.br/bb-e-kfw-avancam-em-parceria-de-e100-milhoes-para-fortalecer-bioeconomia-com-foco-na-amazonia/"
+        },
+        {
+          "name": "Agência Brasil — reportagem, 12/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/es/economia/noticia/2026-11/banco-do-brasil-y-kfw-invertiran-eu-100-millones-en-la-bioeconomia"
+        },
+        {
+          "name": "Estadão Conteúdo via UOL — cobertura independente, 11/11/2026",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/11/cop31-bb-capta-100-milhoes-de-euros-com-bndes-da-alemanha-para-projetos-sustentaveis.amp.htm"
+        }
+      ],
+      "en": {
+        "title": "Banco do Brasil and KfW plan €100 million Amazon bioeconomy financing deal",
+        "subtitle": "Partnership announced at COP31 targets credit for producers and communities; the financing structure is still being finalized.",
+        "facts": "Banco do Brasil and Germany's development bank KfW announced a joint declaration on November 11, 2026, during COP31 to structure a €100 million financing operation for sustainable bioeconomy supply chains, with an emphasis on the Amazon. Banco do Brasil will identify and allocate eligible lending operations, while KfW will finance and monitor the project on behalf of German-Brazilian financial cooperation. Intended beneficiaries include small producers, family farmers, traditional communities, Indigenous peoples, cooperatives and small businesses. The announcement is not an immediate disbursement: the operation still needs to be structured. Agência Brasil reported further details on November 12.",
+        "analysis": "The proposed financing could improve access to credit for activities that generate income while protecting ecosystems, but the outcome will depend on final loan terms, beneficiary selection and implementation. The initiative follows a partnership announced at COP30 in 2025 involving €50 million in funding and technical assistance. Meaningful evaluation will require tracking actual disbursements, defaults, jobs and environmental outcomes rather than headline commitments.",
+        "counterpoint": "A €100 million announcement makes headlines, but money promised at a summit is not money in a farmer's account. The real test is who gets the loans, on what terms and whether bureaucracy lets the funds reach their intended recipients.",
+        "category": "ECONOMY"
+      },
+      "es": {
+        "title": "Banco do Brasil y KfW preparan una operación de €100 millones para la bioeconomía amazónica",
+        "subtitle": "La alianza anunciada en la COP31 busca ampliar el crédito para productores y comunidades; la operación aún debe estructurarse.",
+        "facts": "Banco do Brasil y el banco alemán de desarrollo KfW anunciaron el 11 de noviembre de 2026, durante la COP31, una declaración conjunta para estructurar una operación de financiación de €100 millones destinada a cadenas productivas sostenibles de la bioeconomía, especialmente en la Amazonía. Banco do Brasil identificará y asignará las operaciones de crédito elegibles, mientras que KfW financiará y supervisará el proyecto en representación de la cooperación financiera entre Brasil y Alemania. Los posibles beneficiarios incluyen pequeños productores, agricultores familiares, comunidades tradicionales, pueblos indígenas, cooperativas y pequeñas empresas. El anuncio no supone un desembolso inmediato: la operación todavía debe estructurarse. Agência Brasil publicó más detalles el 12 de noviembre.",
+        "analysis": "La financiación prevista podría ampliar el acceso al crédito para actividades que generen ingresos y conserven los ecosistemas, pero los resultados dependerán de las condiciones definitivas, la selección de beneficiarios y la ejecución. La iniciativa continúa una alianza anunciada durante la COP30 de 2025, con €50 millones en financiación y asistencia técnica. Para evaluar sus efectos será necesario seguir los desembolsos efectivos, la morosidad, el empleo y los resultados ambientales, no solo los anuncios.",
+        "counterpoint": "El anuncio de €100 millones llama la atención, pero el dinero prometido en una cumbre no es dinero en la cuenta del productor. La prueba será quién recibe el crédito, bajo qué condiciones y si la burocracia permite que llegue a sus destinatarios.",
+        "category": "ECONOMÍA"
+      }
+    },
+    {
       "id": "dolar-fecha-565-maior-cotacao-desde-junho-2025-pacote-fiscal-2026-11-12",
       "date": "2026-11-12",
       "category": "ECONOMIA",
