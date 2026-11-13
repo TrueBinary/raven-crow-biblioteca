@@ -5,7 +5,47 @@
   "updatedAt": "2026-11-12T10:05:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
-{
+    {
+      "id": "dolar-fecha-565-maior-cotacao-desde-junho-2025-pacote-fiscal-2026-11-12",
+      "date": "2026-11-12",
+      "category": "ECONOMIA",
+      "title": "Dólar fecha a R$ 5,65, maior nível desde junho de 2025, após frustração com pacote fiscal",
+      "subtitle": "Moeda americana avança 1,58% no mercado à vista; proposta para 2027 e juros nos EUA pressionam o real.",
+      "facts": "O dólar à vista encerrou a quinta-feira, 12 de novembro de 2026, em alta de 1,58%, a R$ 5,6507 na venda, segundo a Reuters. Foi o maior fechamento desde 2 de junho de 2025. A valorização ocorreu após investidores demonstrarem insatisfação com a proposta de medidas fiscais do governo brasileiro para 2027, ao mesmo tempo em que a moeda americana se fortaleceu no exterior. O governo apresentou medidas com impacto projetado de R$ 50 bilhões a R$ 60 bilhões em 2027, segundo o ministro do Planejamento, Bruno Moretti. A Folha de S.Paulo também registrou a alta do dólar e a queda do Ibovespa no encerramento do pregão. O avanço da moeda não deve ser confundido com a taxa Ptax divulgada pelo Banco Central, que segue metodologia e horário próprios.",
+      "analysis": "O câmbio reage simultaneamente à percepção de risco fiscal no Brasil e ao ambiente de juros internacionais. Parte do mercado considera que as medidas anunciadas ainda não asseguram uma trajetória sustentável para a dívida pública, enquanto sinais de inflação e juros mais elevados nos Estados Unidos favorecem o dólar globalmente. Uma depreciação persistente do real pode encarecer importações e componentes dolarizados, embora seu efeito sobre os preços ao consumidor dependa da duração do movimento e de outros fatores. A proposta fiscal ainda depende de tramitação legislativa.",
+      "counterpoint": "O governo anuncia dezenas de bilhões em medidas fiscais, mas o mercado continua perguntando onde está o ajuste estrutural. O dólar não lê discurso de coletiva: reage a números, riscos e expectativas. Também seria simplista atribuir toda a alta a Brasília, ignorando a força da moeda americana no exterior.",
+      "sources": [
+        {
+          "name": "Reuters — fechamento do dólar à vista, 12/11/2026",
+          "url": "https://economia.uol.com.br/noticias/reuters/2026/11/12/dolar-a-vista-fecha-em-alta-de-158-a-r56507-na-venda.htm"
+        },
+        {
+          "name": "Folha de S.Paulo — dólar e Ibovespa após pacote fiscal, 12/11/2026",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/11/dolar-sobe-e-ibovespa-cai-com-foco-no-fiscal-acoes-do-bb-tem-queda-forte.shtml"
+        },
+        {
+          "name": "UOL — proposta de ajuste fiscal para 2027, 12/11/2026",
+          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/12/governo-preve-ate-r-60-bilhoes-em-medidas-fiscais-para-2027.ghtm"
+        }
+      ],
+      "en": {
+        "title": "Dollar closes at R$5.65, highest since June 2025, as Brazil's fiscal plan disappoints",
+        "subtitle": "The US currency rises 1.58% in spot trading amid concerns over Brazil's 2027 fiscal measures and US interest rates.",
+        "facts": "The US dollar closed Thursday, November 12, 2026, up 1.58% against the Brazilian real at R$5.6507 in spot selling, according to Reuters, its highest closing level since June 2, 2025. Investors reacted negatively to the Brazilian government's proposed fiscal measures for 2027, while the dollar also strengthened internationally. Planning Minister Bruno Moretti said the measures were expected to have a R$50 billion to R$60 billion fiscal impact in 2027. Folha de S.Paulo separately reported the currency's rise and a decline in the Ibovespa stock index. The spot-market closing rate differs from the Central Bank's Ptax reference rate, which is calculated using a separate methodology.",
+        "analysis": "The exchange rate reflects both Brazilian fiscal risk perceptions and global interest-rate expectations. Some investors question whether the proposed measures will stabilize public debt, while stronger US inflation and interest-rate expectations support the dollar internationally. A sustained weakening of the real could increase import costs, though the effect on consumer prices depends on the duration of the move and other factors. The fiscal proposal still requires legislative approval.",
+        "counterpoint": "The government announces tens of billions in fiscal measures, but markets still want to know where the structural adjustment is. Exchange rates respond to numbers, risks and expectations, not just speeches. Blaming Brasília alone would also ignore the dollar's broader international strength.",
+        "category": "ECONOMY"
+      },
+      "es": {
+        "title": "El dólar cierra en R$5,65, su mayor nivel desde junio de 2025, tras decepción por el plan fiscal",
+        "subtitle": "La moneda estadounidense sube un 1,58% en el mercado al contado ante las medidas fiscales de Brasil para 2027 y los tipos de interés en EE. UU.",
+        "facts": "El dólar estadounidense cerró el jueves 12 de noviembre de 2026 con un alza del 1,58% frente al real brasileño, a R$5,6507 para la venta en el mercado al contado, según Reuters. Fue el mayor cierre desde el 2 de junio de 2025. Los inversores reaccionaron negativamente a las medidas fiscales propuestas por el gobierno brasileño para 2027, mientras la moneda estadounidense también se fortalecía en el exterior. El ministro de Planificación, Bruno Moretti, afirmó que las medidas tendrían un impacto fiscal estimado entre R$50.000 millones y R$60.000 millones en 2027. Folha de S.Paulo informó por separado de la subida del dólar y la caída del Ibovespa. El cierre del mercado al contado no es equivalente a la tasa de referencia Ptax del Banco Central, calculada con otra metodología.",
+        "analysis": "El tipo de cambio refleja tanto la percepción del riesgo fiscal brasileño como las expectativas de tipos de interés internacionales. Parte del mercado duda de que las medidas propuestas estabilicen la deuda pública, mientras la inflación y los tipos estadounidenses respaldan al dólar en el exterior. Una depreciación persistente del real podría encarecer las importaciones, aunque su impacto sobre los precios dependerá de la duración del movimiento y de otros factores. La propuesta fiscal todavía requiere aprobación legislativa.",
+        "counterpoint": "El gobierno anuncia decenas de miles de millones en medidas fiscales, pero el mercado sigue preguntando dónde está el ajuste estructural. El dólar responde a cifras, riesgos y expectativas, no solo a discursos. Culpar exclusivamente a Brasilia también ignoraría la fortaleza internacional de la moneda estadounidense.",
+        "category": "ECONOMÍA"
+      }
+    },
+    {
       "id": "petroleo-brent-sobe-3-dolares-ataques-arabia-saudita-ormuz-2026-11-12",
       "date": "2026-11-12",
       "category": "ECONOMIA",
@@ -62,7 +102,7 @@
         }
       ]
     },
-{
+    {
       "id": "corteva-acoes-despencam-crise-agro-brasil-revisao-lucro-2026-11-12",
       "date": "2026-11-12",
       "category": "ECONOMIA",
@@ -119,7 +159,7 @@
         }
       ]
     },
-{
+    {
       "id": "caixa-vida-previdencia-vazamento-dados-76-milhoes-2026-11-12",
       "date": "2026-11-12",
       "category": "TECNOLOGIA",
@@ -176,7 +216,7 @@
         }
       ]
     },
-{
+    {
       "id": "reino-unido-sanciona-dez-maiores-petroleiras-russas-slavneft-2026-11-12",
       "date": "2026-11-12",
       "category": "MUNDO",
@@ -636,7 +676,7 @@
         }
       ]
     },
-{
+    {
       "id": "desabamento-brooklyn-nova-york-oito-mortos-2026-11-12",
       "date": "2026-11-12",
       "category": "MUNDO",
