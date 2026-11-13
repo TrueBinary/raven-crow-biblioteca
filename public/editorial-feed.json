@@ -1,6 +1,44 @@
 {
   "articles": [
     {
+      "id": "fifa-ingressos-copa-mundo-feminina-2027-venda-dezembro-2026-11-13",
+      "date": "2026-11-13",
+      "category": "ESPORTE",
+      "title": "FIFA anuncia venda de ingressos da Copa Feminina de 2027 a partir de 1º de dezembro",
+      "subtitle": "Primeira fase de vendas será de 1º a 8 de dezembro, com pacotes que incluem entradas a partir de R$ 30 por partida; torneio será sediado no Brasil.",
+      "facts": "A FIFA anunciou nesta sexta-feira, 13 de novembro de 2026, que a primeira fase de vendas de ingressos para a Copa do Mundo Feminina de 2027, no Brasil, começa em 1º de dezembro às 10h no horário local e termina em 8 de dezembro, antes do sorteio de 11 de dezembro. Serão oferecidos três pacotes: Brazil Team Pass, para os três jogos do Brasil na fase de grupos; Arena Pass, para partidas em um estádio escolhido; e Flex Pass, para três jogos elegíveis. Há pacotes com ingressos a partir de R$ 30 por partida na categoria 3, conforme disponibilidade e seleção. A FIFA informou que a compra será exclusivamente por seu site oficial.",
+      "analysis": "A divulgação permite que torcedores se organizem com antecedência para a primeira Copa do Mundo Feminina realizada na América do Sul. A primeira etapa privilegia pacotes de múltiplas partidas, não a venda avulsa de todos os jogos. A FIFA também anunciou meia-entrada conforme a legislação brasileira e opções acessíveis. Os valores de entrada anunciados não representam preço único de todos os assentos nem garantia de disponibilidade: as compras obedecerão às cotas e à ordem de chegada.",
+      "counterpoint": "O ingresso de R$ 30 chama atenção, mas não deve ser confundido com preço garantido para qualquer jogo. O torcedor precisa comparar o valor total dos pacotes, as regras de meia-entrada e os custos de deslocamento antes de comprar — e fugir dos cambistas digitais.",
+      "sources": [
+        {
+          "name": "FIFA — comunicado oficial, 13/11/2026",
+          "url": "https://inside.fifa.com/tournament-organisation/media-releases/womens-world-cup-brazil-2027-ticket-sales-1-december"
+        },
+        {
+          "name": "Reuters — 13/11/2026",
+          "url": "https://www.reuters.com/sports/soccer/womens-2027-world-cup-tickets-go-sale-december-2026-11-13/"
+        }
+      ],
+      "en": {
+        "title": "FIFA announces December 1 ticket sales launch for 2027 Women's World Cup in Brazil",
+        "subtitle": "The first sales window runs December 1–8, with packages featuring tickets from R$ 30 per match.",
+        "facts": "On November 13, 2026, FIFA announced that the first ticket sales window for the 2027 Women's World Cup in Brazil will run from December 1 at 10 a.m. local time through December 8, ahead of the December 11 draw. Three multi-match packages will be offered: Brazil Team Pass for Brazil's three group games, Arena Pass for matches at a chosen stadium, and Flex Pass for three eligible games. Some packages feature category 3 tickets starting at R$ 30 per match, depending on availability and the selected fixtures. Sales will take place exclusively through FIFA's official ticket website.",
+        "analysis": "The announcement gives fans time to prepare for the first Women's World Cup hosted in South America. The initial phase focuses on multi-match packages rather than unrestricted single-match sales. FIFA also announced legally mandated half-price options and accessible seating. Advertised entry prices do not apply to every seat or guarantee availability; allocations will be sold on a first-come, first-served basis.",
+        "counterpoint": "A R$ 30 entry price makes headlines, but it is not a guaranteed price for every match. Fans should check full package costs, eligibility rules and travel expenses, and avoid unauthorized sellers.",
+        "category": "SPORT",
+        "slug": "fifa-announces-december-1-ticket-sales-launch-for-2027-women-s-world-cup-in-2026-11-13"
+      },
+      "es": {
+        "title": "La FIFA anuncia que las entradas del Mundial Femenino de 2027 saldrán a la venta el 1 de diciembre",
+        "subtitle": "La primera fase será del 1 al 8 de diciembre, con paquetes que incluyen entradas desde R$ 30 por partido.",
+        "facts": "El 13 de noviembre de 2026, la FIFA anunció que la primera fase de venta de entradas para el Mundial Femenino de 2027 en Brasil comenzará el 1 de diciembre a las 10:00, hora local, y terminará el 8 de diciembre, antes del sorteo del 11 de diciembre. Se ofrecerán tres paquetes: Brazil Team Pass para los tres partidos de Brasil en la fase de grupos, Arena Pass para encuentros en un estadio elegido y Flex Pass para tres partidos elegibles. Algunos paquetes incluyen entradas de categoría 3 desde R$ 30 por partido, según disponibilidad y selección. La venta será exclusivamente a través del sitio oficial de la FIFA.",
+        "analysis": "El anuncio permite planificar con antelación la primera Copa Mundial Femenina celebrada en Sudamérica. La etapa inicial se concentra en paquetes de varios encuentros y no en la venta libre de entradas individuales para todos los partidos. La FIFA también anunció descuentos legales y localidades accesibles. Los precios mínimos anunciados no se aplican a todos los asientos ni garantizan disponibilidad: la asignación seguirá el orden de compra.",
+        "counterpoint": "El precio inicial de R$ 30 atrae atención, pero no está garantizado para todos los encuentros. Conviene revisar el costo total de cada paquete, las condiciones de descuento y los gastos de viaje, y evitar vendedores no autorizados.",
+        "category": "DEPORTES",
+        "slug": "la-fifa-anuncia-que-las-entradas-del-mundial-femenino-de-2027-saldran-a-la-2026-11-13"
+      }
+    },
+    {
       "id": "brasil-ultrapassa-mil-casos-mpox-2026-11-13",
       "date": "2026-11-13",
       "category": "SAÚDE",
