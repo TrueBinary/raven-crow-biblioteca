@@ -30,6 +30,9 @@
         "analysis": "A nationwide ground stop is rare: the previous one took place in January 2023 following a failure in the pilot-notification system. The 2026 incident renews scrutiny of the aging US air traffic communications infrastructure. Congress has approved modernization funding, but federal officials have called for additional investment. Delays can persist after service resumes as aircraft, crews and passengers are repositioned. Travelers should verify flight status with airlines and the FAA.",
         "counterpoint": "When a system critical to aviation safety stops working, the question is not only when flights resume but why such essential infrastructure remains vulnerable. Establishing the cause and publishing the findings matters more than alleging an attack without evidence.",
         "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (December 7, 2025): FAA air traffic control tower at Indianapolis International Airport, United States. Photo: AVA Navigate/Wikimedia Commons (CC BY-SA 4.0). Does not depict the nationwide flight ground stop on November 13, 2026."
+        },
         "slug": "us-airports-halt-departures-nationwide-after-air-traffic-control-communications-2026-11-13"
       },
       "es": {
@@ -39,8 +42,22 @@
         "analysis": "Una suspensión nacional de despegues es excepcional: la anterior ocurrió en enero de 2023, por una falla del sistema de avisos a pilotos. El incidente de 2026 reaviva el debate sobre la modernización de la infraestructura estadounidense de comunicaciones aéreas. El Congreso aprobó recursos para actualizar sistemas, pero las autoridades piden inversiones adicionales. Los retrasos pueden prolongarse tras la recuperación del servicio por la necesidad de reubicar aviones y tripulaciones. Los pasajeros deben consultar el estado de sus vuelos con las aerolíneas y la FAA.",
         "counterpoint": "Cuando se detiene un sistema esencial para la seguridad aérea, importa tanto saber cuándo se reanudarán los vuelos como entender por qué una infraestructura crítica sigue siendo vulnerable. Investigar y divulgar la causa vale más que atribuirla a un ataque sin pruebas.",
         "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (7 de diciembre de 2025): torre de control aéreo de la FAA en el Aeropuerto Internacional de Indianápolis, Estados Unidos. Foto: AVA Navigate/Wikimedia Commons (CC BY-SA 4.0). No muestra la suspensión nacional de despegues del 13 de noviembre de 2026."
+        },
         "slug": "estados-unidos-suspende-despegues-en-todo-el-pais-por-una-falla-de-2026-11-13"
-      }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/IND_FAA_air_traffic_control_tower.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "credit": "AVA Navigate / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:IND_FAA_air_traffic_control_tower.jpg",
+          "caption": "FOTO DE ARQUIVO (07/12/2025): torre de controle de tráfego aéreo da FAA no Aeroporto Internacional de Indianápolis, Estados Unidos. Foto: AVA Navigate/Wikimedia Commons (CC BY-SA 4.0). Não retrata a interrupção nacional de decolagens de 13/11/2026."
+        }
+      ]
     },
     {
       "id": "fifa-ingressos-copa-mundo-feminina-2027-venda-dezembro-2026-11-13",
@@ -114,6 +131,9 @@
         "analysis": "Crossing the 1,000-case threshold warrants attention but does not by itself establish a situation comparable to the 2022 outbreak. On November 5, the Health Ministry had reported 665 cases and authorized the purchase of up to 20,000 vaccine doses through PAHO, prioritizing higher-risk groups. The difference between reports highlights the importance of cutoff dates, updated surveillance figures, geographic distribution and testing capacity. Transmission mainly occurs through direct contact with lesions, bodily fluids or contaminated objects; official advice is to seek medical assessment for symptoms and avoid close contact when infection is suspected.",
         "counterpoint": "The figures justify neither panic nor complacency. The practical test is whether authorities provide timely data, accessible diagnosis, clear guidance and vaccines for those most at risk, rather than turning surveillance into a battle of slogans.",
         "category": "HEALTH",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (capture date unknown; sample associated with 2003): electron micrograph showing mpox virus particles from a US clinical sample. Cynthia S. Goldsmith and Russell Regnery/CDC, public domain. Does not depict Brazil's 2026 mpox cases."
+        },
         "slug": "brazil-surpasses-1-000-confirmed-mpox-cases-in-2026-with-rio-and-sao-paulo-2026-11-13"
       },
       "es": {
@@ -123,8 +143,22 @@
         "analysis": "Superar los mil casos requiere atención, pero no demuestra por sí solo una situación comparable con el brote de 2022. El 5 de noviembre, el Ministerio de Salud había informado 665 casos y autorizado la compra de hasta 20.000 dosis de vacunas mediante la OPS, dando prioridad a los grupos de mayor riesgo. La diferencia entre balances destaca la importancia de las fechas de corte, las actualizaciones del sistema de vigilancia, la distribución territorial y la capacidad diagnóstica. La transmisión ocurre principalmente por contacto directo con lesiones, secreciones u objetos contaminados; las autoridades recomiendan consultar ante síntomas y evitar el contacto cercano si se sospecha infección.",
         "counterpoint": "Las cifras no justifican ni el pánico ni la indiferencia. Lo importante es exigir datos oportunos, diagnóstico accesible, orientación clara y vacunas para quienes más las necesitan, sin convertir la vigilancia epidemiológica en una batalla de consignas.",
         "category": "SALUD",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (fecha de captura desconocida; muestra asociada a 2003): micrografía electrónica de partículas del virus mpox de una muestra clínica en Estados Unidos. Cynthia S. Goldsmith y Russell Regnery/CDC, dominio público. No muestra los casos brasileños de 2026."
+        },
         "slug": "brasil-supera-los-1-000-casos-confirmados-de-mpox-en-2026-rio-y-sao-paulo-2026-11-13"
-      }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Monkeypox_Virion_-_CDC.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público — obra de funcionários dos Centers for Disease Control and Prevention (CDC), governo federal dos EUA",
+          "credit": "Cynthia S. Goldsmith e Russell Regnery / CDC, via Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Monkeypox_Virion_-_CDC.jpg",
+          "caption": "FOTO DE ARQUIVO (data de captura não informada; amostra associada a 2003): micrografia eletrônica de partículas do vírus mpox obtidas de amostra clínica nos Estados Unidos. Cynthia S. Goldsmith e Russell Regnery/CDC, domínio público. Não retrata os casos brasileiros de 2026."
+        }
+      ]
     },
     {
       "id": "van-hollen-desafia-schumer-lideranca-democrata-senado-2026-11-13",
@@ -160,6 +194,9 @@
         "analysis": "The contest follows Democrats' victory in the Senate midterm elections. The Associated Press and Reuters reported disagreements within the caucus over its direction. Van Hollen argues for a change in approach and greater attention to working families' economic concerns; Schumer points to the election results and his experience as reasons for continuity. Senator Bernie Sanders has backed Van Hollen, but the outcome depends on an internal vote that has not yet taken place. The contest could shape the 2027 legislative agenda, but does not itself change Senate leadership.",
         "counterpoint": "Winning an election and immediately fighting over the top job shows that a parliamentary majority is not the same as unity. The real test is not who gives the fiercest speech, but who can turn votes into results and account for them.",
         "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (April 6, 2017): official portrait of US Senator Chris Van Hollen taken in Washington. US Senate Photographic Studio/Frank Fey, public domain. Does not depict the 2026 leadership bid announcement."
+        },
         "slug": "van-hollen-challenges-schumer-for-democratic-leadership-in-the-us-senate-2026-11-13"
       },
       "es": {
@@ -169,8 +206,22 @@
         "analysis": "La disputa llega después de que los demócratas obtuvieran la mayoría en el Senado en las elecciones de mitad de mandato. Associated Press y Reuters informaron sobre desacuerdos internos respecto de la estrategia del bloque. Van Hollen defiende un cambio de rumbo y mayor atención a los problemas económicos de las familias trabajadoras; Schumer destaca los resultados electorales y su experiencia como argumentos a favor de la continuidad. El senador Bernie Sanders ha respaldado a Van Hollen, pero el resultado dependerá de una votación interna aún pendiente. La contienda podría influir en la agenda legislativa de 2027, sin cambiar automáticamente la dirección del Senado.",
         "counterpoint": "Ganar las elecciones y empezar enseguida una pelea por la jefatura demuestra que mayoría parlamentaria no significa unidad. La verdadera prueba no será quién pronuncie el discurso más encendido, sino quién convierta los votos en resultados y rinda cuentas.",
         "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (6 de abril de 2017): retrato oficial del senador estadounidense Chris Van Hollen tomado en Washington. U.S. Senate Photographic Studio/Frank Fey, dominio público. No muestra el anuncio de la candidatura al liderazgo en 2026."
+        },
         "slug": "van-hollen-desafia-a-schumer-por-el-liderazgo-democrata-en-el-senado-de-estados-2026-11-13"
-      }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Chris_Van_Hollen_official_portrait_115th_Congress.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público — retrato oficial do Senado dos Estados Unidos",
+          "credit": "U.S. Senate Photographic Studio / Frank Fey, via Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Chris_Van_Hollen_official_portrait_115th_Congress.jpg",
+          "caption": "FOTO DE ARQUIVO (06/04/2017): retrato oficial do senador americano Chris Van Hollen, feito em Washington. U.S. Senate Photographic Studio/Frank Fey, domínio público. Não retrata o anúncio da candidatura à liderança em 2026."
+        }
+      ]
     },
     {
       "id": "aie-preve-superavit-petroleo-quarto-trimestre-2026-11-13",
@@ -244,6 +295,9 @@
         "analysis": "The incident highlights operational risks when critical email, authentication and productivity services depend on a small number of cloud providers. Even organizations with internal systems can lose essential functions through third-party dependencies. Outage-report counts do not equal the number of affected users, and the full impact will require a technical report. Businesses and public agencies should review continuity plans, alternative communication channels, recovery procedures and vendor dependencies. Neither the definitive root cause nor a full recovery timeline was confirmed during reporting.",
         "counterpoint": "When businesses and governments rely on one supplier for email, a technical outage becomes an infrastructure problem. Cloud services promise availability, but resilience requires redundancy, transparency and contingency plans. Calling this a cyberattack without evidence would be speculation.",
         "category": "TECHNOLOGY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (July 27, 2006): plaza between buildings on Microsoft's Redmond campus, Washington, United States. Jonathan Schilling/Wikimedia Commons (CC BY-SA 4.0). Does not depict the November 2026 service outage."
+        },
         "slug": "global-microsoft-365-outage-disrupts-outlook-teams-and-government-agencies-as-2026-11-13"
       },
       "es": {
@@ -253,8 +307,22 @@
         "analysis": "El incidente pone de relieve el riesgo operativo de concentrar servicios esenciales de correo, autenticación y productividad en pocos proveedores. Incluso las organizaciones con sistemas internos pueden perder funciones críticas por dependencias externas. Las cifras de reportes de fallas no equivalen al número de usuarios afectados; el alcance real requiere un informe técnico. Empresas y organismos públicos deberían revisar sus planes de continuidad, canales alternativos de comunicación, recuperación y dependencia de proveedores. Durante la investigación no se había confirmado la causa definitiva ni un plazo de recuperación total.",
         "counterpoint": "Cuando empresas y gobiernos dependen de un único proveedor de correo, una falla técnica se convierte en un problema de infraestructura. La nube promete disponibilidad, pero la resiliencia exige redundancia, transparencia y planes de contingencia. Sin pruebas, atribuir la interrupción a un ciberataque sería especular.",
         "category": "TECNOLOGÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (27 de julio de 2006): plaza entre edificios del campus de Microsoft en Redmond, Washington, Estados Unidos. Jonathan Schilling/Wikimedia Commons (CC BY-SA 4.0). No muestra la interrupción de servicios de noviembre de 2026."
+        },
         "slug": "una-falla-mundial-de-microsoft-365-afecta-a-outlook-teams-y-organismos-publicos-2026-11-13"
-      }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Plaza_on_the_Microsoft_Redmond_campus.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "credit": "Jonathan Schilling / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Plaza_on_the_Microsoft_Redmond_campus.jpg",
+          "caption": "FOTO DE ARQUIVO (27/07/2006): praça entre edifícios do campus da Microsoft em Redmond, Washington, Estados Unidos. Jonathan Schilling/Wikimedia Commons (CC BY-SA 4.0). Não retrata a pane de serviços de novembro de 2026."
+        }
+      ]
     },
     {
       "id": "bp-oferece-fatia-bumerangue-petrobras-co2-negociacoes-2026-11-13",
@@ -282,6 +350,9 @@
         "analysis": "High CO₂ concentrations can substantially increase the cost of separating, processing and reinjecting gas from a reservoir. Petrobras is developing subsea separation technology, but Reuters' sources say its Jupiter field would take priority. Any investment in Bumerangue would require further geological and commercial evaluation, economic feasibility studies and decisions that have not yet been made. BP had previously said it would seek partners while appraising the discovery.",
         "counterpoint": "Eight billion barrels sounds spectacular, but oil that cannot yet be produced profitably is a prospect, not cash flow. Before committing public-company capital, Petrobras should explain the cost of handling CO₂ and why this project deserves priority over existing developments.",
         "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (January 2, 2009): oil platform associated with Petrobras production in Brazil. Agência Brasil archive (CC BY 3.0 BR). Does not show the Bumerangue block or the 2026 BP–Petrobras talks."
+        },
         "slug": "bp-offers-petrobras-a-stake-in-major-oil-discovery-but-high-co2-levels-2026-11-13"
       },
       "es": {
@@ -291,8 +362,22 @@
         "analysis": "Las altas concentraciones de CO₂ pueden elevar considerablemente los costos de separación, tratamiento y reinyección del gas. Petrobras desarrolla tecnología de separación submarina, pero, según las fuentes de Reuters, daría prioridad al campo de Júpiter. Cualquier inversión en Bumerangue requerirá más evaluaciones geológicas, económicas y comerciales, además de decisiones todavía pendientes. BP había señalado anteriormente que buscaría socios mientras evalúa el hallazgo.",
         "counterpoint": "Ocho mil millones de barriles suenan impresionantes, pero el petróleo que aún no puede extraerse de forma rentable es una posibilidad, no dinero en caja. Antes de comprometer capital, Petrobras debería explicar cuánto costará gestionar el CO₂ y por qué este proyecto tendría prioridad sobre otros desarrollos.",
         "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (2 de enero de 2009): plataforma petrolera vinculada a la producción de Petrobras en Brasil. Archivo Agência Brasil (CC BY 3.0 BR). No muestra el bloque Bumerangue ni las negociaciones entre BP y Petrobras de 2026."
+        },
         "slug": "bp-ofrece-a-petrobras-una-participacion-en-un-gran-hallazgo-petrolero-pero-el-2026-11-13"
-      }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Oil_platform_%28Brazil%29_2.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution 3.0 Brazil (CC BY 3.0 BR)",
+          "credit": "Arquivo Agência Brasil / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Oil_platform_(Brazil)_2.jpg",
+          "caption": "FOTO DE ARQUIVO (02/01/2009): plataforma de petróleo associada à produção da Petrobras no Brasil. Arquivo Agência Brasil (CC BY 3.0 BR). Não retrata o bloco Bumerangue nem as negociações entre BP e Petrobras em 2026."
+        }
+      ]
     },
     {
       "id": "senado-aprova-texto-base-ajuste-fiscal-45-a-31-2026-11-13",
@@ -497,6 +582,9 @@
         "analysis": "Investigators say the alleged scheme may have affected competition for public contracts, as companies could obtain tax-compliance certificates using offsets based on nonexistent credits. Officials also reported indications of assets inconsistent with declared income and possible concealment of ownership. Seized evidence will be examined to establish the scope of any wrongdoing and potential losses. The reported figure refers to suspected improper offsets, not funds conclusively recovered, and no allegation should be treated as a conviction.",
         "counterpoint": "If nonexistent credits can erase a company's tax debts, compliant businesses and taxpayers may bear the cost. Investigators should disclose what can actually be recovered while preserving due process and the presumption of innocence.",
         "category": "JUSTICE",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (October 1, 2023): Federal Police headquarters in Brasília. Heitor Carvalho Jorge/Wikimedia Commons (CC BY-SA 4.0). Does not depict the November 2026 Tax Mirage operation."
+        },
         "slug": "brazilian-federal-police-and-tax-authority-probe-more-than-r-185-million-in-2026-11-12"
       },
       "es": {
@@ -506,8 +594,22 @@
         "analysis": "Según las autoridades, el presunto mecanismo podría haber distorsionado la competencia en contratos públicos, ya que algunas empresas habrían obtenido certificados de regularidad fiscal mediante compensaciones con créditos inexistentes. Los investigadores también señalaron indicios de patrimonio incompatible con los ingresos declarados y posible ocultación de bienes. Las pruebas incautadas serán analizadas para establecer responsabilidades y pérdidas. La cifra divulgada corresponde a compensaciones sospechosas, no a dinero recuperado definitivamente, y debe respetarse el debido proceso.",
         "counterpoint": "Si un crédito inexistente permite borrar deudas fiscales, las empresas que cumplen la ley pueden quedar en desventaja. Hace falta transparencia sobre los valores realmente recuperables, sin convertir sospechas en sentencias anticipadas.",
         "category": "JUSTICIA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (1 de octubre de 2023): sede de la Policía Federal en Brasilia. Heitor Carvalho Jorge/Wikimedia Commons (CC BY-SA 4.0). No muestra la Operación Tax Mirage de noviembre de 2026."
+        },
         "slug": "la-policia-federal-y-hacienda-de-brasil-investigan-un-presunto-fraude-2026-11-12"
       },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Sede_da_Pol%C3%ADcia_Federal.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "credit": "Heitor Carvalho Jorge / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Sede_da_Pol%C3%ADcia_Federal.jpg",
+          "caption": "FOTO DE ARQUIVO (01/10/2023): sede da Polícia Federal em Brasília. Heitor Carvalho Jorge/Wikimedia Commons (CC BY-SA 4.0). Não retrata a Operação Tax Mirage de novembro de 2026."
+        }
+      ],
       "firstSeen": "2026-11-12T10:05:00-03:00"
     },
     {
