@@ -1,6 +1,52 @@
 {
   "articles": [
     {
+      "id": "pane-global-microsoft-365-outlook-teams-servicos-2026-11-13",
+      "date": "2026-11-13",
+      "category": "TECNOLOGIA",
+      "title": "Pane global no Microsoft 365 afeta Outlook, Teams e órgãos públicos; recuperação é gradual",
+      "subtitle": "Falha iniciada em 12 de novembro prejudicou e-mails, serviços corporativos e integrações de IA; Microsoft ainda trabalhava na recuperação nesta sexta-feira.",
+      "facts": "Uma falha de grande escala iniciada em 12 de novembro de 2026 afetou o Exchange Online, o Outlook e funcionalidades conectadas do Microsoft 365 em diversas regiões. A Microsoft reconheceu a degradação e informou que parte de seus servidores ficou indisponível, sobrecarregando sistemas restantes. Houve relatos de problemas no Teams, Copilot e integrações que dependem de e-mail e calendários, mas isso não significa que todos os recursos desses produtos tenham parado. A Associated Press relatou impactos em empresas, companhias aéreas e órgãos governamentais; a Reuters informou interrupções em órgãos de inteligência e na polícia federal da Austrália. A empresa iniciou redirecionamento de tráfego, reinicializações e ajustes de capacidade, com recuperação desigual e sem confirmação de normalização completa na última atualização consultada. O painel oficial de status ainda indicava degradação de serviços na consulta. Não havia evidência confirmada de ataque cibernético, segundo a Microsoft.",
+      "analysis": "O episódio evidencia o risco operacional da concentração de serviços essenciais de e-mail, autenticação e produtividade em poucos fornecedores. Mesmo organizações que mantêm sistemas internos podem perder funções críticas quando dependem de uma plataforma externa. Relatos em monitoradores de falhas não equivalem ao número de usuários afetados, e o alcance exato ainda depende de relatório técnico da Microsoft. Empresas e órgãos públicos devem rever planos de continuidade, canais alternativos de comunicação, rotinas de recuperação e dependências de terceiros. A causa definitiva da pane e o prazo para restabelecimento integral não estavam comprovados na apuração.",
+      "counterpoint": "Quando o e-mail de empresas e governos depende de um único fornecedor, uma pane técnica vira problema de infraestrutura pública. A nuvem promete disponibilidade; a realidade exige redundância, transparência e planos de contingência. Sem laudo conclusivo, chamar o episódio de ataque hacker seria especulação.",
+      "sources": [
+        {
+          "name": "Microsoft — painel oficial de integridade dos serviços, consultado em 13/11/2026",
+          "url": "https://sdf.status.cloud.microsoft/"
+        },
+        {
+          "name": "Associated Press — impactos globais e resposta da empresa, 13/11/2026",
+          "url": "https://apnews.com/article/d92547a821930290db2964388016979a"
+        },
+        {
+          "name": "Reuters — impacto em órgãos australianos, 13/11/2026",
+          "url": "https://www.reuters.com/legal/litigation/australias-spy-agency-federal-police-hit-by-microsoft-outage-2026-11-13/"
+        },
+        {
+          "name": "Agência Brasil — falha no Outlook e Microsoft 365, 12/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/microsoft-365-e-outlook-saem-do-ar-para-milhares-de-usuarios"
+        }
+      ],
+      "en": {
+        "title": "Global Microsoft 365 outage disrupts Outlook, Teams and government agencies as recovery continues",
+        "subtitle": "The disruption began on November 12, affecting email, business services and AI integrations; Microsoft was still working to restore services on Friday.",
+        "facts": "A large-scale outage that began on November 12, 2026 affected Exchange Online, Outlook and connected Microsoft 365 features across multiple regions. Microsoft acknowledged service degradation and said some servers unexpectedly became unavailable, putting pressure on the remaining infrastructure. Users reported problems involving Teams, Copilot and integrations relying on email and calendar data, although this does not mean every feature of those services was down. The Associated Press reported disruptions at companies, airlines and government agencies; Reuters reported impacts on Australia's intelligence agency and federal police. Microsoft redirected traffic, restarted servers and adjusted capacity, but recovery remained uneven and a full restoration had not been confirmed in the latest updates reviewed. Its official status page continued to report degraded services. Microsoft said it had found no evidence of a cyberattack.",
+        "analysis": "The incident highlights operational risks when critical email, authentication and productivity services depend on a small number of cloud providers. Even organizations with internal systems can lose essential functions through third-party dependencies. Outage-report counts do not equal the number of affected users, and the full impact will require a technical report. Businesses and public agencies should review continuity plans, alternative communication channels, recovery procedures and vendor dependencies. Neither the definitive root cause nor a full recovery timeline was confirmed during reporting.",
+        "counterpoint": "When businesses and governments rely on one supplier for email, a technical outage becomes an infrastructure problem. Cloud services promise availability, but resilience requires redundancy, transparency and contingency plans. Calling this a cyberattack without evidence would be speculation.",
+        "category": "TECHNOLOGY",
+        "slug": "global-microsoft-365-outage-disrupts-outlook-teams-and-government-agencies-as-2026-11-13"
+      },
+      "es": {
+        "title": "Una falla mundial de Microsoft 365 afecta a Outlook, Teams y organismos públicos mientras avanza la recuperación",
+        "subtitle": "La interrupción comenzó el 12 de noviembre y afectó al correo, servicios empresariales e integraciones de IA; Microsoft seguía trabajando en la recuperación el viernes.",
+        "facts": "Una interrupción a gran escala iniciada el 12 de noviembre de 2026 afectó a Exchange Online, Outlook y funciones vinculadas de Microsoft 365 en distintas regiones. Microsoft reconoció la degradación del servicio e informó que algunos servidores quedaron inesperadamente fuera de servicio, sobrecargando la infraestructura restante. Se registraron problemas en Teams, Copilot e integraciones que dependen del correo y los calendarios, lo que no significa que todas las funciones de esos productos dejaran de operar. Associated Press informó de impactos en empresas, aerolíneas y organismos gubernamentales; Reuters reportó afectaciones en la agencia de inteligencia y la policía federal de Australia. Microsoft desvió tráfico, reinició servidores y ajustó capacidad, pero la recuperación seguía siendo desigual y no se había confirmado el restablecimiento completo en las últimas actualizaciones consultadas. Su panel oficial todavía indicaba degradación del servicio. Según Microsoft, no había pruebas de un ciberataque.",
+        "analysis": "El incidente pone de relieve el riesgo operativo de concentrar servicios esenciales de correo, autenticación y productividad en pocos proveedores. Incluso las organizaciones con sistemas internos pueden perder funciones críticas por dependencias externas. Las cifras de reportes de fallas no equivalen al número de usuarios afectados; el alcance real requiere un informe técnico. Empresas y organismos públicos deberían revisar sus planes de continuidad, canales alternativos de comunicación, recuperación y dependencia de proveedores. Durante la investigación no se había confirmado la causa definitiva ni un plazo de recuperación total.",
+        "counterpoint": "Cuando empresas y gobiernos dependen de un único proveedor de correo, una falla técnica se convierte en un problema de infraestructura. La nube promete disponibilidad, pero la resiliencia exige redundancia, transparencia y planes de contingencia. Sin pruebas, atribuir la interrupción a un ciberataque sería especular.",
+        "category": "TECNOLOGÍA",
+        "slug": "una-falla-mundial-de-microsoft-365-afecta-a-outlook-teams-y-organismos-publicos-2026-11-13"
+      }
+    },
+    {
       "id": "bp-oferece-fatia-bumerangue-petrobras-co2-negociacoes-2026-11-13",
       "date": "2026-11-13",
       "category": "ECONOMIA",
