@@ -34,7 +34,10 @@
         "facts": "Banco do Brasil and Germany's development bank KfW announced a joint declaration on November 11, 2026, during COP31 to structure a €100 million financing operation for sustainable bioeconomy supply chains, with an emphasis on the Amazon. Banco do Brasil will identify and allocate eligible lending operations, while KfW will finance and monitor the project on behalf of German-Brazilian financial cooperation. Intended beneficiaries include small producers, family farmers, traditional communities, Indigenous peoples, cooperatives and small businesses. The announcement is not an immediate disbursement: the operation still needs to be structured. Agência Brasil reported further details on November 12.",
         "analysis": "The proposed financing could improve access to credit for activities that generate income while protecting ecosystems, but the outcome will depend on final loan terms, beneficiary selection and implementation. The initiative follows a partnership announced at COP30 in 2025 involving €50 million in funding and technical assistance. Meaningful evaluation will require tracking actual disbursements, defaults, jobs and environmental outcomes rather than headline commitments.",
         "counterpoint": "A €100 million announcement makes headlines, but money promised at a summit is not money in a farmer's account. The real test is who gets the loans, on what terms and whether bureaucracy lets the funds reach their intended recipients.",
-        "category": "ECONOMY"
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (August 28, 2018): Banco do Brasil headquarters in Brasília. Fernando Bizerra/Agência Senado (CC BY 2.0). The photo does not show the 2026 COP31 BB–KfW partnership announcement."
+        }
       },
       "es": {
         "title": "Banco do Brasil y KfW preparan una operación de €100 millones para la bioeconomía amazónica",
@@ -42,8 +45,22 @@
         "facts": "Banco do Brasil y el banco alemán de desarrollo KfW anunciaron el 11 de noviembre de 2026, durante la COP31, una declaración conjunta para estructurar una operación de financiación de €100 millones destinada a cadenas productivas sostenibles de la bioeconomía, especialmente en la Amazonía. Banco do Brasil identificará y asignará las operaciones de crédito elegibles, mientras que KfW financiará y supervisará el proyecto en representación de la cooperación financiera entre Brasil y Alemania. Los posibles beneficiarios incluyen pequeños productores, agricultores familiares, comunidades tradicionales, pueblos indígenas, cooperativas y pequeñas empresas. El anuncio no supone un desembolso inmediato: la operación todavía debe estructurarse. Agência Brasil publicó más detalles el 12 de noviembre.",
         "analysis": "La financiación prevista podría ampliar el acceso al crédito para actividades que generen ingresos y conserven los ecosistemas, pero los resultados dependerán de las condiciones definitivas, la selección de beneficiarios y la ejecución. La iniciativa continúa una alianza anunciada durante la COP30 de 2025, con €50 millones en financiación y asistencia técnica. Para evaluar sus efectos será necesario seguir los desembolsos efectivos, la morosidad, el empleo y los resultados ambientales, no solo los anuncios.",
         "counterpoint": "El anuncio de €100 millones llama la atención, pero el dinero prometido en una cumbre no es dinero en la cuenta del productor. La prueba será quién recibe el crédito, bajo qué condiciones y si la burocracia permite que llegue a sus destinatarios.",
-        "category": "ECONOMÍA"
-      }
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (28 de agosto de 2018): sede del Banco do Brasil en Brasilia. Fernando Bizerra/Agência Senado (CC BY 2.0). La imagen no muestra el anuncio de la asociación BB–KfW durante la COP31 de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Fachada_do_edif%C3%ADcio_sede_do_Banco_do_Brasil_em_Bras%C3%ADlia.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+          "credit": "Fernando Bizerra / Agência Senado, via Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Fachada_do_edif%C3%ADcio_sede_do_Banco_do_Brasil_em_Bras%C3%ADlia.jpg",
+          "caption": "FOTO DE ARQUIVO (28/08/2018): fachada da sede do Banco do Brasil em Brasília. Fernando Bizerra/Agência Senado (CC BY 2.0). Não registra o anúncio da parceria BB–KfW na COP31 de 2026."
+        }
+      ]
     },
     {
       "id": "dolar-fecha-565-maior-cotacao-desde-junho-2025-pacote-fiscal-2026-11-12",
@@ -74,7 +91,10 @@
         "facts": "The US dollar closed Thursday, November 12, 2026, up 1.58% against the Brazilian real at R$5.6507 in spot selling, according to Reuters, its highest closing level since June 2, 2025. Investors reacted negatively to the Brazilian government's proposed fiscal measures for 2027, while the dollar also strengthened internationally. Planning Minister Bruno Moretti said the measures were expected to have a R$50 billion to R$60 billion fiscal impact in 2027. Folha de S.Paulo separately reported the currency's rise and a decline in the Ibovespa stock index. The spot-market closing rate differs from the Central Bank's Ptax reference rate, which is calculated using a separate methodology.",
         "analysis": "The exchange rate reflects both Brazilian fiscal risk perceptions and global interest-rate expectations. Some investors question whether the proposed measures will stabilize public debt, while stronger US inflation and interest-rate expectations support the dollar internationally. A sustained weakening of the real could increase import costs, though the effect on consumer prices depends on the duration of the move and other factors. The fiscal proposal still requires legislative approval.",
         "counterpoint": "The government announces tens of billions in fiscal measures, but markets still want to know where the structural adjustment is. Exchange rates respond to numbers, risks and expectations, not just speeches. Blaming Brasília alone would also ignore the dollar's broader international strength.",
-        "category": "ECONOMY"
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (September 17, 2018): US dollar banknotes and coins. Sascha Grosser/Wikimedia Commons (CC BY-SA 4.0). Illustrative currency image; not from the November 12, 2026 trading session."
+        }
       },
       "es": {
         "title": "El dólar cierra en R$5,65, su mayor nivel desde junio de 2025, tras decepción por el plan fiscal",
@@ -82,8 +102,22 @@
         "facts": "El dólar estadounidense cerró el jueves 12 de noviembre de 2026 con un alza del 1,58% frente al real brasileño, a R$5,6507 para la venta en el mercado al contado, según Reuters. Fue el mayor cierre desde el 2 de junio de 2025. Los inversores reaccionaron negativamente a las medidas fiscales propuestas por el gobierno brasileño para 2027, mientras la moneda estadounidense también se fortalecía en el exterior. El ministro de Planificación, Bruno Moretti, afirmó que las medidas tendrían un impacto fiscal estimado entre R$50.000 millones y R$60.000 millones en 2027. Folha de S.Paulo informó por separado de la subida del dólar y la caída del Ibovespa. El cierre del mercado al contado no es equivalente a la tasa de referencia Ptax del Banco Central, calculada con otra metodología.",
         "analysis": "El tipo de cambio refleja tanto la percepción del riesgo fiscal brasileño como las expectativas de tipos de interés internacionales. Parte del mercado duda de que las medidas propuestas estabilicen la deuda pública, mientras la inflación y los tipos estadounidenses respaldan al dólar en el exterior. Una depreciación persistente del real podría encarecer las importaciones, aunque su impacto sobre los precios dependerá de la duración del movimiento y de otros factores. La propuesta fiscal todavía requiere aprobación legislativa.",
         "counterpoint": "El gobierno anuncia decenas de miles de millones en medidas fiscales, pero el mercado sigue preguntando dónde está el ajuste estructural. El dólar responde a cifras, riesgos y expectativas, no solo a discursos. Culpar exclusivamente a Brasilia también ignoraría la fortaleza internacional de la moneda estadounidense.",
-        "category": "ECONOMÍA"
-      }
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (17 de septiembre de 2018): billetes y monedas de dólar estadounidense. Sascha Grosser/Wikimedia Commons (CC BY-SA 4.0). Imagen ilustrativa de la moneda, ajena a la jornada cambiaria del 12 de noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Money_-_Dollar_-_USA.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "credit": "Sascha Grosser / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Money_-_Dollar_-_USA.jpg",
+          "caption": "FOTO DE ARQUIVO (17/09/2018): cédulas e moedas de dólar americano. Sascha Grosser/Wikimedia Commons (CC BY-SA 4.0). Ilustração da moeda, sem relação com o pregão de câmbio de 12/11/2026."
+        }
+      ]
     },
     {
       "id": "petroleo-brent-sobe-3-dolares-ataques-arabia-saudita-ormuz-2026-11-12",
@@ -1653,7 +1687,10 @@
         "facts": "Russian and Ukrainian representatives concluded two days of US-mediated talks in Abu Dhabi, United Arab Emirates, on Wednesday, November 11, 2026. The delegations announced an agreement in principle on a large-scale prisoner-of-war exchange, but no breakthrough toward ending the war and no ceasefire. US envoy Jared Kushner said the final number of prisoners would be determined later. Ukrainian President Volodymyr Zelenskyy had said the parties discussed swapping 1,000 prisoners from each side, potentially 1,500 each, but those figures are not finalized. Reuters and the Associated Press independently reported the outcome.",
         "analysis": "The humanitarian understanding is a tangible result amid continuing disagreements over occupied territory, Ukraine's security guarantees and Europe's participation in future negotiations. US envoys Steve Witkoff and Jared Kushner plan to travel to Moscow to meet Vladimir Putin and later see Zelenskyy. A prisoner swap agreement is not a peace treaty: fighting continues and the sides remain far apart on Donbas and Europe's security architecture.",
         "counterpoint": "Russian and Ukrainian officials described some progress, but the US mediator acknowledged deep mistrust. Moscow continues to demand territory that Kyiv refuses to surrender and questions European involvement in the trilateral format. Ukraine and European partners seek credible security guarantees and a say in decisions affecting Europe. Until the numbers, schedule and actual releases are confirmed, this remains an agreement in principle, not a completed exchange.",
-        "category": "WORLD"
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (September 14, 2024): Ukrainian service members released in a prisoner exchange with Russia. Office of the President of Ukraine, via Wikimedia Commons (CC0 1.0). Not a photo of the November 2026 Abu Dhabi talks."
+        }
       },
       "es": {
         "title": "Rusia y Ucrania acuerdan en principio un canje de prisioneros en Abu Dabi, pero no un alto el fuego",
@@ -1661,8 +1698,22 @@
         "facts": "Representantes de Rusia y Ucrania concluyeron el miércoles 11 de noviembre de 2026 dos días de negociaciones en Abu Dabi, Emiratos Árabes Unidos, con mediación de Estados Unidos. Las delegaciones anunciaron un acuerdo de principio para un intercambio de prisioneros de guerra a gran escala, pero sin avances decisivos hacia el fin de la guerra ni anuncio de alto el fuego. El enviado estadounidense Jared Kushner dijo que la cifra definitiva se determinaría posteriormente. El presidente ucraniano Volodymyr Zelenskyy había mencionado conversaciones sobre un canje de 1.000 por 1.000 prisioneros, posiblemente 1.500 por 1.500, pero no son cantidades definitivas. Reuters y Associated Press confirmaron por separado el resultado.",
         "analysis": "El entendimiento humanitario supone un resultado concreto pese a las diferencias sobre los territorios ocupados, las garantías de seguridad para Ucrania y la participación europea en futuras negociaciones. Los enviados estadounidenses Steve Witkoff y Jared Kushner prevén viajar a Moscú para reunirse con Vladimir Putin y posteriormente con Zelenskyy. Un acuerdo de intercambio no equivale a un tratado de paz: continúan los combates y persisten las diferencias sobre Donbas y la seguridad europea.",
         "counterpoint": "Las autoridades rusas y ucranianas hablaron de ciertos avances, pero el mediador estadounidense reconoció una profunda desconfianza. Moscú mantiene exigencias territoriales rechazadas por Kyiv y cuestiona la presencia europea en el formato trilateral. Ucrania y sus socios europeos reclaman garantías de seguridad y participación en decisiones que afectan al continente. Hasta confirmar cifras, fechas y liberaciones efectivas, se trata de un acuerdo de principio, no de un canje realizado.",
-        "category": "MUNDO"
-      }
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (14 de septiembre de 2024): militares ucranianos liberados en un intercambio de prisioneros con Rusia. Presidencia de Ucrania, vía Wikimedia Commons (CC0 1.0). No muestra las negociaciones de Abu Dabi de noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Ukraine_brings_103_soldiers_home_in_latest_prisoner_exchange_with_russia._%2853994786436%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Zero 1.0 Universal (CC0 1.0)",
+          "credit": "Presidência da Ucrânia / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Ukraine_brings_103_soldiers_home_in_latest_prisoner_exchange_with_russia._(53994786436).jpg",
+          "caption": "FOTO DE ARQUIVO (14/09/2024): militares ucranianos libertados em troca de prisioneiros com a Rússia. Presidência da Ucrânia, via Wikimedia Commons (CC0 1.0). Não retrata as negociações de Abu Dhabi de novembro de 2026."
+        }
+      ]
     },
     {
       "id": "pesquisadores-relatam-roubo-documentos-tajiquistao-ia-2026-11-11",
@@ -1693,7 +1744,10 @@
         "facts": "Cybersecurity company CloudSEK published findings on Wednesday, November 11, 2026, alleging that operators associated with the Silent Lynx group obtained more than 2,000 Tajikistan national-security-related documents. The company said researchers found exposed attacker infrastructure containing records of the Hermes artificial intelligence agent. Reuters reported that the agent allegedly assisted with reconnaissance, coding and organizing files taken from a government electronic document system. CloudSEK also described access to Tajikistan's railway network and an Uzbek geospatial platform. These are findings from a private investigation, without independent public confirmation from the governments concerned.",
         "analysis": "The case suggests that AI agents able to carry out multistep tasks may accelerate cyberespionage, particularly where attackers already possess compromised credentials and exploit weak access controls. The report describes a human operator directing the agent, not an AI independently initiating the operation. CloudSEK said reconnaissance began in August 2026, with operational records extending into October. The full scope and origin of the intrusions require further investigation.",
         "counterpoint": "CloudSEK expressed high confidence in linking the exposed infrastructure to Silent Lynx, but only medium confidence in a possible Kazakhstan nexus based on language, working hours and internet connections. These clues do not prove involvement by the Kazakh government. Reuters said Kazakh and Tajik officials had not immediately responded to requests for comment. The company's technical account has not been independently verified in full.",
-        "category": "WORLD"
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (July 2003): Dushanbe railway station, Tajikistan. Drsweeny/Wikimedia Commons (CC BY-SA 3.0). Illustrative image; it does not show the computer systems or the reported 2026 cyberattack."
+        }
       },
       "es": {
         "title": "Investigadores denuncian el robo de más de 2.000 documentos de Tayikistán con ayuda de IA",
@@ -1701,8 +1755,22 @@
         "facts": "La empresa de ciberseguridad CloudSEK publicó el miércoles 11 de noviembre de 2026 una investigación según la cual operadores vinculados al grupo Silent Lynx obtuvieron más de 2.000 documentos relacionados con la seguridad nacional de Tayikistán. Los investigadores hallaron infraestructura expuesta de los atacantes con registros del uso del agente de inteligencia artificial Hermes. Reuters informó que el agente habría ayudado en tareas de reconocimiento, programación y organización de archivos extraídos de un sistema gubernamental de gestión documental. CloudSEK también describió accesos a la red ferroviaria tayika y a una plataforma geoespacial de Uzbekistán. Son hallazgos de una investigación privada, todavía sin confirmación pública independiente de los gobiernos afectados.",
         "analysis": "El caso apunta a que los agentes de IA capaces de ejecutar tareas sucesivas pueden acelerar el ciberespionaje, especialmente cuando ya existen credenciales comprometidas y controles de acceso deficientes. El informe describe a un operador humano que dirigía al agente, no a una IA que iniciara la operación por sí sola. Según CloudSEK, el reconocimiento comenzó en agosto de 2026 y los registros operativos llegan hasta octubre. El alcance y el origen exactos de las intrusiones requieren más investigación.",
         "counterpoint": "CloudSEK atribuyó la infraestructura a Silent Lynx con alta confianza, pero calificó de moderada la hipótesis de una conexión con Kazajistán, basada en el idioma, los horarios y las conexiones a internet. Estos indicios no demuestran la participación del Gobierno kazajo. Reuters señaló que las autoridades kazajas y tayikas no habían respondido inmediatamente a las solicitudes de comentarios. No se han verificado de manera independiente todos los detalles técnicos del informe.",
-        "category": "MUNDO"
-      }
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (julio de 2003): estación ferroviaria de Dusambé, Tayikistán. Drsweeny/Wikimedia Commons (CC BY-SA 3.0). Imagen ilustrativa; no muestra los sistemas informáticos ni el presunto ciberataque de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Duschanbe_Bahnhof.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "credit": "Drsweeny / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Duschanbe_Bahnhof.jpg",
+          "caption": "FOTO DE ARQUIVO (07/2003): estação ferroviária de Dushanbe, no Tajiquistão. Drsweeny/Wikimedia Commons (CC BY-SA 3.0). Imagem ilustrativa; não retrata os sistemas informáticos nem o suposto ataque de 2026."
+        }
+      ]
     },
     {
       "id": "espanha-greve-geral-habitacao-salarios-eleicoes-2026-11-11",
@@ -2037,7 +2105,10 @@
         "facts": "On Tuesday, November 10, 2026, Brazil's Chamber of Deputies approved Provisional Measure 1,376/2026 in a substitute text reported by lawmaker Paulo Pimenta (PT-RS). The measure would allow farmers and rural cooperatives affected by weather-related crop losses between 2019 and 2025 to refinance debts. According to the Chamber's official news service, the standard terms provide annual interest rates of 6% for family farmers under Pronaf (the National Program for Strengthening Family Farming), 9% for producers under Pronamp (the National Program to Support Medium-Sized Rural Producers), and 12% for other producers, subject to eligibility criteria and loan caps. Special terms for those with losses in three or more harvests provide rates of 5%, 8% and 11%, respectively. Some delinquency deadlines were extended and collective technical reports are allowed for certain applicants. Approval by the Chamber is not final enactment: the Senate must still vote within the legislative deadline.",
         "analysis": "The measure aims to ease agricultural debt caused by droughts, flooding and other climate shocks that undermined producers' ability to repay loans. It broadens refinancing access and provides grace periods, but does not cancel existing debt. Its impact will depend on proof of losses, implementing rules, available funding for interest subsidies and final congressional approval. The approaching Senate deadline is decisive: changes approved by the Chamber do not automatically become law. The text emerged from negotiations between government representatives and the farm sector, although disputes remain over its scope and financial terms.",
         "counterpoint": "Agribusiness lawmakers say interest rates, collateral and access conditions may still be insufficient for some farmers; fiscal authorities must also consider budget costs. The Chamber-approved text includes a provision on tobacco-related products that could be controversial because it is unrelated to agricultural credit. Until the Senate vote is confirmed, the new rules cannot be described as definitively passed by Congress.",
-        "category": "POLITICS"
+        "category": "POLITICS",
+        "photo_captions": {
+          "1": "Chamber of Deputies plenary on November 10, 2026, during legislative proceedings. Photo: Thiago Cristino/Chamber of Deputies (CC BY). Published alongside the Chamber's official report on Provisional Measure 1376/26."
+        }
       },
       "es": {
         "title": "La Cámara de Brasil aprueba renegociar deudas rurales; aún falta la votación del Senado",
@@ -2045,8 +2116,22 @@
         "facts": "El martes 10 de noviembre de 2026, la Cámara de Diputados de Brasil aprobó la Medida Provisional 1.376/2026, mediante un texto sustitutivo del diputado Paulo Pimenta (PT-RS). La propuesta permitiría refinanciar deudas de productores y cooperativas rurales perjudicados por pérdidas de cosechas relacionadas con fenómenos climáticos extremos entre 2019 y 2025. Según la Agencia Cámara, las condiciones generales contemplan intereses anuales del 6 % para agricultores familiares del Pronaf (Programa Nacional de Fortalecimiento de la Agricultura Familiar), del 9 % para productores del Pronamp (Programa Nacional de Apoyo al Mediano Productor Rural) y del 12 % para los demás, sujetos a límites y requisitos. Los afectados por pérdidas en tres o más cosechas podrían acceder a tasas especiales del 5 %, 8 % y 11 %, respectivamente. Se amplió la fecha de referencia para ciertas deudas vencidas y se permiten informes técnicos colectivos para determinados beneficiarios. La aprobación en la Cámara no equivale a la conversión definitiva en ley: todavía falta el voto del Senado dentro del plazo legislativo.",
         "analysis": "La renegociación busca aliviar el endeudamiento causado por sequías, inundaciones y otros fenómenos que redujeron la capacidad de pago de los agricultores. Amplía las opciones de refinanciación y prevé períodos de carencia, pero no elimina las deudas. Su eficacia dependerá de la acreditación de pérdidas, la reglamentación, los recursos disponibles para subvencionar intereses y la aprobación final del Congreso. El plazo ajustado del Senado es determinante: los cambios aprobados por la Cámara no se convierten automáticamente en ley. La propuesta surgió de negociaciones entre el Gobierno y el sector agropecuario, aunque persisten discrepancias sobre su alcance y condiciones.",
         "counterpoint": "Parlamentarios vinculados al agronegocio consideran que los intereses, las garantías y los requisitos todavía pueden ser insuficientes para parte de los productores; las autoridades económicas también deben evaluar el coste presupuestario. El texto incluye una disposición sobre productos derivados del tabaco que podría generar polémica por su escasa relación con el crédito rural. Hasta confirmar la votación del Senado, no corresponde afirmar que las nuevas reglas ya recibieron la aprobación definitiva del Congreso.",
-        "category": "POLÍTICA"
-      }
+        "category": "POLÍTICA",
+        "photo_captions": {
+          "1": "Pleno de la Cámara de Diputados el 10 de noviembre de 2026, durante la tramitación legislativa. Foto: Thiago Cristino/Câmara dos Deputados (CC BY). Publicada en la cobertura oficial de la medida provisional 1376/26."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://www.camara.leg.br/midias/image/2026/11/img20261110174647421-768x473.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution (CC BY), Banco de Imagens da Câmara dos Deputados",
+          "credit": "Thiago Cristino / Câmara dos Deputados",
+          "source_article": "https://www.camara.leg.br/noticias/1317852-camara-aprova-renegociacao-de-dividas-rurais-de-produtores-prejudicados-por-eventos-climaticos-extremos-acompanhe",
+          "caption": "Plenário da Câmara dos Deputados em 10/11/2026, durante a tramitação e votação de propostas legislativas. Foto: Thiago Cristino/Câmara dos Deputados (CC BY). Imagem publicada na reportagem oficial sobre a MP 1376/26."
+        }
+      ]
     },
     {
       "id": "ebola-congo-supera-11-mil-casos-5387-mortes-2026-11-11",
