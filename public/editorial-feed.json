@@ -1,6 +1,48 @@
 {
   "articles": [
     {
+      "id": "eua-suspendem-decolagens-falha-comunicacao-faa-2026-11-13",
+      "date": "2026-11-13",
+      "category": "MUNDO",
+      "title": "Falha nas comunicações paralisa decolagens em aeroportos dos Estados Unidos",
+      "subtitle": "FAA determinou suspensão nacional preventiva nesta sexta-feira (13); técnicos investigam falha que atingiu centros de controle de tráfego aéreo.",
+      "facts": "A Administração Federal de Aviação dos Estados Unidos (FAA) determinou em 13 de novembro de 2026 a suspensão temporária de decolagens em aeroportos do país após problemas de comunicação que afetaram centros regionais de controle de tráfego aéreo. A medida, conhecida como ground stop, foi anunciada por volta das 15h54 no horário da costa leste americana (17h54 em Brasília). Aeronaves que já estavam no ar puderam continuar até o pouso, enquanto partidas em solo foram interrompidas. O secretário de Transportes, Sean Duffy, disse que técnicos da FAA investigavam o problema. A Associated Press e a Reuters confirmaram a medida. Autoridades americanas afirmaram não haver, até aquele momento, indícios de ataque deliberado; a causa definitiva não havia sido divulgada.",
+      "analysis": "A paralisação nacional é excepcional: a anterior ocorreu em janeiro de 2023, após falha no sistema de avisos aos pilotos. A ocorrência de 2026 reacende o debate sobre a modernização da infraestrutura de comunicação e coordenação do tráfego aéreo dos EUA. O Congresso aprovou recursos para atualização de sistemas, mas autoridades federais defendem investimentos adicionais. A suspensão de partidas pode produzir atrasos em cascata mesmo após o restabelecimento do serviço, já que tripulações, aeronaves e passageiros precisam ser reposicionados. O quadro é dinâmico e o status dos voos deve ser conferido diretamente com as companhias aéreas e a FAA.",
+      "counterpoint": "Quando um sistema tão essencial para a segurança aérea para, a pergunta não é apenas quando os aviões voltarão a decolar, mas por que uma rede crítica ainda pode ficar tão vulnerável. Investigar a causa e divulgar os resultados é mais útil do que atribuir o problema a um ataque sem provas.",
+      "sources": [
+        {
+          "name": "Associated Press — 13/11/2026",
+          "url": "https://apnews.com/article/f81b0904331dafad6133f291e5f531a8"
+        },
+        {
+          "name": "Reuters — 13/11/2026",
+          "url": "https://www.reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/"
+        },
+        {
+          "name": "ABC News — 13/11/2026",
+          "url": "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848"
+        }
+      ],
+      "en": {
+        "title": "US airports halt departures nationwide after air traffic control communications failure",
+        "subtitle": "The FAA ordered a precautionary nationwide ground stop on Friday, November 13, while technicians investigated a disruption affecting regional control centers.",
+        "facts": "On November 13, 2026, the US Federal Aviation Administration (FAA) ordered a temporary nationwide halt to departing flights after communications problems affected regional air traffic control centers. The ground stop was announced at approximately 3:54 p.m. Eastern Time (5:54 p.m. in Brasília). Aircraft already airborne were allowed to continue to landing, while departures were held on the ground. Transportation Secretary Sean Duffy said FAA technicians were investigating. The Associated Press and Reuters independently confirmed the measure. US officials said they had no evidence at that stage of a deliberate attack; the definitive cause had not been established.",
+        "analysis": "A nationwide ground stop is rare: the previous one took place in January 2023 following a failure in the pilot-notification system. The 2026 incident renews scrutiny of the aging US air traffic communications infrastructure. Congress has approved modernization funding, but federal officials have called for additional investment. Delays can persist after service resumes as aircraft, crews and passengers are repositioned. Travelers should verify flight status with airlines and the FAA.",
+        "counterpoint": "When a system critical to aviation safety stops working, the question is not only when flights resume but why such essential infrastructure remains vulnerable. Establishing the cause and publishing the findings matters more than alleging an attack without evidence.",
+        "category": "WORLD",
+        "slug": "us-airports-halt-departures-nationwide-after-air-traffic-control-communications-2026-11-13"
+      },
+      "es": {
+        "title": "Estados Unidos suspende despegues en todo el país por una falla de comunicaciones aéreas",
+        "subtitle": "La FAA ordenó una suspensión preventiva nacional el viernes 13 de noviembre mientras investigaba problemas en centros regionales de control.",
+        "facts": "El 13 de noviembre de 2026, la Administración Federal de Aviación de Estados Unidos (FAA) ordenó suspender temporalmente los despegues en todo el país debido a problemas de comunicación que afectaron a centros regionales de control del tráfico aéreo. La medida se anunció aproximadamente a las 15:54, hora del este estadounidense (17:54 en Brasilia). Los aviones que ya estaban en vuelo pudieron continuar hasta aterrizar, mientras que las salidas quedaron detenidas. El secretario de Transporte, Sean Duffy, informó que técnicos de la FAA investigaban el problema. Associated Press y Reuters confirmaron la medida de forma independiente. Las autoridades estadounidenses señalaron que, hasta entonces, no había indicios de un ataque deliberado; la causa definitiva seguía sin determinarse.",
+        "analysis": "Una suspensión nacional de despegues es excepcional: la anterior ocurrió en enero de 2023, por una falla del sistema de avisos a pilotos. El incidente de 2026 reaviva el debate sobre la modernización de la infraestructura estadounidense de comunicaciones aéreas. El Congreso aprobó recursos para actualizar sistemas, pero las autoridades piden inversiones adicionales. Los retrasos pueden prolongarse tras la recuperación del servicio por la necesidad de reubicar aviones y tripulaciones. Los pasajeros deben consultar el estado de sus vuelos con las aerolíneas y la FAA.",
+        "counterpoint": "Cuando se detiene un sistema esencial para la seguridad aérea, importa tanto saber cuándo se reanudarán los vuelos como entender por qué una infraestructura crítica sigue siendo vulnerable. Investigar y divulgar la causa vale más que atribuirla a un ataque sin pruebas.",
+        "category": "MUNDO",
+        "slug": "estados-unidos-suspende-despegues-en-todo-el-pais-por-una-falla-de-2026-11-13"
+      }
+    },
+    {
       "id": "fifa-ingressos-copa-mundo-feminina-2027-venda-dezembro-2026-11-13",
       "date": "2026-11-13",
       "category": "ESPORTE",
