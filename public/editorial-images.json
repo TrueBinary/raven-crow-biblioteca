@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "trump-ameaca-dobrar-tarifas-mexico-caravanas-sheinbaum-2026-11-12": "editorial/covers/trump-ameaca-dobrar-tarifas-mexico-caravanas-sheinbaum-2026-11-12.svg",
     "banco-do-brasil-kfw-100-milhoes-euros-bioeconomia-cop31-2026-11-12": "editorial/covers/banco-do-brasil-kfw-100-milhoes-euros-bioeconomia-cop31-2026-11-12.svg",
     "dolar-fecha-565-maior-cotacao-desde-junho-2025-pacote-fiscal-2026-11-12": "editorial/covers/dolar-fecha-565-maior-cotacao-desde-junho-2025-pacote-fiscal-2026-11-12.svg",
     "petroleo-brent-sobe-3-dolares-ataques-arabia-saudita-ormuz-2026-11-12": "editorial/covers/petroleo-brent-sobe-3-dolares-ataques-arabia-saudita-ormuz-2026-11-12.svg",
@@ -270,7 +271,8 @@
     "dolar-fecha-565-maior-cotacao-desde-junho-2025-pacote-fiscal-2026-11-12": "editorial/photos/dolar-fecha-565-maior-cotacao-desde-junho-2025-pacote-fiscal-2026-11-12.jpg",
     "camara-aprova-mp-renegociacao-dividas-rurais-senado-prazo-2026-11-11": "editorial/photos/camara-aprova-mp-renegociacao-dividas-rurais-senado-prazo-2026-11-11.jpg",
     "russia-ucrania-acertam-troca-prisioneiros-abu-dhabi-sem-cessar-fogo-2026-11-11": "editorial/photos/russia-ucrania-acertam-troca-prisioneiros-abu-dhabi-sem-cessar-fogo-2026-11-11.jpg",
-    "pesquisadores-relatam-roubo-documentos-tajiquistao-ia-2026-11-11": "editorial/photos/pesquisadores-relatam-roubo-documentos-tajiquistao-ia-2026-11-11.jpg"
+    "pesquisadores-relatam-roubo-documentos-tajiquistao-ia-2026-11-11": "editorial/photos/pesquisadores-relatam-roubo-documentos-tajiquistao-ia-2026-11-11.jpg",
+    "trump-ameaca-dobrar-tarifas-mexico-caravanas-sheinbaum-2026-11-12": "editorial/photos/trump-ameaca-dobrar-tarifas-mexico-caravanas-sheinbaum-2026-11-12.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -1034,6 +1036,12 @@
       "srcset": "editorial/photos/pesquisadores-relatam-roubo-documentos-tajiquistao-ia-2026-11-11-320.webp 320w, editorial/photos/pesquisadores-relatam-roubo-documentos-tajiquistao-ia-2026-11-11-640.webp 640w, editorial/photos/pesquisadores-relatam-roubo-documentos-tajiquistao-ia-2026-11-11-960.webp 960w, editorial/photos/pesquisadores-relatam-roubo-documentos-tajiquistao-ia-2026-11-11-1024.webp 1024w",
       "width": 1024,
       "height": 768
+    },
+    "trump-ameaca-dobrar-tarifas-mexico-caravanas-sheinbaum-2026-11-12": {
+      "src": "editorial/photos/trump-ameaca-dobrar-tarifas-mexico-caravanas-sheinbaum-2026-11-12-1280.webp",
+      "srcset": "editorial/photos/trump-ameaca-dobrar-tarifas-mexico-caravanas-sheinbaum-2026-11-12-320.webp 320w, editorial/photos/trump-ameaca-dobrar-tarifas-mexico-caravanas-sheinbaum-2026-11-12-640.webp 640w, editorial/photos/trump-ameaca-dobrar-tarifas-mexico-caravanas-sheinbaum-2026-11-12-960.webp 960w, editorial/photos/trump-ameaca-dobrar-tarifas-mexico-caravanas-sheinbaum-2026-11-12-1280.webp 1280w",
+      "width": 1280,
+      "height": 1706
     }
   }
 }
