@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 Sitemap: https://ravencrow.cloud/sitemap.xml
 Sitemap: https://ravencrow.cloud/sitemap-news.xml
+Sitemap: https://ravencrow.cloud/sitemap-coluna.xml

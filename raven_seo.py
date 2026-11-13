@@ -375,12 +375,12 @@ def _write_news_sitemap(pub: Path, items, today=None):
                     "<news:title>" + xml_escape(title) + "</news:title></news:news></url>")
     rows.append("</urlset>")
     _write_if_changed(pub / "sitemap-news.xml", "\n".join(rows) + "\n")
-    # robots.txt é reescrito pelo build-raven.py; garante a linha do sitemap de notícias depois dele
+    # robots.txt é reescrito pelo build-raven.py; garante as linhas dos sitemaps de notícias e da Coluna depois dele
     robots = pub / "robots.txt"
-    line = "Sitemap: " + BASE + "/sitemap-news.xml"
     text = robots.read_text(encoding="utf-8") if robots.exists() else "User-agent: *\nAllow: /\nSitemap: " + BASE + "/sitemap.xml\n"
-    if line not in text:
-        _write_if_changed(robots, text.rstrip("\n") + "\n" + line + "\n")
+    lines = [line for line in ("Sitemap: " + BASE + "/sitemap-news.xml", "Sitemap: " + BASE + "/sitemap-coluna.xml") if line not in text]
+    if lines:
+        _write_if_changed(robots, text.rstrip("\n") + "\n" + "\n".join(lines) + "\n")
     return len(recent)
 
 

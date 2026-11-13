@@ -103,6 +103,8 @@ class SeoBuilderTests(unittest.TestCase):
         build(self.root, today=date(2026, 11, 9))  # 4 dias depois: sai do sitemap de notícias
         self.assertEqual(ET.parse(pub / "sitemap-news.xml").getroot().findall("s:url", ns), [])
         self.assertEqual((pub / "robots.txt").read_text(encoding="utf-8").count("sitemap-news.xml"), 1)
+        # o sitemap da Coluna também precisa estar no robots, uma vez só, mesmo com builds repetidos
+        self.assertEqual((pub / "robots.txt").read_text(encoding="utf-8").count("Sitemap: https://ravencrow.cloud/sitemap-coluna.xml"), 1)
 
     def test_column_sitemap_tracks_published_editions_with_true_dates(self):
         pub = self.root / "public"
