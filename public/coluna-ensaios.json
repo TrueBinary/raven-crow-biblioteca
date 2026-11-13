@@ -1,7 +1,81 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T19:02:00-03:00",
+  "updatedAt": "2026-11-13T10:00:00-03:00",
   "essays": [
+    {
+      "id": "a-fita-e-do-governo-a-conta-e-do-contribuinte-2026-11-13",
+      "section": "Política e sociedade",
+      "date": "2026-11-13",
+      "title": "A FITA É DO GOVERNO. A CONTA É DO CONTRIBUINTE.",
+      "subtitle": "Na inauguração, o político entrega a obra de graça. No orçamento, a população descobre quem pagou o presente.",
+      "eyebrow": "OPINIÃO",
+      "paragraphs": [
+        "Imagine a inauguração de uma ponte. Há fita, tesoura dourada, palanque e um fotógrafo tentando enquadrar a obra sem mostrar o buraco da calçada. O político anuncia, com a solenidade de quem descobriu a eletricidade: “Entregamos esta ponte de graça à população!” Na plateia, um pedreiro que pagou impostos durante a construção olha para o colega. Se a ponte é gratuita, talvez os boletos que chegaram à sua casa fossem cartas de amor da Receita. O mestre de cerimônias pede aplausos. A ponte ainda não recebeu um caminhão, mas a propaganda já atravessou o rio.",
+        "Não há nada de errado em inaugurar uma obra pública. Uma ponte pode encurtar trajetos, ligar comunidades e salvar horas de trabalho. O problema é o truque de linguagem: confundir ausência de cobrança na entrada com ausência de custo. A Constituição, no artigo 145, prevê impostos, taxas e contribuições de melhoria, cada qual com regras próprias. O Ministério da Fazenda explica que receitas como impostos e contribuições custeiam despesas e investimentos. O dinheiro não brota no jardim do ministério, embora algumas campanhas publicitárias sugiram que Brasília descobriu uma variedade de árvore que produz orçamento em folhas de cem reais.",
+        "A expressão “de graça” é particularmente conveniente porque apaga o contribuinte da fotografia. O cidadão vira figurante na própria obra: paga parte da conta, enfrenta o desvio no trânsito, espera a entrega e depois assiste à cerimônia como se tivesse recebido um presente pessoal do ocupante do cargo. O governante aparece segurando a tesoura; quem financiou a fita não ganha nem o direito de escolher a cor. É uma inversão curiosa: o administrador passa a ser tratado como benfeitor particular, e o público, como uma multidão de convidados à festa que ela mesma bancou.",
+        "Há uma diferença moral importante entre administrar recursos coletivos e distribuí-los como favores. A primeira atividade exige prioridades, contratos, fiscalização e prestação de contas. A segunda pede gratidão, fotografia e, se possível, um jingle. Quando uma obra vira troféu pessoal, a pergunta deixa de ser “quanto custou, como foi contratada e a quem atende?” para virar “quem merece o crédito?”. A Controladoria-Geral da União mantém no Portal da Transparência consultas de despesas, contratos, licitações e receitas. Não é uma solução mágica para todo problema, mas é um lembrete institucional de que dinheiro público exige explicação pública — inclusive quando o discurso de inauguração acaba antes da prestação de contas começar.",
+        "Existe, naturalmente, uma objeção séria. Nem toda pessoa consegue pagar diretamente por uma ponte, uma escola ou um atendimento de emergência, e há serviços cujo financiamento coletivo pode ser defensável por razões econômicas e sociais. Concordo. Cobrar pedágio em cada esquina também seria um espetáculo: o cidadão sairia para comprar pão e precisaria contratar um contador para calcular o preço da travessia. O ponto não é exigir que tudo seja vendido por bilhete, nem negar benefícios reais do investimento público. É pedir que o governante fale como gestor de recursos alheios, não como um tio generoso que resolveu abrir a própria carteira.",
+        "Esse cuidado vale para qualquer partido. A direita pode cortar fita com a mesma vaidade da esquerda; um prefeito liberal pode gostar tanto de placa com seu nome quanto um ministro estatizante. E um governo que arrecada legalmente não recebe, por isso, um cheque moral em branco. O debate honesto exige comparar alternativas, avaliar manutenção, custo de oportunidade e resultados. A ponte pode ser necessária; outra obra talvez fosse mais urgente. Sem essa conversa, o orçamento vira uma espécie de álbum de figurinhas: cada autoridade coleciona inaugurações, enquanto o cidadão procura saber quem ficou responsável por consertar o asfalto depois que as câmeras foram embora.",
+        "Voltemos à fita. Ela cai no chão, os carros passam, a multidão se dispersa. A ponte será boa se resistir ao tempo e servir a quem precisa, não se o discurso render uma manchete elogiosa. E, se amanhã aparecer um buraco, espero que o mesmo político retorne com a tesoura dourada — desta vez para cortar a burocracia e não outra fita. Meu caro leitor, serviço público pode ser gratuito no ponto de uso. Milagre financeiro, não. Quando o Estado disser que lhe deu alguma coisa de graça, agradeça aos trabalhadores que a financiaram e peça a nota. A fita é do cerimonial; a conta continua sendo nossa."
+      ],
+      "sources": [
+        {
+          "title": "Constituição Federal, artigo 145 — tributos e competências",
+          "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/constituicao-federal/index.html/CF1988.html/"
+        },
+        {
+          "title": "Ministério da Fazenda — Receitas públicas (atualizado em 03/03/2026)",
+          "url": "https://www.gov.br/fazenda/pt-br/acesso-a-informacao/receitas-e-despesas/receitas"
+        },
+        {
+          "title": "Controladoria-Geral da União — Portal da Transparência",
+          "url": "https://portaldatransparencia.gov.br/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/National_Congress_of_Brazil%2C_Brasilia.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+          "credit": "CivArmy / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:National_Congress_of_Brazil,_Brasilia.jpg",
+          "caption": "FOTO DE ARQUIVO (27/10/2013), Brasília, DF: Congresso Nacional, instituição responsável pela deliberação legislativa sobre tributos e orçamento federal. Imagem ilustrativa; não retrata inauguração de ponte nem acontecimento recente."
+        }
+      ],
+      "en": {
+        "title": "THE GOVERNMENT GETS THE RIBBON. TAXPAYERS GET THE BILL.",
+        "subtitle": "At the inauguration, politicians offer a free project. In the budget, the public discovers who paid for the gift.",
+        "eyebrow": "OPINION",
+        "section": "Politics and society",
+        "paragraphs": [
+          "Picture the opening of a bridge. There is a ribbon, golden scissors, a podium and a photographer struggling to frame the structure without showing the hole in the sidewalk. The politician announces, as solemnly as if he had discovered electricity: 'We are giving the people this bridge for free!' In the audience, a construction worker who paid taxes throughout the project looks at his colleague. If the bridge is free, perhaps the bills delivered to his home were love letters from the tax office. The master of ceremonies asks for applause. No truck has crossed the bridge yet, but the publicity has already made it across the river.",
+          "There is nothing wrong with opening a public project. A bridge can shorten journeys, connect communities and save hours of work. The trick lies in confusing no charge at the entrance with no cost at all. Article 145 of Brazil's Constitution provides for taxes, fees and betterment contributions, each governed by its own rules. The Ministry of Finance explains that revenue from taxes and contributions finances expenditure and investment. Money does not sprout in the ministry garden, although some publicity campaigns suggest Brasília has discovered a tree that grows banknotes.",
+          "'Free' is a particularly convenient word because it erases the taxpayer from the picture. Citizens become extras in their own project: they help pay the bill, endure traffic diversions, wait for completion and then watch the ceremony as if they had received a personal gift from the officeholder. The official holds the scissors; those who funded the ribbon do not even get to choose its color. It is a curious reversal: an administrator is celebrated as a private benefactor, and the public becomes a crowd of guests at a party it paid for.",
+          "There is a moral distinction between administering collective resources and handing them out as favors. The former requires priorities, contracts, oversight and accountability. The latter asks for gratitude, photographs and preferably a catchy tune. When a project becomes a personal trophy, the question changes from 'What did it cost, how was it contracted and whom does it serve?' to 'Who gets the credit?' Brazil's federal Transparency Portal provides searches of expenditure, contracts, procurement and revenue. It cannot solve every problem, but it reminds us that public money calls for public explanation—even when the inauguration speech ends before the accounting begins.",
+          "There is, of course, a serious objection. Not everyone can pay directly for a bridge, a school or emergency care, and collective funding of some services can be justified on economic and social grounds. I agree. Charging tolls on every corner would also be quite a spectacle: buying bread would require hiring an accountant to calculate the journey. The point is not to put a ticket price on everything or deny the real benefits of public investment. It is to ask politicians to speak as managers of other people's resources, not generous uncles opening their own wallets.",
+          "This applies to every party. The right can cut ribbons as vainly as the left; a liberal mayor may love a plaque bearing his name as much as an interventionist minister. And legal tax collection is not a blank moral check. An honest debate compares alternatives, maintenance, opportunity costs and outcomes. The bridge may be needed; another project might have been more urgent. Without that conversation, the budget becomes a sticker album: each official collects inaugurations while citizens wonder who will repair the asphalt once the cameras leave.",
+          "Back to the ribbon. It falls to the ground, cars pass and the crowd disperses. The bridge will be good if it lasts and serves those who need it, not if the speech produces a flattering headline. And if a pothole appears tomorrow, I hope the same politician returns with the golden scissors—this time to cut red tape rather than another ribbon. Dear reader, a public service can be free at the point of use. It cannot be a financial miracle. When the state says it gave you something for free, thank the workers who financed it and ask for the receipt. The ribbon belongs to the ceremony; the bill is still ours."
+        ],
+        "photo_caption": "ARCHIVE PHOTO (October 27, 2013), Brasília, Brazil: National Congress, the institution that legislates on federal taxes and budgets. Illustrative image, not a bridge inauguration or recent event."
+      },
+      "es": {
+        "title": "EL GOBIERNO SE QUEDA CON LA CINTA. EL CONTRIBUYENTE, CON LA CUENTA.",
+        "subtitle": "En la inauguración, el político entrega una obra gratis. En el presupuesto, la población descubre quién pagó el regalo.",
+        "eyebrow": "OPINIÓN",
+        "section": "Política y sociedad",
+        "paragraphs": [
+          "Imagine la inauguración de un puente. Hay cinta, tijeras doradas, tribuna y un fotógrafo que intenta encuadrar la obra sin mostrar el agujero de la acera. El político anuncia, con la solemnidad de quien acaba de descubrir la electricidad: «¡Entregamos este puente gratis a la población!». Entre el público, un albañil que pagó impuestos durante la construcción mira a su compañero. Si el puente es gratuito, quizá las facturas que llegaron a su casa eran cartas de amor de Hacienda. El maestro de ceremonias pide aplausos. Todavía no ha pasado un camión, pero la propaganda ya cruzó el río.",
+          "No hay nada malo en inaugurar una obra pública. Un puente puede acortar trayectos, conectar comunidades y ahorrar horas de trabajo. El truco está en confundir la ausencia de cobro en la entrada con la ausencia de coste. El artículo 145 de la Constitución brasileña contempla impuestos, tasas y contribuciones de mejora, cada uno con sus propias reglas. El Ministerio de Hacienda explica que ingresos como impuestos y contribuciones financian gastos e inversiones. El dinero no brota en el jardín del ministerio, aunque algunas campañas sugieran que Brasilia ha descubierto un árbol que da billetes.",
+          "«Gratis» es una palabra especialmente conveniente porque borra al contribuyente de la fotografía. El ciudadano se convierte en figurante de su propia obra: paga parte de la cuenta, soporta los desvíos de tráfico, espera la entrega y luego asiste a la ceremonia como si hubiera recibido un regalo personal del cargo público. El gobernante sostiene las tijeras; quienes financiaron la cinta ni siquiera pueden elegir su color. Es una inversión curiosa: al administrador se le trata como benefactor particular y al público como invitado a una fiesta que él mismo pagó.",
+          "Existe una diferencia moral importante entre administrar recursos colectivos y repartirlos como favores. Lo primero exige prioridades, contratos, fiscalización y rendición de cuentas. Lo segundo pide gratitud, fotografías y, a ser posible, una canción pegadiza. Cuando una obra se convierte en trofeo personal, la pregunta deja de ser «¿Cuánto costó, cómo se contrató y a quién sirve?» para convertirse en «¿Quién se lleva el mérito?». El Portal de Transparencia federal brasileño permite consultar gastos, contratos, licitaciones e ingresos. No resuelve mágicamente todos los problemas, pero recuerda que el dinero público exige explicaciones públicas, incluso cuando el discurso inaugural termina antes de empezar las cuentas.",
+          "Existe, por supuesto, una objeción seria. No todos pueden pagar directamente por un puente, una escuela o una atención de urgencia, y la financiación colectiva de ciertos servicios puede defenderse por razones económicas y sociales. De acuerdo. Cobrar peaje en cada esquina también sería un espectáculo: salir a comprar pan exigiría contratar a un contable para calcular el trayecto. No se trata de vender entradas para todo ni de negar los beneficios reales de la inversión pública. Se trata de pedir que el gobernante hable como gestor de recursos ajenos, no como un tío generoso que abre su propia cartera.",
+          "Esto vale para cualquier partido. La derecha puede cortar cintas con la misma vanidad que la izquierda; un alcalde liberal puede adorar una placa con su nombre tanto como un ministro intervencionista. Y recaudar legalmente no concede un cheque moral en blanco. El debate honesto compara alternativas, mantenimiento, costes de oportunidad y resultados. El puente puede ser necesario; quizá otra obra fuera más urgente. Sin esa conversación, el presupuesto se convierte en un álbum de cromos: cada autoridad colecciona inauguraciones mientras el ciudadano intenta averiguar quién arreglará el asfalto cuando se marchen las cámaras.",
+          "Volvamos a la cinta. Cae al suelo, pasan los coches y la multitud se dispersa. El puente será bueno si resiste el paso del tiempo y sirve a quien lo necesita, no si el discurso consigue un titular elogioso. Y si mañana aparece un bache, espero que el mismo político vuelva con las tijeras doradas, esta vez para cortar la burocracia y no otra cinta. Querido lector, un servicio público puede ser gratuito en el momento de utilizarlo. Un milagro financiero, no. Cuando el Estado diga que le regaló algo, dé las gracias a los trabajadores que lo financiaron y pida el recibo. La cinta es del ceremonial; la cuenta sigue siendo nuestra."
+        ],
+        "photo_caption": "FOTO DE ARCHIVO (27/10/2013), Brasilia, Brasil: Congreso Nacional, institución que legisla sobre impuestos y presupuesto federal. Imagen ilustrativa, no corresponde a la inauguración de un puente ni a un hecho reciente."
+      }
+    },
     {
       "id": "o-celular-guardou-tudo-e-o-dono-esqueceu-de-pensar-2026-11-12",
       "section": "Filosofia e ideias",
