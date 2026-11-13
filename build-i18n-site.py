@@ -148,6 +148,8 @@ def dynamic_words(lang, feed, essays, featured_tail):
 
 def drop_untranslated(s, done_news, done_essays):
     s = re.sub(r'<a class="rc-col-card[^"]*" href="coluna/([a-z0-9-]+)/">.*?</a>', lambda m: m.group(0) if m.group(1) in done_essays else "", s, flags=re.S)
+    s = re.sub(r'<li><a href="coluna/([a-z0-9-]+)/">.*?</li>', lambda m: m.group(0) if m.group(1) in done_essays else "", s, flags=re.S)
+    s = re.sub(r'<ul class="rc-col-more"[^>]*></ul>', "", s)
     return re.sub(r'<li><a href="noticias/([a-z0-9-]+)/"[^>]*>.*?</li>', lambda m: m.group(0) if m.group(1) in done_news else "", s, flags=re.S)
 
 

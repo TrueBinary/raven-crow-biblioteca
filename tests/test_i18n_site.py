@@ -44,6 +44,15 @@ class TranslatorTests(unittest.TestCase):
         self.assertIn("nova-materia", out)
         self.assertNotIn("velha", out)
 
+    def test_untranslated_essays_leave_the_more_list(self):
+        # lista "Mais reflexões" do hub: ensaio sem tradução sai; lista vazia some
+        html = ('<ul class="rc-col-more" aria-label="Mais reflexões"><li><a href="coluna/ensaio-x/">x</a></li>'
+                '<li><a href="coluna/sem-traducao/">y</a></li></ul>')
+        out = site.drop_untranslated(html, set(), {"ensaio-x"})
+        self.assertIn("ensaio-x", out)
+        self.assertNotIn("sem-traducao", out)
+        self.assertEqual(site.drop_untranslated(html, set(), set()), "")
+
 
 class GeneratedPagesTests(unittest.TestCase):
     def test_every_page_text_has_a_translation(self):
