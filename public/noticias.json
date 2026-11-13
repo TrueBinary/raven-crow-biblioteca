@@ -6,6 +6,46 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "congresso-autoriza-149-bilhoes-divida-previdencia-bolsa-familia-2026-11-12",
+      "date": "2026-11-12",
+      "category": "ECONOMIA",
+      "title": "Congresso autoriza até R$ 149,4 bilhões em dívida para pagar Previdência e Bolsa Família",
+      "subtitle": "PLN 23/2026 recebeu 402 votos favoráveis na Câmara e 55 no Senado; recursos já constavam do Orçamento e proposta segue para sanção.",
+      "facts": "O Congresso Nacional aprovou em 12 de novembro de 2026 o substitutivo ao PLN 23/2026, autorizando o governo federal a realizar operações de crédito de até R$ 149,4 bilhões para financiar despesas já previstas no Orçamento. Conforme a Agência Senado, R$ 119 bilhões correspondem a benefícios previdenciários, R$ 26 bilhões ao Bolsa Família e R$ 4,4 bilhões ao Benefício de Prestação Continuada (BPC) e à Renda Mensal Vitalícia. Na Câmara, foram 402 votos favoráveis, 12 contrários e uma abstenção; no Senado, 55 votos favoráveis e nenhum contrário. A autorização permite exceção à chamada regra de ouro, que restringe endividamento para despesas correntes, e ainda depende de sanção presidencial. O teto autorizado não significa emissão imediata de títulos nem criação de novas despesas.",
+      "analysis": "A votação altera a forma de financiar gastos obrigatórios já autorizados, em vez de acrescentar R$ 149,4 bilhões de despesas primárias. A emissão de títulos públicos, se ocorrer, cria obrigações de dívida e juros, o que exige acompanhamento de seu impacto fiscal. O parecer da Comissão Mista de Orçamento recomendou relatórios periódicos sobre as operações, a execução dos gastos e os efeitos sobre o endividamento. O governo argumenta que a autorização é necessária para evitar riscos ao pagamento dos benefícios; críticos alertam para a dependência recorrente de endividamento para custear despesas correntes. O projeto segue para sanção, e a execução efetiva pode ficar abaixo do limite aprovado.",
+      "counterpoint": "O Congresso não descobriu R$ 149 bilhões num cofre esquecido: autorizou o Tesouro a se financiar por dívida para bancar gastos que já estavam na conta. Os benefícios precisam ser pagos, mas a pergunta incômoda permanece: até quando o orçamento dependerá de exceções à regra de ouro? Transparência sobre títulos efetivamente emitidos e juros é indispensável.",
+      "sources": [
+        {
+          "name": "Agência Senado — PLN 23/2026, 12/11/2026",
+          "url": "https://www12.senado.leg.br/noticias/materias/2026/11/12/previdencia-e-bolsa-familia-terao-credito-de-r-149-bi-apos-aval-do-congresso"
+        },
+        {
+          "name": "Agência Câmara — 26 projetos orçamentários, 12/11/2026",
+          "url": "https://www.camara.leg.br/noticias/1318963-congresso-aprova-creditos-orcamentarios-de-r-1524-bilhoes-no-orcamento-de-2026"
+        },
+        {
+          "name": "Folha de S.Paulo — 12/11/2026",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/11/congresso-libera-r-1494-bilhoes-para-governo-pagar-beneficios-sociais.shtml"
+        }
+      ],
+      "en": {
+        "title": "Brazil's Congress authorizes up to R$149.4 billion in borrowing for pensions and social benefits",
+        "subtitle": "Bill PLN 23/2026 won 402 votes in the lower house and 55 in the Senate; the spending was already budgeted and the bill awaits presidential approval.",
+        "facts": "On November 12, 2026, Brazil's National Congress approved a revised PLN 23/2026 bill allowing the federal government to borrow up to R$149.4 billion to finance spending already included in the 2026 budget. According to the Senate news agency, R$119 billion is allocated to pensions and other social security payments, R$26 billion to Bolsa Família and R$4.4 billion to the Continuous Cash Benefit (BPC) and Lifetime Monthly Income (RMV). The Chamber of Deputies voted 402 in favor, 12 against and one abstention; the Senate recorded 55 votes in favor and none against. The authorization creates an exception to the constitutional 'golden rule' limiting borrowing for current spending. It still requires presidential approval. The ceiling does not mean immediate bond issuance or new expenditure.",
+        "analysis": "The measure changes the funding source for existing mandatory expenditure rather than adding R$149.4 billion in primary spending. If bonds are issued, the government will incur debt-service obligations. The Joint Budget Committee recommended periodic reporting on borrowing, spending execution and the impact on public debt. The government says the measure protects benefit payments, while critics warn against recurring reliance on borrowing exceptions. Actual borrowing may be below the authorized ceiling.",
+        "counterpoint": "Congress did not find R$149 billion in a forgotten vault: it authorized borrowing to fund existing bills. Benefits must be paid, but transparency about bonds actually issued, interest costs and future fiscal sustainability is essential.",
+        "category": "ECONOMY"
+      },
+      "es": {
+        "title": "El Congreso de Brasil autoriza hasta R$ 149.400 millones en deuda para pensiones y ayudas sociales",
+        "subtitle": "El proyecto PLN 23/2026 recibió 402 votos favorables en la Cámara y 55 en el Senado; los gastos ya estaban presupuestados y el texto espera sanción presidencial.",
+        "facts": "El 12 de noviembre de 2026, el Congreso Nacional de Brasil aprobó el texto sustitutivo del PLN 23/2026, que permite al Gobierno federal contratar operaciones de crédito de hasta R$ 149.400 millones para financiar gastos ya incluidos en el Presupuesto de 2026. Según la Agencia del Senado, R$ 119.000 millones corresponden a prestaciones previsionales, R$ 26.000 millones a Bolsa Família y R$ 4.400 millones al Beneficio de Prestación Continuada (BPC) y a la Renta Mensual Vitalicia (RMV). En la Cámara hubo 402 votos a favor, 12 en contra y una abstención; en el Senado, 55 a favor y ninguno en contra. La autorización establece una excepción a la regla constitucional de oro, que restringe el endeudamiento para gastos corrientes. Aún requiere sanción presidencial y no implica emisión inmediata de títulos ni nuevos gastos.",
+        "analysis": "La medida modifica la fuente de financiación de obligaciones ya autorizadas, en lugar de sumar R$ 149.400 millones al gasto primario. Si se emiten títulos, surgirán obligaciones de deuda e intereses. La Comisión Mixta de Presupuesto recomendó informes periódicos sobre las operaciones, la ejecución y el efecto en la deuda pública. El Gobierno sostiene que la medida protege el pago de beneficios; los críticos cuestionan la dependencia de excepciones para financiar gastos corrientes. El endeudamiento efectivo puede ser inferior al límite.",
+        "counterpoint": "El Congreso no encontró R$ 149.400 millones en una caja olvidada: autorizó endeudarse para pagar obligaciones existentes. Los beneficios deben abonarse, pero también hay que explicar cuánto se tomará prestado y qué costo tendrá.",
+        "category": "ECONOMÍA"
+      }
+    },
+    {
       "id": "operacao-tax-mirage-fraudes-tributarias-185-milhoes-2026-11-12",
       "date": "2026-11-12",
       "category": "JUSTIÇA",
