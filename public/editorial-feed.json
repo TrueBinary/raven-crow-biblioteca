@@ -1,6 +1,52 @@
 {
   "articles": [
     {
+      "id": "van-hollen-desafia-schumer-lideranca-democrata-senado-2026-11-13",
+      "date": "2026-11-13",
+      "category": "MUNDO",
+      "title": "Van Hollen desafia Schumer pela liderança democrata no Senado dos EUA",
+      "subtitle": "Senador de Maryland anunciou candidatura em 12 de novembro; Schumer afirma ter votos para continuar à frente da bancada, que escolherá o líder em votação interna.",
+      "facts": "O senador democrata Chris Van Hollen, de Maryland, anunciou em 12 de novembro de 2026 que disputará a liderança da bancada democrata no Senado dos Estados Unidos contra Chuck Schumer. Em comunicado publicado em seu site oficial, Van Hollen afirmou que o resultado das eleições legislativas exige mudanças e uma nova liderança. Schumer respondeu em nota oficial que acredita contar com os votos necessários para permanecer no comando. A escolha ocorrerá por votação secreta entre os integrantes da bancada, prevista para o início de dezembro. O anúncio de candidatura não significa que Van Hollen tenha sido eleito nem que Schumer tenha deixado o cargo.",
+      "analysis": "A disputa ocorre após os democratas conquistarem a maioria no Senado nas eleições de meio de mandato. A Associated Press e a Reuters noticiaram divergências entre parlamentares sobre a estratégia da bancada. Van Hollen defende uma mudança de direção e maior atenção às dificuldades econômicas das famílias; Schumer invoca os resultados eleitorais e sua experiência para justificar a continuidade. O senador Bernie Sanders manifestou apoio a Van Hollen, mas o resultado dependerá dos votos internos, que ainda não foram apurados. O embate pode influenciar a agenda legislativa de 2027, sem representar uma mudança automática na direção do Senado.",
+      "counterpoint": "Vencer a eleição e brigar pela cadeira de chefe logo depois é um lembrete de que maioria parlamentar não é sinônimo de unidade. O teste não será quem faz o discurso mais inflamado, mas quem consegue transformar votos em resultados — e prestar contas deles.",
+      "sources": [
+        {
+          "name": "Gabinete do senador Chris Van Hollen — declaração oficial, 12/11/2026",
+          "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-statement-on-running-for-majority-leader"
+        },
+        {
+          "name": "Bancada democrata do Senado — declaração oficial de Chuck Schumer, 12/11/2026",
+          "url": "https://www.democrats.senate.gov/newsroom/press-releases/leader-schumer-statement-on-senate-democratic-leadership"
+        },
+        {
+          "name": "Associated Press — disputa pela liderança democrata, 13/11/2026",
+          "url": "https://apnews.com/article/6d74c189cb6c065c9a810a1cf1a53436"
+        },
+        {
+          "name": "Reuters — candidatura de Van Hollen, 13/11/2026",
+          "url": "https://www.reuters.com/world/us/chris-van-hollen-announces-run-us-senate-majority-leader-challenging-schumer-2026-11-13/"
+        }
+      ],
+      "en": {
+        "title": "Van Hollen challenges Schumer for Democratic leadership in the US Senate",
+        "subtitle": "The Maryland senator announced his bid on November 12; Schumer says he has enough votes to remain leader ahead of an internal ballot.",
+        "facts": "Maryland Democratic Senator Chris Van Hollen announced on November 12, 2026, that he will challenge Chuck Schumer for leadership of the Democratic caucus in the United States Senate. In a statement on his official website, Van Hollen said the midterm election results called for change and new leadership. Schumer replied in an official statement that he believes he has the votes to remain in charge. Democratic senators are expected to choose their leader by secret ballot in early December. Announcing a candidacy does not mean Van Hollen has won or Schumer has left his post.",
+        "analysis": "The contest follows Democrats' victory in the Senate midterm elections. The Associated Press and Reuters reported disagreements within the caucus over its direction. Van Hollen argues for a change in approach and greater attention to working families' economic concerns; Schumer points to the election results and his experience as reasons for continuity. Senator Bernie Sanders has backed Van Hollen, but the outcome depends on an internal vote that has not yet taken place. The contest could shape the 2027 legislative agenda, but does not itself change Senate leadership.",
+        "counterpoint": "Winning an election and immediately fighting over the top job shows that a parliamentary majority is not the same as unity. The real test is not who gives the fiercest speech, but who can turn votes into results and account for them.",
+        "category": "WORLD",
+        "slug": "van-hollen-challenges-schumer-for-democratic-leadership-in-the-us-senate-2026-11-13"
+      },
+      "es": {
+        "title": "Van Hollen desafía a Schumer por el liderazgo demócrata en el Senado de Estados Unidos",
+        "subtitle": "El senador de Maryland anunció su candidatura el 12 de noviembre; Schumer afirma tener los votos necesarios para continuar como líder.",
+        "facts": "El senador demócrata Chris Van Hollen, de Maryland, anunció el 12 de noviembre de 2026 que disputará a Chuck Schumer el liderazgo del bloque demócrata en el Senado de Estados Unidos. En un comunicado publicado en su sitio oficial, Van Hollen afirmó que los resultados de las elecciones legislativas exigían cambios y un nuevo liderazgo. Schumer respondió en una declaración oficial que considera tener los votos necesarios para continuar al frente del bloque. La elección interna, mediante voto secreto, está prevista para comienzos de diciembre. Anunciar una candidatura no significa que Van Hollen haya ganado ni que Schumer haya abandonado el cargo.",
+        "analysis": "La disputa llega después de que los demócratas obtuvieran la mayoría en el Senado en las elecciones de mitad de mandato. Associated Press y Reuters informaron sobre desacuerdos internos respecto de la estrategia del bloque. Van Hollen defiende un cambio de rumbo y mayor atención a los problemas económicos de las familias trabajadoras; Schumer destaca los resultados electorales y su experiencia como argumentos a favor de la continuidad. El senador Bernie Sanders ha respaldado a Van Hollen, pero el resultado dependerá de una votación interna aún pendiente. La contienda podría influir en la agenda legislativa de 2027, sin cambiar automáticamente la dirección del Senado.",
+        "counterpoint": "Ganar las elecciones y empezar enseguida una pelea por la jefatura demuestra que mayoría parlamentaria no significa unidad. La verdadera prueba no será quién pronuncie el discurso más encendido, sino quién convierta los votos en resultados y rinda cuentas.",
+        "category": "MUNDO",
+        "slug": "van-hollen-desafia-a-schumer-por-el-liderazgo-democrata-en-el-senado-de-estados-2026-11-13"
+      }
+    },
+    {
       "id": "aie-preve-superavit-petroleo-quarto-trimestre-2026-11-13",
       "date": "2026-11-13",
       "category": "ECONOMIA",
