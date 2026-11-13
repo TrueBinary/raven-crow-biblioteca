@@ -85,6 +85,9 @@
         "analysis": "The announcement gives fans time to prepare for the first Women's World Cup hosted in South America. The initial phase focuses on multi-match packages rather than unrestricted single-match sales. FIFA also announced legally mandated half-price options and accessible seating. Advertised entry prices do not apply to every seat or guarantee availability; allocations will be sold on a first-come, first-served basis.",
         "counterpoint": "A R$ 30 entry price makes headlines, but it is not a guaranteed price for every match. Fans should check full package costs, eligibility rules and travel expenses, and avoid unauthorized sellers.",
         "category": "SPORT",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (February 2, 2009): aerial view of Maracanã Stadium in Rio de Janeiro, before later renovations. Arthur Boppré/Flickr (CC BY 2.0). Does not depict the ticket sale or any 2027 Women's World Cup match."
+        },
         "slug": "fifa-announces-december-1-ticket-sales-launch-for-2027-women-s-world-cup-in-2026-11-13"
       },
       "es": {
@@ -94,8 +97,22 @@
         "analysis": "El anuncio permite planificar con antelación la primera Copa Mundial Femenina celebrada en Sudamérica. La etapa inicial se concentra en paquetes de varios encuentros y no en la venta libre de entradas individuales para todos los partidos. La FIFA también anunció descuentos legales y localidades accesibles. Los precios mínimos anunciados no se aplican a todos los asientos ni garantizan disponibilidad: la asignación seguirá el orden de compra.",
         "counterpoint": "El precio inicial de R$ 30 atrae atención, pero no está garantizado para todos los encuentros. Conviene revisar el costo total de cada paquete, las condiciones de descuento y los gastos de viaje, y evitar vendedores no autorizados.",
         "category": "DEPORTES",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (2 de febrero de 2009): vista aérea del estadio Maracanã, en Río de Janeiro, antes de posteriores reformas. Arthur Boppré/Flickr (CC BY 2.0). No muestra la venta de entradas ni ningún partido del Mundial Femenino de 2027."
+        },
         "slug": "la-fifa-anuncia-que-las-entradas-del-mundial-femenino-de-2027-saldran-a-la-2026-11-13"
-      }
+      },
+      "photos": [
+        {
+          "url": "https://live.staticflickr.com/3063/3249488804_8f0113d90c_o.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+          "credit": "Arthur Boppré / Flickr, via Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Maracan%C3%A3_Stadium_in_Rio_de_Janeiro.jpg",
+          "caption": "FOTO DE ARQUIVO (02/02/2009): vista aérea do estádio do Maracanã, no Rio de Janeiro, antes de reformas posteriores. Arthur Boppré/Flickr (CC BY 2.0). Não retrata a venda de ingressos ou partida da Copa Feminina de 2027."
+        }
+      ]
     },
     {
       "id": "brasil-ultrapassa-mil-casos-mpox-2026-11-13",
@@ -249,6 +266,9 @@
         "analysis": "Recovering Gulf shipments and weaker demand have eased crude oil shortages. The IEA reported that North Sea Dated crude fell from an early-October peak of $136 a barrel to about $93 when the report was prepared. But diesel supplies remain constrained, and attacks on vessels, energy infrastructure and maritime routes could reverse the improvement. The agency expects combined production in the United States, Canada, Brazil, Argentina and Guyana to rise by 1.6 million barrels per day in 2026. A crude surplus does not mean refined fuels will immediately become plentiful.",
         "counterpoint": "More crude oil does not mean cheap diesel tomorrow. Refineries, freight costs and dangerous shipping routes still stand between the barrel and the fuel tank. The market recovery is a forecast, not proof that the crisis is over.",
         "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (February 22, 2014): crude oil tanker Navion Oslo photographed in the Netherlands. Roel Hemkes/Flickr (CC BY 2.0). Does not depict global oil supply conditions or events in November 2026."
+        },
         "slug": "iea-forecasts-oil-surplus-in-late-2026-but-warns-diesel-shortages-persist-2026-11-13"
       },
       "es": {
@@ -258,8 +278,22 @@
         "analysis": "La recuperación de los envíos del Golfo y la menor demanda aliviaron la escasez de crudo. Según la AIE, el petróleo North Sea Dated bajó desde un máximo de 136 dólares por barril a comienzos de octubre hasta unos 93 dólares al redactarse el informe. Sin embargo, el suministro de diésel sigue limitado, y los ataques contra buques, instalaciones energéticas y rutas marítimas podrían revertir la mejora. La agencia proyecta un aumento conjunto de producción de 1,6 millones de barriles diarios en Estados Unidos, Canadá, Brasil, Argentina y Guyana en 2026. Un superávit de crudo no implica abundancia inmediata de combustibles refinados.",
         "counterpoint": "Más petróleo crudo no significa diésel barato mañana. Entre el barril y el depósito del vehículo hay refinerías, costes de transporte y rutas peligrosas. La recuperación es una previsión, no la prueba de que la crisis haya terminado.",
         "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (22 de febrero de 2014): petrolero de crudo Navion Oslo fotografiado en los Países Bajos. Roel Hemkes/Flickr (CC BY 2.0). No muestra las condiciones de oferta mundial de petróleo ni los acontecimientos de noviembre de 2026."
+        },
         "slug": "la-aie-preve-un-superavit-de-petroleo-a-finales-de-2026-pero-advierte-sobre-la-2026-11-13"
-      }
+      },
+      "photos": [
+        {
+          "url": "https://live.staticflickr.com/7460/13228434303_bdd53be2ed_o.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+          "credit": "Roel Hemkes / Flickr, via Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Crude_oil_tanker_Navion_Oslo_%2813228434303%29.jpg",
+          "caption": "FOTO DE ARQUIVO (22/02/2014): navio petroleiro Navion Oslo transportador de óleo bruto, fotografado nos Países Baixos. Roel Hemkes/Flickr (CC BY 2.0). Não retrata a oferta global de petróleo nem os acontecimentos de novembro de 2026."
+        }
+      ]
     },
     {
       "id": "pane-global-microsoft-365-outlook-teams-servicos-2026-11-13",
@@ -409,6 +443,9 @@
         "analysis": "The Senate vote is an important legislative step, but it does not amount to final approval or implementation. The proposal would cap inflation-adjusted spending growth at 2% rather than the current 2.5% in years when specified restraint measures apply, and allow further budget freezes to pursue the center of the fiscal target. Changes to tax benefits and state transfers face political resistance. Pending Senate votes and the Chamber of Deputies could still alter the text, while actual fiscal effects will depend on implementation and revenue and spending outcomes.",
         "counterpoint": "The government is celebrating projected savings before the legislative vote is even finished — like counting proceeds from a sale before finding a buyer. Taxpayers deserve a complete accounting of which tax breaks end, which spending actually falls and who bears the costs. Calling this a law already passed would also be premature.",
         "category": "POLITICS",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (August 22, 2016): Brazilian Federal Senate plenary in Brasília during a special commemorative session. Pedro França/Agência Senado (CC BY 2.0). Does not depict the November 2026 fiscal adjustment vote."
+        },
         "slug": "brazilian-senate-approves-fiscal-adjustment-bill-s-main-text-by-45-votes-to-31-2026-11-13"
       },
       "es": {
@@ -418,8 +455,22 @@
         "analysis": "La aprobación del texto principal es un avance político, pero no equivale a la aprobación definitiva ni a la entrada en vigor de las medidas. La propuesta limitaría al 2%, frente al 2,5% actual, el crecimiento real del gasto en ejercicios sujetos a determinadas restricciones y permitiría nuevos bloqueos para alcanzar el centro de la meta fiscal. Los cambios en beneficios tributarios y transferencias a los estados generan resistencia. Las votaciones pendientes y la Cámara de Diputados todavía pueden modificar el texto; el efecto fiscal dependerá de la ejecución, los ingresos y los gastos.",
         "counterpoint": "El Gobierno celebra un ahorro proyectado antes de terminar la votación, como quien cuenta el dinero de una venta antes de encontrar comprador. El contribuyente merece saber qué beneficios desaparecen, qué gastos se reducen realmente y quién asumirá el costo. Tampoco corresponde presentar el texto principal como una ley ya aprobada.",
         "category": "POLÍTICA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (22 de agosto de 2016): pleno del Senado Federal en Brasilia durante una sesión conmemorativa especial. Pedro França/Agência Senado (CC BY 2.0). No muestra la votación del ajuste fiscal de noviembre de 2026."
+        },
         "slug": "el-senado-de-brasil-aprueba-por-45-votos-contra-31-el-texto-principal-del-2026-11-13"
-      }
+      },
+      "photos": [
+        {
+          "url": "https://live.staticflickr.com/8051/29161992925_3c731efa47_o.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+          "credit": "Pedro França / Agência Senado, via Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Plen%C3%A1rio_do_Senado_%2829161992925%29.jpg",
+          "caption": "FOTO DE ARQUIVO (22/08/2016): plenário do Senado Federal em Brasília durante sessão especial de homenagem a uma entidade internacional de mulheres. Pedro França/Agência Senado (CC BY 2.0). Não retrata a votação do ajuste fiscal de novembro de 2026."
+        }
+      ]
     },
     {
       "id": "eua-anunciam-europeus-negociacoes-paz-ucrania-troca-prisioneiros-2026-11-13",
@@ -451,6 +502,9 @@
         "analysis": "Including European countries could lend legitimacy to future security arrangements, given the continent's direct stake in the postwar settlement. Yet the format of the next talks and the parties' positions remain unsettled. Russia continues to demand territory and rejects European troops in Ukraine, while Kyiv seeks credible guarantees against renewed attacks. A prisoner exchange would provide immediate humanitarian relief, but must not be confused with a ceasefire or territorial settlement. The reported Russian acceptance and potential scale of the exchange are attributed to US negotiators and covered separately by Reuters and the Associated Press.",
         "counterpoint": "Diplomats negotiating instead of exchanging threats is welcome. But peace cannot be measured in handshakes: without verifiable guarantees and civilian protection, a meeting photo may produce headlines before it produces results. Actual prisoner releases would be tangible progress — once they happen.",
         "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (November 24, 2023): photograph from Ukraine's presidential office accompanying Volodymyr Zelenskyy's Holodomor Remembrance Day address. Office of the President of Ukraine/Flickr (CC0 1.0). Does not depict the November 2026 peace talks or prisoner exchanges."
+        },
         "slug": "us-envoys-say-europeans-will-join-ukraine-peace-talks-as-prisoner-exchange-2026-11-13"
       },
       "es": {
@@ -460,8 +514,22 @@
         "analysis": "La inclusión de países europeos podría reforzar la legitimidad de futuros acuerdos de seguridad, puesto que el continente se verá directamente afectado por el orden posterior a la guerra. Sin embargo, el formato de las próximas conversaciones y las posiciones de las partes siguen en disputa. Rusia mantiene exigencias territoriales y rechaza tropas europeas en Ucrania, mientras Kiev busca garantías creíbles frente a nuevas ofensivas. Un intercambio de prisioneros tendría un efecto humanitario inmediato, pero no equivale a un alto el fuego ni a un acuerdo territorial. La supuesta aceptación rusa y la posible magnitud del intercambio se atribuyen a negociadores estadounidenses, con cobertura independiente de Reuters y Associated Press.",
         "counterpoint": "Es positivo que los diplomáticos negocien en lugar de limitarse a intercambiar amenazas. Pero la paz no se mide por los apretones de manos: sin garantías verificables y protección de los civiles, una foto de reunión puede generar titulares antes que resultados. La liberación efectiva de prisioneros sí sería un avance concreto, cuando ocurra.",
         "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (24 de noviembre de 2023): fotografía de la Presidencia de Ucrania vinculada al discurso de Volodymyr Zelensky por el Día de Conmemoración de las Víctimas del Holodomor. Presidencia de Ucrania/Flickr (CC0 1.0). No muestra las negociaciones de paz ni intercambios de prisioneros de noviembre de 2026."
+        },
         "slug": "enviados-de-ee-uu-anuncian-participacion-europea-en-negociaciones-sobre-ucrania-2026-11-13"
-      }
+      },
+      "photos": [
+        {
+          "url": "https://live.staticflickr.com/65535/53354892099_ecf9684c7e_o.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Zero 1.0 Universal (CC0 1.0)",
+          "credit": "Presidência da Ucrânia / Flickr, via Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Address_of_the_President_of_Ukraine_on_the_occasion_of_the_Day_of_Remembrance_of_the_Victims_of_the_Holodomors._%2853354892099%29.jpg",
+          "caption": "FOTO DE ARQUIVO (24/11/2023): registro da Presidência da Ucrânia relacionado a pronunciamento de Volodymyr Zelensky no Dia de Memória das Vítimas do Holodomor. Presidência da Ucrânia/Flickr (CC0 1.0). Não retrata as negociações de paz ou a troca de prisioneiros de novembro de 2026."
+        }
+      ]
     },
     {
       "id": "china-exercicios-navais-nao-anunciados-taiwan-pacifico-2026-11-13",
@@ -497,6 +565,9 @@
         "analysis": "Anti-access and area-denial exercises seek to complicate potential intervention by outside forces and can test coordination between naval, air and coast guard units. The reported concentration of more than 100 vessels is attributed to Taiwanese officials and does not independently verify every movement or simulated strike. Taiwan's separate official record of 30 aircraft sorties and 11 vessels in a 24-hour period provides a more narrowly defined account of recent activity. Beijing claims sovereignty over Taiwan; Taiwan's government rejects that claim and says its people must decide their future. Miscalculation and escalation remain key risks.",
         "counterpoint": "A fleet of more than a hundred vessels is hardly a sightseeing cruise. Yet military drills and officials' accounts are not proof that an invasion is imminent. Transparency, independent monitoring and diplomatic caution matter before a show of force turns into a real crisis.",
         "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (May 2, 2009): Chinese Navy minesweeper No. 832 of the East Sea Fleet on the Yangtze River in Shanghai. Hugh Llewelyn/Flickr (CC BY-SA 2.0). Does not depict the November 2026 naval exercises near Taiwan."
+        },
         "slug": "china-deployed-more-than-100-vessels-in-unannounced-drills-near-taiwan-2026-11-13"
       },
       "es": {
@@ -506,8 +577,22 @@
         "analysis": "Los ejercicios de denegación de acceso buscan dificultar la intervención de fuerzas externas en una eventual crisis y permiten probar la coordinación naval, aérea y de guardacostas. La concentración regional de más de 100 embarcaciones procede de declaraciones de autoridades taiwanesas y no supone una comprobación independiente de cada movimiento o simulación. El registro oficial separado de 30 salidas aéreas y 11 embarcaciones en 24 horas ofrece una referencia más precisa de la actividad reciente. China reclama soberanía sobre Taiwán; su Gobierno rechaza esa reivindicación y sostiene que la población debe decidir su futuro. El principal riesgo inmediato es un error de cálculo que provoque una escalada.",
         "counterpoint": "Una flota de más de cien embarcaciones no parece precisamente un paseo turístico. Pero tampoco sería responsable convertir maniobras militares en prueba de una invasión inminente. Hacen falta transparencia, vigilancia independiente y prudencia diplomática.",
         "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (2 de mayo de 2009): dragaminas número 832 de la Armada china, perteneciente a la Flota del Mar del Este, en el río Yangtsé, Shanghái. Hugh Llewelyn/Flickr (CC BY-SA 2.0). No muestra los ejercicios navales cerca de Taiwán de noviembre de 2026."
+        },
         "slug": "china-desplego-mas-de-100-embarcaciones-en-maniobras-no-anunciadas-cerca-de-2026-11-13"
-      }
+      },
+      "photos": [
+        {
+          "url": "https://live.staticflickr.com/65535/50645092106_ff645d7acd_o.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)",
+          "credit": "Hugh Llewelyn / Flickr, via Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Chinese_Navy_minesweeper_832.jpg",
+          "caption": "FOTO DE ARQUIVO (02/05/2009): navio caça-minas nº 832 da Marinha chinesa, da Frota do Mar do Leste, no rio Yangtzé em Xangai. Hugh Llewelyn/Flickr (CC BY-SA 2.0). Não retrata os exercícios navais perto de Taiwan em novembro de 2026."
+        }
+      ]
     },
     {
       "id": "congresso-autoriza-149-bilhoes-divida-previdencia-bolsa-familia-2026-11-12",
@@ -539,6 +624,9 @@
         "analysis": "The measure changes the funding source for existing mandatory expenditure rather than adding R$149.4 billion in primary spending. If bonds are issued, the government will incur debt-service obligations. The Joint Budget Committee recommended periodic reporting on borrowing, spending execution and the impact on public debt. The government says the measure protects benefit payments, while critics warn against recurring reliance on borrowing exceptions. Actual borrowing may be below the authorized ceiling.",
         "counterpoint": "Congress did not find R$149 billion in a forgotten vault: it authorized borrowing to fund existing bills. Benefits must be paid, but transparency about bonds actually issued, interest costs and future fiscal sustainability is essential.",
         "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (May 5, 2015): National Congress building in Brasília, Federal District, Brazil. Dária Baísa/Flickr (CC BY 2.0). Does not depict the November 2026 budget vote."
+        },
         "slug": "brazil-s-congress-authorizes-up-to-r-149-4-billion-in-borrowing-for-pensions-2026-11-12"
       },
       "es": {
@@ -548,8 +636,22 @@
         "analysis": "La medida modifica la fuente de financiación de obligaciones ya autorizadas, en lugar de sumar R$ 149.400 millones al gasto primario. Si se emiten títulos, surgirán obligaciones de deuda e intereses. La Comisión Mixta de Presupuesto recomendó informes periódicos sobre las operaciones, la ejecución y el efecto en la deuda pública. El Gobierno sostiene que la medida protege el pago de beneficios; los críticos cuestionan la dependencia de excepciones para financiar gastos corrientes. El endeudamiento efectivo puede ser inferior al límite.",
         "counterpoint": "El Congreso no encontró R$ 149.400 millones en una caja olvidada: autorizó endeudarse para pagar obligaciones existentes. Los beneficios deben abonarse, pero también hay que explicar cuánto se tomará prestado y qué costo tendrá.",
         "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (5 de mayo de 2015): edificio del Congreso Nacional en Brasilia, Distrito Federal, Brasil. Dária Baísa/Flickr (CC BY 2.0). No muestra la votación presupuestaria de noviembre de 2026."
+        },
         "slug": "el-congreso-de-brasil-autoriza-hasta-r-149-400-millones-en-deuda-para-pensiones-2026-11-12"
       },
+      "photos": [
+        {
+          "url": "https://live.staticflickr.com/7704/17352326646_81d005f673_o.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+          "credit": "Dária Baísa / Flickr, via Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Congresso_Nacional%2C_Bras%C3%ADlia-DF%2C_Brasil.jpg",
+          "caption": "FOTO DE ARQUIVO (05/05/2015): edifício do Congresso Nacional em Brasília, Distrito Federal. Dária Baísa/Flickr (CC BY 2.0). Não retrata a votação orçamentária de novembro de 2026."
+        }
+      ],
       "firstSeen": "2026-11-12T10:05:00-03:00"
     },
     {
