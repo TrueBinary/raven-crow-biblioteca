@@ -1,6 +1,44 @@
 {
   "articles": [
     {
+      "id": "aie-preve-superavit-petroleo-quarto-trimestre-2026-11-13",
+      "date": "2026-11-13",
+      "category": "ECONOMIA",
+      "title": "Agência Internacional de Energia prevê volta de superávit de petróleo, mas alerta para escassez de diesel",
+      "subtitle": "Relatório de 13 de novembro aponta recuperação de exportações do Golfo e oferta superior à demanda no fim de 2026; riscos à navegação continuam.",
+      "facts": "A Agência Internacional de Energia (AIE) publicou nesta sexta-feira, 13 de novembro de 2026, relatório que projeta retorno do mercado mundial de petróleo a um superávit no quarto trimestre, pela primeira vez desde o início da guerra no Irã. A oferta global cresceu 2,3 milhões de barris por dia em outubro, chegando a 105,4 milhões de barris diários. As exportações de petróleo do Golfo, excluído Omã, alcançaram 18,4 milhões de barris diários, ainda 26% abaixo do nível anterior à guerra. Os estoques observados aumentaram 52 milhões de barris em outubro, primeira alta desde junho. A AIE prevê queda de 2,7 milhões de barris diários na demanda média de 2026 e recuperação de 2 milhões em 2027. As projeções estão sujeitas a alterações.",
+      "analysis": "O aumento das exportações do Golfo e a retração da demanda aliviaram a pressão sobre o petróleo bruto. A AIE informa que o preço do North Sea Dated caiu de um pico de US$ 136 por barril no início de outubro para cerca de US$ 93 na elaboração do relatório. Isso não significa normalização dos combustíveis: o fornecimento de diesel permanece restrito, e ataques a navios, instalações energéticas e rotas marítimas podem reverter a recuperação. A agência projeta crescimento de 1,6 milhão de barris diários na produção conjunta de Estados Unidos, Canadá, Brasil, Argentina e Guiana em 2026. O retorno de um superávit de petróleo bruto não equivale a abundância imediata de derivados refinados.",
+      "counterpoint": "Petróleo mais abundante não significa diesel barato amanhã. Entre o barril extraído e o combustível no tanque há refinarias, frete e rotas sob risco. A recuperação do mercado é uma previsão, não um salvo-conduto para anunciar o fim da crise.",
+      "sources": [
+        {
+          "name": "Agência Internacional de Energia — Oil Market Report, 13/11/2026",
+          "url": "https://www.iea.org/reports/oil-market-report-november-2026"
+        },
+        {
+          "name": "Reuters — mercado de petróleo e recuperação das exportações do Golfo, 13/11/2026",
+          "url": "https://www.reuters.com/business/energy/world-oil-market-is-returning-surplus-gulf-exports-recover-iea-says-2026-11-13/"
+        }
+      ],
+      "en": {
+        "title": "IEA forecasts oil surplus in late 2026 but warns diesel shortages persist",
+        "subtitle": "November 13 report points to recovering Gulf exports and supply exceeding demand, while shipping risks remain.",
+        "facts": "The International Energy Agency (IEA) said in its November 13, 2026 report that the global oil market is expected to return to surplus in the fourth quarter for the first time since the war in Iran began. Global supply increased by 2.3 million barrels per day in October to 105.4 million barrels per day. Gulf exports excluding Oman reached 18.4 million barrels per day, still 26% below pre-war levels. Observed inventories rose by 52 million barrels in October, their first increase since June. The IEA forecasts global demand falling by 2.7 million barrels per day on average in 2026, then recovering by 2 million barrels per day in 2027. These are forecasts, not guaranteed outcomes.",
+        "analysis": "Recovering Gulf shipments and weaker demand have eased crude oil shortages. The IEA reported that North Sea Dated crude fell from an early-October peak of $136 a barrel to about $93 when the report was prepared. But diesel supplies remain constrained, and attacks on vessels, energy infrastructure and maritime routes could reverse the improvement. The agency expects combined production in the United States, Canada, Brazil, Argentina and Guyana to rise by 1.6 million barrels per day in 2026. A crude surplus does not mean refined fuels will immediately become plentiful.",
+        "counterpoint": "More crude oil does not mean cheap diesel tomorrow. Refineries, freight costs and dangerous shipping routes still stand between the barrel and the fuel tank. The market recovery is a forecast, not proof that the crisis is over.",
+        "category": "ECONOMY",
+        "slug": "iea-forecasts-oil-surplus-in-late-2026-but-warns-diesel-shortages-persist-2026-11-13"
+      },
+      "es": {
+        "title": "La AIE prevé un superávit de petróleo a finales de 2026, pero advierte sobre la escasez de diésel",
+        "subtitle": "El informe del 13 de noviembre destaca la recuperación de las exportaciones del Golfo y una oferta superior a la demanda, aunque persisten riesgos marítimos.",
+        "facts": "La Agencia Internacional de la Energía (AIE) señaló en su informe del 13 de noviembre de 2026 que el mercado mundial de petróleo volvería a registrar un superávit en el cuarto trimestre, por primera vez desde el inicio de la guerra en Irán. La oferta mundial aumentó 2,3 millones de barriles diarios en octubre, hasta 105,4 millones. Las exportaciones del Golfo, excluido Omán, alcanzaron 18,4 millones de barriles diarios, todavía un 26% por debajo del nivel previo a la guerra. Los inventarios observados crecieron 52 millones de barriles en octubre, su primer aumento desde junio. La AIE prevé una caída media de la demanda de 2,7 millones de barriles diarios en 2026 y una recuperación de 2 millones en 2027. Se trata de previsiones sujetas a cambios.",
+        "analysis": "La recuperación de los envíos del Golfo y la menor demanda aliviaron la escasez de crudo. Según la AIE, el petróleo North Sea Dated bajó desde un máximo de 136 dólares por barril a comienzos de octubre hasta unos 93 dólares al redactarse el informe. Sin embargo, el suministro de diésel sigue limitado, y los ataques contra buques, instalaciones energéticas y rutas marítimas podrían revertir la mejora. La agencia proyecta un aumento conjunto de producción de 1,6 millones de barriles diarios en Estados Unidos, Canadá, Brasil, Argentina y Guyana en 2026. Un superávit de crudo no implica abundancia inmediata de combustibles refinados.",
+        "counterpoint": "Más petróleo crudo no significa diésel barato mañana. Entre el barril y el depósito del vehículo hay refinerías, costes de transporte y rutas peligrosas. La recuperación es una previsión, no la prueba de que la crisis haya terminado.",
+        "category": "ECONOMÍA",
+        "slug": "la-aie-preve-un-superavit-de-petroleo-a-finales-de-2026-pero-advierte-sobre-la-2026-11-13"
+      }
+    },
+    {
       "id": "pane-global-microsoft-365-outlook-teams-servicos-2026-11-13",
       "date": "2026-11-13",
       "category": "TECNOLOGIA",
