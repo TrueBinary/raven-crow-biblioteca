@@ -1,6 +1,48 @@
 {
   "articles": [
     {
+      "id": "pane-faa-eua-cancela-milhares-voos-2026-11-14",
+      "date": "2026-11-14",
+      "category": "MUNDO",
+      "title": "Pane no controle aéreo dos EUA provoca milhares de cancelamentos e atrasos",
+      "subtitle": "Após paralisação nacional de decolagens na sexta-feira, companhias ainda enfrentam transtornos no sábado; autoridades investigam falha em sistemas antigos.",
+      "facts": "Uma falha de comunicação e de dados de radar no sistema de controle aéreo dos Estados Unidos levou a Administração Federal de Aviação (FAA) a suspender temporariamente decolagens em todo o país na sexta-feira, 13 de novembro de 2026. A interrupção durou mais de quatro horas e foi encerrada por volta de 20h15 no horário da costa leste. Segundo a Associated Press, mais de 2 mil voos foram cancelados durante a paralisação e mais de 2,5 mil cancelamentos adicionais foram registrados no sábado, 14 de novembro, enquanto as companhias tentavam reorganizar aeronaves e tripulações. As cifras são balanços divulgados em momentos específicos e podem mudar. Autoridades federais atribuíram preliminarmente o problema à sobrecarga de equipamentos antigos durante a integração de novas tecnologias, mas a investigação da causa prossegue. Não havia evidência de ataque cibernético segundo as autoridades. A Reuters confirmou a suspensão nacional e a retomada gradual dos voos.",
+      "analysis": "O episódio expôs a fragilidade de infraestrutura crítica e a dificuldade de recuperar a malha aérea após uma interrupção centralizada. Mesmo com as decolagens retomadas, aviões e tripulações fora de posição podem provocar cancelamentos em cadeia. A modernização do sistema de controle aéreo já recebe recursos federais, mas as falhas mostram a importância de redundância, testes e transparência sobre riscos operacionais.",
+      "counterpoint": "Quando uma rede de controle aéreo falha, não basta apertar o botão de reiniciar e declarar vitória: passageiros continuam presos em aeroportos e companhias tentam recompor a operação. A pergunta é por que uma infraestrutura tão essencial ainda depende de equipamentos que não suportam a atualização sem comprometer o serviço.",
+      "sources": [
+        {
+          "name": "Associated Press — Thousands of flights canceled as airlines work to dig out from nationwide ground stop, 14/11/2026",
+          "url": "https://apnews.com/article/1fbf4992f0ddaa4c463b0e4990b6e291"
+        },
+        {
+          "name": "Reuters — US to resume flights after air traffic network failure sparks chaos, 13/11/2026",
+          "url": "https://www.reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/"
+        },
+        {
+          "name": "Reuters — Old air traffic control equipment regularly disrupts US flights, 14/11/2026",
+          "url": "https://www.reuters.com/business/aerospace-defense/old-air-traffic-control-equipment-regularly-disrupts-us-flights-2026-11-14/"
+        }
+      ],
+      "en": {
+        "title": "US air traffic control outage triggers thousands of flight cancellations and delays",
+        "subtitle": "After a nationwide halt to departures on Friday, airlines continue struggling on Saturday as officials investigate aging systems.",
+        "facts": "A communications and radar-data failure in the US air traffic control network prompted the Federal Aviation Administration (FAA) to temporarily halt departures nationwide on Friday, November 13, 2026. The suspension lasted more than four hours and was lifted around 8:15 p.m. Eastern Time. According to the Associated Press, more than 2,000 flights were canceled during the shutdown and over 2,500 additional cancellations were reported on Saturday, November 14, as airlines worked to reposition aircraft and crews. These figures are time-specific snapshots and may change. Federal officials preliminarily linked the disruption to overloaded aging equipment during technology upgrades, but the precise cause remains under investigation. Officials said they had found no evidence of a cyberattack. Reuters independently reported the nationwide halt and gradual resumption.",
+        "analysis": "The disruption exposed the vulnerability of critical infrastructure and the difficulty of restoring airline schedules after a centralized outage. Even after departures resume, misplaced aircraft and crews can trigger cascading cancellations. Federal funding has been allocated to modernization, but the incident underscores the need for redundancy, testing and transparency about operational risks.",
+        "counterpoint": "When an air traffic network fails, restarting the system is not the same as restoring normal travel: passengers remain stranded while airlines rebuild schedules. The central question is why such vital infrastructure still relies on equipment that cannot absorb upgrades without disrupting service.",
+        "category": "WORLD",
+        "slug": "us-air-traffic-control-outage-triggers-thousands-of-flight-cancellations-and-2026-11-14"
+      },
+      "es": {
+        "title": "Falla del control aéreo de Estados Unidos provoca miles de cancelaciones y retrasos",
+        "subtitle": "Tras una suspensión nacional de despegues el viernes, las aerolíneas siguen afrontando problemas el sábado mientras se investigan sistemas antiguos.",
+        "facts": "Una falla en las comunicaciones y los datos de radar de la red de control aéreo de Estados Unidos llevó a la Administración Federal de Aviación (FAA) a suspender temporalmente los despegues en todo el país el viernes 13 de noviembre de 2026. La interrupción duró más de cuatro horas y terminó alrededor de las 20:15, hora del este. Según Associated Press, se cancelaron más de 2.000 vuelos durante la paralización y se registraron más de 2.500 cancelaciones adicionales el sábado 14 de noviembre, mientras las aerolíneas reorganizaban aviones y tripulaciones. Las cifras corresponden a momentos concretos y pueden cambiar. Las autoridades federales vincularon preliminarmente la falla con la sobrecarga de equipos antiguos durante la incorporación de nuevas tecnologías, aunque la causa exacta sigue bajo investigación. Según los funcionarios, no había indicios de un ciberataque. Reuters confirmó la suspensión nacional y la reanudación gradual.",
+        "analysis": "El episodio reveló la vulnerabilidad de una infraestructura crítica y las dificultades para normalizar los vuelos después de una interrupción centralizada. Incluso tras reanudar los despegues, los aviones y tripulaciones desplazados pueden provocar cancelaciones en cadena. Ya existen fondos federales para modernizar el sistema, pero la crisis subraya la necesidad de redundancia, pruebas y transparencia sobre los riesgos operativos.",
+        "counterpoint": "Cuando falla una red de control aéreo, reiniciar el sistema no significa que los viajes hayan vuelto a la normalidad: los pasajeros siguen varados y las aerolíneas deben recomponer sus operaciones. La pregunta es por qué una infraestructura tan esencial todavía depende de equipos incapaces de soportar actualizaciones sin interrumpir el servicio.",
+        "category": "MUNDO",
+        "slug": "falla-del-control-aereo-de-estados-unidos-provoca-miles-de-cancelaciones-y-2026-11-14"
+      }
+    },
+    {
       "id": "china-realiza-exercicios-navais-nao-anunciados-perto-taiwan-2026-11-14",
       "date": "2026-11-14",
       "category": "MUNDO",
