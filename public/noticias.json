@@ -6,6 +6,63 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "casa-branca-confirma-encontro-trump-xi-putin-apec-2026-11-14",
+      "date": "2026-11-14",
+      "category": "MUNDO",
+      "title": "Casa Branca confirma encontro de Trump, Xi e Putin na China para discutir armas nucleares",
+      "subtitle": "Reunião trilateral está prevista para 19 de novembro, durante a cúpula da Apec em Shenzhen; autoridades americanas não esperam acordo imediato.",
+      "facts": "A Casa Branca confirmou na sexta-feira, 13 de novembro de 2026, que Donald Trump, Xi Jinping e Vladimir Putin planejam reunir-se na quinta-feira, 19 de novembro, à margem da cúpula da Cooperação Econômica Ásia-Pacífico (Apec), em Shenzhen, na China. Segundo a porta-voz Olivia Wales, Trump pretende abordar a redução dos arsenais nucleares. Uma autoridade americana advertiu que Washington não espera fechar um acordo na reunião. Reuters e Associated Press noticiaram o anúncio. A reunião ainda não aconteceu: trata-se de um compromisso anunciado, sujeito a alterações.",
+      "analysis": "O encontro reuniria dirigentes de três potências nucleares num momento de tensões em torno da Ucrânia e do Irã. A expiração do tratado Novo START entre Estados Unidos e Rússia em fevereiro de 2026 aumentou o interesse por novas negociações de controle de armamentos. A China tem resistido a participar de um regime nos mesmos moldes dos arsenais muito maiores de Washington e Moscou. A confirmação da agenda não equivale a um acordo diplomático.",
+      "counterpoint": "Uma fotografia de três líderes à mesa não desarma uma ogiva sequer. O teste será a existência de compromissos verificáveis, não apenas uma declaração de intenções. E qualquer discussão sobre a Ucrânia precisa considerar a posição dos próprios ucranianos.",
+      "sources": [
+        {
+          "name": "Reuters — 13/11/2026",
+          "url": "https://www.reuters.com/world/china/trump-meet-putin-xi-china-white-house-says-2026-11-14/"
+        },
+        {
+          "name": "Associated Press — 13/11/2026",
+          "url": "https://apnews.com/article/5fe92253ef38100bae913834a9b74d72"
+        },
+        {
+          "name": "Folha de S.Paulo — 13/11/2026",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/11/trump-xi-e-putin-vao-se-reunir-na-china-na-proxima-quinta-19-diz-casa-branca.shtml"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vladimir_Putin_and_Xi_Jinping_%282025%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 4.0",
+          "credit": "Kremlin.ru / Presidência da Rússia",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_and_Xi_Jinping_(2025).jpg",
+          "caption": "FOTO DE ARQUIVO (2 de setembro de 2025): Vladimir Putin e Xi Jinping em encontro em Zhongnanhai, Pequim. Foto: Kremlin.ru, CC BY 4.0. Não retrata o encontro trilateral anunciado para 19 de novembro de 2026; Donald Trump não aparece na imagem."
+        }
+      ],
+      "en": {
+        "title": "White House confirms Trump, Xi and Putin meeting in China for nuclear arms talks",
+        "subtitle": "The three leaders are due to meet on November 19 at the APEC summit in Shenzhen; US officials do not expect an immediate deal.",
+        "facts": "On Friday, November 13, 2026, the White House confirmed plans for Donald Trump, Xi Jinping and Vladimir Putin to meet on Thursday, November 19, on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen, China. Spokesperson Olivia Wales said Trump intends to discuss reducing nuclear arsenals. A US official cautioned that Washington does not expect an agreement at the meeting. Reuters and the Associated Press reported the announcement. The meeting has not yet taken place and the schedule may change.",
+        "analysis": "The talks would bring together leaders of three nuclear powers amid tensions over Ukraine and Iran. The expiration of the US-Russia New START treaty in February 2026 has increased pressure for new arms-control arrangements. China has been reluctant to join a framework modeled on the far larger US and Russian arsenals. Announcing talks is not the same as reaching an agreement.",
+        "counterpoint": "A photograph of three leaders at a table does not dismantle a single warhead. The real test is whether the talks produce verifiable commitments rather than statements of intent. Any discussion of Ukraine must also take Ukrainians' position into account.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (September 2, 2025): Vladimir Putin and Xi Jinping at Zhongnanhai in Beijing. Photo: Kremlin.ru, CC BY 4.0. Does not depict the trilateral meeting announced for November 19, 2026; Donald Trump is not pictured."
+        }
+      },
+      "es": {
+        "title": "La Casa Blanca confirma reunión de Trump, Xi y Putin en China para tratar las armas nucleares",
+        "subtitle": "El encuentro está previsto para el 19 de noviembre durante la cumbre de APEC en Shenzhen; Washington no espera un acuerdo inmediato.",
+        "facts": "El viernes 13 de noviembre de 2026, la Casa Blanca confirmó que Donald Trump, Xi Jinping y Vladimir Putin tienen previsto reunirse el jueves 19 de noviembre, durante la cumbre de la Cooperación Económica Asia-Pacífico (APEC) en Shenzhen, China. La portavoz Olivia Wales indicó que Trump pretende abordar la reducción de los arsenales nucleares. Un funcionario estadounidense advirtió que Washington no espera cerrar un acuerdo en la reunión. Reuters y Associated Press informaron sobre el anuncio. El encuentro todavía no ha ocurrido y la agenda puede cambiar.",
+        "analysis": "La reunión congregaría a dirigentes de tres potencias nucleares en medio de las tensiones sobre Ucrania e Irán. La expiración del tratado Nuevo START entre Estados Unidos y Rusia en febrero de 2026 aumentó la presión para negociar nuevos mecanismos de control de armamentos. China se ha mostrado reticente a incorporarse a un marco basado en los arsenales mucho mayores de Washington y Moscú. Confirmar una reunión no equivale a alcanzar un acuerdo.",
+        "counterpoint": "Una fotografía de tres líderes sentados a la mesa no desmantela ninguna ojiva. La prueba será la existencia de compromisos verificables, no solo declaraciones de intención. Cualquier discusión sobre Ucrania también debe tener en cuenta la posición de los ucranianos.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (2 de septiembre de 2025): Vladimir Putin y Xi Jinping en Zhongnanhai, Pekín. Foto: Kremlin.ru, CC BY 4.0. No muestra la reunión trilateral anunciada para el 19 de noviembre de 2026; Donald Trump no aparece en la imagen."
+        }
+      }
+    },
+    {
       "id": "morre-claudette-soares-91-anos-album-ineditas-2026-11-14",
       "date": "2026-11-14",
       "category": "CULTURA",
