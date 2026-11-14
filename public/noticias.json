@@ -6,6 +6,42 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "ira-relata-petroleiro-em-chamas-mina-estreito-ormuz-2026-11-14",
+      "date": "2026-11-14",
+      "category": "MUNDO",
+      "title": "Irã afirma que petroleiro pegou fogo após atingir mina no estreito de Ormuz",
+      "subtitle": "Marinha iraniana relata novo incidente neste sábado; identificação do navio e causa ainda carecem de verificação independente.",
+      "facts": "A Marinha do Irã afirmou neste sábado, 14 de novembro de 2026, que um petroleiro pegou fogo após atingir uma mina naval na parte oriental do estreito de Ormuz, segundo a imprensa estatal iraniana. A Reuters publicou a declaração, mas informou não ter conseguido verificar independentemente o episódio. A Associated Press também relatou informações da televisão estatal iraniana sobre petroleiros atingidos por minas nas proximidades do estreito, sem identificação confirmada das embarcações ou balanço de vítimas. Portanto, a existência, a causa e a extensão deste incidente específico permanecem não verificadas de maneira independente. A rota é estratégica para o transporte marítimo de energia e enfrenta restrições e ataques no contexto do conflito regional.",
+      "analysis": "As alegações sucessivas de incidentes com navios elevam a preocupação com segurança da navegação e fornecimento energético. Sem identificação do navio, imagens verificadas e apuração marítima independente, não é possível concluir que uma mina tenha causado o incêndio. É importante distinguir relato militar de fato comprovado.",
+      "counterpoint": "No estreito por onde passa uma parcela crucial do comércio de energia, cada anúncio de navio em chamas amplia a tensão. Mas manchete não substitui perícia: é preciso saber qual embarcação foi atingida, o que ocorreu e quem confirmou.",
+      "sources": [
+        {
+          "name": "Reuters — Iran's navy says oil tanker on fire after hitting mine in Hormuz, 14/11/2026",
+          "url": "https://www.reuters.com/world/middle-east/irans-navy-says-oil-tanker-fire-after-hitting-mine-hormuz-2026-11-14/"
+        },
+        {
+          "name": "Associated Press — Israeli drone strike kills 2 Palestinians in Gaza, and other Mideast news, 14/11/2026",
+          "url": "https://apnews.com/article/ade76bebaf22135168aac6eb3016bc19"
+        }
+      ],
+      "en": {
+        "title": "Iran says oil tanker caught fire after hitting mine in Strait of Hormuz",
+        "subtitle": "Iranian navy reports a new incident on Saturday; the vessel's identity and the cause remain independently unverified.",
+        "facts": "On November 14, 2026, Iran's navy said an oil tanker caught fire after striking a naval mine in the eastern Strait of Hormuz, according to Iranian state media. Reuters reported the claim but said it could not independently verify the incident. The Associated Press also relayed Iranian state television reports of tankers allegedly hitting mines near the strait, without confirmed vessel identities or casualty figures. The occurrence, cause and scale of this specific incident therefore remain independently unverified. The strategic energy shipping route has faced restrictions and attacks amid the regional conflict.",
+        "analysis": "Repeated reports of maritime incidents raise concerns about shipping safety and energy supplies. Without a named vessel, verified imagery and independent maritime findings, the reported mine strike cannot be treated as established fact.",
+        "counterpoint": "In a waterway central to global energy trade, every report of a burning tanker raises tensions. But a headline is no substitute for an investigation: which ship was involved, what happened, and who verified it?",
+        "category": "WORLD"
+      },
+      "es": {
+        "title": "Irán afirma que un petrolero se incendió tras chocar con una mina en Ormuz",
+        "subtitle": "La marina iraní comunica un nuevo incidente este sábado, sin verificación independiente de la identidad del buque ni de la causa.",
+        "facts": "El 14 de noviembre de 2026, la marina de Irán afirmó que un petrolero se incendió tras chocar con una mina naval en la zona oriental del estrecho de Ormuz, según medios estatales iraníes. Reuters difundió la declaración, pero indicó que no pudo verificar el incidente de forma independiente. Associated Press también recogió informes de la televisión estatal iraní sobre petroleros que supuestamente chocaron con minas cerca del estrecho, sin identidades confirmadas de los buques ni cifras de víctimas. Por tanto, la existencia, causa y magnitud de este incidente específico siguen sin verificación independiente. Esta ruta estratégica para el transporte de energía afronta restricciones y ataques en el marco del conflicto regional.",
+        "analysis": "Los informes reiterados sobre incidentes marítimos aumentan la preocupación por la seguridad de la navegación y el suministro energético. Sin identificar el buque, contar con imágenes verificadas y disponer de una investigación marítima independiente, no puede darse por probado el impacto de una mina.",
+        "counterpoint": "En una vía clave para el comercio energético, cada noticia sobre un petrolero en llamas aumenta la tensión. Pero un titular no sustituye a una investigación: hay que saber qué buque estuvo implicado, qué ocurrió y quién lo confirmó.",
+        "category": "MUNDO"
+      }
+    },
+    {
       "id": "casa-branca-preve-conversa-trump-xi-putin-armas-nucleares-2026-11-14",
       "date": "2026-11-14",
       "category": "MUNDO",
