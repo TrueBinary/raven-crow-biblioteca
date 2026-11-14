@@ -1,6 +1,44 @@
 {
   "articles": [
     {
+      "id": "microsoft-confirma-restabelecimento-servicos-apos-pane-global-2026-11-14",
+      "date": "2026-11-14",
+      "category": "TECNOLOGIA",
+      "title": "Microsoft anuncia recuperação completa de Outlook e Teams após pane global",
+      "subtitle": "Empresa afirma ter restabelecido serviços do Microsoft 365 neste sábado, após falha que afetou comunicações em vários países.",
+      "facts": "A Microsoft anunciou neste sábado, 14 de novembro de 2026, que concluiu a recuperação dos serviços afetados por uma pane global iniciada na quinta-feira (12). Outlook, Teams e outros produtos do Microsoft 365 sofreram interrupções e instabilidade, com reflexos sobre empresas e órgãos públicos. Segundo a empresa, a falha esteve associada a problemas técnicos de infraestrutura e alterações de rede; não foram identificados indícios de ataque cibernético ou de ação de agentes de inteligência artificial. Reuters e Associated Press noticiaram o anúncio de restabelecimento. A normalização informada pela companhia não elimina a possibilidade de efeitos residuais, como mensagens represadas durante a interrupção.",
+      "analysis": "O incidente expôs a dependência de serviços concentrados em um pequeno número de fornecedores de nuvem e colaboração. A retomada das plataformas resolve o problema imediato, mas a investigação técnica e planos de contingência são essenciais para reduzir impactos futuros em tribunais, hospitais, empresas e administrações públicas.",
+      "counterpoint": "Quando o e-mail para, descobre-se que até instituições gigantes precisam de um plano B. A Microsoft anunciou o conserto; agora falta a parte menos fotogênica: explicar a falha, demonstrar que foi corrigida e ajudar clientes a testar a continuidade dos serviços.",
+      "sources": [
+        {
+          "name": "Reuters — Microsoft restores service to Outlook and Teams after global outage, 14/11/2026",
+          "url": "https://www.reuters.com/technology/microsoft-365-outlook-down-thousands-us-users-downdetector-shows-2026-11-12/"
+        },
+        {
+          "name": "Associated Press — Microsoft says services fully restored after global outage, 14/11/2026",
+          "url": "https://apnews.com/article/ca395c0f1e51af784b6d70afb6554f6a"
+        }
+      ],
+      "en": {
+        "title": "Microsoft says Outlook and Teams services fully restored after global outage",
+        "subtitle": "The company says Microsoft 365 services were restored Saturday following an outage that disrupted communications across several countries.",
+        "facts": "On November 14, 2026, Microsoft announced that it had completed the recovery of services affected by a global outage that began on Thursday, November 12. Outlook, Teams and other Microsoft 365 products experienced disruptions affecting businesses and public agencies. The company attributed the incident to technical infrastructure and network changes and said it found no evidence of a cyberattack or activity by artificial intelligence agents. Reuters and the Associated Press reported the restoration announcement. Some residual effects, such as delayed messages, may still require attention.",
+        "analysis": "The outage highlighted reliance on a small number of cloud and workplace-service providers. Restoring service addresses the immediate disruption, but technical accountability and tested contingency plans are essential for courts, hospitals, businesses and government agencies.",
+        "counterpoint": "When email stops working, even major institutions discover why they need a backup plan. Microsoft says the systems are fixed; the next task is explaining the failure, demonstrating the repair and helping customers strengthen resilience.",
+        "category": "TECHNOLOGY",
+        "slug": "microsoft-says-outlook-and-teams-services-fully-restored-after-global-outage-2026-11-14"
+      },
+      "es": {
+        "title": "Microsoft anuncia la recuperación completa de Outlook y Teams tras una caída mundial",
+        "subtitle": "La empresa afirma que restableció el sábado los servicios de Microsoft 365 después de una falla que afectó las comunicaciones en varios países.",
+        "facts": "El 14 de noviembre de 2026, Microsoft anunció que había completado la recuperación de los servicios afectados por una caída mundial iniciada el jueves 12 de noviembre. Outlook, Teams y otros productos de Microsoft 365 sufrieron interrupciones que afectaron a empresas y organismos públicos. La compañía atribuyó el incidente a problemas técnicos de infraestructura y cambios en la red, y afirmó no haber encontrado indicios de un ciberataque ni de actividad de agentes de inteligencia artificial. Reuters y Associated Press informaron del anuncio de recuperación. Todavía pueden requerir atención algunos efectos residuales, como mensajes retrasados.",
+        "analysis": "La caída puso de manifiesto la dependencia de un pequeño número de proveedores de nube y herramientas de trabajo. Restablecer el servicio resuelve el problema inmediato, pero la rendición de cuentas técnica y los planes de contingencia probados son esenciales para tribunales, hospitales, empresas y administraciones públicas.",
+        "counterpoint": "Cuando deja de funcionar el correo electrónico, hasta las grandes instituciones descubren que necesitan un plan B. Microsoft afirma haber solucionado la falla; ahora debe explicar lo ocurrido, demostrar la corrección y ayudar a sus clientes a mejorar su resiliencia.",
+        "category": "TECNOLOGÍA",
+        "slug": "microsoft-anuncia-la-recuperacion-completa-de-outlook-y-teams-tras-una-caida-2026-11-14"
+      }
+    },
+    {
       "id": "ucrania-russia-1200-drones-ataques-volgogrado-2026-11-14",
       "date": "2026-11-14",
       "category": "MUNDO",
