@@ -5,7 +5,7 @@
   "updatedAt": "2026-11-12T10:05:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
-    {
+{
       "id": "pane-faa-eua-cancela-milhares-voos-2026-11-14",
       "date": "2026-11-14",
       "category": "MUNDO",
@@ -34,7 +34,10 @@
         "facts": "A communications and radar-data failure in the US air traffic control network prompted the Federal Aviation Administration (FAA) to temporarily halt departures nationwide on Friday, November 13, 2026. The suspension lasted more than four hours and was lifted around 8:15 p.m. Eastern Time. According to the Associated Press, more than 2,000 flights were canceled during the shutdown and over 2,500 additional cancellations were reported on Saturday, November 14, as airlines worked to reposition aircraft and crews. These figures are time-specific snapshots and may change. Federal officials preliminarily linked the disruption to overloaded aging equipment during technology upgrades, but the precise cause remains under investigation. Officials said they had found no evidence of a cyberattack. Reuters independently reported the nationwide halt and gradual resumption.",
         "analysis": "The disruption exposed the vulnerability of critical infrastructure and the difficulty of restoring airline schedules after a centralized outage. Even after departures resume, misplaced aircraft and crews can trigger cascading cancellations. Federal funding has been allocated to modernization, but the incident underscores the need for redundancy, testing and transparency about operational risks.",
         "counterpoint": "When an air traffic network fails, restarting the system is not the same as restoring normal travel: passengers remain stranded while airlines rebuild schedules. The central question is why such vital infrastructure still relies on equipment that cannot absorb upgrades without disrupting service.",
-        "category": "WORLD"
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (December 7, 2025): FAA control tower at Indianapolis International Airport, United States. Photo: AVA Navigate, CC BY-SA 4.0. Does not depict the November 14, 2026 outage or flight cancellations."
+        }
       },
       "es": {
         "title": "Falla del control aéreo de Estados Unidos provoca miles de cancelaciones y retrasos",
@@ -42,8 +45,22 @@
         "facts": "Una falla en las comunicaciones y los datos de radar de la red de control aéreo de Estados Unidos llevó a la Administración Federal de Aviación (FAA) a suspender temporalmente los despegues en todo el país el viernes 13 de noviembre de 2026. La interrupción duró más de cuatro horas y terminó alrededor de las 20:15, hora del este. Según Associated Press, se cancelaron más de 2.000 vuelos durante la paralización y se registraron más de 2.500 cancelaciones adicionales el sábado 14 de noviembre, mientras las aerolíneas reorganizaban aviones y tripulaciones. Las cifras corresponden a momentos concretos y pueden cambiar. Las autoridades federales vincularon preliminarmente la falla con la sobrecarga de equipos antiguos durante la incorporación de nuevas tecnologías, aunque la causa exacta sigue bajo investigación. Según los funcionarios, no había indicios de un ciberataque. Reuters confirmó la suspensión nacional y la reanudación gradual.",
         "analysis": "El episodio reveló la vulnerabilidad de una infraestructura crítica y las dificultades para normalizar los vuelos después de una interrupción centralizada. Incluso tras reanudar los despegues, los aviones y tripulaciones desplazados pueden provocar cancelaciones en cadena. Ya existen fondos federales para modernizar el sistema, pero la crisis subraya la necesidad de redundancia, pruebas y transparencia sobre los riesgos operativos.",
         "counterpoint": "Cuando falla una red de control aéreo, reiniciar el sistema no significa que los viajes hayan vuelto a la normalidad: los pasajeros siguen varados y las aerolíneas deben recomponer sus operaciones. La pregunta es por qué una infraestructura tan esencial todavía depende de equipos incapaces de soportar actualizaciones sin interrumpir el servicio.",
-        "category": "MUNDO"
-      }
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (7 de diciembre de 2025): torre de control de la FAA en el aeropuerto internacional de Indianápolis, Estados Unidos. Foto: AVA Navigate, CC BY-SA 4.0. No muestra la falla ni las cancelaciones de vuelos del 14 de noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/IND_FAA_air_traffic_control_tower.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "credit": "AVA Navigate / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:IND_FAA_air_traffic_control_tower.jpg",
+          "caption": "FOTO DE ARQUIVO (07/12/2025): torre da FAA no Aeroporto Internacional de Indianápolis, Estados Unidos. Foto: AVA Navigate, CC BY-SA 4.0. Não mostra a pane nem os cancelamentos de voos de 14/11/2026."
+        }
+      ]
     },
     {
       "id": "china-realiza-exercicios-navais-nao-anunciados-perto-taiwan-2026-11-14",
@@ -159,7 +176,7 @@
         }
       }
     },
-    {
+{
       "id": "microsoft-confirma-restabelecimento-servicos-apos-pane-global-2026-11-14",
       "date": "2026-11-14",
       "category": "TECNOLOGIA",
@@ -184,7 +201,10 @@
         "facts": "On November 14, 2026, Microsoft announced that it had completed the recovery of services affected by a global outage that began on Thursday, November 12. Outlook, Teams and other Microsoft 365 products experienced disruptions affecting businesses and public agencies. The company attributed the incident to technical infrastructure and network changes and said it found no evidence of a cyberattack or activity by artificial intelligence agents. Reuters and the Associated Press reported the restoration announcement. Some residual effects, such as delayed messages, may still require attention.",
         "analysis": "The outage highlighted reliance on a small number of cloud and workplace-service providers. Restoring service addresses the immediate disruption, but technical accountability and tested contingency plans are essential for courts, hospitals, businesses and government agencies.",
         "counterpoint": "When email stops working, even major institutions discover why they need a backup plan. Microsoft says the systems are fixed; the next task is explaining the failure, demonstrating the repair and helping customers strengthen resilience.",
-        "category": "TECHNOLOGY"
+        "category": "TECHNOLOGY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (July 27, 2006): outdoor plaza at Microsoft's Redmond campus in Washington state, United States. Photo: Jonathan Schilling, CC BY-SA 4.0. Illustrative image; does not show the November 2026 Outlook and Teams outage."
+        }
       },
       "es": {
         "title": "Microsoft anuncia la recuperación completa de Outlook y Teams tras una caída mundial",
@@ -192,10 +212,24 @@
         "facts": "El 14 de noviembre de 2026, Microsoft anunció que había completado la recuperación de los servicios afectados por una caída mundial iniciada el jueves 12 de noviembre. Outlook, Teams y otros productos de Microsoft 365 sufrieron interrupciones que afectaron a empresas y organismos públicos. La compañía atribuyó el incidente a problemas técnicos de infraestructura y cambios en la red, y afirmó no haber encontrado indicios de un ciberataque ni de actividad de agentes de inteligencia artificial. Reuters y Associated Press informaron del anuncio de recuperación. Todavía pueden requerir atención algunos efectos residuales, como mensajes retrasados.",
         "analysis": "La caída puso de manifiesto la dependencia de un pequeño número de proveedores de nube y herramientas de trabajo. Restablecer el servicio resuelve el problema inmediato, pero la rendición de cuentas técnica y los planes de contingencia probados son esenciales para tribunales, hospitales, empresas y administraciones públicas.",
         "counterpoint": "Cuando deja de funcionar el correo electrónico, hasta las grandes instituciones descubren que necesitan un plan B. Microsoft afirma haber solucionado la falla; ahora debe explicar lo ocurrido, demostrar la corrección y ayudar a sus clientes a mejorar su resiliencia.",
-        "category": "TECNOLOGÍA"
-      }
+        "category": "TECNOLOGÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (27 de julio de 2006): plaza exterior del campus de Microsoft en Redmond, Washington, Estados Unidos. Foto: Jonathan Schilling, CC BY-SA 4.0. Imagen ilustrativa; no muestra la falla de Outlook y Teams de noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Plaza_on_the_Microsoft_Redmond_campus.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "credit": "Jonathan Schilling / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Plaza_on_the_Microsoft_Redmond_campus.jpg",
+          "caption": "FOTO DE ARQUIVO (27/07/2006): área externa do campus da Microsoft em Redmond, Washington, EUA. Foto: Jonathan Schilling, CC BY-SA 4.0. Imagem ilustrativa; não mostra a falha do Outlook e do Teams em novembro de 2026."
+        }
+      ]
     },
-    {
+{
       "id": "ucrania-russia-1200-drones-ataques-volgogrado-2026-11-14",
       "date": "2026-11-14",
       "category": "MUNDO",
@@ -224,7 +258,10 @@
         "facts": "On November 14, 2026, the Associated Press reported that Russia's Defense Ministry said nearly 1,200 Ukrainian drones had been launched at targets in Russia overnight. The figure is a Russian official claim, not an independently verified count. AP reported seven deaths and 17 injuries across three Russian regions, while Ukrainian authorities said they had struck a major oil refinery in Volgograd. Reuters separately reported four deaths and two injuries in a Volgograd industrial area, citing the regional governor, but could not independently confirm a hit on the refinery. In Ukraine, AP reported Russian attacks involving 117 drones, at least two deaths and power outages in 12 regions. These preliminary figures may change.",
         "analysis": "The escalating drone campaign is putting energy infrastructure and civilians in both countries under growing pressure. Refineries are strategically important, but specific damage claims require independent evidence. The attacks come as US-led talks expand to European security arrangements, raising concerns among European governments.",
         "counterpoint": "The drone war has become a contest of enormous numbers and official narratives. Nearly 1,200 is Moscow's stated figure, not an independently audited result. The immediate priority remains the deaths, injuries and disruption of essential services, regardless of which government releases the tally.",
-        "category": "WORLD"
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (2010): Volgograd-City building complex in Volgograd, Russia. Photo: Dileks, public domain. Does not depict the November 2026 drone attacks, interceptions or casualties."
+        }
       },
       "es": {
         "title": "Rusia afirma haber interceptado casi 1.200 drones ucranianos en ataques que dejan muertos",
@@ -232,10 +269,24 @@
         "facts": "El 14 de noviembre de 2026, Associated Press informó que el Ministerio de Defensa ruso afirmó que casi 1.200 drones ucranianos fueron lanzados durante la noche contra objetivos en Rusia. La cifra es una declaración oficial rusa, no un recuento verificado de forma independiente. AP informó de siete muertos y 17 heridos en tres regiones rusas, mientras que autoridades ucranianas afirmaron haber atacado una importante refinería en Volgogrado. Reuters informó por separado de cuatro muertos y dos heridos en una zona industrial de Volgogrado, citando al gobernador regional, pero no confirmó de manera independiente el impacto en la refinería. En Ucrania, AP informó de ataques rusos con 117 drones, al menos dos muertos y cortes eléctricos en 12 regiones. Los balances son preliminares y pueden cambiar.",
         "analysis": "La escalada de ataques con drones aumenta la presión sobre la infraestructura energética y la población civil de ambos países. Las refinerías son objetivos estratégicos, pero las afirmaciones sobre daños específicos requieren pruebas independientes. Los ataques coinciden con negociaciones lideradas por Estados Unidos que también abordan la seguridad europea, lo que preocupa a varios gobiernos del continente.",
         "counterpoint": "La guerra de drones se ha convertido en una disputa de cifras enormes y versiones oficiales. Casi 1.200 es la cifra anunciada por Moscú, no el resultado de una auditoría independiente. Lo urgente son las muertes, los heridos y los servicios esenciales interrumpidos, independientemente del gobierno que publique el balance.",
-        "category": "MUNDO"
-      }
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (2010): edificio del complejo Volgograd-City en Volgogrado, Rusia. Foto: Dileks, dominio público. No muestra los ataques con drones, las intercepciones ni las víctimas de noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Volgograd-city.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público — obra liberada pelo autor (Dileks / PD-self)",
+          "credit": "Dileks / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Volgograd-city.jpg",
+          "caption": "FOTO DE ARQUIVO (2010): prédio do complexo Volgograd-City, na cidade russa de Volgogrado. Foto: Dileks, domínio público. Não retrata os ataques com drones, as interceptações ou as vítimas de novembro de 2026."
+        }
+      ]
     },
-    {
+{
       "id": "eua-registram-5412-casos-sarampo-cdc-2026-11-14",
       "date": "2026-11-14",
       "category": "SAÚDE",
@@ -264,7 +315,10 @@
         "facts": "On November 13, 2026, the US Centers for Disease Control and Prevention (CDC) reported 5,412 confirmed measles cases through November 12, up 230 from the previous tally of 5,182. The CDC published the figures, which Reuters also reported. The total includes 5,394 cases reported by 47 jurisdictions and 18 among international visitors. The Pan American Health Organization (PAHO) is reviewing whether at least 12 months of continuous transmission means the United States has lost its measles-elimination status. Reports on November 13 anticipated experts' conclusions, but no definitive public announcement by PAHO was independently verified during this reporting; this article therefore does not present the status change as officially announced.",
         "analysis": "The increase underscores the importance of epidemiological surveillance and vaccination coverage. Elimination means an absence of sustained endemic transmission, not an absence of imported cases. Health authorities say two doses of the MMR vaccine provide strong protection and that immunization helps prevent outbreaks.",
         "counterpoint": "Measles does not disappear because people choose to ignore it. Public debate should distinguish an officially announced health decision from media reports while recognizing the verified fact: cases are rising and prevention requires action.",
-        "category": "HEALTH"
+        "category": "HEALTH",
+        "photo_captions": {
+          "1": "ARCHIVE IMAGE (2024): colorized electron micrograph of a measles virus particle, produced by CDC and NIAID. U.S. public domain. Illustrates the disease, not the cases counted in 2026."
+        }
       },
       "es": {
         "title": "Estados Unidos registra 5.412 casos de sarampión en 2026, según los CDC",
@@ -272,10 +326,24 @@
         "facts": "El 13 de noviembre de 2026, los Centros para el Control y la Prevención de Enfermedades de Estados Unidos (CDC) informaron de 5.412 casos confirmados de sarampión hasta el 12 de noviembre, 230 más que los 5.182 del informe anterior. Los CDC publicaron las cifras, también difundidas por Reuters. El total incluye 5.394 casos notificados por 47 jurisdicciones y 18 entre visitantes internacionales. La Organización Panamericana de la Salud (OPS) evalúa si al menos 12 meses de transmisión continua implican la pérdida del estatus de eliminación del sarampión en Estados Unidos. Informaciones del 13 de noviembre adelantaron conclusiones de expertos, pero no se pudo verificar un anuncio público definitivo de la OPS durante esta investigación; por ello, esta nota no presenta el cambio de estatus como anunciado oficialmente.",
         "analysis": "El aumento evidencia la importancia de la vigilancia epidemiológica y de la cobertura de vacunación. La eliminación significa ausencia de transmisión endémica sostenida, no ausencia de casos importados. Las autoridades sanitarias señalan que dos dosis de la vacuna triple vírica ofrecen una elevada protección y que la inmunización ayuda a prevenir brotes.",
         "counterpoint": "El sarampión no desaparece porque alguien decida ignorarlo. El debate público debe distinguir una decisión sanitaria anunciada oficialmente de las informaciones periodísticas, sin perder de vista el dato comprobado: aumentan los casos y la prevención requiere medidas concretas.",
-        "category": "SALUD"
-      }
+        "category": "SALUD",
+        "photo_captions": {
+          "1": "IMAGEN DE ARCHIVO (2024): micrografía electrónica coloreada de una partícula del virus del sarampión, elaborada por CDC y NIAID. Dominio público en Estados Unidos. Ilustra la enfermedad, no los casos registrados en 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Measlesvirus.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público nos EUA — material do governo federal (NIAID/CDC, PD-USGov)",
+          "credit": "CDC / NIAID / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Measlesvirus.jpg",
+          "caption": "IMAGEM DE ARQUIVO (2024): micrografia eletrônica colorizada de uma partícula do vírus do sarampo, produzida pelo CDC e NIAID. Domínio público nos EUA. Ilustra a doença, não os casos contabilizados em 2026."
+        }
+      ]
     },
-    {
+{
       "id": "fachin-suspende-prazos-judiciais-pane-microsoft-2026-11-14",
       "date": "2026-11-14",
       "category": "JUSTIÇA",
@@ -296,7 +364,10 @@
         "facts": "Edson Fachin, president of Brazil's Supreme Federal Court (STF) and National Council of Justice (CNJ), suspended the counting of procedural deadlines on November 12 and 13, 2026, following disruptions to Microsoft services. Agência Brasil reported that the decision, requested by the Brazilian Bar Association (OAB), applies to the country's judiciary and that deadlines are expected to resume on Monday, November 16. Outlook and Teams were affected, while the electronic adjudication system and other judicial activities remained operational. Microsoft attributed the outage to server problems and said it was unaware of malicious activity.",
         "analysis": "The suspension aims to prevent procedural harm to lawyers and litigants who rely on digital communications. It also exposes the judiciary's reliance on external commercial platforms for administrative work, even where core case-processing systems remain available.",
         "counterpoint": "When a private service goes down and court deadlines have to stop, the obvious question is where the contingency plan went. The pause protects due process, but the infrastructure needs credible alternatives.",
-        "category": "JUSTICE"
+        "category": "JUSTICE",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (September 29, 2025): Edson Fachin at his inauguration as president of Brazil's Supreme Federal Court (STF), alongside Luiz Inácio Lula da Silva in Brasília. Photo: Ricardo Stuckert/PR, CC BY-SA 4.0. Does not depict the November 2026 deadline suspension."
+        }
       },
       "es": {
         "title": "Fachin suspende plazos judiciales tras una caída global de Microsoft",
@@ -304,10 +375,24 @@
         "facts": "Edson Fachin, presidente del Supremo Tribunal Federal (STF) y del Consejo Nacional de Justicia (CNJ) de Brasil, suspendió el cómputo de plazos procesales los días 12 y 13 de noviembre de 2026 tras fallas en servicios de Microsoft. Según Agência Brasil, la medida, solicitada por el Colegio de Abogados de Brasil (OAB), abarca al poder judicial nacional y el cómputo deberá reanudarse el lunes 16 de noviembre. Outlook y Teams resultaron afectados, mientras que el sistema electrónico de juicios y otras actividades jurisdiccionales siguieron funcionando. Microsoft atribuyó la interrupción a problemas en sus servidores y dijo no tener conocimiento de actividad maliciosa.",
         "analysis": "La suspensión busca evitar perjuicios procesales a abogados y partes que dependen de las comunicaciones digitales. También muestra la dependencia judicial de plataformas comerciales externas para tareas administrativas, aunque los sistemas centrales de tramitación sigan disponibles.",
         "counterpoint": "Cuando falla un servicio privado y los plazos judiciales deben detenerse, surge una pregunta inevitable: ¿dónde está el plan de contingencia? La pausa protege el derecho de defensa, pero la infraestructura necesita alternativas fiables.",
-        "category": "JUSTICIA"
-      }
+        "category": "JUSTICIA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (29 de septiembre de 2025): Edson Fachin en su toma de posesión como presidente del Supremo Tribunal Federal (STF), junto a Luiz Inácio Lula da Silva en Brasilia. Foto: Ricardo Stuckert/PR, CC BY-SA 4.0. No muestra la suspensión de plazos de noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/29.09.2025_%E2%80%93_Sess%C3%A3o_Solene_de_Posse_do_Ministro_Edson_Fachin_no_cargo_de_Presidente_e_do_Ministro_Alexandre_de_Moraes_no_cargo_de_Vice-Presidente_do_Supremo_Tribunal_Federal_e_do_Conselho_Nacional_de_Justi%C3%A7a_05.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "credit": "Ricardo Stuckert / Presidência da República / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:29.09.2025_%E2%80%93_Sess%C3%A3o_Solene_de_Posse_do_Ministro_Edson_Fachin_no_cargo_de_Presidente_e_do_Ministro_Alexandre_de_Moraes_no_cargo_de_Vice-Presidente_do_Supremo_Tribunal_Federal_e_do_Conselho_Nacional_de_Justi%C3%A7a_05.jpg",
+          "caption": "FOTO DE ARQUIVO (29/09/2025): Edson Fachin durante sua posse na presidência do STF, ao lado de Luiz Inácio Lula da Silva, em Brasília. Foto: Ricardo Stuckert/PR, CC BY-SA 4.0. Não retrata a suspensão de prazos de novembro de 2026."
+        }
+      ]
     },
-    {
+{
       "id": "lula-chega-filipinas-asean-parceria-comercial-2026-11-14",
       "date": "2026-11-14",
       "category": "MUNDO",
@@ -336,7 +421,10 @@
         "facts": "Brazilian President Luiz Inácio Lula da Silva arrived in the Philippines on November 13, 2026, for a state visit and to attend the 49th Association of Southeast Asian Nations (ASEAN) Summit as a guest. His official engagements are scheduled for November 14 and 15, including talks with Philippine President Ferdinand Marcos Jr. and the Brazil–Philippines Business Forum. Brazil is currently an ASEAN Sectoral Dialogue Partner and requested an upgrade to full Dialogue Partner status in January. The request had not been approved when the visit was announced. Trade, agriculture, energy and investment are among the planned topics. Agência Brasil reported the arrival and agenda, which were corroborated by the Philippine News Agency and GMA News.",
         "analysis": "Brazil is seeking to diversify its markets and strengthen institutional ties with Southeast Asia. Full dialogue partner status would provide additional diplomatic channels, but it would not itself constitute a trade agreement or guarantee immediate economic gains.",
         "counterpoint": "A presidential trip only delivers value when it produces access to markets, concrete investment and verifiable agreements. Taxpayers deserve results, not just official photographs.",
-        "category": "WORLD"
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (October 24, 2025): Luiz Inácio Lula da Silva visiting the ASEAN headquarters in Jakarta, Indonesia. Photo: Ricardo Stuckert/PR, CC BY-SA 4.0. Does not show his arrival in the Philippines on November 14, 2026."
+        }
       },
       "es": {
         "title": "Lula llega a Filipinas mientras Brasil busca fortalecer sus vínculos con la ASEAN",
@@ -344,8 +432,22 @@
         "facts": "El presidente brasileño Luiz Inácio Lula da Silva llegó a Filipinas el 13 de noviembre de 2026 para una visita de Estado y para participar como invitado en la 49.ª Cumbre de la Asociación de Naciones del Sudeste Asiático (ASEAN). Su agenda oficial está prevista para el 14 y 15 de noviembre e incluye una reunión con el presidente filipino Ferdinand Marcos Jr. y el Foro Empresarial Brasil–Filipinas. Brasil es actualmente socio de diálogo sectorial de la ASEAN y solicitó en enero convertirse en socio de diálogo pleno. La solicitud aún no había sido aprobada cuando se anunció la visita. Comercio, agricultura, energía e inversiones figuran entre los asuntos previstos. Agência Brasil informó sobre la llegada y la agenda, confirmadas también por Philippine News Agency y GMA News.",
         "analysis": "Brasil busca diversificar mercados y reforzar sus relaciones institucionales con el Sudeste Asiático. La condición de socio de diálogo pleno abriría canales diplomáticos adicionales, pero no equivaldría por sí misma a un acuerdo comercial ni garantizaría beneficios económicos inmediatos.",
         "counterpoint": "Una visita presidencial solo genera resultados cuando produce acceso a mercados, inversiones concretas y acuerdos verificables. Los contribuyentes merecen resultados, no solo fotografías oficiales.",
-        "category": "MUNDO"
-      }
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (24 de octubre de 2025): Luiz Inácio Lula da Silva durante una visita a la sede de la Asean en Yakarta, Indonesia. Foto: Ricardo Stuckert/PR, CC BY-SA 4.0. No muestra su llegada a Filipinas el 14 de noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/24.10.2025_%E2%80%93_Fotografia_oficial_%2854876252544%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "credit": "Ricardo Stuckert / Presidência da República / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:24.10.2025_%E2%80%93_Fotografia_oficial_%2854876252544%29.jpg",
+          "caption": "FOTO DE ARQUIVO (24/10/2025): Luiz Inácio Lula da Silva em visita à sede da Asean, em Jacarta, Indonésia. Foto: Ricardo Stuckert/PR, CC BY-SA 4.0. Não retrata a chegada às Filipinas em 14/11/2026."
+        }
+      ]
     },
     {
       "id": "cop31-guterres-cobra-corte-emissoes-combustiveis-fosseis-2026-11-14",
