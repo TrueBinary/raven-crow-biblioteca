@@ -6,6 +6,42 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "casa-branca-preve-conversa-trump-xi-putin-armas-nucleares-2026-11-14",
+      "date": "2026-11-14",
+      "category": "MUNDO",
+      "title": "Casa Branca prevê encontro de Trump, Xi e Putin para discutir armas nucleares",
+      "subtitle": "Governo americano anuncia intenção de abordar redução de arsenais na China; não há acordo nem negociação concluída.",
+      "facts": "A Casa Branca informou em 14 de novembro de 2026 que o presidente dos Estados Unidos, Donald Trump, pretende discutir redução de armamentos nucleares com os presidentes Vladimir Putin, da Rússia, e Xi Jinping, da China, durante encontro previsto para quinta-feira, à margem da reunião da APEC em Shenzhen. Segundo Reuters e Associated Press, autoridades americanas não esperam um acordo imediato e descrevem a iniciativa como possível início de conversas. Ainda não está esclarecido se Putin e Xi participarão de uma negociação trilateral específica sobre desarmamento. O tratado New START entre Estados Unidos e Rússia expirou em 2026; a China tem resistido a participar de negociações de limites nucleares com Washington e Moscou. A reunião é anunciada como futura, não como evento já realizado.",
+      "analysis": "A ausência de um acordo bilateral vigente entre Washington e Moscou torna a retomada do diálogo relevante, mas reunir três potências com arsenais muito diferentes cria obstáculos de verificação, reciprocidade e confiança. A confirmação da agenda e o conteúdo efetivo da conversa serão essenciais para avaliar resultados.",
+      "counterpoint": "Fotografia de três líderes à mesa pode render manchete histórica; redução verificável de ogivas é bem mais difícil. O teste não será o aperto de mãos, mas se surgirem compromissos concretos e mecanismos de fiscalização.",
+      "sources": [
+        {
+          "name": "Reuters — Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says, 14/11/2026",
+          "url": "https://www.reuters.com/world/china/trump-meet-putin-xi-china-white-house-says-2026-11-14/"
+        },
+        {
+          "name": "Associated Press — Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, 14/11/2026",
+          "url": "https://apnews.com/article/5fe92253ef38100bae913834a9b74d72"
+        }
+      ],
+      "en": {
+        "title": "White House says Trump plans nuclear-arms talks with Xi and Putin",
+        "subtitle": "US officials see the planned China meeting as a possible opening for negotiations, not an imminent deal.",
+        "facts": "On November 14, 2026, the White House said US President Donald Trump plans to discuss nuclear-arms reductions with Russian President Vladimir Putin and Chinese President Xi Jinping at a meeting expected on Thursday on the sidelines of APEC in Shenzhen. Reuters and the Associated Press reported that US officials do not expect an immediate agreement and see the initiative as a possible starting point. It remains unclear whether Putin and Xi will join a specific three-way arms-control negotiation. The US-Russia New START treaty expired in 2026, while China has resisted joining nuclear limits talks with Washington and Moscow. The meeting is planned, not yet held.",
+        "analysis": "With no current bilateral US-Russia nuclear limits treaty, renewed dialogue matters. But the three countries' vastly different arsenals pose major challenges for verification, reciprocity and trust. Confirming the agenda and what is actually discussed will be crucial.",
+        "counterpoint": "A photograph of three leaders at a table could make history's front page; verifiably reducing warheads is much harder. The real test is whether concrete commitments and inspection mechanisms emerge.",
+        "category": "WORLD"
+      },
+      "es": {
+        "title": "La Casa Blanca anuncia que Trump prevé hablar de armas nucleares con Xi y Putin",
+        "subtitle": "Washington considera la reunión prevista en China como posible inicio de negociaciones, sin acuerdo inmediato.",
+        "facts": "El 14 de noviembre de 2026, la Casa Blanca informó que el presidente estadounidense Donald Trump pretende abordar la reducción de armas nucleares con el presidente ruso Vladimir Putin y el presidente chino Xi Jinping durante una reunión prevista para el jueves, al margen de la APEC en Shenzhen. Reuters y Associated Press señalaron que las autoridades estadounidenses no esperan un acuerdo inmediato y consideran la iniciativa un posible punto de partida. Todavía no está claro si Putin y Xi participarán en una negociación trilateral específica de control de armamentos. El tratado New START entre Estados Unidos y Rusia expiró en 2026, mientras China se ha resistido a negociar límites nucleares con Washington y Moscú. La reunión está prevista, pero aún no se ha celebrado.",
+        "analysis": "Sin un tratado bilateral vigente entre Washington y Moscú, retomar el diálogo es relevante. Sin embargo, las grandes diferencias entre los arsenales plantean desafíos de verificación, reciprocidad y confianza. Será esencial confirmar la agenda y el contenido real de las conversaciones.",
+        "counterpoint": "Una foto de tres dirigentes reunidos puede ocupar una portada histórica; reducir ojivas de manera verificable es bastante más difícil. La prueba serán los compromisos concretos y los mecanismos de inspección.",
+        "category": "MUNDO"
+      }
+    },
+    {
       "id": "zelensky-rejeita-ceder-donbas-proposta-otan-2026-11-14",
       "date": "2026-11-14",
       "category": "MUNDO",
