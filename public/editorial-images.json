@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "china-realiza-exercicios-navais-nao-anunciados-perto-taiwan-2026-11-14": "editorial/covers/china-realiza-exercicios-navais-nao-anunciados-perto-taiwan-2026-11-14.svg",
     "asean-mantem-restricoes-mianmar-antes-cupula-manila-2026-11-14": "editorial/covers/asean-mantem-restricoes-mianmar-antes-cupula-manila-2026-11-14.svg",
     "microsoft-confirma-restabelecimento-servicos-apos-pane-global-2026-11-14": "editorial/covers/microsoft-confirma-restabelecimento-servicos-apos-pane-global-2026-11-14.svg",
     "ucrania-russia-1200-drones-ataques-volgogrado-2026-11-14": "editorial/covers/ucrania-russia-1200-drones-ataques-volgogrado-2026-11-14.svg",
@@ -315,7 +316,8 @@
     "anvisa-recolhe-lote-anestesico-bupivacaina-particula-2026-11-13": "editorial/photos/anvisa-recolhe-lote-anestesico-bupivacaina-particula-2026-11-13.jpg",
     "o-algoritmo-mandou-e-a-consciencia-pediu-demissao-2026-11-11": "editorial/photos/o-algoritmo-mandou-e-a-consciencia-pediu-demissao-2026-11-11.jpg",
     "o-botao-aceitar-tudo-e-a-liberdade-de-nao-escolher-2026-11-10": "editorial/photos/o-botao-aceitar-tudo-e-a-liberdade-de-nao-escolher-2026-11-10.jpg",
-    "asean-mantem-restricoes-mianmar-antes-cupula-manila-2026-11-14": "editorial/photos/asean-mantem-restricoes-mianmar-antes-cupula-manila-2026-11-14.jpg"
+    "asean-mantem-restricoes-mianmar-antes-cupula-manila-2026-11-14": "editorial/photos/asean-mantem-restricoes-mianmar-antes-cupula-manila-2026-11-14.jpg",
+    "china-realiza-exercicios-navais-nao-anunciados-perto-taiwan-2026-11-14": "editorial/photos/china-realiza-exercicios-navais-nao-anunciados-perto-taiwan-2026-11-14.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -1211,6 +1213,12 @@
       "srcset": "editorial/photos/asean-mantem-restricoes-mianmar-antes-cupula-manila-2026-11-14-320.webp 320w, editorial/photos/asean-mantem-restricoes-mianmar-antes-cupula-manila-2026-11-14-640.webp 640w, editorial/photos/asean-mantem-restricoes-mianmar-antes-cupula-manila-2026-11-14-960.webp 960w, editorial/photos/asean-mantem-restricoes-mianmar-antes-cupula-manila-2026-11-14-1280.webp 1280w",
       "width": 1280,
       "height": 720
+    },
+    "china-realiza-exercicios-navais-nao-anunciados-perto-taiwan-2026-11-14": {
+      "src": "editorial/photos/china-realiza-exercicios-navais-nao-anunciados-perto-taiwan-2026-11-14-1280.webp",
+      "srcset": "editorial/photos/china-realiza-exercicios-navais-nao-anunciados-perto-taiwan-2026-11-14-320.webp 320w, editorial/photos/china-realiza-exercicios-navais-nao-anunciados-perto-taiwan-2026-11-14-640.webp 640w, editorial/photos/china-realiza-exercicios-navais-nao-anunciados-perto-taiwan-2026-11-14-960.webp 960w, editorial/photos/china-realiza-exercicios-navais-nao-anunciados-perto-taiwan-2026-11-14-1280.webp 1280w",
+      "width": 1280,
+      "height": 853
     }
   }
 }
