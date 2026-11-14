@@ -1,6 +1,76 @@
 {
   "articles": [
     {
+      "id": "riot-league-of-legends-new-dawn-teaser-2026-11-14",
+      "date": "2026-11-14",
+      "category": "CULTURA",
+      "title": "Riot apresenta 'League of Legends: New Dawn' em teaser oficial e reacende debate sobre o futuro do jogo",
+      "subtitle": "Prévia publicada em 14 de novembro no canal oficial de League of Legends mostra uma nova direção visual; mudanças definitivas e cronograma ainda exigem anúncios detalhados da desenvolvedora.",
+      "facts": "A Riot Games divulgou em 14 de novembro de 2026, no canal oficial de League of Legends no YouTube, o vídeo intitulado 'League of Legends: New Dawn Teaser'. A prévia apresenta imagens de personagens e do universo do jogo e provocou discussões sobre seu visual e possíveis alterações em elementos de jogabilidade. Nas comunidades de jogadores, parte do público elogiou a nova aparência, enquanto outros a compararam à estética de Wild Rift. O material confirma a existência do teaser, mas não autoriza tratar especulações sobre um 'League of Legends 2', troca de motor gráfico, recursos definitivos ou data de lançamento como fatos oficialmente anunciados.",
+      "analysis": "O lançamento do teaser em meio à atenção voltada ao Mundial de 2026 sinaliza a tentativa da Riot de renovar o interesse no seu principal jogo competitivo. Um vídeo promocional, porém, mostra uma direção artística e ideias em apresentação: ainda será necessário acompanhar comunicados técnicos para saber quais mudanças chegarão ao cliente, ao mapa e às partidas.",
+      "counterpoint": "A internet já começou a chamar a prévia de 'LoL 2', mas um apelido de fã não é anúncio de sequência. Entre o entusiasmo e as críticas ao visual, o dado concreto é mais simples: a Riot publicou New Dawn; os detalhes ainda precisam de confirmação oficial.",
+      "sources": [
+        {
+          "name": "League of Legends — New Dawn Teaser, canal oficial no YouTube, 14/11/2026",
+          "url": "https://www.youtube.com/watch?v=vs3p3mNhRXo"
+        },
+        {
+          "name": "Comunidade r/leagueoflegends — discussão pública do teaser, 14/11/2026",
+          "url": "https://www.reddit.com/r/leagueoflegends/comments/1xwej2m/league_of_legends_new_dawn_teaser/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/2019_League_of_Legends_World_Championship_Finals_-_Opening_Ceremony.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 3.0 Unported",
+          "credit": "G2 Esports / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:2019_League_of_Legends_World_Championship_Finals_-_Opening_Ceremony.jpg",
+          "caption": "FOTO DE ARQUIVO (2019): cerimônia de abertura da final do Mundial de League of Legends, com apresentação holográfica. G2 Esports / Wikimedia Commons (CC BY 3.0). Não retrata o teaser New Dawn divulgado em 14/11/2026."
+        }
+      ],
+      "videos": [
+        {
+          "youtube": "https://www.youtube.com/watch?v=vs3p3mNhRXo",
+          "start": 0,
+          "placement": "top",
+          "caption": "Teaser oficial League of Legends: New Dawn, publicado pela Riot Games em 14 de novembro de 2026. O vídeo começa no início da prévia.",
+          "credit": "League of Legends / Riot Games"
+        }
+      ],
+      "en": {
+        "title": "Riot unveils 'League of Legends: New Dawn' in official teaser, sparking debate about the game's future",
+        "subtitle": "The preview published on November 14 on League of Legends' official channel points to a new visual direction; final features and a release timetable still require detailed confirmation from the developer.",
+        "facts": "On November 14, 2026, Riot Games released a video titled 'League of Legends: New Dawn Teaser' on the official League of Legends YouTube channel. The preview features game characters and imagery and prompted discussion about its look and possible gameplay changes. Some players praised the new visuals, while others compared the style with Wild Rift. The teaser's release is confirmed, but speculation about 'League of Legends 2', an engine change, final features or a launch date should not be reported as official announcements.",
+        "analysis": "Releasing the teaser while attention is focused on Worlds 2026 suggests Riot is seeking to renew interest in its flagship competitive game. A promotional preview, however, conveys a creative direction rather than a final technical specification: further official updates are needed to establish which changes will reach the client, map and gameplay.",
+        "counterpoint": "Fans are already calling the preview 'LoL 2', but a community nickname is not an official sequel announcement. Beyond excitement and criticism over the art style, the confirmed news is simpler: Riot has released New Dawn, with details still to come.",
+        "category": "CULTURE",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (2019): opening ceremony of the League of Legends World Championship final featuring holographic effects. G2 Esports / Wikimedia Commons (CC BY 3.0). Does not depict the New Dawn teaser released on November 14, 2026."
+        },
+        "video_captions": {
+          "1": "Official League of Legends: New Dawn teaser released by Riot Games on November 14, 2026; playback starts at the beginning."
+        },
+        "slug": "riot-unveils-league-of-legends-new-dawn-in-official-teaser-sparking-debate-2026-11-14"
+      },
+      "es": {
+        "title": "Riot presenta 'League of Legends: New Dawn' en un teaser oficial y reabre el debate sobre el futuro del juego",
+        "subtitle": "El avance publicado el 14 de noviembre en el canal oficial de League of Legends apunta a una nueva dirección visual; las funciones definitivas y el calendario de lanzamiento aún requieren confirmación detallada de la desarrolladora.",
+        "facts": "El 14 de noviembre de 2026, Riot Games publicó en el canal oficial de League of Legends en YouTube el video titulado 'League of Legends: New Dawn Teaser'. El avance muestra personajes e imágenes del universo del juego y abrió un debate sobre su aspecto y posibles cambios de jugabilidad. Algunos jugadores celebraron la renovación visual y otros la compararon con el estilo de Wild Rift. El lanzamiento del teaser está confirmado, pero las especulaciones sobre un 'League of Legends 2', un cambio de motor gráfico, funciones definitivas o una fecha de estreno no deben presentarse como anuncios oficiales.",
+        "analysis": "Publicar el teaser mientras la atención se centra en el Mundial de 2026 sugiere que Riot busca renovar el interés por su principal juego competitivo. Sin embargo, un adelanto promocional expresa una dirección creativa, no una especificación técnica final: harán falta nuevos comunicados oficiales para saber qué cambios llegarán al cliente, al mapa y a las partidas.",
+        "counterpoint": "Los aficionados ya llaman al avance 'LoL 2', pero un apodo de la comunidad no equivale al anuncio de una secuela. Más allá del entusiasmo y las críticas al estilo visual, la noticia confirmada es sencilla: Riot publicó New Dawn y aún faltan detalles oficiales.",
+        "category": "CULTURA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (2019): ceremonia de apertura de la final del Mundial de League of Legends con efectos holográficos. G2 Esports / Wikimedia Commons (CC BY 3.0). No muestra el teaser New Dawn publicado el 14 de noviembre de 2026."
+        },
+        "video_captions": {
+          "1": "Teaser oficial de League of Legends: New Dawn publicado por Riot Games el 14 de noviembre de 2026; la reproducción comienza al inicio."
+        },
+        "slug": "riot-presenta-league-of-legends-new-dawn-en-un-teaser-oficial-y-reabre-el-2026-11-14"
+      }
+    },
+    {
       "id": "portugal-protestos-habitacao-32-cidades-2026-11-14",
       "date": "2026-11-14",
       "category": "MUNDO",
@@ -30,6 +100,9 @@
         "analysis": "The dispute pits policies aimed at increasing construction and rental supply against calls for stronger tenant protections and price regulation. Their impact on availability, prices and contract security requires evidence. The nationwide protests underline the political importance of housing affordability but do not establish which policy will work.",
         "counterpoint": "When wages no longer keep pace with the cost of a roof, owning a home starts to look like a luxury. The test is not who promises the cheapest rent but who can make more homes available without leaving struggling households behind.",
         "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (October 18, 2026): housing protest in Rossio Square, Lisbon, Portugal. Afonso Dimas Martins / Wikimedia Commons (CC BY-SA 4.0). Does not depict the November 14, 2026 protests."
+        },
         "slug": "housing-protests-spread-across-32-portuguese-cities-as-prices-soar-2026-11-14"
       },
       "es": {
@@ -39,8 +112,22 @@
         "analysis": "El debate enfrenta políticas para estimular la construcción y la oferta de alquileres con demandas de mayor regulación y protección de los inquilinos. Sus efectos sobre disponibilidad, precios y seguridad contractual deben evaluarse con datos. La movilización nacional demuestra la relevancia política del problema, pero no prueba qué política será eficaz.",
         "counterpoint": "Cuando los salarios ya no alcanzan para pagar un techo, tener casa propia parece un lujo. La cuestión no es quién promete el alquiler más barato, sino quién logra ampliar la oferta sin abandonar a las familias que no pueden afrontar los gastos.",
         "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (18 de octubre de 2026): protesta por la vivienda en Rossio, Lisboa, Portugal. Afonso Dimas Martins / Wikimedia Commons (CC BY-SA 4.0). No muestra las manifestaciones del 14 de noviembre de 2026."
+        },
         "slug": "portugal-registra-protestas-por-vivienda-en-32-ciudades-ante-la-subida-de-2026-11-14"
-      }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Protest_for_housing_in_Rossio_2026.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0",
+          "credit": "Afonso Dimas Martins / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Protest_for_housing_in_Rossio_2026.jpg",
+          "caption": "FOTO DE ARQUIVO (18/10/2026): manifestação por moradia no Rossio, em Lisboa, Portugal. Afonso Dimas Martins / Wikimedia Commons (CC BY-SA 4.0). Não retrata os atos de 14/11/2026."
+        }
+      ]
     },
     {
       "id": "ira-relata-petroleiro-em-chamas-mina-estreito-ormuz-2026-11-14",
@@ -68,6 +155,9 @@
         "analysis": "Repeated reports of maritime incidents raise concerns about shipping safety and energy supplies. Without a named vessel, verified imagery and independent maritime findings, the reported mine strike cannot be treated as established fact.",
         "counterpoint": "In a waterway central to global energy trade, every report of a burning tanker raises tensions. But a headline is no substitute for an investigation: which ship was involved, what happened, and who verified it?",
         "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (February 22, 2014): the Navion Oslo oil tanker in the Netherlands. Roel Hemkes / Flickr (CC BY 2.0). Illustrative image; not the vessel or incident reported in the Strait of Hormuz in November 2026."
+        },
         "slug": "iran-says-oil-tanker-caught-fire-after-hitting-mine-in-strait-of-hormuz-2026-11-14"
       },
       "es": {
@@ -77,8 +167,22 @@
         "analysis": "Los informes reiterados sobre incidentes marítimos aumentan la preocupación por la seguridad de la navegación y el suministro energético. Sin identificar el buque, contar con imágenes verificadas y disponer de una investigación marítima independiente, no puede darse por probado el impacto de una mina.",
         "counterpoint": "En una vía clave para el comercio energético, cada noticia sobre un petrolero en llamas aumenta la tensión. Pero un titular no sustituye a una investigación: hay que saber qué buque estuvo implicado, qué ocurrió y quién lo confirmó.",
         "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (22 de febrero de 2014): petrolero Navion Oslo en los Países Bajos. Roel Hemkes / Flickr (CC BY 2.0). Imagen ilustrativa; no muestra el buque ni el incidente denunciado en el estrecho de Ormuz en noviembre de 2026."
+        },
         "slug": "iran-afirma-que-un-petrolero-se-incendio-tras-chocar-con-una-mina-en-ormuz-2026-11-14"
-      }
+      },
+      "photos": [
+        {
+          "url": "https://live.staticflickr.com/7460/13228434303_bdd53be2ed_o.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 2.0",
+          "credit": "Roel Hemkes / Flickr, via Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Crude_oil_tanker_Navion_Oslo_(13228434303).jpg",
+          "caption": "FOTO DE ARQUIVO (22/02/2014): petroleiro Navion Oslo nos Países Baixos. Roel Hemkes / Flickr (CC BY 2.0). Imagem ilustrativa; não mostra o navio ou o incidente relatado no estreito de Ormuz em novembro de 2026."
+        }
+      ]
     },
     {
       "id": "casa-branca-preve-conversa-trump-xi-putin-armas-nucleares-2026-11-14",
@@ -106,6 +210,9 @@
         "analysis": "With no current bilateral US-Russia nuclear limits treaty, renewed dialogue matters. But the three countries' vastly different arsenals pose major challenges for verification, reciprocity and trust. Confirming the agenda and what is actually discussed will be crucial.",
         "counterpoint": "A photograph of three leaders at a table could make history's front page; verifiably reducing warheads is much harder. The real test is whether concrete commitments and inspection mechanisms emerge.",
         "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (September 2, 2025): Vladimir Putin and Xi Jinping in Beijing, China. Kremlin.ru / Russian Presidency (CC BY 4.0). Does not depict the meeting announced for November 2026; Donald Trump is not pictured."
+        },
         "slug": "white-house-says-trump-plans-nuclear-arms-talks-with-xi-and-putin-2026-11-14"
       },
       "es": {
@@ -115,8 +222,22 @@
         "analysis": "Sin un tratado bilateral vigente entre Washington y Moscú, retomar el diálogo es relevante. Sin embargo, las grandes diferencias entre los arsenales plantean desafíos de verificación, reciprocidad y confianza. Será esencial confirmar la agenda y el contenido real de las conversaciones.",
         "counterpoint": "Una foto de tres dirigentes reunidos puede ocupar una portada histórica; reducir ojivas de manera verificable es bastante más difícil. La prueba serán los compromisos concretos y los mecanismos de inspección.",
         "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (2 de septiembre de 2025): Vladimir Putin y Xi Jinping en Pekín, China. Kremlin.ru / Presidencia de Rusia (CC BY 4.0). No muestra la reunión anunciada para noviembre de 2026; Donald Trump no aparece en la foto."
+        },
         "slug": "la-casa-blanca-anuncia-que-trump-preve-hablar-de-armas-nucleares-con-xi-y-putin-2026-11-14"
-      }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vladimir_Putin_and_Xi_Jinping_%282025%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 4.0",
+          "credit": "Kremlin.ru / Presidência da Rússia / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_and_Xi_Jinping_(2025).jpg",
+          "caption": "FOTO DE ARQUIVO (02/09/2025): Vladimir Putin e Xi Jinping em Pequim, China. Kremlin.ru / Presidência da Rússia (CC BY 4.0). Não retrata o encontro anunciado para novembro de 2026; Donald Trump não aparece na imagem."
+        }
+      ]
     },
     {
       "id": "zelensky-rejeita-ceder-donbas-proposta-otan-2026-11-14",
@@ -140,6 +261,9 @@
         "analysis": "The suggestion underscores the tension between territorial integrity, security guarantees and Russia's opposition to Ukrainian NATO membership. A negotiating idea is not a diplomatic commitment. A referendum, NATO accession requirements and member-state consent would create further hurdles.",
         "counterpoint": "Trading territory for a security promise may look straightforward on a negotiating map, but not to the people living there. The real test is whether any proposal can secure lasting peace without rewarding military conquest or bypassing Ukrainians' wishes.",
         "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (November 24, 2023): Ukrainian Presidency image related to Volodymyr Zelensky's Holodomor Remembrance Day address. Presidency of Ukraine (CC0 1.0). Does not depict the statements or negotiations of November 2026."
+        },
         "slug": "zelenskyy-says-us-raised-donbas-for-nato-idea-in-ukraine-peace-talks-2026-11-14"
       },
       "es": {
@@ -149,8 +273,22 @@
         "analysis": "La idea refleja el choque entre la integridad territorial, las garantías de seguridad y la oposición rusa al ingreso ucraniano en la OTAN. Una hipótesis de negociación no equivale a un compromiso diplomático. Un referéndum, las condiciones de adhesión y el consentimiento de los miembros de la alianza serían obstáculos adicionales.",
         "counterpoint": "Intercambiar territorio por una promesa de seguridad puede parecer sencillo sobre un mapa, pero no para quienes viven allí. Lo esencial es saber si alguna propuesta puede garantizar una paz duradera sin premiar la conquista militar ni ignorar la voluntad de los ucranianos.",
         "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (24 de noviembre de 2023): imagen de la Presidencia de Ucrania relacionada con el discurso de Volodymyr Zelensky por el Día de Conmemoración de las Víctimas del Holodomor. Presidencia de Ucrania (CC0 1.0). No muestra las declaraciones ni las negociaciones de noviembre de 2026."
+        },
         "slug": "zelenski-afirma-que-ee-uu-planteo-intercambiar-donbas-por-el-ingreso-de-ucrania-2026-11-14"
-      }
+      },
+      "photos": [
+        {
+          "url": "https://live.staticflickr.com/65535/53354892099_ecf9684c7e_o.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC0 1.0 Universal",
+          "credit": "Presidência da Ucrânia / Flickr, via Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Address_of_the_President_of_Ukraine_on_the_occasion_of_the_Day_of_Remembrance_of_the_Victims_of_the_Holodomors._(53354892099).jpg",
+          "caption": "FOTO DE ARQUIVO (24/11/2023): registro da Presidência da Ucrânia relacionado a pronunciamento de Volodymyr Zelensky no Dia de Memória das Vítimas do Holodomor. Presidência da Ucrânia (CC0 1.0). Não retrata as declarações ou negociações de novembro de 2026."
+        }
+      ]
     },
     {
       "id": "pane-faa-eua-cancela-milhares-voos-2026-11-14",

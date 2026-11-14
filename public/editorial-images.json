@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "riot-league-of-legends-new-dawn-teaser-2026-11-14": "editorial/covers/riot-league-of-legends-new-dawn-teaser-2026-11-14.svg",
     "portugal-protestos-habitacao-32-cidades-2026-11-14": "editorial/covers/portugal-protestos-habitacao-32-cidades-2026-11-14.svg",
     "ira-relata-petroleiro-em-chamas-mina-estreito-ormuz-2026-11-14": "editorial/covers/ira-relata-petroleiro-em-chamas-mina-estreito-ormuz-2026-11-14.svg",
     "casa-branca-preve-conversa-trump-xi-putin-armas-nucleares-2026-11-14": "editorial/covers/casa-branca-preve-conversa-trump-xi-putin-armas-nucleares-2026-11-14.svg",
@@ -329,7 +330,12 @@
     "eua-registram-5412-casos-sarampo-cdc-2026-11-14": "editorial/photos/eua-registram-5412-casos-sarampo-cdc-2026-11-14.jpg",
     "fachin-suspende-prazos-judiciais-pane-microsoft-2026-11-14": "editorial/photos/fachin-suspende-prazos-judiciais-pane-microsoft-2026-11-14.jpg",
     "lula-chega-filipinas-asean-parceria-comercial-2026-11-14": "editorial/photos/lula-chega-filipinas-asean-parceria-comercial-2026-11-14.jpg",
-    "o-chefe-quer-votar-pelo-funcionario-2026-11-14": "editorial/photos/o-chefe-quer-votar-pelo-funcionario-2026-11-14.jpg"
+    "o-chefe-quer-votar-pelo-funcionario-2026-11-14": "editorial/photos/o-chefe-quer-votar-pelo-funcionario-2026-11-14.jpg",
+    "riot-league-of-legends-new-dawn-teaser-2026-11-14": "editorial/photos/riot-league-of-legends-new-dawn-teaser-2026-11-14.jpg",
+    "portugal-protestos-habitacao-32-cidades-2026-11-14": "editorial/photos/portugal-protestos-habitacao-32-cidades-2026-11-14.jpg",
+    "ira-relata-petroleiro-em-chamas-mina-estreito-ormuz-2026-11-14": "editorial/photos/ira-relata-petroleiro-em-chamas-mina-estreito-ormuz-2026-11-14.jpg",
+    "casa-branca-preve-conversa-trump-xi-putin-armas-nucleares-2026-11-14": "editorial/photos/casa-branca-preve-conversa-trump-xi-putin-armas-nucleares-2026-11-14.jpg",
+    "zelensky-rejeita-ceder-donbas-proposta-otan-2026-11-14": "editorial/photos/zelensky-rejeita-ceder-donbas-proposta-otan-2026-11-14.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -1273,6 +1279,36 @@
       "srcset": "editorial/photos/o-chefe-quer-votar-pelo-funcionario-2026-11-14-320.webp 320w, editorial/photos/o-chefe-quer-votar-pelo-funcionario-2026-11-14-640.webp 640w, editorial/photos/o-chefe-quer-votar-pelo-funcionario-2026-11-14-960.webp 960w, editorial/photos/o-chefe-quer-votar-pelo-funcionario-2026-11-14-1280.webp 1280w",
       "width": 1280,
       "height": 853
+    },
+    "riot-league-of-legends-new-dawn-teaser-2026-11-14": {
+      "src": "editorial/photos/riot-league-of-legends-new-dawn-teaser-2026-11-14-946.webp",
+      "srcset": "editorial/photos/riot-league-of-legends-new-dawn-teaser-2026-11-14-320.webp 320w, editorial/photos/riot-league-of-legends-new-dawn-teaser-2026-11-14-640.webp 640w, editorial/photos/riot-league-of-legends-new-dawn-teaser-2026-11-14-946.webp 946w",
+      "width": 946,
+      "height": 519
+    },
+    "portugal-protestos-habitacao-32-cidades-2026-11-14": {
+      "src": "editorial/photos/portugal-protestos-habitacao-32-cidades-2026-11-14-1280.webp",
+      "srcset": "editorial/photos/portugal-protestos-habitacao-32-cidades-2026-11-14-320.webp 320w, editorial/photos/portugal-protestos-habitacao-32-cidades-2026-11-14-640.webp 640w, editorial/photos/portugal-protestos-habitacao-32-cidades-2026-11-14-960.webp 960w, editorial/photos/portugal-protestos-habitacao-32-cidades-2026-11-14-1280.webp 1280w",
+      "width": 1280,
+      "height": 960
+    },
+    "ira-relata-petroleiro-em-chamas-mina-estreito-ormuz-2026-11-14": {
+      "src": "editorial/photos/ira-relata-petroleiro-em-chamas-mina-estreito-ormuz-2026-11-14-1280.webp",
+      "srcset": "editorial/photos/ira-relata-petroleiro-em-chamas-mina-estreito-ormuz-2026-11-14-320.webp 320w, editorial/photos/ira-relata-petroleiro-em-chamas-mina-estreito-ormuz-2026-11-14-640.webp 640w, editorial/photos/ira-relata-petroleiro-em-chamas-mina-estreito-ormuz-2026-11-14-960.webp 960w, editorial/photos/ira-relata-petroleiro-em-chamas-mina-estreito-ormuz-2026-11-14-1280.webp 1280w",
+      "width": 1280,
+      "height": 962
+    },
+    "casa-branca-preve-conversa-trump-xi-putin-armas-nucleares-2026-11-14": {
+      "src": "editorial/photos/casa-branca-preve-conversa-trump-xi-putin-armas-nucleares-2026-11-14-1280.webp",
+      "srcset": "editorial/photos/casa-branca-preve-conversa-trump-xi-putin-armas-nucleares-2026-11-14-320.webp 320w, editorial/photos/casa-branca-preve-conversa-trump-xi-putin-armas-nucleares-2026-11-14-640.webp 640w, editorial/photos/casa-branca-preve-conversa-trump-xi-putin-armas-nucleares-2026-11-14-960.webp 960w, editorial/photos/casa-branca-preve-conversa-trump-xi-putin-armas-nucleares-2026-11-14-1280.webp 1280w",
+      "width": 1280,
+      "height": 790
+    },
+    "zelensky-rejeita-ceder-donbas-proposta-otan-2026-11-14": {
+      "src": "editorial/photos/zelensky-rejeita-ceder-donbas-proposta-otan-2026-11-14-1280.webp",
+      "srcset": "editorial/photos/zelensky-rejeita-ceder-donbas-proposta-otan-2026-11-14-320.webp 320w, editorial/photos/zelensky-rejeita-ceder-donbas-proposta-otan-2026-11-14-640.webp 640w, editorial/photos/zelensky-rejeita-ceder-donbas-proposta-otan-2026-11-14-960.webp 960w, editorial/photos/zelensky-rejeita-ceder-donbas-proposta-otan-2026-11-14-1280.webp 1280w",
+      "width": 1280,
+      "height": 854
     }
   }
 }
