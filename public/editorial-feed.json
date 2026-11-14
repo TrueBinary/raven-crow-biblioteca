@@ -1,6 +1,48 @@
 {
   "articles": [
     {
+      "id": "portugal-protestos-habitacao-32-cidades-2026-11-14",
+      "date": "2026-11-14",
+      "category": "MUNDO",
+      "title": "Portugal tem protestos por moradia em 32 cidades diante da disparada dos preços",
+      "subtitle": "Manifestantes exigem aluguéis acessíveis e proteção contra despejos; governo aposta em construção e mudanças tributárias.",
+      "facts": "Milhares de pessoas participaram neste sábado, 14 de novembro de 2026, de manifestações por habitação acessível em Portugal. A mobilização, convocada pela plataforma Casa Para Viver, alcançou 32 cidades e localidades, incluindo Lisboa e Porto, conforme relatos da emissora pública RTP, da Associated Press e do Diário de Notícias. Os participantes pediram medidas para conter os custos dos aluguéis, ampliar a oferta de habitação pública e reforçar a proteção contra despejos. Segundo a AP, os preços das casas aumentaram quase 20% entre o início de 2025 e o início de 2026, e os aluguéis acumularam alta de 68% desde 2020. O governo de Luís Montenegro defende que mudanças na legislação do arrendamento e incentivos à construção ajudarão a ampliar a oferta; os organizadores contestam essas medidas por considerarem que fragilizam os inquilinos. As estimativas de público variam entre as fontes, portanto não há balanço nacional independente consolidado.",
+      "analysis": "O conflito contrapõe duas abordagens: ampliar a construção e estimular proprietários a ofertar imóveis, ou reforçar limites e garantias aos inquilinos. Ambas exigem avaliação de efeitos sobre oferta, preços e segurança contratual. A escala nacional da mobilização demonstra o peso político da crise habitacional, mas não prova por si só a eficácia das propostas em disputa.",
+      "counterpoint": "Quando o salário já não acompanha o preço de um teto, a casa própria vira artigo de luxo. O desafio não é apenas prometer aluguel barato: é criar condições para que existam mais casas disponíveis sem abandonar quem já não consegue pagar as contas.",
+      "sources": [
+        {
+          "name": "Associated Press — Tens of thousands march in Portuguese cities against surging home prices, 14/11/2026",
+          "url": "https://apnews.com/article/9605c8504a2e25b9f36266dd43ddcb23"
+        },
+        {
+          "name": "RTP — Protesto junta milhares de pessoas pelo direito a morar, 14/11/2026",
+          "url": "https://www.rtp.pt/noticias/economia/protesto-junta-milhares-de-pessoas-pelo-direito-a-morar_e1779157"
+        },
+        {
+          "name": "Diário de Notícias — Crise da habitação leva protestos a 32 cidades, 14/11/2026",
+          "url": "https://www.dn.pt/sociedade/pelo-direito-a-morar-com-governo-na-mira-dos-manifestantes-crise-da-habitao-leva-protestos-a-32-cidades"
+        }
+      ],
+      "en": {
+        "title": "Housing protests spread across 32 Portuguese cities as prices soar",
+        "subtitle": "Demonstrators demand affordable rents and protection from evictions; government favors construction incentives and tax changes.",
+        "facts": "On November 14, 2026, thousands of people joined housing affordability demonstrations across 32 Portuguese cities and towns, including Lisbon and Porto. The protests were organized by the Casa Para Viver coalition, according to public broadcaster RTP, the Associated Press and Diário de Notícias. Protesters called for action on rents, more public housing and stronger safeguards against evictions. AP reported that home prices rose nearly 20% between early 2025 and early 2026, while rents have increased 68% since 2020. Prime Minister Luís Montenegro's government argues that rental-law changes and construction incentives will expand supply; organizers say the proposals weaken tenant protections. Estimates of turnout vary, and there is no independently verified national total.",
+        "analysis": "The dispute pits policies aimed at increasing construction and rental supply against calls for stronger tenant protections and price regulation. Their impact on availability, prices and contract security requires evidence. The nationwide protests underline the political importance of housing affordability but do not establish which policy will work.",
+        "counterpoint": "When wages no longer keep pace with the cost of a roof, owning a home starts to look like a luxury. The test is not who promises the cheapest rent but who can make more homes available without leaving struggling households behind.",
+        "category": "WORLD",
+        "slug": "housing-protests-spread-across-32-portuguese-cities-as-prices-soar-2026-11-14"
+      },
+      "es": {
+        "title": "Portugal registra protestas por vivienda en 32 ciudades ante la subida de precios",
+        "subtitle": "Los manifestantes exigen alquileres asequibles y protección frente a desalojos; el Gobierno apuesta por incentivos a la construcción.",
+        "facts": "El 14 de noviembre de 2026, miles de personas participaron en manifestaciones por el acceso a la vivienda en 32 ciudades y localidades de Portugal, entre ellas Lisboa y Oporto. Las protestas fueron convocadas por la plataforma Casa Para Viver, según RTP, Associated Press y Diário de Notícias. Los participantes reclamaron medidas sobre los alquileres, más vivienda pública y mayor protección frente a los desalojos. AP informó que los precios de las viviendas aumentaron casi un 20 % entre principios de 2025 y principios de 2026, mientras que los alquileres subieron un 68 % desde 2020. El Gobierno de Luís Montenegro sostiene que los cambios en la legislación de arrendamientos y los incentivos a la construcción ampliarán la oferta; los organizadores creen que debilitan a los inquilinos. Las estimaciones de asistencia difieren y no existe una cifra nacional independiente consolidada.",
+        "analysis": "El debate enfrenta políticas para estimular la construcción y la oferta de alquileres con demandas de mayor regulación y protección de los inquilinos. Sus efectos sobre disponibilidad, precios y seguridad contractual deben evaluarse con datos. La movilización nacional demuestra la relevancia política del problema, pero no prueba qué política será eficaz.",
+        "counterpoint": "Cuando los salarios ya no alcanzan para pagar un techo, tener casa propia parece un lujo. La cuestión no es quién promete el alquiler más barato, sino quién logra ampliar la oferta sin abandonar a las familias que no pueden afrontar los gastos.",
+        "category": "MUNDO",
+        "slug": "portugal-registra-protestas-por-vivienda-en-32-ciudades-ante-la-subida-de-2026-11-14"
+      }
+    },
+    {
       "id": "ira-relata-petroleiro-em-chamas-mina-estreito-ormuz-2026-11-14",
       "date": "2026-11-14",
       "category": "MUNDO",
