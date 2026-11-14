@@ -34,7 +34,10 @@
         "facts": "On November 13, 2026, at COP31 in Antalya, Türkiye, UN Secretary-General António Guterres called for immediate and drastic reductions in greenhouse gas emissions. Reuters and the Associated Press reported his appeal and divisions over how the final negotiating text should address fossil fuels. The summit runs from November 9 to 20. Countries are discussing efforts to expand electrification, but the proposed increase in electricity's share of global energy consumption does not require all power to come from renewable sources. No final agreement was announced that day.",
         "analysis": "Negotiations pit climate urgency against transition costs, energy security and the financing needs of developing economies. Electrification alone cannot guarantee matching emissions cuts if electricity continues to be generated from high-emission sources. Funding and measurable implementation remain essential.",
         "counterpoint": "Strong speeches are easier than cutting emissions without increasing costs for households. COP31 needs workable targets, transparent results and real financing, not merely another declaration.",
-        "category": "WORLD"
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "FILE PHOTO (September 23, 2025): António Guterres at a meeting at UN headquarters in New York. Photo: Daniel Torok/White House. Does not depict COP31."
+        }
       },
       "es": {
         "title": "En la COP31, Guterres exige recortes drásticos de emisiones mientras persisten divisiones sobre los combustibles fósiles",
@@ -42,8 +45,22 @@
         "facts": "El 13 de noviembre de 2026, durante la COP31 en Antalya, Turquía, el secretario general de la ONU, António Guterres, pidió reducciones inmediatas y drásticas de las emisiones de gases de efecto invernadero. Reuters y Associated Press informaron sobre su llamamiento y las divergencias respecto del tratamiento de los combustibles fósiles en el texto final. La conferencia se celebra del 9 al 20 de noviembre. Los países debaten ampliar la electrificación, pero la propuesta de elevar la participación de la electricidad en el consumo energético mundial no exige que toda provenga de fuentes renovables. Ese día no se anunció ningún acuerdo definitivo.",
         "analysis": "Las negociaciones enfrentan la urgencia climática con los costos de transición, la seguridad energética y las necesidades de financiación de los países en desarrollo. La electrificación no garantiza por sí sola reducciones equivalentes de emisiones si la generación sigue dependiendo de fuentes contaminantes. La financiación y la aplicación verificable son fundamentales.",
         "counterpoint": "Los discursos contundentes son más fáciles que reducir emisiones sin elevar el costo de vida. La COP31 necesita objetivos viables, resultados transparentes y financiación real, no solo otra declaración.",
-        "category": "MUNDO"
-      }
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (23/09/2025): António Guterres durante una reunión en la sede de la ONU en Nueva York. Foto: Daniel Torok/Casa Blanca. No corresponde a la COP31."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Antonio_Guterres_2025_headshot.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público — fotografia oficial do governo dos EUA",
+          "credit": "Daniel Torok / Casa Branca",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Antonio_Guterres_2025_headshot.jpg",
+          "caption": "FOTO DE ARQUIVO (23/09/2025): António Guterres em reunião na sede da ONU, em Nova York. Foto: Daniel Torok/Casa Branca. Não retrata a COP31."
+        }
+      ]
     },
     {
       "id": "casa-branca-confirma-encontro-trump-xi-putin-apec-2026-11-14",
@@ -131,7 +148,10 @@
         "facts": "Brazilian singer Claudette Soares died at age 91 in São Paulo, according to a statement released by her team on November 13, 2026. Reports differ on the exact time of death: some place it on the night of Thursday, November 12, while others say early Friday, November 13. Her representatives said she went to sleep and did not wake up. Her album O Mundo É Ruim pra Quem Não Sabe Esperar, featuring previously unreleased compositions, reached streaming services on November 13. Born in Rio de Janeiro, she began singing on radio as a child and was nicknamed Princesinha do Baião by Luiz Gonzaga before becoming a leading bossa nova interpreter.",
         "analysis": "Soares's career spanned more than eight decades, from baião and bossa nova to jazz, samba and romantic songs. The proximity of her death announcement to the album's release gives the record the weight of a farewell, but there is no basis for saying it was intended as a posthumous release. She had attended a listening session only days earlier.",
         "counterpoint": "The strongest tribute is to listen to the music and recognize an artist who helped shape Brazilian popular song. Conflicting reports about the exact date of death should be clarified by her family or representatives rather than guessed at.",
-        "category": "CULTURE"
+        "category": "CULTURE",
+        "photo_captions": {
+          "1": "FILE PHOTO (June 30, 2007): Claudette Soares performing in Rio de Janeiro. Photo: Sandro Coutinho. Does not depict events in November 2026."
+        }
       },
       "es": {
         "title": "Muere a los 91 años Claudette Soares, referente brasileña de la bossa nova",
@@ -139,8 +159,22 @@
         "facts": "La cantante Claudette Soares murió a los 91 años en São Paulo, según un comunicado divulgado por su equipo el 13 de noviembre de 2026. Las informaciones difieren sobre el momento exacto: algunas sitúan la muerte en la noche del jueves 12 y otras en la madrugada del viernes 13. Sus representantes señalaron que se acostó y no despertó. El 13 de noviembre llegó a las plataformas su álbum O Mundo É Ruim pra Quem Não Sabe Esperar, con composiciones inéditas. Nacida en Rio de Janeiro, comenzó a cantar en la radio de niña, recibió de Luiz Gonzaga el apodo Princesinha do Baião y se convirtió en una voz destacada de la bossa nova.",
         "analysis": "Su trayectoria abarcó más de ocho décadas y estilos como baião, bossa nova, jazz, samba y canción romántica. La coincidencia entre el anuncio de su muerte y el lanzamiento confiere al disco un carácter de despedida, pero no demuestra que se hubiera concebido como obra póstuma. La cantante había asistido a una audición del proyecto pocos días antes.",
         "counterpoint": "El mejor homenaje es escuchar su repertorio y reconocer su contribución a la música brasileña. Las discrepancias sobre la fecha exacta de su muerte deben aclararse con la familia o sus representantes, no resolverse mediante conjeturas.",
-        "category": "CULTURA"
-      }
+        "category": "CULTURA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (30/06/2007): Claudette Soares actúa en Río de Janeiro. Foto: Sandro Coutinho. No corresponde a los acontecimientos de noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Claudette_Soares_by_Sandro_Coutinho_wiki.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público — disponibilizada pelo autor",
+          "credit": "Sandro Coutinho / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Claudette_Soares_by_Sandro_Coutinho_wiki.jpg",
+          "caption": "FOTO DE ARQUIVO (30/06/2007): Claudette Soares se apresenta no Rio de Janeiro. Foto: Sandro Coutinho. Não retrata os acontecimentos de novembro de 2026."
+        }
+      ]
     },
     {
       "id": "anvisa-recolhe-lote-anestesico-bupivacaina-particula-2026-11-13",
@@ -167,7 +201,10 @@
         "facts": "On November 13, 2026, Brazil's National Health Surveillance Agency (Anvisa) ordered the recall of batch AR-001/25 of Bupivacaine Hydrochloride + Glucose (5 + 80 mg/ml), supplied in boxes of 100 four-milliliter ampoules and manufactured by Hipolabor Farmacêutica. The measure was published in the federal official gazette. According to Anvisa, São Paulo's Adolfo Lutz Institute found a foreign particle in a sample, leading to an unsatisfactory quality assessment of the product's appearance. The batch may not be sold, distributed or used. The same resolution separately banned advertising for cannabis and mushroom products marketed by Medkaya.",
         "analysis": "The recall is a public-health safeguard against use of a specific batch that failed quality checks. It does not amount to a blanket ban on bupivacaine or all products made by the manufacturer. Hospitals, distributors and healthcare professionals should verify batch numbers and follow official recall instructions. Patients concerned about medication used in procedures should contact their care teams rather than make treatment changes on their own.",
         "counterpoint": "Drug quality control is not mere bureaucracy: patients need confidence that medicines meet safety standards. But turning a single-batch recall into a claim that all anesthetics are unsafe would be misleading. The right questions concern the scope of the action and the manufacturer's response.",
-        "category": "HEALTH"
+        "category": "HEALTH",
+        "photo_captions": {
+          "1": "ARCHIVAL INSTITUTIONAL IMAGE (2015): official Anvisa logo. Does not show the recalled anesthetic batch."
+        }
       },
       "es": {
         "title": "Anvisa ordena retirar un lote de anestésico tras detectar una partícula extraña",
@@ -175,8 +212,22 @@
         "facts": "El 13 de noviembre de 2026, la Agencia Nacional de Vigilancia Sanitaria de Brasil (Anvisa) ordenó retirar el lote AR-001/25 de Clorhidrato de Bupivacaína + Glucosa (5 + 80 mg/ml), presentado en cajas de 100 ampollas de 4 ml y fabricado por Hipolabor Farmacêutica. La medida se publicó en el diario oficial federal. Según Anvisa, el Instituto Adolfo Lutz, de São Paulo, detectó una partícula extraña en una muestra, por lo que el medicamento recibió un resultado insatisfactorio en la evaluación de su aspecto. El lote no puede venderse, distribuirse ni utilizarse. La misma resolución también prohibió, por separado, la publicidad de productos de cannabis y hongos comercializados por Medkaya.",
         "analysis": "La retirada busca evitar el uso de un lote específico que no cumplió los controles de calidad. No representa una prohibición general de la bupivacaína ni de todos los productos del fabricante. Hospitales, distribuidores y profesionales sanitarios deben comprobar los números de lote y seguir las instrucciones oficiales. Los pacientes con dudas sobre medicamentos utilizados en procedimientos deben consultar a sus equipos médicos, sin modificar tratamientos por cuenta propia.",
         "counterpoint": "El control de calidad de los medicamentos no es un simple trámite: los pacientes necesitan garantías. Pero presentar la retirada de un lote como prueba de que todos los anestésicos son inseguros sería alarmista. Lo importante es conocer el alcance de la medida y la respuesta del fabricante.",
-        "category": "SALUD"
-      }
+        "category": "SALUD",
+        "photo_captions": {
+          "1": "IMAGEN INSTITUCIONAL DE ARCHIVO (2015): logotipo oficial de Anvisa. No muestra el lote de anestésico retirado."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_da_Anvisa.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC0 1.0",
+          "credit": "Agência Nacional de Vigilância Sanitária / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Logotipo_da_Anvisa.jpg",
+          "caption": "IMAGEM INSTITUCIONAL DE ARQUIVO (2015): logotipo oficial da Anvisa. Não mostra o lote de anestésico recolhido."
+        }
+      ]
     },
     {
       "id": "eua-suspendem-decolagens-falha-comunicacao-faa-2026-11-13",
