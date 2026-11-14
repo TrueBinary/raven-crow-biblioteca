@@ -1,7 +1,81 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-14T10:00:00-03:00",
   "essays": [
+    {
+      "id": "o-banco-tem-lugar-mas-a-cidade-nao-quer-que-voce-sente-2026-11-14",
+      "section": "Política e sociedade",
+      "date": "2026-11-14",
+      "title": "O BANCO TEM LUGAR. A CIDADE É QUE NÃO QUER QUE VOCÊ SENTE.",
+      "subtitle": "Quando o mobiliário urbano vira porteiro, a praça deixa de receber gente e passa a selecionar quem merece ficar.",
+      "eyebrow": "OPINIÃO",
+      "paragraphs": [
+        "Há um banco de praça que parece ter sido desenhado por alguém que considera o descanso uma infração administrativa. Ele tem assento, encosto, pés de metal e uma coleção de divisórias cuidadosamente posicionadas para impedir que uma pessoa se deite. O arquiteto deve ter recebido um pedido singelo — fazer um lugar para sentar — e entregado uma tese de doutorado sobre como ninguém deve ficar confortável demais. A cidade oferece o banco com uma mão e, com a outra, mede quantos centímetros de humanidade podem caber nele.",
+        "Não é só uma questão de mau gosto. A chamada arquitetura hostil usa objetos, materiais e formatos para desencorajar determinadas formas de permanência no espaço urbano. Às vezes o alvo é quem dorme na rua; outras vezes, jovens, idosos ou qualquer pessoa que precise parar. O banco com divisórias pode ser útil a quem deseja apoio para se levantar, e essa finalidade não deve ser descartada automaticamente. Mas quando o projeto é escolhido para expulsar corpos em vez de acolher pessoas, a pergunta deixa de ser estética: a quem pertence, afinal, a praça?",
+        "O Brasil chegou a legislar sobre o assunto. A Lei 14.489, de 21 de dezembro de 2022, conhecida como Lei Padre Júlio Lancellotti, alterou o Estatuto da Cidade para vedar técnicas construtivas hostis em espaços livres de uso público, quando tenham como objetivo ou resultado afastar pessoas em situação de rua, idosos, jovens e outros grupos. A norma surgiu após o Congresso rejeitar o veto total do então presidente Jair Bolsonaro. A ironia histórica é irresistível: foi preciso mobilizar Câmara, Senado, veto, derrubada de veto e Diário Oficial para recordar que um espaço público deveria, em alguma medida, ser utilizável pelo público.",
+        "Existe um argumento sério do outro lado. Moradores e comerciantes têm razões legítimas para pedir segurança, limpeza, circulação e preservação dos equipamentos. Uma praça abandonada, sem manutenção e tomada por riscos concretos também deixa de servir à comunidade. A resposta, porém, precisa distinguir proteção de expulsão. Não se combate a falta de moradia instalando um obstáculo que torna impossível deitar; apenas se transfere a pessoa para a próxima calçada. O problema social continua inteiro, só mudou de CEP. É uma política pública que funciona como varrer a sujeira para debaixo do tapete e depois contratar uma empresa para fotografar o tapete.",
+        "Há uma inversão curiosa nessa engenharia da exclusão. A cidade arrecada impostos para manter espaços de convivência, mas por vezes trata a permanência como se fosse um abuso do usuário. O cidadão pode circular, consumir, trabalhar e pagar; descansar já parece um pedido de privilégio. Não estou defendendo que qualquer pessoa possa ocupar indefinidamente qualquer equipamento, nem que a solução para a população de rua seja um banco mais macio. Estou dizendo que o desenho da cidade revela uma hierarquia moral: alguns são convidados a permanecer, outros recebem instruções silenciosas para desaparecer.",
+        "A tradição cristã fala de dignidade humana sem exigir comprovante de residência para reconhecê-la. Isso não fornece um manual de urbanismo nem elimina os dilemas de segurança e orçamento. Mas estabelece uma exigência incômoda para governos de qualquer partido: uma pessoa não deixa de ser pessoa porque atrapalha a fotografia da revitalização. A responsabilidade pública exige políticas de moradia, assistência, saúde e manutenção urbana que possam ser avaliadas por resultados. É mais difícil do que instalar uma barra de ferro, claro. Barras de ferro não fazem perguntas, não votam e dificilmente aparecem na audiência pública.",
+        "Voltemos ao banco. Ele continua impecável na fotografia oficial: pintura nova, calçada limpa, placa de inauguração e espaço suficiente para um discurso de vinte minutos sobre inclusão. Falta apenas alguém conseguir descansar ali. Uma cidade civilizada não precisa escolher entre ordem e humanidade; precisa ter competência para perseguir ambas. Quando o mobiliário urbano começa a expulsar justamente quem mais necessita de abrigo, talvez a obra tenha ficado pronta, mas o projeto de sociedade permaneceu inacabado. O banco está ocupado — não por uma pessoa, e sim pelo medo de que alguém se sente."
+      ],
+      "sources": [
+        {
+          "title": "Lei 14.489/2022 — Lei Padre Júlio Lancellotti, texto da norma",
+          "url": "https://www2.camara.leg.br/legin/fed/lei/2022/lei-14489-21-dezembro-2022-793527-norma-pl.html"
+        },
+        {
+          "title": "Congresso Nacional — Veto 55/2022, rejeitado em 16 de dezembro de 2022",
+          "url": "https://www.congressonacional.leg.br/materias/vetos/-/veto/detalhe/15489"
+        },
+        {
+          "title": "Agência Senado — Lei Padre Júlio Lancellotti é promulgada, 22/12/2022",
+          "url": "https://www12.senado.leg.br/noticias/materias/2022/12/22/lei-padre-julio-lancellotti-que-proibe-arquitetura-hostil-e-promulgada"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Park_bench_charlotte.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "SamLibbey / Wikimedia Commons",
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Park_bench_charlotte.jpg",
+          "caption": "FOTO DE ARQUIVO (09/02/2024), Charlotte, Carolina do Norte, EUA: banco dividido por barras diante de um hotel. Exemplo de mobiliário urbano associado ao debate sobre arquitetura hostil; não retrata acontecimento recente no Brasil."
+        }
+      ],
+      "en": {
+        "title": "THE BENCH HAS ROOM. THE CITY JUST DOESN'T WANT YOU TO SIT.",
+        "subtitle": "When street furniture becomes a bouncer, the square stops welcoming people and starts deciding who deserves to stay.",
+        "eyebrow": "OPINION",
+        "section": "Politics and society",
+        "paragraphs": [
+          "Some park benches look as though their designers regard resting as an administrative offence. They have a seat, a backrest, metal legs and a carefully arranged set of dividers to prevent anyone from lying down. The architect was apparently asked to make somewhere to sit and submitted a doctoral thesis on why no one should get too comfortable. The city offers a bench with one hand and uses the other to measure how much humanity can fit on it.",
+          "This is more than bad taste. So-called hostile architecture uses objects, materials and shapes to discourage certain ways of occupying urban space. Sometimes the target is someone sleeping rough; sometimes it is young people, older residents or anyone who needs to stop. Dividers can also help people stand up, and that legitimate purpose should not automatically be dismissed. But when a design is chosen to drive bodies away rather than welcome people, the question ceases to be aesthetic: who does the square belong to?",
+          "Brazil has legislated on the issue. Law 14,489 of December 21, 2022, known as the Padre Júlio Lancellotti Law, amended the City Statute to prohibit hostile construction techniques in public open spaces when their purpose or effect is to drive away people experiencing homelessness, older people, young people and other groups. It followed Congress's rejection of a total veto by then-president Jair Bolsonaro. The historical irony is exquisite: it took the Chamber of Deputies, the Senate, a veto, an overridden veto and an official publication to remind everyone that public space ought, to some extent, to be usable by the public.",
+          "There is a serious objection. Residents and businesses have legitimate reasons to demand safety, cleanliness, accessibility and protection of public facilities. A neglected square with real hazards no longer serves its community either. But the response must distinguish protection from expulsion. You do not solve homelessness by installing an obstacle that prevents someone from lying down; you move that person to the next pavement. The social problem remains intact, merely changing its postal code. It is the urban equivalent of sweeping dirt under a rug and then hiring a photographer to celebrate the rug.",
+          "Here is the strange reversal. A city collects taxes to maintain shared spaces, yet sometimes treats the act of remaining there as an abuse. Citizens may walk, shop, work and pay; resting starts to look like a request for special privileges. I am not arguing that anyone may occupy any facility indefinitely, or that softer benches solve homelessness. I am arguing that urban design reveals a moral hierarchy: some people are invited to stay, while others receive silent instructions to disappear.",
+          "Christian tradition speaks of human dignity without demanding proof of address first. That does not provide an urban-planning manual or erase genuine dilemmas of safety and budgets. It does impose an uncomfortable standard on governments of every political stripe: a person does not stop being a person because they spoil the photograph of a redevelopment project. Public responsibility requires housing, welfare, health and maintenance policies judged by their outcomes. That is harder than fitting a metal bar, of course. Metal bars do not ask questions, cast votes or show up at public hearings.",
+          "Back to the bench. It looks immaculate in the official photograph: fresh paint, clean pavement, an inauguration plaque and enough room for a twenty-minute speech about inclusion. All that is missing is somewhere a person can actually rest. A civilized city need not choose between order and humanity; it needs the competence to pursue both. When street furniture starts pushing away those most in need of shelter, the construction may be finished, but the social project remains incomplete. The bench is occupied — not by a person, but by the fear that someone might sit down."
+        ],
+        "photo_caption": "ARCHIVE PHOTO (February 9, 2024), Charlotte, North Carolina, USA: a bench divided by metal bars outside a hotel. Illustrates the debate over hostile architecture; not a recent event in Brazil."
+      },
+      "es": {
+        "title": "EL BANCO TIENE SITIO. LA CIUDAD NO QUIERE QUE TE SIENTES.",
+        "subtitle": "Cuando el mobiliario urbano se vuelve portero, la plaza deja de acoger personas y empieza a seleccionar quién merece quedarse.",
+        "eyebrow": "OPINIÓN",
+        "section": "Política y sociedad",
+        "paragraphs": [
+          "Hay bancos de plaza que parecen diseñados por alguien que considera el descanso una infracción administrativa. Tienen asiento, respaldo, patas metálicas y una colección de separadores colocados con precisión para impedir que alguien se tumbe. Al arquitecto debieron pedirle un lugar para sentarse y entregó una tesis doctoral sobre cómo evitar que nadie se acomode demasiado. La ciudad ofrece el banco con una mano y con la otra mide cuánta humanidad cabe en él.",
+          "No es solo cuestión de mal gusto. La llamada arquitectura hostil utiliza objetos, materiales y formas para desalentar ciertas maneras de permanecer en el espacio urbano. A veces apunta a quien duerme en la calle; otras, a jóvenes, mayores o cualquiera que necesite detenerse. Los separadores también pueden ayudar a levantarse y esa utilidad legítima no debe descartarse sin más. Pero cuando el diseño se elige para expulsar cuerpos en vez de acoger personas, la pregunta deja de ser estética: ¿de quién es, al fin y al cabo, la plaza?",
+          "Brasil legisló sobre el asunto. La Ley 14.489, del 21 de diciembre de 2022, conocida como Ley Padre Júlio Lancellotti, modificó el Estatuto de la Ciudad para prohibir técnicas constructivas hostiles en espacios abiertos de uso público cuando su objetivo o resultado sea alejar a personas sin hogar, mayores, jóvenes y otros grupos. La norma llegó después de que el Congreso rechazara el veto total del entonces presidente Jair Bolsonaro. La ironía histórica es irresistible: hicieron falta Cámara, Senado, veto, anulación del veto y Diario Oficial para recordar que un espacio público debería poder utilizarlo el público.",
+          "Hay una objeción seria. Vecinos y comerciantes tienen motivos legítimos para exigir seguridad, limpieza, accesibilidad y conservación de los equipamientos. Una plaza abandonada, sin mantenimiento y con peligros reales tampoco sirve a la comunidad. Pero la respuesta debe distinguir protección de expulsión. No se resuelve la falta de vivienda instalando un obstáculo que impide tumbarse: solo se traslada a la persona a la siguiente acera. El problema social sigue intacto, aunque cambie de código postal. Es como barrer la suciedad debajo de la alfombra y después contratar a un fotógrafo para celebrar la alfombra.",
+          "Hay una inversión curiosa en esa ingeniería de la exclusión. La ciudad recauda impuestos para mantener espacios compartidos, pero a veces trata la permanencia como un abuso del usuario. El ciudadano puede circular, consumir, trabajar y pagar; descansar ya parece pedir un privilegio. No sostengo que cualquiera pueda ocupar indefinidamente cualquier equipamiento ni que un banco más blando resuelva el sinhogarismo. Digo que el diseño urbano revela una jerarquía moral: unos reciben una invitación a quedarse y otros instrucciones silenciosas para desaparecer.",
+          "La tradición cristiana habla de dignidad humana sin exigir antes un certificado de domicilio. Eso no constituye un manual de urbanismo ni elimina los dilemas reales de seguridad y presupuesto. Pero impone una exigencia incómoda a gobiernos de cualquier partido: una persona no deja de ser persona porque estorbe la fotografía de una remodelación. La responsabilidad pública requiere políticas de vivienda, asistencia, salud y mantenimiento urbano evaluables por sus resultados. Es más difícil que instalar una barra de hierro, desde luego. Las barras no hacen preguntas, no votan y rara vez comparecen en una audiencia pública.",
+          "Volvamos al banco. Luce impecable en la fotografía oficial: pintura nueva, acera limpia, placa inaugural y espacio suficiente para un discurso de veinte minutos sobre inclusión. Solo falta que alguien pueda descansar allí. Una ciudad civilizada no tiene por qué elegir entre orden y humanidad; necesita capacidad para perseguir ambas. Cuando el mobiliario urbano empieza a expulsar precisamente a quienes más necesitan refugio, puede que la obra esté terminada, pero el proyecto de sociedad sigue inconcluso. El banco está ocupado: no por una persona, sino por el miedo a que alguien se siente."
+        ],
+        "photo_caption": "FOTO DE ARCHIVO (09/02/2024), Charlotte, Carolina del Norte, EE. UU.: banco dividido por barras metálicas frente a un hotel. Ilustra el debate sobre arquitectura hostil; no representa un hecho reciente en Brasil."
+      }
+    },
     {
       "id": "a-burocracia-pediu-um-documento-para-provar-que-o-documento-existe-2026-11-13",
       "section": "Política e sociedade",
