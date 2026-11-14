@@ -1,6 +1,48 @@
 {
   "articles": [
     {
+      "id": "ucrania-russia-1200-drones-ataques-volgogrado-2026-11-14",
+      "date": "2026-11-14",
+      "category": "MUNDO",
+      "title": "Rússia afirma ter interceptado quase 1.200 drones ucranianos; ataques deixam mortos",
+      "subtitle": "Ofensiva de grande escala atinge regiões russas; Ucrânia relata ataque a refinaria em Volgogrado, enquanto bombardeios russos também causam vítimas e apagões.",
+      "facts": "Em 14 de novembro de 2026, a Associated Press informou que o Ministério da Defesa russo contabilizou quase 1.200 drones ucranianos lançados contra alvos na Rússia durante a noite. O número é uma alegação oficial russa, não uma contagem independente. Segundo a AP, ataques em três regiões russas deixaram sete mortos e 17 feridos, enquanto autoridades ucranianas afirmaram ter atingido uma importante refinaria em Volgogrado. A Reuters relatou separadamente quatro mortes e dois feridos em uma zona industrial de Volgogrado, citando o governador regional; não confirmou de forma independente que a refinaria tenha sido atingida. Na Ucrânia, a AP relatou ataques russos com 117 drones, pelo menos duas mortes e interrupções elétricas em 12 regiões. Os balanços são preliminares e podem mudar.",
+      "analysis": "A escalada dos ataques com drones amplia a pressão sobre infraestrutura energética e sobre a população civil dos dois países. Refinarias são alvos de valor estratégico porque abastecem a economia e a logística, mas a confirmação de danos específicos exige provas independentes. O episódio ocorre enquanto negociações lideradas pelos Estados Unidos discutem também a segurança europeia, questão que preocupa governos do continente.",
+      "counterpoint": "A guerra dos drones virou uma disputa de números gigantescos e versões oficiais. Quase 1.200 aparelhos é a cifra anunciada por Moscou, não um resultado de auditoria independente. O que exige atenção imediata são as mortes, os feridos e os serviços essenciais interrompidos, independentemente de qual governo divulga o balanço.",
+      "sources": [
+        {
+          "name": "Associated Press — Ukraine launches nearly 1,200 drones at Russia, 14/11/2026",
+          "url": "https://apnews.com/article/157d168cb7ff9cae318cbf6cecb3988f"
+        },
+        {
+          "name": "Reuters — Four killed in Ukrainian drone strike on industrial zone in Volgograd, 13/11/2026",
+          "url": "https://www.reuters.com/world/europe/four-killed-ukrainian-drone-strike-industrial-zone-russias-volgograd-official-2026-11-13/"
+        },
+        {
+          "name": "The Guardian — Ukraine war briefing, 14/11/2026",
+          "url": "https://www.theguardian.com/world/2026/nov/14/ukraine-war-briefing-zelenskyy-says-starshield-restrictions-continue-on-entire-front-line"
+        }
+      ],
+      "en": {
+        "title": "Russia says it intercepted nearly 1,200 Ukrainian drones as strikes leave people dead",
+        "subtitle": "Large-scale attacks hit Russian regions; Ukraine reports a strike on a Volgograd refinery as Russian bombardments also cause casualties and blackouts.",
+        "facts": "On November 14, 2026, the Associated Press reported that Russia's Defense Ministry said nearly 1,200 Ukrainian drones had been launched at targets in Russia overnight. The figure is a Russian official claim, not an independently verified count. AP reported seven deaths and 17 injuries across three Russian regions, while Ukrainian authorities said they had struck a major oil refinery in Volgograd. Reuters separately reported four deaths and two injuries in a Volgograd industrial area, citing the regional governor, but could not independently confirm a hit on the refinery. In Ukraine, AP reported Russian attacks involving 117 drones, at least two deaths and power outages in 12 regions. These preliminary figures may change.",
+        "analysis": "The escalating drone campaign is putting energy infrastructure and civilians in both countries under growing pressure. Refineries are strategically important, but specific damage claims require independent evidence. The attacks come as US-led talks expand to European security arrangements, raising concerns among European governments.",
+        "counterpoint": "The drone war has become a contest of enormous numbers and official narratives. Nearly 1,200 is Moscow's stated figure, not an independently audited result. The immediate priority remains the deaths, injuries and disruption of essential services, regardless of which government releases the tally.",
+        "category": "WORLD",
+        "slug": "russia-says-it-intercepted-nearly-1-200-ukrainian-drones-as-strikes-leave-2026-11-14"
+      },
+      "es": {
+        "title": "Rusia afirma haber interceptado casi 1.200 drones ucranianos en ataques que dejan muertos",
+        "subtitle": "Los ataques alcanzan regiones rusas; Ucrania informa de un golpe contra una refinería en Volgogrado mientras los bombardeos rusos también causan víctimas y apagones.",
+        "facts": "El 14 de noviembre de 2026, Associated Press informó que el Ministerio de Defensa ruso afirmó que casi 1.200 drones ucranianos fueron lanzados durante la noche contra objetivos en Rusia. La cifra es una declaración oficial rusa, no un recuento verificado de forma independiente. AP informó de siete muertos y 17 heridos en tres regiones rusas, mientras que autoridades ucranianas afirmaron haber atacado una importante refinería en Volgogrado. Reuters informó por separado de cuatro muertos y dos heridos en una zona industrial de Volgogrado, citando al gobernador regional, pero no confirmó de manera independiente el impacto en la refinería. En Ucrania, AP informó de ataques rusos con 117 drones, al menos dos muertos y cortes eléctricos en 12 regiones. Los balances son preliminares y pueden cambiar.",
+        "analysis": "La escalada de ataques con drones aumenta la presión sobre la infraestructura energética y la población civil de ambos países. Las refinerías son objetivos estratégicos, pero las afirmaciones sobre daños específicos requieren pruebas independientes. Los ataques coinciden con negociaciones lideradas por Estados Unidos que también abordan la seguridad europea, lo que preocupa a varios gobiernos del continente.",
+        "counterpoint": "La guerra de drones se ha convertido en una disputa de cifras enormes y versiones oficiales. Casi 1.200 es la cifra anunciada por Moscú, no el resultado de una auditoría independiente. Lo urgente son las muertes, los heridos y los servicios esenciales interrumpidos, independientemente del gobierno que publique el balance.",
+        "category": "MUNDO",
+        "slug": "rusia-afirma-haber-interceptado-casi-1-200-drones-ucranianos-en-ataques-que-2026-11-14"
+      }
+    },
+    {
       "id": "eua-registram-5412-casos-sarampo-cdc-2026-11-14",
       "date": "2026-11-14",
       "category": "SAÚDE",
