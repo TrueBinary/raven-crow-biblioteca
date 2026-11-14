@@ -1,6 +1,48 @@
 {
   "articles": [
     {
+      "id": "morre-claudette-soares-91-anos-album-ineditas-2026-11-14",
+      "date": "2026-11-14",
+      "category": "CULTURA",
+      "title": "Morre Claudette Soares, aos 91 anos, na semana de lançamento de álbum de inéditas",
+      "subtitle": "Intérprete histórica do baião e da bossa nova teve morte confirmada pela equipe; disco O Mundo É Ruim pra Quem Não Sabe Esperar chegou às plataformas em 13 de novembro.",
+      "facts": "A cantora Claudette Soares morreu aos 91 anos em São Paulo, segundo comunicado divulgado por sua equipe em 13 de novembro de 2026. Os relatos sobre o momento exato do falecimento divergem: algumas reportagens indicam a noite de quinta-feira (12), enquanto outras registram a madrugada de sexta-feira (13). A assessoria informou que a artista morreu após dormir, sem acordar. No dia 13, chegou às plataformas seu álbum O Mundo É Ruim pra Quem Não Sabe Esperar, reunindo composições inéditas. Nascida no Rio de Janeiro, Claudette começou a cantar no rádio ainda criança e recebeu de Luiz Gonzaga o apelido de Princesinha do Baião. Tornou-se também uma intérprete de referência da bossa nova.",
+      "analysis": "A trajetória de Claudette atravessou mais de oito décadas da música brasileira, do baião à bossa nova, passando pelo jazz, samba e repertório romântico. A coincidência entre a divulgação de sua morte e a chegada do novo disco dá ao lançamento um significado de despedida, mas não autoriza afirmar que o trabalho tenha sido planejado como álbum póstumo. A artista havia participado de uma audição do projeto poucos dias antes.",
+      "counterpoint": "Em vez de transformar a despedida em disputa por manchetes, vale ouvir o repertório e reconhecer uma intérprete que ajudou a construir a música brasileira. A diferença entre as datas relatadas sobre a morte deve ser esclarecida com a família ou assessoria, não preenchida com suposições.",
+      "sources": [
+        {
+          "name": "Agência Brasil — 13/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/morre-claudette-soares-aos-91-no-dia-de-lancamento-do-ultimo-album"
+        },
+        {
+          "name": "Folha de S.Paulo — 13/11/2026",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/11/morre-cantora-claudette-soares-aos-91-anos.shtml"
+        },
+        {
+          "name": "Estadão via UOL — 13/11/2026",
+          "url": "https://www.uol.com.br/splash/noticias/estadao-conteudo/2026/11/13/morre-a-cantora-claudette-soares-aos-91-anos.htm"
+        }
+      ],
+      "en": {
+        "title": "Brazilian singer Claudette Soares dies at 91 as new album arrives",
+        "subtitle": "The bossa nova and baião interpreter's death was confirmed by her team; her album of new songs was released on November 13.",
+        "facts": "Brazilian singer Claudette Soares died at age 91 in São Paulo, according to a statement released by her team on November 13, 2026. Reports differ on the exact time of death: some place it on the night of Thursday, November 12, while others say early Friday, November 13. Her representatives said she went to sleep and did not wake up. Her album O Mundo É Ruim pra Quem Não Sabe Esperar, featuring previously unreleased compositions, reached streaming services on November 13. Born in Rio de Janeiro, she began singing on radio as a child and was nicknamed Princesinha do Baião by Luiz Gonzaga before becoming a leading bossa nova interpreter.",
+        "analysis": "Soares's career spanned more than eight decades, from baião and bossa nova to jazz, samba and romantic songs. The proximity of her death announcement to the album's release gives the record the weight of a farewell, but there is no basis for saying it was intended as a posthumous release. She had attended a listening session only days earlier.",
+        "counterpoint": "The strongest tribute is to listen to the music and recognize an artist who helped shape Brazilian popular song. Conflicting reports about the exact date of death should be clarified by her family or representatives rather than guessed at.",
+        "category": "CULTURE",
+        "slug": "brazilian-singer-claudette-soares-dies-at-91-as-new-album-arrives-2026-11-14"
+      },
+      "es": {
+        "title": "Muere a los 91 años Claudette Soares, referente brasileña de la bossa nova",
+        "subtitle": "Su equipo confirmó el fallecimiento de la intérprete; el 13 de noviembre se publicó su álbum de canciones inéditas.",
+        "facts": "La cantante Claudette Soares murió a los 91 años en São Paulo, según un comunicado divulgado por su equipo el 13 de noviembre de 2026. Las informaciones difieren sobre el momento exacto: algunas sitúan la muerte en la noche del jueves 12 y otras en la madrugada del viernes 13. Sus representantes señalaron que se acostó y no despertó. El 13 de noviembre llegó a las plataformas su álbum O Mundo É Ruim pra Quem Não Sabe Esperar, con composiciones inéditas. Nacida en Rio de Janeiro, comenzó a cantar en la radio de niña, recibió de Luiz Gonzaga el apodo Princesinha do Baião y se convirtió en una voz destacada de la bossa nova.",
+        "analysis": "Su trayectoria abarcó más de ocho décadas y estilos como baião, bossa nova, jazz, samba y canción romántica. La coincidencia entre el anuncio de su muerte y el lanzamiento confiere al disco un carácter de despedida, pero no demuestra que se hubiera concebido como obra póstuma. La cantante había asistido a una audición del proyecto pocos días antes.",
+        "counterpoint": "El mejor homenaje es escuchar su repertorio y reconocer su contribución a la música brasileña. Las discrepancias sobre la fecha exacta de su muerte deben aclararse con la familia o sus representantes, no resolverse mediante conjeturas.",
+        "category": "CULTURA",
+        "slug": "muere-a-los-91-anos-claudette-soares-referente-brasilena-de-la-bossa-nova-2026-11-14"
+      }
+    },
+    {
       "id": "anvisa-recolhe-lote-anestesico-bupivacaina-particula-2026-11-13",
       "date": "2026-11-13",
       "category": "SAÚDE",
