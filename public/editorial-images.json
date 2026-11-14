@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "asean-mantem-restricoes-mianmar-antes-cupula-manila-2026-11-14": "editorial/covers/asean-mantem-restricoes-mianmar-antes-cupula-manila-2026-11-14.svg",
     "microsoft-confirma-restabelecimento-servicos-apos-pane-global-2026-11-14": "editorial/covers/microsoft-confirma-restabelecimento-servicos-apos-pane-global-2026-11-14.svg",
     "ucrania-russia-1200-drones-ataques-volgogrado-2026-11-14": "editorial/covers/ucrania-russia-1200-drones-ataques-volgogrado-2026-11-14.svg",
     "eua-registram-5412-casos-sarampo-cdc-2026-11-14": "editorial/covers/eua-registram-5412-casos-sarampo-cdc-2026-11-14.svg",
@@ -313,7 +314,8 @@
     "morre-claudette-soares-91-anos-album-ineditas-2026-11-14": "editorial/photos/morre-claudette-soares-91-anos-album-ineditas-2026-11-14.jpg",
     "anvisa-recolhe-lote-anestesico-bupivacaina-particula-2026-11-13": "editorial/photos/anvisa-recolhe-lote-anestesico-bupivacaina-particula-2026-11-13.jpg",
     "o-algoritmo-mandou-e-a-consciencia-pediu-demissao-2026-11-11": "editorial/photos/o-algoritmo-mandou-e-a-consciencia-pediu-demissao-2026-11-11.jpg",
-    "o-botao-aceitar-tudo-e-a-liberdade-de-nao-escolher-2026-11-10": "editorial/photos/o-botao-aceitar-tudo-e-a-liberdade-de-nao-escolher-2026-11-10.jpg"
+    "o-botao-aceitar-tudo-e-a-liberdade-de-nao-escolher-2026-11-10": "editorial/photos/o-botao-aceitar-tudo-e-a-liberdade-de-nao-escolher-2026-11-10.jpg",
+    "asean-mantem-restricoes-mianmar-antes-cupula-manila-2026-11-14": "editorial/photos/asean-mantem-restricoes-mianmar-antes-cupula-manila-2026-11-14.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -1201,6 +1203,12 @@
     "o-botao-aceitar-tudo-e-a-liberdade-de-nao-escolher-2026-11-10": {
       "src": "editorial/photos/o-botao-aceitar-tudo-e-a-liberdade-de-nao-escolher-2026-11-10-1280.webp",
       "srcset": "editorial/photos/o-botao-aceitar-tudo-e-a-liberdade-de-nao-escolher-2026-11-10-320.webp 320w, editorial/photos/o-botao-aceitar-tudo-e-a-liberdade-de-nao-escolher-2026-11-10-640.webp 640w, editorial/photos/o-botao-aceitar-tudo-e-a-liberdade-de-nao-escolher-2026-11-10-960.webp 960w, editorial/photos/o-botao-aceitar-tudo-e-a-liberdade-de-nao-escolher-2026-11-10-1280.webp 1280w",
+      "width": 1280,
+      "height": 720
+    },
+    "asean-mantem-restricoes-mianmar-antes-cupula-manila-2026-11-14": {
+      "src": "editorial/photos/asean-mantem-restricoes-mianmar-antes-cupula-manila-2026-11-14-1280.webp",
+      "srcset": "editorial/photos/asean-mantem-restricoes-mianmar-antes-cupula-manila-2026-11-14-320.webp 320w, editorial/photos/asean-mantem-restricoes-mianmar-antes-cupula-manila-2026-11-14-640.webp 640w, editorial/photos/asean-mantem-restricoes-mianmar-antes-cupula-manila-2026-11-14-960.webp 960w, editorial/photos/asean-mantem-restricoes-mianmar-antes-cupula-manila-2026-11-14-1280.webp 1280w",
       "width": 1280,
       "height": 720
     }
