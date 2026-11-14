@@ -30,6 +30,9 @@
         "analysis": "Negotiations pit climate urgency against transition costs, energy security and the financing needs of developing economies. Electrification alone cannot guarantee matching emissions cuts if electricity continues to be generated from high-emission sources. Funding and measurable implementation remain essential.",
         "counterpoint": "Strong speeches are easier than cutting emissions without increasing costs for households. COP31 needs workable targets, transparent results and real financing, not merely another declaration.",
         "category": "WORLD",
+        "photo_captions": {
+          "1": "FILE PHOTO (September 23, 2025): António Guterres at a meeting at UN headquarters in New York. Photo: Daniel Torok/White House. Does not depict COP31."
+        },
         "slug": "at-cop31-guterres-demands-drastic-emissions-cuts-as-countries-split-over-fossil-2026-11-14"
       },
       "es": {
@@ -39,8 +42,22 @@
         "analysis": "Las negociaciones enfrentan la urgencia climática con los costos de transición, la seguridad energética y las necesidades de financiación de los países en desarrollo. La electrificación no garantiza por sí sola reducciones equivalentes de emisiones si la generación sigue dependiendo de fuentes contaminantes. La financiación y la aplicación verificable son fundamentales.",
         "counterpoint": "Los discursos contundentes son más fáciles que reducir emisiones sin elevar el costo de vida. La COP31 necesita objetivos viables, resultados transparentes y financiación real, no solo otra declaración.",
         "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (23/09/2025): António Guterres durante una reunión en la sede de la ONU en Nueva York. Foto: Daniel Torok/Casa Blanca. No corresponde a la COP31."
+        },
         "slug": "en-la-cop31-guterres-exige-recortes-drasticos-de-emisiones-mientras-persisten-2026-11-14"
-      }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Antonio_Guterres_2025_headshot.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público — fotografia oficial do governo dos EUA",
+          "credit": "Daniel Torok / Casa Branca",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Antonio_Guterres_2025_headshot.jpg",
+          "caption": "FOTO DE ARQUIVO (23/09/2025): António Guterres em reunião na sede da ONU, em Nova York. Foto: Daniel Torok/Casa Branca. Não retrata a COP31."
+        }
+      ]
     },
     {
       "id": "casa-branca-confirma-encontro-trump-xi-putin-apec-2026-11-14",
@@ -131,6 +148,9 @@
         "analysis": "Soares's career spanned more than eight decades, from baião and bossa nova to jazz, samba and romantic songs. The proximity of her death announcement to the album's release gives the record the weight of a farewell, but there is no basis for saying it was intended as a posthumous release. She had attended a listening session only days earlier.",
         "counterpoint": "The strongest tribute is to listen to the music and recognize an artist who helped shape Brazilian popular song. Conflicting reports about the exact date of death should be clarified by her family or representatives rather than guessed at.",
         "category": "CULTURE",
+        "photo_captions": {
+          "1": "FILE PHOTO (June 30, 2007): Claudette Soares performing in Rio de Janeiro. Photo: Sandro Coutinho. Does not depict events in November 2026."
+        },
         "slug": "brazilian-singer-claudette-soares-dies-at-91-as-new-album-arrives-2026-11-14"
       },
       "es": {
@@ -140,8 +160,22 @@
         "analysis": "Su trayectoria abarcó más de ocho décadas y estilos como baião, bossa nova, jazz, samba y canción romántica. La coincidencia entre el anuncio de su muerte y el lanzamiento confiere al disco un carácter de despedida, pero no demuestra que se hubiera concebido como obra póstuma. La cantante había asistido a una audición del proyecto pocos días antes.",
         "counterpoint": "El mejor homenaje es escuchar su repertorio y reconocer su contribución a la música brasileña. Las discrepancias sobre la fecha exacta de su muerte deben aclararse con la familia o sus representantes, no resolverse mediante conjeturas.",
         "category": "CULTURA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (30/06/2007): Claudette Soares actúa en Río de Janeiro. Foto: Sandro Coutinho. No corresponde a los acontecimientos de noviembre de 2026."
+        },
         "slug": "muere-a-los-91-anos-claudette-soares-referente-brasilena-de-la-bossa-nova-2026-11-14"
-      }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Claudette_Soares_by_Sandro_Coutinho_wiki.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público — disponibilizada pelo autor",
+          "credit": "Sandro Coutinho / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Claudette_Soares_by_Sandro_Coutinho_wiki.jpg",
+          "caption": "FOTO DE ARQUIVO (30/06/2007): Claudette Soares se apresenta no Rio de Janeiro. Foto: Sandro Coutinho. Não retrata os acontecimentos de novembro de 2026."
+        }
+      ]
     },
     {
       "id": "anvisa-recolhe-lote-anestesico-bupivacaina-particula-2026-11-13",
@@ -169,6 +203,9 @@
         "analysis": "The recall is a public-health safeguard against use of a specific batch that failed quality checks. It does not amount to a blanket ban on bupivacaine or all products made by the manufacturer. Hospitals, distributors and healthcare professionals should verify batch numbers and follow official recall instructions. Patients concerned about medication used in procedures should contact their care teams rather than make treatment changes on their own.",
         "counterpoint": "Drug quality control is not mere bureaucracy: patients need confidence that medicines meet safety standards. But turning a single-batch recall into a claim that all anesthetics are unsafe would be misleading. The right questions concern the scope of the action and the manufacturer's response.",
         "category": "HEALTH",
+        "photo_captions": {
+          "1": "ARCHIVAL INSTITUTIONAL IMAGE (2015): official Anvisa logo. Does not show the recalled anesthetic batch."
+        },
         "slug": "brazil-s-anvisa-orders-recall-of-anesthetic-batch-after-foreign-particle-is-2026-11-13"
       },
       "es": {
@@ -178,8 +215,22 @@
         "analysis": "La retirada busca evitar el uso de un lote específico que no cumplió los controles de calidad. No representa una prohibición general de la bupivacaína ni de todos los productos del fabricante. Hospitales, distribuidores y profesionales sanitarios deben comprobar los números de lote y seguir las instrucciones oficiales. Los pacientes con dudas sobre medicamentos utilizados en procedimientos deben consultar a sus equipos médicos, sin modificar tratamientos por cuenta propia.",
         "counterpoint": "El control de calidad de los medicamentos no es un simple trámite: los pacientes necesitan garantías. Pero presentar la retirada de un lote como prueba de que todos los anestésicos son inseguros sería alarmista. Lo importante es conocer el alcance de la medida y la respuesta del fabricante.",
         "category": "SALUD",
+        "photo_captions": {
+          "1": "IMAGEN INSTITUCIONAL DE ARCHIVO (2015): logotipo oficial de Anvisa. No muestra el lote de anestésico retirado."
+        },
         "slug": "anvisa-ordena-retirar-un-lote-de-anestesico-tras-detectar-una-particula-extrana-2026-11-13"
-      }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_da_Anvisa.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC0 1.0",
+          "credit": "Agência Nacional de Vigilância Sanitária / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Logotipo_da_Anvisa.jpg",
+          "caption": "IMAGEM INSTITUCIONAL DE ARQUIVO (2015): logotipo oficial da Anvisa. Não mostra o lote de anestésico recolhido."
+        }
+      ]
     },
     {
       "id": "eua-suspendem-decolagens-falha-comunicacao-faa-2026-11-13",
