@@ -6,6 +6,38 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "fachin-suspende-prazos-judiciais-pane-microsoft-2026-11-14",
+      "date": "2026-11-14",
+      "category": "JUSTIÇA",
+      "title": "Fachin suspende prazos judiciais após pane global da Microsoft",
+      "subtitle": "Prazos de 12 e 13 de novembro foram interrompidos; retomada está prevista para segunda-feira, 16.",
+      "facts": "O presidente do Supremo Tribunal Federal (STF) e do Conselho Nacional de Justiça (CNJ), Edson Fachin, determinou a suspensão da contagem de prazos processuais nos dias 12 e 13 de novembro de 2026 após a instabilidade em serviços da Microsoft. Segundo a Agência Brasil, a medida, solicitada pela Ordem dos Advogados do Brasil (OAB), abrange o Judiciário nacional e a contagem deve voltar ao normal na segunda-feira, 16 de novembro. Outlook e Teams foram afetados, mas o sistema eletrônico de julgamentos e outras atividades jurisdicionais não foram interrompidos. A Microsoft atribuiu a falha a problemas nos servidores e informou não ter conhecimento de atividade maliciosa.",
+      "analysis": "A decisão busca evitar prejuízos processuais a advogados e partes que dependem de sistemas digitais de comunicação. A paralisação de ferramentas comerciais evidencia a dependência de serviços externos para rotinas administrativas do Judiciário, mesmo quando os sistemas de julgamento continuam funcionando.",
+      "counterpoint": "Quando um serviço privado sai do ar e os prazos da Justiça precisam parar, a pergunta é inevitável: onde está o plano de contingência? A suspensão protege o direito de defesa, mas a infraestrutura precisa de alternativas verificáveis.",
+      "sources": [
+        {
+          "name": "Agência Brasil — 13/11/2026 (atualização 16h05)",
+          "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-suspende-prazos-processuais-apos-instabilidade-da-microsoft"
+        }
+      ],
+      "en": {
+        "title": "Fachin suspends court deadlines after global Microsoft outage",
+        "subtitle": "Deadlines on November 12 and 13 were paused, with counting expected to resume on Monday, November 16.",
+        "facts": "Edson Fachin, president of Brazil's Supreme Federal Court (STF) and National Council of Justice (CNJ), suspended the counting of procedural deadlines on November 12 and 13, 2026, following disruptions to Microsoft services. Agência Brasil reported that the decision, requested by the Brazilian Bar Association (OAB), applies to the country's judiciary and that deadlines are expected to resume on Monday, November 16. Outlook and Teams were affected, while the electronic adjudication system and other judicial activities remained operational. Microsoft attributed the outage to server problems and said it was unaware of malicious activity.",
+        "analysis": "The suspension aims to prevent procedural harm to lawyers and litigants who rely on digital communications. It also exposes the judiciary's reliance on external commercial platforms for administrative work, even where core case-processing systems remain available.",
+        "counterpoint": "When a private service goes down and court deadlines have to stop, the obvious question is where the contingency plan went. The pause protects due process, but the infrastructure needs credible alternatives.",
+        "category": "JUSTICE"
+      },
+      "es": {
+        "title": "Fachin suspende plazos judiciales tras una caída global de Microsoft",
+        "subtitle": "Los plazos del 12 y 13 de noviembre quedaron suspendidos y se prevé reanudar el cómputo el lunes 16.",
+        "facts": "Edson Fachin, presidente del Supremo Tribunal Federal (STF) y del Consejo Nacional de Justicia (CNJ) de Brasil, suspendió el cómputo de plazos procesales los días 12 y 13 de noviembre de 2026 tras fallas en servicios de Microsoft. Según Agência Brasil, la medida, solicitada por el Colegio de Abogados de Brasil (OAB), abarca al poder judicial nacional y el cómputo deberá reanudarse el lunes 16 de noviembre. Outlook y Teams resultaron afectados, mientras que el sistema electrónico de juicios y otras actividades jurisdiccionales siguieron funcionando. Microsoft atribuyó la interrupción a problemas en sus servidores y dijo no tener conocimiento de actividad maliciosa.",
+        "analysis": "La suspensión busca evitar perjuicios procesales a abogados y partes que dependen de las comunicaciones digitales. También muestra la dependencia judicial de plataformas comerciales externas para tareas administrativas, aunque los sistemas centrales de tramitación sigan disponibles.",
+        "counterpoint": "Cuando falla un servicio privado y los plazos judiciales deben detenerse, surge una pregunta inevitable: ¿dónde está el plan de contingencia? La pausa protege el derecho de defensa, pero la infraestructura necesita alternativas fiables.",
+        "category": "JUSTICIA"
+      }
+    },
+    {
       "id": "lula-chega-filipinas-asean-parceria-comercial-2026-11-14",
       "date": "2026-11-14",
       "category": "MUNDO",
