@@ -1,6 +1,48 @@
 {
   "articles": [
     {
+      "id": "cop31-guterres-cobra-corte-emissoes-combustiveis-fosseis-2026-11-14",
+      "date": "2026-11-14",
+      "category": "MUNDO",
+      "title": "Na COP31, Guterres exige cortes drásticos nas emissões; países divergem sobre combustíveis fósseis",
+      "subtitle": "Secretário-geral da ONU pediu redução imediata das emissões na Turquia; negociações enfrentam resistência a metas explícitas para petróleo, gás e carvão.",
+      "facts": "Em 13 de novembro de 2026, durante a COP31 em Antalya, na Turquia, o secretário-geral da ONU, António Guterres, pediu reduções imediatas e drásticas nas emissões de gases de efeito estufa. A Reuters e a Associated Press relataram o apelo e divergências entre delegações sobre o tratamento dos combustíveis fósseis no texto final. A conferência ocorre de 9 a 20 de novembro. Países negociam iniciativas para ampliar a eletrificação, mas a proposta de elevar a participação da eletricidade no consumo energético mundial não obriga que toda a energia venha de fontes renováveis. Nenhum acordo final foi anunciado nessa data.",
+      "analysis": "O debate contrapõe a urgência climática aos custos de transição, à segurança energética e à capacidade financeira de países em desenvolvimento. Uma meta de eletrificação, por si só, não garante redução proporcional de emissões se a eletricidade continuar a ser produzida com fontes altamente poluentes. Financiamento e mecanismos verificáveis de implementação permanecem centrais.",
+      "counterpoint": "Discursos inflamados são mais fáceis do que reduzir emissões sem encarecer a vida de quem já paga a conta. A COP31 precisará mostrar metas exequíveis, transparência nos resultados e financiamento real — não apenas promessas em uma declaração.",
+      "sources": [
+        {
+          "name": "Reuters — 13/11/2026",
+          "url": "https://www.reuters.com/sustainability/cop/cop31-talks-face-early-friction-over-future-fossil-fuels-2026-11-13/"
+        },
+        {
+          "name": "Associated Press — 13/11/2026",
+          "url": "https://apnews.com/article/9c3945f36e4445dd4427f490c40e4bf3"
+        },
+        {
+          "name": "ONU — informações oficiais da COP31",
+          "url": "https://www.un.org/en/climatechange/cop31"
+        }
+      ],
+      "en": {
+        "title": "At COP31, Guterres demands drastic emissions cuts as countries split over fossil fuels",
+        "subtitle": "The UN chief urged immediate reductions in Türkiye while negotiators disagreed over explicit targets for oil, gas and coal.",
+        "facts": "On November 13, 2026, at COP31 in Antalya, Türkiye, UN Secretary-General António Guterres called for immediate and drastic reductions in greenhouse gas emissions. Reuters and the Associated Press reported his appeal and divisions over how the final negotiating text should address fossil fuels. The summit runs from November 9 to 20. Countries are discussing efforts to expand electrification, but the proposed increase in electricity's share of global energy consumption does not require all power to come from renewable sources. No final agreement was announced that day.",
+        "analysis": "Negotiations pit climate urgency against transition costs, energy security and the financing needs of developing economies. Electrification alone cannot guarantee matching emissions cuts if electricity continues to be generated from high-emission sources. Funding and measurable implementation remain essential.",
+        "counterpoint": "Strong speeches are easier than cutting emissions without increasing costs for households. COP31 needs workable targets, transparent results and real financing, not merely another declaration.",
+        "category": "WORLD",
+        "slug": "at-cop31-guterres-demands-drastic-emissions-cuts-as-countries-split-over-fossil-2026-11-14"
+      },
+      "es": {
+        "title": "En la COP31, Guterres exige recortes drásticos de emisiones mientras persisten divisiones sobre los combustibles fósiles",
+        "subtitle": "El secretario general de la ONU pidió reducciones inmediatas en Turquía; las delegaciones discrepan sobre objetivos explícitos para petróleo, gas y carbón.",
+        "facts": "El 13 de noviembre de 2026, durante la COP31 en Antalya, Turquía, el secretario general de la ONU, António Guterres, pidió reducciones inmediatas y drásticas de las emisiones de gases de efecto invernadero. Reuters y Associated Press informaron sobre su llamamiento y las divergencias respecto del tratamiento de los combustibles fósiles en el texto final. La conferencia se celebra del 9 al 20 de noviembre. Los países debaten ampliar la electrificación, pero la propuesta de elevar la participación de la electricidad en el consumo energético mundial no exige que toda provenga de fuentes renovables. Ese día no se anunció ningún acuerdo definitivo.",
+        "analysis": "Las negociaciones enfrentan la urgencia climática con los costos de transición, la seguridad energética y las necesidades de financiación de los países en desarrollo. La electrificación no garantiza por sí sola reducciones equivalentes de emisiones si la generación sigue dependiendo de fuentes contaminantes. La financiación y la aplicación verificable son fundamentales.",
+        "counterpoint": "Los discursos contundentes son más fáciles que reducir emisiones sin elevar el costo de vida. La COP31 necesita objetivos viables, resultados transparentes y financiación real, no solo otra declaración.",
+        "category": "MUNDO",
+        "slug": "en-la-cop31-guterres-exige-recortes-drasticos-de-emisiones-mientras-persisten-2026-11-14"
+      }
+    },
+    {
       "id": "casa-branca-confirma-encontro-trump-xi-putin-apec-2026-11-14",
       "date": "2026-11-14",
       "category": "MUNDO",
