@@ -100,7 +100,7 @@
 
 Isto não é código. Entregar ao usuário este bloco, para acrescentar ao prompt da tarefa "Corvo Investigador":
 
-> Leitura de `public/noticias.json`: use a leitura normal de conteúdo. Se o conteúdo vier vazio com SHA presente, leia pelo blob (`fetch_blob` com esse SHA), valide o JSON e preserve todas as matérias; nunca grave o arquivo a partir de conteúdo vazio. O release move sozinho para `public/arquivo/` as matérias com mais de 2 dias. Não as recoloque em `noticias.json` e consulte `public/news-slugs.json` para não repetir ids antigos.
+> Leitura de `public/noticias.json`: use a leitura normal de conteúdo. Se o conteúdo vier vazio com SHA presente, leia pelo blob (`fetch_blob` com esse SHA), valide o JSON e preserve todas as matérias; nunca grave o arquivo a partir de conteúdo vazio. O release move sozinho para `public/arquivo/` as matérias com mais de 2 dias. Não as recoloque em `noticias.json`, nunca grave nem sobrescreva arquivos em `public/arquivo/` (o release cuida disso) e consulte `public/news-slugs.json` para não repetir ids antigos.
 
 - [ ] **Passo 1:** mandar o bloco ao usuário junto com o resumo do PR.
 - [ ] **Passo 2:** depois que o usuário colar o bloco, conferir a próxima execução horária do Corvo. Precisa sair um commit com matéria nova e `noticias.json` ainda abaixo de 1 MB.

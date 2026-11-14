@@ -40,7 +40,8 @@ def rotate(news: dict, archive: dict[str, dict], today: date, keep_days: int = K
     keep, move = [], []
     for a in news["articles"]:
         d = _day(a)
-        (move if d and d < cutoff else keep).append(a)
+        # sem id texto não dá para achar cópias no arquivo: fica aqui (o portão de integridade acusa)
+        (move if d and d < cutoff and isinstance(a.get("id"), str) else keep).append(a)
     if not move:
         return news, {}
 

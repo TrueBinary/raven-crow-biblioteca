@@ -59,6 +59,13 @@ class RotateTests(unittest.TestCase):
         self.assertEqual(ids(n), ["e", "b", "f", "n", "z"])
         self.assertEqual(changed, {})
 
+    def test_articles_without_string_id_stay(self):
+        sem = {"date": "2026-11-10", "title": "sem id"}
+        nulo1, nulo2 = art(None, "2026-11-10", "n1"), art(None, "2026-11-10", "n2")
+        n, changed = rot.rotate(news(sem, nulo1, nulo2), {}, TODAY)
+        self.assertEqual(n["articles"], [sem, nulo1, nulo2])
+        self.assertEqual(changed, {})
+
     def test_no_article_lost(self):
         archive = {"noticias-2026-11-11.json": news(art("old", "2026-11-11"), art("m", "2026-11-09"))}
         before = news(art("a14", "2026-11-14"), art("m", "2026-11-09"), art("a12", "2026-11-12"))
