@@ -1,6 +1,48 @@
 {
   "articles": [
     {
+      "id": "eua-registram-5412-casos-sarampo-cdc-2026-11-14",
+      "date": "2026-11-14",
+      "category": "SAÚDE",
+      "title": "EUA registram 5.412 casos de sarampo em 2026, informa CDC",
+      "subtitle": "Atualização divulgada em 13 de novembro aponta 230 casos a mais em uma semana; avaliação sobre o status de eliminação da doença ainda aguarda anúncio oficial.",
+      "facts": "Os Centros de Controle e Prevenção de Doenças dos Estados Unidos (CDC) informaram em 13 de novembro de 2026 que o país registrou 5.412 casos confirmados de sarampo até 12 de novembro, aumento de 230 em relação ao balanço anterior de 5.182. Os números foram publicados pelo próprio CDC e noticiados pela Reuters. A atualização inclui 5.394 casos comunicados por 47 jurisdições e 18 casos entre visitantes internacionais. A Organização Pan-Americana da Saúde (Opas) avalia se a transmissão contínua por pelo menos 12 meses implica a perda do status de eliminação do sarampo nos EUA. Reportagens de 13 de novembro anteciparam a conclusão de especialistas, mas, até a apuração desta matéria, não foi localizada uma comunicação pública definitiva da Opas; por isso, a eventual perda do status não é apresentada aqui como decisão oficialmente anunciada.",
+      "analysis": "O avanço do sarampo é um sinal de alerta para a vigilância epidemiológica e a cobertura vacinal. A eliminação significa ausência de transmissão endêmica sustentada, e não inexistência de casos importados. Segundo autoridades de saúde, duas doses da vacina tríplice viral oferecem elevada proteção; manter a imunização é essencial para reduzir surtos e proteger pessoas vulneráveis.",
+      "counterpoint": "O sarampo não desaparece porque alguém decidiu ignorá-lo. O debate público precisa distinguir uma decisão sanitária oficialmente publicada de antecipações da imprensa, sem perder de vista o dado verificável: os casos aumentaram e a prevenção exige ação concreta.",
+      "sources": [
+        {
+          "name": "CDC — Measles Cases and Outbreaks, atualizado em 13/11/2026",
+          "url": "https://www.cdc.gov/measles/data-research/index.html"
+        },
+        {
+          "name": "Reuters — US measles cases rise to 5,412, CDC says, 13/11/2026",
+          "url": "https://www.reuters.com/legal/litigation/us-measles-cases-rise-5412-cdc-says-2026-11-13/"
+        },
+        {
+          "name": "Associated Press — revisão do status de eliminação, 13/11/2026",
+          "url": "https://apnews.com/article/c2f73f91458992f3320d0228b7787627"
+        }
+      ],
+      "en": {
+        "title": "US records 5,412 measles cases in 2026, CDC says",
+        "subtitle": "The November 13 update shows 230 additional cases in one week; an official announcement on the country's measles-elimination status is still pending.",
+        "facts": "On November 13, 2026, the US Centers for Disease Control and Prevention (CDC) reported 5,412 confirmed measles cases through November 12, up 230 from the previous tally of 5,182. The CDC published the figures, which Reuters also reported. The total includes 5,394 cases reported by 47 jurisdictions and 18 among international visitors. The Pan American Health Organization (PAHO) is reviewing whether at least 12 months of continuous transmission means the United States has lost its measles-elimination status. Reports on November 13 anticipated experts' conclusions, but no definitive public announcement by PAHO was independently verified during this reporting; this article therefore does not present the status change as officially announced.",
+        "analysis": "The increase underscores the importance of epidemiological surveillance and vaccination coverage. Elimination means an absence of sustained endemic transmission, not an absence of imported cases. Health authorities say two doses of the MMR vaccine provide strong protection and that immunization helps prevent outbreaks.",
+        "counterpoint": "Measles does not disappear because people choose to ignore it. Public debate should distinguish an officially announced health decision from media reports while recognizing the verified fact: cases are rising and prevention requires action.",
+        "category": "HEALTH",
+        "slug": "us-records-5-412-measles-cases-in-2026-cdc-says-2026-11-14"
+      },
+      "es": {
+        "title": "Estados Unidos registra 5.412 casos de sarampión en 2026, según los CDC",
+        "subtitle": "La actualización del 13 de noviembre muestra 230 casos adicionales en una semana; sigue pendiente el anuncio oficial sobre el estatus de eliminación.",
+        "facts": "El 13 de noviembre de 2026, los Centros para el Control y la Prevención de Enfermedades de Estados Unidos (CDC) informaron de 5.412 casos confirmados de sarampión hasta el 12 de noviembre, 230 más que los 5.182 del informe anterior. Los CDC publicaron las cifras, también difundidas por Reuters. El total incluye 5.394 casos notificados por 47 jurisdicciones y 18 entre visitantes internacionales. La Organización Panamericana de la Salud (OPS) evalúa si al menos 12 meses de transmisión continua implican la pérdida del estatus de eliminación del sarampión en Estados Unidos. Informaciones del 13 de noviembre adelantaron conclusiones de expertos, pero no se pudo verificar un anuncio público definitivo de la OPS durante esta investigación; por ello, esta nota no presenta el cambio de estatus como anunciado oficialmente.",
+        "analysis": "El aumento evidencia la importancia de la vigilancia epidemiológica y de la cobertura de vacunación. La eliminación significa ausencia de transmisión endémica sostenida, no ausencia de casos importados. Las autoridades sanitarias señalan que dos dosis de la vacuna triple vírica ofrecen una elevada protección y que la inmunización ayuda a prevenir brotes.",
+        "counterpoint": "El sarampión no desaparece porque alguien decida ignorarlo. El debate público debe distinguir una decisión sanitaria anunciada oficialmente de las informaciones periodísticas, sin perder de vista el dato comprobado: aumentan los casos y la prevención requiere medidas concretas.",
+        "category": "SALUD",
+        "slug": "estados-unidos-registra-5-412-casos-de-sarampion-en-2026-segun-los-cdc-2026-11-14"
+      }
+    },
+    {
       "id": "fachin-suspende-prazos-judiciais-pane-microsoft-2026-11-14",
       "date": "2026-11-14",
       "category": "JUSTIÇA",
