@@ -6,6 +6,46 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "lula-chega-filipinas-asean-parceria-comercial-2026-11-14",
+      "date": "2026-11-14",
+      "category": "MUNDO",
+      "title": "Lula chega às Filipinas e busca ampliar parceria do Brasil com a Asean",
+      "subtitle": "Visita de Estado e participação na cúpula regional buscam ampliar comércio, investimentos e o status diplomático brasileiro no Sudeste Asiático.",
+      "facts": "O presidente Luiz Inácio Lula da Silva chegou às Filipinas em 13 de novembro de 2026 para uma visita de Estado e participação, como convidado, na 49ª Cúpula da Associação das Nações do Sudeste Asiático (Asean). A agenda oficial está prevista para 14 e 15 de novembro, incluindo encontro com o presidente filipino Ferdinand Marcos Jr. e participação no fórum empresarial Brasil–Filipinas. O Brasil, atualmente parceiro de diálogo setorial da Asean, solicitou em janeiro a elevação para parceiro de diálogo pleno; o pedido ainda não havia sido aceito no momento do anúncio. Comércio, agricultura, energia e investimentos estão entre os temas previstos. A chegada e a agenda foram noticiadas pela Agência Brasil e confirmadas pela agência oficial filipina PNA e pela GMA News.",
+      "analysis": "O governo brasileiro procura diversificar mercados e aprofundar vínculos institucionais com o Sudeste Asiático. O reconhecimento como parceiro de diálogo pleno abriria mais canais formais de interlocução, mas não representa, por si só, a assinatura de acordos comerciais nem garante resultados econômicos imediatos.",
+      "counterpoint": "Viagem presidencial só vira resultado quando rende mercado aberto, investimento concreto e acordos verificáveis. O contribuinte merece saber o que saiu da mesa de negociações — e não apenas quantas fotos oficiais foram tiradas.",
+      "sources": [
+        {
+          "name": "Agência Brasil — 13/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-chega-filipinas-brasil-quer-ser-parceiro-de-dialogo-da-asean"
+        },
+        {
+          "name": "Philippine News Agency — 10/11/2026",
+          "url": "https://www.pna.gov.ph/article/brazils-lula-to-meet-marcos-attend-asean-summit-during-historic-ph-visit"
+        },
+        {
+          "name": "GMA News — 13/11/2026",
+          "url": "https://www.gmanetwork.com/news/topstories/nation/1009397/brazilian-president-lula-visits-philippines-for-asean-summit-state-visit/story/"
+        }
+      ],
+      "en": {
+        "title": "Lula arrives in the Philippines as Brazil seeks stronger ASEAN ties",
+        "subtitle": "The state visit and regional summit are intended to expand trade, investment and Brazil's diplomatic standing in Southeast Asia.",
+        "facts": "Brazilian President Luiz Inácio Lula da Silva arrived in the Philippines on November 13, 2026, for a state visit and to attend the 49th Association of Southeast Asian Nations (ASEAN) Summit as a guest. His official engagements are scheduled for November 14 and 15, including talks with Philippine President Ferdinand Marcos Jr. and the Brazil–Philippines Business Forum. Brazil is currently an ASEAN Sectoral Dialogue Partner and requested an upgrade to full Dialogue Partner status in January. The request had not been approved when the visit was announced. Trade, agriculture, energy and investment are among the planned topics. Agência Brasil reported the arrival and agenda, which were corroborated by the Philippine News Agency and GMA News.",
+        "analysis": "Brazil is seeking to diversify its markets and strengthen institutional ties with Southeast Asia. Full dialogue partner status would provide additional diplomatic channels, but it would not itself constitute a trade agreement or guarantee immediate economic gains.",
+        "counterpoint": "A presidential trip only delivers value when it produces access to markets, concrete investment and verifiable agreements. Taxpayers deserve results, not just official photographs.",
+        "category": "WORLD"
+      },
+      "es": {
+        "title": "Lula llega a Filipinas mientras Brasil busca fortalecer sus vínculos con la ASEAN",
+        "subtitle": "La visita de Estado y la cumbre regional buscan ampliar el comercio, las inversiones y el estatus diplomático de Brasil en el Sudeste Asiático.",
+        "facts": "El presidente brasileño Luiz Inácio Lula da Silva llegó a Filipinas el 13 de noviembre de 2026 para una visita de Estado y para participar como invitado en la 49.ª Cumbre de la Asociación de Naciones del Sudeste Asiático (ASEAN). Su agenda oficial está prevista para el 14 y 15 de noviembre e incluye una reunión con el presidente filipino Ferdinand Marcos Jr. y el Foro Empresarial Brasil–Filipinas. Brasil es actualmente socio de diálogo sectorial de la ASEAN y solicitó en enero convertirse en socio de diálogo pleno. La solicitud aún no había sido aprobada cuando se anunció la visita. Comercio, agricultura, energía e inversiones figuran entre los asuntos previstos. Agência Brasil informó sobre la llegada y la agenda, confirmadas también por Philippine News Agency y GMA News.",
+        "analysis": "Brasil busca diversificar mercados y reforzar sus relaciones institucionales con el Sudeste Asiático. La condición de socio de diálogo pleno abriría canales diplomáticos adicionales, pero no equivaldría por sí misma a un acuerdo comercial ni garantizaría beneficios económicos inmediatos.",
+        "counterpoint": "Una visita presidencial solo genera resultados cuando produce acceso a mercados, inversiones concretas y acuerdos verificables. Los contribuyentes merecen resultados, no solo fotografías oficiales.",
+        "category": "MUNDO"
+      }
+    },
+    {
       "id": "cop31-guterres-cobra-corte-emissoes-combustiveis-fosseis-2026-11-14",
       "date": "2026-11-14",
       "category": "MUNDO",
