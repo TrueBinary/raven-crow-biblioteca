@@ -1,7 +1,85 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14T10:00:00-03:00",
+  "updatedAt": "2026-11-14T19:01:56-03:00",
   "essays": [
+    {
+      "id": "o-chefe-quer-votar-pelo-funcionario-2026-11-14",
+      "section": "Política e sociedade",
+      "date": "2026-11-14",
+      "title": "O CHEFE QUER VOTAR PELO FUNCIONÁRIO. FALTA SÓ PEDIR A SENHA DA CONSCIÊNCIA.",
+      "subtitle": "A empresa compra horas de trabalho, não o direito de escolher o candidato de quem recebe salário.",
+      "eyebrow": "OPINIÃO",
+      "paragraphs": [
+        "Na reunião de segunda-feira, o chefe reúne os funcionários, projeta um gráfico de vendas e anuncia que a empresa tem uma nova meta: eleger o candidato de sua preferência. Quem concorda recebe um sorriso; quem discorda começa a estudar a validade do próprio contrato de trabalho. O sujeito já administra o estoque, os horários e a máquina de café. Agora pretende administrar também a consciência alheia. Falta pouco para o departamento de recursos humanos solicitar uma cópia autenticada do pensamento político de cada empregado.",
+        "A cena é fictícia; a prática que ela satiriza, não. Assédio eleitoral no trabalho envolve pressão, ameaça, promessa de vantagem ou constrangimento destinados a influenciar a escolha política de quem depende daquela relação profissional. O Ministério Público Federal explicou o problema em março de 2026; em agosto, o Tribunal Superior Eleitoral e instituições trabalhistas ampliaram a cooperação para enfrentá-lo. A questão não é descobrir qual candidato o patrão prefere. É lembrar que o salário remunera trabalho, não compra obediência eleitoral.",
+        "Em 31 de outubro de 2026, o Ministério do Trabalho informou ter recebido aproximadamente 4.305 denúncias em três dias por seu canal específico. Denúncia não é condenação, e nenhuma estatística séria permite transformar automaticamente todos os relatos em crimes comprovados. Mas o volume justifica atenção. Há uma ironia desagradável no empresário que faz discursos sobre liberdade de mercado enquanto tenta criar um monopólio sobre o voto dos próprios empregados. Defende a livre concorrência até o instante em que a concorrência aparece na urna.",
+        "O voto secreto existe justamente porque uma escolha política não deveria depender da vigilância de quem controla seu emprego, seu benefício ou sua promoção. A Constituição protege a liberdade de consciência e o sigilo do voto; a legislação eleitoral pune determinadas formas de coação. E não é só o patrão privado que precisa ouvir o recado. Autoridade pública que usa o cargo para intimidar subordinados também merece fiscalização. A urna não possui uma entrada para cartão de ponto, muito menos uma extensão para a sala da diretoria.",
+        "É preciso fazer uma distinção que o debate apaixonado costuma abandonar na primeira esquina. Um empresário pode ter opiniões políticas, defendê-las publicamente e discutir propostas econômicas. Funcionários também podem conversar, concordar ou discordar. Nem toda conversa desagradável é assédio. A linha se rompe quando a hierarquia vira ameaça ou quando a vantagem profissional passa a depender de adesão política. Proibir qualquer discussão seria trocar a pressão do chefe por um fiscal da opinião instalado ao lado da impressora.",
+        "Quem realmente valoriza a liberdade deveria reconhecê-la também quando o outro escolhe mal, na sua avaliação. É fácil defender a autonomia do empregado quando ele vota igual ao dono da empresa; difícil é respeitá-la quando o voto contraria a previsão do departamento financeiro. A mesma exigência vale para sindicatos, repartições e organizações que se apresentam como guardiãs da democracia. Nenhuma bandeira transforma chantagem em pedagogia cívica. A consciência não vem como acessório do crachá.",
+        "Voltemos à reunião. O chefe pode continuar mostrando gráficos, cobrando resultados e discutindo os rumos do país. Pode até achar que sua opinião salvará a economia. Só não pode confundir a empresa com uma seção eleitoral de propriedade particular. Ao fim do expediente, o funcionário devolve o uniforme, desliga o computador e leva consigo algo que não pertence ao balanço patrimonial: a própria liberdade de escolher. Se o chefe insistir em pedir a senha da consciência, a resposta cabe numa frase: o trabalho é contratado; o voto, não."
+      ],
+      "sources": [
+        {
+          "title": "TSE — Justiça Eleitoral e do Trabalho ampliam enfrentamento ao assédio eleitoral (06/08/2026)",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Agosto/justica-eleitoral-e-do-trabalho-junto-com-mpe-e-mpt-ampliam-enfrentamento-ao-assedio-eleitoral"
+        },
+        {
+          "title": "Agência Gov / MTE — 4.305 denúncias recebidas em três dias, não necessariamente comprovadas (31/10/2026)",
+          "url": "https://agenciagov.ebc.com.br/noticias/202610/mte-registra-4-3-mil-denuncias-de-assedio-eleitoral-no-trabalho-em-apenas-tres-dias"
+        },
+        {
+          "title": "MPF — O que é assédio eleitoral? (02/03/2026)",
+          "url": "https://www.mpf.mp.br/o-mpf/unidades/procuradoria-geral-da-republica-pgr/noticias/me-explica-mpf-o-que-e-assedio-eleitoral"
+        },
+        {
+          "title": "MTE — Canal de denúncia de assédio eleitoral",
+          "url": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/denuncia-de-assedio-eleitoral"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Urna_eletr%C3%B4nica_brasileira_UE2020.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Antonio Augusto / Secom / Tribunal Superior Eleitoral / Wikimedia Commons",
+          "license": "Public Domain Mark (PDM) — obra marcada como domínio público pelo TSE no Flickr; https://creativecommons.org/publicdomain/mark/1.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Urna_eletr%C3%B4nica_brasileira_UE2020.jpg",
+          "caption": "FOTO DE ARQUIVO (13/12/2021), Brasília (DF): urna eletrônica brasileira modelo UE2020 apresentada pelo Tribunal Superior Eleitoral. Imagem ilustrativa do voto secreto; não retrata assédio eleitoral nem acontecimento recente."
+        }
+      ],
+      "en": {
+        "title": "THE BOSS WANTS TO VOTE FOR THE EMPLOYEE. NEXT, THE PASSWORD TO THEIR CONSCIENCE.",
+        "subtitle": "A company buys hours of work, not the right to choose its workers' candidates.",
+        "eyebrow": "OPINION",
+        "section": "Politics and society",
+        "paragraphs": [
+          "At Monday's meeting, the boss gathers the staff, projects a sales chart and announces a new company target: electing his preferred candidate. Agreement earns a smile; dissent sends people checking their employment contracts. He already manages inventory, shifts and the coffee machine. Now he wants to manage other people's consciences. Soon human resources may demand a notarized copy of every employee's political thoughts.",
+          "The scene is fictional; the conduct it satirizes is not. Electoral harassment at work involves pressure, threats, promised rewards or intimidation aimed at shaping the political choices of people in a professional relationship. Brazil's Federal Prosecution Service explained the issue in March 2026; in August, the Superior Electoral Court and labor institutions expanded their cooperation against it. The question is not which candidate the boss favors. Wages pay for work, not electoral obedience.",
+          "On October 31, 2026, Brazil's Labor Ministry reported approximately 4,305 complaints submitted to its dedicated channel over three days. A complaint is not a conviction, and responsible analysis cannot treat every report as a proven crime. But the volume warrants scrutiny. There is an unpleasant irony in a business owner praising free markets while trying to monopolize employees' votes. Competition is wonderful until it reaches the ballot box.",
+          "The secret ballot exists precisely because a political choice should not depend on surveillance by someone who controls a job, benefit or promotion. Brazil's Constitution protects freedom of conscience and ballot secrecy; electoral law punishes certain forms of coercion. Public officials who exploit their authority to intimidate subordinates also deserve scrutiny. Voting machines have no time-clock slot, let alone an extension cord to the boardroom.",
+          "A distinction matters here. Business owners may hold political views, defend them publicly and discuss economic proposals. Employees may speak, agree or disagree too. Not every awkward conversation constitutes harassment. The line is crossed when hierarchy becomes a threat or professional benefits become conditional on political allegiance. Banning every discussion would merely replace the boss's pressure with an opinion inspector stationed beside the printer.",
+          "Anyone who values liberty should recognize it even when someone else makes what they consider the wrong choice. It is easy to defend employees' autonomy when they vote like the owner; harder when they contradict the finance department's forecast. The same standard applies to unions, government offices and organizations that claim to defend democracy. No flag turns blackmail into civic education. Conscience is not an attachment to an ID badge.",
+          "Back to the meeting. The boss may still show charts, demand results and discuss the country's direction. He may even believe his opinions will save the economy. He cannot treat the company as a privately owned polling station. At day's end, the worker returns the uniform, shuts down the computer and takes home something absent from the balance sheet: freedom of choice. If the boss asks for the password to their conscience, the answer is simple: work is contracted; votes are not."
+        ],
+        "photo_caption": "ARCHIVE PHOTO (December 13, 2021), Brasília, Brazil: UE2020 electronic voting machine presented by the Superior Electoral Court. Illustrates the secret ballot; does not depict electoral harassment or a recent event."
+      },
+      "es": {
+        "title": "EL JEFE QUIERE VOTAR POR EL EMPLEADO. SOLO LE FALTA LA CONTRASEÑA DE SU CONCIENCIA.",
+        "subtitle": "Una empresa compra horas de trabajo, no el derecho a elegir al candidato de sus trabajadores.",
+        "eyebrow": "OPINIÓN",
+        "section": "Política y sociedad",
+        "paragraphs": [
+          "En la reunión del lunes, el jefe reúne a los empleados, proyecta un gráfico de ventas y anuncia una nueva meta empresarial: elegir a su candidato favorito. Quien asiente recibe una sonrisa; quien discrepa empieza a revisar su contrato laboral. Ya administra el inventario, los horarios y la cafetera. Ahora pretende administrar también la conciencia ajena. Pronto recursos humanos podría exigir una copia notariada del pensamiento político de cada trabajador.",
+          "La escena es ficticia; la conducta que satiriza, no. El acoso electoral laboral incluye presiones, amenazas, promesas de ventajas o intimidación destinadas a influir en las preferencias políticas de quienes dependen de una relación profesional. El Ministerio Público Federal de Brasil explicó el problema en marzo de 2026; en agosto, el Tribunal Superior Electoral y las instituciones laborales ampliaron su cooperación para combatirlo. El asunto no es qué candidato prefiere el jefe. El salario paga trabajo, no obediencia electoral.",
+          "El 31 de octubre de 2026, el Ministerio de Trabajo brasileño informó que había recibido aproximadamente 4.305 denuncias en tres días a través de su canal específico. Una denuncia no es una condena, y no se puede presentar cada relato como un delito probado. Pero el volumen merece atención. Resulta irónico escuchar a un empresario defender el libre mercado mientras intenta monopolizar el voto de sus empleados. La competencia es magnífica hasta que llega a las urnas.",
+          "El voto secreto existe precisamente porque una elección política no debería depender de la vigilancia de quien controla el empleo, las prestaciones o un ascenso. La Constitución brasileña protege la libertad de conciencia y el secreto del voto; la legislación electoral sanciona determinadas formas de coacción. Los funcionarios que aprovechan su autoridad para intimidar a subordinados también deben rendir cuentas. La urna no tiene lector de fichaje, ni mucho menos un cable que la conecte al despacho del director.",
+          "Conviene distinguir. Un empresario puede tener opiniones políticas, defenderlas públicamente y debatir propuestas económicas. Los trabajadores también pueden conversar, coincidir o discrepar. No toda charla incómoda constituye acoso. El límite se cruza cuando la jerarquía se convierte en amenaza o cuando una ventaja laboral depende de la adhesión política. Prohibir cualquier conversación solo sustituiría la presión del jefe por un inspector de opiniones junto a la impresora.",
+          "Quien de verdad aprecia la libertad debe reconocerla incluso cuando el otro elige, a su juicio, equivocadamente. Es fácil defender la autonomía del empleado cuando vota igual que el dueño; más difícil cuando contradice las previsiones del departamento financiero. La misma exigencia vale para sindicatos, oficinas públicas y organizaciones que se proclaman guardianas de la democracia. Ninguna bandera convierte el chantaje en educación cívica. La conciencia no viene incluida con la credencial.",
+          "Volvamos a la reunión. El jefe puede seguir mostrando gráficos, exigiendo resultados y discutiendo el rumbo del país. Incluso puede creer que sus opiniones salvarán la economía. Lo que no puede es confundir la empresa con un colegio electoral de propiedad privada. Al terminar la jornada, el trabajador devuelve el uniforme, apaga el ordenador y se lleva algo que no figura en el balance: su libertad de elegir. Si el jefe insiste en pedir la contraseña de su conciencia, la respuesta es sencilla: se contrata el trabajo, no el voto."
+        ],
+        "photo_caption": "FOTO DE ARCHIVO (13/12/2021), Brasilia, Brasil: urna electrónica UE2020 presentada por el Tribunal Superior Electoral. Ilustra el voto secreto; no muestra acoso electoral ni un hecho reciente."
+      }
+    },
     {
       "id": "o-banco-tem-lugar-mas-a-cidade-nao-quer-que-voce-sente-2026-11-14",
       "section": "Política e sociedade",
