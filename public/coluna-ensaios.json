@@ -402,7 +402,17 @@
           "url": "https://www.vatican.va/archive/cathechism_po/index_new/p3s1cap1_1699-1876_po.html"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Pepper_a_humanoid_robot.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Kukarobot / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Pepper_a_humanoid_robot.jpg",
+          "caption": "FOTO DE ARQUIVO (09/09/2019), Hungria: robôs humanoides Pepper apresentados em evento. Imagem ilustrativa da tecnologia; não retrata a decisão automatizada discutida na coluna nem um acontecimento recente."
+        }
+      ],
       "en": {
         "title": "THE ALGORITHM GAVE THE ORDER. CONSCIENCE RESIGNED.",
         "subtitle": "Technology can recommend a decision. It cannot take the blame instead of the person who made it.",
@@ -417,7 +427,7 @@
           "What troubles me, dear reader, is our fascination with a life in which every decision comes with a ready-made excuse. Once, a man said he was following orders. Then he said everybody did it. Now he says the statistical model suggested it. Technology changed; the old desire to escape moral judgment remains fully updated. If an app tells you tomorrow to mistreat your neighbor, the blame does not automatically pass to your phone. And if it recommends a good deed, the credit still involves your choice. Freedom is not never receiving advice; it is refusing to hand the steering wheel of your conscience to something that cannot answer for the crash.",
           "Perhaps the real test of human intelligence is not building a machine that can answer every question, but remaining willing to answer for our own choices. A society that demands explanations from intelligent systems while accepting silence from responsible people has reversed the proper order. Technology can help us think, compare and decide. It cannot confess your sins, make amends on its own or apologize in your place. When the next administrative catastrophe comes with the words 'the algorithm did it,' I propose a revolutionary innovation: invite the person who pressed the button into the room. The computer may recalculate the route; conscience still has no outsourcing option."
         ],
-        "photo_caption": ""
+        "photo_caption": "ARCHIVE PHOTO (September 9, 2019), Hungary: Pepper humanoid robots displayed at an event. Illustrates the technology; not the automated decision discussed in this essay or a recent event."
       },
       "es": {
         "title": "EL ALGORITMO DIO LA ORDEN. Y LA CONCIENCIA DIMITIÓ.",
@@ -433,7 +443,7 @@
           "Lo que me preocupa, querido lector, es la fascinación por una vida en la que toda decisión viene acompañada de una excusa preparada. Antes, el sujeto decía que obedecía órdenes. Después, que todo el mundo hacía lo mismo. Ahora, que el modelo estadístico lo sugirió. Cambió la tecnología; el viejo deseo de escapar del juicio moral sigue perfectamente actualizado. Si mañana una aplicación le recomienda tratar mal a su vecino, la culpa no pasa automáticamente al móvil. Y si recomienda una buena acción, el mérito tampoco prescinde de su elección. La libertad no consiste en no recibir consejos, sino en no entregar el volante de la propia conciencia a quien no puede responder por el accidente.",
           "Tal vez la verdadera prueba de la inteligencia humana no sea construir una máquina capaz de responder a cualquier pregunta, sino seguir dispuesto a responder por nuestras propias decisiones. Una sociedad que exige explicaciones a los sistemas inteligentes y acepta el silencio de las personas responsables ha invertido el orden de las cosas. La tecnología puede ayudarnos a pensar, comparar y decidir. No puede confesar nuestros pecados, reparar por sí sola una injusticia ni pedir perdón en nuestro lugar. Cuando la próxima catástrofe administrativa venga acompañada de la frase «fue el algoritmo», propongo una innovación revolucionaria: llamar a la sala a quien pulsó el botón. El ordenador podrá recalcular la ruta; la conciencia sigue sin opción de subcontratación."
         ],
-        "photo_caption": ""
+        "photo_caption": "FOTO DE ARCHIVO (09/09/2019), Hungría: robots humanoides Pepper exhibidos en un evento. Imagen ilustrativa de la tecnología; no muestra la decisión automatizada comentada ni un hecho reciente."
       }
     },
     {
@@ -466,7 +476,17 @@
           "url": "https://www.gov.br/anpd/pt-br/centrais-de-conteudo/materiais-educativos-e-publicacoes/guia_orientativo_hipoteses_legais_tratamento_de_dados_pessoais_legitimo_interesse"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Internet_%E2%80%94_Privacidade.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Eugenio Hansen, OFS / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Internet_%E2%80%94_Privacidade.jpg",
+          "caption": "FOTO DE ARQUIVO (03/10/2018), Porto Alegre (RS): cartaz urbano sobre internet e privacidade, com representação de um controle de escolha. Imagem ilustrativa, não é captura de um banner real de cookies nem retrata acontecimento recente."
+        }
+      ],
       "en": {
         "title": "THE 'ACCEPT ALL' BUTTON AND THE FREEDOM NOT TO CHOOSE",
         "subtitle": "The internet promises to respect your decision—provided you find the reject button before old age catches up.",
@@ -481,7 +501,7 @@
           "There is a small lesson about power here. You do not have to prohibit a decision to influence it; sometimes making one option pleasant and the other unbearable will do. Whoever designs a choice can try to direct behavior without issuing an order. The problem can arise in companies, institutions and governments, and all deserve the same standard. Respect for users is not just a solemn declaration of rights. It is the humble detail of a button that lets them say no without punishment, a maze or humiliation.",
           "Dear reader, perhaps the great technological luxury of our century is neither a faster phone nor artificial intelligence that writes poetry. Perhaps it is finding a website that asks a question and accepts the answer. Brazil's data protection authority did not invent common sense; it merely recorded in administrative language that forced consent is not consent. If the pastry shop ever demands permission to analyze my soul before serving espresso, I will make a radical choice: I will leave. First, though, I must find the 'I don't want coffee' button among forty-seven tabs."
         ],
-        "photo_caption": ""
+        "photo_caption": "ARCHIVE PHOTO (October 3, 2018), Porto Alegre, Brazil: street poster about the internet and privacy featuring a choice switch. Illustrative image, not an actual cookie banner or a recent event."
       },
       "es": {
         "title": "EL BOTÓN «ACEPTAR TODO» Y LA LIBERTAD DE NO ELEGIR",
@@ -497,7 +517,7 @@
           "Hay una pequeña lección sobre el poder en todo esto. No hace falta prohibir una decisión para influir en ella; a veces basta con hacer cómoda una opción e insoportable la otra. Quien diseña la elección puede intentar dirigir la conducta sin pronunciar una orden. El problema puede surgir en empresas, instituciones y gobiernos, y todos merecen el mismo criterio. La dignidad del usuario no reside solo en una solemne declaración de derechos, sino en el humilde detalle de un botón que permita decir no sin castigo, laberintos ni humillaciones.",
           "Mi querido lector, quizá el gran lujo tecnológico de nuestro siglo no sea un teléfono más rápido ni una inteligencia artificial que escriba poemas. Quizá sea encontrar una web que haga una pregunta y acepte la respuesta. La autoridad brasileña de protección de datos no inventó el sentido común: simplemente dejó constancia, en lenguaje administrativo, de que el consentimiento forzado no es consentimiento. Si algún día la pastelería exige autorización para analizar mi alma antes de servir un expreso, tomaré una decisión radical: me marcharé. Pero antes debo encontrar, entre cuarenta y siete pestañas, el botón «No quiero café»."
         ],
-        "photo_caption": ""
+        "photo_caption": "FOTO DE ARCHIVO (03/10/2018), Porto Alegre, Brasil: cartel urbano sobre internet y privacidad que representa un control de elección. Imagen ilustrativa, no es un aviso real de cookies ni un hecho reciente."
       }
     },
     {
@@ -1076,6 +1096,17 @@
           "title": "João Paulo II, Familiaris Consortio (1981)",
           "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html"
         }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Family_reading.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público — acervo do National Cancer Institute/NIH, EUA; https://creativecommons.org/publicdomain/mark/1.0/",
+          "credit": "Linda Bartlett / National Cancer Institute (NIH) / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Family_reading.jpg",
+          "caption": "FOTO DE ARQUIVO (1980, local não informado): mãe lê para crianças reunidas em uma sala de estar. Fotografia ilustrativa do convívio familiar, não retrata acontecimento recente."
+        }
       ]
     },
     {
@@ -1097,6 +1128,17 @@
         {
           "title": "Tomás de Aquino, Suma Teológica, I-II, questão 94 — Lei natural",
           "url": "https://www.newadvent.org/summa/2094.htm"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Supremo_Tribunal_Federal%2C_Brasilia.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Hikaru Barata / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Supremo_Tribunal_Federal,_Brasilia.jpg",
+          "caption": "FOTO DE ARQUIVO (2007), Brasília (DF): escultura da Justiça em frente ao Supremo Tribunal Federal. Imagem ilustrativa do debate sobre lei e justiça, não retrata acontecimento recente."
         }
       ]
     },
@@ -1123,6 +1165,17 @@
         {
           "title": "Arquivo Raven Crow — Após a eleição: o voto confere poder ou impõe limites?",
           "url": "https://ravencrow.cloud/noticias/eleicoes-2026/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/2026-03-04_-_Plen%C3%A1rio_-_Sess%C3%A3o_Deliberativa.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 3.0 — https://creativecommons.org/licenses/by/3.0/",
+          "credit": "Bruno Spada / Câmara dos Deputados / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:2026-03-04_-_Plen%C3%A1rio_-_Sess%C3%A3o_Deliberativa.jpg",
+          "caption": "FOTO DE ARQUIVO (04/03/2026), Brasília (DF): sessão deliberativa no plenário da Câmara dos Deputados. Imagem ilustrativa da representação política, não retrata acontecimento recente."
         }
       ]
     },
@@ -1153,6 +1206,17 @@
         {
           "title": "Proyecto Comprova / Metrópoles — O gesto do L depende de contexto e pode ser associado erroneamente (2022)",
           "url": "https://www.metropoles.com/projeto-comprova/sinal-de-l-feito-por-traficantes-em-video-nao-e-referencia-a-lula"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Lula_celebra_a_vit%C3%B3ria_%2810%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 3.0 Brasil — https://creativecommons.org/licenses/by/3.0/br/",
+          "credit": "Antonio Cruz / Agência Brasil / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Lula_celebra_a_vit%C3%B3ria_(10).jpg",
+          "caption": "FOTO DE ARQUIVO (30/10/2006), Brasília (DF): Luiz Inácio Lula da Silva faz o gesto de campanha em forma de L com ambas as mãos ao saudar apoiadores diante do Palácio da Alvorada. Registro histórico, não retrata acontecimento recente."
         }
       ]
     }
