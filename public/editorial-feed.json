@@ -1,6 +1,44 @@
 {
   "articles": [
     {
+      "id": "anvisa-recolhe-lote-anestesico-bupivacaina-particula-2026-11-13",
+      "date": "2026-11-13",
+      "category": "SAÚDE",
+      "title": "Anvisa manda recolher lote de anestésico após identificar partícula estranha",
+      "subtitle": "Medida publicada em 13 de novembro proíbe venda, distribuição e uso do lote AR-001/25 de bupivacaína com glicose, fabricado pela Hipolabor.",
+      "facts": "A Agência Nacional de Vigilância Sanitária (Anvisa) determinou em 13 de novembro de 2026 o recolhimento do lote AR-001/25 do anestésico Cloridrato de Bupivacaína + Glicose (5 + 80 mg/ml), em apresentação de 100 ampolas de 4 ml, fabricado pela Hipolabor Farmacêutica. A medida foi publicada no Diário Oficial da União. Segundo a agência, o Instituto Adolfo Lutz, de São Paulo, encontrou uma partícula estranha na amostra, resultando em laudo insatisfatório quanto ao aspecto do medicamento. O lote não pode ser vendido, distribuído nem utilizado. A resolução também proibiu a propaganda de produtos de cannabis e cogumelos comercializados pela empresa Medkaya, em medida distinta.",
+      "analysis": "O recolhimento é uma medida de vigilância sanitária para impedir o uso de um lote que não atendeu a critérios de qualidade. O alerta se refere especificamente ao lote AR-001/25 e não equivale a uma proibição geral da bupivacaína ou de todos os produtos da fabricante. Estabelecimentos de saúde, distribuidores e profissionais devem conferir o número do lote e seguir as orientações oficiais de segregação e recolhimento. Pacientes que tenham dúvidas sobre medicamentos utilizados em procedimentos devem procurar a equipe responsável, sem interromper tratamentos por conta própria.",
+      "counterpoint": "Fiscalização de medicamento não é detalhe burocrático: o paciente precisa saber que o produto passou nos controles de qualidade. Mas transformar o recolhimento de um lote em acusação contra todos os anestésicos seria alarmismo. Transparência sobre o alcance da medida e a resposta do fabricante é a cobrança adequada.",
+      "sources": [
+        {
+          "name": "Anvisa — comunicado oficial, 13/11/2026",
+          "url": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-determina-recolhimento-de-anestesico-e-proibe-propaganda-de-produtos-de-cannabis"
+        },
+        {
+          "name": "Agência Brasil — 13/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-manda-recolher-anestesico-por-amostra-com-particula-estranha"
+        }
+      ],
+      "en": {
+        "title": "Brazil's Anvisa orders recall of anesthetic batch after foreign particle is found",
+        "subtitle": "The November 13 order bars sale, distribution and use of Hipolabor's AR-001/25 batch of bupivacaine with glucose.",
+        "facts": "On November 13, 2026, Brazil's National Health Surveillance Agency (Anvisa) ordered the recall of batch AR-001/25 of Bupivacaine Hydrochloride + Glucose (5 + 80 mg/ml), supplied in boxes of 100 four-milliliter ampoules and manufactured by Hipolabor Farmacêutica. The measure was published in the federal official gazette. According to Anvisa, São Paulo's Adolfo Lutz Institute found a foreign particle in a sample, leading to an unsatisfactory quality assessment of the product's appearance. The batch may not be sold, distributed or used. The same resolution separately banned advertising for cannabis and mushroom products marketed by Medkaya.",
+        "analysis": "The recall is a public-health safeguard against use of a specific batch that failed quality checks. It does not amount to a blanket ban on bupivacaine or all products made by the manufacturer. Hospitals, distributors and healthcare professionals should verify batch numbers and follow official recall instructions. Patients concerned about medication used in procedures should contact their care teams rather than make treatment changes on their own.",
+        "counterpoint": "Drug quality control is not mere bureaucracy: patients need confidence that medicines meet safety standards. But turning a single-batch recall into a claim that all anesthetics are unsafe would be misleading. The right questions concern the scope of the action and the manufacturer's response.",
+        "category": "HEALTH",
+        "slug": "brazil-s-anvisa-orders-recall-of-anesthetic-batch-after-foreign-particle-is-2026-11-13"
+      },
+      "es": {
+        "title": "Anvisa ordena retirar un lote de anestésico tras detectar una partícula extraña",
+        "subtitle": "La medida del 13 de noviembre prohíbe vender, distribuir y utilizar el lote AR-001/25 de bupivacaína con glucosa fabricado por Hipolabor.",
+        "facts": "El 13 de noviembre de 2026, la Agencia Nacional de Vigilancia Sanitaria de Brasil (Anvisa) ordenó retirar el lote AR-001/25 de Clorhidrato de Bupivacaína + Glucosa (5 + 80 mg/ml), presentado en cajas de 100 ampollas de 4 ml y fabricado por Hipolabor Farmacêutica. La medida se publicó en el diario oficial federal. Según Anvisa, el Instituto Adolfo Lutz, de São Paulo, detectó una partícula extraña en una muestra, por lo que el medicamento recibió un resultado insatisfactorio en la evaluación de su aspecto. El lote no puede venderse, distribuirse ni utilizarse. La misma resolución también prohibió, por separado, la publicidad de productos de cannabis y hongos comercializados por Medkaya.",
+        "analysis": "La retirada busca evitar el uso de un lote específico que no cumplió los controles de calidad. No representa una prohibición general de la bupivacaína ni de todos los productos del fabricante. Hospitales, distribuidores y profesionales sanitarios deben comprobar los números de lote y seguir las instrucciones oficiales. Los pacientes con dudas sobre medicamentos utilizados en procedimientos deben consultar a sus equipos médicos, sin modificar tratamientos por cuenta propia.",
+        "counterpoint": "El control de calidad de los medicamentos no es un simple trámite: los pacientes necesitan garantías. Pero presentar la retirada de un lote como prueba de que todos los anestésicos son inseguros sería alarmista. Lo importante es conocer el alcance de la medida y la respuesta del fabricante.",
+        "category": "SALUD",
+        "slug": "anvisa-ordena-retirar-un-lote-de-anestesico-tras-detectar-una-particula-extrana-2026-11-13"
+      }
+    },
+    {
       "id": "eua-suspendem-decolagens-falha-comunicacao-faa-2026-11-13",
       "date": "2026-11-13",
       "category": "MUNDO",
