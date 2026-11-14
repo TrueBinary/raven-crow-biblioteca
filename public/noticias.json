@@ -5,7 +5,39 @@
   "updatedAt": "2026-11-12T10:05:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
-{
+    {
+      "id": "zelensky-rejeita-ceder-donbas-proposta-otan-2026-11-14",
+      "date": "2026-11-14",
+      "category": "MUNDO",
+      "title": "Zelensky diz que EUA discutiram troca de Donbas por entrada da Ucrânia na Otan",
+      "subtitle": "Presidente ucraniano afirma que não aceita ceder território e condiciona eventual proposta ampla à consulta popular.",
+      "facts": "O presidente da Ucrânia, Volodymyr Zelensky, afirmou em 14 de novembro de 2026 que negociadores dos Estados Unidos levantaram, em conversas recentes mediadas em Abu Dhabi com a Rússia, a hipótese de retirada ucraniana da região de Donbas em troca de adesão à Otan. Segundo Zelensky, Kiev não está disposta a entregar território. Ele afirmou que qualquer proposta abrangente, incluindo garantias de segurança, financiamento para reconstrução e manutenção de forças armadas robustas, seria submetida a referendo. A declaração não significa que exista acordo aprovado pelos Estados Unidos, pela Rússia ou pela Otan. Zelensky também disse que houve entendimento preliminar para uma troca de mais de mil prisioneiros, mas os números finais não estão definidos. A Reuters relatou as declarações neste sábado.",
+      "analysis": "A hipótese expõe o impasse entre integridade territorial, garantias de segurança e a oposição russa à adesão da Ucrânia à Otan. Uma ideia levantada em negociações não constitui compromisso diplomático. O eventual referendo, os requisitos para ingresso na aliança e o consentimento de seus membros seriam obstáculos adicionais.",
+      "counterpoint": "Trocar território por uma promessa de segurança parece simples num mapa de gabinete; para quem vive no território, não é. A questão central é se qualquer proposta pode garantir paz duradoura sem premiar a conquista militar nem ignorar a vontade dos ucranianos.",
+      "sources": [
+        {
+          "name": "Reuters — US floated idea of Ukraine ceding Donbas for NATO membership, Zelenskiy says, 14/11/2026",
+          "url": "https://www.reuters.com/world/europe/us-floated-idea-ukraine-ceding-donbas-nato-membership-zelenskiy-says-2026-11-14/"
+        }
+      ],
+      "en": {
+        "title": "Zelenskyy says US raised Donbas-for-NATO idea in Ukraine peace talks",
+        "subtitle": "Ukraine's president rejects territorial concessions and says any comprehensive proposal would face a referendum.",
+        "facts": "On November 14, 2026, Ukrainian President Volodymyr Zelenskyy said US negotiators had raised the possibility of a Ukrainian withdrawal from Donbas in exchange for NATO membership during recent US-brokered talks with Russia in Abu Dhabi. Zelenskyy said Kyiv was unwilling to surrender territory. He said any comprehensive proposal involving security guarantees, reconstruction funding and a strong, well-funded military would be put to a referendum. His remarks do not mean the United States, Russia or NATO have approved such an agreement. Zelenskyy also described a preliminary understanding on a prisoner exchange involving more than 1,000 people, although final numbers remain unsettled. Reuters reported the remarks on Saturday.",
+        "analysis": "The suggestion underscores the tension between territorial integrity, security guarantees and Russia's opposition to Ukrainian NATO membership. A negotiating idea is not a diplomatic commitment. A referendum, NATO accession requirements and member-state consent would create further hurdles.",
+        "counterpoint": "Trading territory for a security promise may look straightforward on a negotiating map, but not to the people living there. The real test is whether any proposal can secure lasting peace without rewarding military conquest or bypassing Ukrainians' wishes.",
+        "category": "WORLD"
+      },
+      "es": {
+        "title": "Zelenski afirma que EE. UU. planteó intercambiar Donbás por el ingreso de Ucrania en la OTAN",
+        "subtitle": "El presidente ucraniano rechaza ceder territorio y dice que cualquier propuesta integral se sometería a referéndum.",
+        "facts": "El 14 de noviembre de 2026, el presidente ucraniano Volodymyr Zelenski afirmó que negociadores de Estados Unidos habían planteado una retirada ucraniana de Donbás a cambio del ingreso en la OTAN durante recientes conversaciones con Rusia mediadas por Washington en Abu Dabi. Zelenski dijo que Kiev no está dispuesta a ceder territorio. Añadió que cualquier propuesta integral con garantías de seguridad, fondos para la reconstrucción y unas fuerzas armadas sólidas y bien financiadas se sometería a referéndum. Sus palabras no significan que Estados Unidos, Rusia o la OTAN hayan aprobado tal acuerdo. También mencionó un entendimiento preliminar para intercambiar a más de mil prisioneros, aunque las cifras finales siguen sin definirse. Reuters informó sobre sus declaraciones este sábado.",
+        "analysis": "La idea refleja el choque entre la integridad territorial, las garantías de seguridad y la oposición rusa al ingreso ucraniano en la OTAN. Una hipótesis de negociación no equivale a un compromiso diplomático. Un referéndum, las condiciones de adhesión y el consentimiento de los miembros de la alianza serían obstáculos adicionales.",
+        "counterpoint": "Intercambiar territorio por una promesa de seguridad puede parecer sencillo sobre un mapa, pero no para quienes viven allí. Lo esencial es saber si alguna propuesta puede garantizar una paz duradera sin premiar la conquista militar ni ignorar la voluntad de los ucranianos.",
+        "category": "MUNDO"
+      }
+    },
+    {
       "id": "pane-faa-eua-cancela-milhares-voos-2026-11-14",
       "date": "2026-11-14",
       "category": "MUNDO",
@@ -176,7 +208,7 @@
         }
       }
     },
-{
+    {
       "id": "microsoft-confirma-restabelecimento-servicos-apos-pane-global-2026-11-14",
       "date": "2026-11-14",
       "category": "TECNOLOGIA",
@@ -229,7 +261,7 @@
         }
       ]
     },
-{
+    {
       "id": "ucrania-russia-1200-drones-ataques-volgogrado-2026-11-14",
       "date": "2026-11-14",
       "category": "MUNDO",
@@ -286,7 +318,7 @@
         }
       ]
     },
-{
+    {
       "id": "eua-registram-5412-casos-sarampo-cdc-2026-11-14",
       "date": "2026-11-14",
       "category": "SAÚDE",
@@ -343,7 +375,7 @@
         }
       ]
     },
-{
+    {
       "id": "fachin-suspende-prazos-judiciais-pane-microsoft-2026-11-14",
       "date": "2026-11-14",
       "category": "JUSTIÇA",
@@ -392,7 +424,7 @@
         }
       ]
     },
-{
+    {
       "id": "lula-chega-filipinas-asean-parceria-comercial-2026-11-14",
       "date": "2026-11-14",
       "category": "MUNDO",
