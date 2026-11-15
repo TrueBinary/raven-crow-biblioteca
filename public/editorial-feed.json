@@ -1,6 +1,44 @@
 {
   "articles": [
     {
+      "id": "bahrein-emite-alertas-ameaca-ira-alega-ataque-base-eua-2026-11-15",
+      "date": "2026-11-15",
+      "category": "MUNDO",
+      "title": "Bahrein emite alertas de ameaça; Irã afirma ter atacado radar de base dos EUA",
+      "subtitle": "Ministério do Interior orientou moradores a procurar segurança; ataque anunciado por Teerã não havia sido confirmado por Washington ou Manama.",
+      "facts": "O Ministério do Interior do Bahrein emitiu dois alertas de possíveis ameaças neste domingo, 15 de novembro de 2026, e orientou a população a manter a calma e procurar locais seguros. Foram os primeiros avisos desse tipo desde setembro, segundo a Reuters. A Guarda Revolucionária do Irã afirmou ter enviado seis drones contra um radar de defesa aérea dos Estados Unidos na base de helicópteros de Al-Rifaa, no Bahrein. Até a divulgação inicial das reportagens, autoridades dos Estados Unidos e do Bahrein não haviam confirmado que esse ataque ocorreu ou que o radar foi atingido. O Bahrein abriga a Quinta Frota da Marinha americana. Dois dias antes, o Irã havia alegado outro ataque a radar, enquanto os Estados Unidos disseram ter interceptado dois drones sem danos.",
+      "analysis": "Os alertas emitidos pelo ministério são um fato confirmado, mas a alegação iraniana sobre o lançamento e o resultado dos drones permanece sem confirmação independente. O episódio reforça a vulnerabilidade de instalações militares e civis no Golfo em meio à tensão regional. Não há base para tratar o alegado impacto no radar como comprovado.",
+      "counterpoint": "Em uma crise militar, confundir alerta oficial com confirmação de ataque é dar ao boato o status de fato. O aviso à população merece atenção; já o suposto acerto no radar exige evidências que não dependam apenas de quem reivindica a operação.",
+      "sources": [
+        {
+          "name": "Reuters — Bahrain issues first threat alerts since September as Iran says it attacked US base, 15/11/2026",
+          "url": "https://www.reuters.com/world/middle-east/bahrains-interior-ministry-issues-alerts-potential-threats-2026-11-15/"
+        },
+        {
+          "name": "UOL Notícias — Irã diz ter atacado base militar dos EUA, e Bahrein emite alerta de ameaça, 15/11/2026",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/15/ira-anuncia-ataque-com-seis-drones-a-radar-dos-eua-no-bahrein.ghtm"
+        }
+      ],
+      "en": {
+        "title": "Bahrain issues threat alerts as Iran claims drone strike on US base radar",
+        "subtitle": "Interior Ministry urged residents to seek safety; Washington and Manama had not confirmed Tehran's claimed attack.",
+        "facts": "Bahrain's Interior Ministry issued two potential-threat alerts on Sunday, November 15, 2026, urging residents to remain calm and move to safety. Reuters said they were the first such alerts since September. Iran's Revolutionary Guard claimed it had launched six drones at a US air-defence radar at the Al-Rifaa helicopter base in Bahrain. At the time of the initial reports, neither US nor Bahraini authorities had confirmed that the reported attack took place or that the radar was hit. Bahrain hosts the US Navy's Fifth Fleet. Two days earlier Iran had claimed a separate radar strike, while the United States said it intercepted two drones without damage.",
+        "analysis": "The ministry's warnings are confirmed, but Iran's claims about launching drones and hitting the radar remain independently unverified. The episode underscores regional tensions and risks to military and civilian facilities.",
+        "counterpoint": "An official public-safety alert is not proof that a claimed strike succeeded. Residents' safety matters, but military claims still require independent evidence.",
+        "category": "WORLD",
+        "slug": "bahrain-issues-threat-alerts-as-iran-claims-drone-strike-on-us-base-radar-2026-11-15"
+      },
+      "es": {
+        "title": "Baréin emite alertas de amenaza mientras Irán afirma haber atacado un radar estadounidense",
+        "subtitle": "Interior pidió a la población buscar refugio; Washington y Manama no habían confirmado el supuesto ataque.",
+        "facts": "El Ministerio del Interior de Baréin emitió dos alertas de posibles amenazas el domingo 15 de noviembre de 2026 y pidió a la población mantener la calma y buscar lugares seguros. Según Reuters, fueron los primeros avisos de este tipo desde septiembre. La Guardia Revolucionaria de Irán afirmó haber lanzado seis drones contra un radar de defensa aérea estadounidense en la base de helicópteros de Al-Rifaa, en Baréin. Al publicarse los primeros informes, ni Estados Unidos ni Baréin habían confirmado que el ataque se produjera o que el radar hubiera sido alcanzado. Baréin alberga la Quinta Flota de la Marina estadounidense. Dos días antes Irán había alegado otro ataque contra un radar, mientras Estados Unidos aseguró haber interceptado dos drones sin daños.",
+        "analysis": "Las advertencias del ministerio están confirmadas, pero las afirmaciones iraníes sobre el lanzamiento de drones y sus resultados siguen sin verificación independiente. El episodio refleja la tensión regional y los riesgos para instalaciones militares y civiles.",
+        "counterpoint": "Una alerta oficial de seguridad no demuestra que un ataque reivindicado haya tenido éxito. La protección de la población es prioritaria, pero las afirmaciones militares requieren pruebas independientes.",
+        "category": "MUNDO",
+        "slug": "barein-emite-alertas-de-amenaza-mientras-iran-afirma-haber-atacado-un-radar-2026-11-15"
+      }
+    },
+    {
       "id": "hamas-confirma-morte-comandante-samir-abu-younis-2026-11-14",
       "date": "2026-11-14",
       "category": "MUNDO",
