@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "junior-javorski-vence-kc-pro-classic-physique-2026-11-15",
+      "date": "2026-11-15",
+      "title": "JUNIOR JAVORSKI VENCE KC PRO E GARANTE VAGA NO OLYMPIA 2027",
+      "subtitle": "Brasileiro lidera Classic Physique em Kansas City; súmula oficial confirma vitória sobre Daniel Fabode e Dominic Carter.",
+      "category": "ESPORTE",
+      "facts": "Junior Javorski venceu em 14 de novembro de 2026 a categoria Men's Classic Physique Open do KC Pro, competição da IFBB Pro League em Kansas City, Missouri, Estados Unidos. A súmula oficial registra Javorski em primeiro lugar com total 3, Daniel Fabode (Estados Unidos) em segundo com 6 e Dominic Carter (Estados Unidos) em terceiro com 9. Na divisão Bikini, a vencedora foi Iulia Baba, da Romênia. A vitória de Javorski, após o título no FitPira Pro no fim de semana anterior, assegura sua classificação para o Olympia 2027 segundo a regra de duas vitórias aplicável ao período qualificatório.",
+      "analysis": "O resultado tem peso além do troféu: duas vitórias profissionais no período de qualificação dão acesso direto ao Olympia, dispensando a disputa por uma das vagas de ranking. A comparação da súmula mostra vantagem clara na avaliação dos árbitros: Javorski somou 3 pontos, ante 6 do vice-campeão. Na mesma data, outro brasileiro, Kaique Santos, venceu Men's Physique no Luciano Cruz Juiz de Fora Pro, conforme classificação oficial da IFBB Pro League; são categorias distintas, com critérios próprios de avaliação.",
+      "counterpoint": "A classificação ao Olympia não antecipa a posição do atleta na competição de 2027. O resultado de Kansas City comprova a vitória naquela disputa, mas não permite inferir desempenho futuro nem comparar diretamente notas entre categorias diferentes.",
+      "sources": [
+        {
+          "name": "IFBB Pro League — resultados oficiais do KC Pro 2026",
+          "url": "https://www.ifbbpro.com/competition/2026-kc-pro/"
+        },
+        {
+          "name": "IFBB Pro League — Luciano Cruz Juiz de Fora Pro 2026",
+          "url": "https://www.ifbbpro.com/competition/2026-luciano-cruz-juiz-de-fora-pro/"
+        },
+        {
+          "name": "Fitness Volt — resultados e análise do KC Pro 2026",
+          "url": "https://fitnessvolt.com/2026-kc-pro-results/"
+        }
+      ],
+      "en": {
+        "title": "JUNIOR JAVORSKI WINS KC PRO AND SECURES 2027 OLYMPIA BERTH",
+        "subtitle": "Brazilian tops Classic Physique in Kansas City; official scorecard confirms win over Daniel Fabode and Dominic Carter.",
+        "facts": "On November 14, 2026, Junior Javorski won the Men's Classic Physique Open division at the IFBB Pro League KC Pro in Kansas City, Missouri, United States. The official scorecard places Javorski first with a total of 3, Daniel Fabode (United States) second with 6 and Dominic Carter (United States) third with 9. Romania's Iulia Baba won the Bikini division. Coming after his FitPira Pro title the previous weekend, Javorski's victory secures a place at the 2027 Olympia under the two-win qualifying rule for the relevant period.",
+        "analysis": "The result matters beyond the trophy: two professional wins during the qualifying period provide direct Olympia qualification without relying on a ranking spot. The scorecard shows Javorski leading with 3 judging points against 6 for the runner-up. On the same date, fellow Brazilian Kaique Santos won Men's Physique at the Luciano Cruz Juiz de Fora Pro, according to the IFBB Pro League's official results. These are separate divisions with distinct judging standards.",
+        "counterpoint": "Qualification does not predict Javorski's placing at the 2027 Olympia. The Kansas City scorecard establishes this event's result, not future performance or direct comparisons between different divisions.",
+        "category": "SPORT",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (September 28, 2019): prize table at a bodybuilding competition in Sweden. Photo: Rikard Strömmer / Wikimedia Commons (CC BY-SA 4.0). Illustrative only: it does not show Junior Javorski, the 2026 KC Pro or the 2027 Olympia."
+        },
+        "slug": "junior-javorski-wins-kc-pro-and-secures-2027-olympia-berth-2026-11-15"
+      },
+      "es": {
+        "title": "JUNIOR JAVORSKI GANA EL KC PRO Y SE CLASIFICA PARA EL OLYMPIA 2027",
+        "subtitle": "El brasileño lidera Classic Physique en Kansas City; el acta oficial confirma su victoria ante Daniel Fabode y Dominic Carter.",
+        "facts": "El 14 de noviembre de 2026, Junior Javorski ganó la categoría Men's Classic Physique Open del KC Pro de la IFBB Pro League en Kansas City, Misuri, Estados Unidos. El acta oficial sitúa a Javorski primero con 3 puntos totales, a Daniel Fabode (Estados Unidos) segundo con 6 y a Dominic Carter (Estados Unidos) tercero con 9. La rumana Iulia Baba ganó Bikini. Tras conquistar el FitPira Pro el fin de semana anterior, Javorski obtiene plaza para el Olympia 2027 por la regla de dos victorias durante el período clasificatorio.",
+        "analysis": "El resultado vale más que un trofeo: dos victorias profesionales dentro del período de clasificación permiten acceder directamente al Olympia sin depender del ranking. El acta refleja 3 puntos para Javorski frente a 6 del segundo. Ese mismo día, otro brasileño, Kaique Santos, ganó Men's Physique en el Luciano Cruz Juiz de Fora Pro, según los resultados oficiales de la IFBB Pro League. Son divisiones distintas con criterios de evaluación propios.",
+        "counterpoint": "La clasificación no permite anticipar la posición de Javorski en el Olympia 2027. El acta de Kansas City acredita el resultado de esta competición, no su rendimiento futuro ni comparaciones directas entre categorías.",
+        "category": "DEPORTE",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (28 de septiembre de 2019): mesa de premios de una competición de fisicoculturismo en Suecia. Foto: Rikard Strömmer / Wikimedia Commons (CC BY-SA 4.0). Imagen ilustrativa: no muestra a Junior Javorski, el KC Pro de 2026 ni el Olympia de 2027."
+        },
+        "slug": "junior-javorski-gana-el-kc-pro-y-se-clasifica-para-el-olympia-2027-2026-11-15"
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/SBFF_SM_2019_Prices_day_1.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Rikard Strömmer / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:SBFF_SM_2019_Prices_day_1.jpg",
+          "caption": "FOTO DE ARQUIVO (28/09/2019): mesa de prêmios de um campeonato de fisiculturismo na Suécia. Foto: Rikard Strömmer / Wikimedia Commons (CC BY-SA 4.0). Imagem meramente ilustrativa: não mostra Junior Javorski, o KC Pro de 2026 nem o Olympia de 2027."
+        }
+      ],
+      "firstSeen": "2026-11-15T17:58:00-03:00"
+    },
+    {
+      "id": "forcas-iemen-recuam-bab-el-mandeb-aden-2026-11-15",
+      "date": "2026-11-15",
+      "title": "FORÇAS DO IÊMEN RECUAM DE ESTREITO ESTRATÉGICO PARA DEFENDER ÁDEN",
+      "subtitle": "Retirada da região de Bab el-Mandeb amplia pressão dos houthis sobre o litoral do mar Vermelho.",
+      "category": "MUNDO",
+      "facts": "Forças alinhadas ao governo do Iêmen, apoiado pela Arábia Saudita, anunciaram em 15 de novembro a retirada de posições próximas ao aeroporto de Dhubab e ao estreito de Bab el-Mandeb. Segundo o comunicado militar, a prioridade é reforçar a defesa de Áden e de províncias vizinhas. A retirada ocorre após semanas de ofensiva contra os houthis e diante do agravamento dos combates em Taiz.",
+      "analysis": "Bab el-Mandeb liga o mar Vermelho ao golfo de Áden e integra uma rota essencial para o comércio entre Ásia e Europa. A perda de posições próximas ao estreito pode aumentar a capacidade dos houthis de pressionar a navegação, mas não significa, por si só, que todo o tráfego marítimo esteja interrompido.",
+      "counterpoint": "Os militares descrevem o movimento como um reposicionamento estratégico para proteger Áden e reforçar outras frentes. A extensão do controle territorial houthi e os efeitos futuros sobre a navegação ainda exigem acompanhamento.",
+      "sources": [
+        {
+          "name": "Reuters — forças do Iêmen recuam na região de Bab el-Mandeb (15/11/2026)",
+          "url": "https://www.reuters.com/world/middle-east/yemen-government-forces-withdraw-area-near-bab-el-mandeb-strait-houthis-control-2026-11-15/"
+        },
+        {
+          "name": "The National — deslocamento das forças iemenitas perto de Bab el-Mandeb (15/11/2026)",
+          "url": "https://www.thenationalnews.com/news/mena/2026/11/15/southern-yemeni-forces-withdraw-from-area-near-bab-al-mandab/"
+        }
+      ],
+      "en": {
+        "title": "YEMENI FORCES WITHDRAW FROM STRATEGIC STRAIT TO DEFEND ADEN",
+        "subtitle": "Pullback from Bab el-Mandeb adds to Houthi pressure along the Red Sea coast.",
+        "facts": "On November 15, forces aligned with Yemen's Saudi-backed government announced their withdrawal from positions near Dhubab airport and the Bab el-Mandeb Strait. Military officials said the priority was to reinforce the defence of Aden and neighbouring governorates. The move follows weeks of operations against the Houthis and worsening fighting around Taiz.",
+        "analysis": "Bab el-Mandeb connects the Red Sea with the Gulf of Aden and is vital to trade between Asia and Europe. The retreat could strengthen Houthi leverage over shipping, but it does not establish that all maritime traffic has stopped.",
+        "counterpoint": "The forces describe the move as a strategic redeployment to protect Aden and reinforce other fronts. The extent of Houthi territorial control and the consequences for shipping remain to be monitored.",
+        "category": "WORLD",
+        "slug": "yemeni-forces-withdraw-from-strategic-strait-to-defend-aden-2026-11-15"
+      },
+      "es": {
+        "title": "FUERZAS YEMENÍES SE RETIRAN DE UN ESTRECHO ESTRATÉGICO PARA DEFENDER ADÉN",
+        "subtitle": "La retirada de Bab el-Mandeb aumenta la presión hutí sobre la costa del mar Rojo.",
+        "facts": "El 15 de noviembre, fuerzas aliadas del Gobierno yemení, respaldado por Arabia Saudita, anunciaron su retirada de posiciones próximas al aeropuerto de Dhubab y al estrecho de Bab el-Mandeb. Según los mandos militares, la prioridad es reforzar la defensa de Adén y de las provincias vecinas. La decisión llega tras semanas de operaciones contra los hutíes y el agravamiento de los combates en Taiz.",
+        "analysis": "Bab el-Mandeb conecta el mar Rojo con el golfo de Adén y es fundamental para el comercio entre Asia y Europa. La retirada podría aumentar la influencia hutí sobre la navegación, pero no significa que todo el tráfico marítimo se haya detenido.",
+        "counterpoint": "Las fuerzas presentan la decisión como un redespliegue estratégico para proteger Adén y reforzar otros frentes. El alcance del control territorial hutí y sus efectos sobre la navegación aún deben seguirse de cerca.",
+        "category": "MUNDO",
+        "slug": "fuerzas-yemenies-se-retiran-de-un-estrecho-estrategico-para-defender-aden-2026-11-15"
+      },
+      "firstSeen": "2026-11-15T17:58:00-03:00"
+    },
+    {
       "id": "praga-protesto-midia-publica-350-mil-2026-11-15",
       "date": "2026-11-15",
       "category": "MUNDO",
