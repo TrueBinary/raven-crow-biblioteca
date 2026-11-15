@@ -6,6 +6,46 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "democrata-vence-governo-alasca-primeira-vez-desde-1998-2026-11-14",
+      "date": "2026-11-14",
+      "category": "MUNDO",
+      "title": "Democrata vence eleição para governador do Alasca pela primeira vez desde 1998",
+      "subtitle": "Jonathan Kreiss-Tomkins derrota três republicanos, incluindo uma candidata apoiada por Trump; resultado ainda aguarda certificação oficial.",
+      "facts": "O ex-deputado estadual Jonathan Kreiss-Tomkins, de 37 anos, foi projetado vencedor da eleição para governador do Alasca, realizada em 3 de novembro de 2026. A Associated Press anunciou a vitória após a apuração prolongada dos votos, e a Reuters repercutiu o resultado em 14 de novembro. Ele derrotou três candidatos republicanos, incluindo Bernadette Wilson, apoiada por Donald Trump, e deverá suceder Mike Dunleavy em 7 de dezembro. É a primeira vitória democrata para o governo estadual desde a reeleição de Tony Knowles em 1998. A imprensa local ressalta que o resultado ainda precisa de certificação, prevista para 25 de novembro.",
+      "analysis": "A vitória altera o controle partidário do governo do Alasca, estado historicamente favorável aos republicanos em eleições presidenciais. Kreiss-Tomkins fez campanha com foco no custo de vida, financiamento de escolas públicas e regulação de novos centros de dados, além de prometer uma administração bipartidária. A divisão do voto entre três candidatos republicanos e o apoio de lideranças de diferentes partidos são fatores relevantes para compreender o resultado.",
+      "counterpoint": "Uma vitória democrata no Alasca não significa que todos os eleitores tenham mudado de ideologia. O eleitor também cobra contas do governo, energia acessível e escolas que funcionem. Para o vencedor, o desafio começa quando termina a campanha: transformar promessas em resultados mensuráveis.",
+      "sources": [
+        {
+          "name": "Associated Press — Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska, 14/11/2026",
+          "url": "https://apnews.com/article/c7e7176b233d5078e5c297da639e4471"
+        },
+        {
+          "name": "Reuters — Alaska elects first Democratic governor since 1998, 14/11/2026",
+          "url": "https://www.reuters.com/world/us/alaska-elects-first-democratic-governor-since-1998-us-media-project-2026-11-14/"
+        },
+        {
+          "name": "Alaska Public Media — Alaska elects Democrat Jonathan Kreiss-Tomkins governor, 13/11/2026",
+          "url": "https://alaskapublic.org/news/politics/elections/2026-11-13/alaska-elects-democrat-jonathan-kreiss-tomkins-governor"
+        }
+      ],
+      "en": {
+        "title": "Democrat wins Alaska governor's race for first time since 1998",
+        "subtitle": "Jonathan Kreiss-Tomkins defeats three Republicans, including a Trump-backed candidate; the result awaits official certification.",
+        "facts": "Former state lawmaker Jonathan Kreiss-Tomkins, 37, was projected the winner of Alaska's November 3, 2026 gubernatorial election. The Associated Press called the race after an extended vote count, and Reuters reported the result on November 14. He defeated three Republican candidates, including Donald Trump-backed Bernadette Wilson, and is expected to succeed Mike Dunleavy on December 7. This is the first Democratic gubernatorial election victory in Alaska since Tony Knowles was reelected in 1998. Local media report that certification is expected on November 25.",
+        "analysis": "The result flips control of the governorship in a state that generally favors Republicans in presidential elections. Kreiss-Tomkins campaigned on affordability, public-school funding and regulating new data centers, and pledged a bipartisan administration. Three Republican candidates splitting their vote and endorsements across party lines are important factors in understanding the outcome.",
+        "counterpoint": "A Democratic win in Alaska does not mean every voter changed political beliefs. Voters also demand accountable government, affordable energy and effective schools. The winner's challenge begins when campaigning ends: turning promises into measurable results.",
+        "category": "WORLD"
+      },
+      "es": {
+        "title": "Un demócrata gana la gobernación de Alaska por primera vez desde 1998",
+        "subtitle": "Jonathan Kreiss-Tomkins derrota a tres republicanos, incluida una candidata respaldada por Trump; el resultado aún debe certificarse oficialmente.",
+        "facts": "El exlegislador estatal Jonathan Kreiss-Tomkins, de 37 años, fue declarado ganador proyectado de las elecciones para gobernador de Alaska celebradas el 3 de noviembre de 2026. Associated Press anunció su victoria tras un prolongado recuento, y Reuters informó del resultado el 14 de noviembre. Derrotó a tres candidatos republicanos, incluida Bernadette Wilson, respaldada por Donald Trump, y está previsto que suceda a Mike Dunleavy el 7 de diciembre. Es la primera victoria demócrata en unas elecciones para gobernador del estado desde la reelección de Tony Knowles en 1998. Según medios locales, la certificación está prevista para el 25 de noviembre.",
+        "analysis": "La victoria cambia el control partidista de la gobernación de un estado que suele favorecer a los republicanos en las elecciones presidenciales. Kreiss-Tomkins centró su campaña en el costo de vida, la financiación de las escuelas públicas y la regulación de nuevos centros de datos, además de prometer una administración bipartidista. La división del voto entre tres candidatos republicanos y los apoyos de figuras de distintos partidos ayudan a explicar el resultado.",
+        "counterpoint": "Una victoria demócrata en Alaska no significa que todos los votantes hayan cambiado de ideología. También exigen un gobierno responsable, energía asequible y escuelas que funcionen. El reto del vencedor comienza cuando termina la campaña: convertir promesas en resultados medibles.",
+        "category": "MUNDO"
+      }
+    },
+    {
       "id": "riot-league-of-legends-new-dawn-teaser-2026-11-14",
       "date": "2026-11-14",
       "category": "CULTURA",
