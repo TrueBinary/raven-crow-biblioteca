@@ -6,6 +6,46 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "fux-leva-julgamento-escala-6x1-plenario-stf-2026-11-14",
+      "date": "2026-11-14",
+      "category": "JUSTIÇA",
+      "title": "Fux interrompe julgamento virtual sobre fim da escala 6x1; caso vai ao plenário do STF",
+      "subtitle": "Pedido de destaque reinicia a votação presencial; liminar de Flávio Dino sobre a transição continua valendo.",
+      "facts": "O ministro Luiz Fux, do Supremo Tribunal Federal (STF), pediu destaque neste sábado, 14 de novembro de 2026, e interrompeu o julgamento virtual sobre as regras de transição do fim da escala de trabalho 6x1. A análise será retomada no plenário presencial, em data a ser definida pelo presidente da Corte, Edson Fachin. Antes da interrupção, quatro ministros haviam votado para manter a decisão provisória de Flávio Dino: o relator, Alexandre de Moraes, Cármen Lúcia e Gilmar Mendes. O julgamento presencial recomeça com novos votos, mas a liminar de Dino permanece em vigor. A transição prevista começa em 16 de dezembro de 2026, com redução da jornada semanal de 44 para 42 horas, e prevê 40 horas semanais em dezembro de 2027.",
+      "analysis": "O pedido de destaque não revoga o fim da escala 6x1 nem suspende automaticamente as regras de transição. O processo envolve questionamentos de entidades empresariais sobre a constitucionalidade e os prazos de adaptação. O debate jurídico também alcança a negociação coletiva da distribuição dos descansos e as condições operacionais para empresas e trabalhadores.",
+      "counterpoint": "O plenário terá de equilibrar segurança jurídica, custos de adaptação e descanso dos trabalhadores. O que não dá é confundir uma mudança no formato do julgamento com a derrubada da lei: a liminar continua em vigor enquanto o STF não decidir.",
+      "sources": [
+        {
+          "name": "Folha de S.Paulo — Fux interrompe julgamento virtual da escala 6x1, 14/11/2026",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/11/fux-interrompe-julgamento-virtual-da-escala-6x1-e-manda-caso-para-plenario-do-stf.shtml"
+        },
+        {
+          "name": "SBT News — Fux interrompe julgamento sobre fim da 6x1, 14/11/2026",
+          "url": "https://sbtnews.sbt.com.br/noticia/brasil/fux-interrompe-julgamento-sobre-fim-da-6x1-no-stf"
+        },
+        {
+          "name": "Metrópoles — Fux suspende julgamento virtual da escala 6x1, 14/11/2026",
+          "url": "https://www.metropoles.com/brasil/fux-suspende-julgamento-virtual-da-escala-6x1-e-pede-que-caso-va-a-plenario"
+        }
+      ],
+      "en": {
+        "title": "Fux moves Brazil's 6x1 workweek ruling to Supreme Court's in-person plenary",
+        "subtitle": "The procedural request restarts voting in person; Justice Flávio Dino's interim transition order remains in effect.",
+        "facts": "On November 14, 2026, Brazilian Supreme Federal Court (STF) Justice Luiz Fux requested that the virtual review of the transition away from the six-days-on, one-day-off work schedule be moved to an in-person plenary session. Court president Edson Fachin will set a new date. Four justices had supported rapporteur Flávio Dino's interim order before the interruption: Dino, Alexandre de Moraes, Cármen Lúcia and Gilmar Mendes. Voting will restart in person, but Dino's interim order remains in force. The transition is scheduled to begin on December 16, 2026, reducing weekly hours from 44 to 42, with a further reduction to 40 hours in December 2027.",
+        "analysis": "The procedural move does not repeal the workweek reform or automatically halt its implementation. Business groups are challenging the constitutionality and adjustment deadlines, while collective bargaining and rest-day arrangements remain key questions.",
+        "counterpoint": "The court must balance legal certainty, employers' transition costs and workers' rest. Moving a case to the plenary is not the same as striking down the reform: the interim order still applies.",
+        "category": "JUSTICE"
+      },
+      "es": {
+        "title": "Fux lleva al pleno presencial del STF el juicio sobre el fin de la jornada 6x1",
+        "subtitle": "La solicitud reinicia la votación presencial; sigue vigente la medida cautelar de Flávio Dino sobre la transición.",
+        "facts": "El 14 de noviembre de 2026, el ministro Luiz Fux del Supremo Tribunal Federal de Brasil (STF) solicitó trasladar al pleno presencial el juicio virtual sobre la transición del régimen laboral de seis días de trabajo por uno de descanso. El presidente del tribunal, Edson Fachin, fijará la nueva fecha. Antes de la interrupción, cuatro ministros respaldaban la medida provisional del ponente Flávio Dino: Dino, Alexandre de Moraes, Cármen Lúcia y Gilmar Mendes. La votación comenzará de nuevo presencialmente, pero la medida de Dino sigue vigente. La transición está prevista para el 16 de diciembre de 2026, cuando la jornada semanal bajará de 44 a 42 horas, con una reducción a 40 horas en diciembre de 2027.",
+        "analysis": "El cambio de procedimiento no deroga la reforma ni suspende automáticamente su aplicación. Entidades empresariales cuestionan la constitucionalidad y los plazos de adaptación, mientras que la negociación colectiva y la distribución de los descansos siguen en debate.",
+        "counterpoint": "El tribunal deberá equilibrar la seguridad jurídica, los costos de adaptación y el descanso de los trabajadores. Trasladar un juicio al pleno no equivale a anular la reforma: la medida provisional continúa vigente.",
+        "category": "JUSTICIA"
+      }
+    },
+    {
       "id": "democrata-vence-governo-alasca-primeira-vez-desde-1998-2026-11-14",
       "date": "2026-11-14",
       "category": "MUNDO",
