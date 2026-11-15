@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "defesa-civil-alerta-temporais-sao-paulo-15-novembro-2026",
+      "date": "2026-11-15",
+      "category": "BRASIL",
+      "title": "DEFESA CIVIL ALERTA PARA TEMPORAIS EM SÃO PAULO NESTE DOMINGO",
+      "subtitle": "Previsão para 15 de novembro inclui raios, rajadas de vento acima de 60 km/h e possibilidade de granizo; capital e litoral estão entre as áreas de atenção.",
+      "facts": "A Defesa Civil do Estado de São Paulo alertou para pancadas de chuva potencialmente fortes neste domingo, 15 de novembro de 2026. Segundo informações divulgadas pela Agência Brasil às 10h34, um corredor de umidade da Amazônia e uma área de instabilidade atmosférica favorecem chuva intensa, raios, ventos e eventual granizo. O risco de temporais é maior nas faixas leste, nordeste e norte do estado. Na capital, o Centro de Gerenciamento de Emergências Climáticas (CGE) prevê chuva localizada entre a tarde e a noite, com rajadas que podem superar 60 km/h. Até a data da reportagem, novembro acumulava 53,5 mm de chuva na cidade, cerca de 40,2% da média mensal esperada de 133,1 mm.",
+      "analysis": "A combinação de calor e umidade aumenta a possibilidade de alagamentos pontuais, queda de árvores e transtornos no transporte. Como a previsão envolve pancadas localizadas, os efeitos podem variar bastante entre bairros. Alertas oficiais e condições observadas em tempo real são mais úteis do que interpretar a previsão como confirmação de danos já ocorridos.",
+      "counterpoint": "O aviso é preventivo: não significa que toda a cidade sofrerá temporal, nem comprova alagamentos ou vítimas. Em caso de raios, evite áreas abertas e árvores isoladas; não atravesse ruas inundadas. Acompanhe os avisos atualizados da Defesa Civil e do CGE.",
+      "sources": [
+        {
+          "name": "Agência Brasil — Fortes chuvas devem atingir estado de São Paulo neste domingo (15/11/2026)",
+          "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/fortes-chuvas-devem-atingir-estado-de-sao-paulo-neste-domingo"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Chuva_em_S%C3%A3o_Paulo.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 2.0",
+          "credit": "Jonathan dos Santos / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Chuva_em_S%C3%A3o_Paulo.jpg",
+          "caption": "FOTO DE ARQUIVO (22/11/2011): ônibus e passageiros em uma noite chuvosa na cidade de São Paulo. Jonathan dos Santos, CC BY 2.0. Não retrata os temporais previstos para 15/11/2026."
+        }
+      ],
+      "en": {
+        "title": "SÃO PAULO CIVIL DEFENCE WARNS OF HEAVY STORMS ON SUNDAY",
+        "subtitle": "The November 15 forecast includes lightning, wind gusts above 60 km/h and possible hail across parts of the state.",
+        "facts": "São Paulo state's Civil Defence warned of potentially heavy showers on Sunday, November 15, 2026. Agência Brasil reported at 10:34 a.m. that an Amazon moisture corridor and atmospheric instability could bring thunderstorms, strong winds and hail. The eastern, northeastern and northern parts of the state face the highest risk. In São Paulo city, the Emergency Management Centre (CGE) expects localized storms in the afternoon and evening, with gusts possibly exceeding 60 km/h. The city had recorded 53.5 mm of rain in November, approximately 40.2% of its expected monthly total of 133.1 mm.",
+        "analysis": "Heat and moisture can produce localized flooding, falling trees and transport disruptions, although conditions may differ substantially between neighbourhoods. Official live alerts matter more than assuming forecast impacts have already happened.",
+        "counterpoint": "This is a precautionary forecast, not confirmation that all neighbourhoods will experience storms or that damage has occurred. Avoid flooded roads and exposed locations during lightning; follow Civil Defence and CGE updates.",
+        "category": "BRAZIL",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (November 22, 2011): bus and passengers on a rainy night in São Paulo. Jonathan dos Santos, CC BY 2.0. Does not show the storms forecast for November 15, 2026."
+        },
+        "slug": "sao-paulo-civil-defence-warns-of-heavy-storms-on-sunday"
+      },
+      "es": {
+        "title": "DEFENSA CIVIL ADVIERTE SOBRE FUERTES TORMENTAS EN SÃO PAULO ESTE DOMINGO",
+        "subtitle": "El pronóstico del 15 de noviembre incluye rayos, ráfagas superiores a 60 km/h y posible granizo en varias zonas del estado.",
+        "facts": "La Defensa Civil del estado de São Paulo advirtió sobre posibles lluvias intensas el domingo 15 de noviembre de 2026. Agência Brasil informó a las 10:34 que un corredor de humedad amazónica y la inestabilidad atmosférica pueden provocar tormentas eléctricas, vientos fuertes y granizo. El mayor riesgo se concentra en el este, nordeste y norte del estado. En la capital, el Centro de Gestión de Emergencias Climáticas (CGE) prevé tormentas localizadas por la tarde y noche, con ráfagas que pueden superar los 60 km/h. La ciudad acumulaba 53,5 mm de lluvia en noviembre, alrededor del 40,2 % de los 133,1 mm previstos para el mes.",
+        "analysis": "La combinación de calor y humedad aumenta el riesgo de inundaciones puntuales, caída de árboles y problemas de transporte, aunque las condiciones pueden variar entre barrios. Conviene seguir los avisos oficiales actualizados.",
+        "counterpoint": "Se trata de un aviso preventivo, no de la confirmación de daños ni de tormentas en toda la ciudad. Evite calles inundadas y espacios expuestos durante las descargas eléctricas; consulte las actualizaciones de Defensa Civil y del CGE.",
+        "category": "BRASIL",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (22 de noviembre de 2011): autobús y pasajeros durante una noche lluviosa en São Paulo. Jonathan dos Santos, CC BY 2.0. No muestra las tormentas previstas para el 15 de noviembre de 2026."
+        },
+        "slug": "defensa-civil-advierte-sobre-fuertes-tormentas-en-sao-paulo-este-domingo"
+      },
+      "firstSeen": "2026-11-15T16:04:00.000Z"
+    },
+    {
       "id": "tres-navios-atingidos-drones-proximo-romenia-mar-negro-2026-11-15",
       "date": "2026-11-15",
       "category": "MUNDO",

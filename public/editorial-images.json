@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "defesa-civil-alerta-temporais-sao-paulo-15-novembro-2026": "editorial/covers/defesa-civil-alerta-temporais-sao-paulo-15-novembro-2026.svg",
     "tres-navios-atingidos-drones-proximo-romenia-mar-negro-2026-11-15": "editorial/covers/tres-navios-atingidos-drones-proximo-romenia-mar-negro-2026-11-15.svg",
     "fazendas-fantasmas-agroghost-ii-fraudes-credito-rural-2026-11-15": "editorial/covers/fazendas-fantasmas-agroghost-ii-fraudes-credito-rural-2026-11-15.svg",
     "canada-anuncia-560-milhoes-dolares-canadenses-fundo-florestas-2026-11-15": "editorial/covers/canada-anuncia-560-milhoes-dolares-canadenses-fundo-florestas-2026-11-15.svg",
@@ -352,7 +353,8 @@
     "arabia-saudita-intercepta-dois-misseis-tres-drones-2026-11-15": "editorial/photos/arabia-saudita-intercepta-dois-misseis-tres-drones-2026-11-15.jpg",
     "a-data-venceu-o-bom-senso-foi-para-o-lixo-2026-11-15": "editorial/photos/a-data-venceu-o-bom-senso-foi-para-o-lixo-2026-11-15.jpg",
     "canada-anuncia-560-milhoes-dolares-canadenses-fundo-florestas-2026-11-15": "editorial/photos/canada-anuncia-560-milhoes-dolares-canadenses-fundo-florestas-2026-11-15.jpg",
-    "fazendas-fantasmas-agroghost-ii-fraudes-credito-rural-2026-11-15": "editorial/photos/fazendas-fantasmas-agroghost-ii-fraudes-credito-rural-2026-11-15.jpg"
+    "fazendas-fantasmas-agroghost-ii-fraudes-credito-rural-2026-11-15": "editorial/photos/fazendas-fantasmas-agroghost-ii-fraudes-credito-rural-2026-11-15.jpg",
+    "defesa-civil-alerta-temporais-sao-paulo-15-novembro-2026": "editorial/photos/defesa-civil-alerta-temporais-sao-paulo-15-novembro-2026.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -1368,6 +1370,12 @@
       "srcset": "editorial/photos/fazendas-fantasmas-agroghost-ii-fraudes-credito-rural-2026-11-15-320.webp 320w, editorial/photos/fazendas-fantasmas-agroghost-ii-fraudes-credito-rural-2026-11-15-640.webp 640w, editorial/photos/fazendas-fantasmas-agroghost-ii-fraudes-credito-rural-2026-11-15-862.webp 862w",
       "width": 862,
       "height": 646
+    },
+    "defesa-civil-alerta-temporais-sao-paulo-15-novembro-2026": {
+      "src": "editorial/photos/defesa-civil-alerta-temporais-sao-paulo-15-novembro-2026-1280.webp",
+      "srcset": "editorial/photos/defesa-civil-alerta-temporais-sao-paulo-15-novembro-2026-320.webp 320w, editorial/photos/defesa-civil-alerta-temporais-sao-paulo-15-novembro-2026-640.webp 640w, editorial/photos/defesa-civil-alerta-temporais-sao-paulo-15-novembro-2026-960.webp 960w, editorial/photos/defesa-civil-alerta-temporais-sao-paulo-15-novembro-2026-1280.webp 1280w",
+      "width": 1280,
+      "height": 853
     }
   }
 }
