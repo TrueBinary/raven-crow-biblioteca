@@ -2,9 +2,39 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-15T16:58:53.000Z",
+  "updatedAt": "2026-11-15T18:59:00.062Z",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "forcas-iemen-recuam-bab-el-mandeb-aden-2026-11-15",
+      "date": "2026-11-15",
+      "title": "FORÇAS DO IÊMEN RECUAM DE ESTREITO ESTRATÉGICO PARA DEFENDER ÁDEN",
+      "subtitle": "Retirada da região de Bab el-Mandeb amplia pressão dos houthis sobre o litoral do mar Vermelho.",
+      "category": "MUNDO",
+      "facts": "Forças alinhadas ao governo do Iêmen, apoiado pela Arábia Saudita, anunciaram em 15 de novembro a retirada de posições próximas ao aeroporto de Dhubab e ao estreito de Bab el-Mandeb. Segundo o comunicado militar, a prioridade é reforçar a defesa de Áden e de províncias vizinhas. A retirada ocorre após semanas de ofensiva contra os houthis e diante do agravamento dos combates em Taiz.",
+      "analysis": "Bab el-Mandeb liga o mar Vermelho ao golfo de Áden e integra uma rota essencial para o comércio entre Ásia e Europa. A perda de posições próximas ao estreito pode aumentar a capacidade dos houthis de pressionar a navegação, mas não significa, por si só, que todo o tráfego marítimo esteja interrompido.",
+      "counterpoint": "Os militares descrevem o movimento como um reposicionamento estratégico para proteger Áden e reforçar outras frentes. A extensão do controle territorial houthi e os efeitos futuros sobre a navegação ainda exigem acompanhamento.",
+      "sources": [
+        "https://www.reuters.com/world/middle-east/yemen-government-forces-withdraw-area-near-bab-el-mandeb-strait-houthis-control-2026-11-15/",
+        "https://www.thenationalnews.com/news/mena/2026/11/15/southern-yemeni-forces-withdraw-from-area-near-bab-al-mandab/"
+      ],
+      "en": {
+        "title": "YEMENI FORCES WITHDRAW FROM STRATEGIC STRAIT TO DEFEND ADEN",
+        "subtitle": "Pullback from Bab el-Mandeb adds to Houthi pressure along the Red Sea coast.",
+        "facts": "On November 15, forces aligned with Yemen's Saudi-backed government announced their withdrawal from positions near Dhubab airport and the Bab el-Mandeb Strait. Military officials said the priority was to reinforce the defence of Aden and neighbouring governorates. The move follows weeks of operations against the Houthis and worsening fighting around Taiz.",
+        "analysis": "Bab el-Mandeb connects the Red Sea with the Gulf of Aden and is vital to trade between Asia and Europe. The retreat could strengthen Houthi leverage over shipping, but it does not establish that all maritime traffic has stopped.",
+        "counterpoint": "The forces describe the move as a strategic redeployment to protect Aden and reinforce other fronts. The extent of Houthi territorial control and the consequences for shipping remain to be monitored.",
+        "category": "WORLD"
+      },
+      "es": {
+        "title": "FUERZAS YEMENÍES SE RETIRAN DE UN ESTRECHO ESTRATÉGICO PARA DEFENDER ADÉN",
+        "subtitle": "La retirada de Bab el-Mandeb aumenta la presión hutí sobre la costa del mar Rojo.",
+        "facts": "El 15 de noviembre, fuerzas aliadas del Gobierno yemení, respaldado por Arabia Saudita, anunciaron su retirada de posiciones próximas al aeropuerto de Dhubab y al estrecho de Bab el-Mandeb. Según los mandos militares, la prioridad es reforzar la defensa de Adén y de las provincias vecinas. La decisión llega tras semanas de operaciones contra los hutíes y el agravamiento de los combates en Taiz.",
+        "analysis": "Bab el-Mandeb conecta el mar Rojo con el golfo de Adén y es fundamental para el comercio entre Asia y Europa. La retirada podría aumentar la influencia hutí sobre la navegación, pero no significa que todo el tráfico marítimo se haya detenido.",
+        "counterpoint": "Las fuerzas presentan la decisión como un redespliegue estratégico para proteger Adén y reforzar otros frentes. El alcance del control territorial hutí y sus efectos sobre la navegación aún deben seguirse de cerca.",
+        "category": "MUNDO"
+      }
+    },
     {
       "id": "praga-protesto-midia-publica-350-mil-2026-11-15",
       "date": "2026-11-15",
