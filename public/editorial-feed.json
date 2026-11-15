@@ -1,6 +1,44 @@
 {
   "articles": [
     {
+      "id": "canarias-recorde-1488-migrantes-resgatados-2026-11-14",
+      "date": "2026-11-15",
+      "category": "MUNDO",
+      "title": "Canárias registram resgate de 1.488 migrantes em um único dia, recorde na rota atlântica",
+      "subtitle": "Operação de sábado mobilizou oito embarcações e socorreu ocupantes de 14 barcos; balanço ainda era provisório.",
+      "facts": "As Ilhas Canárias, na Espanha, registraram no sábado, 14 de novembro de 2026, o resgate de 1.488 pessoas migrantes em 14 embarcações, segundo balanço divulgado pela agência espanhola EFE com dados do Salvamento Marítimo e dos serviços de atendimento. O número superou as 1.461 pessoas socorridas em 7 de novembro de 2020 e representa um recorde diário na rota canária. Do total, 1.235 pessoas desembarcaram em El Hierro, 203 em Gran Canaria e 50 em Tenerife. O balanço provisório apontava 108 mulheres e 167 menores. As operações envolveram seis embarcações de salvamento e duas patrulheiras da Guarda Civil. Reuters também noticiou o total de 1.488 resgatados.",
+      "analysis": "A concentração de desembarques em El Hierro evidencia a pressão sobre os serviços de resgate e acolhimento das ilhas. A travessia atlântica a partir da África Ocidental envolve riscos elevados, e o número de pessoas socorridas em um dia não deve ser confundido com o total de chegadas no ano.",
+      "counterpoint": "Os dados são provisórios e podem ser revistos conforme o encerramento das operações. A resposta à pressão migratória exige distinguir resgate humanitário, capacidade local de acolhimento e políticas de fronteira, sem presumir a situação individual das pessoas desembarcadas.",
+      "sources": [
+        {
+          "name": "EFE — Un sábado de rescates sin pausa hace historia en la Ruta Canaria (14/11/2026)",
+          "url": "https://efe.com/canarias/2026-11-14/record-rescates-ruta-canaria-un-solo-dia/"
+        },
+        {
+          "name": "Reuters — Nearly 1,500 migrants arrive in Canary Islands in one day (15/11/2026)",
+          "url": "https://www.reuters.com/world/africa/nearly-1500-migrants-arrive-canary-islands-one-day-2026-11-15/"
+        }
+      ],
+      "en": {
+        "title": "Canary Islands rescue 1,488 migrants in one day, setting Atlantic route record",
+        "subtitle": "Saturday's operation involved eight rescue and patrol vessels assisting people aboard 14 boats; figures remain provisional.",
+        "facts": "On Saturday, November 14, 2026, 1,488 migrants were rescued from 14 boats off Spain's Canary Islands, according to Spanish news agency EFE, citing maritime rescue and reception services. The figure surpassed the previous daily record of 1,461 rescued on November 7, 2020. Of those rescued, 1,235 disembarked on El Hierro, 203 on Gran Canaria and 50 on Tenerife. Preliminary figures included 108 women and 167 minors. Six maritime rescue vessels and two Civil Guard patrol boats took part. Reuters also reported the 1,488 total.",
+        "analysis": "The concentration of arrivals on El Hierro highlights pressure on island rescue and reception services. Atlantic crossings from West Africa carry considerable risks, and a one-day rescue count should not be mistaken for the annual total.",
+        "counterpoint": "The figures are provisional and may change as operations conclude. The response requires distinguishing humanitarian rescue, local reception capacity and border policy without assuming the individual circumstances of those rescued.",
+        "category": "WORLD",
+        "slug": "canary-islands-rescue-1-488-migrants-in-one-day-setting-atlantic-route-record-2026-11-14"
+      },
+      "es": {
+        "title": "Canarias rescata a 1.488 migrantes en un día y marca un récord en la ruta atlántica",
+        "subtitle": "El operativo del sábado movilizó ocho embarcaciones de rescate y patrulla para asistir a 14 cayucos; el balance es provisional.",
+        "facts": "El sábado 14 de noviembre de 2026 fueron rescatadas 1.488 personas migrantes de 14 embarcaciones en Canarias, según la agencia EFE, que recopiló datos de Salvamento Marítimo y los servicios de atención. La cifra superó el récord diario anterior de 1.461 personas rescatadas el 7 de noviembre de 2020. De los rescatados, 1.235 desembarcaron en El Hierro, 203 en Gran Canaria y 50 en Tenerife. El balance provisional incluía 108 mujeres y 167 menores. Participaron seis embarcaciones de salvamento y dos patrulleras de la Guardia Civil. Reuters también informó de un total de 1.488 personas.",
+        "analysis": "La concentración de llegadas en El Hierro pone de manifiesto la presión sobre los servicios de rescate y acogida. La ruta atlántica desde África Occidental presenta riesgos elevados y el balance de un solo día no equivale al total anual.",
+        "counterpoint": "Las cifras son provisionales y pueden revisarse al concluir los operativos. Es necesario distinguir el rescate humanitario, la capacidad local de acogida y la política fronteriza, sin presumir las circunstancias individuales de las personas rescatadas.",
+        "category": "MUNDO",
+        "slug": "canarias-rescata-a-1-488-migrantes-en-un-dia-y-marca-un-record-en-la-ruta-2026-11-14"
+      }
+    },
+    {
       "id": "arabia-saudita-intercepta-dois-misseis-tres-drones-2026-11-15",
       "date": "2026-11-15",
       "category": "MUNDO",
