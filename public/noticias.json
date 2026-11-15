@@ -25,7 +25,10 @@
         "facts": "On November 14, 2026, Junior Javorski won the Men's Classic Physique Open division at the IFBB Pro League KC Pro in Kansas City, Missouri, United States. The official scorecard places Javorski first with a total of 3, Daniel Fabode (United States) second with 6 and Dominic Carter (United States) third with 9. Romania's Iulia Baba won the Bikini division. Coming after his FitPira Pro title the previous weekend, Javorski's victory secures a place at the 2027 Olympia under the two-win qualifying rule for the relevant period.",
         "analysis": "The result matters beyond the trophy: two professional wins during the qualifying period provide direct Olympia qualification without relying on a ranking spot. The scorecard shows Javorski leading with 3 judging points against 6 for the runner-up. On the same date, fellow Brazilian Kaique Santos won Men's Physique at the Luciano Cruz Juiz de Fora Pro, according to the IFBB Pro League's official results. These are separate divisions with distinct judging standards.",
         "counterpoint": "Qualification does not predict Javorski's placing at the 2027 Olympia. The Kansas City scorecard establishes this event's result, not future performance or direct comparisons between different divisions.",
-        "category": "SPORT"
+        "category": "SPORT",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (September 28, 2019): prize table at a bodybuilding competition in Sweden. Photo: Rikard Strömmer / Wikimedia Commons (CC BY-SA 4.0). Illustrative only: it does not show Junior Javorski, the 2026 KC Pro or the 2027 Olympia."
+        }
       },
       "es": {
         "title": "JUNIOR JAVORSKI GANA EL KC PRO Y SE CLASIFICA PARA EL OLYMPIA 2027",
@@ -33,8 +36,22 @@
         "facts": "El 14 de noviembre de 2026, Junior Javorski ganó la categoría Men's Classic Physique Open del KC Pro de la IFBB Pro League en Kansas City, Misuri, Estados Unidos. El acta oficial sitúa a Javorski primero con 3 puntos totales, a Daniel Fabode (Estados Unidos) segundo con 6 y a Dominic Carter (Estados Unidos) tercero con 9. La rumana Iulia Baba ganó Bikini. Tras conquistar el FitPira Pro el fin de semana anterior, Javorski obtiene plaza para el Olympia 2027 por la regla de dos victorias durante el período clasificatorio.",
         "analysis": "El resultado vale más que un trofeo: dos victorias profesionales dentro del período de clasificación permiten acceder directamente al Olympia sin depender del ranking. El acta refleja 3 puntos para Javorski frente a 6 del segundo. Ese mismo día, otro brasileño, Kaique Santos, ganó Men's Physique en el Luciano Cruz Juiz de Fora Pro, según los resultados oficiales de la IFBB Pro League. Son divisiones distintas con criterios de evaluación propios.",
         "counterpoint": "La clasificación no permite anticipar la posición de Javorski en el Olympia 2027. El acta de Kansas City acredita el resultado de esta competición, no su rendimiento futuro ni comparaciones directas entre categorías.",
-        "category": "DEPORTE"
-      }
+        "category": "DEPORTE",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (28 de septiembre de 2019): mesa de premios de una competición de fisicoculturismo en Suecia. Foto: Rikard Strömmer / Wikimedia Commons (CC BY-SA 4.0). Imagen ilustrativa: no muestra a Junior Javorski, el KC Pro de 2026 ni el Olympia de 2027."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/SBFF_SM_2019_Prices_day_1.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Rikard Strömmer / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:SBFF_SM_2019_Prices_day_1.jpg",
+          "caption": "FOTO DE ARQUIVO (28/09/2019): mesa de prêmios de um campeonato de fisiculturismo na Suécia. Foto: Rikard Strömmer / Wikimedia Commons (CC BY-SA 4.0). Imagem meramente ilustrativa: não mostra Junior Javorski, o KC Pro de 2026 nem o Olympia de 2027."
+        }
+      ]
     },
     {
       "id": "forcas-iemen-recuam-bab-el-mandeb-aden-2026-11-15",
