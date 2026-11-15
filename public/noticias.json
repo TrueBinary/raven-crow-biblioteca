@@ -2,9 +2,66 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-15T17:58:00-03:00",
+  "updatedAt": "2026-11-15T20:55:29-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "estonia-fechara-fronteiras-russia-apos-suspeita-sabotagem-2026-11-15",
+      "date": "2026-11-15",
+      "title": "ESTÔNIA ANUNCIA FECHAMENTO DE PASSAGENS COM A RÚSSIA APÓS SUSPEITA DE SABOTAGEM",
+      "subtitle": "Governo prevê interromper travessias rodoviárias em 1º de dezembro; oito suspeitos foram detidos após tentativa de incêndio em fabricante de drones.",
+      "category": "MUNDO",
+      "facts": "Em 15 de novembro de 2026, a Estônia anunciou que fechará em 1º de dezembro as três passagens rodoviárias com a Rússia, em Narva, Luhamaa e Koidula. O anúncio ocorreu após a detenção de oito pessoas suspeitas de participar de uma tentativa de incêndio contra a fabricante estoniana de drones Threod Systems, perto de Tallinn, na noite de 14 de novembro. Autoridades estonianas atribuem a organização do ataque ao serviço de inteligência militar russo GRU; essa responsabilidade é uma acusação oficial, não uma conclusão judicial independente. Não foi anunciada uma data para reabertura das passagens.",
+      "analysis": "A decisão tem consequências práticas para o deslocamento de pedestres e cargas nos pontos terrestres ainda utilizados entre os dois países. A Estônia integra a União Europeia e a OTAN e apoia a Ucrânia; seu governo apresenta o fechamento como medida de segurança contra possíveis operações de sabotagem e tentativas de contornar sanções. A diferença entre anunciar o fechamento e efetivá-lo importa: até 1º de dezembro, viajantes e transportadores precisam acompanhar os comunicados oficiais sobre procedimentos e eventuais exceções. O episódio também amplia o custo diplomático de acusações de operações clandestinas contra empresas de defesa europeias.",
+      "counterpoint": "O vínculo entre os suspeitos e o GRU foi afirmado pelas autoridades estonianas e não deve ser apresentado como fato judicialmente comprovado. A Rússia nega envolvimento em operações de sabotagem e criticou a medida. A extensão exata das restrições e o prazo de duração ainda dependem de orientações oficiais adicionais; a notícia não significa que a fronteira já esteja fechada em 15 de novembro.",
+      "sources": [
+        {
+          "name": "Reuters — anúncio estoniano e investigação, 15/11/2026",
+          "url": "https://www.reuters.com/world/europe/estonia-close-russian-border-crossings-after-attempted-arson-attack-2026-11-15/"
+        },
+        {
+          "name": "ERR — declarações do governo e Ministério das Relações Exteriores, 15/11/2026",
+          "url": "https://news.err.ee/1610196794/estonia-to-close-border-crossings-with-russia-after-gru-linked-sabotage-attacks"
+        },
+        {
+          "name": "The Guardian — contexto e suspeitos, 15/11/2026",
+          "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Narva_checkpoint_Russia-Estonia_border_May_2010.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 2.0 — https://creativecommons.org/licenses/by-sa/2.0/",
+          "credit": "Tony Bowden / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Narva_checkpoint_Russia-Estonia_border_May_2010.jpg",
+          "caption": "FOTO DE ARQUIVO (02/05/2010): posto de fronteira em Narva, na divisa entre Estônia e Rússia, fotografado por Tony Bowden / Wikimedia Commons (CC BY-SA 2.0). Não retrata a tentativa de sabotagem de novembro de 2026 nem o fechamento anunciado."
+        }
+      ],
+      "en": {
+        "title": "ESTONIA ANNOUNCES RUSSIA BORDER CROSSING CLOSURES AFTER SUSPECTED SABOTAGE",
+        "subtitle": "Road crossings are scheduled to close on December 1; eight suspects were detained after an attempted arson attack on a drone manufacturer.",
+        "category": "WORLD",
+        "facts": "On November 15, 2026, Estonia announced that its three road border crossings with Russia—Narva, Luhamaa and Koidula—would close on December 1. The announcement followed the detention of eight people suspected of involvement in an attempted arson attack on Estonian drone manufacturer Threod Systems near Tallinn on the night of November 14. Estonian officials attribute the operation to Russia's GRU military intelligence service; that is an official allegation, not an independently established judicial finding. No reopening date was announced.",
+        "analysis": "The measure affects pedestrians and freight using the remaining land crossing points. Estonia is a member of the European Union and NATO and supports Ukraine; its government frames the closure as protection against sabotage and sanctions evasion. An announced closure is not yet an implemented one: travelers and freight operators should follow official guidance ahead of December 1 for procedures and possible exceptions. The decision also escalates diplomatic tensions over alleged covert operations against Europe's defense industry.",
+        "counterpoint": "The alleged GRU connection is an attribution by Estonian authorities, not a final court finding. Russia has denied involvement in sabotage and criticized the border decision. The exact scope of restrictions and their duration remain subject to further official guidance; the crossings were not already closed on November 15.",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (May 2, 2010): Narva border checkpoint between Estonia and Russia, photographed by Tony Bowden / Wikimedia Commons (CC BY-SA 2.0). Does not depict the November 2026 alleged sabotage or announced closure."
+        }
+      },
+      "es": {
+        "title": "ESTONIA ANUNCIA EL CIERRE DE PASOS FRONTERIZOS CON RUSIA TRAS UNA PRESUNTA OPERACIÓN DE SABOTAJE",
+        "subtitle": "Los pasos por carretera cerrarán el 1 de diciembre; ocho sospechosos fueron detenidos tras un intento de incendio en una empresa de drones.",
+        "category": "MUNDO",
+        "facts": "El 15 de noviembre de 2026, Estonia anunció el cierre para el 1 de diciembre de sus tres pasos fronterizos por carretera con Rusia: Narva, Luhamaa y Koidula. La decisión siguió a la detención de ocho personas sospechosas de participar en un intento de incendio contra la fabricante estonia de drones Threod Systems, cerca de Tallin, la noche del 14 de noviembre. Las autoridades estonias atribuyen la operación al servicio de inteligencia militar ruso GRU; se trata de una acusación oficial, no de una conclusión judicial independiente. No se anunció fecha de reapertura.",
+        "analysis": "La medida afecta al tránsito de peatones y mercancías por los pasos terrestres aún utilizados. Estonia pertenece a la Unión Europea y a la OTAN y apoya a Ucrania; su Gobierno presenta el cierre como protección frente al sabotaje y la evasión de sanciones. Anunciar un cierre no equivale a ejecutarlo: viajeros y transportistas deben consultar las instrucciones oficiales antes del 1 de diciembre para conocer procedimientos y posibles excepciones. La decisión agrava además la tensión diplomática por las presuntas operaciones clandestinas contra la industria europea de defensa.",
+        "counterpoint": "La supuesta vinculación con el GRU procede de las autoridades estonias y no constituye una sentencia firme. Rusia ha negado su participación en sabotajes y ha criticado la decisión. El alcance exacto de las restricciones y su duración siguen pendientes de aclaraciones oficiales; los pasos no estaban ya cerrados el 15 de noviembre.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (2 de mayo de 2010): puesto fronterizo de Narva entre Estonia y Rusia, fotografiado por Tony Bowden / Wikimedia Commons (CC BY-SA 2.0). No muestra el presunto sabotaje de noviembre de 2026 ni el cierre anunciado."
+        }
+      }
+    },
     {
       "id": "junior-javorski-vence-kc-pro-classic-physique-2026-11-15",
       "date": "2026-11-15",
