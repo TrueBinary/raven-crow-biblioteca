@@ -2,9 +2,66 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-15T16:04:00.000Z",
+  "updatedAt": "2026-11-15T16:58:53.000Z",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "praga-protesto-midia-publica-350-mil-2026-11-15",
+      "date": "2026-11-15",
+      "category": "MUNDO",
+      "title": "PRAGA REÚNE CENTENAS DE MILHARES CONTRA MUDANÇA NO FINANCIAMENTO DA MÍDIA PÚBLICA",
+      "subtitle": "Organizadores estimam 350 mil a 450 mil participantes; governo de Andrej Babiš diz que proposta alivia custos das famílias e nega interferência editorial.",
+      "facts": "Centenas de milhares de pessoas se reuniram no parque Letná, em Praga, neste domingo (15), para protestar contra o projeto que substituiria as taxas pagas por famílias e empresas pelo financiamento direto da televisão e do rádio públicos pelo orçamento do Estado. Os organizadores estimaram entre 350 mil e 450 mil manifestantes; o número não é uma contagem independente. A proposta prevê redução de aproximadamente 15% nos recursos das emissoras e já passou pela primeira leitura parlamentar. O movimento Milion chvilek convocou o ato.",
+      "analysis": "Os críticos temem que a dependência de dotações orçamentárias aumente a influência do governo sobre o jornalismo e provoque cortes de pessoal e programação. O ato ocorre perto do aniversário da Revolução de Veludo de 1989, quando Letná também foi palco de manifestações históricas.",
+      "counterpoint": "O primeiro-ministro Andrej Babiš rejeita a acusação de ameaça à liberdade de imprensa e afirma que o projeto cumpre a promessa de aliviar os encargos das famílias. A mudança ainda depende de tramitação legislativa; não está em vigor.",
+      "sources": [
+        {
+          "name": "Reuters — Tens of thousands of Czechs rally against government media funding plan (15/11/2026)",
+          "url": "https://www.reuters.com/business/media-telecom/tens-thousands-czechs-rally-against-government-media-funding-plan-2026-11-15/"
+        },
+        {
+          "name": "Associated Press — Czechs gather in big numbers (15/11/2026)",
+          "url": "https://apnews.com/article/a48f46db181edaa14a156be89862f5e3"
+        },
+        {
+          "name": "ČTK/České noviny — manifestação em Letná (15/11/2026)",
+          "url": "https://www.ceskenoviny.cz/zpravy/zive-na-letne-podle-organizatoru-demonstruje-az-450000-lidi/2901226"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Letn%C3%A1_demonstration.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 4.0",
+          "credit": "Martin2035 / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Letn%C3%A1_demonstration.jpg",
+          "caption": "FOTO DE ARQUIVO (16 de novembro de 2019): manifestantes em Letná, Praga, durante protesto anterior organizado pelo movimento Milion chvilek. Martin2035/Wikimedia Commons, CC BY 4.0. Não retrata a manifestação de 15 de novembro de 2026."
+        }
+      ],
+      "en": {
+        "title": "HUNDREDS OF THOUSANDS RALLY IN PRAGUE AGAINST PUBLIC MEDIA FUNDING PLAN",
+        "subtitle": "Organizers estimate 350,000 to 450,000 demonstrators; Prime Minister Andrej Babiš denies that the plan threatens editorial independence.",
+        "facts": "Hundreds of thousands gathered in Prague's Letná Park on November 15, 2026, to oppose replacing household and business broadcasting fees with direct state-budget funding for public television and radio. Organizers estimated 350,000 to 450,000 participants; this is not an independently verified count. The proposal would reduce broadcasters' funding by around 15% and has passed its first parliamentary reading. The Milion chvilek movement organized the rally.",
+        "analysis": "Opponents fear that reliance on government budgets would expose public broadcasters to political pressure and force cuts in staff and programming. The rally came just before the anniversary of the 1989 Velvet Revolution, when Letná was also the scene of historic demonstrations.",
+        "counterpoint": "Prime Minister Andrej Babiš rejects claims that the proposal threatens press freedom, saying it would reduce household costs. The bill still requires further parliamentary approval and has not taken effect.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (November 16, 2019): Demonstrators in Letná, Prague, at an earlier rally organized by Milion chvilek. Martin2035/Wikimedia Commons, CC BY 4.0. Does not show the November 15, 2026 demonstration."
+        }
+      },
+      "es": {
+        "title": "CIENTOS DE MILES PROTESTAN EN PRAGA CONTRA CAMBIOS EN LA FINANCIACIÓN DE LOS MEDIOS PÚBLICOS",
+        "subtitle": "Los organizadores estiman entre 350.000 y 450.000 asistentes; Andrej Babiš niega que la reforma amenace la independencia editorial.",
+        "facts": "Cientos de miles de personas se reunieron en el parque Letná de Praga el 15 de noviembre de 2026 para protestar contra un proyecto que sustituiría las cuotas pagadas por hogares y empresas por financiación directa del presupuesto estatal para la radio y televisión públicas. Los organizadores calcularon entre 350.000 y 450.000 asistentes; no se trata de un recuento independiente. La propuesta recortaría los fondos aproximadamente un 15% y superó la primera lectura parlamentaria. El movimiento Milion chvilek organizó la protesta.",
+        "analysis": "Los críticos temen que la dependencia del presupuesto estatal facilite presiones políticas y provoque recortes de personal y programación. La manifestación coincidió con la proximidad del aniversario de la Revolución de Terciopelo de 1989, cuando Letná también acogió protestas históricas.",
+        "counterpoint": "El primer ministro Andrej Babiš rechaza que la reforma amenace la libertad de prensa y sostiene que reducirá los costes para las familias. El proyecto todavía debe completar su trámite parlamentario y no está en vigor.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (16 de noviembre de 2019): Manifestantes en Letná, Praga, durante una protesta anterior organizada por Milion chvilek. Martin2035/Wikimedia Commons, CC BY 4.0. No muestra la manifestación del 15 de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "defesa-civil-alerta-temporais-sao-paulo-15-novembro-2026",
       "date": "2026-11-15",
