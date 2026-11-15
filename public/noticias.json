@@ -2,9 +2,40 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-15T18:59:00.062Z",
+  "updatedAt": "2026-11-15T17:58:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "junior-javorski-vence-kc-pro-classic-physique-2026-11-15",
+      "date": "2026-11-15",
+      "title": "JUNIOR JAVORSKI VENCE KC PRO E GARANTE VAGA NO OLYMPIA 2027",
+      "subtitle": "Brasileiro lidera Classic Physique em Kansas City; súmula oficial confirma vitória sobre Daniel Fabode e Dominic Carter.",
+      "category": "ESPORTE",
+      "facts": "Junior Javorski venceu em 14 de novembro de 2026 a categoria Men's Classic Physique Open do KC Pro, competição da IFBB Pro League em Kansas City, Missouri, Estados Unidos. A súmula oficial registra Javorski em primeiro lugar com total 3, Daniel Fabode (Estados Unidos) em segundo com 6 e Dominic Carter (Estados Unidos) em terceiro com 9. Na divisão Bikini, a vencedora foi Iulia Baba, da Romênia. A vitória de Javorski, após o título no FitPira Pro no fim de semana anterior, assegura sua classificação para o Olympia 2027 segundo a regra de duas vitórias aplicável ao período qualificatório.",
+      "analysis": "O resultado tem peso além do troféu: duas vitórias profissionais no período de qualificação dão acesso direto ao Olympia, dispensando a disputa por uma das vagas de ranking. A comparação da súmula mostra vantagem clara na avaliação dos árbitros: Javorski somou 3 pontos, ante 6 do vice-campeão. Na mesma data, outro brasileiro, Kaique Santos, venceu Men's Physique no Luciano Cruz Juiz de Fora Pro, conforme classificação oficial da IFBB Pro League; são categorias distintas, com critérios próprios de avaliação.",
+      "counterpoint": "A classificação ao Olympia não antecipa a posição do atleta na competição de 2027. O resultado de Kansas City comprova a vitória naquela disputa, mas não permite inferir desempenho futuro nem comparar diretamente notas entre categorias diferentes.",
+      "sources": [
+        "https://www.ifbbpro.com/competition/2026-kc-pro/",
+        "https://www.ifbbpro.com/competition/2026-luciano-cruz-juiz-de-fora-pro/",
+        "https://fitnessvolt.com/2026-kc-pro-results/"
+      ],
+      "en": {
+        "title": "JUNIOR JAVORSKI WINS KC PRO AND SECURES 2027 OLYMPIA BERTH",
+        "subtitle": "Brazilian tops Classic Physique in Kansas City; official scorecard confirms win over Daniel Fabode and Dominic Carter.",
+        "facts": "On November 14, 2026, Junior Javorski won the Men's Classic Physique Open division at the IFBB Pro League KC Pro in Kansas City, Missouri, United States. The official scorecard places Javorski first with a total of 3, Daniel Fabode (United States) second with 6 and Dominic Carter (United States) third with 9. Romania's Iulia Baba won the Bikini division. Coming after his FitPira Pro title the previous weekend, Javorski's victory secures a place at the 2027 Olympia under the two-win qualifying rule for the relevant period.",
+        "analysis": "The result matters beyond the trophy: two professional wins during the qualifying period provide direct Olympia qualification without relying on a ranking spot. The scorecard shows Javorski leading with 3 judging points against 6 for the runner-up. On the same date, fellow Brazilian Kaique Santos won Men's Physique at the Luciano Cruz Juiz de Fora Pro, according to the IFBB Pro League's official results. These are separate divisions with distinct judging standards.",
+        "counterpoint": "Qualification does not predict Javorski's placing at the 2027 Olympia. The Kansas City scorecard establishes this event's result, not future performance or direct comparisons between different divisions.",
+        "category": "SPORT"
+      },
+      "es": {
+        "title": "JUNIOR JAVORSKI GANA EL KC PRO Y SE CLASIFICA PARA EL OLYMPIA 2027",
+        "subtitle": "El brasileño lidera Classic Physique en Kansas City; el acta oficial confirma su victoria ante Daniel Fabode y Dominic Carter.",
+        "facts": "El 14 de noviembre de 2026, Junior Javorski ganó la categoría Men's Classic Physique Open del KC Pro de la IFBB Pro League en Kansas City, Misuri, Estados Unidos. El acta oficial sitúa a Javorski primero con 3 puntos totales, a Daniel Fabode (Estados Unidos) segundo con 6 y a Dominic Carter (Estados Unidos) tercero con 9. La rumana Iulia Baba ganó Bikini. Tras conquistar el FitPira Pro el fin de semana anterior, Javorski obtiene plaza para el Olympia 2027 por la regla de dos victorias durante el período clasificatorio.",
+        "analysis": "El resultado vale más que un trofeo: dos victorias profesionales dentro del período de clasificación permiten acceder directamente al Olympia sin depender del ranking. El acta refleja 3 puntos para Javorski frente a 6 del segundo. Ese mismo día, otro brasileño, Kaique Santos, ganó Men's Physique en el Luciano Cruz Juiz de Fora Pro, según los resultados oficiales de la IFBB Pro League. Son divisiones distintas con criterios de evaluación propios.",
+        "counterpoint": "La clasificación no permite anticipar la posición de Javorski en el Olympia 2027. El acta de Kansas City acredita el resultado de esta competición, no su rendimiento futuro ni comparaciones directas entre categorías.",
+        "category": "DEPORTE"
+      }
+    },
     {
       "id": "forcas-iemen-recuam-bab-el-mandeb-aden-2026-11-15",
       "date": "2026-11-15",
