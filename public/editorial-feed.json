@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "tres-navios-atingidos-drones-proximo-romenia-mar-negro-2026-11-15",
+      "date": "2026-11-15",
+      "category": "MUNDO",
+      "title": "DRONES ATINGEM TRÊS NAVIOS PERTO DA ROMÊNIA; CAÇAS SÃO MOBILIZADOS NO MAR NEGRO",
+      "subtitle": "Ataques de 14 de novembro perto do canal de Sulina provocaram incêndios, mas não deixaram vítimas, segundo autoridades romenas. Autoria dos drones não foi identificada.",
+      "facts": "Três embarcações comerciais — Evia Petrol V, Marsol e Ali Najafov — foram atingidas por drones na noite de 14 de novembro de 2026 nas proximidades do canal de Sulina, na costa da Romênia, segundo declarações do primeiro-ministro Luca Niculescu e do ministro da Defesa Ștefan-Radu Oprea divulgadas em 15 de novembro. As tripulações controlaram os incêndios e não houve vítimas. Os dois primeiros navios estavam a cerca de quatro e cinco milhas náuticas a sudeste de Sulina, em águas territoriais romenas. As autoridades mobilizaram caças duas vezes após detectar alvos aéreos. Um quarto cargueiro havia sido atingido na sexta-feira, dia 13, também sem vítimas. O governo romeno não identificou a origem dos drones; portanto, não é possível atribuir estes ataques específicos a qualquer força com base nas informações divulgadas.",
+      "analysis": "O canal de Sulina conecta o Danúbio ao Mar Negro e integra uma rota relevante para exportações ucranianas. Os ataques a navios mercantes nas proximidades de território da Romênia, país da OTAN, aumentam os riscos à navegação civil e ampliam a pressão por patrulhamento, vigilância e defesa antidrones. O ministro Oprea afirmou que levará a questão a seus colegas europeus.",
+      "counterpoint": "A proximidade de um conflito não autoriza conclusões automáticas sobre a autoria de cada ataque. O governo romeno relaciona a deterioração da segurança regional à guerra da Rússia contra a Ucrânia, mas a identificação dos responsáveis por esses drones ainda depende de evidências. A prioridade imediata é proteger tripulações e rotas comerciais.",
+      "sources": [
+        {
+          "name": "Reuters — Three ships struck by drones in Black Sea near Romanian shipping canal (15/11/2026)",
+          "url": "https://www.reuters.com/business/aerospace-defense/three-ships-struck-by-drones-black-sea-near-romanian-shipping-canal-pm-says-2026-11-15/"
+        },
+        {
+          "name": "Anadolu Agency — Drone strikes hit ships near Romania (15/11/2026)",
+          "url": "https://www.aa.com.tr/en/middle-east/drone-strikes-reportedly-hit-3-commercial-ships-near-romanias-black-sea-coast/4125765"
+        },
+        {
+          "name": "Radio România Internațional — declaração do primeiro-ministro (15/11/2026)",
+          "url": "https://www.rri.ro/actualitate/stiri/tinta-aeriana-detectata-in-zona-insulei-serpilor-id1083778.html"
+        }
+      ],
+      "en": {
+        "title": "DRONES HIT THREE SHIPS NEAR ROMANIA; FIGHTER JETS SCRAMBLED OVER BLACK SEA",
+        "subtitle": "The November 14 strikes near the Sulina Canal caused fires but no casualties, Romanian officials said. The drones' origin remains unidentified.",
+        "facts": "Three commercial vessels — Evia Petrol V, Marsol and Ali Najafov — were struck by drones near Romania's Sulina Canal on the night of November 14, 2026, according to statements by Prime Minister Luca Niculescu and Defence Minister Ștefan-Radu Oprea reported on November 15. Crews contained the fires and no casualties were reported. The first two vessels were approximately four and five nautical miles southeast of Sulina, within Romanian territorial waters. Romanian fighter jets were scrambled twice after aerial targets were detected. A separate cargo ship was struck on Friday, November 13, also without casualties. Romanian authorities have not identified who launched the drones.",
+        "analysis": "The Sulina Canal links the Danube to the Black Sea and serves as an important export route for Ukraine. Attacks on merchant shipping near NATO member Romania heighten risks to civilian navigation and increase pressure for surveillance, patrols and counter-drone protection. Oprea said he would raise the matter with European defence counterparts.",
+        "counterpoint": "The war's proximity does not establish responsibility for each individual strike. Romania links the deterioration of regional security to Russia's war against Ukraine, but attribution of these particular drone attacks still requires evidence. Protecting crews and commercial shipping remains the immediate priority.",
+        "category": "WORLD",
+        "slug": "drones-hit-three-ships-near-romania-fighter-jets-scrambled-over-black-sea-2026-11-15"
+      },
+      "es": {
+        "title": "DRONES ALCANZAN TRES BUQUES CERCA DE RUMANÍA; DESPEGAN CAZAS EN EL MAR NEGRO",
+        "subtitle": "Los ataques del 14 de noviembre cerca del canal de Sulina provocaron incendios, pero no víctimas, según autoridades rumanas. No se ha identificado el origen de los drones.",
+        "facts": "Tres buques comerciales — Evia Petrol V, Marsol y Ali Najafov — fueron alcanzados por drones cerca del canal de Sulina, en Rumanía, durante la noche del 14 de noviembre de 2026, según declaraciones del primer ministro Luca Niculescu y del ministro de Defensa Ștefan-Radu Oprea difundidas el 15 de noviembre. Las tripulaciones controlaron los incendios y no se registraron víctimas. Los dos primeros buques estaban a unas cuatro y cinco millas náuticas al sureste de Sulina, dentro de aguas territoriales rumanas. Rumanía movilizó aviones de combate en dos ocasiones tras detectar objetivos aéreos. Otro carguero había sido alcanzado el viernes 13 de noviembre, también sin víctimas. Las autoridades no han identificado quién lanzó los drones.",
+        "analysis": "El canal de Sulina conecta el Danubio con el mar Negro y constituye una ruta importante para las exportaciones ucranianas. Los ataques contra barcos mercantes cerca de Rumanía, miembro de la OTAN, elevan el riesgo para la navegación civil y aumentan la presión para reforzar vigilancia, patrullas y defensas antidrones. Oprea anunció que planteará el asunto a sus homólogos europeos.",
+        "counterpoint": "La proximidad de la guerra no demuestra por sí sola la autoría de cada ataque. Rumanía relaciona el deterioro de la seguridad regional con la guerra de Rusia contra Ucrania, pero atribuir estos ataques concretos exige pruebas. Proteger a las tripulaciones y al transporte comercial es la prioridad inmediata.",
+        "category": "MUNDO",
+        "slug": "drones-alcanzan-tres-buques-cerca-de-rumania-despegan-cazas-en-el-mar-negro-2026-11-15"
+      },
+      "firstSeen": "2026-11-15T14:57:52.428Z"
+    },
+    {
       "id": "fazendas-fantasmas-agroghost-ii-fraudes-credito-rural-2026-11-15",
       "date": "2026-11-15",
       "category": "ECONOMIA",
