@@ -1,6 +1,48 @@
 {
   "articles": [
     {
+      "id": "coreia-do-sul-primeiro-colocado-exame-confessa-cola-ia-2026-11-15",
+      "date": "2026-11-15",
+      "category": "MUNDO",
+      "title": "Primeiro colocado em exame na Coreia do Sul confessa fraude com inteligência artificial",
+      "subtitle": "Candidato diz ter usado minicâmera, celular e IA nas duas etapas da prova para contador tributário; polícia investiga.",
+      "facts": "O primeiro colocado no exame nacional sul-coreano de habilitação para contadores tributários admitiu neste domingo, 15 de novembro de 2026, ter fraudado as duas etapas da prova com uma minicâmera, um smartphone e inteligência artificial generativa. O candidato fotografava questões e consultava respostas geradas por IA, segundo sua declaração em vídeo divulgado pelo advogado. Na primeira etapa, realizada em abril, acertou 159 de 160 questões, obtendo 397,5 de 400 pontos; também liderou a etapa de julho. A Polícia Metropolitana de Seul confirmou o recebimento de uma confissão escrita e abriu investigação. O candidato disse ter utilizado o método também em outro exame profissional.",
+      "analysis": "A confissão expõe fragilidades na fiscalização de avaliações presenciais, inclusive com fiscais nas salas. O episódio ocorre às vésperas do exame nacional de ingresso universitário sul-coreano e ampliou a pressão por controles contra dispositivos eletrônicos clandestinos.",
+      "counterpoint": "A confissão não substitui a apuração policial e administrativa. As autoridades ainda precisam estabelecer responsabilidades, avaliar as provas e aplicar eventuais sanções conforme a legislação; o caso não comprova que fraudes semelhantes sejam generalizadas.",
+      "sources": [
+        {
+          "name": "Reuters — Top scorer on South Korean tax exam confesses to cheating with AI (15/11/2026)",
+          "url": "https://www.reuters.com/world/asia-pacific/top-scorer-south-korean-tax-exam-confesses-cheating-with-ai-2026-11-15/"
+        },
+        {
+          "name": "Yonhap — Top scorer in tax accountant exam turns himself in (15/11/2026)",
+          "url": "https://en.yna.co.kr/view/AEN20261115000753315"
+        },
+        {
+          "name": "Korea JoongAng Daily — Top scorer admits using AI to cheat (15/11/2026)",
+          "url": "https://www.koreajoongangdaily.com/korea/top-scorer-on-tax-accountant-exam-admits-using-ai-to-cheat/12973195"
+        }
+      ],
+      "en": {
+        "title": "South Korea's top tax exam scorer admits cheating with generative AI",
+        "subtitle": "Candidate says he used a miniature camera, smartphone and AI in both rounds; police have opened an investigation.",
+        "facts": "On Sunday, November 15, 2026, the top scorer in South Korea's national certified tax accountant examination admitted using a miniature camera, smartphone and generative artificial intelligence to cheat in both rounds. He said he photographed questions and checked AI-generated answers, according to a video released through his lawyer. In April's first round he answered 159 of 160 questions correctly, scoring 397.5 out of 400, and also topped July's second round. Seoul Metropolitan Police confirmed receiving a written confession and opened an investigation. He also said he used the method in another professional examination.",
+        "analysis": "The confession highlights weaknesses in the supervision of in-person exams, even with proctors present. It comes ahead of South Korea's nationwide college entrance exam and has intensified calls for safeguards against concealed electronic devices.",
+        "counterpoint": "A confession does not replace a police and administrative investigation. Authorities must establish responsibility, review the evidence and determine any penalties under the law; this case alone does not establish widespread cheating.",
+        "category": "WORLD",
+        "slug": "south-korea-s-top-tax-exam-scorer-admits-cheating-with-generative-ai-2026-11-15"
+      },
+      "es": {
+        "title": "El mejor clasificado de un examen en Corea del Sur admite fraude con inteligencia artificial",
+        "subtitle": "El aspirante afirma que usó una minicámara, un móvil e IA en ambas fases; la policía investiga.",
+        "facts": "El domingo 15 de noviembre de 2026, el primer clasificado del examen nacional surcoreano para obtener la habilitación de asesor fiscal admitió haber hecho trampas en ambas fases mediante una minicámara, un teléfono móvil e inteligencia artificial generativa. Según un vídeo difundido por su abogado, fotografiaba preguntas y consultaba respuestas generadas por IA. En la primera fase, celebrada en abril, acertó 159 de 160 preguntas y obtuvo 397,5 de 400 puntos; también encabezó la segunda fase, en julio. La Policía Metropolitana de Seúl confirmó que recibió una confesión por escrito y abrió una investigación. El aspirante afirmó haber utilizado el mismo método en otro examen profesional.",
+        "analysis": "La confesión revela deficiencias en la vigilancia de pruebas presenciales, incluso con supervisores en las aulas. El caso se produce antes del examen nacional de acceso universitario y ha intensificado la demanda de controles contra dispositivos electrónicos ocultos.",
+        "counterpoint": "La confesión no sustituye la investigación policial y administrativa. Las autoridades deben determinar responsabilidades, examinar las pruebas y decidir posibles sanciones conforme a la ley; el caso no demuestra por sí solo que el fraude esté generalizado.",
+        "category": "MUNDO",
+        "slug": "el-mejor-clasificado-de-un-examen-en-corea-del-sur-admite-fraude-con-2026-11-15"
+      }
+    },
+    {
       "id": "canarias-recorde-1488-migrantes-resgatados-2026-11-14",
       "date": "2026-11-15",
       "category": "MUNDO",
