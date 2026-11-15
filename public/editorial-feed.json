@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "id": "fazendas-fantasmas-agroghost-ii-fraudes-credito-rural-2026-11-15",
+      "date": "2026-11-15",
+      "category": "ECONOMIA",
+      "title": "FAZENDAS FANTASMAS: PF investiga crédito rural de R$ 8,5 milhões; suspeitas expõem riscos nas garantias",
+      "subtitle": "Operação Agroghost II teve bloqueios autorizados de até R$ 19 milhões. Outros inquéritos apuram cadastros adulterados e imóveis rurais com registros suspeitos.",
+      "facts": "A Polícia Federal deflagrou em 12 de novembro de 2026 a Operação Agroghost II, no Distrito Federal e em Goiás, para investigar possíveis fraudes em operações de crédito rural. Segundo a corporação, a apuração começou quando a Caixa Econômica Federal identificou irregularidades em um financiamento de aproximadamente R$ 8,5 milhões, cuja existência foi contestada pelo proprietário do imóvel associado ao contrato. A PF informou que foram cumpridos três mandados de busca e apreensão e um de prisão preventiva; a Justiça autorizou bloqueios de bens e ativos até o limite de R$ 19 milhões. Esse teto não significa dinheiro efetivamente recuperado nem valor comprovado de prejuízo. A polícia também apura transferências para familiares e empresas ligadas aos investigados e outras operações suspeitas, com menções à Caixa, ao Sicoob e ao Banco do Nordeste, sem afirmar que essas instituições sejam autoras da fraude. O caso integra uma discussão mais ampla sobre as chamadas 'fazendas fantasmas': imóveis que só existem nos documentos, apresentam registros irregulares ou têm localização adulterada. Em outro inquérito, a Operação Canadá, de agosto de 2026, a Polícia Civil de Mato Grosso identificou suspeita de deslocamento eletrônico do perímetro de uma fazenda no cadastro ambiental rural; um dos cadastros investigados serviu de base a uma avaliação de R$ 84 milhões apresentada em tentativas de crédito. Segundo a Polícia Civil, os proprietários legítimos da Fazenda Canadá e a Secretaria de Meio Ambiente do estado são vítimas da fraude investigada. A PF também apura, na Operação Imperium Fictum, registros imobiliários suspeitos e grilagem de terras públicas no Pará. As operações são investigações distintas, em fases próprias, e não demonstram uma rede única nem condenações definitivas.",
+      "analysis": "Uma garantia rural não vale apenas pelo preço declarado em contrato: sua matrícula, delimitação geográfica, titularidade e correspondência com o terreno real precisam ser verificáveis. Fraudes em registros ou cadastros podem expor bancos, compradores e produtores legítimos a riscos financeiros e jurídicos. A Frente Parlamentar da Agropecuária estimou R$ 256 bilhões em operações do agronegócio atrasadas, inadimplentes, renegociadas ou prorrogadas com base em abril de 2026; esse montante representa uma carteira de crédito sob pressão, NÃO o valor de fraudes com fazendas fantasmas. A distinção é essencial para não transformar um indicador geral de risco em acusação sem fundamento.",
+      "counterpoint": "Uma fazenda pode aparecer no mapa, ter matrícula, avaliação milionária e até servir de garantia — e ainda assim os registros podem estar sob suspeita. Antes de liberar crédito ou executar uma garantia, é preciso conferir se os documentos descrevem o imóvel verdadeiro. O dinheiro é real; o que a investigação precisa esclarecer é se o lastro também era. Investigados têm direito de defesa, e suspeita não equivale a condenação.",
+      "sources": [
+        {
+          "name": "Polícia Federal — Operação Agroghost II: fraudes no crédito rural no DF e Goiás (12/11/2026)",
+          "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/11/pf-investiga-fraudes-em-operacoes-de-credito-rural-no-df-e-em-goias"
+        },
+        {
+          "name": "Polícia Civil de Mato Grosso — Operação Canadá: fraude em cadastro ambiental rural (18/08/2026)",
+          "url": "https://www5.sefaz.mt.gov.br/en/web/pjc/w/pol%C3%ADcia-civil-mt-mira-grupo-criminoso-investigado-por-fraude-no-sistema-de-cadastro-ambiental-rural"
+        },
+        {
+          "name": "Polícia Federal — segunda fase da Operação Imperium Fictum no Pará (08/07/2026)",
+          "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/07/pf-combate-grilagem-de-terras-publicas-no-para"
+        },
+        {
+          "name": "Money Times — Fazendas fantasmas e operações problemáticas no agro (19/10/2026)",
+          "url": "https://www.moneytimes.com.br/fazendas-fantasmas-acendem-alerta-em-meio-a-r-256-bilhoes-em-operacoes-problematicas-pads/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Sede_da_Pol%C3%ADcia_Federal.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "credit": "Heitor Carvalho Jorge / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Sede_da_Pol%C3%ADcia_Federal.jpg",
+          "caption": "FOTO DE ARQUIVO (01/10/2023): sede da Polícia Federal em Brasília. Heitor Carvalho Jorge / Wikimedia Commons (CC BY-SA 4.0). A imagem representa a instituição investigadora e não mostra fazendas, propriedades sob suspeita nem as diligências da Operação Agroghost II."
+        }
+      ],
+      "en": {
+        "title": "GHOST FARMS: Brazilian police investigate $8.5 million real-denominated rural loan; suspect records expose collateral risks",
+        "subtitle": "Operation Agroghost II authorized asset freezes of up to R$19 million. Separate investigations examine altered rural registrations and land-title irregularities.",
+        "facts": "On November 12, 2026, Brazil's Federal Police launched Operation Agroghost II in the Federal District and Goiás to investigate suspected rural-credit fraud. According to the police, the case began after state bank Caixa identified irregularities involving an approximately R$8.5 million loan, whose existence was challenged by the property owner named in the contract. Officers executed three search-and-seizure warrants and one preventive-arrest warrant; the courts authorized the freezing of assets up to R$19 million. That figure is a ceiling, not the amount recovered or proven lost. Investigators also identified suspected transfers to relatives and companies linked to the suspects and are examining other transactions involving Caixa, Sicoob and Banco do Nordeste; naming these financial institutions does not imply they committed wrongdoing. The wider issue of 'ghost farms' concerns rural properties that exist only on paper, feature flawed titles or have manipulated location records. In a separate investigation, Mato Grosso Civil Police's Operation Canadá, launched in August 2026, examined the alleged electronic relocation of a farm's registered boundaries. A disputed registration underpinned a R$84 million land valuation used in attempted loan applications. Police say the real owners and the state environmental department were victims of the suspected fraud. Another separate Federal Police investigation, Imperium Fictum in Pará, concerns alleged manipulated land titles and appropriation of federal land. These are distinct cases, not evidence of a single coordinated network or final criminal convictions.",
+        "analysis": "A rural property used as collateral is worth more than the number written in a contract: its title, boundaries, ownership and physical existence must be verifiable. Fraudulent registers can expose lenders, buyers and legitimate farmers to financial and legal risk. Brazil's Parliamentary Agricultural Front estimated R$256 billion in agribusiness loans that were overdue, delinquent, renegotiated or extended as of April 2026. That is a broad measure of stressed credit, NOT a total for ghost-farm fraud.",
+        "counterpoint": "A farm may have a title, a map location and a multimillion-real valuation while its records are disputed. Lenders and buyers need to verify that the documents match the real property. The money is real; investigators still need to establish whether the collateral was, too. Suspects remain entitled to due process and the presumption of innocence.",
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (October 1, 2023): Federal Police headquarters in Brasília, Brazil. Heitor Carvalho Jorge / Wikimedia Commons (CC BY-SA 4.0). This image depicts the investigating institution, not the farms or the November 2026 Agroghost II operation."
+        },
+        "slug": "ghost-farms-brazilian-police-investigate-8-5-million-real-denominated-rural-2026-11-15"
+      },
+      "es": {
+        "title": "GRANJAS FANTASMA: la Policía Federal investiga un crédito rural de R$ 8,5 millones y alerta sobre las garantías",
+        "subtitle": "La Operación Agroghost II permitió inmovilizar bienes por hasta R$ 19 millones. Otras investigaciones examinan registros rurales adulterados y títulos sospechosos.",
+        "facts": "El 12 de noviembre de 2026, la Policía Federal de Brasil puso en marcha la Operación Agroghost II en el Distrito Federal y Goiás para investigar posibles fraudes en créditos rurales. Según la institución, el caso comenzó cuando la Caixa Econômica Federal detectó irregularidades en un financiamiento de aproximadamente R$ 8,5 millones cuya existencia fue cuestionada por el propietario del inmueble vinculado al contrato. Los agentes ejecutaron tres órdenes de registro y una de prisión preventiva; la Justicia autorizó el bloqueo de bienes y activos hasta R$ 19 millones. Ese monto es un límite, no dinero recuperado ni pérdidas demostradas. Los investigadores también encontraron indicios de transferencias a familiares y empresas relacionadas con los sospechosos y examinan otras operaciones vinculadas a Caixa, Sicoob y Banco do Nordeste; mencionarlos no equivale a acusar a las instituciones de haber cometido fraude. El debate sobre las 'fincas fantasma' abarca inmuebles rurales que solo existen en documentos, títulos irregulares o registros geográficos manipulados. En otro caso, la Operación Canadá, iniciada por la Policía Civil de Mato Grosso en agosto de 2026, investigó el desplazamiento electrónico sospechoso de los límites de una finca en el registro ambiental rural. Uno de los registros examinados sustentó una tasación de R$ 84 millones presentada en intentos de obtener crédito. La Policía Civil considera víctimas de esa presunta maniobra a los propietarios legítimos y a la Secretaría de Medio Ambiente. Una investigación distinta de la Policía Federal, Imperium Fictum, examina títulos inmobiliarios sospechosos y apropiación de tierras públicas en Pará. Son casos separados, sin pruebas presentadas de una red única ni condenas definitivas.",
+        "analysis": "Una finca presentada como garantía no vale solo por la cifra escrita en un contrato: deben poder verificarse su título, ubicación, límites y titularidad. Los registros fraudulentos pueden perjudicar a bancos, compradores y productores legítimos. El Frente Parlamentario de la Agropecuaria estimó R$ 256.000 millones en operaciones del agronegocio vencidas, impagadas, renegociadas o prorrogadas a abril de 2026. Esa cifra refleja dificultades crediticias generales, NO el valor de fraudes con fincas fantasma.",
+        "counterpoint": "Una finca puede tener matrícula, ubicación en un mapa y tasación millonaria mientras sus registros siguen bajo sospecha. Bancos y compradores deben comprobar que los documentos corresponden al inmueble real. El dinero es real; lo que falta establecer es si también lo era la garantía. Los investigados conservan su derecho de defensa y la presunción de inocencia.",
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (1 de octubre de 2023): sede de la Policía Federal en Brasilia, Brasil. Heitor Carvalho Jorge / Wikimedia Commons (CC BY-SA 4.0). La imagen muestra la institución investigadora, no las fincas ni la Operación Agroghost II de noviembre de 2026."
+        },
+        "slug": "granjas-fantasma-la-policia-federal-investiga-un-credito-rural-de-r-8-5-2026-11-15"
+      },
+      "firstSeen": "2026-11-15T14:48:44.376Z"
+    },
+    {
       "id": "canada-anuncia-560-milhoes-dolares-canadenses-fundo-florestas-2026-11-15",
       "date": "2026-11-15",
       "category": "MUNDO",
