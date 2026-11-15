@@ -30,6 +30,9 @@
         "analysis": "The strike comes despite a ceasefire that began in October 2025. Major fighting has subsided, but targeted strikes and disagreements over Hamas disarmament persist. Statements from both sides corroborate the central event, while military justifications and civilian harm still require independent scrutiny.",
         "counterpoint": "The death of one commander does not end the war or resolve civilian security. Israel argues that armed leaders remain military targets; renewed strikes also test the ceasefire's credibility. Verified facts must remain separate from each side's claims.",
         "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (June 11, 2024): damaged buildings on al-Seqaly Street in Khan Younis, Gaza Strip. Rawanmurad2025 / Wikimedia Commons (CC BY-SA 4.0). Illustrates the region; does not show the commander or the November 2026 strike."
+        },
         "slug": "hamas-confirms-death-of-rafah-brigade-commander-in-israeli-strike-in-gaza-2026-11-14"
       },
       "es": {
@@ -39,8 +42,22 @@
         "analysis": "El ataque ocurre pese al alto el fuego iniciado en octubre de 2025. Aunque los combates de gran escala disminuyeron, persisten ataques selectivos y desacuerdos sobre el desarme de Hamás. Las declaraciones de ambas partes respaldan el hecho central, pero las justificaciones militares y las consecuencias para civiles requieren verificación independiente.",
         "counterpoint": "La muerte de un comandante no pone fin a la guerra ni garantiza la seguridad de los civiles. Israel sostiene que los líderes armados siguen siendo objetivos militares; los nuevos ataques también ponen a prueba la tregua. Los hechos confirmados deben distinguirse de las versiones de cada parte.",
         "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (11 de junio de 2024): edificios destruidos en la calle al-Seqaly, en Jan Yunis, Franja de Gaza. Rawanmurad2025 / Wikimedia Commons (CC BY-SA 4.0). Ilustra la región; no muestra al comandante ni el ataque de noviembre de 2026."
+        },
         "slug": "hamas-confirma-la-muerte-del-comandante-de-su-brigada-de-rafah-en-un-ataque-2026-11-14"
-      }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Israeli_destruction_on_al-Seqaly_Street_in_Khan_Younis%2C_Gaza_War%2C_June_11_2024.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Rawanmurad2025 / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Israeli_destruction_on_al-Seqaly_Street_in_Khan_Younis,_Gaza_War,_June_11_2024.jpg",
+          "caption": "FOTO DE ARQUIVO (11/06/2024): edifícios destruídos na rua al-Seqaly, em Khan Younis, Faixa de Gaza. Rawanmurad2025 / Wikimedia Commons (CC BY-SA 4.0). Imagem ilustrativa da região; não retrata o comandante mencionado nem o ataque de novembro de 2026."
+        }
+      ]
     },
     {
       "id": "fux-leva-julgamento-escala-6x1-plenario-stf-2026-11-14",
@@ -72,6 +89,9 @@
         "analysis": "The procedural move does not repeal the workweek reform or automatically halt its implementation. Business groups are challenging the constitutionality and adjustment deadlines, while collective bargaining and rest-day arrangements remain key questions.",
         "counterpoint": "The court must balance legal certainty, employers' transition costs and workers' rest. Moving a case to the plenary is not the same as striking down the reform: the interim order still applies.",
         "category": "JUSTICE",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (June 8, 2010): Luiz Fux, then a justice at Brazil's Superior Court of Justice, photographed by Agência Brasil. José Cruz / Agência Brasil (CC BY 3.0 BR). Does not depict the November 2026 Supreme Court proceedings on the six-day workweek."
+        },
         "slug": "fux-moves-brazil-s-6x1-workweek-ruling-to-supreme-court-s-in-person-plenary-2026-11-14"
       },
       "es": {
@@ -81,8 +101,22 @@
         "analysis": "El cambio de procedimiento no deroga la reforma ni suspende automáticamente su aplicación. Entidades empresariales cuestionan la constitucionalidad y los plazos de adaptación, mientras que la negociación colectiva y la distribución de los descansos siguen en debate.",
         "counterpoint": "El tribunal deberá equilibrar la seguridad jurídica, los costos de adaptación y el descanso de los trabajadores. Trasladar un juicio al pleno no equivale a anular la reforma: la medida provisional continúa vigente.",
         "category": "JUSTICIA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (8 de junio de 2010): Luiz Fux, entonces magistrado del Tribunal Superior de Justicia de Brasil, fotografiado por Agência Brasil. José Cruz / Agência Brasil (CC BY 3.0 BR). No muestra el proceso del Supremo sobre la escala laboral 6×1 de noviembre de 2026."
+        },
         "slug": "fux-lleva-al-pleno-presencial-del-stf-el-juicio-sobre-el-fin-de-la-jornada-6x1-2026-11-14"
-      }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Luiz_Fux.jpg/960px-Luiz_Fux.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 3.0 BR — https://creativecommons.org/licenses/by/3.0/br/",
+          "credit": "José Cruz / Agência Brasil / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Luiz_Fux.jpg",
+          "caption": "FOTO DE ARQUIVO (08/06/2010): Luiz Fux, então ministro do STJ, em fotografia da Agência Brasil. José Cruz/Agência Brasil (CC BY 3.0 BR). Não retrata a deliberação do STF sobre a escala 6×1 em novembro de 2026."
+        }
+      ]
     },
     {
       "id": "democrata-vence-governo-alasca-primeira-vez-desde-1998-2026-11-14",
@@ -114,6 +148,9 @@
         "analysis": "The result flips control of the governorship in a state that generally favors Republicans in presidential elections. Kreiss-Tomkins campaigned on affordability, public-school funding and regulating new data centers, and pledged a bipartisan administration. Three Republican candidates splitting their vote and endorsements across party lines are important factors in understanding the outcome.",
         "counterpoint": "A Democratic win in Alaska does not mean every voter changed political beliefs. Voters also demand accountable government, affordable energy and effective schools. The winner's challenge begins when campaigning ends: turning promises into measurable results.",
         "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (July 2, 2007): Alaska State Capitol building in Juneau, United States. Matt Howry / Wikimedia Commons (CC BY 2.0). Does not depict the candidate or November 2026 gubernatorial election."
+        },
         "slug": "democrat-wins-alaska-governor-s-race-for-first-time-since-1998-2026-11-14"
       },
       "es": {
@@ -123,8 +160,22 @@
         "analysis": "La victoria cambia el control partidista de la gobernación de un estado que suele favorecer a los republicanos en las elecciones presidenciales. Kreiss-Tomkins centró su campaña en el costo de vida, la financiación de las escuelas públicas y la regulación de nuevos centros de datos, además de prometer una administración bipartidista. La división del voto entre tres candidatos republicanos y los apoyos de figuras de distintos partidos ayudan a explicar el resultado.",
         "counterpoint": "Una victoria demócrata en Alaska no significa que todos los votantes hayan cambiado de ideología. También exigen un gobierno responsable, energía asequible y escuelas que funcionen. El reto del vencedor comienza cuando termina la campaña: convertir promesas en resultados medibles.",
         "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (2 de julio de 2007): Capitolio del estado de Alaska en Juneau, Estados Unidos. Matt Howry / Wikimedia Commons (CC BY 2.0). No muestra al candidato ni las elecciones para gobernador de noviembre de 2026."
+        },
         "slug": "un-democrata-gana-la-gobernacion-de-alaska-por-primera-vez-desde-1998-2026-11-14"
-      }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Alaska_State_Capitol_July_2007.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/",
+          "credit": "Matt Howry / Flickr, via Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Alaska_State_Capitol_July_2007.jpg",
+          "caption": "FOTO DE ARQUIVO (02/07/2007): fachada do Capitólio estadual do Alasca em Juneau, Estados Unidos. Matt Howry / Wikimedia Commons (CC BY 2.0). Não retrata o vencedor nem a eleição para governador de novembro de 2026."
+        }
+      ]
     },
     {
       "id": "riot-league-of-legends-new-dawn-teaser-2026-11-14",
