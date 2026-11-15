@@ -1,7 +1,82 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15T10:00:00-03:00",
+  "updatedAt": "2026-11-15T19:02:39-03:00",
   "essays": [
+    {
+      "id": "a-republica-chegou-de-farda-e-esqueceu-de-convidar-o-povo-2026-11-15",
+      "section": "Política e sociedade",
+      "date": "2026-11-15",
+      "title": "A REPÚBLICA CHEGOU DE FARDA. ESQUECEU DE CONVIDAR O POVO.",
+      "subtitle": "Em 1889, trocaram o regime antes de perguntar aos brasileiros. O problema não é só histórico: quem manda ainda adora falar pelo povo sem escutá-lo.",
+      "eyebrow": "OPINIÃO",
+      "paragraphs": [
+        "Hoje é 15 de novembro, e há uma fotografia de 1889 que me incomoda mais do que qualquer desfile. Foi tirada na Bahia, dois dias depois da mudança de regime no Rio. Diante de um prédio imponente, homens a cavalo, soldados e curiosos se espalham pela praça. O povo aparece na imagem, sim. O problema é descobrir em que momento alguém lhe perguntou se queria trocar de governo. A República brasileira nasceu com muita farda e pouca urna. Para um regime que prometia falar em nome do povo, a estreia foi bastante reservada.",
+        "Não é provocação inventada por monarquista saudoso. A própria Câmara dos Deputados descreve a Proclamação de 15 de novembro de 1889 como um movimento liderado por Deodoro da Fonseca, apoiado por militares e marcado pela ausência popular nas primeiras decisões. Três dias depois, o republicano Aristides Lobo escreveu no Diário Popular que o povo assistira ao episódio 'bestializado'. A palavra é dura; a origem dela é ainda mais constrangedora para os devotos da narrativa triunfal: quem a escreveu queria a República. Imagine organizar uma festa em nome dos convidados e descobrir, ao cortar o bolo, que ninguém recebeu convite.",
+        "O Decreto nº 1, assinado naquele 15 de novembro, proclamou provisoriamente a República Federativa e determinou que o país fosse governado por um governo provisório até a eleição de um Congresso Constituinte. Repare no tamanho do paradoxo: o novo regime anunciou a soberania política do país por decreto de quem acabara de assumir o poder. A monarquia foi derrubada; a participação popular, essa ainda teria de esperar. O cidadão deixou de ter imperador sem ter tido a oportunidade de decidir como seria o primeiro dia sem ele.",
+        "Seria preguiçoso transformar isso numa canonização de Dom Pedro II. O Império também tinha exclusões profundas, e a escravidão só fora abolida em 1888. A República abriu caminhos institucionais importantes, entre eles o federalismo e, mais tarde, uma ordem constitucional própria. Mas o fato de uma mudança produzir instituições duradouras não torna automaticamente democrático o modo como começou. Uma boa ideia não recebe salvo-conduto para entrar pela porta dos fundos só porque pendurou a palavra 'povo' na fachada.",
+        "O mais interessante é a lição que atravessa os séculos sem precisar apontar para um partido específico. Há políticos que adoram invocar o povo na hora do discurso e tratá-lo como inconveniente na hora da decisão. A tentação não pertence apenas a generais do século XIX: qualquer governante que confunda autoridade com propriedade da República começa a agir como se o país viesse mobiliado junto com o gabinete. A palavra 'república' vem da coisa pública. Não significa coisa do presidente, coisa do Congresso ou coisa da turma que chegou primeiro à reunião.",
+        "Eu comemoro a possibilidade de viver numa República, mas me recuso a fingir que seu nascimento foi um plebiscito com banda de música. A memória histórica serve justamente para isso: impedir que a cerimônia engula a verdade. Na foto da Bahia, há gente diante do prédio, cavalos e uma multidão observando. É um registro real de 17 de novembro de 1889, não do instante da proclamação no Rio. Olho para aquelas pessoas e penso no que faltou à festa de 15 de novembro: não mais uma espada levantada, mas alguém disposto a ouvir a resposta de quem estava na praça."
+      ],
+      "sources": [
+        {
+          "title": "Câmara dos Deputados — A 1ª República e a ausência popular em 1889",
+          "url": "https://www2.camara.leg.br/a-camara/conheca/historia/a1republica.html/"
+        },
+        {
+          "title": "Senado Federal — Decreto nº 1, de 15 de novembro de 1889",
+          "url": "https://legis.senado.leg.br/norma/385329/publicacao/15772955"
+        },
+        {
+          "title": "Agência Senado — 1ª Constituinte, Aristides Lobo e ausência do povo (05/02/2021)",
+          "url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/constituicao-de-1891-ha-130-anos-1a-constituinte-da-republica-teve-queixas-da-igreja-e-ausencia-do-povo"
+        },
+        {
+          "title": "Wikimedia Commons — Fotografia da proclamação da República na Bahia, Rodolpho Lindemann (1889)",
+          "url": "https://commons.wikimedia.org/wiki/File:Proclama%C3%A7%C3%A3o_da_Rep%C3%BAblica_na_Bahia.jpg"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Proclama%C3%A7%C3%A3o_da_Rep%C3%BAblica_na_Bahia.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Rodolpho Lindemann / Wikimedia Commons",
+          "license": "Domínio público (PD-old-100; Public Domain Mark 1.0)",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Proclama%C3%A7%C3%A3o_da_Rep%C3%BAblica_na_Bahia.jpg",
+          "caption": "FOTO HISTÓRICA (17/11/1889), Bahia: registro de Rodolpho Lindemann associado à proclamação da República na Bahia, dois dias após a mudança de regime no Rio de Janeiro. Não retrata a proclamação de 15 de novembro no Rio nem acontecimento recente."
+        }
+      ],
+      "en": {
+        "title": "THE REPUBLIC ARRIVED IN UNIFORM. IT FORGOT TO INVITE THE PEOPLE.",
+        "subtitle": "In 1889, Brazil's regime changed before Brazilians were asked. The habit of speaking for the public without listening to it did not end there.",
+        "eyebrow": "OPINION",
+        "section": "Politics and society",
+        "paragraphs": [
+          "Today is November 15, and an 1889 photograph troubles me more than any parade. It was taken in Bahia, two days after the change of regime in Rio. Outside an imposing building, mounted men, soldiers and onlookers spread across the square. Ordinary people are in the picture, certainly. The question is when anyone asked whether they wanted a new government. Brazil's Republic was born with plenty of uniforms and precious few ballot boxes. For a regime claiming to speak for the people, it was an unusually private opening night.",
+          "This is no invention by a nostalgic monarchist. Brazil's Chamber of Deputies itself describes the proclamation of November 15, 1889 as a movement led by Deodoro da Fonseca, backed by military officers, with ordinary people absent from its first decisions. Three days later, republican journalist Aristides Lobo wrote in Diário Popular that the people had watched, 'bestializado'—bewildered and stunned. The word is harsh; its author makes it even more awkward for the triumphalist version of events. He wanted a republic. Imagine throwing a party in your guests' name and discovering, as you cut the cake, that nobody had been invited.",
+          "Decree No. 1, issued on November 15, provisionally proclaimed a federal republic and placed the country under a provisional government until a constituent congress could be elected. Consider the paradox: the new political order was declared by decree by those who had just seized power. The monarchy was gone; public participation would have to wait. Brazilians lost their emperor without being asked how their first day without him should begin.",
+          "It would be lazy to turn this into a canonization of Pedro II. The Empire was deeply exclusionary too, and slavery had been abolished only in 1888. The Republic opened important institutional paths, including federalism and, eventually, a new constitutional order. But the fact that a change produces lasting institutions does not make its beginnings democratic. A good idea does not receive a free pass through the back door just because somebody has hung the word 'people' over the entrance.",
+          "The most interesting lesson crosses centuries without needing to name a modern political party. Some politicians love invoking the people in speeches and treating them as a nuisance when decisions are made. The temptation is not confined to nineteenth-century generals. Any leader who mistakes public authority for ownership of the republic begins to act as though the entire country came furnished with the office. A republic is a public thing. It does not belong to the president, Congress or whoever arrived first at the meeting.",
+          "I value living in a republic, but I refuse to pretend its birth was a referendum accompanied by a marching band. That is what historical memory is for: stopping ceremony from swallowing truth. The photograph from Bahia shows people, horses and a crowd outside a building. It genuinely dates from November 17, 1889; it does not show the proclamation in Rio itself. I look at those faces and think about what was missing from the celebration two days earlier: not another raised sword, but someone willing to hear an answer from the people in the square."
+        ],
+        "photo_caption": "HISTORICAL PHOTOGRAPH (November 17, 1889), Bahia, Brazil: Rodolpho Lindemann's photograph associated with the proclamation of the Republic in Bahia, two days after the regime change in Rio de Janeiro. It does not show the November 15 proclamation in Rio or a recent event."
+      },
+      "es": {
+        "title": "LA REPÚBLICA LLEGÓ DE UNIFORME. OLVIDÓ INVITAR AL PUEBLO.",
+        "subtitle": "En 1889 cambiaron el régimen antes de consultar a los brasileños. La costumbre de hablar en nombre del pueblo sin escucharlo no terminó entonces.",
+        "eyebrow": "OPINIÓN",
+        "section": "Política y sociedad",
+        "paragraphs": [
+          "Hoy es 15 de noviembre y hay una fotografía de 1889 que me inquieta más que cualquier desfile. Se tomó en Bahía, dos días después del cambio de régimen en Río. Frente a un edificio imponente se reúnen jinetes, soldados y curiosos. El pueblo aparece en la imagen, desde luego. El problema es averiguar cuándo alguien le preguntó si quería cambiar de gobierno. La República brasileña nació con muchos uniformes y pocas urnas. Para un régimen que prometía hablar en nombre del pueblo, el estreno fue bastante privado.",
+          "No es una provocación inventada por un monárquico nostálgico. La propia Cámara de Diputados describe la proclamación del 15 de noviembre de 1889 como un movimiento dirigido por Deodoro da Fonseca, respaldado por militares y marcado por la ausencia popular en las primeras decisiones. Tres días después, el periodista republicano Aristides Lobo escribió en Diário Popular que el pueblo había contemplado el episodio 'bestializado', atónito. La palabra es dura; su autor resulta todavía más incómodo para el relato triunfal. Él quería la República. Imagínese organizar una fiesta en nombre de los invitados y descubrir, al cortar la tarta, que nadie había recibido invitación.",
+          "El Decreto n.º 1, promulgado aquel 15 de noviembre, proclamó provisionalmente la República Federativa y puso el país bajo un gobierno provisional hasta que se eligiera un Congreso Constituyente. Fíjese en la paradoja: el nuevo orden político fue anunciado por decreto de quienes acababan de tomar el poder. La monarquía había caído; la participación popular tendría que esperar. El ciudadano dejó de tener emperador sin que le preguntaran cómo debía empezar su primer día sin él.",
+          "Sería perezoso convertir esto en una canonización de Pedro II. El Imperio también estaba marcado por exclusiones profundas y la esclavitud solo había sido abolida en 1888. La República abrió caminos institucionales importantes, como el federalismo y, posteriormente, un nuevo orden constitucional. Pero que un cambio produzca instituciones duraderas no convierte automáticamente su comienzo en democrático. Una buena idea no recibe permiso para entrar por la puerta trasera solo porque alguien haya colgado la palabra 'pueblo' en la fachada.",
+          "La lección más interesante atraviesa los siglos sin necesidad de señalar a un partido actual. Hay políticos que adoran invocar al pueblo en sus discursos y tratarlo como una molestia a la hora de decidir. La tentación no pertenece únicamente a los generales del siglo XIX. Cualquier gobernante que confunda autoridad pública con propiedad de la República acaba actuando como si el país viniera amueblado junto con su despacho. La república es la cosa pública. No es propiedad del presidente, del Congreso ni del grupo que llegó primero a la reunión.",
+          "Valoro vivir en una república, pero me niego a fingir que su nacimiento fue un referéndum acompañado por una banda de música. Para eso sirve la memoria histórica: para impedir que la ceremonia se trague la verdad. En la fotografía de Bahía aparecen personas, caballos y una multitud frente a un edificio. Es un registro auténtico del 17 de noviembre de 1889, no del momento de la proclamación en Río. Miro aquellos rostros y pienso en lo que faltó en la fiesta de dos días antes: no otra espada levantada, sino alguien dispuesto a escuchar la respuesta de quienes estaban en la plaza."
+        ],
+        "photo_caption": "FOTOGRAFÍA HISTÓRICA (17/11/1889), Bahía, Brasil: registro de Rodolpho Lindemann relacionado con la proclamación de la República en Bahía, dos días después del cambio de régimen en Río de Janeiro. No muestra la proclamación del 15 de noviembre en Río ni un hecho reciente."
+      }
+    },
     {
       "id": "a-data-venceu-o-bom-senso-foi-para-o-lixo-2026-11-15",
       "section": "Filosofia e ideias",
