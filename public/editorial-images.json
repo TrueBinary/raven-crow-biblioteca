@@ -359,7 +359,8 @@
     "fazendas-fantasmas-agroghost-ii-fraudes-credito-rural-2026-11-15": "editorial/photos/fazendas-fantasmas-agroghost-ii-fraudes-credito-rural-2026-11-15.jpg",
     "defesa-civil-alerta-temporais-sao-paulo-15-novembro-2026": "editorial/photos/defesa-civil-alerta-temporais-sao-paulo-15-novembro-2026.jpg",
     "praga-protesto-midia-publica-350-mil-2026-11-15": "editorial/photos/praga-protesto-midia-publica-350-mil-2026-11-15.jpg",
-    "junior-javorski-vence-kc-pro-classic-physique-2026-11-15": "editorial/photos/junior-javorski-vence-kc-pro-classic-physique-2026-11-15.jpg"
+    "junior-javorski-vence-kc-pro-classic-physique-2026-11-15": "editorial/photos/junior-javorski-vence-kc-pro-classic-physique-2026-11-15.jpg",
+    "a-republica-chegou-de-farda-e-esqueceu-de-convidar-o-povo-2026-11-15": "editorial/photos/a-republica-chegou-de-farda-e-esqueceu-de-convidar-o-povo-2026-11-15.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -1393,6 +1394,12 @@
       "srcset": "editorial/photos/junior-javorski-vence-kc-pro-classic-physique-2026-11-15-320.webp 320w, editorial/photos/junior-javorski-vence-kc-pro-classic-physique-2026-11-15-640.webp 640w, editorial/photos/junior-javorski-vence-kc-pro-classic-physique-2026-11-15-960.webp 960w, editorial/photos/junior-javorski-vence-kc-pro-classic-physique-2026-11-15-1280.webp 1280w",
       "width": 1280,
       "height": 607
+    },
+    "a-republica-chegou-de-farda-e-esqueceu-de-convidar-o-povo-2026-11-15": {
+      "src": "editorial/photos/a-republica-chegou-de-farda-e-esqueceu-de-convidar-o-povo-2026-11-15-1280.webp",
+      "srcset": "editorial/photos/a-republica-chegou-de-farda-e-esqueceu-de-convidar-o-povo-2026-11-15-320.webp 320w, editorial/photos/a-republica-chegou-de-farda-e-esqueceu-de-convidar-o-povo-2026-11-15-640.webp 640w, editorial/photos/a-republica-chegou-de-farda-e-esqueceu-de-convidar-o-povo-2026-11-15-960.webp 960w, editorial/photos/a-republica-chegou-de-farda-e-esqueceu-de-convidar-o-povo-2026-11-15-1280.webp 1280w",
+      "width": 1280,
+      "height": 1052
     }
   }
 }
