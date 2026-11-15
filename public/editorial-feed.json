@@ -1,6 +1,48 @@
 {
   "articles": [
     {
+      "id": "hamas-confirma-morte-comandante-samir-abu-younis-2026-11-14",
+      "date": "2026-11-14",
+      "category": "MUNDO",
+      "title": "Hamas confirma morte de comandante da brigada de Rafah em ataque israelense em Gaza",
+      "subtitle": "Samir Abu Younis morreu em bombardeio na região de Khan Younis, segundo o braço armado do Hamas; Israel confirma ataque a comandante, sem identificá-lo nominalmente.",
+      "facts": "O braço armado do Hamas, Brigadas Al-Qassam, confirmou a morte de Samir Abu Younis, de 53 anos, comandante da brigada de Rafah, em um ataque israelense realizado no sábado, 14 de novembro de 2026, na região de Al-Mawasi, em Khan Younis, no sul da Faixa de Gaza. As Forças de Defesa de Israel e o serviço de segurança Shin Bet informaram que atingiram um comandante de alto escalão do Hamas, sem identificá-lo pelo nome no comunicado inicial. Segundo a Reuters, integrantes do Hamas confirmaram a identidade do morto; serviços médicos também relataram feridos. O grupo afirmou que Abu Younis participava de suas estruturas militares desde 1991 e que seu funeral estava previsto para domingo, 15 de novembro. As informações sobre a participação específica do comandante no ataque de 7 de outubro de 2023 são atribuídas ao Hamas e não representam conclusão de investigação independente.",
+      "analysis": "O ataque ocorre apesar do cessar-fogo iniciado em outubro de 2025, que reduziu os grandes combates, mas não encerrou ataques pontuais nem resolveu o impasse sobre o desarmamento do Hamas. A confirmação da morte por parte do próprio grupo e o anúncio israelense da operação dão suporte ao fato central, mas as justificativas militares, a proporcionalidade da ação e o impacto sobre civis exigem apuração independente.",
+      "counterpoint": "A morte de um comandante não encerra a guerra nem resolve a segurança dos civis. Israel sustenta que precisa neutralizar lideranças armadas; do outro lado, cada novo ataque reacende o debate sobre a eficácia e os limites do cessar-fogo. É preciso separar o fato confirmado das versões de cada parte.",
+      "sources": [
+        {
+          "name": "Reuters — Hamas says senior armed commander killed in Israeli strike, 14/11/2026",
+          "url": "https://www.reuters.com/world/middle-east/israeli-military-says-it-struck-senior-commander-hamas-military-wing-2026-11-14/"
+        },
+        {
+          "name": "Anadolu Agency — Hamas' military wing says Rafah brigade commander killed, 15/11/2026",
+          "url": "https://www.aa.com.tr/en/middle-east/hamas-military-wing-says-rafah-brigade-commander-killed-in-israeli-strike-on-southern-gaza/4125463"
+        },
+        {
+          "name": "Al Jazeera — Israeli air strike kills senior Hamas commander in Gaza, 15/11/2026",
+          "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza"
+        }
+      ],
+      "en": {
+        "title": "Hamas confirms death of Rafah brigade commander in Israeli strike in Gaza",
+        "subtitle": "Samir Abu Younis was killed near Khan Younis, Hamas says; Israel confirmed targeting a senior commander without initially naming him.",
+        "facts": "Hamas's armed wing, the Al-Qassam Brigades, confirmed that Samir Abu Younis, 53, commander of its Rafah brigade, was killed in an Israeli strike on Saturday, November 14, 2026, in Al-Mawasi near Khan Younis in southern Gaza. The Israel Defense Forces and Shin Bet said they had targeted a senior Hamas commander but did not initially name him. Reuters reported that Hamas members identified Abu Younis and medics reported injuries. Hamas said he had served in its military structure since 1991 and that a funeral was planned for Sunday, November 15. Claims about his specific role in the October 7, 2023 attack are attributed to Hamas, not independently established findings.",
+        "analysis": "The strike comes despite a ceasefire that began in October 2025. Major fighting has subsided, but targeted strikes and disagreements over Hamas disarmament persist. Statements from both sides corroborate the central event, while military justifications and civilian harm still require independent scrutiny.",
+        "counterpoint": "The death of one commander does not end the war or resolve civilian security. Israel argues that armed leaders remain military targets; renewed strikes also test the ceasefire's credibility. Verified facts must remain separate from each side's claims.",
+        "category": "WORLD",
+        "slug": "hamas-confirms-death-of-rafah-brigade-commander-in-israeli-strike-in-gaza-2026-11-14"
+      },
+      "es": {
+        "title": "Hamás confirma la muerte del comandante de su brigada de Rafah en un ataque israelí en Gaza",
+        "subtitle": "Samir Abu Younis murió cerca de Khan Younis, según Hamás; Israel confirmó el ataque contra un alto mando sin identificarlo inicialmente.",
+        "facts": "El brazo armado de Hamás, las Brigadas Al-Qassam, confirmó que Samir Abu Younis, de 53 años y comandante de su brigada de Rafah, murió en un ataque israelí el sábado 14 de noviembre de 2026 en Al-Mawasi, cerca de Khan Younis, en el sur de Gaza. Las Fuerzas de Defensa de Israel y el Shin Bet anunciaron que habían atacado a un alto mando de Hamás, sin identificarlo inicialmente. Reuters informó que miembros de Hamás confirmaron su identidad y que los servicios médicos reportaron heridos. El grupo afirmó que Abu Younis integraba sus estructuras militares desde 1991 y que su funeral estaba previsto para el domingo 15 de noviembre. Las afirmaciones sobre su participación específica en el ataque del 7 de octubre de 2023 se atribuyen a Hamás y no son conclusiones independientes.",
+        "analysis": "El ataque ocurre pese al alto el fuego iniciado en octubre de 2025. Aunque los combates de gran escala disminuyeron, persisten ataques selectivos y desacuerdos sobre el desarme de Hamás. Las declaraciones de ambas partes respaldan el hecho central, pero las justificaciones militares y las consecuencias para civiles requieren verificación independiente.",
+        "counterpoint": "La muerte de un comandante no pone fin a la guerra ni garantiza la seguridad de los civiles. Israel sostiene que los líderes armados siguen siendo objetivos militares; los nuevos ataques también ponen a prueba la tregua. Los hechos confirmados deben distinguirse de las versiones de cada parte.",
+        "category": "MUNDO",
+        "slug": "hamas-confirma-la-muerte-del-comandante-de-su-brigada-de-rafah-en-un-ataque-2026-11-14"
+      }
+    },
+    {
       "id": "fux-leva-julgamento-escala-6x1-plenario-stf-2026-11-14",
       "date": "2026-11-14",
       "category": "JUSTIÇA",
