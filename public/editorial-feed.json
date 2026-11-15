@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "canada-anuncia-560-milhoes-dolares-canadenses-fundo-florestas-2026-11-15",
+      "date": "2026-11-15",
+      "category": "MUNDO",
+      "title": "Canadá anuncia até 560 milhões de dólares canadenses para fundo de florestas liderado pelo Brasil",
+      "subtitle": "Mark Carney comunicou o compromisso a Lula em Manila; aporte previsto para quatro anos ainda depende da execução.",
+      "facts": "O primeiro-ministro do Canadá, Mark Carney, anunciou neste domingo, 15 de novembro de 2026, contribuição inicial de até 560 milhões de dólares canadenses ao longo de quatro anos ao Fundo Florestas Tropicais para Sempre (TFFF), iniciativa liderada por Brasil e Noruega. O anúncio ocorreu após reunião com o presidente Luiz Inácio Lula da Silva à margem da cúpula da Asean em Manila, Filipinas. O governo canadense prevê destinar pelo menos 20% dos pagamentos de conservação do mecanismo a povos indígenas e comunidades locais. A Reuters estimou o teto do compromisso em cerca de US$ 392,5 milhões.",
+      "analysis": "O compromisso amplia o apoio internacional ao mecanismo que pretende remunerar países por resultados verificados na conservação de florestas tropicais. O desenho busca mobilizar investimentos públicos e privados, mas sua operação e os pagamentos dependem de captação, governança e resultados efetivos.",
+      "counterpoint": "O valor anunciado é um teto de contribuição ao longo de quatro anos, não uma transferência integral já realizada. A promessa de conservação de mais de um bilhão de hectares representa uma meta do mecanismo quando plenamente operacional, e não área já protegida por esse aporte.",
+      "sources": [
+        {
+          "name": "Gabinete do primeiro-ministro do Canadá — anúncio oficial (15/11/2026)",
+          "url": "https://www.pm.gc.ca/en/news/news-releases/2026/11/15/prime-minister-carney-announces-canadas-landmark-contribution-protect"
+        },
+        {
+          "name": "Gabinete do primeiro-ministro do Canadá — reunião com Lula (15/11/2026)",
+          "url": "https://www.pm.gc.ca/en/news/readouts/2026/11/15/prime-minister-carney-meets-president-brazil-luiz-inacio-lula-da-silva"
+        },
+        {
+          "name": "Reuters — Canada pledges up to $392.5 million (15/11/2026)",
+          "url": "https://www.reuters.com/sustainability/cop/canada-pledges-up-3925-million-brazil-led-tropical-forest-fund-2026-11-15/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/23.11.2025_-_Reuni%C3%A3o_bilateral_com_o_Primeiro-Ministro_do_Canad%C3%A1_%2854941691690%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0",
+          "credit": "Ricardo Stuckert / PR (Lula Oficial)",
+          "source_article": "https://commons.wikimedia.org/wiki/File:23.11.2025_-_Reuni%C3%A3o_bilateral_com_o_Primeiro-Ministro_do_Canad%C3%A1_(54941691690).jpg",
+          "caption": "FOTO DE ARQUIVO (23/11/2025): Lula e Mark Carney durante reunião bilateral em Joanesburgo, África do Sul. Ricardo Stuckert/PR, CC BY-SA 4.0. Não retrata o anúncio de 15/11/2026 em Manila."
+        }
+      ],
+      "en": {
+        "title": "Canada pledges up to C$560 million to Brazil-led tropical forest fund",
+        "subtitle": "Mark Carney announced the four-year commitment to Lula in Manila; disbursements remain ahead.",
+        "facts": "On November 15, 2026, Canadian Prime Minister Mark Carney announced an initial contribution of up to C$560 million over four years to the Tropical Forest Forever Facility (TFFF), co-led by Brazil and Norway. He met Brazilian President Luiz Inácio Lula da Silva on the sidelines of the ASEAN summit in Manila, Philippines. Under the proposed mechanism, at least 20% of conservation payments would reach Indigenous Peoples and local communities. Reuters valued the pledge's ceiling at about US$392.5 million.",
+        "analysis": "The pledge strengthens international support for a mechanism designed to reward verified tropical forest conservation, using public and private investment. Implementation still depends on fundraising, governance and measurable outcomes.",
+        "counterpoint": "This is a maximum four-year pledge, not a fully disbursed payment. The fund's ambition to protect more than one billion hectares once operational is not an accomplished result of this announcement.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (November 23, 2025): Lula and Mark Carney at a bilateral meeting in Johannesburg, South Africa. Ricardo Stuckert/PR, CC BY-SA 4.0. This does not show the November 15, 2026 announcement in Manila."
+        },
+        "slug": "canada-pledges-up-to-c-560-million-to-brazil-led-tropical-forest-fund-2026-11-15"
+      },
+      "es": {
+        "title": "Canadá promete hasta 560 millones de dólares canadienses al fondo de bosques impulsado por Brasil",
+        "subtitle": "Mark Carney anunció ante Lula en Manila un compromiso para cuatro años, pendiente de ejecución.",
+        "facts": "El 15 de noviembre de 2026, el primer ministro canadiense Mark Carney anunció una contribución inicial de hasta 560 millones de dólares canadienses durante cuatro años al Fondo Bosques Tropicales para Siempre (TFFF), impulsado por Brasil y Noruega. Se reunió con el presidente Luiz Inácio Lula da Silva durante la cumbre de la ASEAN en Manila, Filipinas. El mecanismo prevé destinar al menos el 20% de los pagos de conservación a pueblos indígenas y comunidades locales. Reuters estimó el límite del compromiso en unos US$392,5 millones.",
+        "analysis": "El anuncio refuerza el apoyo internacional a un mecanismo que busca recompensar la conservación comprobada de bosques tropicales mediante inversiones públicas y privadas. Su ejecución depende de la captación de fondos, la gobernanza y resultados verificables.",
+        "counterpoint": "La cifra representa un máximo comprometido para cuatro años, no un desembolso ya efectuado. La meta de proteger más de mil millones de hectáreas cuando el fondo funcione plenamente todavía no se ha cumplido.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (23 de noviembre de 2025): Lula y Mark Carney en una reunión bilateral en Johannesburgo, Sudáfrica. Ricardo Stuckert/PR, CC BY-SA 4.0. No muestra el anuncio del 15 de noviembre de 2026 en Manila."
+        },
+        "slug": "canada-promete-hasta-560-millones-de-dolares-canadienses-al-fondo-de-bosques-2026-11-15"
+      },
+      "firstSeen": "2026-11-15T13:57:36.898Z"
+    },
+    {
       "id": "coreia-do-sul-primeiro-colocado-exame-confessa-cola-ia-2026-11-15",
       "date": "2026-11-15",
       "category": "MUNDO",
