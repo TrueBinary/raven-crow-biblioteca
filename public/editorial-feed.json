@@ -1,6 +1,57 @@
 {
   "articles": [
     {
+      "id": "arabia-saudita-intercepta-dois-misseis-tres-drones-2026-11-15",
+      "date": "2026-11-15",
+      "category": "MUNDO",
+      "title": "Arábia Saudita relata interceptação de dois mísseis e três drones houthis",
+      "subtitle": "Coalizão liderada por Riade afirma ter detido projéteis direcionados à capital e à Província Oriental neste domingo.",
+      "facts": "A coalizão liderada pela Arábia Saudita afirmou neste domingo, 15 de novembro de 2026, ter interceptado dois mísseis balísticos atribuídos aos houthis que seguiam em direção a Riade e três drones na Província Oriental saudita, segundo a Reuters. A região oriental concentra importantes instalações petrolíferas. A informação sobre as interceptações é uma declaração da coalizão; não equivale a uma verificação independente da trajetória e origem de cada projétil. Os episódios ocorrem em meio à escalada de ataques e contra-ataques relacionados à guerra no Iêmen.",
+      "analysis": "A repetição de alertas e interceptações em áreas próximas à infraestrutura energética amplia o risco regional. Ainda não há, nesta informação específica, confirmação de danos causados pelos projéteis interceptados em 15 de novembro.",
+      "counterpoint": "É importante separar o comunicado militar sobre interceptações de uma conclusão independente sobre a autoria dos lançamentos. A situação exige acompanhamento de autoridades e de fontes adicionais.",
+      "sources": [
+        {
+          "name": "Reuters — Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province (15/11/2026)",
+          "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-intercepts-missiles-towards-riyadh-drones-eastern-province-2026-11-15/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Wv_Riyadh_banner.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0",
+          "credit": "Thesadcactus / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Wv_Riyadh_banner.jpg",
+          "caption": "FOTO DE ARQUIVO (20/04/2022): panorama de Riade, Arábia Saudita, visto do Bairro Diplomático. Thesadcactus / Wikimedia Commons (CC BY-SA 4.0). Não retrata as interceptações de 15/11/2026."
+        }
+      ],
+      "en": {
+        "title": "Saudi-led coalition reports intercepting two missiles and three Houthi drones",
+        "subtitle": "The coalition says projectiles targeting Riyadh and the Eastern Province were intercepted on Sunday.",
+        "facts": "On Sunday, November 15, 2026, the Saudi-led coalition said it intercepted two ballistic missiles attributed to the Houthis heading toward Riyadh and three drones over Saudi Arabia's Eastern Province, Reuters reported. The eastern region contains major oil facilities. The intercepts are a coalition claim, not independent verification of each projectile's origin or trajectory. The events come amid escalating attacks and counterattacks linked to the war in Yemen.",
+        "analysis": "Repeated interceptions near energy infrastructure heighten regional risks. This specific report does not establish damage caused by the projectiles intercepted on November 15.",
+        "counterpoint": "Military announcements should be distinguished from independent confirmation of responsibility for the launches.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (April 20, 2022): view of Riyadh, Saudi Arabia, from the Diplomatic Quarter. Thesadcactus / Wikimedia Commons (CC BY-SA 4.0). Does not depict the November 15, 2026 interceptions."
+        },
+        "slug": "saudi-led-coalition-reports-intercepting-two-missiles-and-three-houthi-drones-2026-11-15"
+      },
+      "es": {
+        "title": "Coalición saudí informa que interceptó dos misiles y tres drones hutíes",
+        "subtitle": "La coalición afirma haber detenido proyectiles dirigidos a Riad y a la Provincia Oriental este domingo.",
+        "facts": "El domingo 15 de noviembre de 2026, la coalición liderada por Arabia Saudita afirmó haber interceptado dos misiles balísticos atribuidos a los hutíes que se dirigían a Riad y tres drones sobre la Provincia Oriental saudí, según Reuters. La región oriental alberga importantes instalaciones petroleras. Las interceptaciones son una afirmación de la coalición, no una verificación independiente del origen y la trayectoria de cada proyectil. Los hechos ocurren en medio de la escalada de ataques vinculados a la guerra en Yemen.",
+        "analysis": "Las repetidas interceptaciones cerca de infraestructura energética aumentan los riesgos regionales. Este informe no confirma daños causados por los proyectiles interceptados el 15 de noviembre.",
+        "counterpoint": "Los comunicados militares deben distinguirse de la confirmación independiente sobre la autoría de los lanzamientos.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (20 de abril de 2022): vista de Riad, Arabia Saudita, desde el Barrio Diplomático. Thesadcactus / Wikimedia Commons (CC BY-SA 4.0). No muestra las interceptaciones del 15 de noviembre de 2026."
+        },
+        "slug": "coalicion-saudi-informa-que-intercepto-dos-misiles-y-tres-drones-huties-2026-11-15"
+      }
+    },
+    {
       "id": "bahrein-emite-alertas-ameaca-ira-alega-ataque-base-eua-2026-11-15",
       "date": "2026-11-15",
       "category": "MUNDO",
