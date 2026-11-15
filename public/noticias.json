@@ -15,9 +15,18 @@
       "analysis": "O resultado tem peso além do troféu: duas vitórias profissionais no período de qualificação dão acesso direto ao Olympia, dispensando a disputa por uma das vagas de ranking. A comparação da súmula mostra vantagem clara na avaliação dos árbitros: Javorski somou 3 pontos, ante 6 do vice-campeão. Na mesma data, outro brasileiro, Kaique Santos, venceu Men's Physique no Luciano Cruz Juiz de Fora Pro, conforme classificação oficial da IFBB Pro League; são categorias distintas, com critérios próprios de avaliação.",
       "counterpoint": "A classificação ao Olympia não antecipa a posição do atleta na competição de 2027. O resultado de Kansas City comprova a vitória naquela disputa, mas não permite inferir desempenho futuro nem comparar diretamente notas entre categorias diferentes.",
       "sources": [
-        "https://www.ifbbpro.com/competition/2026-kc-pro/",
-        "https://www.ifbbpro.com/competition/2026-luciano-cruz-juiz-de-fora-pro/",
-        "https://fitnessvolt.com/2026-kc-pro-results/"
+        {
+          "name": "IFBB Pro League — resultados oficiais do KC Pro 2026",
+          "url": "https://www.ifbbpro.com/competition/2026-kc-pro/"
+        },
+        {
+          "name": "IFBB Pro League — Luciano Cruz Juiz de Fora Pro 2026",
+          "url": "https://www.ifbbpro.com/competition/2026-luciano-cruz-juiz-de-fora-pro/"
+        },
+        {
+          "name": "Fitness Volt — resultados e análise do KC Pro 2026",
+          "url": "https://fitnessvolt.com/2026-kc-pro-results/"
+        }
       ],
       "en": {
         "title": "JUNIOR JAVORSKI WINS KC PRO AND SECURES 2027 OLYMPIA BERTH",
@@ -63,8 +72,14 @@
       "analysis": "Bab el-Mandeb liga o mar Vermelho ao golfo de Áden e integra uma rota essencial para o comércio entre Ásia e Europa. A perda de posições próximas ao estreito pode aumentar a capacidade dos houthis de pressionar a navegação, mas não significa, por si só, que todo o tráfego marítimo esteja interrompido.",
       "counterpoint": "Os militares descrevem o movimento como um reposicionamento estratégico para proteger Áden e reforçar outras frentes. A extensão do controle territorial houthi e os efeitos futuros sobre a navegação ainda exigem acompanhamento.",
       "sources": [
-        "https://www.reuters.com/world/middle-east/yemen-government-forces-withdraw-area-near-bab-el-mandeb-strait-houthis-control-2026-11-15/",
-        "https://www.thenationalnews.com/news/mena/2026/11/15/southern-yemeni-forces-withdraw-from-area-near-bab-al-mandab/"
+        {
+          "name": "Reuters — forças do Iêmen recuam na região de Bab el-Mandeb (15/11/2026)",
+          "url": "https://www.reuters.com/world/middle-east/yemen-government-forces-withdraw-area-near-bab-el-mandeb-strait-houthis-control-2026-11-15/"
+        },
+        {
+          "name": "The National — deslocamento das forças iemenitas perto de Bab el-Mandeb (15/11/2026)",
+          "url": "https://www.thenationalnews.com/news/mena/2026/11/15/southern-yemeni-forces-withdraw-from-area-near-bab-al-mandab/"
+        }
       ],
       "en": {
         "title": "YEMENI FORCES WITHDRAW FROM STRATEGIC STRAIT TO DEFEND ADEN",
