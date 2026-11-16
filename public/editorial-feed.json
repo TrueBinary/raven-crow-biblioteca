@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "china-confirma-cupula-xi-trump-putin-shenzhen-2026-11-16",
+      "date": "2026-11-16",
+      "category": "MUNDO",
+      "title": "CHINA CONFIRMA CÚPULA DE XI, TRUMP E PUTIN EM SHENZHEN PARA 19 DE NOVEMBRO",
+      "subtitle": "Pequim oficializa encontro trilateral já antecipado por Washington e Moscou; controle de armas nucleares está entre os temas previstos, mas não há acordo anunciado.",
+      "facts": "O Ministério das Relações Exteriores da China confirmou oficialmente, em comunicado datado de 16 de novembro de 2026, que Xi Jinping receberá Donald Trump, presidente dos Estados Unidos, e Vladimir Putin, presidente da Rússia, em Shenzhen, em 19 de novembro. A reunião está prevista para ocorrer durante a semana da Cooperação Econômica Ásia-Pacífico (APEC). A confirmação chinesa é o fato novo: a Casa Branca e o Kremlin já haviam anunciado preparativos para o encontro. Segundo informações divulgadas por Washington e repercutidas pela Associated Press, o controle dos arsenais nucleares deverá integrar as conversas. Até o momento, não foi divulgado um texto de acordo entre os três países.",
+      "analysis": "A diferença entre anunciar uma reunião e firmar um compromisso é central. O encontro reunirá líderes de três potências com assento permanente no Conselho de Segurança da ONU, mas com interesses divergentes sobre armamentos, comércio e conflitos internacionais. Washington e Moscou concentram os maiores arsenais nucleares; Pequim historicamente resiste a assumir obrigações equivalentes antes de reduções mais profundas dessas duas potências. A confirmação oficial da China reduz a incerteza sobre a realização da reunião, sem resolver a disputa sobre sua pauta ou indicar qualquer desarmamento efetivo. Para o leitor, a medida concreta a acompanhar após 19 de novembro será a existência de um comunicado conjunto com compromissos verificáveis, não apenas a fotografia diplomática.",
+      "counterpoint": "O comunicado oficial chinês confirma participantes, cidade e data, mas não especifica metas de redução de ogivas nem mecanismos de fiscalização. A expectativa de debate nuclear vem de declarações americanas e reportagens, não de um tratado negociado. A reunião ainda não ocorreu e pode terminar sem resultado substantivo.",
+      "sources": [
+        {
+          "name": "Ministério das Relações Exteriores da China — anúncio oficial, 16/11/2026",
+          "url": "https://www.fmprc.gov.cn/eng/xw/zyxw/202611/t20261116_12059663.html"
+        },
+        {
+          "name": "Associated Press — preparação da cúpula, 16/11/2026",
+          "url": "https://apnews.com/article/ffc5e5a2d384f00960034ec10087502e"
+        },
+        {
+          "name": "Reuters — confirmação e contexto, 16/11/2026",
+          "url": "https://www.reuters.com/world/china/china-says-xi-putin-trump-meeting-has-groundbreaking-significance-2026-11-16/"
+        }
+      ],
+      "en": {
+        "category": "WORLD",
+        "title": "CHINA CONFIRMS XI-TRUMP-PUTIN SUMMIT IN SHENZHEN FOR NOVEMBER 19",
+        "subtitle": "Beijing formally confirms a trilateral meeting previously announced by Washington and Moscow; nuclear arms control is expected on the agenda, but no agreement has been announced.",
+        "facts": "In a statement dated November 16, 2026, China's Foreign Ministry officially confirmed that President Xi Jinping will meet US President Donald Trump and Russian President Vladimir Putin in Shenzhen on November 19. The meeting is scheduled for the week of the Asia-Pacific Economic Cooperation (APEC) summit. China's formal confirmation is the new development: the White House and Kremlin had already discussed preparations. According to US statements reported by the Associated Press, nuclear arms control is expected to be discussed. No agreement among the three governments has been announced.",
+        "analysis": "A meeting announcement is not an arms-control commitment. The leaders represent three permanent members of the UN Security Council whose positions differ on nuclear weapons, trade and ongoing conflicts. The US and Russia hold the largest nuclear stockpiles, while China has resisted equivalent obligations before deeper cuts by those two powers. Beijing's confirmation makes the meeting more certain but does not settle its agenda or signal actual disarmament. The meaningful test after November 19 will be whether the leaders issue verifiable commitments rather than merely stage a diplomatic photo opportunity.",
+        "counterpoint": "The Chinese statement confirms the date, city and participants but sets no warhead-reduction targets or verification mechanism. Expectations about nuclear discussions come from US statements and reporting, not a negotiated treaty. The meeting has yet to take place and may produce no substantive agreement.",
+        "slug": "china-confirms-xi-trump-putin-summit-in-shenzhen-for-november-19-2026-11-16"
+      },
+      "es": {
+        "category": "MUNDO",
+        "title": "CHINA CONFIRMA CUMBRE DE XI, TRUMP Y PUTIN EN SHENZHEN PARA EL 19 DE NOVIEMBRE",
+        "subtitle": "Pekín confirma formalmente una reunión trilateral anticipada por Washington y Moscú; se prevé abordar el control nuclear, pero no hay acuerdo anunciado.",
+        "facts": "En un comunicado fechado el 16 de noviembre de 2026, el Ministerio de Relaciones Exteriores de China confirmó oficialmente que Xi Jinping se reunirá con el presidente estadounidense Donald Trump y el presidente ruso Vladímir Putin en Shenzhen el 19 de noviembre. El encuentro está previsto durante la semana de la Cooperación Económica Asia-Pacífico (APEC). La novedad es la confirmación formal china: la Casa Blanca y el Kremlin ya habían comunicado preparativos. Según declaraciones estadounidenses recogidas por Associated Press, se prevé hablar del control de armas nucleares. No se ha anunciado ningún acuerdo entre los tres gobiernos.",
+        "analysis": "Anunciar una reunión no equivale a asumir compromisos de desarme. Los tres mandatarios representan a miembros permanentes del Consejo de Seguridad de la ONU con posiciones divergentes sobre armamento, comercio y conflictos. Estados Unidos y Rusia poseen los mayores arsenales nucleares, mientras China se ha resistido a obligaciones equivalentes antes de recortes más profundos de ambos países. La confirmación de Pekín reduce la incertidumbre sobre la cita, pero no define su agenda ni supone un desarme efectivo. La prueba después del 19 de noviembre será la existencia de compromisos verificables y no solamente una fotografía diplomática.",
+        "counterpoint": "El comunicado chino confirma participantes, ciudad y fecha, pero no establece objetivos de reducción de ojivas ni mecanismos de verificación. Las expectativas sobre la cuestión nuclear proceden de declaraciones estadounidenses y de la prensa, no de un tratado negociado. La reunión todavía no se ha celebrado y podría concluir sin acuerdos sustanciales.",
+        "slug": "china-confirma-cumbre-de-xi-trump-y-putin-en-shenzhen-para-el-19-de-noviembre-2026-11-16"
+      },
+      "firstSeen": "2026-11-16T08:00:00-03:00"
+    },
+    {
       "id": "jordania-tres-condenados-morte-ataque-igreja-karak-2026-11-15",
       "date": "2026-11-15",
       "category": "MUNDO",
