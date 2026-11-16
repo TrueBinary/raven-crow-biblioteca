@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-16T11:10:15-03:00",
+  "updatedAt": "2026-11-16T11:18:09-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
     {
@@ -48,6 +48,9 @@
         "counterpoint": "The description of minor damage and ongoing traffic comes from the Kremlin, a party to the war, and is not an independent engineering finding. Social-media claims that an arch suffered major deformation have not been substantiated by verified imagery or technical inspection and should not be treated as fact. The Russian Defense Ministry's drone count also remains unverified. What is supported is that an attack took place and traffic was temporarily restricted; the full extent of the damage remains uncertain.",
         "photo_captions": {
           "1": "ARCHIVE PHOTO (July 7, 2018): arches and roadway of the Crimea Bridge over the Kerch Strait, photographed by Vahe Martirosyan / Wikimedia Commons (CC BY-SA 2.0). This does not show the November 16, 2026 drone strike."
+        },
+        "video_captions": {
+          "1": "Kremlin spokesperson Dmitry Peskov speaks on November 16, 2026. From 00:32 he discusses the drone attack on the Crimea Bridge, saying damage is being assessed as minor and traffic continues. The clip does not show the explosion. Source: APT / YouTube."
         }
       },
       "es": {
@@ -59,8 +62,20 @@
         "counterpoint": "La descripción de daños menores y circulación continua procede del Kremlin, parte implicada en la guerra, y no equivale a un peritaje independiente. Las afirmaciones en redes sociales sobre una deformación grave de uno de los arcos no cuentan con imágenes verificadas ni una inspección técnica que las confirme. Tampoco se ha comprobado de forma independiente el número de drones anunciado por el Ministerio de Defensa ruso. Lo sustentado es que hubo un ataque y restricciones temporales del tráfico; el alcance de los daños sigue siendo incierto.",
         "photo_captions": {
           "1": "FOTO DE ARCHIVO (7 de julio de 2018): arcos y calzada del puente de Crimea sobre el estrecho de Kerch, fotografiados por Vahe Martirosyan / Wikimedia Commons (CC BY-SA 2.0). No muestra el ataque con drones del 16 de noviembre de 2026."
+        },
+        "video_captions": {
+          "1": "Declaraciones de Dmitri Peskov, portavoz del Kremlin, el 16 de noviembre de 2026. Desde el minuto 00:32 comenta el ataque con drones al puente de Crimea y afirma que se están evaluando daños menores y que continúa el tráfico. El video no muestra la explosión. Fuente: APT / YouTube."
         }
-      }
+      },
+      "videos": [
+        {
+          "youtube": "https://www.youtube.com/watch?v=V3nqqkQsYtM",
+          "start": 32,
+          "placement": "fatos",
+          "caption": "Pronunciamento de Dmitry Peskov, porta-voz do Kremlin, em 16/11/2026. A partir de 00:32, ele comenta o ataque com drones à Ponte da Crimeia e afirma que os danos estão sendo avaliados como pequenos e o tráfego continua. O vídeo não mostra o momento da explosão.",
+          "credit": "APT / YouTube — fala de Dmitry Peskov (16/11/2026)"
+        }
+      ]
     },
     {
       "id": "china-confirma-cupula-xi-trump-putin-shenzhen-2026-11-16",
