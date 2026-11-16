@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "ucrania-atinge-ponte-crimeia-drones-2026-11-16",
+      "date": "2026-11-16",
+      "category": "MUNDO",
+      "title": "UCRÂNIA ATINGE PONTE DA CRIMEIA COM DRONES; RÚSSIA RESTRINGE TRÁFEGO E MINIMIZA DANOS",
+      "subtitle": "Ataque noturno alcança ligação estratégica no estreito de Kerch; Moscou reconhece avarias, mas ainda não há avaliação independente da estrutura.",
+      "facts": "Drones ucranianos atingiram na madrugada de 16 de novembro de 2026 a Ponte da Crimeia, que liga a península anexada pela Rússia ao território russo pelo estreito de Kerch. O governador instalado por Moscou na Crimeia, Sergei Aksyonov, anunciou restrições temporárias de tráfego até perto do meio-dia. Posteriormente, o porta-voz do Kremlin, Dmitry Peskov, disse que os danos eram pequenos e que veículos continuavam a circular. Reuters e Associated Press confirmaram os relatos dessas autoridades, mas não apresentaram uma avaliação estrutural independente da ponte. Em paralelo, o Ministério da Defesa russo afirmou que suas defesas interceptaram 1.336 drones ucranianos em diferentes pontos do país durante a ofensiva noturna. Esse total é uma alegação oficial russa sobre a operação mais ampla: não significa que 1.336 drones tenham atingido a ponte, nem foi verificado de forma independente. A ligação rodoviária e ferroviária tem cerca de 19 quilômetros.",
+      "analysis": "O efeito da ofensiva não depende apenas do tamanho da avaria. A ponte é uma ligação direta entre a rede de transporte russa e a Crimeia, tomada e anexada por Moscou em 2014, em ato amplamente não reconhecido pela comunidade internacional. Ela também foi utilizada para abastecimento logístico de forças russas durante a guerra. A interdição temporária evidencia sua vulnerabilidade operacional, mesmo que a avaliação inicial de danos leves seja confirmada. O ponto decisivo agora é verificar se a circulação rodoviária e ferroviária segue normal, se haverá inspeções ou reparos e se aparecem provas técnicas independentes. A comparação com os ataques de 2022 e 2023 ajuda a entender a importância da travessia, mas não permite presumir que o episódio atual tenha causado danos equivalentes. Em outras partes da Rússia, as autoridades também relataram ataques e feridos, segundo a AP.",
+      "counterpoint": "A descrição de danos pequenos e de tráfego em funcionamento foi dada pelo Kremlin, parte diretamente envolvida no conflito, e não constitui laudo independente. Relatos nas redes sociais de deformação grave em um dos arcos não foram confirmados por imagens verificadas ou por avaliação técnica; por isso, não podem ser apresentados como fato. Também não é possível aferir com independência o número de drones informado pelo Ministério da Defesa russo. Sem provas adicionais, a informação verificável é que houve ataque e restrição temporária de tráfego, com extensão dos danos ainda incerta.",
+      "sources": [
+        {
+          "name": "Reuters — ataque à Ponte da Crimeia e posição do Kremlin, 16/11/2026",
+          "url": "https://www.reuters.com/world/ukraine-hits-key-crimean-bridge-curbing-traffic-russian-governor-says-2026-11-16/"
+        },
+        {
+          "name": "Associated Press — ofensiva de drones e impacto na ponte, 16/11/2026",
+          "url": "https://apnews.com/article/russia-ukraine-war-drone-attacks-oil-refineries-242cb3fd47fc79293cf264c321b93800"
+        },
+        {
+          "name": "The Guardian — restrições de tráfego e divergências sobre danos, 16/11/2026",
+          "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Crimea%2C_Crimean_Bridge%2C_2018.07.07_%2804%29_%2842398982140%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 2.0 — https://creativecommons.org/licenses/by-sa/2.0/",
+          "credit": "Vahe Martirosyan / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Crimea,_Crimean_Bridge,_2018.07.07_(04)_(42398982140).jpg",
+          "caption": "FOTO DE ARQUIVO (07/07/2018): arcos e pista da Ponte da Crimeia no estreito de Kerch, em foto de Vahe Martirosyan / Wikimedia Commons (CC BY-SA 2.0). Não retrata o ataque de drones de 16/11/2026."
+        }
+      ],
+      "en": {
+        "category": "WORLD",
+        "title": "UKRAINIAN DRONES STRIKE CRIMEA BRIDGE; RUSSIA RESTRICTS TRAFFIC AND PLAYS DOWN DAMAGE",
+        "subtitle": "Overnight strike hits the strategic crossing over the Kerch Strait; Moscow acknowledges damage, but no independent structural assessment is available.",
+        "facts": "Ukrainian drones struck the Crimea Bridge linking the Russian-annexed peninsula to Russia across the Kerch Strait early on November 16, 2026. Sergei Aksyonov, Crimea's Russian-installed governor, announced temporary traffic restrictions until around midday. Kremlin spokesperson Dmitry Peskov later said the damage was minor and traffic was continuing. Reuters and the Associated Press reported these statements but did not provide an independent structural assessment. Separately, Russia's Defense Ministry claimed that its forces intercepted 1,336 Ukrainian drones across several locations overnight. This figure refers to Russia's broader claimed interception tally, not to drones striking the bridge, and has not been independently verified. The road and rail crossing is approximately 19 kilometers long.",
+        "analysis": "The bridge's significance extends beyond the immediate scale of damage. It directly connects Russia's transport network with Crimea, which Moscow seized and annexed in 2014 in a move widely rejected internationally, and has served as a logistics corridor for Russian forces. Even a temporary restriction underscores the crossing's operational importance. The next verifiable developments will be whether road and rail traffic operate normally, whether inspections or repairs are required and whether independent technical evidence emerges. Earlier attacks in 2022 and 2023 establish the crossing's strategic sensitivity, but do not prove equivalent damage this time. Russian authorities also reported strikes and injuries in other regions, according to AP.",
+        "counterpoint": "The description of minor damage and ongoing traffic comes from the Kremlin, a party to the war, and is not an independent engineering finding. Social-media claims that an arch suffered major deformation have not been substantiated by verified imagery or technical inspection and should not be treated as fact. The Russian Defense Ministry's drone count also remains unverified. What is supported is that an attack took place and traffic was temporarily restricted; the full extent of the damage remains uncertain.",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (July 7, 2018): arches and roadway of the Crimea Bridge over the Kerch Strait, photographed by Vahe Martirosyan / Wikimedia Commons (CC BY-SA 2.0). This does not show the November 16, 2026 drone strike."
+        },
+        "slug": "ukrainian-drones-strike-crimea-bridge-russia-restricts-traffic-and-plays-down-2026-11-16"
+      },
+      "es": {
+        "category": "MUNDO",
+        "title": "DRONES UCRANIANOS ALCANZAN EL PUENTE DE CRIMEA; RUSIA RESTRINGE EL TRÁFICO Y MINIMIZA LOS DAÑOS",
+        "subtitle": "Un ataque nocturno golpea el paso estratégico del estrecho de Kerch; Moscú reconoce daños, pero falta una evaluación estructural independiente.",
+        "facts": "Drones ucranianos alcanzaron en la madrugada del 16 de noviembre de 2026 el puente de Crimea, que une la península anexionada por Rusia con territorio ruso a través del estrecho de Kerch. Serguéi Aksiónov, gobernador de Crimea designado por Moscú, anunció restricciones temporales de tráfico hasta aproximadamente el mediodía. Más tarde, el portavoz del Kremlin, Dmitri Peskov, afirmó que los daños eran menores y que la circulación continuaba. Reuters y Associated Press recogieron esas declaraciones, sin ofrecer una evaluación estructural independiente. Por otra parte, el Ministerio de Defensa ruso aseguró haber interceptado 1.336 drones ucranianos en distintas zonas durante la ofensiva nocturna. Esa cifra se refiere al balance ruso de la operación general, no a drones que hayan golpeado el puente, y no ha sido verificada de forma independiente. La conexión de carretera y ferrocarril mide unos 19 kilómetros.",
+        "analysis": "La importancia del ataque no depende únicamente de los daños inmediatos. El puente enlaza directamente la red de transporte rusa con Crimea, ocupada y anexionada por Moscú en 2014 en una acción ampliamente rechazada internacionalmente, y ha servido como ruta logística para las fuerzas rusas. Incluso una restricción temporal pone de relieve su relevancia operativa. Habrá que comprobar si el tráfico por carretera y ferrocarril funciona con normalidad, si hacen falta inspecciones o reparaciones y si aparecen pruebas técnicas independientes. Los ataques de 2022 y 2023 muestran su importancia estratégica, pero no demuestran que los daños actuales sean comparables. AP también recoge informes de ataques y heridos en otras regiones rusas.",
+        "counterpoint": "La descripción de daños menores y circulación continua procede del Kremlin, parte implicada en la guerra, y no equivale a un peritaje independiente. Las afirmaciones en redes sociales sobre una deformación grave de uno de los arcos no cuentan con imágenes verificadas ni una inspección técnica que las confirme. Tampoco se ha comprobado de forma independiente el número de drones anunciado por el Ministerio de Defensa ruso. Lo sustentado es que hubo un ataque y restricciones temporales del tráfico; el alcance de los daños sigue siendo incierto.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (7 de julio de 2018): arcos y calzada del puente de Crimea sobre el estrecho de Kerch, fotografiados por Vahe Martirosyan / Wikimedia Commons (CC BY-SA 2.0). No muestra el ataque con drones del 16 de noviembre de 2026."
+        },
+        "slug": "drones-ucranianos-alcanzan-el-puente-de-crimea-rusia-restringe-el-trafico-y-2026-11-16"
+      },
+      "firstSeen": "2026-11-16T11:10:15-03:00"
+    },
+    {
       "id": "china-confirma-cupula-xi-trump-putin-shenzhen-2026-11-16",
       "date": "2026-11-16",
       "category": "MUNDO",

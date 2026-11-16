@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "ucrania-atinge-ponte-crimeia-drones-2026-11-16": "editorial/covers/ucrania-atinge-ponte-crimeia-drones-2026-11-16.svg",
     "china-confirma-cupula-xi-trump-putin-shenzhen-2026-11-16": "editorial/covers/china-confirma-cupula-xi-trump-putin-shenzhen-2026-11-16.svg",
     "jordania-tres-condenados-morte-ataque-igreja-karak-2026-11-15": "editorial/covers/jordania-tres-condenados-morte-ataque-igreja-karak-2026-11-15.svg",
     "enem-2026-segundo-dia-abstencao-36-reaplicacao-2026-11-15": "editorial/covers/enem-2026-segundo-dia-abstencao-36-reaplicacao-2026-11-15.svg",
@@ -368,7 +369,8 @@
     "a-republica-chegou-de-farda-e-esqueceu-de-convidar-o-povo-2026-11-15": "editorial/photos/a-republica-chegou-de-farda-e-esqueceu-de-convidar-o-povo-2026-11-15.jpg",
     "estonia-fechara-fronteiras-russia-apos-suspeita-sabotagem-2026-11-15": "editorial/photos/estonia-fechara-fronteiras-russia-apos-suspeita-sabotagem-2026-11-15.jpg",
     "jordania-tres-condenados-morte-ataque-igreja-karak-2026-11-15": "editorial/photos/jordania-tres-condenados-morte-ataque-igreja-karak-2026-11-15.jpg",
-    "comprou-o-aparelho-mas-nao-a-chave-de-fenda-direito-de-reparar-2026-11-16": "editorial/photos/comprou-o-aparelho-mas-nao-a-chave-de-fenda-direito-de-reparar-2026-11-16.jpg"
+    "comprou-o-aparelho-mas-nao-a-chave-de-fenda-direito-de-reparar-2026-11-16": "editorial/photos/comprou-o-aparelho-mas-nao-a-chave-de-fenda-direito-de-reparar-2026-11-16.jpg",
+    "ucrania-atinge-ponte-crimeia-drones-2026-11-16": "editorial/photos/ucrania-atinge-ponte-crimeia-drones-2026-11-16.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -1424,6 +1426,12 @@
     "comprou-o-aparelho-mas-nao-a-chave-de-fenda-direito-de-reparar-2026-11-16": {
       "src": "editorial/photos/comprou-o-aparelho-mas-nao-a-chave-de-fenda-direito-de-reparar-2026-11-16-1280.webp",
       "srcset": "editorial/photos/comprou-o-aparelho-mas-nao-a-chave-de-fenda-direito-de-reparar-2026-11-16-320.webp 320w, editorial/photos/comprou-o-aparelho-mas-nao-a-chave-de-fenda-direito-de-reparar-2026-11-16-640.webp 640w, editorial/photos/comprou-o-aparelho-mas-nao-a-chave-de-fenda-direito-de-reparar-2026-11-16-960.webp 960w, editorial/photos/comprou-o-aparelho-mas-nao-a-chave-de-fenda-direito-de-reparar-2026-11-16-1280.webp 1280w",
+      "width": 1280,
+      "height": 853
+    },
+    "ucrania-atinge-ponte-crimeia-drones-2026-11-16": {
+      "src": "editorial/photos/ucrania-atinge-ponte-crimeia-drones-2026-11-16-1280.webp",
+      "srcset": "editorial/photos/ucrania-atinge-ponte-crimeia-drones-2026-11-16-320.webp 320w, editorial/photos/ucrania-atinge-ponte-crimeia-drones-2026-11-16-640.webp 640w, editorial/photos/ucrania-atinge-ponte-crimeia-drones-2026-11-16-960.webp 960w, editorial/photos/ucrania-atinge-ponte-crimeia-drones-2026-11-16-1280.webp 1280w",
       "width": 1280,
       "height": 853
     }
