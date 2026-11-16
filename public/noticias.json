@@ -2,9 +2,49 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-16T15:02:21-03:00",
+  "updatedAt": "2026-11-16T15:56:23-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "tre-ce-maioria-ciro-gomes-condenacao-2026-11-16",
+      "date": "2026-11-16",
+      "category": "JUSTIÇA",
+      "title": "TRE-CE FORMA MAIORIA PARA MANTER CONDENAÇÃO DE CIRO GOMES, MAS JULGAMENTO SEGUE SUSPENSO",
+      "subtitle": "Quatro dos sete integrantes votaram contra recurso do ex-governador em ação por violência política de gênero contra Janaína Farias; inelegibilidade ainda não está definida.",
+      "facts": "O Tribunal Regional Eleitoral do Ceará (TRE-CE) formou nesta segunda-feira, 16 de novembro de 2026, maioria de quatro votos entre sete integrantes para manter a condenação de primeira instância do ex-governador Ciro Gomes (PSDB) por violência política de gênero contra Janaína Farias (PT), atual prefeita de Crateús. O julgamento do recurso foi interrompido após pedido de vista do juiz Antônio Edilberto Oliveira Lima, sem data anunciada para conclusão. A relatora Arsênia Parente Breckenfeld e Luciana Melo Madruga Fernandes Arruda já haviam votado em 9 de novembro; Luiz Evaldo Gonçalves Leite e José Maximiliano Machado Cavalcanti acompanharam a posição nesta segunda. A condenação inicial se refere a declarações de Ciro sobre Janaína em 2024, quando ela exercia mandato de senadora. A sentença de primeira instância fixou um ano e quatro meses de reclusão, substituídos por medidas alternativas. O julgamento colegiado ainda não terminou.",
+      "analysis": "A diferença entre maioria de votos e julgamento concluído é decisiva. O placar de quatro a zero indica a orientação atual da maioria do TRE-CE, mas os votos podem ser alterados antes da proclamação do resultado. A eventual inelegibilidade depende do desfecho e dos requisitos da Lei Complementar 64/1990, conhecida como Lei da Ficha Limpa; não deve ser anunciada como efeito consumado. O artigo 326-B do Código Eleitoral, incluído pela Lei 14.192/2021, trata de violência política contra mulheres em razão da condição feminina para prejudicar participação ou exercício do mandato. A discussão jurídica distingue crítica política, mesmo contundente, de manifestações que, segundo a acusação, procuram desqualificar uma mulher por referências sexuais e à vida íntima. O próximo marco verificável é a retomada da sessão e publicação do resultado.",
+      "counterpoint": "Ciro recorreu da condenação. Segundo o UOL, a defesa alegou que as falas tinham como alvo outras pessoas, enquanto a Justiça de primeira instância entendeu que ultrapassavam a crítica política. Não foi confirmada nova manifestação da defesa após a votação parcial. Relatos citam valores diferentes porque medidas alternativas e dias-multa são distintos; sem o inteiro teor da decisão colegiada, não se deve apresentá-los como sanção definitiva. O processo permanece aberto e poderá comportar recursos.",
+      "sources": [
+        {
+          "name": "O Povo — julgamento parcial, 16/11/2026",
+          "url": "https://www.opovo.com.br/noticias/politica/2026/11/16/amp/tre-ce-tem-maioria-para-condenar-ciro-gomes-e-torna-lo-inelegivel.html"
+        },
+        {
+          "name": "GCMais — votos e pedido de vista, 16/11/2026",
+          "url": "https://gcmais.com.br/noticias/2026/11/16/tre-ce-forma-maioria-para-manter-condenacao-de-ciro-gomes-por-violencia-politica-de-genero"
+        },
+        {
+          "name": "UOL — recurso e defesa, 16/11/2026",
+          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/16/tre-ce-condenacao-ciro-gomes-violencia-de-genero.ghtm"
+        }
+      ],
+      "en": {
+        "category": "JUSTICE",
+        "title": "CEARÁ ELECTORAL COURT MAJORITY BACKS CIRO GOMES CONVICTION, BUT CASE REMAINS OPEN",
+        "subtitle": "Four of seven judges voted to reject the former governor's appeal in a political gender-violence case involving Janaína Farias; disqualification is not yet final.",
+        "facts": "On Monday, November 16, 2026, four of the seven members of Ceará's Regional Electoral Court (TRE-CE) voted to uphold a lower-court conviction of former governor Ciro Gomes (PSDB) for political gender-based violence against Janaína Farias (PT), now mayor of Crateús. The appeal hearing was suspended after judge Antônio Edilberto Oliveira Lima requested more time to review the case; no resumption date was announced. Rapporteur Arsênia Parente Breckenfeld and Luciana Melo Madruga Fernandes Arruda had voted on November 9. Luiz Evaldo Gonçalves Leite and José Maximiliano Machado Cavalcanti joined them on November 16. The case concerns remarks made in 2024, when Farias was serving as a senator. The initial sentence was one year and four months of imprisonment, replaced with alternative measures. The appellate judgment has not been completed.",
+        "analysis": "A majority vote is not the same as a completed judgment. Although the current tally is four to zero, judges may change their votes before the decision is formally announced. Electoral disqualification depends on the final outcome and the requirements of Complementary Law 64/1990, Brazil's Clean Record Law. Article 326-B of the Electoral Code, introduced by Law 14,192/2021, addresses gender-based political violence aimed at obstructing women's political participation or exercise of office. The court must distinguish robust political criticism from statements that, according to prosecutors, demean a woman through sexual or intimate references. The next verifiable development is the resumed hearing and formal decision.",
+        "counterpoint": "Gomes appealed the lower-court ruling. UOL reported that his defense argued the remarks targeted other people, while the trial court found that they went beyond political criticism. No new defense statement after the partial vote was confirmed. Reports cite different financial figures because alternative penalties and criminal fines are separate matters; without the full appellate decision, no amount should be presented as final. Further appeals may remain possible."
+      },
+      "es": {
+        "category": "JUSTICIA",
+        "title": "MAYORÍA DEL TRIBUNAL ELECTORAL DE CEARÁ RESPALDA CONDENA DE CIRO GOMES, PERO EL JUICIO SIGUE ABIERTO",
+        "subtitle": "Cuatro de siete magistrados votaron contra el recurso del exgobernador por violencia política de género contra Janaína Farias; la posible inhabilitación aún no es definitiva.",
+        "facts": "El lunes 16 de noviembre de 2026, cuatro de los siete integrantes del Tribunal Regional Electoral de Ceará (TRE-CE) votaron a favor de mantener la condena de primera instancia del exgobernador Ciro Gomes (PSDB) por violencia política de género contra Janaína Farias (PT), actual alcaldesa de Crateús. El examen del recurso se suspendió después de que el magistrado Antônio Edilberto Oliveira Lima solicitara más tiempo para estudiar el caso, sin fecha de reanudación. La ponente Arsênia Parente Breckenfeld y Luciana Melo Madruga Fernandes Arruda habían votado el 9 de noviembre; Luiz Evaldo Gonçalves Leite y José Maximiliano Machado Cavalcanti se sumaron el día 16. El proceso se refiere a declaraciones realizadas en 2024, cuando Farias ejercía como senadora. La sentencia inicial fijó un año y cuatro meses de prisión, sustituidos por medidas alternativas. El tribunal aún no ha concluido el juicio.",
+        "analysis": "La mayoría de votos no equivale a una sentencia colegiada concluida. Aunque el marcador es de cuatro a cero, los magistrados pueden modificar su posición antes de la proclamación del resultado. Una eventual inhabilitación depende del desenlace y de los requisitos de la Ley Complementaria 64/1990, conocida como Ley de Ficha Limpia. El artículo 326-B del Código Electoral, introducido por la Ley 14.192/2021, sanciona la violencia política de género dirigida a obstaculizar la participación o el ejercicio del cargo de una mujer. La cuestión jurídica distingue la crítica política intensa de expresiones que, según la acusación, desacreditan a una mujer mediante referencias sexuales o íntimas. El siguiente hecho comprobable será la reanudación de la sesión y la decisión formal.",
+        "counterpoint": "Gomes recurrió la condena. Según UOL, la defensa sostuvo que las declaraciones se dirigían a otras personas, pero el juzgado de primera instancia consideró que excedían la crítica política. No se confirmó una nueva declaración de la defensa tras la votación parcial. Las cantidades económicas citadas en la prensa difieren porque las medidas alternativas y las multas penales son cuestiones distintas; sin la resolución íntegra, no deben presentarse como definitivas. También pueden existir recursos posteriores."
+      }
+    },
     {
       "id": "cooabriel-audiencia-trabalho-escravo-cafe-2026-11-16",
       "date": "2026-11-16",
