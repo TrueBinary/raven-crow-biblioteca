@@ -2,9 +2,53 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-15T22:03:11-03:00",
+  "updatedAt": "2026-11-16T00:02:44-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "enem-2026-segundo-dia-abstencao-36-reaplicacao-2026-11-15",
+      "date": "2026-11-15",
+      "category": "EDUCAÇÃO",
+      "title": "ENEM 2026 TERMINA COM 36% DE ABSTENÇÃO NO SEGUNDO DIA; REAPLICAÇÃO PODE SER PEDIDA A PARTIR DESTA SEGUNDA",
+      "subtitle": "Balanço preliminar aponta alta nas faltas; candidatos prejudicados por problemas previstos no edital têm até 20 de novembro para solicitar nova prova.",
+      "facts": "O segundo dia do Exame Nacional do Ensino Médio (Enem) 2026, realizado em 15 de novembro, teve 36% de abstenção, segundo balanço preliminar divulgado pelo Ministério da Educação (MEC) e pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) em Brasília. A taxa foi de 32% no primeiro domingo, 8 de novembro. Onze locais de prova tiveram falta de energia no segundo dia: quatro em Minas Gerais, três na Bahia, dois no Paraná, um no Maranhão e um no Piauí. Candidatos prejudicados por problemas logísticos, desastres naturais ou doenças infectocontagiosas previstas no edital podem solicitar reaplicação de 16 a 20 de novembro na Página do Participante, com documentação comprobatória. As provas de reaplicação estão marcadas para 15 e 16 de dezembro. O gabarito oficial será divulgado em 18 de novembro, e os resultados individuais em 18 de janeiro de 2027.",
+      "analysis": "A taxa de ausência subiu quatro pontos percentuais entre o primeiro e o segundo domingo. Em relação aos 30% relatados para o segundo dia de 2025, o aumento foi de seis pontos percentuais, não de 6% em termos relativos. O MEC associa parte da mudança à inscrição automática de concluintes da rede pública, que ampliou o universo de inscritos; por isso, comparar apenas a taxa de faltosos não basta para avaliar o acesso efetivo. Segundo o ministério, a participação de concluintes da rede pública aumentou de 53,8% em 2025 para 65% em 2026. Para quem teve a prova inviabilizada, o prazo curto de solicitação e a exigência de comprovação são informações mais urgentes do que a disputa sobre os percentuais. O candidato com pedido aprovado refaz apenas o dia afetado.",
+      "counterpoint": "Os números de abstenção ainda são preliminares e não revelam, por si, os motivos individuais de cada ausência. A inscrição automática é uma explicação apresentada pelo MEC, não uma decomposição estatística definitiva das causas. A reaplicação não é aberta a qualquer faltoso: depende das hipóteses previstas no edital e de aprovação do Inep.",
+      "sources": [
+        {
+          "name": "Inep — resultados e gabaritos do Enem 2026, 15/11/2026",
+          "url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/resultados-do-enem-serao-divulgados-em-18-de-janeiro"
+        },
+        {
+          "name": "Inep — orientações para reaplicação, 15/11/2026",
+          "url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/enem-2026-segundo-dia-de-prova-chega-ao-fim-neste-domingo-15-1"
+        },
+        {
+          "name": "CNN Brasil — balanço e abstenção, 15/11/2026",
+          "url": "https://www.cnnbrasil.com.br/educacao/enem-2026-tem-mais-concluintes-do-ensino-publico-mas-abstencao-tambem-sobe/"
+        },
+        {
+          "name": "UOL — balanço de abstenção, 15/11/2026",
+          "url": "https://educacao.uol.com.br/noticias/2026/11/15/abstencao-segundo-dia-enem-2026.ghtm"
+        }
+      ],
+      "en": {
+        "category": "EDUCATION",
+        "title": "BRAZIL'S 2026 ENEM ENDS WITH 36% ABSENT ON DAY TWO; MAKEUP REQUESTS OPEN MONDAY",
+        "subtitle": "Preliminary figures show higher absenteeism, while eligible candidates have until November 20 to request a makeup exam.",
+        "facts": "On November 15, 2026, the second day of Brazil's National High School Exam (Enem) recorded a preliminary absentee rate of 36%, according to the Ministry of Education (MEC) and the National Institute for Educational Studies and Research (Inep). The rate was 32% on the first day, November 8. Power outages affected 11 testing locations: four in Minas Gerais, three in Bahia, two in Paraná, one in Maranhão and one in Piauí. Candidates affected by eligible logistical problems, natural disasters or infectious diseases may request a makeup exam through the Participant Page from November 16 to 20, with supporting documentation. Makeup tests are scheduled for December 15 and 16. Official answer keys are due November 18, and individual results on January 18, 2027.",
+        "analysis": "Absenteeism rose four percentage points between the two Sundays. Compared with the 30% reported for day two in 2025, the increase was six percentage points, not a 6% relative rise. MEC partly attributes the change to automatic registration of public-school seniors, which expanded the pool of registered candidates; absentee rates alone therefore cannot measure actual access. According to the ministry, participation among public-school graduates rose from 53.8% in 2025 to 65% in 2026. For candidates whose exams were disrupted, the short application window and evidence requirements are more immediately consequential. Approved candidates retake only the affected day's test.",
+        "counterpoint": "These figures are preliminary and do not establish why each absent candidate missed the test. Automatic registration is the ministry's explanation, not a definitive statistical breakdown. Makeup tests are limited to circumstances covered by the rules and require Inep approval."
+      },
+      "es": {
+        "category": "EDUCACIÓN",
+        "title": "EL ENEM 2026 DE BRASIL TERMINA CON UN 36% DE AUSENCIAS EN LA SEGUNDA JORNADA; ABREN SOLICITUDES DE REPETICIÓN",
+        "subtitle": "El balance preliminar muestra más ausencias y los candidatos elegibles tienen hasta el 20 de noviembre para solicitar otra prueba.",
+        "facts": "El 15 de noviembre de 2026, la segunda jornada del Examen Nacional de Enseñanza Media de Brasil (Enem) registró una tasa preliminar de ausencias del 36%, según el Ministerio de Educación (MEC) y el Instituto Nacional de Estudios e Investigaciones Educativas (Inep). El 8 de noviembre, primer día, la tasa fue del 32%. Hubo cortes de electricidad en 11 sedes: cuatro en Minas Gerais, tres en Bahía, dos en Paraná, una en Maranhão y una en Piauí. Quienes hayan sufrido problemas logísticos, desastres naturales o enfermedades infecciosas contempladas en las normas podrán solicitar una nueva aplicación del 16 al 20 de noviembre en la Página del Participante, aportando documentos. Las pruebas se repetirán el 15 y 16 de diciembre. Las respuestas oficiales se publicarán el 18 de noviembre y los resultados individuales el 18 de enero de 2027.",
+        "analysis": "Las ausencias aumentaron cuatro puntos porcentuales entre los dos domingos. Frente al 30% comunicado para la segunda jornada de 2025, el incremento fue de seis puntos porcentuales, no del 6% relativo. El MEC atribuye parte del cambio a la inscripción automática de alumnos del último año de escuelas públicas, que amplió el total de inscritos; por eso, la tasa de ausencias no mide por sí sola el acceso efectivo. Según el ministerio, la participación de los concluyentes de escuelas públicas pasó del 53,8% en 2025 al 65% en 2026. Para los afectados por incidencias, el breve plazo y la documentación exigida son lo más urgente. Quienes obtengan aprobación repetirán únicamente la jornada afectada.",
+        "counterpoint": "Los datos son preliminares y no explican los motivos individuales de las ausencias. La inscripción automática es la explicación del MEC, no un desglose estadístico definitivo. La repetición está limitada a los supuestos previstos y requiere aprobación del Inep."
+      }
+    },
     {
       "id": "asean-cupula-decide-manter-restricoes-mianmar-2026-11-15",
       "date": "2026-11-15",
