@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "eua-nove-parceiros-declaracao-cadeia-ia-2026-11-16",
+      "date": "2026-11-16",
+      "category": "TECNOLOGIA",
+      "title": "EUA E NOVE PARCEIROS ASSINAM ACORDO PARA PROTEGER CADEIA GLOBAL DA INTELIGÊNCIA ARTIFICIAL",
+      "subtitle": "Declaração de São Francisco reúne dez países em torno da segurança de chips, infraestrutura e insumos críticos; compromissos ainda precisam ser implementados.",
+      "facts": "Os Estados Unidos e nove países parceiros assinaram em 15 de novembro de 2026 a Declaração de São Francisco sobre os Fundamentos Seguros da Prosperidade Duradoura, anunciada pelo Departamento de Estado e noticiada em 16 de novembro. Participam Estados Unidos, Austrália, Índia, Israel, Japão, Coreia do Sul, Catar, Singapura, Emirados Árabes Unidos e Reino Unido. O documento prevê cooperação para identificar e proteger tecnologias sensíveis e infraestrutura essencial às cadeias de suprimentos da inteligência artificial (IA), incluindo semicondutores e minerais críticos. Os signatários pretendem formar grupos de trabalho sobre políticas de IA, adoção, cadeias produtivas, centros de segurança e resiliência. Não foram anunciados, nessa divulgação, valores vinculantes de investimento ou cronogramas completos de execução.",
+      "analysis": "A novidade é a tentativa de tratar o funcionamento da IA como uma cadeia industrial e geopolítica, não apenas como desenvolvimento de programas. Treinar e operar sistemas avançados depende de chips, energia, instalações de computação e matérias-primas; a interrupção de um desses elos pode comprometer os demais. A iniciativa se insere no Pax Silica, esforço diplomático norte-americano lançado em 2025 para reduzir vulnerabilidades estratégicas e dependências consideradas arriscadas. O acordo inclui economias com papéis distintos, de fornecedores de recursos e energia a centros tecnológicos e financeiros. Para o Brasil, que não consta da lista de dez signatários, o anúncio merece atenção no contexto das novas exigências norte-americanas de licenciamento de chips avançados destinadas também ao mercado brasileiro, mas não demonstra por si só que empresas nacionais perderam acesso à tecnologia.",
+      "counterpoint": "A assinatura de uma declaração política não equivale à implantação imediata de fábricas, controles de exportação conjuntos ou investimentos assegurados. A disputa tecnológica com a China constitui o contexto geopolítico relatado pela imprensa, mas não autoriza afirmar que o documento proíba automaticamente comércio com empresas chinesas. Ainda faltam informações públicas suficientes sobre instrumentos jurídicos, orçamento, fiscalização e efeitos concretos para países que ficaram fora do grupo inicial.",
+      "sources": [
+        {
+          "name": "Reuters — US, allies team up to protect AI tech and infrastructure, 16/11/2026",
+          "url": "https://www.reuters.com/world/china/us-allies-team-up-protect-ai-tech-infrastructure-amid-china-rivalry-2026-11-16/"
+        },
+        {
+          "name": "Bloomberg News — US, Partners Agree to Safeguard Key AI Tech, 16/11/2026",
+          "url": "https://news.bloomberglaw.com/artificial-intelligence/us-partners-agree-to-safeguard-key-ai-tech-infrastructure-2"
+        },
+        {
+          "name": "Financial Times — US and allies sign accord, 15/11/2026",
+          "url": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22"
+        }
+      ],
+      "en": {
+        "category": "TECHNOLOGY",
+        "title": "US AND NINE PARTNERS SIGN AGREEMENT TO PROTECT GLOBAL AI SUPPLY CHAINS",
+        "subtitle": "The San Francisco Declaration brings ten countries together to safeguard chips, infrastructure and critical inputs, but implementation details remain limited.",
+        "facts": "The United States and nine partners signed the San Francisco Declaration on the Secure Foundations of Enduring Prosperity on November 15, 2026, with the announcement reported on November 16. Signatories are the United States, Australia, India, Israel, Japan, South Korea, Qatar, Singapore, the United Arab Emirates and the United Kingdom. The agreement seeks cooperation to identify and safeguard sensitive technologies and infrastructure underpinning artificial intelligence (AI) supply chains, including semiconductors and critical minerals. Planned working groups cover AI policy, adoption, supply chains, security hubs and resilience. The announcement did not establish binding investment amounts or a comprehensive implementation timetable.",
+        "analysis": "The development treats AI as an industrial and strategic supply chain rather than simply software. Advanced computing depends on chips, power, facilities and raw materials; a disruption at one point can affect the entire system. The declaration builds on Pax Silica, a US-led initiative launched in 2025 to reduce strategic vulnerabilities and risky dependencies. The ten signatories bring different strengths in technology, energy, finance and resources. Brazil is not among the initial signatories, making the initiative relevant alongside new US licensing requirements for advanced chip exports to Brazil, though the declaration itself does not prove Brazilian companies have lost access.",
+        "counterpoint": "Signing a political declaration does not immediately establish factories, joint export controls or funded projects. Competition with China provides geopolitical context, but it would be inaccurate to claim the declaration automatically bans trade with Chinese companies. Binding mechanisms, budgets, enforcement and consequences for non-signatories remain unclear.",
+        "slug": "us-and-nine-partners-sign-agreement-to-protect-global-ai-supply-chains-2026-11-16"
+      },
+      "es": {
+        "category": "TECNOLOGÍA",
+        "title": "EE. UU. Y NUEVE SOCIOS FIRMAN UN ACUERDO PARA PROTEGER LAS CADENAS GLOBALES DE IA",
+        "subtitle": "La Declaración de San Francisco reúne a diez países para proteger chips, infraestructura e insumos críticos, aunque faltan detalles de aplicación.",
+        "facts": "Estados Unidos y nueve socios firmaron el 15 de noviembre de 2026 la Declaración de San Francisco sobre los Fundamentos Seguros de la Prosperidad Duradera, anunciada públicamente el 16 de noviembre. Los firmantes son Estados Unidos, Australia, India, Israel, Japón, Corea del Sur, Catar, Singapur, Emiratos Árabes Unidos y Reino Unido. El texto promueve la cooperación para identificar y proteger tecnologías sensibles e infraestructura de las cadenas de suministro de inteligencia artificial (IA), incluidos semiconductores y minerales críticos. Se prevén grupos de trabajo sobre políticas de IA, adopción, cadenas productivas, centros de seguridad y resiliencia. El anuncio no fijó montos vinculantes de inversión ni un calendario completo.",
+        "analysis": "La iniciativa reconoce que la IA depende de una cadena industrial y estratégica, no solo de programas informáticos. Los sistemas avanzados requieren chips, energía, instalaciones y materias primas; una interrupción puede repercutir en los demás eslabones. El acuerdo amplía Pax Silica, iniciativa estadounidense lanzada en 2025 para reducir vulnerabilidades y dependencias estratégicas. Los firmantes reúnen distintas capacidades tecnológicas, energéticas y financieras. Brasil no figura entre los diez países iniciales, un dato relevante ante los nuevos requisitos estadounidenses de licencias para exportar chips avanzados a ese mercado, aunque la declaración no demuestra por sí misma que las empresas brasileñas hayan perdido acceso.",
+        "counterpoint": "Una declaración política no equivale a construir fábricas, establecer controles conjuntos de exportación o garantizar inversiones. La rivalidad con China explica el contexto, pero no significa que el acuerdo prohíba automáticamente comerciar con empresas chinas. Siguen sin precisarse mecanismos obligatorios, presupuestos, fiscalización y efectos para países no firmantes.",
+        "slug": "ee-uu-y-nueve-socios-firman-un-acuerdo-para-proteger-las-cadenas-globales-de-ia-2026-11-16"
+      },
+      "firstSeen": "2026-11-16T19:05:00-03:00"
+    },
+    {
       "id": "ibc-br-economia-recua-09-terceiro-trimestre-2026-11-16",
       "date": "2026-11-16",
       "category": "ECONOMIA",
