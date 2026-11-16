@@ -1,7 +1,81 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15T19:02:39-03:00",
+  "updatedAt": "2026-11-16T10:05:12-03:00",
   "essays": [
+    {
+      "id": "comprou-o-aparelho-mas-nao-a-chave-de-fenda-direito-de-reparar-2026-11-16",
+      "section": "Política e sociedade",
+      "date": "2026-11-16",
+      "title": "COMPREI A MÁQUINA. A CHAVE DE FENDA CONTINUA SENDO DELES.",
+      "subtitle": "O direito de reparar expõe uma contradição curiosa: ser dono de um aparelho nem sempre significa conseguir mantê-lo vivo.",
+      "eyebrow": "OPINIÃO",
+      "paragraphs": [
+        "Uma chave de fenda já foi instrumento de independência doméstica. Meu avô não precisava consultar os termos de uso de uma torradeira para descobrir por que ela parou de funcionar. Hoje, em certos aparelhos, o proprietário consegue comprar a máquina, pagar a garantia estendida e ainda assim esbarrar em peças indisponíveis, projetos difíceis de abrir ou reparos que custam quase outra máquina. A chave continua na gaveta. Quem desapareceu foi a porta.",
+        "Não estou dizendo que todo fabricante planeja a morte prematura dos produtos; isso seria acusação fácil, e preguiçosa. Há componentes miniaturizados, baterias perigosas, vedação contra água e exigências de segurança que tornam consertos realmente complexos. Mas existe uma pergunta econômica que sobrevive a todas essas explicações: se um objeto é meu, por que manter esse objeto funcionando às minhas custas pode depender tanto da boa vontade de quem já recebeu o pagamento?",
+        "O Brasil não parte do zero. O artigo 32 do Código de Defesa do Consumidor exige que fabricantes e importadores assegurem peças de reposição enquanto durar a fabricação ou importação e, depois, por período razoável, na forma da lei. Não significa que toda peça de todo aparelho estará disponível para sempre, nem que qualquer reparo seja gratuito. Significa algo mais modesto e bastante civilizado: vender um produto não encerra automaticamente a responsabilidade de permitir sua manutenção. Um direito que existe no papel, porém, merece ser discutido também na bancada da assistência técnica.",
+        "Na União Europeia, a Diretiva 2024/1799 estabeleceu regras para promover reparos em categorias abrangidas por requisitos específicos; os países-membros deveriam aplicá-las a partir de 31 de julho de 2026. Não é uma ordem para ressuscitar qualquer aparelho, e tampouco uma lei brasileira. O movimento, entretanto, ilumina uma disputa curiosa: durante anos nos venderam a novidade como sinônimo de progresso, enquanto o conserto foi ficando com cara de derrota. Como se trocar uma peça fosse um atestado de pobreza e comprar outra máquina, um sacramento da modernidade.",
+        "Há uma objeção séria, e ela não cabe debaixo do tapete da oficina: abrir equipamentos pode causar acidentes, comprometer a segurança e expor informações pessoais. Regras de reparabilidade precisam considerar isso, além dos custos de estoque e desenvolvimento. Também não se deve obrigar o consumidor a consertar o que prefere substituir. A liberdade que defendo inclui o direito de comprar algo novo. Só não vejo por que deveria excluir a liberdade de manter o antigo funcionando, especialmente quando o reparo é tecnicamente viável e seguro.",
+        "Repare na inversão. O mercado gosta de celebrar o consumidor soberano, e com razão: é o dinheiro dele que decide se um produto merece continuar existindo. Mas a soberania fica um tanto ornamental quando a escolha real se resume a pagar por uma troca inteira ou contemplar o aparelho morto sobre a mesa. Não é preciso transformar todo defeito em conspiração industrial. Basta reconhecer que transparência sobre peças, manuais e condições de conserto pode ser tão importante quanto a propaganda que convenceu alguém a comprar.",
+        "Talvez a imagem mais bonita da tecnologia não seja um lançamento sob holofotes, mas duas pessoas inclinadas sobre um aparelho aberto, tentando fazê-lo voltar à vida. Há inteligência ali, paciência e respeito pelo dinheiro que alguém trabalhou para ganhar. Meu caro leitor, não quero que o Estado escolha a marca da minha torradeira, nem que a fábrica escolha quando devo enterrá-la. Se o objeto ainda pode servir, permita ao dono ao menos tentar salvá-lo. Uma sociedade que sabe fabricar maravilhas e desaprendeu a trocar um parafuso merece, no mínimo, revisar o manual."
+      ],
+      "sources": [
+        {
+          "title": "Câmara dos Deputados — Código de Defesa do Consumidor, Lei 8.078/1990, art. 32",
+          "url": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html"
+        },
+        {
+          "title": "União Europeia — Diretiva (UE) 2024/1799, versão consolidada em 31/07/2026",
+          "url": "https://eur-lex.europa.eu/eli/dir/2024/1799/2026-07-31"
+        },
+        {
+          "title": "Reuters — Parlamento Europeu aprova regras de direito ao reparo (23/04/2024)",
+          "url": "https://www.reuters.com/sustainability/eu-parliament-approves-rules-requiring-companies-repair-worn-out-products-2024-04-23/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Repair_Caf%C3%A9_Trier_Reparatur.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "RaMa2016 / Wikimedia Commons",
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Repair_Caf%C3%A9_Trier_Reparatur.jpg",
+          "caption": "FOTO DE ARQUIVO (28/11/2015), Trier, Alemanha: participantes realizam um reparo em equipamento elétrico no Repair Café Trier. Não retrata acontecimento recente."
+        }
+      ],
+      "en": {
+        "title": "I BOUGHT THE MACHINE. THEY STILL OWN THE SCREWDRIVER.",
+        "subtitle": "The right to repair exposes a strange contradiction: owning an appliance does not always mean being able to keep it alive.",
+        "eyebrow": "OPINION",
+        "section": "Politics and society",
+        "paragraphs": [
+          "A screwdriver used to be a small instrument of household independence. My grandfather did not need to consult a toaster's terms of service to find out why it had stopped working. Today, with some appliances, an owner can buy the machine, pay for an extended warranty and still run into unavailable parts, designs that resist opening or a repair bill close to the price of a replacement. The screwdriver is still in the drawer. What disappeared was the door.",
+          "I am not claiming that every manufacturer deliberately designs products to die young. That would be an easy, lazy accusation. Miniaturized components, hazardous batteries, water resistance and genuine safety requirements can make repairs difficult. Yet one economic question survives all these explanations: if I own an object, why can keeping it working at my own expense depend so heavily on the goodwill of a company I have already paid?",
+          "Brazil is not starting from scratch. Article 32 of its Consumer Protection Code requires manufacturers and importers to make replacement parts available while a product is being manufactured or imported and, afterwards, for a reasonable period as provided by law. It does not promise every part for every device forever, or free repairs. It establishes something more modest and rather civilized: selling a product does not automatically end responsibility for making maintenance possible. A right written into law, however, also deserves scrutiny at the repair bench.",
+          "In the European Union, Directive 2024/1799 established rules promoting repairs for product categories covered by specific repairability requirements; member states were to apply those rules from July 31, 2026. It is not an order to resurrect every appliance, and it is certainly not Brazilian law. But the debate reveals a curious reversal: for years, novelty was sold as synonymous with progress, while repair acquired the smell of defeat. As if replacing a part were a certificate of poverty and buying another machine a sacrament of modern life.",
+          "There is a serious objection, and it cannot be swept beneath the workshop rug: opening equipment can cause accidents, undermine safety and expose personal data. Repairability rules must account for that, along with inventory and development costs. Nor should consumers be forced to repair something they would rather replace. The freedom I defend includes buying something new. I simply cannot see why it should exclude the freedom to keep an older product running when a repair is technically feasible and safe.",
+          "Notice the inversion. Markets rightly celebrate consumer sovereignty: people's money decides whether a product deserves to survive. But that sovereignty becomes rather ornamental when the only practical choices are to pay for a whole new machine or stare at a dead one on the table. Not every breakdown needs to become an industrial conspiracy. It is enough to recognize that clear information about parts, manuals and repair conditions may matter just as much as the advertising that persuaded someone to buy.",
+          "Perhaps technology's finest image is not a product launch beneath spotlights, but two people bent over an open appliance, trying to bring it back to life. There is intelligence there, patience and respect for money somebody worked to earn. Dear reader, I do not want the state choosing my toaster's brand, or the factory choosing the day I must bury it. If the object can still be useful, at least let its owner try to save it. A society capable of engineering wonders yet unable to replace a screw might want to reread the manual."
+        ],
+        "photo_caption": "ARCHIVE PHOTO (November 28, 2015), Trier, Germany: participants repair an electrical appliance at Repair Café Trier. Not a recent event."
+      },
+      "es": {
+        "title": "COMPRÉ LA MÁQUINA. EL DESTORNILLADOR SIGUE SIENDO SUYO.",
+        "subtitle": "El derecho a reparar revela una contradicción: ser dueño de un aparato no siempre significa poder mantenerlo en funcionamiento.",
+        "eyebrow": "OPINIÓN",
+        "section": "Política y sociedad",
+        "paragraphs": [
+          "Un destornillador fue alguna vez un pequeño instrumento de independencia doméstica. Mi abuelo no necesitaba consultar los términos de uso de una tostadora para averiguar por qué había dejado de funcionar. Hoy, con ciertos aparatos, uno puede comprar la máquina, pagar una garantía ampliada y aun así encontrarse con piezas inexistentes, diseños difíciles de abrir o una reparación que cuesta casi lo mismo que un aparato nuevo. El destornillador sigue en el cajón. Lo que desapareció fue la puerta.",
+          "No afirmo que todos los fabricantes diseñen sus productos para que mueran antes de tiempo. Sería una acusación fácil y perezosa. Los componentes miniaturizados, las baterías peligrosas, la resistencia al agua y las exigencias reales de seguridad pueden complicar mucho una reparación. Pero hay una pregunta económica que sobrevive a todas esas explicaciones: si el objeto es mío, ¿por qué mantenerlo funcionando con mi propio dinero puede depender tanto de la buena voluntad de una empresa a la que ya pagué?",
+          "Brasil no parte de cero. El artículo 32 de su Código de Defensa del Consumidor exige que fabricantes e importadores ofrezcan repuestos mientras continúe la fabricación o importación del producto y, después, durante un período razonable conforme a la ley. No promete todas las piezas para siempre ni reparaciones gratuitas. Establece algo más modesto y bastante civilizado: vender un producto no pone fin automáticamente a la responsabilidad de hacer posible su mantenimiento. Sin embargo, un derecho escrito también merece examinarse sobre la mesa del taller.",
+          "En la Unión Europea, la Directiva 2024/1799 estableció normas para promover reparaciones en categorías sujetas a requisitos específicos de reparabilidad; los Estados miembros debían aplicarlas desde el 31 de julio de 2026. No es una orden para resucitar cualquier aparato, y tampoco es una ley brasileña. Pero el debate revela una inversión curiosa: durante años nos vendieron la novedad como sinónimo de progreso, mientras reparar fue adquiriendo aspecto de derrota. Como si cambiar una pieza fuera un certificado de pobreza y comprar otra máquina, un sacramento de la modernidad.",
+          "Hay una objeción seria que no cabe esconder bajo la alfombra del taller: abrir equipos puede causar accidentes, comprometer la seguridad y exponer datos personales. Las normas de reparabilidad deben tenerlo en cuenta, junto con los costes de inventario y desarrollo. Tampoco se debe obligar a reparar a quien prefiera sustituir. La libertad que defiendo incluye comprar algo nuevo. Simplemente no veo por qué tendría que excluir la libertad de conservar el antiguo cuando repararlo es técnicamente posible y seguro.",
+          "Observe la inversión. El mercado celebra, con razón, la soberanía del consumidor: su dinero decide si un producto merece seguir existiendo. Pero esa soberanía se vuelve bastante ornamental cuando las únicas opciones reales son pagar por una máquina entera o contemplar la vieja, muerta sobre la mesa. No hace falta convertir cada avería en una conspiración industrial. Basta reconocer que la información clara sobre repuestos, manuales y condiciones de reparación puede importar tanto como la publicidad que convenció a alguien de comprar.",
+          "Quizá la imagen más hermosa de la tecnología no sea un lanzamiento bajo los focos, sino dos personas inclinadas sobre un aparato abierto, intentando devolverle la vida. Hay inteligencia, paciencia y respeto por el dinero que alguien tuvo que trabajar para ganar. Querido lector, no quiero que el Estado elija la marca de mi tostadora ni que la fábrica decida cuándo debo enterrarla. Si el objeto todavía puede servir, permitan al dueño al menos intentar salvarlo. Una sociedad capaz de fabricar maravillas y que ha olvidado cómo cambiar un tornillo debería, como mínimo, volver a leer el manual."
+        ],
+        "photo_caption": "FOTO DE ARCHIVO (28/11/2015), Tréveris, Alemania: participantes reparan un aparato eléctrico en Repair Café Trier. No corresponde a un acontecimiento reciente."
+      }
+    },
     {
       "id": "a-republica-chegou-de-farda-e-esqueceu-de-convidar-o-povo-2026-11-15",
       "section": "Política e sociedade",
