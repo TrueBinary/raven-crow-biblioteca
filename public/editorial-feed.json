@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "dolar-fecha-577-bolsa-cai-pacote-fiscal-2026-11-16",
+      "date": "2026-11-16",
+      "category": "ECONOMIA",
+      "title": "DÓLAR FECHA A R$ 5,777 E IBOVESPA CAI 1,83% EM DIA DE PRESSÃO FISCAL",
+      "subtitle": "Moeda americana alcança maior fechamento desde abril de 2025; investidores reavaliam alcance do pacote fiscal e perspectivas para os juros.",
+      "facts": "O dólar à vista encerrou a segunda-feira, 16 de novembro de 2026, a R$ 5,7770, alta de 2,13%, segundo a Reuters. O Ibovespa caiu 1,83%, para 169.295 pontos, conforme o fechamento divulgado pela imprensa econômica. Foi o maior fechamento do dólar desde abril de 2025. A sessão ocorreu enquanto investidores avaliavam as medidas fiscais aprovadas em texto-base no Senado, com pontos ainda sujeitos a deliberação, além das perspectivas para a equipe econômica e os juros. A cotação de fechamento é diferente da máxima intradiária, que superou R$ 5,79.",
+      "analysis": "A comparação com o fechamento de sexta-feira, 13 de novembro, ajuda a dimensionar o movimento: a Agência Brasil havia registrado dólar a R$ 5,657 e Ibovespa a 172.457,77 pontos. Em apenas um pregão, o câmbio avançou cerca de 12 centavos e o índice perdeu mais de 3 mil pontos. Um dólar mais caro pode elevar custos de importações e insumos cotados na moeda americana, mas o repasse aos preços depende de contratos, estoques e concorrência. A queda da Bolsa não significa que todas as empresas perderam valor na mesma proporção. A reação ocorre em meio a dúvidas sobre o efeito das medidas fiscais propostas para 2027, estimado pelo governo entre R$ 50 bilhões e R$ 60 bilhões.",
+      "counterpoint": "A coincidência entre a turbulência do mercado e o debate fiscal não demonstra que uma única decisão política explique toda a variação: fatores internacionais e expectativas sobre juros também influenciam o câmbio. O impacto fiscal projetado é uma estimativa do governo, não uma economia já realizada. O resultado de um pregão não permite prever sozinho a trajetória do dólar, da inflação ou do Ibovespa.",
+      "sources": [
+        {
+          "name": "Reuters — dólar à vista fecha em alta, 16/11/2026",
+          "url": "https://economia.uol.com.br/noticias/reuters/2026/11/16/dolar-a-vista-fecha-em-alta-de-213-a-r57770-na-venda.amp.htm"
+        },
+        {
+          "name": "UOL Economia — fechamento de dólar e Ibovespa, 16/11/2026",
+          "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/11/16/dolar-sobe-a-r-577-maior-valor-desde-abril-de-2025-ibovespa-recua.ghtm"
+        },
+        {
+          "name": "Agência Brasil — fechamento de 13/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-fecha-estavel-r-565-mas-sobe-263-na-semana"
+        }
+      ],
+      "en": {
+        "category": "ECONOMY",
+        "title": "DOLLAR CLOSES AT R$5.777 AS BRAZIL'S IBOVESPA FALLS 1.83% AMID FISCAL CONCERNS",
+        "subtitle": "The US currency reaches its highest closing level since April 2025 as investors reassess Brazil's fiscal package and interest-rate outlook.",
+        "facts": "On Monday, November 16, 2026, the spot US dollar closed at R$5.7770, up 2.13%, according to Reuters. Brazil's Ibovespa stock index fell 1.83% to 169,295 points, according to market closing reports. It was the dollar's highest close since April 2025. Investors assessed fiscal measures whose main text had passed the Senate but still faced further votes, alongside uncertainty over the economic team and interest rates. The closing price differs from the intraday high, which exceeded R$5.79.",
+        "analysis": "The previous trading session offers perspective: on November 13, Agência Brasil reported a dollar close of R$5.657 and an Ibovespa level of 172,457.77. In one session, the dollar gained roughly 12 centavos and the index lost more than 3,000 points. A stronger dollar can raise the cost of imports and dollar-priced inputs, although any impact on consumer prices depends on contracts, inventories and competition. The index's decline does not mean every listed company fell equally. Investors remain uncertain whether the government's proposed fiscal measures, estimated to have an R$50 billion to R$60 billion effect in 2027, will be sufficient.",
+        "counterpoint": "The market sell-off and fiscal debate occurred together, but that does not establish a single cause: global conditions and interest-rate expectations also matter. The fiscal impact is a government projection, not savings already achieved. One trading session cannot establish the future path of the exchange rate, inflation or equities.",
+        "slug": "dollar-closes-at-r-5-777-as-brazil-s-ibovespa-falls-1-83-amid-fiscal-concerns-2026-11-16"
+      },
+      "es": {
+        "category": "ECONOMÍA",
+        "title": "EL DÓLAR CIERRA A R$ 5,777 Y EL IBOVESPA CAE UN 1,83% ANTE LAS DUDAS FISCALES",
+        "subtitle": "La moneda estadounidense alcanza su cierre más alto desde abril de 2025 mientras los inversores evalúan el paquete fiscal y las tasas de interés.",
+        "facts": "El lunes 16 de noviembre de 2026, el dólar al contado cerró a R$ 5,7770, con una subida del 2,13%, según Reuters. El índice bursátil brasileño Ibovespa cayó un 1,83%, hasta 169.295 puntos, de acuerdo con los informes del cierre. Fue el mayor cierre del dólar desde abril de 2025. Los inversores analizaron medidas fiscales cuyo texto principal fue aprobado por el Senado, aunque quedan votaciones pendientes, además de las perspectivas para el equipo económico y las tasas de interés. El precio de cierre no debe confundirse con el máximo intradiario, superior a R$ 5,79.",
+        "analysis": "La comparación con el viernes 13 de noviembre permite medir el cambio: Agência Brasil informó entonces un dólar de R$ 5,657 y un Ibovespa de 172.457,77 puntos. En una sola sesión, la moneda estadounidense ganó unos 12 centavos y el índice perdió más de 3.000 puntos. Un dólar más caro puede encarecer importaciones e insumos denominados en esa moneda, pero su traslado a los precios depende de contratos, inventarios y competencia. La caída del índice no significa que todas las empresas hayan perdido el mismo porcentaje. Persisten dudas sobre la eficacia del paquete fiscal que el Gobierno estima tendrá un impacto de entre R$ 50.000 millones y R$ 60.000 millones en 2027.",
+        "counterpoint": "La coincidencia entre las pérdidas bursátiles y el debate fiscal no demuestra una causa única: también influyen factores internacionales y expectativas de tasas. El impacto del paquete es una proyección gubernamental, no un ahorro ya materializado. Una sesión no basta para pronosticar la evolución del dólar, la inflación o la Bolsa.",
+        "slug": "el-dolar-cierra-a-r-5-777-y-el-ibovespa-cae-un-1-83-ante-las-dudas-fiscales-2026-11-16"
+      },
+      "firstSeen": "2026-11-16T20:01:33-03:00"
+    },
+    {
       "id": "eua-nove-parceiros-declaracao-cadeia-ia-2026-11-16",
       "date": "2026-11-16",
       "category": "TECNOLOGIA",
