@@ -1,6 +1,65 @@
 {
   "articles": [
     {
+      "id": "jordania-tres-condenados-morte-ataque-igreja-karak-2026-11-15",
+      "date": "2026-11-15",
+      "category": "MUNDO",
+      "title": "JORDÂNIA CONDENA TRÊS HOMENS À MORTE POR ATAQUE A FUNERAL EM IGREJA ORTODOXA",
+      "subtitle": "Sentença de 15 de novembro trata do atentado de 23 de outubro em Karak, que matou nove pessoas; decisão ainda passa por revisão judicial.",
+      "facts": "O Tribunal de Segurança do Estado da Jordânia condenou, em 15 de novembro de 2026, três homens à morte por enforcamento pelo ataque armado ocorrido em 23 de outubro durante um funeral na igreja greco-ortodoxa de São Jorge, no vilarejo de Hammoud, província de Karak, no sul do país. Nove pessoas morreram. A Reuters informa 34 feridos; outros relatos citam 25, divergência que não deve ser apagada. Segundo as autoridades jordanianas, os condenados — dois irmãos e um parente por casamento — foram capturados três dias depois do atentado. A corte os considerou culpados de crimes terroristas com resultado morte e infrações relacionadas a armas e promoção de ideologia terrorista. A sentença está sujeita a recurso e revisão automática pela Corte de Cassação.",
+      "analysis": "A decisão representa uma resposta judicial ao ataque contra fiéis durante uma cerimônia fúnebre, mas condenação e execução são etapas distintas: a pena não pode ser descrita como já cumprida. O atentado atingiu uma comunidade cristã minoritária em um país de maioria muçulmana e desencadeou medidas de segurança que ultrapassaram suas fronteiras. A Reuters relata que a Jordânia posteriormente realizou ataques aéreos no sul da Síria contra grupos que associou ao atentado; autoridades sírias apontaram mortes de civis, e os dois países concordaram em formar um comitê conjunto. O caso, portanto, envolve simultaneamente responsabilização penal, proteção de comunidades religiosas e questionamentos sobre a resposta militar.",
+      "counterpoint": "As fontes divergem sobre o número de feridos: a Reuters e a AP mencionam 34, enquanto a Al Jazeera registra 25. A condenação não encerra o processo de revisão judicial, e as acusações contra grupos atingidos na Síria não substituem uma apuração independente sobre a responsabilidade e as vítimas dos bombardeios.",
+      "sources": [
+        {
+          "name": "Reuters — decisão judicial e desdobramentos, 15/11/2026",
+          "url": "https://www.reuters.com/world/middle-east/jordan-sentences-three-men-death-over-deadly-church-attack-2026-11-15/"
+        },
+        {
+          "name": "Associated Press — Oriente Médio, 15/11/2026",
+          "url": "https://apnews.com/article/mideast-news-israel-gaza-iran-november-15-2026-3b4adde832dadd333451fd2f7a51908c"
+        },
+        {
+          "name": "Al Jazeera — sentença e ataque à igreja, 15/11/2026",
+          "url": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Al-Karak%2C_Jordan_02.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0",
+          "credit": "Aboud-g95 / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Al-Karak,_Jordan_02.jpg",
+          "caption": "FOTO DE ARQUIVO (14 de junho de 2024): vista da região de Al-Karak, na Jordânia. Aboud-g95/Wikimedia Commons, CC BY-SA 4.0. Não retrata a igreja atacada nem o julgamento de 15 de novembro de 2026."
+        }
+      ],
+      "en": {
+        "category": "WORLD",
+        "title": "JORDAN SENTENCES THREE MEN TO DEATH OVER ATTACK ON ORTHODOX CHURCH FUNERAL",
+        "subtitle": "The November 15 ruling concerns the October 23 attack in Karak that killed nine people; the sentence remains subject to judicial review.",
+        "facts": "On November 15, 2026, Jordan's State Security Court sentenced three men to death by hanging over the October 23 shooting at a funeral at St. George's Greek Orthodox Church in Hammoud village, Karak governorate. Nine people died. Reuters reports 34 injured, while other reports put the number at 25. Jordanian authorities said the suspects, two brothers and a relative by marriage, were arrested three days after the attack. The court convicted them of terrorism-related offenses resulting in deaths and weapons-related crimes. The ruling can be appealed and is automatically reviewed by the Court of Cassation.",
+        "analysis": "The judgment is a judicial response to violence against worshippers, but a death sentence is not an execution. The attack targeted a Christian minority community in Muslim-majority Jordan. Reuters also reports that Jordan later struck targets in southern Syria it linked to the attackers. Syrian authorities reported civilian deaths, prompting Jordan and Syria to agree on a joint committee. The case raises separate questions of criminal accountability, religious security and the consequences of cross-border military action.",
+        "counterpoint": "The reported number of wounded differs: Reuters and AP cite 34, while Al Jazeera cites 25. Judicial review is pending, and allegations against groups in Syria do not replace independent investigation of civilian casualties.",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (June 14, 2024): view of the Al-Karak area in Jordan. Aboud-g95/Wikimedia Commons, CC BY-SA 4.0. This does not depict the attacked church or the November 15, 2026 court ruling."
+        },
+        "slug": "jordan-sentences-three-men-to-death-over-attack-on-orthodox-church-funeral-2026-11-15"
+      },
+      "es": {
+        "category": "MUNDO",
+        "title": "JORDANIA CONDENA A MUERTE A TRES HOMBRES POR ATAQUE DURANTE UN FUNERAL EN UNA IGLESIA ORTODOXA",
+        "subtitle": "El fallo del 15 de noviembre corresponde al atentado del 23 de octubre en Karak, que dejó nueve muertos; la sentencia aún debe ser revisada.",
+        "facts": "El 15 de noviembre de 2026, el Tribunal de Seguridad del Estado de Jordania condenó a tres hombres a morir en la horca por el tiroteo del 23 de octubre durante un funeral en la iglesia greco-ortodoxa de San Jorge, en Hammoud, provincia de Karak. Murieron nueve personas. Reuters informa de 34 heridos, mientras otras fuentes mencionan 25. Según las autoridades, los acusados, dos hermanos y un familiar político, fueron detenidos tres días después. El tribunal los declaró culpables de delitos terroristas con resultado de muerte y de infracciones relacionadas con armas. La sentencia admite recurso y revisión automática ante el Tribunal de Casación.",
+        "analysis": "El fallo supone una respuesta judicial al ataque contra fieles, pero una condena a muerte no equivale a una ejecución. El atentado afectó a la minoría cristiana de Jordania. Reuters también informa que Jordania bombardeó posteriormente objetivos en el sur de Siria vinculados, según Amán, a los atacantes. Las autoridades sirias denunciaron víctimas civiles, y ambos países acordaron crear un comité conjunto. El caso plantea cuestiones distintas sobre justicia penal, seguridad religiosa y operaciones militares transfronterizas.",
+        "counterpoint": "Las cifras de heridos difieren: Reuters y AP señalan 34, mientras Al Jazeera indica 25. La revisión judicial sigue pendiente y las acusaciones sobre grupos en Siria no sustituyen una investigación independiente de las víctimas civiles.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (14 de junio de 2024): vista de la zona de Al-Karak, Jordania. Aboud-g95/Wikimedia Commons, CC BY-SA 4.0. No muestra la iglesia atacada ni la sentencia del 15 de noviembre de 2026."
+        },
+        "slug": "jordania-condena-a-muerte-a-tres-hombres-por-ataque-durante-un-funeral-en-una-2026-11-15"
+      }
+    },
+    {
       "id": "enem-2026-segundo-dia-abstencao-36-reaplicacao-2026-11-15",
       "date": "2026-11-15",
       "category": "EDUCAÇÃO",
