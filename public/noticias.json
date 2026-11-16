@@ -2,9 +2,49 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-16T13:18:00-03:00",
+  "updatedAt": "2026-11-16T14:04:40-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "uniao-europeia-sanciona-113-pessoas-empresas-bancos-russos-2026-11-16",
+      "date": "2026-11-16",
+      "category": "MUNDO",
+      "title": "UNIÃO EUROPEIA IMPÕE NOVAS SANÇÕES A 113 PESSOAS E EMPRESAS LIGADAS À RÚSSIA",
+      "subtitle": "Conselho da UE inclui quase 50 bancos e instituições financeiras e amplia restrições a petróleo, comércio eletrônico e frota clandestina.",
+      "facts": "O Conselho da União Europeia anunciou nesta segunda-feira, 16 de novembro de 2026, novas sanções contra 12 pessoas físicas e 101 entidades ligadas a setores que, segundo o bloco, financiam a guerra russa contra a Ucrânia. A lista inclui quase 50 bancos e instituições financeiras da Rússia, além de empresários e companhias de energia, operadores associados à chamada frota-sombra de petroleiros e pessoas ligadas às plataformas de comércio eletrônico Wildberries e Ozon. O comunicado oficial não informa que todos os 113 sancionados sejam bancos: esse é o total combinado de pessoas e entidades incluídas na decisão. A medida foi anunciada em Bruxelas e formalizada por atos publicados no Jornal Oficial da União Europeia.",
+      "analysis": "A sanção individual difere de um embargo comercial indiscriminado: as pessoas e empresas designadas ficam sujeitas ao congelamento de bens sob jurisdição europeia e à proibição de receber recursos econômicos de agentes da União Europeia; indivíduos listados também enfrentam restrições de viagem ao bloco. Ao incluir bancos, o Conselho tenta dificultar a circulação de receitas e pagamentos internacionais. A inclusão de compradores de petróleo e intermediários de diferentes países procura atingir a cadeia que permite exportações russas apesar de restrições anteriores. O impacto prático depende da exposição de cada sancionado ao sistema financeiro europeu e da aplicação das medidas. Para empresas que negociam com parceiros internacionais, a novidade exige verificar se contrapartes específicas estão na lista oficial, em vez de presumir que toda transação com a Rússia passou a ser proibida.",
+      "counterpoint": "O Conselho afirma que as medidas respondem a ataques russos contra infraestrutura civil ucraniana e buscam reduzir recursos disponíveis à guerra. A eficácia econômica imediata do novo conjunto não foi demonstrada no anúncio: congelamento de bens não significa apreensão automática de ativos fora da jurisdição europeia, nem prova interrupção de todas as operações dos sancionados. A Reuters relatou a inclusão da empresária Tatyana Kim, ligada à Wildberries, e registrou que a companhia afirmou não possuir ativos ou operações na UE e não esperar impacto operacional. Essa alegação é da empresa, não uma conclusão independente sobre a eficácia das sanções.",
+      "sources": [
+        {
+          "name": "Conselho da União Europeia — comunicado oficial de 16/11/2026",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/ukraine-eu-lists-113-individuals-and-entities-to-further-restrict-russia-s-ability-to-finance-its-war-of-aggression/pdf/"
+        },
+        {
+          "name": "Reuters — sanções e inclusão de Tatyana Kim, 16/11/2026",
+          "url": "https://www.reuters.com/world/eu-adds-russian-online-retailer-wildberries-ceo-russia-sanctions-list-2026-11-16/"
+        },
+        {
+          "name": "Reuters — expansão da lista de sanções, 16/11/2026",
+          "url": "https://www.reuters.com/business/finance/eu-expands-russia-sanctions-list-by-145-names-entities-2026-11-16/"
+        }
+      ],
+      "en": {
+        "category": "WORLD",
+        "title": "EU SANCTIONS 113 PEOPLE AND ENTITIES LINKED TO RUSSIA, INCLUDING FINANCIAL INSTITUTIONS",
+        "subtitle": "The EU Council targets nearly 50 Russian banks and financial institutions alongside oil, e-commerce and shadow-fleet networks.",
+        "facts": "On Monday, November 16, 2026, the Council of the European Union announced sanctions against 12 individuals and 101 entities connected to sectors it says help finance Russia's war against Ukraine. The new designations include nearly 50 Russian banks and financial institutions, as well as energy businesses, shadow-fleet-linked operators and people connected with the Wildberries and Ozon online retail businesses. The figure of 113 refers to all individuals and entities newly listed, not to the number of banks. The measures were announced in Brussels and enacted through legal instruments published in the Official Journal of the European Union.",
+        "analysis": "Individual designations are not a blanket trade embargo. Listed parties face asset freezes within EU jurisdiction and restrictions on receiving funds or economic resources from EU persons; listed individuals also face EU travel bans. Targeting banks seeks to disrupt financial channels, while targeting oil buyers and shipping intermediaries addresses networks that may help Russian exports continue despite earlier restrictions. The real-world impact depends on each party's exposure to the European financial system and enforcement. Businesses should check the actual sanctions list before assuming that every Russia-related transaction is forbidden.",
+        "counterpoint": "The Council says the measures respond to Russian attacks on Ukrainian civilian infrastructure and seek to reduce war funding. The immediate economic impact has not been established by the announcement. An EU asset freeze does not automatically seize property outside EU jurisdiction or halt all activity by those listed. Reuters reported that Wildberries said it had no EU assets or operations and expected no operational impact; this is the company's claim, not independent evidence that the measures will be ineffective."
+      },
+      "es": {
+        "category": "MUNDO",
+        "title": "LA UE SANCIONA A 113 PERSONAS Y ENTIDADES VINCULADAS A RUSIA, INCLUIDAS INSTITUCIONES FINANCIERAS",
+        "subtitle": "El Consejo de la UE apunta a casi 50 bancos e instituciones financieras rusas, además de redes petroleras, de comercio electrónico y de la flota en la sombra.",
+        "facts": "El lunes 16 de noviembre de 2026, el Consejo de la Unión Europea anunció sanciones contra 12 personas y 101 entidades vinculadas a sectores que, según el bloque, contribuyen a financiar la guerra rusa contra Ucrania. Las nuevas designaciones incluyen casi 50 bancos e instituciones financieras rusas, empresas energéticas, operadores relacionados con la flota en la sombra y personas vinculadas a las plataformas de comercio electrónico Wildberries y Ozon. La cifra de 113 corresponde al conjunto de personas y entidades incorporadas, no al número de bancos. Las medidas se anunciaron en Bruselas y se formalizaron mediante actos publicados en el Diario Oficial de la Unión Europea.",
+        "analysis": "Las designaciones individuales no equivalen a un embargo comercial general. Los sancionados afrontan la congelación de activos bajo jurisdicción europea y restricciones para recibir fondos o recursos económicos de personas de la UE; las personas físicas también quedan sujetas a prohibiciones de viaje. Las sanciones a bancos buscan dificultar los canales financieros, mientras que las dirigidas a compradores de petróleo e intermediarios marítimos buscan afectar las redes que permiten continuar las exportaciones rusas. Su efecto dependerá de la exposición de cada sancionado al sistema financiero europeo y del cumplimiento de las medidas. Las empresas deben consultar la lista oficial antes de asumir que toda operación relacionada con Rusia está prohibida.",
+        "counterpoint": "El Consejo sostiene que las medidas responden a los ataques rusos contra infraestructuras civiles ucranianas y pretenden reducir la financiación de la guerra. El anuncio no demuestra todavía su impacto económico inmediato. Congelar activos en la UE no supone confiscar automáticamente bienes fuera de su jurisdicción ni detener todas las operaciones de los sancionados. Reuters informó de que Wildberries afirmó no tener activos ni operaciones en la UE y no prever efectos operativos; se trata de una declaración de la empresa, no de una comprobación independiente."
+      }
+    },
     {
       "id": "eua-exigem-licenca-chips-ia-avancados-brasil-2026-11-16",
       "date": "2026-11-16",
