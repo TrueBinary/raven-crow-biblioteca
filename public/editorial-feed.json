@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "cooabriel-audiencia-trabalho-escravo-cafe-2026-11-16",
+      "date": "2026-11-16",
+      "category": "JUSTIÇA",
+      "title": "FORNECEDORA DE CAFÉ DA NESTLÉ ENFRENTA AUDIÊNCIA SOBRE SUSPEITAS DE TRABALHO ESCRAVO",
+      "subtitle": "Cooabriel é alvo de ação do MPT no Espírito Santo; liminar exige prevenção na cadeia de fornecimento, mas acusações ainda estão sob análise judicial.",
+      "facts": "A Cooperativa Agrária dos Cafeicultores de São Gabriel (Cooabriel), sediada em São Gabriel da Palha, no Espírito Santo, tinha marcada para segunda-feira, 16 de novembro de 2026, a primeira audiência em processo trabalhista sobre suspeitas de condições análogas à escravidão em propriedades de cooperados, segundo reportagem da Reuters publicada nesta data. O Ministério Público do Trabalho (MPT) ajuizou a ação civil pública em outubro. Em 28 de outubro, a 13ª Vara do Trabalho de Vitória concedeu liminar parcial para exigir medidas que impeçam a entrada de café produzido sob tais condições na cadeia de fornecimento. A ação menciona dez produtores investigados ou denunciados em 2025 e 2026. A realização e o resultado da audiência não estavam confirmados nas fontes consultadas; o agendamento não equivale a sentença de culpa.",
+      "analysis": "A discussão vai além de uma propriedade rural: o processo questiona a responsabilidade da cooperativa em identificar riscos trabalhistas entre seus cooperados. Consultar cadastros oficiais de empregadores autuados é uma ferramenta, mas o MPT considera insuficiente depender apenas dessa triagem, defendendo inspeções efetivas das condições de trabalho. O caso importa para compradores industriais porque o café pode passar por várias etapas antes de chegar à marca de varejo. A liminar, ainda sujeita a contestação e revisão, cria obrigações preventivas sem estabelecer que toda a produção da cooperativa tenha origem irregular. A Cooabriel atua no café canephora, especialmente conilon; não se deve confundir esse produto com todo o café arábica brasileiro.",
+      "counterpoint": "As alegações são objeto de processo, não condenação definitiva da cooperativa ou da Nestlé. Em manifestação anterior registrada pela Repórter Brasil, a Cooabriel afirmou consultar a lista oficial de empregadores e realizar ações de orientação e acompanhamento em parte de sua cadeia. À Reuters, a Nestlé declarou que os produtores mencionados não integram sua cadeia de fornecimento e disse que acompanhará o caso e trabalhará com a cooperativa para reforçar controles. O pedido do MPT de R$ 10 milhões por danos morais coletivos não representa indenização já concedida. A questão ainda pendente é se os mecanismos de prevenção e verificação da cooperativa atendem às obrigações legais.",
+      "sources": [
+        {
+          "name": "Reuters — audiência da Cooabriel, 16/11/2026",
+          "url": "https://www.reuters.com/business/retail-consumer/nestle-brazil-coffee-supplier-faces-hearing-over-labor-abuse-claims-2026-11-16/"
+        },
+        {
+          "name": "Repórter Brasil — liminar e posições das empresas, 04/11/2026",
+          "url": "https://reporterbrasil.org.br/2026/11/justica-fornecedora-nestle-3coracoes-escravidao-cafe/"
+        },
+        {
+          "name": "Século Diário — decisão da Justiça do Trabalho, 03/11/2026",
+          "url": "https://www.seculodiario.com.br/justiaa/liminar-obriga-cooabriel-a-adotar-medidas-contra-trabalho-escravo/"
+        }
+      ],
+      "en": {
+        "category": "JUSTICE",
+        "title": "NESTLÉ COFFEE SUPPLIER FACES HEARING OVER ALLEGED SLAVERY-LIKE WORK CONDITIONS",
+        "subtitle": "Brazil's Cooabriel cooperative faces a labor prosecution in Espírito Santo; a preliminary order demands safeguards in its supply chain.",
+        "facts": "The Cooabriel coffee cooperative, based in São Gabriel da Palha in Brazil's Espírito Santo state, was scheduled to attend its first labor-court hearing on Monday, November 16, 2026, according to Reuters. The case concerns allegations of slavery-like working conditions at farms operated by some members. Brazil's Labor Prosecutor's Office (MPT) filed a civil action in October. On October 28, the 13th Labor Court of Vitória partially granted an injunction requiring measures to prevent coffee produced under such conditions from entering the supply chain. The case cites ten growers investigated or reported in 2025 and 2026. The sources reviewed do not confirm the hearing's outcome; scheduling a hearing does not establish guilt.",
+        "analysis": "The dispute concerns not only individual farms but how a cooperative checks labor practices across its membership. Prosecutors argue that consulting official blacklists alone is insufficient and that on-site inspections are needed. For industrial buyers, the issue is traceability across several stages of coffee supply. The preliminary order is subject to challenge and does not mean all the cooperative's output was produced unlawfully. Cooabriel specializes in canephora coffee, notably conilon, which should not be confused with Brazil's entire arabica sector.",
+        "counterpoint": "The allegations have not resulted in a final judgment against Cooabriel or Nestlé. Cooabriel previously described blacklist checks, training and some on-site monitoring, according to Repórter Brasil. Nestlé told Reuters that the growers cited were not in its supply chain and said it would monitor developments and work with the cooperative on safeguards. The prosecutors' request for R$10 million in collective damages is not an award. Whether the cooperative's prevention and verification systems satisfy its legal duties remains disputed.",
+        "slug": "nestle-coffee-supplier-faces-hearing-over-alleged-slavery-like-work-conditions-2026-11-16"
+      },
+      "es": {
+        "category": "JUSTICIA",
+        "title": "PROVEEDOR DE CAFÉ DE NESTLÉ AFRONTA AUDIENCIA POR PRESUNTAS CONDICIONES DE TRABAJO ESCLAVO",
+        "subtitle": "La cooperativa Cooabriel afronta una demanda laboral en Espírito Santo; una medida cautelar exige controles en la cadena de suministro.",
+        "facts": "La cooperativa cafetera Cooabriel, con sede en São Gabriel da Palha, estado brasileño de Espírito Santo, tenía prevista su primera audiencia judicial el lunes 16 de noviembre de 2026, según Reuters. El proceso investiga denuncias de condiciones laborales análogas a la esclavitud en fincas de algunos asociados. El Ministerio Público del Trabajo (MPT) presentó una demanda civil en octubre. El 28 de octubre, el 13.º Juzgado del Trabajo de Vitória concedió parcialmente una medida cautelar para impedir que café producido en esas condiciones ingrese en la cadena de suministro. El expediente menciona a diez productores denunciados o investigados en 2025 y 2026. Las fuentes consultadas no confirman el resultado de la audiencia; su convocatoria no supone una declaración de culpabilidad.",
+        "analysis": "El litigio plantea hasta dónde llega la obligación de una cooperativa de comprobar las condiciones laborales de sus asociados. Para la fiscalía, consultar listas oficiales de empleadores sancionados no basta: hacen falta verificaciones sobre el terreno. La trazabilidad importa a los compradores industriales porque el café atraviesa varias etapas antes de llegar al consumidor. La medida cautelar puede ser impugnada y no implica que toda la producción de Cooabriel sea irregular. La cooperativa trabaja con café canephora, especialmente conilón, distinto del conjunto de la producción brasileña de arábica.",
+        "counterpoint": "Las denuncias siguen bajo examen judicial y no constituyen una condena firme contra Cooabriel ni Nestlé. Según Repórter Brasil, la cooperativa había mencionado consultas a registros oficiales, capacitación y visitas a parte de sus proveedores. Nestlé declaró a Reuters que los productores señalados no forman parte de su cadena y prometió seguir el caso y reforzar los controles. La solicitud fiscal de R$ 10 millones por daños colectivos no es una indemnización ya otorgada. Sigue en disputa si los mecanismos preventivos cumplen las obligaciones legales.",
+        "slug": "proveedor-de-cafe-de-nestle-afronta-audiencia-por-presuntas-condiciones-de-2026-11-16"
+      },
+      "firstSeen": "2026-11-16T15:02:21-03:00"
+    },
+    {
       "id": "uniao-europeia-sanciona-113-pessoas-empresas-bancos-russos-2026-11-16",
       "date": "2026-11-16",
       "category": "MUNDO",
