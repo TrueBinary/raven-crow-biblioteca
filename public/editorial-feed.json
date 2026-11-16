@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "id": "ibc-br-economia-recua-09-terceiro-trimestre-2026-11-16",
+      "date": "2026-11-16",
+      "category": "ECONOMIA",
+      "title": "PRÉVIA DA ECONOMIA BRASILEIRA RECUA 0,9% NO TERCEIRO TRIMESTRE, APONTA BANCO CENTRAL",
+      "subtitle": "IBC-Br caiu 0,2% em setembro; agropecuária, indústria e serviços tiveram resultado negativo no trimestre, mas o indicador não equivale ao PIB oficial.",
+      "facts": "O Banco Central divulgou nesta segunda-feira, 16 de novembro de 2026, que seu Índice de Atividade Econômica (IBC-Br) caiu 0,9% no terceiro trimestre de 2026 em relação ao segundo, com ajuste sazonal. Na mesma base trimestral, a agropecuária recuou 2,0%, a indústria 1,1% e os serviços 0,5%. Em setembro, o indicador geral caiu 0,2% frente a agosto; a agropecuária avançou 1,2%, enquanto a indústria caiu 0,4% e os serviços 0,1%. Comparado ao terceiro trimestre de 2025, o IBC-Br subiu 0,7%, sem ajuste sazonal, e acumulou alta de 1,4% em 12 meses. A divulgação reúne informações setoriais e tributárias e não representa o resultado oficial do Produto Interno Bruto (PIB), que cabe ao Instituto Brasileiro de Geografia e Estatística (IBGE).",
+      "analysis": "A diferença entre as comparações impede uma leitura apressada de recessão: o recuo de 0,9% mede a variação entre dois trimestres consecutivos, enquanto a alta de 0,7% compara o trimestre com o mesmo período do ano anterior. Todos os três setores recuaram na comparação trimestral, sinalizando desaceleração disseminada, mas o índice não permite afirmar, por si só, que o PIB oficial encolheu na mesma proporção. O IBC-Br serve de termômetro mais frequente para acompanhar a atividade e pode influenciar as avaliações sobre juros, hoje com a Selic em 13,75% ao ano. O contraste com o segundo trimestre, quando o PIB oficial cresceu 0,5%, mostra por que a divulgação do IBGE é importante para confirmar a trajetória. Para famílias e empresas, o dado ajuda a explicar o debate sobre crescimento, crédito e juros, mas não demonstra isoladamente uma mudança imediata no emprego ou na renda.",
+      "counterpoint": "A queda trimestral do IBC-Br não deve ser confundida com uma recessão oficialmente constatada nem com uma previsão definitiva do PIB. A série é sujeita a revisões e usa metodologia diferente da contabilidade nacional do IBGE. A pesquisa Reuters apontava queda de 0,29% em setembro, mais intensa do que o recuo de 0,2% divulgado na apresentação arredondada. Algumas reportagens apresentam percentuais com duas casas decimais (cerca de -0,25% no mês e -0,86% no trimestre), sem alterar o sentido dos números arredondados divulgados pela Agência Brasil. O resultado oficial do PIB do terceiro trimestre ainda não havia sido divulgado nesta data.",
+      "sources": [
+        {
+          "name": "Agência Brasil — atividade econômica tem queda de 0,9% no terceiro trimestre, 16/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/atividade-economica-tem-queda-de-09-no-terceiro-trimestre"
+        },
+        {
+          "name": "Reuters — IBC-Br aponta contração no terceiro trimestre, 16/11/2026",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/16/indice-de-atividade-economica-do-bc-aponta-contracao-de-09-no-3-tri.amp.htm"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://live.staticflickr.com/8665/16011635094_c1fb871c24_o.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/",
+          "credit": "Jonas Pereira / Agência Senado",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio_sede_do_Banco_Central_do_Brasil_(16011635094).jpg",
+          "caption": "FOTO DE ARQUIVO (23/02/2015): sede do Banco Central do Brasil, em Brasília, fotografada por Jonas Pereira/Agência Senado (CC BY 2.0). Não retrata a divulgação do IBC-Br de 16/11/2026."
+        }
+      ],
+      "en": {
+        "category": "ECONOMY",
+        "title": "BRAZIL'S ECONOMIC ACTIVITY GAUGE FALLS 0.9% IN THIRD QUARTER, CENTRAL BANK SAYS",
+        "subtitle": "The IBC-Br declined 0.2% in September; agriculture, industry and services all contracted over the quarter, but the index is not official GDP.",
+        "facts": "On Monday, November 16, 2026, Brazil's Central Bank reported that its Economic Activity Index (IBC-Br) fell 0.9% in the third quarter of 2026 compared with the previous quarter, on a seasonally adjusted basis. Agriculture declined 2.0%, industry 1.1% and services 0.5% over the quarter. In September, the overall index fell 0.2% from August: agriculture rose 1.2%, while industry dropped 0.4% and services 0.1%. Compared with the third quarter of 2025, the index rose 0.7% without seasonal adjustment, and was up 1.4% over 12 months. The IBC-Br incorporates sectoral and tax data, but is not the official gross domestic product (GDP) figure, which is calculated by Brazil's statistics agency IBGE.",
+        "analysis": "The comparison periods matter. The 0.9% decline measures change between consecutive quarters, while the 0.7% increase compares the quarter with the same period a year earlier. All three sectors contracted quarter-on-quarter, pointing to a broad slowdown, but that does not establish that official GDP fell by the same amount. The more frequent IBC-Br release informs debate about growth and monetary policy; the Selic benchmark rate stands at 13.75% a year. Official GDP grew 0.5% in the second quarter, making the next IBGE release important for confirming the economy's direction. For households and companies, the report informs the discussion of credit and interest rates, but does not on its own prove an immediate change in jobs or income.",
+        "counterpoint": "A quarterly IBC-Br decline is not, by itself, an official recession finding or a definitive GDP forecast. The series can be revised and differs methodologically from IBGE's national accounts. A Reuters survey had forecast a 0.29% September decline, steeper than the rounded 0.2% result. Some reports provide more precise figures of about -0.25% for the month and -0.86% for the quarter; these are consistent with the rounded numbers used here. Official third-quarter GDP had not yet been released as of November 16, 2026.",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (February 23, 2015): headquarters of Brazil's Central Bank in Brasília, photographed by Jonas Pereira/Agência Senado (CC BY 2.0). This does not depict the November 16, 2026 IBC-Br release."
+        },
+        "slug": "brazil-s-economic-activity-gauge-falls-0-9-in-third-quarter-central-bank-says-2026-11-16"
+      },
+      "es": {
+        "category": "ECONOMÍA",
+        "title": "INDICADOR DE ACTIVIDAD DE BRASIL CAE UN 0,9% EN EL TERCER TRIMESTRE, SEGÚN EL BANCO CENTRAL",
+        "subtitle": "El IBC-Br bajó un 0,2% en septiembre; agropecuaria, industria y servicios retrocedieron en el trimestre, aunque el índice no equivale al PIB oficial.",
+        "facts": "El lunes 16 de noviembre de 2026, el Banco Central de Brasil informó que su Índice de Actividad Económica (IBC-Br) cayó un 0,9% en el tercer trimestre de 2026 respecto del trimestre anterior, con ajuste estacional. La actividad agropecuaria bajó un 2,0%, la industria un 1,1% y los servicios un 0,5% en el trimestre. En septiembre, el índice general cayó un 0,2% frente a agosto: la agropecuaria creció un 1,2%, mientras que la industria retrocedió un 0,4% y los servicios un 0,1%. Frente al tercer trimestre de 2025, el indicador aumentó un 0,7% sin ajuste estacional y acumuló un avance del 1,4% en 12 meses. El IBC-Br combina datos sectoriales y tributarios, pero no es el producto interno bruto (PIB) oficial, calculado por el Instituto Brasileño de Geografía y Estadística (IBGE).",
+        "analysis": "Los períodos de comparación son decisivos. La caída del 0,9% mide el cambio entre trimestres consecutivos, mientras que el alza del 0,7% compara el trimestre con el mismo período del año anterior. Los tres sectores se contrajeron respecto del trimestre previo, señal de una desaceleración extendida, pero esto no demuestra que el PIB oficial haya caído en igual proporción. El IBC-Br, publicado con mayor frecuencia, ayuda a evaluar el crecimiento y la política monetaria; la tasa Selic se sitúa en el 13,75% anual. El PIB oficial creció un 0,5% en el segundo trimestre, por lo que el próximo dato del IBGE será clave para confirmar la trayectoria. Para familias y empresas, el índice aporta contexto al debate sobre crédito y tasas, pero no prueba por sí solo un cambio inmediato en el empleo o los ingresos.",
+        "counterpoint": "La caída trimestral del IBC-Br no constituye por sí sola una declaración oficial de recesión ni una previsión definitiva del PIB. La serie está sujeta a revisiones y utiliza una metodología diferente de las cuentas nacionales del IBGE. Una encuesta de Reuters esperaba una caída del 0,29% en septiembre, mayor que el resultado redondeado del 0,2%. Algunas publicaciones presentan cifras más precisas, cercanas al -0,25% mensual y -0,86% trimestral, compatibles con los valores redondeados. El PIB oficial del tercer trimestre aún no se había divulgado al 16 de noviembre de 2026.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (23 de febrero de 2015): sede del Banco Central de Brasil en Brasilia, fotografiada por Jonas Pereira/Agência Senado (CC BY 2.0). No muestra la publicación del IBC-Br del 16 de noviembre de 2026."
+        },
+        "slug": "indicador-de-actividad-de-brasil-cae-un-0-9-en-el-tercer-trimestre-segun-el-2026-11-16"
+      },
+      "firstSeen": "2026-11-16T17:18:00-03:00"
+    },
+    {
       "id": "tre-ce-maioria-ciro-gomes-condenacao-2026-11-16",
       "date": "2026-11-16",
       "category": "JUSTIÇA",
