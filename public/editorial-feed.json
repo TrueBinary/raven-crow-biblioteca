@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "asean-cupula-decide-manter-restricoes-mianmar-2026-11-15",
+      "date": "2026-11-15",
+      "category": "MUNDO",
+      "title": "CÚPULA DA ASEAN MANTÉM VETO POLÍTICO A MIANMAR E ABRE CAMINHO CONDICIONAL PARA RETORNO",
+      "subtitle": "Decisão adotada em Manila mantém representação apenas técnica e exige progresso sustentado no plano de paz.",
+      "facts": "Em 15 de novembro de 2026, os líderes da Associação de Nações do Sudeste Asiático (ASEAN) decidiram em Manila manter a exclusão de representantes políticos de Mianmar das cúpulas e reuniões de chanceleres. O país segue representado apenas por delegados não políticos até haver avanço significativo no Consenso de Cinco Pontos, adotado após o golpe militar de 2021. O comunicado condena ataques a civis e infraestrutura civil e pede redução da violência. Não houve anúncio de cessar-fogo nem data para readmissão.",
+      "analysis": "Diferentemente das declarações preparatórias de 14 de novembro, a novidade é uma decisão formal adotada pela cúpula. A ASEAN preservou a pressão diplomática, mas passou a admitir explicitamente a restauração gradual da representação plena caso ocorram avanços sustentados e concretos. O plano prevê cessação da violência, diálogo, mediação e ajuda humanitária. O bloco tenta conciliar a demanda por maior diálogo de alguns integrantes com o risco de normalizar a liderança militar sem melhorias no terreno. A redução documentada de ataques e a entrada de ajuda serão testes mais relevantes do que visitas diplomáticas.",
+      "counterpoint": "O documento reconhece progresso insuficiente na implementação do plano, embora registre avanço limitado da assistência humanitária. Contatos bilaterais não significam readmissão automática nem comprovam pacificação. A decisão não fixa calendário para o retorno.",
+      "sources": [
+        {
+          "name": "ASEAN — decisão oficial, 15/11/2026",
+          "url": "https://asean.org/asean-leaders-review-and-decision-on-the-implementation-of-the-five-point-consensus-4/"
+        },
+        {
+          "name": "Reuters, 15/11/2026",
+          "url": "https://www.reuters.com/world/asia-pacific/asean-continue-constructive-principled-engagement-with-myanmar-blocs-chair-2026-11-15/"
+        },
+        {
+          "name": "Associated Press, 15/11/2026",
+          "url": "https://apnews.com/article/660b4a8df06082f79b673912b2f3e655"
+        }
+      ],
+      "en": {
+        "title": "ASEAN SUMMIT KEEPS MYANMAR'S POLITICAL BAN, OPENS CONDITIONAL PATH TO RETURN",
+        "subtitle": "Leaders in Manila maintain non-political representation and demand sustained progress on their peace plan.",
+        "facts": "On November 15, 2026, leaders of the Association of Southeast Asian Nations (ASEAN) formally decided in Manila to continue excluding Myanmar's political representatives from summits and foreign ministers' meetings. Only non-political delegates may attend until meaningful progress is made on the Five-Point Consensus, adopted after the 2021 military coup. The decision condemns attacks on civilians and civilian infrastructure and urges de-escalation. No ceasefire or readmission date was announced.",
+        "analysis": "Unlike the preparatory statements issued on November 14, this is a formal summit decision. ASEAN retained diplomatic pressure while explicitly allowing for a gradual restoration of full representation if progress is sustained and concrete. Its peace plan calls for an end to violence, dialogue, mediation and humanitarian aid. The bloc is balancing calls for engagement with the danger of normalizing military-backed leadership without improvements on the ground. Documented reductions in attacks and better aid access will be more meaningful tests than diplomatic visits.",
+        "counterpoint": "The leaders acknowledged insufficient implementation of the plan, despite limited progress on humanitarian assistance. Bilateral engagement does not mean automatic readmission or prove that peace has returned. No timetable was set.",
+        "category": "WORLD",
+        "slug": "asean-summit-keeps-myanmar-s-political-ban-opens-conditional-path-to-return-2026-11-15"
+      },
+      "es": {
+        "title": "CUMBRE DE ASEAN MANTIENE EL VETO POLÍTICO A MYANMAR Y ABRE UNA VÍA CONDICIONAL DE RETORNO",
+        "subtitle": "Los líderes reunidos en Manila mantienen la representación no política y exigen avances sostenidos en el plan de paz.",
+        "facts": "El 15 de noviembre de 2026, los líderes de la Asociación de Naciones del Sudeste Asiático (ASEAN) decidieron formalmente en Manila mantener excluidos a los representantes políticos de Myanmar de las cumbres y reuniones de cancilleres. Solo podrán asistir delegados no políticos hasta que haya avances significativos en el Consenso de Cinco Puntos, adoptado tras el golpe militar de 2021. La decisión condena los ataques contra civiles e infraestructura civil y exige reducir la violencia. No se anunció un alto el fuego ni una fecha de readmisión.",
+        "analysis": "A diferencia de las declaraciones preparatorias del 14 de noviembre, esta es una decisión formal de la cumbre. ASEAN mantiene la presión diplomática, pero admite explícitamente la restauración gradual de la representación plena si hay avances sostenidos y concretos. El plan exige poner fin a la violencia, diálogo, mediación y ayuda humanitaria. El bloque intenta equilibrar las propuestas de mayor acercamiento con el riesgo de normalizar al liderazgo respaldado por los militares sin mejoras reales. La reducción comprobable de ataques y el acceso humanitario serán pruebas más importantes que las visitas diplomáticas.",
+        "counterpoint": "Los líderes reconocieron una aplicación insuficiente del plan, aunque hubo avances humanitarios limitados. Los contactos bilaterales no implican readmisión automática ni demuestran que haya llegado la paz. No se fijó un calendario.",
+        "category": "MUNDO",
+        "slug": "cumbre-de-asean-mantiene-el-veto-politico-a-myanmar-y-abre-una-via-condicional-2026-11-15"
+      },
+      "firstSeen": "2026-11-15T22:03:11-03:00"
+    },
+    {
       "id": "estonia-fechara-fronteiras-russia-apos-suspeita-sabotagem-2026-11-15",
       "date": "2026-11-15",
       "title": "ESTÔNIA ANUNCIA FECHAMENTO DE PASSAGENS COM A RÚSSIA APÓS SUSPEITA DE SABOTAGEM",
