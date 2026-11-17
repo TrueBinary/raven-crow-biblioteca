@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "brasil-goleia-singapura-vinicius-hat-trick-2026-11-17",
+      "date": "2026-11-17",
+      "category": "ESPORTE",
+      "title": "VINÍCIUS JÚNIOR MARCA TRÊS E BRASIL GOLEIA SINGAPURA POR 7 A 0 NO ÚLTIMO JOGO DE 2026",
+      "subtitle": "Atacante faz seu primeiro hat-trick pela Seleção; resultado encerra o ano após derrota para o Japão.",
+      "facts": "A Seleção Brasileira venceu Singapura por 7 a 0 nesta terça-feira, 17 de novembro de 2026, no Estádio Nacional, em Kallang, Singapura. Vinícius Júnior marcou aos 9, 15 e 20 minutos do primeiro tempo, seu primeiro hat-trick (três gols na mesma partida) pela equipe principal. Endrick ampliou antes do intervalo. Estêvão e Rayan marcaram na segunda etapa. O sétimo gol foi creditado a Allan pela Confederação Brasileira de Futebol (CBF), enquanto relatos da Reuters e de outros veículos o classificam como gol contra de Raoul Suhaimi. Carlo Ancelotti assistiu ao jogo das arquibancadas após expulsão na derrota anterior por 3 a 2 para o Japão. A partida encerrou o calendário da Seleção em 2026.",
+      "analysis": "O amistoso oferece uma medida concreta da participação ofensiva de Vinícius, mas não prova, por si só, uma mudança definitiva no desempenho coletivo. Segundo a CBF, a Seleção chegou a 54 gols em 22 partidas sob Carlo Ancelotti, com 13 marcados por Vinícius — aproximadamente 24% do total. Antes de trabalhar novamente com Ancelotti na Seleção, o atacante tinha seis gols em 39 partidas; sob o treinador, a entidade registra 13 em 20. O próximo compromisso está previsto para a janela internacional de março de 2027. A goleada permite encerrar o ano com um resultado expressivo, embora a avaliação da equipe exija confrontos contra adversários de nível mais elevado.",
+      "counterpoint": "Há divergência de atribuição do sétimo gol: a CBF registra Allan, enquanto a Reuters aponta gol contra de Raoul Suhaimi; a súmula definitiva deve orientar eventual correção. A diferença técnica entre Brasil e Singapura limita conclusões sobre a capacidade da Seleção diante de seleções mais fortes. O resultado não apaga a derrota para o Japão três dias antes.",
+      "sources": [
+        {
+          "name": "CBF — Brasil goleia Singapura (17/11/2026)",
+          "url": "https://www.cbf.com.br/selecao-brasileira/noticias/noticias/selecao-masculina/brasil-goleia-singapura-com-show-de-vinicius-junior"
+        },
+        {
+          "name": "CBF — 50º gol da era Ancelotti (17/11/2026)",
+          "url": "https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/a/vini-jr-anota-o-50-gol-da-era-ancelotti-na-selecao"
+        },
+        {
+          "name": "Reuters — 17/11/2026",
+          "url": "https://www.reuters.com/sports/soccer/vinicius-nets-first-half-hat-trick-brazil-crush-singapore-7-0-2026-11-17/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Vinicius_Junior_Brazil_V_Morocco_13_June_2026-94_%28cropped%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0",
+          "credit": "Bryan Berlin / WikiPortraits",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Vinicius_Junior_Brazil_V_Morocco_13_June_2026-94_(cropped).jpg",
+          "caption": "FOTO DE ARQUIVO (13/06/2026, East Rutherford, Estados Unidos): Vinícius Júnior durante Brasil x Marrocos na Copa do Mundo. Bryan Berlin / WikiPortraits, CC BY-SA 4.0. Não retrata o amistoso contra Singapura."
+        }
+      ],
+      "en": {
+        "title": "VINICIUS JUNIOR SCORES HAT-TRICK AS BRAZIL BEATS SINGAPORE 7-0 IN FINAL MATCH OF 2026",
+        "subtitle": "Forward nets his first Brazil hat-trick after the defeat to Japan.",
+        "facts": "Brazil beat Singapore 7-0 at the National Stadium in Kallang, Singapore, on November 17, 2026. Vinicius Junior scored in the ninth, 15th and 20th minutes, his first hat-trick for the senior national team. Endrick added a fourth before half-time, with Estevao and Rayan scoring after the break. The Brazilian Football Confederation (CBF) credits the seventh goal to Allan, while Reuters describes it as an own goal by Raoul Suhaimi. Carlo Ancelotti watched from the stands following his dismissal during the 3-2 defeat to Japan. The match concluded Brazil's 2026 schedule.",
+        "analysis": "According to the CBF, Brazil have scored 54 goals in 22 games under Ancelotti, including 13 by Vinicius — about 24% of the total. The forward had scored six times in 39 Brazil appearances before this spell under Ancelotti, compared with 13 in 20 games under him. Brazil's next international window is scheduled for March 2027. The result is emphatic but does not alone demonstrate how the team will perform against stronger opponents.",
+        "counterpoint": "The sources disagree on the seventh goal: CBF credits Allan, while Reuters reports an own goal by Raoul Suhaimi. The definitive match report should settle the attribution. Singapore's relative strength limits the conclusions that can be drawn from the scoreline, particularly after Brazil's loss to Japan three days earlier.",
+        "category": "SPORT",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (June 13, 2026, East Rutherford, United States): Vinicius Junior during Brazil v Morocco at the World Cup. Bryan Berlin / WikiPortraits, CC BY-SA 4.0. Not from the Singapore friendly."
+        },
+        "slug": "vinicius-junior-scores-hat-trick-as-brazil-beats-singapore-7-0-in-final-match-2026-11-17"
+      },
+      "es": {
+        "title": "VINÍCIUS JÚNIOR MARCA TRES GOLES Y BRASIL GOLEA 7-0 A SINGAPUR EN SU ÚLTIMO PARTIDO DE 2026",
+        "subtitle": "El delantero firma su primer triplete con la selección tras la derrota ante Japón.",
+        "facts": "Brasil venció 7-0 a Singapur el 17 de noviembre de 2026 en el Estadio Nacional de Kallang, Singapur. Vinícius Júnior anotó a los 9, 15 y 20 minutos del primer tiempo y logró su primer triplete con la selección absoluta. Endrick marcó antes del descanso; Estêvão y Rayan anotaron en la segunda mitad. La Confederación Brasileña de Fútbol (CBF) atribuye el séptimo gol a Allan, mientras que Reuters lo registra como autogol de Raoul Suhaimi. Carlo Ancelotti presenció el encuentro desde la grada tras su expulsión en la derrota por 3-2 ante Japón. El partido cerró el calendario brasileño de 2026.",
+        "analysis": "Según la CBF, Brasil suma 54 goles en 22 partidos bajo Ancelotti, 13 de ellos de Vinícius, cerca del 24% del total. Antes de esta etapa con el técnico, el delantero había marcado seis goles en 39 partidos; con él lleva 13 en 20. La próxima ventana internacional está prevista para marzo de 2027. La goleada es contundente, pero no demuestra por sí sola cómo responderá Brasil ante rivales de mayor nivel.",
+        "counterpoint": "Las fuentes discrepan sobre el séptimo gol: la CBF se lo atribuye a Allan y Reuters lo considera un autogol de Raoul Suhaimi. El acta definitiva deberá resolver la diferencia. El nivel relativo de Singapur limita las conclusiones, especialmente tras la derrota ante Japón tres días antes.",
+        "category": "DEPORTE",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (13 de junio de 2026, East Rutherford, Estados Unidos): Vinícius Júnior durante Brasil-Marruecos en el Mundial. Bryan Berlin / WikiPortraits, CC BY-SA 4.0. No corresponde al amistoso contra Singapur."
+        },
+        "slug": "vinicius-junior-marca-tres-goles-y-brasil-golea-7-0-a-singapur-en-su-ultimo-2026-11-17"
+      },
+      "firstSeen": "2026-11-17T12:00:00-03:00"
+    },
+    {
       "id": "japao-protesta-russia-invasao-espaco-aereo-okinoshima-2026-11-17",
       "date": "2026-11-17",
       "category": "MUNDO",
