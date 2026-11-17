@@ -396,7 +396,8 @@
     "uniao-europeia-sanciona-113-pessoas-empresas-bancos-russos-2026-11-16": "editorial/photos/uniao-europeia-sanciona-113-pessoas-empresas-bancos-russos-2026-11-16.jpg",
     "china-confirma-cupula-xi-trump-putin-shenzhen-2026-11-16": "editorial/photos/china-confirma-cupula-xi-trump-putin-shenzhen-2026-11-16.jpg",
     "asean-cupula-decide-manter-restricoes-mianmar-2026-11-15": "editorial/photos/asean-cupula-decide-manter-restricoes-mianmar-2026-11-15.jpg",
-    "japao-protesta-russia-invasao-espaco-aereo-okinoshima-2026-11-17": "editorial/photos/japao-protesta-russia-invasao-espaco-aereo-okinoshima-2026-11-17.jpg"
+    "japao-protesta-russia-invasao-espaco-aereo-okinoshima-2026-11-17": "editorial/photos/japao-protesta-russia-invasao-espaco-aereo-okinoshima-2026-11-17.jpg",
+    "forcas-iemen-recuam-bab-el-mandeb-aden-2026-11-15": "editorial/photos/forcas-iemen-recuam-bab-el-mandeb-aden-2026-11-15.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -1520,6 +1521,12 @@
       "srcset": "editorial/photos/japao-protesta-russia-invasao-espaco-aereo-okinoshima-2026-11-17-320.webp 320w, editorial/photos/japao-protesta-russia-invasao-espaco-aereo-okinoshima-2026-11-17-640.webp 640w, editorial/photos/japao-protesta-russia-invasao-espaco-aereo-okinoshima-2026-11-17-960.webp 960w, editorial/photos/japao-protesta-russia-invasao-espaco-aereo-okinoshima-2026-11-17-1280.webp 1280w",
       "width": 1280,
       "height": 850
+    },
+    "forcas-iemen-recuam-bab-el-mandeb-aden-2026-11-15": {
+      "src": "editorial/photos/forcas-iemen-recuam-bab-el-mandeb-aden-2026-11-15-1280.webp",
+      "srcset": "editorial/photos/forcas-iemen-recuam-bab-el-mandeb-aden-2026-11-15-320.webp 320w, editorial/photos/forcas-iemen-recuam-bab-el-mandeb-aden-2026-11-15-640.webp 640w, editorial/photos/forcas-iemen-recuam-bab-el-mandeb-aden-2026-11-15-960.webp 960w, editorial/photos/forcas-iemen-recuam-bab-el-mandeb-aden-2026-11-15-1280.webp 1280w",
+      "width": 1280,
+      "height": 1024
     }
   }
 }
