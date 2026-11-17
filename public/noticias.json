@@ -2,9 +2,53 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-17T13:00:00-03:00",
+  "updatedAt": "2026-11-17T15:00:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "eua-perdem-status-eliminacao-sarampo-opas-2026-11-17",
+      "date": "2026-11-17",
+      "category": "SAÚDE",
+      "title": "EUA PERDEM STATUS DE ELIMINAÇÃO DO SARAMPO APÓS 26 ANOS",
+      "subtitle": "Organização Pan-Americana da Saúde aponta transmissão contínua por mais de um ano; México e Bolívia também perderam o reconhecimento.",
+      "facts": "Em 17 de novembro de 2026, a Organização Pan-Americana da Saúde (Opas) informou que os Estados Unidos perderam o status de eliminação do sarampo, mantido por 26 anos. A decisão decorre da circulação sustentada do vírus por mais de 12 meses. México e Bolívia também perderam o reconhecimento. O Centro de Controle e Prevenção de Doenças dos EUA (CDC) divulgou comunicado conjunto reconhecendo a necessidade de conter os surtos e recuperar a condição. A Reuters informou que os Estados Unidos registraram milhares de casos desde 2025, mas os balanços de diferentes datas e sistemas de notificação não devem ser confundidos.",
+      "analysis": "'Eliminação' não significa erradicação mundial do vírus: é o reconhecimento de que a transmissão endêmica foi interrompida em determinado território. A perda do certificado não altera por si só o calendário de vacinação, mas indica que a circulação prolongada voltou a se estabelecer e que o controle de surtos falhou. Para recuperar o status, o país precisará apresentar um plano corretivo e demonstrar 12 meses sem transmissão sustentada. A vacina tríplice viral, que protege contra sarampo, caxumba e rubéola, permanece a principal ferramenta preventiva. O impacto ultrapassa fronteiras porque deslocamentos internacionais podem introduzir casos em comunidades com cobertura vacinal insuficiente.",
+      "counterpoint": "O CDC afirma que a designação administrativa não é, por si só, o que protege a população; a proteção depende de vacinação, vigilância e resposta rápida. A decisão da Opas não significa que toda pessoa nos Estados Unidos esteja infectada nem prova que um único governo ou episódio tenha causado a retomada da transmissão. Os números de casos e mortes variam conforme a data de atualização e a fonte; não devem ser somados como se representassem períodos independentes.",
+      "sources": [
+        {
+          "name": "CDC — comunicado conjunto de 17/11/2026",
+          "url": "https://www.cdc.gov/media/releases/2026/loss-of-usmeasles-elimination-status.html"
+        },
+        {
+          "name": "Reuters — perda do status, 17/11/2026",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-loses-measles-elimination-status-after-nearly-three-decades-2026-11-17/"
+        },
+        {
+          "name": "Associated Press — decisão da Opas, 17/11/2026",
+          "url": "https://apnews.com/article/b6694152aca12e8cf4293d9f50090ec9"
+        },
+        {
+          "name": "Opas — revisão programada do status, 02/03/2026",
+          "url": "https://www.paho.org/en/news/2-3-2026-update-review-measles-elimination-status"
+        }
+      ],
+      "en": {
+        "title": "US LOSES MEASLES ELIMINATION STATUS AFTER 26 YEARS",
+        "subtitle": "The Pan American Health Organization cites more than a year of sustained transmission; Mexico and Bolivia also lost the designation.",
+        "facts": "On November 17, 2026, the Pan American Health Organization (PAHO) announced that the United States had lost its measles elimination status after 26 years because the virus had circulated continuously for more than 12 months. Mexico and Bolivia also lost the designation. The US Centers for Disease Control and Prevention (CDC) issued a joint statement committing to outbreak control and recovery. Reuters reported thousands of US cases since 2025, although case counts from different reporting dates and surveillance systems should not be conflated.",
+        "analysis": "Elimination is not worldwide eradication: it means sustained local transmission has been interrupted in a particular territory. Losing the designation does not itself change vaccination schedules, but it signals a breakdown in outbreak control. Regaining it requires a corrective plan and 12 months without sustained transmission. The measles, mumps and rubella (MMR) vaccine remains the main preventive measure. International travel can spread cases to communities with insufficient vaccine coverage.",
+        "counterpoint": "The CDC stresses that the designation itself does not protect people; vaccination, surveillance and rapid response do. The PAHO decision does not mean everyone in the US is infected or establish that one administration alone caused the resurgence. Case and death totals vary by reporting date and should not be added across overlapping periods.",
+        "category": "HEALTH"
+      },
+      "es": {
+        "title": "ESTADOS UNIDOS PIERDE EL ESTATUS DE ELIMINACIÓN DEL SARAMPIÓN TRAS 26 AÑOS",
+        "subtitle": "La Organización Panamericana de la Salud señala más de un año de transmisión sostenida; México y Bolivia también perdieron el reconocimiento.",
+        "facts": "El 17 de noviembre de 2026, la Organización Panamericana de la Salud (OPS) anunció que Estados Unidos perdió el estatus de eliminación del sarampión después de 26 años, debido a más de 12 meses de circulación continua del virus. México y Bolivia también perdieron la designación. Los Centros para el Control y la Prevención de Enfermedades de Estados Unidos (CDC) publicaron un comunicado conjunto en el que se comprometen a contener los brotes y recuperar el reconocimiento. Reuters informó de miles de casos desde 2025, pero no deben confundirse recuentos de distintas fechas y sistemas de vigilancia.",
+        "analysis": "La eliminación no equivale a la erradicación mundial: significa que se interrumpió la transmisión endémica en un territorio. Perder el reconocimiento no modifica por sí mismo el calendario de vacunación, pero evidencia fallas en el control de los brotes. Para recuperarlo, el país deberá presentar un plan correctivo y demostrar 12 meses sin transmisión sostenida. La vacuna triple viral contra sarampión, paperas y rubéola sigue siendo la principal herramienta preventiva. Los viajes internacionales pueden llevar casos a comunidades con baja cobertura de vacunación.",
+        "counterpoint": "Los CDC subrayan que el reconocimiento administrativo no protege por sí solo a la población; la protección depende de la vacunación, la vigilancia y una respuesta rápida. La decisión de la OPS no implica que toda la población esté infectada ni demuestra que un único gobierno haya provocado el resurgimiento. Las cifras de casos y fallecimientos varían según la fecha del informe y no deben sumarse si sus períodos se superponen.",
+        "category": "SALUD"
+      }
+    },
     {
       "id": "anglo-american-alerta-fechamento-minas-niquel-goias-ue-2026-11-17",
       "date": "2026-11-17",
