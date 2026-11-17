@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "eua-perdem-status-eliminacao-sarampo-opas-2026-11-17": "editorial/covers/eua-perdem-status-eliminacao-sarampo-opas-2026-11-17.svg",
     "anglo-american-alerta-fechamento-minas-niquel-goias-ue-2026-11-17": "editorial/covers/anglo-american-alerta-fechamento-minas-niquel-goias-ue-2026-11-17.svg",
     "brasil-goleia-singapura-vinicius-hat-trick-2026-11-17": "editorial/covers/brasil-goleia-singapura-vinicius-hat-trick-2026-11-17.svg",
     "japao-protesta-russia-invasao-espaco-aereo-okinoshima-2026-11-17": "editorial/covers/japao-protesta-russia-invasao-espaco-aereo-okinoshima-2026-11-17.svg",
@@ -394,7 +395,8 @@
     "eua-nove-parceiros-declaracao-cadeia-ia-2026-11-16": "editorial/photos/eua-nove-parceiros-declaracao-cadeia-ia-2026-11-16.jpg",
     "uniao-europeia-sanciona-113-pessoas-empresas-bancos-russos-2026-11-16": "editorial/photos/uniao-europeia-sanciona-113-pessoas-empresas-bancos-russos-2026-11-16.jpg",
     "china-confirma-cupula-xi-trump-putin-shenzhen-2026-11-16": "editorial/photos/china-confirma-cupula-xi-trump-putin-shenzhen-2026-11-16.jpg",
-    "asean-cupula-decide-manter-restricoes-mianmar-2026-11-15": "editorial/photos/asean-cupula-decide-manter-restricoes-mianmar-2026-11-15.jpg"
+    "asean-cupula-decide-manter-restricoes-mianmar-2026-11-15": "editorial/photos/asean-cupula-decide-manter-restricoes-mianmar-2026-11-15.jpg",
+    "japao-protesta-russia-invasao-espaco-aereo-okinoshima-2026-11-17": "editorial/photos/japao-protesta-russia-invasao-espaco-aereo-okinoshima-2026-11-17.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -1512,6 +1514,12 @@
       "srcset": "editorial/photos/asean-cupula-decide-manter-restricoes-mianmar-2026-11-15-320.webp 320w, editorial/photos/asean-cupula-decide-manter-restricoes-mianmar-2026-11-15-640.webp 640w, editorial/photos/asean-cupula-decide-manter-restricoes-mianmar-2026-11-15-960.webp 960w, editorial/photos/asean-cupula-decide-manter-restricoes-mianmar-2026-11-15-1280.webp 1280w",
       "width": 1280,
       "height": 720
+    },
+    "japao-protesta-russia-invasao-espaco-aereo-okinoshima-2026-11-17": {
+      "src": "editorial/photos/japao-protesta-russia-invasao-espaco-aereo-okinoshima-2026-11-17-1280.webp",
+      "srcset": "editorial/photos/japao-protesta-russia-invasao-espaco-aereo-okinoshima-2026-11-17-320.webp 320w, editorial/photos/japao-protesta-russia-invasao-espaco-aereo-okinoshima-2026-11-17-640.webp 640w, editorial/photos/japao-protesta-russia-invasao-espaco-aereo-okinoshima-2026-11-17-960.webp 960w, editorial/photos/japao-protesta-russia-invasao-espaco-aereo-okinoshima-2026-11-17-1280.webp 1280w",
+      "width": 1280,
+      "height": 850
     }
   }
 }
