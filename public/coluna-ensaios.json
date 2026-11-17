@@ -1,7 +1,78 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T10:00:00-03:00",
+  "updatedAt": "2026-11-17T19:04:53-03:00",
   "essays": [
+    {
+      "id": "o-silencio-do-acusado-nao-e-confissao-2026-11-17",
+      "section": "Política e sociedade",
+      "date": "2026-11-17",
+      "title": "O SILÊNCIO DO ACUSADO NÃO É UMA CONFISSÃO. O MICROFONE NÃO É JUIZ.",
+      "subtitle": "Quando uma pessoa se cala, o público não ganha o direito de inventar o que ela teria dito.",
+      "eyebrow": "OPINIÃO",
+      "paragraphs": [
+        "Há uma cena que se repete na televisão: alguém é investigado, um microfone aparece diante do rosto e o repórter anuncia, com a solenidade de quem encontrou uma impressão digital, que o suspeito preferiu não responder. Pronto. Para parte da plateia, o silêncio acaba de confessar. É uma extraordinária perícia criminal: ninguém ouviu uma palavra, mas já descobriram o que ela significava.",
+        "O artigo 5º, inciso LXIII, da Constituição assegura ao preso o direito de permanecer calado. O inciso LVII afirma que ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória. E o artigo 186 do Código de Processo Penal é ainda mais explícito: o silêncio não importa confissão e não pode ser interpretado em prejuízo da defesa. O texto não foi escrito para proteger apenas pessoas simpáticas, inocentes ou politicamente convenientes. Direitos que dependem da popularidade do acusado são favores com prazo de validade.",
+        "Há algo de curioso na facilidade com que trocamos prova por impressão. Se o investigado fala, dizem que está montando uma versão. Se não fala, dizem que está escondendo a verdade. Se procura advogado, a contratação vira suspeita. O defensor, cuja função é assegurar que o processo respeite a lei, passa a ser tratado como cúmplice por exercer a própria profissão. Nesse tribunal improvisado, a única resposta capaz de agradar à torcida é a que confirma a sentença que ela já escreveu.",
+        "Não confundo silêncio com inocência. Uma investigação séria pode reunir documentos, testemunhos, perícias e outras provas capazes de sustentar uma acusação, independentemente da colaboração de quem é investigado. Também não proponho que jornalistas deixem de fazer perguntas. A imprensa deve perguntar, cobrar e revelar fatos de interesse público. O problema surge quando a ausência de resposta é vendida como resposta definitiva. O microfone pode registrar o silêncio; não tem licença para traduzir pensamentos.",
+        "Esse cuidado vale especialmente quando o acusado é alguém de quem não gostamos. Defender garantias para um aliado é fácil; até um fã-clube faz isso. O teste começa quando a pessoa do outro lado é um adversário político, um empresário detestado ou alguém acusado de um crime repugnante. O devido processo não é um prêmio de bom comportamento. É a disciplina que impede o Estado de substituir demonstração por vontade. E, se a acusação é grave, maior deveria ser nossa exigência de prova, não menor.",
+        "Confesso que me preocupa menos o sujeito que diz 'não vou responder' do que a multidão que responde por ele. Ela inventa intenção, escolhe motivo, distribui culpa e ainda reclama da demora da Justiça, como se o processo fosse apenas um intervalo comercial antes da condenação. Quem deseja uma Justiça forte deveria querer provas fortes. Porque o dia em que o silêncio virar confissão será também o dia em que falar deixará de ser uma escolha."
+      ],
+      "sources": [
+        {
+          "title": "Constituição Federal de 1988, art. 5º, incisos LVII e LXIII",
+          "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+        },
+        {
+          "title": "Código de Processo Penal, art. 186, parágrafo único",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm"
+        },
+        {
+          "title": "Wikimedia Commons — Supremo Tribunal Federal, fotografia e licença",
+          "url": "https://commons.wikimedia.org/wiki/File:Supremo_Tribunal_Federal.jpg"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Supremo_Tribunal_Federal.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Everton137 / Wikimedia Commons",
+          "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Supremo_Tribunal_Federal.jpg",
+          "caption": "FOTO DE ARQUIVO (26/04/2010), Brasília (DF): edifício do Supremo Tribunal Federal. Não retrata investigação, julgamento ou acontecimento recente."
+        }
+      ],
+      "en": {
+        "title": "SILENCE IS NOT A CONFESSION. A MICROPHONE IS NOT A JUDGE.",
+        "subtitle": "When someone refuses to speak, the public does not acquire the right to invent what they would have said.",
+        "eyebrow": "OPINION",
+        "section": "Politics and society",
+        "paragraphs": [
+          "There is a scene that keeps returning to television: someone is under investigation, a microphone is thrust toward their face, and a reporter solemnly announces that the suspect declined to comment. For part of the audience, silence has just confessed. It is a remarkable form of forensic science: not a word was heard, yet everyone claims to know what it meant.",
+          "Article 5, item LXIII, of Brazil's Constitution guarantees arrested persons the right to remain silent. Item LVII establishes the presumption of innocence until a criminal conviction becomes final. Article 186 of the Code of Criminal Procedure is more explicit still: silence is not a confession and must not be interpreted against the defense. These rules were not written only for likable, innocent or politically convenient people. A right that depends on the accused person's popularity is a favor with an expiration date.",
+          "It is astonishing how easily we trade evidence for impressions. If the person speaks, they are accused of rehearsing a story. If they remain silent, they must be hiding something. If they hire a lawyer, that too becomes suspicious. Counsel, whose job is to ensure that the law is respected, is treated as an accomplice for practicing the profession. In this improvised courtroom, the only acceptable answer is one that confirms the verdict the crowd has already written.",
+          "Silence does not prove innocence either. A serious investigation can gather documents, testimony, expert findings and other evidence that supports a charge without the suspect's cooperation. Nor should journalists stop asking questions. The press must question, scrutinize and uncover matters of public interest. The line is crossed when the absence of an answer is sold as a definitive answer. A microphone can record silence; it cannot translate thoughts.",
+          "This matters most when the accused is someone we dislike. Defending guarantees for an ally is easy; a fan club can do that. The test comes when the person on the other side is a political opponent, an unpopular business leader or someone accused of a horrifying crime. Due process is not a reward for good behavior. It is the discipline that stops the state from replacing proof with its own wishes. The more serious the allegation, the stronger the evidence we should demand.",
+          "I confess I worry less about the person who says 'I won't answer' than about the crowd that answers on their behalf. It invents intentions, assigns motives and distributes guilt, then complains that justice takes too long, as though a trial were merely a commercial break before conviction. Anyone who wants a strong justice system should want strong evidence. The day silence becomes confession is also the day speaking stops being a choice."
+        ],
+        "photo_caption": "ARCHIVE PHOTO (April 26, 2010), Brasília, Brazil: the Supreme Federal Court building. It does not depict a recent investigation or trial."
+      },
+      "es": {
+        "title": "EL SILENCIO NO ES UNA CONFESIÓN. UN MICRÓFONO NO ES JUEZ.",
+        "subtitle": "Cuando alguien calla, el público no adquiere el derecho de inventar lo que habría dicho.",
+        "eyebrow": "OPINIÓN",
+        "section": "Política y sociedad",
+        "paragraphs": [
+          "Hay una escena que se repite en televisión: alguien está siendo investigado, aparece un micrófono frente a su rostro y el periodista anuncia solemnemente que el sospechoso prefirió no responder. Para parte del público, el silencio acaba de confesar. Es una pericia criminal extraordinaria: nadie escuchó una palabra, pero todos aseguran saber lo que significaba.",
+          "El artículo 5, inciso LXIII, de la Constitución brasileña garantiza a la persona detenida el derecho a guardar silencio. El inciso LVII establece la presunción de inocencia hasta que una condena penal sea firme. El artículo 186 del Código de Procedimiento Penal es todavía más claro: el silencio no constituye confesión ni puede interpretarse en perjuicio de la defensa. Esas reglas no fueron escritas solamente para personas simpáticas, inocentes o políticamente convenientes. Un derecho que depende de la popularidad del acusado es un favor con fecha de vencimiento.",
+          "Resulta curioso lo fácilmente que cambiamos pruebas por impresiones. Si el investigado habla, dicen que preparó una versión. Si calla, dicen que oculta la verdad. Si contrata a un abogado, eso también despierta sospechas. El defensor, cuyo trabajo consiste en velar por el cumplimiento de la ley, pasa a ser tratado como cómplice por ejercer su profesión. En ese tribunal improvisado, la única respuesta aceptable es la que confirma la sentencia que la multitud ya redactó.",
+          "Tampoco confundo silencio con inocencia. Una investigación seria puede reunir documentos, testimonios, peritajes y otras pruebas capaces de sostener una acusación sin la colaboración del investigado. Y no pretendo que los periodistas dejen de preguntar. La prensa debe interrogar, fiscalizar y revelar hechos de interés público. El problema comienza cuando la ausencia de respuesta se vende como respuesta definitiva. Un micrófono puede registrar el silencio; no tiene permiso para traducir pensamientos.",
+          "Este cuidado importa especialmente cuando el acusado es alguien que nos desagrada. Defender garantías para un aliado es fácil; hasta un club de admiradores lo hace. La prueba llega cuando enfrente hay un adversario político, un empresario impopular o alguien acusado de un crimen espantoso. El debido proceso no es un premio por buena conducta. Es la disciplina que impide al Estado sustituir la demostración por su voluntad. Cuanto más grave la acusación, más sólidas deberían ser las pruebas que exigimos.",
+          "Confieso que me preocupa menos quien dice 'no voy a responder' que la multitud que responde por él. Inventa intenciones, elige motivos, reparte culpas y luego se queja de la lentitud de la Justicia, como si el proceso fuera apenas una pausa publicitaria antes de la condena. Quien desea una Justicia fuerte debería exigir pruebas fuertes. Porque el día en que el silencio se convierta en confesión será también el día en que hablar deje de ser una elección."
+        ],
+        "photo_caption": "FOTO DE ARCHIVO (26/04/2010), Brasilia, Brasil: edificio del Supremo Tribunal Federal. No retrata una investigación ni un juicio reciente."
+      }
+    },
     {
       "id": "o-cidadao-nao-e-assessor-de-imprensa-do-governo-2026-11-17",
       "section": "Política e sociedade",
