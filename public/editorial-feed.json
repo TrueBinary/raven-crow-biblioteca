@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "japao-protesta-russia-invasao-espaco-aereo-okinoshima-2026-11-17",
+      "date": "2026-11-17",
+      "category": "MUNDO",
+      "title": "JAPÃO ACIONA CAÇAS E PROTESTA APÓS AVIÕES SUSPEITOS DE SER RUSSOS ENTRAREM EM SEU ESPAÇO AÉREO",
+      "subtitle": "Tóquio relata duas incursões perto da ilha de Okinoshima e exige que Moscou impeça novos episódios.",
+      "facts": "O Ministério da Defesa do Japão informou nesta terça-feira, 17 de novembro de 2026, que duas aeronaves suspeitas de serem russas entraram no espaço aéreo japonês a noroeste da ilha de Okinoshima, na província de Fukuoka. Segundo relatos oficiais reproduzidos pela Associated Press e pela Reuters, a Força Aérea de Autodefesa japonesa enviou caças e emitiu advertências. As incursões ocorreram por volta das 4h07 às 4h12 no horário local, segundo a agência Anadolu, que cita o Ministério da Defesa. Tóquio apresentou protesto diplomático à Rússia. A identificação definitiva dos modelos das aeronaves não foi divulgada.",
+      "analysis": "O episódio importa porque ultrapassar o espaço aéreo soberano é diferente de ingressar em uma zona de identificação de defesa aérea, que pode abranger áreas internacionais. A Coreia do Sul relatou aeronaves russas em sua zona de identificação, mas afirmou que seu espaço aéreo não foi violado. Segundo a Reuters, Taiwan também detectou duas aeronaves militares russas perto de sua costa oriental. O Japão afirma que a última violação confirmada por aeronave russa havia ocorrido em setembro de 2024. O incidente adiciona pressão a uma relação já marcada pela disputa territorial das ilhas Curilas e pelas sanções japonesas contra Moscou após a invasão da Ucrânia.",
+      "counterpoint": "A origem russa das duas aeronaves foi apresentada inicialmente pelas autoridades japonesas como suspeita, não como identificação independente concluída. Não há comprovação pública, nas fontes consultadas, de intenção de ataque nem de confronto armado. A presença de aviões em zonas de identificação de defesa aérea de países vizinhos não equivale automaticamente a violação de seu espaço aéreo soberano.",
+      "sources": [
+        {
+          "name": "Reuters — 17/11/2026",
+          "url": "https://www.reuters.com/business/aerospace-defense/tokyo-lodges-protest-after-aircraft-believed-be-russian-violate-japan-airspace-2026-11-17/"
+        },
+        {
+          "name": "Associated Press — 17/11/2026",
+          "url": "https://apnews.com/article/a07dac6180c1cd4d6b7bd2c0389d9f6d"
+        },
+        {
+          "name": "Anadolu — 17/11/2026",
+          "url": "https://www.aa.com.tr/en/asia-pacific/japan-protests-to-russia-over-suspected-airspace-violations-by-2-aircraft/4127299"
+        }
+      ],
+      "en": {
+        "title": "JAPAN SCRAMBLES FIGHTER JETS AND PROTESTS AFTER SUSPECTED RUSSIAN AIRCRAFT ENTER ITS AIRSPACE",
+        "subtitle": "Tokyo reports two incursions near Okinoshima island and demands measures to prevent a recurrence.",
+        "facts": "Japan's Ministry of Defense said on November 17, 2026, that two aircraft believed to be Russian entered Japanese airspace northwest of Okinoshima island in Fukuoka Prefecture. Japan's Air Self-Defense Force scrambled fighter jets and issued warnings, according to official accounts reported by the Associated Press and Reuters. The incursions occurred around 4:07–4:12 a.m. local time, according to Anadolu citing the ministry. Tokyo lodged a diplomatic protest with Moscow. The aircraft types have not been definitively disclosed.",
+        "analysis": "The distinction matters: entering sovereign airspace is not the same as flying through an air defense identification zone, which may extend over international airspace. South Korea reported Russian aircraft in its identification zone but no violation of its sovereign airspace. Reuters also reported Taiwan detecting two Russian military aircraft near its eastern coast. Japan says its previous confirmed Russian airspace violation was in September 2024. The incident adds to tensions over the disputed Kuril Islands and Japan's sanctions on Russia following the invasion of Ukraine.",
+        "counterpoint": "Japanese officials initially described the aircraft as suspected Russian planes; their precise identification has not been independently established in the cited reporting. The sources do not establish an intention to attack or any armed clash. Activity in neighboring countries' air defense identification zones does not automatically constitute a violation of their sovereign airspace.",
+        "category": "WORLD",
+        "slug": "japan-scrambles-fighter-jets-and-protests-after-suspected-russian-aircraft-2026-11-17"
+      },
+      "es": {
+        "title": "JAPÓN MOVILIZA CAZAS Y PROTESTA POR LA ENTRADA DE AVIONES PRESUNTAMENTE RUSOS EN SU ESPACIO AÉREO",
+        "subtitle": "Tokio denuncia dos incursiones cerca de la isla de Okinoshima y exige medidas para evitar que se repitan.",
+        "facts": "El Ministerio de Defensa de Japón informó el 17 de noviembre de 2026 que dos aeronaves presuntamente rusas entraron en el espacio aéreo japonés al noroeste de Okinoshima, en la prefectura de Fukuoka. La Fuerza Aérea de Autodefensa envió cazas y emitió advertencias, según declaraciones oficiales recogidas por Associated Press y Reuters. Las incursiones ocurrieron aproximadamente entre las 4:07 y las 4:12, hora local, según Anadolu, que cita al ministerio. Tokio presentó una protesta diplomática ante Moscú. No se han confirmado públicamente los modelos de las aeronaves.",
+        "analysis": "La distinción es importante: entrar en espacio aéreo soberano no equivale a sobrevolar una zona de identificación de defensa aérea, que puede abarcar espacio aéreo internacional. Corea del Sur informó de aeronaves rusas en su zona de identificación, pero negó una violación de su espacio aéreo soberano. Reuters también informó que Taiwán detectó dos aviones militares rusos cerca de su costa oriental. Japón señala que la última violación rusa confirmada ocurrió en septiembre de 2024. El episodio agrava las tensiones relacionadas con las islas Kuriles y las sanciones japonesas contra Rusia tras la invasión de Ucrania.",
+        "counterpoint": "Las autoridades japonesas describieron inicialmente los aviones como presuntamente rusos; las fuentes citadas no establecen una identificación independiente definitiva. Tampoco demuestran intención de ataque ni enfrentamiento armado. La presencia de aeronaves en zonas de identificación de países vecinos no implica automáticamente una violación de su espacio aéreo soberano.",
+        "category": "MUNDO",
+        "slug": "japon-moviliza-cazas-y-protesta-por-la-entrada-de-aviones-presuntamente-rusos-2026-11-17"
+      },
+      "firstSeen": "2026-11-17T10:58:00-03:00"
+    },
+    {
       "id": "ira-drones-bahrein-base-sheikh-isa-interceptacao-2026-11-17",
       "date": "2026-11-17",
       "category": "MUNDO",
