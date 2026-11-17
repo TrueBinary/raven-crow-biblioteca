@@ -38,7 +38,10 @@
         "facts": "On November 17, 2026, the Pan American Health Organization (PAHO) announced that the United States had lost its measles elimination status after 26 years because the virus had circulated continuously for more than 12 months. Mexico and Bolivia also lost the designation. The US Centers for Disease Control and Prevention (CDC) issued a joint statement committing to outbreak control and recovery. Reuters reported thousands of US cases since 2025, although case counts from different reporting dates and surveillance systems should not be conflated.",
         "analysis": "Elimination is not worldwide eradication: it means sustained local transmission has been interrupted in a particular territory. Losing the designation does not itself change vaccination schedules, but it signals a breakdown in outbreak control. Regaining it requires a corrective plan and 12 months without sustained transmission. The measles, mumps and rubella (MMR) vaccine remains the main preventive measure. International travel can spread cases to communities with insufficient vaccine coverage.",
         "counterpoint": "The CDC stresses that the designation itself does not protect people; vaccination, surveillance and rapid response do. The PAHO decision does not mean everyone in the US is infected or establish that one administration alone caused the resurgence. Case and death totals vary by reporting date and should not be added across overlapping periods.",
-        "category": "HEALTH"
+        "category": "HEALTH",
+        "photo_captions": {
+          "1": "ARCHIVE IMAGE (2024): colorized electron micrograph of a measles virus particle, produced by CDC/NIAID (public domain in the United States). It does not depict the 2026 outbreaks or PAHO's announcement."
+        }
       },
       "es": {
         "title": "ESTADOS UNIDOS PIERDE EL ESTATUS DE ELIMINACIÓN DEL SARAMPIÓN TRAS 26 AÑOS",
@@ -46,8 +49,22 @@
         "facts": "El 17 de noviembre de 2026, la Organización Panamericana de la Salud (OPS) anunció que Estados Unidos perdió el estatus de eliminación del sarampión después de 26 años, debido a más de 12 meses de circulación continua del virus. México y Bolivia también perdieron la designación. Los Centros para el Control y la Prevención de Enfermedades de Estados Unidos (CDC) publicaron un comunicado conjunto en el que se comprometen a contener los brotes y recuperar el reconocimiento. Reuters informó de miles de casos desde 2025, pero no deben confundirse recuentos de distintas fechas y sistemas de vigilancia.",
         "analysis": "La eliminación no equivale a la erradicación mundial: significa que se interrumpió la transmisión endémica en un territorio. Perder el reconocimiento no modifica por sí mismo el calendario de vacunación, pero evidencia fallas en el control de los brotes. Para recuperarlo, el país deberá presentar un plan correctivo y demostrar 12 meses sin transmisión sostenida. La vacuna triple viral contra sarampión, paperas y rubéola sigue siendo la principal herramienta preventiva. Los viajes internacionales pueden llevar casos a comunidades con baja cobertura de vacunación.",
         "counterpoint": "Los CDC subrayan que el reconocimiento administrativo no protege por sí solo a la población; la protección depende de la vacunación, la vigilancia y una respuesta rápida. La decisión de la OPS no implica que toda la población esté infectada ni demuestra que un único gobierno haya provocado el resurgimiento. Las cifras de casos y fallecimientos varían según la fecha del informe y no deben sumarse si sus períodos se superponen.",
-        "category": "SALUD"
-      }
+        "category": "SALUD",
+        "photo_captions": {
+          "1": "IMAGEN DE ARCHIVO (2024): micrografía electrónica coloreada de una partícula del virus del sarampión, producida por CDC/NIAID (dominio público en Estados Unidos). No retrata los brotes de 2026 ni el anuncio de la OPS."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Measlesvirus.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público nos EUA — NIAID/CDC (PD-USGov-NIH); Wikimedia Commons",
+          "credit": "CDC / NIAID / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Measlesvirus.jpg",
+          "caption": "FOTO DE ARQUIVO (2024): micrografia eletrônica colorizada de partícula do vírus do sarampo, produzida pelo CDC/NIAID (domínio público nos EUA). Não retrata os surtos de 2026 nem o anúncio da Opas."
+        }
+      ]
     },
     {
       "id": "anglo-american-alerta-fechamento-minas-niquel-goias-ue-2026-11-17",
@@ -82,7 +99,10 @@
         "facts": "On November 17, 2026, Anglo American warned European ferronickel customers that it intends to place its Barro Alto and Codemin operations in Goiás, Brazil, into care and maintenance with a view to closure if the European Commission blocks their sale to MMG. Reuters reported the warning after obtaining a letter from chief executive Duncan Wanblad. The transaction is valued at up to $500 million. This is a conditional warning, not an immediate closure announcement or a final regulatory veto. The Commission is due to decide by December 21.",
         "analysis": "Ferronickel is mainly used to manufacture stainless steel. This explains why a sale involving Brazilian assets faces European competition scrutiny: regulators are assessing potential effects on suppliers and buyers in the European Union. Hong Kong-listed MMG, majority-owned by China Minmetals, argues that it would maintain supply and invest in the business. In September it acknowledged receiving a formal statement of objections, a preliminary step rather than a prohibition. A November 3 filing extended the contractual completion deadline to December 31. The dispute pits the regulator's supply-diversion concerns against the companies' warning of possible production shutdowns.",
         "counterpoint": "Anglo American's warning describes what the company says it would do if the deal fails; it does not establish that the mines will close. The European Commission has not issued its final decision, and MMG disputes its competition concerns. Reuters reported that revised proposed commitments would increase annual European ferronickel supply from 11,500 to 16,000 metric tons, but their acceptance has not been confirmed. Actual job losses cannot yet be quantified.",
-        "category": "ECONOMY"
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (date taken unknown; available since 2012): mineral sample identified as nickel on display at Estação Ciência, photographed by Dornicke (CC BY-SA 3.0). It does not show the Barro Alto or Codemin mines or the warning issued on November 17, 2026."
+        }
       },
       "es": {
         "title": "ANGLO AMERICAN ADVIERTE QUE PODRÍA CERRAR MINAS DE NÍQUEL EN BRASIL SI LA UE BLOQUEA SU VENTA",
@@ -90,8 +110,22 @@
         "facts": "El 17 de noviembre de 2026, Anglo American advirtió a clientes europeos de ferroníquel que pondría sus operaciones de Barro Alto y Codemin, en Goiás, Brasil, en régimen de conservación y mantenimiento con vistas a su cierre si la Comisión Europea prohíbe la venta a MMG. Reuters informó del aviso tras acceder a una carta del director ejecutivo Duncan Wanblad. La operación está valorada en hasta 500 millones de dólares. Se trata de una advertencia condicional, no de un cierre inmediato ni de un veto definitivo. La Comisión debe decidir antes del 21 de diciembre.",
         "analysis": "El ferroníquel se utiliza principalmente para fabricar acero inoxidable. Por ello, una venta de activos brasileños también está sujeta al examen de competencia europeo: el regulador analiza sus posibles efectos sobre el abastecimiento y los compradores de la Unión Europea. MMG, cotizada en Hong Kong y controlada mayoritariamente por China Minmetals, sostiene que mantendría el suministro e invertiría en el negocio. En septiembre confirmó haber recibido un pliego formal de objeciones, que no constituye una prohibición definitiva. Un documento del 3 de noviembre amplió hasta el 31 de diciembre el plazo contractual para cerrar la adquisición. El conflicto enfrenta las preocupaciones regulatorias sobre el suministro con el riesgo de cierre alegado por las compañías.",
         "counterpoint": "La advertencia de Anglo American expresa lo que la empresa afirma que haría si se bloquea la venta; no confirma que las minas vayan a cerrar. La Comisión Europea aún no ha decidido y MMG rechaza las objeciones. Según Reuters, las nuevas propuestas elevarían el suministro anual comprometido a Europa de 11.500 a 16.000 toneladas, pero su aceptación no está confirmada. Tampoco es posible determinar todavía eventuales pérdidas de empleo.",
-        "category": "ECONOMÍA"
-      }
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (fecha de captura desconocida; disponible desde 2012): muestra mineral identificada como níquel expuesta en Estação Ciência, fotografiada por Dornicke (CC BY-SA 3.0). No muestra las minas de Barro Alto o Codemin ni la advertencia del 17 de noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Exposi%C3%A7%C3%A3o_Minerais_-_N%C3%ADquel.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "credit": "Dornicke / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Exposi%C3%A7%C3%A3o_Minerais_-_N%C3%ADquel.jpg",
+          "caption": "FOTO DE ARQUIVO (data de captura não informada; disponível desde 2012): amostra mineral identificada como níquel em exposição da Estação Ciência, fotografada por Dornicke (CC BY-SA 3.0). Não retrata as minas de Barro Alto ou Codemin nem o alerta de 17/11/2026."
+        }
+      ]
     },
     {
       "id": "brasil-goleia-singapura-vinicius-hat-trick-2026-11-17",
