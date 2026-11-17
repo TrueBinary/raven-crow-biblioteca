@@ -397,7 +397,8 @@
     "china-confirma-cupula-xi-trump-putin-shenzhen-2026-11-16": "editorial/photos/china-confirma-cupula-xi-trump-putin-shenzhen-2026-11-16.jpg",
     "asean-cupula-decide-manter-restricoes-mianmar-2026-11-15": "editorial/photos/asean-cupula-decide-manter-restricoes-mianmar-2026-11-15.jpg",
     "japao-protesta-russia-invasao-espaco-aereo-okinoshima-2026-11-17": "editorial/photos/japao-protesta-russia-invasao-espaco-aereo-okinoshima-2026-11-17.jpg",
-    "forcas-iemen-recuam-bab-el-mandeb-aden-2026-11-15": "editorial/photos/forcas-iemen-recuam-bab-el-mandeb-aden-2026-11-15.jpg"
+    "forcas-iemen-recuam-bab-el-mandeb-aden-2026-11-15": "editorial/photos/forcas-iemen-recuam-bab-el-mandeb-aden-2026-11-15.jpg",
+    "brasil-goleia-singapura-vinicius-hat-trick-2026-11-17": "editorial/photos/brasil-goleia-singapura-vinicius-hat-trick-2026-11-17.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -1527,6 +1528,12 @@
       "srcset": "editorial/photos/forcas-iemen-recuam-bab-el-mandeb-aden-2026-11-15-320.webp 320w, editorial/photos/forcas-iemen-recuam-bab-el-mandeb-aden-2026-11-15-640.webp 640w, editorial/photos/forcas-iemen-recuam-bab-el-mandeb-aden-2026-11-15-960.webp 960w, editorial/photos/forcas-iemen-recuam-bab-el-mandeb-aden-2026-11-15-1280.webp 1280w",
       "width": 1280,
       "height": 1024
+    },
+    "brasil-goleia-singapura-vinicius-hat-trick-2026-11-17": {
+      "src": "editorial/photos/brasil-goleia-singapura-vinicius-hat-trick-2026-11-17-1280.webp",
+      "srcset": "editorial/photos/brasil-goleia-singapura-vinicius-hat-trick-2026-11-17-320.webp 320w, editorial/photos/brasil-goleia-singapura-vinicius-hat-trick-2026-11-17-640.webp 640w, editorial/photos/brasil-goleia-singapura-vinicius-hat-trick-2026-11-17-960.webp 960w, editorial/photos/brasil-goleia-singapura-vinicius-hat-trick-2026-11-17-1280.webp 1280w",
+      "width": 1280,
+      "height": 1841
     }
   }
 }
