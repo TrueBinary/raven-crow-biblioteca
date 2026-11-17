@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "fernando-alonso-aston-martin-dakar-2027-anuncio-2026-11-17",
+      "date": "2026-11-17",
+      "category": "ESPORTE",
+      "title": "FERNANDO ALONSO CONFIRMA RETORNO AO DAKAR EM 2027 PELA ASTON MARTIN AO LADO DE LUCAS MORAES",
+      "subtitle": "Bicampeão de Fórmula 1 disputará a prova de 9 a 23 de janeiro; equipe terá também Sébastien Loeb e carros preparados pela Prodrive.",
+      "facts": "A Aston Martin confirmou em 17 de novembro de 2026 que Fernando Alonso participará do Rally Dakar de 2027 com o protótipo Dreadnought preparado pela Prodrive. A equipe inscreverá três carros, pilotados por Alonso, Sébastien Loeb e pelo brasileiro Lucas Moraes. Alonso terá Marc Coma como navegador; Loeb correrá com Fabian Lurquin, e Moraes com Pablo Moreno. A 49ª edição está prevista para 9 a 23 de janeiro, com largada em Portugal e percurso principal no Marrocos. O anúncio é da equipe e foi confirmado pela Fórmula 1 e pela Reuters.",
+      "analysis": "O anúncio reúne três trajetórias distintas no mesmo projeto: Alonso venceu duas vezes o Mundial de Fórmula 1, Loeb conquistou nove títulos mundiais de rali e Moraes foi campeão mundial de rally-raid em 2025. Para o público brasileiro, a presença de Moraes na formação principal dá relevância adicional à estreia da marca. Alonso já conhece o Dakar: em 2020 terminou em 13º lugar na classificação geral, competindo com a Toyota. Desta vez, terá de conciliar a prova de janeiro com a preparação para a temporada de Fórmula 1 de 2027. Rally-raid é uma modalidade de resistência e navegação em longas etapas fora de estrada, diferente das corridas em circuito da F1.",
+      "counterpoint": "A escalação foi oficialmente anunciada, mas a competitividade do novo Dreadnought ainda não foi demonstrada em corrida. Resultados anteriores dos pilotos não garantem vitória. O percurso e a programação divulgados para janeiro continuam sujeitos a ajustes dos organizadores.",
+      "sources": [
+        {
+          "name": "Aston Martin Aramco — anúncio oficial, 17/11/2026",
+          "url": "https://www.astonmartinf1.com/en-GB/news/announcement/fernando-alonso-returns-to-the-dakar-with-aston-martin-dreadnought"
+        },
+        {
+          "name": "Formula 1 — confirmação, 17/11/2026",
+          "url": "https://www.formula1.com/en/latest/article/alonso-to-make-dakar-rally-return-with-aston-martin-dreadnought-in-2027.6qKZRHvlJP4ECq2Bri772q"
+        },
+        {
+          "name": "Reuters — cobertura, 17/11/2026",
+          "url": "https://www.reuters.com/sports/formula1/alonso-enter-dakar-rally-with-loeb-aston-martin-team-2026-11-17/"
+        }
+      ],
+      "en": {
+        "title": "FERNANDO ALONSO CONFIRMS 2027 DAKAR RETURN WITH ASTON MARTIN AND LUCAS MORAES",
+        "subtitle": "The two-time Formula 1 champion will race from January 9 to 23 alongside Sébastien Loeb and Brazilian driver Lucas Moraes in a Prodrive-run team.",
+        "facts": "On November 17, 2026, Aston Martin confirmed that Fernando Alonso will enter the 2027 Dakar Rally in its Prodrive-developed Dreadnought. The three-car team will feature Alonso, Sébastien Loeb and Brazil's Lucas Moraes. Alonso will be navigated by Marc Coma, Loeb by Fabian Lurquin and Moraes by Pablo Moreno. The 49th edition is scheduled for January 9–23, starting in Portugal before continuing mainly in Morocco. The announcement was corroborated by Formula 1 and Reuters.",
+        "analysis": "The project combines three different racing careers: Alonso is a two-time Formula 1 world champion, Loeb a nine-time world rally champion, and Moraes won the 2025 World Rally-Raid Championship. Moraes gives Brazilian fans a direct stake in Aston Martin's debut. Alonso finished 13th overall in his first Dakar in 2020 with Toyota. This time he will also prepare for the 2027 Formula 1 season. Rally-raid is an off-road endurance and navigation discipline, unlike F1 circuit racing.",
+        "counterpoint": "The line-up is official, but the new Dreadnought has not yet proved its race performance. Previous driver achievements do not guarantee a Dakar victory. The announced route and schedule remain subject to organizer changes.",
+        "category": "SPORT",
+        "slug": "fernando-alonso-confirms-2027-dakar-return-with-aston-martin-and-lucas-moraes-2026-11-17"
+      },
+      "es": {
+        "title": "FERNANDO ALONSO CONFIRMA SU REGRESO AL DAKAR 2027 CON ASTON MARTIN Y LUCAS MORAES",
+        "subtitle": "El bicampeón de Fórmula 1 competirá del 9 al 23 de enero junto a Sébastien Loeb y el brasileño Lucas Moraes en un equipo gestionado por Prodrive.",
+        "facts": "El 17 de noviembre de 2026, Aston Martin confirmó que Fernando Alonso participará en el Rally Dakar 2027 con el Dreadnought desarrollado por Prodrive. El equipo contará con tres vehículos para Alonso, Sébastien Loeb y el brasileño Lucas Moraes. Sus copilotos serán, respectivamente, Marc Coma, Fabian Lurquin y Pablo Moreno. La 49.ª edición está prevista del 9 al 23 de enero, con salida en Portugal y recorrido principalmente por Marruecos. La Fórmula 1 y Reuters corroboraron el anuncio.",
+        "analysis": "El proyecto reúne tres trayectorias diferentes: Alonso ganó dos mundiales de Fórmula 1, Loeb conquistó nueve títulos mundiales de rally y Moraes fue campeón mundial de rally-raid en 2025. La participación de Moraes da especial interés a la noticia para Brasil. Alonso ya terminó 13.º en el Dakar de 2020 con Toyota. Ahora tendrá que combinar la prueba de enero con la preparación de la temporada 2027 de Fórmula 1. El rally-raid exige resistencia y navegación en largas etapas todoterreno, a diferencia de las carreras en circuito de F1.",
+        "counterpoint": "La alineación es oficial, pero el nuevo Dreadnought todavía no ha demostrado su rendimiento en competición. Los títulos anteriores de sus pilotos no garantizan la victoria. El itinerario y las fechas anunciadas pueden sufrir cambios de organización.",
+        "category": "DEPORTE",
+        "slug": "fernando-alonso-confirma-su-regreso-al-dakar-2027-con-aston-martin-y-lucas-2026-11-17"
+      },
+      "firstSeen": "2026-11-17T09:00:00-03:00"
+    },
+    {
       "id": "russia-adverte-reino-unido-g20-putin-manchester-2026-11-16",
       "date": "2026-11-16",
       "category": "MUNDO",
