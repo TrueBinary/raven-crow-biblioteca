@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": "ira-drones-bahrein-base-sheikh-isa-interceptacao-2026-11-17",
+      "date": "2026-11-17",
+      "category": "MUNDO",
+      "title": "IRÃ LANÇA DRONES CONTRA RADAR MILITAR DOS EUA NO BAHREIN; PAÍS DIZ TER INTERCEPTADO ATAQUE",
+      "subtitle": "Guarda Revolucionária reivindica operação contra a base Sheikh Isa; autoridades do Bahrein e dos EUA afirmam que a defesa aérea impediu o ataque.",
+      "facts": "Em 17 de novembro de 2026, a Guarda Revolucionária do Irã afirmou ter lançado drones contra um sistema de radar militar norte-americano na base aérea Sheikh Isa, no Bahrein. O governo do Bahrein e autoridades dos Estados Unidos disseram que a ofensiva foi interceptada. A Guarda Revolucionária alegou agir em resposta ao que descreveu como violações de seu espaço aéreo por drones militares dos EUA. Até a divulgação dos relatos, não havia confirmação independente de que o radar tivesse sido atingido; a Associated Press informou que não havia registro de danos ou feridos.",
+      "analysis": "A localização do alvo declarado torna o episódio relevante além do confronto bilateral: o Bahrein abriga instalações militares utilizadas pelos Estados Unidos no Golfo Pérsico, região próxima a rotas fundamentais para o transporte marítimo de petróleo e gás. A diferença entre lançar drones, atravessar defesas aéreas e efetivamente danificar um radar é decisiva para avaliar a dimensão militar da operação. A Associated Press descreveu o episódio como parte de uma sequência recente de ataques, após ações relatadas na sexta-feira e no domingo anteriores. A continuidade dessas investidas amplia o risco de erros de cálculo e de interrupções no tráfego regional.",
+      "counterpoint": "A reivindicação iraniana identifica um alvo e uma justificativa, mas não comprova impacto no equipamento. A versão de interceptação foi divulgada pelo Bahrein e pelos Estados Unidos; sem avaliação independente dos destroços ou dos sistemas atingidos, não é possível concluir a eficácia exata de cada defesa. Também não há base para atribuir automaticamente ao Irã incidentes marítimos separados sem investigação.",
+      "sources": [
+        {
+          "name": "Reuters — 17/11/2026",
+          "url": "https://www.reuters.com/world/middle-east/bahrain-says-it-intercepts-iranian-air-attacks-irgc-says-it-targets-us-radar-2026-11-17/"
+        },
+        {
+          "name": "Associated Press — 17/11/2026",
+          "url": "https://apnews.com/article/582e0b5d51be06f0ed630fac24f39b72"
+        }
+      ],
+      "en": {
+        "title": "IRAN LAUNCHES DRONES AT US MILITARY RADAR IN BAHRAIN; AUTHORITIES SAY ATTACK WAS INTERCEPTED",
+        "subtitle": "Iran's Revolutionary Guards claim an operation against Sheikh Isa Air Base, while Bahrain and US officials say air defenses stopped it.",
+        "facts": "On November 17, 2026, Iran's Islamic Revolutionary Guard Corps said it launched drones toward a US military radar system at Sheikh Isa Air Base in Bahrain. Bahrain and US officials said the attack was intercepted. The Guards described it as retaliation for alleged US military drone incursions into Iranian airspace. Independent confirmation of damage to the radar was not available; the Associated Press reported no known injuries or damage.",
+        "analysis": "The declared target matters because Bahrain hosts US military facilities near Gulf shipping routes vital to global oil and gas trade. A drone launch, a successful penetration of air defenses and confirmed damage to radar are three distinct outcomes. The Associated Press described this as part of a recent series of attacks, following reported incidents on the preceding Friday and Sunday. Repeated strikes increase the danger of miscalculation and regional shipping disruption.",
+        "counterpoint": "Iran's claim establishes what its forces say they targeted, not whether the equipment was hit. Bahrain and the US reported interception, but independent evidence is insufficient to assess every defensive engagement. Separate maritime incidents should not automatically be attributed to Iran without investigation.",
+        "category": "WORLD",
+        "slug": "iran-launches-drones-at-us-military-radar-in-bahrain-authorities-say-attack-was-2026-11-17"
+      },
+      "es": {
+        "title": "IRÁN LANZA DRONES CONTRA UN RADAR MILITAR DE EE. UU. EN BARÉIN; AUTORIDADES AFIRMAN QUE FUERON INTERCEPTADOS",
+        "subtitle": "La Guardia Revolucionaria reivindica una operación contra la base Sheikh Isa; Baréin y Estados Unidos sostienen que sus defensas detuvieron el ataque.",
+        "facts": "El 17 de noviembre de 2026, el Cuerpo de la Guardia Revolucionaria Islámica de Irán afirmó haber lanzado drones contra un radar militar estadounidense en la base aérea Sheikh Isa, en Baréin. Las autoridades de Baréin y Estados Unidos dijeron que el ataque fue interceptado. La Guardia lo presentó como represalia por presuntas incursiones de drones militares estadounidenses en el espacio aéreo iraní. No existía confirmación independiente de daños al radar; Associated Press informó que no se habían registrado heridos ni daños.",
+        "analysis": "El objetivo declarado es importante porque Baréin alberga instalaciones militares de Estados Unidos cerca de rutas marítimas esenciales para el petróleo y el gas. Lanzar drones, superar las defensas y dañar efectivamente un radar son resultados diferentes. Associated Press situó el episodio dentro de una serie reciente de ataques, después de incidentes comunicados el viernes y el domingo anteriores. La repetición aumenta el riesgo de errores de cálculo y de perturbaciones del transporte regional.",
+        "counterpoint": "La reivindicación iraní no demuestra que el equipo haya sido alcanzado. Baréin y Estados Unidos comunicaron la interceptación, pero faltan pruebas independientes para evaluar cada acción defensiva. No debe atribuirse automáticamente a Irán ningún incidente marítimo distinto sin investigación.",
+        "category": "MUNDO",
+        "slug": "iran-lanza-drones-contra-un-radar-militar-de-ee-uu-en-barein-autoridades-2026-11-17"
+      },
+      "firstSeen": "2026-11-17T09:55:00-03:00"
+    },
+    {
       "id": "fernando-alonso-aston-martin-dakar-2027-anuncio-2026-11-17",
       "date": "2026-11-17",
       "category": "ESPORTE",
