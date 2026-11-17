@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "id": "falha-jpmorgan-chase-atrasa-transferencias-bancos-eua-2026-11-16",
+      "date": "2026-11-16",
+      "category": "ECONOMIA",
+      "title": "FALHA NO JPMORGAN CHASE ATRASA TRANSFERÊNCIAS E AFETA CLIENTES DE OUTROS BANCOS NOS EUA",
+      "subtitle": "Banco atribui lentidão a erro de software em equipamento interno; operadora do Zelle afirma que sua rede continua funcionando.",
+      "facts": "Na segunda-feira, 16 de novembro de 2026, o JPMorgan Chase informou que um erro de software em sistemas instalados em seus próprios equipamentos provocou lentidão no processamento de transações. Clientes relataram dificuldades em serviços bancários, enquanto transferências envolvendo outras instituições e o Zelle também sofreram atrasos. O banco afirmou não haver indícios de ataque cibernético e disse que os clientes continuavam com acesso aos recursos. A operadora do Zelle declarou que a rede de pagamentos estava operacional. Segundo a Associated Press, a instituição pretendia normalizar os serviços até o fim do dia, mas a conclusão do reparo ainda não estava comprovada nas informações consultadas.",
+      "analysis": "O episódio evidencia uma distinção importante: uma plataforma de pagamentos pode continuar operacional mesmo quando um banco participante atrasa a autorização ou o processamento das operações. Isso ajuda a explicar por que usuários de diferentes instituições podem perceber lentidão sem que todas elas tenham sofrido uma pane própria. O JPMorgan Chase é um elo relevante entre instituições financeiras americanas, e a dependência de sistemas interligados amplia a repercussão de falhas localizadas. Para o cliente, o dado prático é diferenciar uma transação atrasada de dinheiro perdido ou de uma indisponibilidade geral dos depósitos — situações que não foram demonstradas pelos relatos disponíveis.",
+      "counterpoint": "O JPMorgan Chase afirmou que a falha não era sistêmica nem decorrente de ataque cibernético. Relatos enviados ao Downdetector não provam, por si sós, uma interrupção nos sistemas de cada banco mencionado. O US Bank disse que seus sistemas não haviam sido diretamente afetados, embora transferências Zelle entre instituições pudessem atrasar. A causa técnica detalhada e a normalização integral ainda dependiam de confirmação independente.",
+      "sources": [
+        {
+          "name": "Reuters — 16/11/2026",
+          "url": "https://www.reuters.com/legal/transactional/downdetector-reports-outages-major-us-banks-2026-11-16/"
+        },
+        {
+          "name": "Associated Press — 16/11/2026",
+          "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/JPMorgan_Chase_Headquarters_New_York_City.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC0 1.0",
+          "credit": "Wobbanight / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:JPMorgan_Chase_Headquarters_New_York_City.jpg",
+          "caption": "FOTO DE ARQUIVO (12 de julho de 2025): sede do JPMorgan Chase em Nova York, fotografada por Wobbanight (CC0 1.0). Não retrata a falha bancária de 16 de novembro de 2026."
+        }
+      ],
+      "en": {
+        "category": "ECONOMY",
+        "title": "JPMORGAN CHASE SOFTWARE GLITCH DELAYS TRANSFERS ACROSS US BANKS",
+        "subtitle": "The bank blamed a software bug in its internal hardware; Zelle's operator said its network remained operational.",
+        "facts": "On November 16, 2026, JPMorgan Chase reported that a software bug in its on-premises hardware systems had slowed transaction processing. Customers reported banking difficulties, while transfers involving other financial institutions and Zelle also faced delays. The bank said there was no evidence of a cyberattack and that customers retained access to their funds. Zelle's operator said its payment network was operating. According to the Associated Press, Chase aimed to restore services by the end of the day, but full restoration had not yet been independently confirmed in the reports reviewed.",
+        "analysis": "The disruption illustrates an important distinction: a payment network can remain operational while one participating bank delays processing or authorizing transactions. Customers at several institutions can therefore experience delays without each bank suffering its own outage. As a major intermediary in the US financial system, JPMorgan Chase can affect transactions beyond its direct customers. A delayed payment should not be confused with lost deposits or proof of a system-wide collapse.",
+        "counterpoint": "JPMorgan Chase said the incident was neither systemic nor cyber-related. Reports on Downdetector alone do not establish that every named bank suffered an internal outage. US Bank said its systems were not directly affected, although cross-bank Zelle transfers could be delayed. The precise technical cause and complete recovery still required independent confirmation.",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (July 12, 2025): JPMorgan Chase headquarters in New York City, photographed by Wobbanight (CC0 1.0). This does not depict the November 16, 2026 banking disruption."
+        },
+        "slug": "jpmorgan-chase-software-glitch-delays-transfers-across-us-banks-2026-11-16"
+      },
+      "es": {
+        "category": "ECONOMÍA",
+        "title": "UN FALLO EN JPMORGAN CHASE RETRASA TRANSFERENCIAS ENTRE BANCOS DE ESTADOS UNIDOS",
+        "subtitle": "El banco atribuye las demoras a un error de software en sus equipos; el operador de Zelle asegura que su red sigue funcionando.",
+        "facts": "El 16 de noviembre de 2026, JPMorgan Chase informó que un error de software en sus sistemas internos había ralentizado el procesamiento de operaciones. Clientes notificaron dificultades bancarias y algunas transferencias entre entidades, incluidas operaciones mediante Zelle, sufrieron retrasos. El banco afirmó que no había indicios de un ciberataque y que los clientes conservaban acceso a sus fondos. El operador de Zelle señaló que su red seguía operativa. Según Associated Press, Chase esperaba restablecer los servicios antes de terminar el día, aunque la recuperación completa aún no estaba confirmada de forma independiente en las fuentes consultadas.",
+        "analysis": "El incidente muestra una diferencia esencial: una red de pagos puede seguir funcionando aunque uno de sus bancos participantes tarde en procesar o autorizar operaciones. Por eso pueden verse afectados clientes de distintas entidades sin que todas sufran una avería interna. La importancia de JPMorgan Chase como intermediario financiero amplifica las consecuencias de un problema localizado. Un pago retrasado no equivale a la pérdida de depósitos ni demuestra un colapso general del sistema.",
+        "counterpoint": "JPMorgan Chase sostuvo que el problema no era sistémico ni estaba relacionado con un ciberataque. Los reportes de Downdetector no demuestran por sí solos que cada banco mencionado sufriera una caída propia. US Bank afirmó que sus sistemas no estaban directamente afectados, aunque podían retrasarse las transferencias Zelle entre entidades. La causa técnica precisa y la recuperación total seguían pendientes de confirmación independiente.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (12 de julio de 2025): sede de JPMorgan Chase en Nueva York, fotografiada por Wobbanight (CC0 1.0). No muestra la incidencia bancaria del 16 de noviembre de 2026."
+        },
+        "slug": "un-fallo-en-jpmorgan-chase-retrasa-transferencias-entre-bancos-de-estados-unidos-2026-11-16"
+      },
+      "firstSeen": "2026-11-16T22:58:00-03:00"
+    },
+    {
       "id": "dolar-fecha-577-bolsa-cai-pacote-fiscal-2026-11-16",
       "date": "2026-11-16",
       "category": "ECONOMIA",
