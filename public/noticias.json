@@ -2,9 +2,66 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-16T22:58:00-03:00",
+  "updatedAt": "2026-11-17T02:00:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "russia-adverte-reino-unido-g20-putin-manchester-2026-11-16",
+      "date": "2026-11-16",
+      "category": "MUNDO",
+      "title": "RÚSSIA ADVERTE REINO UNIDO SOBRE PARTICIPAÇÃO DE PUTIN NO G20 DE 2027",
+      "subtitle": "Diplomata russo ameaça consequências caso Londres restrinja direitos de Moscou; sanções britânicas estão no centro da disputa.",
+      "facts": "Em 16 de novembro de 2026, Marat Berdyev, representante do Ministério das Relações Exteriores da Rússia para assuntos do G20 e da APEC, advertiu que eventuais restrições britânicas aos direitos russos na presidência do G20 em 2027 teriam consequências graves. A declaração foi dada à agência estatal RIA Novosti e noticiada pela Reuters. O aviso ocorreu após o primeiro-ministro britânico Andy Burnham dizer, em entrevista divulgada em 5 de novembro, que Vladimir Putin não compareceria à reunião de líderes em Manchester devido às sanções britânicas. A prefeitura de Manchester confirma que a cúpula está prevista para 27 e 28 de novembro de 2027.",
+      "analysis": "O impasse separa duas questões: a Rússia continua integrante do G20, fórum de coordenação econômica internacional, mas a presença pessoal de seu presidente depende de condições diplomáticas e jurídicas no país anfitrião. A presidência rotativa organiza os encontros; isso não significa que possa retirar unilateralmente um membro do grupo. Para o Reino Unido, receber a cúpula exige conciliar suas sanções ligadas à invasão da Ucrânia com a participação de países que mantêm posições divergentes sobre a guerra. O ponto decisivo será a forma como Londres tratará convites, representação diplomática e eventuais exceções legais, e não apenas a retórica de novembro de 2026.",
+      "counterpoint": "A advertência de Berdyev é uma posição oficial russa relatada pela Reuters, não prova de que o Reino Unido tenha efetivamente excluído a Rússia do G20. Burnham distinguiu a permanência do país no grupo da presença física de Putin. Não foi anunciada, nas fontes consultadas, uma decisão final sobre a composição da delegação russa para a cúpula de 2027.",
+      "sources": [
+        {
+          "name": "Reuters — declaração russa de 16/11/2026",
+          "url": "https://www.reuters.com/world/europe/russia-warns-uk-over-g20-presidency-after-london-says-putin-wont-come-its-summit-2026-11-16/"
+        },
+        {
+          "name": "ITV News — entrevista de Burnham, 05/11/2026",
+          "url": "https://www.itv.com/news/2026-11-05/putin-will-not-attend-manchester-g20-summit-burnham-says"
+        },
+        {
+          "name": "Manchester City Council — datas da cúpula",
+          "url": "https://www.manchester.gov.uk/news-stories/2026/manchester-to-host-world-leaders-at-the-2027-g20-summit"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Prime_Minister_Andy_Burnham_hosts_Taoiseach_Miche%C3%A1l_Martin_%2855536087040%29.jpg/960px-Prime_Minister_Andy_Burnham_hosts_Taoiseach_Miche%C3%A1l_Martin_%2855536087040%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "UK Open Government Licence v3.0",
+          "credit": "Lauren Hurley / No 10 Downing Street",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Andy_Burnham_hosts_Taoiseach_Miche%C3%A1l_Martin_(55536087040).jpg",
+          "caption": "FOTO DE ARQUIVO (18 de setembro de 2026): o primeiro-ministro britânico Andy Burnham recebe Micheál Martin em Manchester. Lauren Hurley / No 10 Downing Street, Open Government Licence v3.0. Não retrata o alerta russo de 16 de novembro."
+        }
+      ],
+      "en": {
+        "title": "RUSSIA WARNS UK OVER PUTIN'S PARTICIPATION IN 2027 G20 SUMMIT",
+        "subtitle": "Russian diplomat threatens consequences if London curtails Moscow's rights; UK sanctions are at the heart of the dispute.",
+        "facts": "On November 16, 2026, Marat Berdyev, Russia's Foreign Ministry representative for G20 and APEC affairs, warned that any British restrictions on Russia's rights during the UK's 2027 G20 presidency would have serious consequences. He spoke to state agency RIA Novosti, according to Reuters. The warning followed British Prime Minister Andy Burnham's remarks, reported on November 5, that Vladimir Putin would not attend the Manchester leaders' summit because of UK sanctions. Manchester City Council confirms the summit is scheduled for November 27–28, 2027.",
+        "analysis": "The dispute concerns two different matters: Russia remains a G20 member, while its president's physical attendance depends on the host country's diplomatic and legal arrangements. A rotating presidency organizes the forum but does not unilaterally expel a member. Britain will have to reconcile sanctions linked to the invasion of Ukraine with a summit attended by governments holding different positions on the war. The practical test will be the treatment of invitations, representation and possible legal exceptions.",
+        "counterpoint": "Berdyev's warning is an official Russian position reported by Reuters, not evidence that Britain has expelled Russia from the G20. Burnham distinguished Russia's membership from Putin's attendance. The consulted sources do not establish a final decision on the Russian delegation to the 2027 summit.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (September 18, 2026): British Prime Minister Andy Burnham welcomes Micheál Martin in Manchester. Lauren Hurley / No 10 Downing Street, Open Government Licence v3.0. This does not depict the Russian warning of November 16."
+        }
+      },
+      "es": {
+        "title": "RUSIA ADVIERTE AL REINO UNIDO POR LA PARTICIPACIÓN DE PUTIN EN EL G20 DE 2027",
+        "subtitle": "Un diplomático ruso amenaza con consecuencias si Londres limita los derechos de Moscú; las sanciones británicas están en el centro de la disputa.",
+        "facts": "El 16 de noviembre de 2026, Marat Berdyev, representante del Ministerio de Exteriores ruso para asuntos del G20 y de APEC, advirtió que cualquier restricción británica de los derechos de Rusia durante la presidencia del G20 en 2027 tendría graves consecuencias. Sus declaraciones a la agencia estatal RIA Novosti fueron recogidas por Reuters. La advertencia llegó después de que el primer ministro británico Andy Burnham afirmara, en declaraciones publicadas el 5 de noviembre, que Vladimir Putin no asistiría a la cumbre de Manchester debido a las sanciones británicas. El Ayuntamiento de Manchester confirma que la reunión está prevista para el 27 y 28 de noviembre de 2027.",
+        "analysis": "La controversia distingue dos cuestiones: Rusia sigue siendo miembro del G20, pero la presencia física de su presidente depende de las condiciones diplomáticas y jurídicas del anfitrión. La presidencia rotatoria organiza el foro, sin poder expulsar unilateralmente a un miembro. Londres tendrá que conciliar las sanciones vinculadas a la invasión de Ucrania con la participación de gobiernos que discrepan sobre la guerra. La prueba concreta será cómo se gestionen las invitaciones, la representación y las posibles excepciones legales.",
+        "counterpoint": "La advertencia de Berdyev es una posición oficial rusa recogida por Reuters, no una prueba de que el Reino Unido haya expulsado a Rusia del G20. Burnham distinguió la pertenencia del país al grupo de la asistencia de Putin. Las fuentes consultadas no confirman una decisión definitiva sobre la delegación rusa de 2027.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (18 de septiembre de 2026): el primer ministro británico Andy Burnham recibe a Micheál Martin en Manchester. Lauren Hurley / No 10 Downing Street, Open Government Licence v3.0. No muestra la advertencia rusa del 16 de noviembre."
+        }
+      }
+    },
     {
       "id": "falha-jpmorgan-chase-atrasa-transferencias-bancos-eua-2026-11-16",
       "date": "2026-11-16",
