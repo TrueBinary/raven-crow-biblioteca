@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "id": "adnoc-tripulante-desaparecido-11-feridos-ataque-ormuz-2026-11-18",
+      "date": "2026-11-18",
+      "category": "MUNDO",
+      "title": "ADNOC RELATA 11 FERIDOS E UM DESAPARECIDO APÓS ATAQUE A NAVIO EM ORMUZ",
+      "subtitle": "Companhia dos Emirados confirmou nesta quarta-feira o ataque ocorrido na terça; buscas prosseguem e autoria não foi estabelecida.",
+      "facts": "A ADNOC Logistics & Services, dos Emirados Árabes Unidos, informou em 18 de novembro de 2026 que um de seus navios foi atacado na terça-feira (17), no estreito de Ormuz. Segundo a companhia, 11 tripulantes ficaram feridos e um permanece desaparecido; os demais foram retirados da embarcação. A empresa não identificou publicamente o navio no comunicado reproduzido pela Reuters. Autoridades de Omã também relataram o resgate de tripulantes de um navio-tanque de gás liquefeito de bandeira panamenha, o Tara Gas, mas a identidade entre os relatos não deve ser presumida sem confirmação documental. Até o momento, a autoria e a dinâmica exata do ataque não foram demonstradas publicamente.",
+      "analysis": "O estreito de Ormuz liga o golfo Pérsico ao golfo de Omã e é passagem estratégica para exportações de energia. A notícia importa não apenas pelo número de vítimas: o desaparecimento de um marítimo e a evacuação dos demais mostram o risco imediato para trabalhadores civis, enquanto incidentes sucessivos aumentam a incerteza sobre seguros, rotas e transporte de petróleo e gás. O episódio se soma a ataques anteriores, mas os balanços de navios diferentes não devem ser agregados como se fossem um único evento. A distinção entre comunicado empresarial, resgate confirmado e alegações militares é essencial para acompanhar eventuais atualizações.",
+      "counterpoint": "A ADNOC não divulgou no comunicado inicial o nome do navio nem atribuiu formalmente a responsabilidade pelo ataque. Relatos de fontes marítimas sobre projétil e declarações militares iranianas sobre outros navios não comprovam, por si, a autoria deste incidente. O número de feridos e o andamento das buscas podem mudar; uma atualização exige confirmação independente ou comunicado oficial adicional.",
+      "sources": [
+        {
+          "name": "Reuters — ADNOC relata tripulante desaparecido e 11 feridos, 18/11/2026",
+          "url": "https://www.reuters.com/world/middle-east/uaes-adnoc-ls-says-one-crew-member-missing-after-attack-its-vessel-hormuz-2026-11-18/"
+        },
+        {
+          "name": "Associated Press — atualização dos ataques marítimos e no Golfo, 18/11/2026",
+          "url": "https://apnews.com/article/b71b1d25f3cff987b4b125196ecb4c3a"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/The_Strait_of_Hormuz_connects_the_Gulf_of_Oman_with_the_Persian_Gulf.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público — NASA / PD-USGov",
+          "credit": "NASA / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:The_Strait_of_Hormuz_connects_the_Gulf_of_Oman_with_the_Persian_Gulf.jpg",
+          "caption": "FOTO DE ARQUIVO (18 de agosto de 2022): vista orbital do estreito de Ormuz, entre Irã e península Arábica, registrada pela NASA; domínio público (obra do governo federal dos EUA). Não retrata o ataque de 17 de novembro de 2026."
+        }
+      ],
+      "en": {
+        "title": "ADNOC REPORTS 11 INJURED AND ONE MISSING AFTER VESSEL ATTACK IN HORMUZ",
+        "subtitle": "The UAE company confirmed Wednesday that its vessel was attacked Tuesday; the search continues and responsibility remains unestablished.",
+        "facts": "On November 18, 2026, UAE-based ADNOC Logistics & Services said one of its vessels was attacked on Tuesday, November 17, in the Strait of Hormuz. The company reported 11 injured crew members and one person still missing; the others were evacuated. ADNOC did not name the vessel in the statement reported by Reuters. Omani authorities separately reported rescuing crew from the Panama-flagged LPG tanker Tara Gas, but the two accounts should not be treated as referring to the same vessel without confirmation. The attack's perpetrator and exact circumstances have not been publicly established.",
+        "analysis": "The Strait of Hormuz links the Persian Gulf with the Gulf of Oman and is a strategic energy shipping corridor. Beyond the casualty figures, the missing seafarer and evacuation underscore the immediate risks to civilian crews. Repeated incidents also add uncertainty to insurance, shipping routes and oil and gas transport. Reports about separate ships should not be combined into a single casualty count. Distinguishing company statements, confirmed rescue operations and military claims is crucial.",
+        "counterpoint": "ADNOC did not initially identify the vessel or formally assign responsibility. Maritime accounts of a projectile and Iranian military claims about other vessels do not establish who carried out this attack. Casualty figures and rescue operations may change with verified updates.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (August 18, 2022): orbital view of the Strait of Hormuz between Iran and the Arabian Peninsula, photographed by NASA; public domain (US federal government work). It does not depict the November 17, 2026 attack."
+        },
+        "slug": "adnoc-reports-11-injured-and-one-missing-after-vessel-attack-in-hormuz-2026-11-18"
+      },
+      "es": {
+        "title": "ADNOC INFORMA DE 11 HERIDOS Y UN DESAPARECIDO TRAS UN ATAQUE A UN BUQUE EN ORMUZ",
+        "subtitle": "La empresa emiratí confirmó el miércoles el ataque ocurrido el martes; continúa la búsqueda y no se ha determinado la autoría.",
+        "facts": "El 18 de noviembre de 2026, ADNOC Logistics & Services, de Emiratos Árabes Unidos, informó que uno de sus buques fue atacado el martes 17 de noviembre en el estrecho de Ormuz. Según la empresa, 11 tripulantes resultaron heridos y uno sigue desaparecido; los demás fueron evacuados. ADNOC no identificó el buque en el comunicado citado por Reuters. Las autoridades de Omán informaron por separado del rescate de tripulantes del gasero Tara Gas, de bandera panameña, pero no debe suponerse que ambos relatos corresponden al mismo barco sin confirmación. La autoría y las circunstancias exactas no se han establecido públicamente.",
+        "analysis": "El estrecho de Ormuz conecta el golfo Pérsico con el golfo de Omán y es una vía estratégica para el transporte energético. Más allá de las cifras, el tripulante desaparecido y la evacuación evidencian el peligro para las dotaciones civiles. Los incidentes sucesivos generan incertidumbre sobre seguros, rutas y transporte de petróleo y gas. No deben sumarse balances de distintos buques como si se tratara de un solo episodio. Es importante distinguir los comunicados empresariales, los rescates confirmados y las afirmaciones militares.",
+        "counterpoint": "ADNOC no identificó inicialmente el buque ni atribuyó formalmente el ataque. Los relatos marítimos sobre un proyectil y las afirmaciones militares iraníes sobre otros barcos no prueban quién realizó este ataque. El balance y las búsquedas podrían cambiar con nuevas confirmaciones.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (18 de agosto de 2022): vista orbital del estrecho de Ormuz, entre Irán y la península arábiga, tomada por la NASA; dominio público (obra del Gobierno federal de EE. UU.). No muestra el ataque del 17 de noviembre de 2026."
+        },
+        "slug": "adnoc-informa-de-11-heridos-y-un-desaparecido-tras-un-ataque-a-un-buque-en-ormuz-2026-11-18"
+      },
+      "firstSeen": "2026-11-18T07:00:00-03:00"
+    },
+    {
       "id": "coalizao-saudita-bombardeia-60-alvos-houthis-iemen-2026-11-18",
       "date": "2026-11-18",
       "category": "MUNDO",
