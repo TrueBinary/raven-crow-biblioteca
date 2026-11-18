@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "rubio-descarta-ameaca-iminente-bomba-suja-ira-washington-2026-11-18",
+      "date": "2026-11-18",
+      "category": "MUNDO",
+      "title": "RUBIO DIZ NÃO VER AMEAÇA IMINENTE A WASHINGTON APÓS RELATO DE PLANO IRANIANO",
+      "subtitle": "Secretário de Estado comentou em Manila denúncia sobre possível ataque com material radioativo; Irã nega acusação e inteligência não foi divulgada.",
+      "facts": "Em 18 de novembro de 2026, o secretário de Estado dos Estados Unidos, Marco Rubio, afirmou em Manila, nas Filipinas, que não considera iminente uma ameaça contra Washington. Ele respondeu a perguntas sobre reportagem da CNN, baseada em fontes de inteligência, a respeito de um suposto planejamento iraniano para atacar autoridades americanas com uma chamada 'bomba suja' ou agentes químicos. Rubio disse que o governo segue monitorando ameaças, mas não confirmou os detalhes da informação de inteligência. O presidente Donald Trump declarou em 17 de novembro que o relato estava sendo levado a sério. O Ministério das Relações Exteriores do Irã rejeitou a acusação como infundada. Não há comprovação pública de um plano operacional nem de ataque iminente.",
+      "analysis": "Uma 'bomba suja' é um dispositivo explosivo convencional que dispersa material radioativo; não equivale a uma detonação nuclear. A distinção importa porque o risco descrito seria principalmente de contaminação, interrupção de serviços e pânico, não de explosão atômica. As declarações de Rubio diferenciam a existência de informações investigadas da avaliação pública de urgência. No contexto da guerra entre Estados Unidos, Israel e Irã, iniciada em fevereiro de 2026, notícias de ameaças podem influenciar medidas de segurança e decisões diplomáticas, mas não substituem evidências verificáveis.",
+      "counterpoint": "A CNN atribuiu as alegações a fontes de inteligência não identificadas publicamente; o conteúdo integral dessas avaliações não foi apresentado. Rubio não afirmou que toda hipótese de ataque foi descartada, apenas que não vê ameaça iminente. A negativa iraniana também é uma posição oficial, não prova independente. Não é possível estabelecer a intenção ou a capacidade de execução do suposto plano com os dados públicos disponíveis.",
+      "sources": [
+        {
+          "name": "Reuters — declaração de Rubio e negativa iraniana, 18/11/2026",
+          "url": "https://www.reuters.com/world/middle-east/tehran-denies-report-potential-iranian-plan-detonate-dirty-bomb-washington-2026-11-17/"
+        },
+        {
+          "name": "The Jerusalem Post — entrevista de Rubio em Manila, 18/11/2026",
+          "url": "https://www.jpost.com/international/article-915256"
+        },
+        {
+          "name": "The Guardian — alegações e posição da Casa Branca, 17/11/2026",
+          "url": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington"
+        }
+      ],
+      "en": {
+        "title": "RUBIO SEES NO IMMINENT THREAT TO WASHINGTON AFTER REPORT OF ALLEGED IRANIAN PLOT",
+        "subtitle": "Speaking in Manila, the US secretary of state addressed claims of a possible radiological attack; Iran denies the allegations and the intelligence remains undisclosed.",
+        "facts": "On November 18, 2026, US Secretary of State Marco Rubio said in Manila, Philippines, that he did not believe Washington faced an imminent threat. He was responding to questions about a CNN report citing intelligence sources concerning alleged Iranian planning to target US officials with a radiological 'dirty bomb' or chemical agents. Rubio said US authorities continued to monitor threats but did not confirm the intelligence details. President Donald Trump said on November 17 that the report was being taken seriously. Iran's foreign ministry rejected the allegations as baseless. No operational plot or imminent attack has been publicly substantiated.",
+        "analysis": "A 'dirty bomb' uses conventional explosives to disperse radioactive material; it is not a nuclear detonation. Its potential effects involve contamination, disruption and public alarm rather than an atomic blast. Rubio's statement distinguishes intelligence being examined from a public assessment of imminence. Against the backdrop of the US-Israeli war with Iran that began in February 2026, threat reports may influence security measures and diplomacy but cannot substitute for verifiable evidence.",
+        "counterpoint": "CNN relied on intelligence sources whose identities and underlying assessments have not been made public. Rubio did not rule out every possible attack, only said he saw no imminent threat. Iran's denial is an official position, not independent proof. The alleged plot's intent and feasibility cannot be established from public information.",
+        "category": "WORLD",
+        "slug": "rubio-sees-no-imminent-threat-to-washington-after-report-of-alleged-iranian-plot-2026-11-18"
+      },
+      "es": {
+        "title": "RUBIO NO VE UNA AMENAZA INMINENTE CONTRA WASHINGTON TRAS INFORME SOBRE SUPUESTO PLAN IRANÍ",
+        "subtitle": "El secretario de Estado habló en Manila sobre un posible ataque radiológico; Irán rechaza las acusaciones y la inteligencia no se ha divulgado.",
+        "facts": "El 18 de noviembre de 2026, el secretario de Estado de Estados Unidos, Marco Rubio, afirmó en Manila, Filipinas, que no considera inminente una amenaza contra Washington. Respondió a preguntas sobre una información de CNN basada en fuentes de inteligencia acerca de supuestos planes iraníes para atacar a funcionarios estadounidenses con una 'bomba sucia' radiológica o agentes químicos. Rubio dijo que las autoridades siguen vigilando amenazas, pero no confirmó los detalles de inteligencia. El presidente Donald Trump declaró el 17 de noviembre que el informe se tomaba en serio. El Ministerio de Exteriores de Irán rechazó las acusaciones por infundadas. No se ha demostrado públicamente un plan operativo ni un ataque inminente.",
+        "analysis": "Una 'bomba sucia' emplea explosivos convencionales para dispersar material radiactivo; no es una detonación nuclear. Sus posibles consecuencias incluyen contaminación, interrupciones y alarma pública, no una explosión atómica. Las palabras de Rubio distinguen entre examinar información de inteligencia y evaluar públicamente la inminencia del peligro. En el contexto de la guerra entre Estados Unidos, Israel e Irán iniciada en febrero de 2026, los informes sobre amenazas pueden afectar a la seguridad y la diplomacia, pero no sustituyen pruebas verificables.",
+        "counterpoint": "CNN citó fuentes de inteligencia no identificadas públicamente y no divulgó las evaluaciones completas. Rubio no descartó cualquier posible ataque: dijo que no veía una amenaza inminente. La negativa iraní es una postura oficial, no una prueba independiente. La intención y viabilidad del supuesto plan no pueden establecerse con los datos públicos.",
+        "category": "MUNDO",
+        "slug": "rubio-no-ve-una-amenaza-inminente-contra-washington-tras-informe-sobre-supuesto-2026-11-18"
+      },
+      "firstSeen": "2026-11-18T13:00:00-03:00"
+    },
+    {
       "id": "adnoc-tripulante-desaparecido-11-feridos-ataque-ormuz-2026-11-18",
       "date": "2026-11-18",
       "category": "MUNDO",
