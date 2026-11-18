@@ -2,9 +2,66 @@
  "schemaVersion": 1,
  "editorial": "O Corvo Investigador",
  "edition": "12/11/2026",
- "updatedAt": "2026-11-18T02:00:00-03:00",
+ "updatedAt": "2026-11-18T03:04:22-03:00",
  "tz": "America/Sao_Paulo",
  "articles": [
+  {
+   "id": "kuwait-defesa-aerea-intercepta-drones-hostis-2026-11-18",
+   "date": "2026-11-18",
+   "category": "MUNDO",
+   "title": "KUWAIT ACIONA DEFESAS AÉREAS CONTRA DRONES HOSTIS EM NOVA ESCALADA NO GOLFO",
+   "subtitle": "Forças Armadas confirmam interceptações durante a madrugada de 18 de novembro; origem dos aparelhos e possíveis danos não foram esclarecidos no comunicado inicial.",
+   "facts": "O Estado-Maior das Forças Armadas do Kuwait informou na madrugada de quarta-feira, 18 de novembro de 2026, que seus sistemas de defesa aérea estavam reagindo a ataques de drones considerados hostis. Segundo o comunicado divulgado pela agência estatal KUNA e reproduzido por veículos regionais, ruídos de explosões poderiam decorrer das operações de interceptação. A população foi orientada a seguir as instruções de segurança. A nota inicial não identificou a origem dos drones, quantos foram lançados nem confirmou vítimas ou danos.",
+   "analysis": "O episódio ocorre em meio a uma sequência de ataques e contra-ataques na região do Golfo. No dia 17, o Irã afirmou ter lançado drones contra um radar militar americano no Bahrein; os Estados Unidos e o Bahrein disseram que os aparelhos foram interceptados. Horas depois, forças americanas atacaram uma posição de mísseis iraniana na ilha de Qeshm, próxima ao estreito de Ormuz. A novidade no Kuwait amplia o número de países que anunciaram operações defensivas no mesmo intervalo, mas não demonstra, por si só, que todos os ataques tenham partido de um único comando. Para a população, o dado imediatamente verificável é o acionamento da defesa aérea, não a confirmação de impactos no solo.",
+   "counterpoint": "A autoria dos drones que ameaçaram o Kuwait não foi identificada no primeiro comunicado militar. Relatos sobre alvos específicos, danos ou responsabilidade iraniana devem ser tratados separadamente até confirmação oficial ou apuração independente. O anúncio de uma interceptação tampouco prova que todos os aparelhos tenham sido destruídos.",
+   "sources": [
+    {
+     "name": "Agência de Notícias dos Emirados (WAM), citando KUNA — 18/11/2026",
+     "url": "https://www.wam.ae/en/article/17j582w-kuwait-air-defences-respond-hostile-drone-attacks"
+    },
+    {
+     "name": "Kuwait Times, comunicado do Estado-Maior — 18/11/2026",
+     "url": "https://kuwaittimes.com/article/53881/kuwait/kuwaiti-air-defenses-intercept-hostile-drone-attacks/"
+    },
+    {
+     "name": "Reuters — escalada no Bahrein e Kuwait, 18/11/2026",
+     "url": "https://www.reuters.com/world/middle-east/bahrain-warns-potential-threat-urges-residents-seek-safety-2026-11-17/"
+    }
+   ],
+   "photos": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Kuwait_City_Skyline_at_Night_4.jpg",
+     "slot": 1,
+     "uso_liberado": true,
+     "license": "CC BY 4.0",
+     "credit": "Zairon / Wikimedia Commons",
+     "source_article": "https://commons.wikimedia.org/wiki/File:Kuwait_City_Skyline_at_Night_4.jpg",
+     "caption": "FOTO DE ARQUIVO (3 de dezembro de 2022): vista noturna da cidade do Kuwait, fotografada por Zairon, CC BY 4.0. Não retrata as interceptações de drones de novembro de 2026."
+    }
+   ],
+   "en": {
+    "title": "KUWAIT ACTIVATES AIR DEFENCES AGAINST HOSTILE DRONES AMID FRESH GULF ESCALATION",
+    "subtitle": "Armed forces confirm interceptions early on November 18; the drones' origin and any damage remained unclear in the initial statement.",
+    "facts": "Kuwait's Armed Forces General Staff said early on Wednesday, November 18, 2026, that air defence systems were responding to hostile drone attacks. According to a statement carried by state agency KUNA and regional media, explosions heard by residents could be caused by interception operations. Authorities urged the public to follow safety instructions. The initial statement did not identify the drones' origin, their number or any casualties or damage.",
+    "analysis": "The incident comes amid renewed attacks and retaliation across the Gulf. On November 17, Iran said it launched drones at a US military radar in Bahrain; the US and Bahrain said the drones were intercepted. US forces subsequently struck an Iranian missile site on Qeshm Island near the Strait of Hormuz. Kuwait's announcement adds another country reporting defensive action in the same period, but does not establish that all incidents were directed by the same actor. What is confirmed for Kuwait is the activation of air defences, not impacts on the ground.",
+    "counterpoint": "Kuwait's initial military statement did not attribute responsibility. Claims about specific targets, damage or Iranian involvement require separate verification. Announcing an interception does not establish that every drone was destroyed.",
+    "category": "WORLD",
+    "photo_captions": {
+     "1": "FILE PHOTO (December 3, 2022): nighttime view of Kuwait City, photographed by Zairon, CC BY 4.0. Does not depict the November 2026 drone interceptions."
+    }
+   },
+   "es": {
+    "title": "KUWAIT ACTIVA SUS DEFENSAS AÉREAS ANTE DRONES HOSTILES EN UNA NUEVA ESCALADA EN EL GOLFO",
+    "subtitle": "Las Fuerzas Armadas confirman interceptaciones durante la madrugada del 18 de noviembre; el origen de los drones y los posibles daños siguen sin aclararse.",
+    "facts": "El Estado Mayor de las Fuerzas Armadas de Kuwait informó en la madrugada del miércoles 18 de noviembre de 2026 que sus defensas aéreas estaban respondiendo a ataques de drones hostiles. Según un comunicado difundido por la agencia estatal KUNA y medios regionales, las explosiones que pudieran escucharse se debían a las operaciones de interceptación. Las autoridades pidieron a la población seguir las instrucciones de seguridad. La nota inicial no identificó el origen ni la cantidad de drones, ni confirmó víctimas o daños.",
+    "analysis": "El episodio coincide con una nueva secuencia de ataques y represalias en el Golfo. El 17 de noviembre, Irán afirmó haber lanzado drones contra un radar militar estadounidense en Baréin; Estados Unidos y Baréin dijeron haberlos interceptado. Posteriormente, fuerzas estadounidenses atacaron una posición de misiles iraní en la isla de Qeshm, cerca del estrecho de Ormuz. Kuwait se suma así a los países que anunciaron acciones defensivas en el mismo período, aunque eso no demuestra que todos los incidentes tengan un mismo responsable. Lo confirmado en Kuwait es la activación de sus defensas, no impactos en tierra.",
+    "counterpoint": "El primer comunicado militar kuwaití no atribuyó la responsabilidad. Las afirmaciones sobre objetivos concretos, daños o participación iraní requieren verificación independiente. Una interceptación anunciada tampoco demuestra que todos los drones fueran destruidos.",
+    "category": "MUNDO",
+    "photo_captions": {
+     "1": "FOTO DE ARCHIVO (3 de diciembre de 2022): vista nocturna de la ciudad de Kuwait, fotografiada por Zairon, CC BY 4.0. No muestra las interceptaciones de drones de noviembre de 2026."
+    }
+   }
+  },
   {
    "id": "aneel-aprova-revisao-ceee-d-alta-conta-luz-rs-2026-11-18",
    "date": "2026-11-18",
