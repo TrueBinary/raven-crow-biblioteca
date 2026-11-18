@@ -2,9 +2,45 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-17T15:00:00-03:00",
+  "updatedAt": "2026-11-17T22:00:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "durigan-cbs-85-por-cento-reforma-tributaria-senado-2026-11-17",
+      "date": "2026-11-17",
+      "category": "ECONOMIA",
+      "title": "DURIGAN ESTIMA CBS MÉDIA DE 8,5%, MAS SENADO AINDA DISCUTE ALÍQUOTA DE 11,3%",
+      "subtitle": "Em audiência nesta terça-feira, ministro defendeu a reforma tributária de 2027; divergência entre alíquota de referência e carga média exige atenção aos regimes diferenciados.",
+      "facts": "Em 17 de novembro de 2026, na Comissão de Assuntos Econômicos do Senado, o ministro da Fazenda, Dario Durigan, estimou em 8,5% a alíquota efetiva média da Contribuição sobre Bens e Serviços (CBS). O Tribunal de Contas da União (TCU) calculou 11,3% como alíquota de referência para substituir PIS/Pasep e Cofins em 2027. O Senado tem até 15 de dezembro para fixar o percentual por resolução; na ausência de decisão, vale provisoriamente a referência do TCU. O relator Eduardo Braga pediu transparência sobre as premissas dos cálculos.",
+      "analysis": "Os números de 8,5% e 11,3% não representam necessariamente duas propostas de imposto uniforme para todos. A referência busca preservar a arrecadação, enquanto a média efetiva estimada considera setores com reduções, isenções e regimes específicos. Assim, uma alíquota-base maior pode coexistir com carga menor para determinados consumos. O ponto prático para empresas é entender créditos e débitos do novo tributo; para consumidores, o impacto dependerá da cesta de produtos e do repasse aos preços. Durigan admitiu possível pressão inflacionária inicial durante a adaptação, que espera ser temporária. Não há cálculo definitivo do efeito sobre cada família.",
+      "counterpoint": "A estimativa ministerial de 8,5% ainda não substitui decisão legislativa. O TCU sustenta os 11,3% de referência e parlamentares cobram abertura das premissas técnicas. Setores produtivos defendem adiamento por dificuldades de implementação, enquanto o governo e senadores da audiência querem manter o calendário. A inflação efetiva da transição permanece incerta.",
+      "sources": [
+        {
+          "name": "Agência Senado — audiência da CAE, 17/11/2026",
+          "url": "https://www12.senado.leg.br/noticias/materias/2026/11/17/no-senado-ministro-da-fazenda-defende-novo-tributo-sobre-o-consumo"
+        },
+        {
+          "name": "Reuters — fala de Durigan sobre inflação, 17/11/2026",
+          "url": "https://www.reuters.com/world/americas/brazils-finance-minister-says-tax-reform-will-have-inflationary-impact-first-2026-11-17/"
+        }
+      ],
+      "en": {
+        "title": "DURIGAN ESTIMATES 8.5% AVERAGE CBS TAX RATE AS SENATE DEBATES 11.3% BENCHMARK",
+        "subtitle": "At a November 17 hearing, Brazil's finance minister defended the 2027 consumption-tax reform while lawmakers questioned its calculations.",
+        "facts": "On November 17, 2026, Finance Minister Dario Durigan told the Senate Economic Affairs Committee that the effective average rate of the new Contribution on Goods and Services (CBS) could be 8.5%. Brazil's Federal Court of Accounts (TCU) calculated an 11.3% reference rate to replace PIS/Pasep and Cofins in 2027. The Senate has until December 15 to set the rate by resolution; otherwise the TCU reference applies provisionally. Rapporteur Eduardo Braga requested greater transparency about the calculations.",
+        "analysis": "The 8.5% and 11.3% figures do not necessarily describe rival uniform tax rates. The benchmark is designed to preserve revenue, while the lower estimated effective average accounts for exemptions and preferential treatment. Businesses must learn the credit-and-debit mechanism; consumer prices will depend on spending patterns and pass-through. Durigan acknowledged that the transition could temporarily raise inflation. Its impact on individual households has not been established.",
+        "counterpoint": "The minister's 8.5% estimate is not a legislative decision. The TCU supports its 11.3% benchmark, while lawmakers seek access to technical assumptions. Some businesses seek a delay, but the government favors keeping the 2027 timetable. The actual inflation effect remains uncertain.",
+        "category": "ECONOMY"
+      },
+      "es": {
+        "title": "DURIGAN ESTIMA UNA CBS MEDIA DEL 8,5%, MIENTRAS EL SENADO DEBATE EL 11,3%",
+        "subtitle": "En una audiencia del 17 de noviembre, el ministro defendió la reforma tributaria de 2027, pero persisten dudas sobre los cálculos.",
+        "facts": "El 17 de noviembre de 2026, el ministro de Hacienda, Dario Durigan, dijo ante la Comisión de Asuntos Económicos del Senado que la tasa efectiva media de la Contribución sobre Bienes y Servicios (CBS) podría ser del 8,5%. El Tribunal de Cuentas de la Unión (TCU) calculó una tasa de referencia del 11,3% para sustituir PIS/Pasep y Cofins en 2027. El Senado tiene hasta el 15 de diciembre para fijarla por resolución; de no hacerlo, se aplicará provisionalmente la referencia del TCU. El ponente Eduardo Braga pidió transparencia sobre los cálculos.",
+        "analysis": "El 8,5% y el 11,3% no son necesariamente dos tasas uniformes rivales. La referencia busca mantener la recaudación, mientras que el promedio efectivo estimado contempla exenciones y tratamientos especiales. Las empresas deberán adaptarse al sistema de créditos y débitos; el efecto en los precios dependerá del consumo y de cuánto se traslade al comprador. Durigan reconoció que la transición podría elevar temporalmente la inflación. No se ha determinado el impacto por hogar.",
+        "counterpoint": "La estimación ministerial del 8,5% no es una decisión legislativa. El TCU defiende su referencia del 11,3%, mientras legisladores piden conocer los supuestos técnicos. Parte del sector empresarial solicita un aplazamiento, pero el Gobierno quiere mantener el calendario de 2027. El efecto real sobre la inflación sigue siendo incierto.",
+        "category": "ECONOMÍA"
+      }
+    },
     {
       "id": "eua-perdem-status-eliminacao-sarampo-opas-2026-11-17",
       "date": "2026-11-17",
