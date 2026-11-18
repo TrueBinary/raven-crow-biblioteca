@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "israel-operacao-terrestre-centro-gaza-linha-amarela-2026-11-18",
+      "date": "2026-11-18",
+      "category": "MUNDO",
+      "title": "ISRAEL AVANÇA ALÉM DA LINHA AMARELA EM OPERAÇÃO TERRESTRE NO CENTRO DE GAZA",
+      "subtitle": "Incursão perto de Nuseirat e Al-Bureij provoca deslocamentos; Exército israelense alega ameaça do Hamas, que denuncia violação da trégua.",
+      "facts": "Em 18 de novembro de 2026, forças israelenses iniciaram uma operação terrestre no centro da Faixa de Gaza, a oeste da chamada Linha Amarela, delimitada após o cessar-fogo de outubro de 2025. Segundo relatos de moradores à Reuters, tanques avançaram pela estrada Salah al-Din e famílias deixaram abrigos nas proximidades de Nuseirat e Al-Bureij. O Exército de Israel confirmou uma operação contra o que descreveu como infraestrutura do Hamas e alegou necessidade de eliminar ameaça às suas tropas. Profissionais de saúde palestinos relataram três mortes em ataques israelenses em Gaza nesta quarta-feira, incluindo uma nas proximidades da operação; a atribuição e as circunstâncias individuais não foram verificadas de maneira independente.",
+      "analysis": "A relevância do avanço está na localização: a Linha Amarela separa áreas de controle militar desde a trégua de 2025, e a movimentação terrestre para além dela pode ampliar restrições de circulação e a insegurança de famílias já deslocadas. O fechamento ou bloqueio de trechos da estrada Salah al-Din afeta uma via central para deslocamentos e assistência. A incursão não equivale, por si só, ao fim formal do cessar-fogo, mas mostra a fragilidade da separação territorial prevista no acordo. Para acompanhar seus efeitos, importam a duração da operação, o eventual retorno das tropas à linha anterior e a circulação humanitária.",
+      "counterpoint": "Israel afirma agir diante de ameaças e violações atribuídas ao Hamas; o Hamas acusa Israel de romper o cessar-fogo e provocar deslocamento forçado. As versões são conflitantes, e não há confirmação independente nesta apuração de todos os alvos militares alegados, nem balanço final de vítimas da incursão. A notícia não deve ser interpretada como comprovação de que toda a trégua foi oficialmente revogada.",
+      "sources": [
+        {
+          "name": "Reuters, 18 de novembro de 2026",
+          "url": "https://www.reuters.com/world/middle-east/israeli-military-begins-new-thrust-gaza-kills-three-people-2026-11-18/"
+        },
+        {
+          "name": "Deutsche Welle / AFP, 18 de novembro de 2026",
+          "url": "https://amp.dw.com/en/israel-launches-new-ground-operation-in-gaza/a-79984958"
+        },
+        {
+          "name": "Euronews / AFP, 18 de novembro de 2026",
+          "url": "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire"
+        }
+      ],
+      "en": {
+        "title": "Israel advances beyond Yellow Line in central Gaza ground operation",
+        "subtitle": "Incursion near Nuseirat and Al-Bureij displaces families as Israel cites a Hamas threat and Hamas alleges a truce violation.",
+        "facts": "On November 18, 2026, Israeli forces launched a ground operation in central Gaza west of the Yellow Line established after the October 2025 ceasefire. Residents told Reuters that tanks moved along Salah al-Din road and families fled shelters near Nuseirat and Al-Bureij. Israel's military confirmed an operation against what it described as Hamas infrastructure and said it was addressing a threat to its troops. Palestinian medics reported three deaths in Israeli strikes across Gaza on Wednesday, including one near the ground operation; individual circumstances could not be independently established.",
+        "analysis": "The advance matters because the Yellow Line has separated military-controlled areas since the 2025 truce. Crossing it may further restrict movement and increase risks for already displaced families. Disruptions to Salah al-Din road affect a major transport and aid corridor. The raid does not itself establish that the ceasefire has formally ended, but highlights its fragility. Key indicators are how long troops remain, whether they return to previous positions and whether humanitarian access is restored.",
+        "counterpoint": "Israel says it is responding to threats and Hamas violations; Hamas accuses Israel of violating the truce and forcibly displacing civilians. These accounts conflict. The precise military targets and final casualty toll have not been independently verified, and the operation should not be described as formal termination of the ceasefire.",
+        "category": "WORLD",
+        "slug": "israel-advances-beyond-yellow-line-in-central-gaza-ground-operation-2026-11-18"
+      },
+      "es": {
+        "title": "Israel avanza más allá de la Línea Amarilla en una operación terrestre en el centro de Gaza",
+        "subtitle": "La incursión cerca de Nuseirat y Al-Bureij desplaza a familias; Israel alega una amenaza de Hamás y Hamás denuncia una violación de la tregua.",
+        "facts": "El 18 de noviembre de 2026, fuerzas israelíes iniciaron una operación terrestre en el centro de Gaza, al oeste de la Línea Amarilla establecida tras el alto el fuego de octubre de 2025. Vecinos dijeron a Reuters que tanques avanzaron por la carretera Salah al-Din y que familias abandonaron refugios cerca de Nuseirat y Al-Bureij. El Ejército israelí confirmó una operación contra lo que calificó de infraestructura de Hamás y alegó una amenaza para sus tropas. Personal sanitario palestino informó de tres muertos en ataques israelíes en Gaza el miércoles, uno de ellos cerca de la operación; las circunstancias individuales no pudieron verificarse de forma independiente.",
+        "analysis": "El avance importa por su ubicación: la Línea Amarilla separa zonas de control militar desde la tregua de 2025. Cruzarla puede restringir aún más la movilidad y aumentar el riesgo para familias ya desplazadas. Las interrupciones en Salah al-Din afectan una vía esencial para transporte y ayuda. La incursión no demuestra por sí sola el fin formal del alto el fuego, pero evidencia su fragilidad. Será importante observar cuánto dura, si las tropas regresan a sus posiciones y si se restablece el acceso humanitario.",
+        "counterpoint": "Israel sostiene que responde a amenazas y violaciones de Hamás; Hamás acusa a Israel de incumplir la tregua y desplazar civiles por la fuerza. Las versiones son contradictorias. No se han verificado independientemente todos los objetivos militares alegados ni el balance definitivo de víctimas, y la operación no equivale a una revocación formal del alto el fuego.",
+        "category": "MUNDO",
+        "slug": "israel-avanza-mas-alla-de-la-linea-amarilla-en-una-operacion-terrestre-en-el-2026-11-18"
+      },
+      "firstSeen": "2026-11-18T19:04:00-03:00"
+    },
+    {
       "id": "cbf-preve-perda-pontos-atraso-salarial-serie-a-2028-2026-11-18",
       "date": "2026-11-18",
       "category": "ESPORTE",
