@@ -2,9 +2,66 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-17T22:00:00-03:00",
+  "updatedAt": "2026-11-17T22:56:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "eua-atacam-base-misseis-ira-ilha-qeshm-2026-11-17",
+      "date": "2026-11-17",
+      "category": "MUNDO",
+      "title": "EUA ATACAM POSIÇÃO DE MÍSSEIS DO IRÃ NA ILHA DE QESHM APÓS DRONES NO BAREIN",
+      "subtitle": "Militares americanos confirmam ataque aéreo contra instalação da Guarda Revolucionária; alcance dos danos ainda não foi verificado de forma independente.",
+      "facts": "Em 17 de novembro de 2026, caças dos Estados Unidos atingiram uma instalação de lançamento de mísseis da Guarda Revolucionária Islâmica iraniana (IRGC) na ilha de Qeshm, próxima ao estreito de Ormuz. Uma autoridade militar americana afirmou que a ação usou munições de precisão e foi uma resposta a ataques iranianos contra pessoal e instalações dos EUA. Horas antes, drones iranianos haviam sido lançados contra uma instalação de radar americana no Barein. As autoridades do Barein e dos Estados Unidos disseram que a defesa aérea interceptou o ataque, sem vítimas ou danos relatados. A extensão dos danos na instalação iraniana não foi comprovada independentemente.",
+      "analysis": "O episódio acrescenta uma resposta militar americana direta ao ciclo de ataques contra bases no Golfo Pérsico. Qeshm fica junto ao estreito de Ormuz, corredor marítimo estratégico para petróleo e gás; por isso, confrontos na região elevam riscos de segurança e de interrupção de transporte, mesmo quando os danos militares imediatos são limitados. A distinção central é entre a confirmação de que aeronaves atacaram um alvo e a avaliação, ainda não demonstrada, de que sua capacidade operacional foi neutralizada. A escalada ocorre enquanto intermediários regionais tentam preservar canais diplomáticos.",
+      "counterpoint": "A justificativa de legítima defesa foi apresentada por autoridade militar dos EUA; não constitui avaliação jurídica independente. Autoridades iranianas afirmaram que não houve danos a áreas civis e infraestrutura essencial, mas faltam verificações externas do impacto total. Não há evidência suficiente para afirmar que o ataque encerrou a ameaça de novos lançamentos ou alterou decisivamente as negociações.",
+      "sources": [
+        {
+          "name": "Reuters — ataque americano a Qeshm, 17/11/2026",
+          "url": "https://www.reuters.com/world/middle-east/us-strikes-iranian-missile-launch-site-qeshm-island-us-official-says-2026-11-17/"
+        },
+        {
+          "name": "Associated Press — troca de ataques no Barein e Irã, 17/11/2026",
+          "url": "https://apnews.com/article/582e0b5d51be06f0ed630fac24f39b72"
+        },
+        {
+          "name": "Air & Space Forces Magazine — confirmação de autoridade militar, 17/11/2026",
+          "url": "https://www.airandspaceforces.com/us-fighters-strike-iranian-missile-site/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Qeshm_island.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público — obra do governo federal dos EUA (NASA)",
+          "credit": "NASA / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Qeshm_island.jpg",
+          "caption": "FOTO DE ARQUIVO (março de 1996): imagem orbital da ilha de Qeshm, Irã, produzida pela NASA, domínio público. Não retrata o ataque de 17 de novembro de 2026."
+        }
+      ],
+      "en": {
+        "title": "US STRIKES IRANIAN MISSILE SITE ON QESHM ISLAND AFTER BAHRAIN DRONE ATTACK",
+        "subtitle": "US military officials confirm an airstrike on a Revolutionary Guard launch facility; the extent of damage remains independently unverified.",
+        "facts": "On November 17, 2026, US fighter aircraft struck an Iranian Islamic Revolutionary Guard Corps (IRGC) missile-launch facility on Qeshm Island near the Strait of Hormuz. A US military official described the use of precision munitions as a response to attacks against American personnel and assets. Earlier, Iranian drones had targeted a US radar facility in Bahrain. Bahraini and US authorities said air defenses intercepted the drones with no reported casualties or damage. The extent of damage at the Iranian site has not been independently verified.",
+        "analysis": "The strike adds direct US retaliation to a cycle of attacks on military facilities in the Persian Gulf. Qeshm sits near the Strait of Hormuz, a critical route for oil and gas shipping, so renewed hostilities can heighten maritime risks even if immediate military damage is limited. Confirmation that aircraft hit a site is not proof that its operational capacity was destroyed. Regional mediators are still seeking diplomatic channels.",
+        "counterpoint": "The self-defense rationale comes from a US military official, not an independent legal assessment. Iranian officials reported no damage to civilian areas or essential infrastructure, but the full effects remain unverified. There is no basis yet to conclude that the strike eliminated future launch capabilities or decisively changed negotiations.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (March 1996): orbital image of Qeshm Island, Iran, made by NASA, public domain. It does not depict the November 17, 2026 strike."
+        }
+      },
+      "es": {
+        "title": "EE. UU. ATACA UNA INSTALACIÓN DE MISILES IRANÍ EN QESHM TRAS DRONES EN BARÉIN",
+        "subtitle": "Autoridades militares estadounidenses confirman el ataque; todavía no existe una evaluación independiente de los daños.",
+        "facts": "El 17 de noviembre de 2026, aviones de combate de Estados Unidos atacaron una instalación de lanzamiento de misiles del Cuerpo de la Guardia Revolucionaria Islámica (IRGC) en la isla iraní de Qeshm, cerca del estrecho de Ormuz. Un funcionario militar estadounidense afirmó que se utilizaron municiones de precisión como respuesta a ataques contra personal e instalaciones de EE. UU. Horas antes, drones iraníes habían apuntado a un radar estadounidense en Baréin. Las autoridades de Baréin y Estados Unidos dijeron que las defensas interceptaron los drones, sin víctimas ni daños reportados. El alcance de los daños en Irán no se ha verificado de manera independiente.",
+        "analysis": "El ataque añade una represalia militar directa de Estados Unidos al ciclo de enfrentamientos en el golfo Pérsico. Qeshm se encuentra junto al estrecho de Ormuz, ruta crucial para el transporte de petróleo y gas; por ello, los combates aumentan el riesgo marítimo incluso si los daños militares inmediatos son limitados. Confirmar un ataque no equivale a demostrar que se destruyó la capacidad operativa del objetivo. Los mediadores regionales siguen buscando vías diplomáticas.",
+        "counterpoint": "La justificación de defensa propia procede de un funcionario militar estadounidense y no constituye una evaluación jurídica independiente. Funcionarios iraníes dijeron que no hubo daños a zonas civiles ni infraestructura esencial, pero falta una verificación externa completa. Tampoco hay pruebas de que el ataque haya eliminado la posibilidad de nuevos lanzamientos o cambiado decisivamente las negociaciones.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (marzo de 1996): imagen orbital de la isla de Qeshm, Irán, realizada por la NASA, dominio público. No muestra el ataque del 17 de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "durigan-cbs-85-por-cento-reforma-tributaria-senado-2026-11-17",
       "date": "2026-11-17",
