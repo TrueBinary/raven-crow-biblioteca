@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "durigan-anuncia-novas-medidas-fiscais-apos-pacote-senado-2026-11-18": "editorial/covers/durigan-anuncia-novas-medidas-fiscais-apos-pacote-senado-2026-11-18.svg",
     "rubio-descarta-ameaca-iminente-bomba-suja-ira-washington-2026-11-18": "editorial/covers/rubio-descarta-ameaca-iminente-bomba-suja-ira-washington-2026-11-18.svg",
     "adnoc-tripulante-desaparecido-11-feridos-ataque-ormuz-2026-11-18": "editorial/covers/adnoc-tripulante-desaparecido-11-feridos-ataque-ormuz-2026-11-18.svg",
     "coalizao-saudita-bombardeia-60-alvos-houthis-iemen-2026-11-18": "editorial/covers/coalizao-saudita-bombardeia-60-alvos-houthis-iemen-2026-11-18.svg",
@@ -414,7 +415,8 @@
     "cooabriel-audiencia-trabalho-escravo-cafe-2026-11-16": "editorial/photos/cooabriel-audiencia-trabalho-escravo-cafe-2026-11-16.jpg",
     "coreia-do-sul-primeiro-colocado-exame-confessa-cola-ia-2026-11-15": "editorial/photos/coreia-do-sul-primeiro-colocado-exame-confessa-cola-ia-2026-11-15.jpg",
     "tre-ce-maioria-ciro-gomes-condenacao-2026-11-16": "editorial/photos/tre-ce-maioria-ciro-gomes-condenacao-2026-11-16.jpg",
-    "o-segredo-e-publico-mas-a-chave-ficou-no-gabinete-2026-11-18": "editorial/photos/o-segredo-e-publico-mas-a-chave-ficou-no-gabinete-2026-11-18.jpg"
+    "o-segredo-e-publico-mas-a-chave-ficou-no-gabinete-2026-11-18": "editorial/photos/o-segredo-e-publico-mas-a-chave-ficou-no-gabinete-2026-11-18.jpg",
+    "enem-2026-segundo-dia-abstencao-36-reaplicacao-2026-11-15": "editorial/photos/enem-2026-segundo-dia-abstencao-36-reaplicacao-2026-11-15.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -1592,6 +1594,12 @@
       "srcset": "editorial/photos/o-segredo-e-publico-mas-a-chave-ficou-no-gabinete-2026-11-18-320.webp 320w, editorial/photos/o-segredo-e-publico-mas-a-chave-ficou-no-gabinete-2026-11-18-640.webp 640w, editorial/photos/o-segredo-e-publico-mas-a-chave-ficou-no-gabinete-2026-11-18-960.webp 960w, editorial/photos/o-segredo-e-publico-mas-a-chave-ficou-no-gabinete-2026-11-18-1156.webp 1156w",
       "width": 1156,
       "height": 768
+    },
+    "enem-2026-segundo-dia-abstencao-36-reaplicacao-2026-11-15": {
+      "src": "editorial/photos/enem-2026-segundo-dia-abstencao-36-reaplicacao-2026-11-15-1280.webp",
+      "srcset": "editorial/photos/enem-2026-segundo-dia-abstencao-36-reaplicacao-2026-11-15-320.webp 320w, editorial/photos/enem-2026-segundo-dia-abstencao-36-reaplicacao-2026-11-15-640.webp 640w, editorial/photos/enem-2026-segundo-dia-abstencao-36-reaplicacao-2026-11-15-960.webp 960w, editorial/photos/enem-2026-segundo-dia-abstencao-36-reaplicacao-2026-11-15-1280.webp 1280w",
+      "width": 1280,
+      "height": 913
     }
   }
 }
