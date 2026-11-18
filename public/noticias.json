@@ -2,9 +2,62 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-17T22:56:00-03:00",
+  "updatedAt": "2026-11-18T00:01:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "senado-adia-destaques-ajuste-fiscal-para-18-novembro-2026",
+      "date": "2026-11-18",
+      "category": "POLÍTICA",
+      "title": "SENADO ADIA PARA QUARTA VOTAÇÃO FINAL DO AJUSTE FISCAL APÓS IMPASSE EM QUATRO DESTAQUES",
+      "subtitle": "Texto-base já passou por 45 votos a 31, mas alterações pendentes impedem envio do PLP 299/2026 à Câmara.",
+      "facts": "Na terça-feira, 17 de novembro de 2026, o presidente do Senado, Davi Alcolumbre (União-AP), adiou para quarta-feira (18) a análise dos quatro destaques pendentes do Projeto de Lei Complementar (PLP) 299/2026. O relator Eduardo Braga (MDB-AM) pediu mais tempo para negociar com as bancadas. O texto-base foi aprovado em 12 de novembro por 45 votos a 31. Entre os pontos em disputa estão repasses previstos na Lei Kandir e o limite anual de R$ 3 bilhões para compensação previdenciária federal. A votação não foi concluída e o projeto ainda não seguiu à Câmara dos Deputados.",
+      "analysis": "O adiamento não revoga a aprovação do texto-base: significa que o Senado ainda precisa decidir sobre alterações específicas antes de concluir sua etapa. O governo estima que as medidas possam melhorar o resultado primário de 2027 em até R$ 56 bilhões. Resultado primário é a diferença entre receitas e despesas antes dos juros da dívida. Esse valor é uma projeção do Executivo, não uma economia já realizada. O projeto também pretende restringir, em certas condições, o crescimento real de despesas e ampliar mecanismos de bloqueio de gastos. A decisão sobre os destaques pode alterar o alcance dessas regras e os efeitos sobre estados e municípios.",
+      "counterpoint": "O adiamento reflete falta de acordo entre governo e oposição, não rejeição definitiva do ajuste. Os destaques ainda podem modificar dispositivos e o texto depende de tramitação na Câmara. O impacto fiscal efetivo dependerá da versão aprovada e da execução orçamentária; a estimativa de R$ 56 bilhões não é resultado garantido.",
+      "sources": [
+        {
+          "name": "Agência Senado — adiamento, 17/11/2026",
+          "url": "https://www12.senado.leg.br/noticias/materias/2026/11/17/votacao-de-destaques-ao-ajuste-fiscal-e-remarcada-na-quarta-feira"
+        },
+        {
+          "name": "Agência Brasil — adiamento, 17/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-adia-votacao-de-destaques-do-projeto-de-ajuste-fiscal"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Plen%C3%A1rio_do_Senado_-_55209181192.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0",
+          "credit": "Carlos Moura/Agência Senado",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Plen%C3%A1rio_do_Senado_-_55209181192.jpg",
+          "caption": "FOTO DE ARQUIVO (15/04/2026): sessão no plenário do Senado Federal, Brasília. Carlos Moura/Agência Senado, CC BY-SA 4.0. Não retrata a sessão de 17/11/2026."
+        }
+      ],
+      "en": {
+        "title": "BRAZIL'S SENATE DELAYS FINAL FISCAL-PACKAGE VOTE UNTIL WEDNESDAY AMID DISPUTE OVER FOUR AMENDMENTS",
+        "subtitle": "The main bill has passed, but unresolved amendments prevent it from moving to the lower house.",
+        "facts": "On November 17, 2026, Senate President Davi Alcolumbre postponed consideration of four outstanding amendments to Complementary Bill 299/2026 until Wednesday, November 18. Rapporteur Eduardo Braga sought more time for negotiations. The Senate approved the core text on November 12 by 45 votes to 31. Disputed provisions include transfers to states and municipalities under the Kandir Law and a R$3 billion annual ceiling on federal pension compensation. The Senate has not completed its vote, so the bill has not yet moved to the Chamber of Deputies.",
+        "analysis": "Postponement does not overturn approval of the core text. Senators must settle the remaining provisions before sending the bill to the lower house. The government estimates the measures could improve the 2027 primary fiscal balance by up to R$56 billion. The primary balance excludes interest payments on public debt. This is a forecast, not realized savings. The proposal also changes spending-growth limits and tools for freezing expenditures under certain conditions. Amendments may affect the final rules and transfers to subnational governments.",
+        "counterpoint": "The delay reflects unresolved negotiations, not a final defeat. The Chamber of Deputies must still consider the legislation. Actual savings will depend on the enacted text and budget implementation.",
+        "category": "POLITICS",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (April 15, 2026): Brazilian Senate plenary in Brasília. Carlos Moura/Agência Senado, CC BY-SA 4.0. Does not depict the November 17, 2026 session."
+        }
+      },
+      "es": {
+        "title": "EL SENADO BRASILEÑO APLAZA HASTA EL MIÉRCOLES LA VOTACIÓN FINAL DEL AJUSTE FISCAL",
+        "subtitle": "El texto principal ya fue aprobado, pero cuatro puntos pendientes impiden su envío a la Cámara de Diputados.",
+        "facts": "El 17 de noviembre de 2026, el presidente del Senado, Davi Alcolumbre, aplazó hasta el miércoles 18 el examen de cuatro puntos pendientes del Proyecto de Ley Complementaria 299/2026. El ponente Eduardo Braga solicitó más tiempo para negociar. El texto principal fue aprobado el 12 de noviembre por 45 votos contra 31. Entre los puntos controvertidos figuran las transferencias a estados y municipios previstas en la Ley Kandir y el límite anual de R$ 3.000 millones para compensaciones previsionales federales. La votación no concluyó y el proyecto todavía no pasó a la Cámara de Diputados.",
+        "analysis": "El aplazamiento no anula la aprobación del texto principal. El Senado debe resolver las modificaciones antes de enviar la propuesta a la Cámara. El Gobierno estima una mejora de hasta R$ 56.000 millones en el resultado primario de 2027, es decir, el saldo entre ingresos y gastos sin contar intereses de la deuda. Se trata de una proyección, no de un ahorro realizado. La propuesta también modifica los límites de crecimiento del gasto y los mecanismos de bloqueo presupuestario. Los cambios pendientes pueden alterar su alcance.",
+        "counterpoint": "La postergación refleja falta de acuerdo, no un rechazo definitivo. La Cámara todavía deberá examinar el proyecto. El efecto fiscal dependerá del texto definitivo y de su ejecución.",
+        "category": "POLÍTICA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (15 de abril de 2026): pleno del Senado brasileño en Brasilia. Carlos Moura/Agência Senado, CC BY-SA 4.0. No corresponde a la sesión del 17 de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "eua-atacam-base-misseis-ira-ilha-qeshm-2026-11-17",
       "date": "2026-11-17",
