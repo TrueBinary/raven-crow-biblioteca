@@ -2,9 +2,53 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-18T00:01:00-03:00",
+  "updatedAt": "2026-11-18T01:00:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "awa-isolados-aproximacao-arariboia-funai-2026-11-18",
+      "date": "2026-11-18",
+      "category": "BRASIL",
+      "title": "FUNAI MONITORA APROXIMAÇÃO DE INDÍGENAS AWÁ ISOLADOS A ALDEIA NO MARANHÃO",
+      "subtitle": "Grupo de aproximadamente 20 pessoas foi avistado na Terra Indígena Arariboia; órgãos federais acionaram medidas de proteção e prevenção sanitária.",
+      "facts": "A Fundação Nacional dos Povos Indígenas (Funai) confirmou em nota publicada em 17 de novembro de 2026 uma sequência de avistamentos e aproximações de indígenas Awá em isolamento iniciada na manhã de segunda-feira (16), nas proximidades de um posto de controle da Funai e da aldeia Guajajara de Tawari, na Terra Indígena Arariboia, no Maranhão. Lideranças indígenas e a organização Survival International relataram que cerca de 20 pessoas receberam inhame e retornaram à floresta. A Funai, o Ministério dos Povos Indígenas e a Secretaria de Saúde Indígena acompanham o episódio. A causa da aproximação e o estado de saúde individual dos envolvidos não foram estabelecidos oficialmente.",
+      "analysis": "A Funai mantém o grupo Awá no Registro nº 41 de povos isolados e já havia mobilizado uma sala de situação em 2025 diante de incêndios e riscos de aproximação. A Terra Indígena Arariboia tem cerca de 413 mil hectares e enfrenta pressão de extração ilegal de madeira e ocupações irregulares, segundo informações oficiais de 2025. A novidade não significa abandono definitivo do isolamento: a política federal é de não contato, com monitoramento, proteção territorial e prevenção de doenças. O risco imediato é que encontros não planejados exponham populações isoladas a agentes infecciosos e comprometam sua autonomia.",
+      "counterpoint": "Lideranças e organizações de defesa dos indígenas associam a aproximação à pressão de invasores e à possível escassez de alimentos. Essa hipótese exige investigação: a Funai classificou as informações como preliminares e não confirmou uma causa única. A Reuters também informou não ter conseguido verificar independentemente a data e o local exatos das imagens divulgadas. Por respeito à segurança dos indígenas, esta reportagem não reproduz as imagens sensíveis do encontro.",
+      "sources": [
+        {
+          "name": "Funai — nota oficial, 17/11/2026",
+          "url": "https://www.gov.br/funai/pt-br/assuntos/noticias/2026/interacao-de-indigenas-awa-em-isolamento-na-terra-indigena-arariboia-ma"
+        },
+        {
+          "name": "COAPIMA — relato indígena, 17/11/2026",
+          "url": "https://coapima.org.br/awa-guaja-em-isolamento-se-aproximam-de-aldeia-guajajara-na-terra-indigena-arariboia-e-acendem-alerta-sobre-ameacas-a-sobrevivencia-do-povo/"
+        },
+        {
+          "name": "Reuters — imagens e riscos, 17/11/2026",
+          "url": "https://www.reuters.com/world/americas/rare-images-isolated-indigenous-group-brazil-highlight-threats-2026-11-17/"
+        },
+        {
+          "name": "Funai — proteção territorial, 10/02/2025",
+          "url": "https://www.gov.br/funai/pt-br/assuntos/noticias/2025/governo-federal-promove-retirada-de-invasores-da-terra-indigena-arariboia-no-maranhao"
+        }
+      ],
+      "en": {
+        "title": "BRAZIL'S FUNAI MONITORS RARE APPROACH BY ISOLATED AWÁ PEOPLE IN MARANHÃO",
+        "subtitle": "Around 20 people were reported near a Guajajara village; authorities are taking protective and health precautions.",
+        "facts": "Brazil's National Indigenous Peoples Foundation (Funai) confirmed on November 17, 2026, that sightings and approaches by isolated Awá people began on November 16 near a Funai checkpoint and the Guajajara village of Tawari in Maranhão's Arariboia Indigenous Territory. Indigenous leaders and Survival International said approximately 20 people received yams before returning to the forest. Funai, the Ministry of Indigenous Peoples and the Indigenous Health Secretariat are monitoring the situation. The reason for the approach and individual health conditions remain unconfirmed.",
+        "analysis": "Funai tracks the isolated Awá group under official record No. 41 and had already mobilized a response team in 2025 amid wildfires and contact risks. Arariboia covers approximately 413,000 hectares and faces illegal logging and land encroachment. A brief approach does not mean permanent contact: Brazil's policy remains non-contact, prioritizing territorial protection, disease prevention and self-determination.",
+        "counterpoint": "Indigenous advocates suggest encroachment and food shortages may have contributed, but the cause has not been established. Funai says information is preliminary, and Reuters could not independently verify the footage's precise date and location. This report does not reproduce sensitive footage of the encounter.",
+        "category": "BRAZIL"
+      },
+      "es": {
+        "title": "FUNAI VIGILA EL ACERCAMIENTO DE INDÍGENAS AWÁ AISLADOS A UNA ALDEA EN MARANHÃO",
+        "subtitle": "Un grupo de unas 20 personas fue avistado cerca de una comunidad Guajajara; las autoridades adoptaron medidas de protección sanitaria.",
+        "facts": "La Fundación Nacional de los Pueblos Indígenas de Brasil (Funai) confirmó el 17 de noviembre de 2026 que desde el día 16 se registraron avistamientos y acercamientos de indígenas Awá en aislamiento cerca de un puesto de control y de la aldea Guajajara de Tawari, en la Tierra Indígena Arariboia, Maranhão. Líderes indígenas y Survival International relataron que unas 20 personas recibieron ñame y regresaron al bosque. Funai, el Ministerio de los Pueblos Indígenas y la Secretaría de Salud Indígena siguen el caso. No se han confirmado las causas ni el estado de salud individual del grupo.",
+        "analysis": "Funai monitorea a los Awá aislados bajo el registro oficial nº 41 y ya había activado medidas preventivas en 2025 por incendios y riesgos de contacto. Arariboia abarca unos 413.000 hectáreas y sufre presiones de tala ilegal y ocupación irregular. El acercamiento no implica el fin definitivo del aislamiento: la política brasileña mantiene el principio de no contacto, la protección territorial y la prevención de enfermedades.",
+        "counterpoint": "Organizaciones indígenas señalan la presión de invasores y una posible escasez de alimentos como hipótesis, no como causas demostradas. Funai considera preliminar la información y Reuters no pudo verificar de forma independiente la fecha y el lugar exactos de las imágenes. Esta nota no reproduce las imágenes sensibles del encuentro.",
+        "category": "BRASIL"
+      }
+    },
     {
       "id": "senado-adia-destaques-ajuste-fiscal-para-18-novembro-2026",
       "date": "2026-11-18",
