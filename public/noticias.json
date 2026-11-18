@@ -2,9 +2,62 @@
  "schemaVersion": 1,
  "editorial": "O Corvo Investigador",
  "edition": "12/11/2026",
- "updatedAt": "2026-11-18T03:04:22-03:00",
+ "updatedAt": "2026-11-18T06:00:00-03:00",
  "tz": "America/Sao_Paulo",
  "articles": [
+  {
+   "id": "coalizao-saudita-bombardeia-60-alvos-houthis-iemen-2026-11-18",
+   "date": "2026-11-18",
+   "category": "MUNDO",
+   "title": "COALIZÃO LIDERADA PELA ARÁBIA SAUDITA DIZ TER ATINGIDO 60 ALVOS HOUTHIS NO IÊMEN",
+   "subtitle": "Ofensiva de 17 de novembro amplia confrontos perto do mar Vermelho; autoridades houthis relatam ao menos 17 mortos, número ainda sem verificação independente.",
+   "facts": "Na terça-feira, 17 de novembro de 2026, a coalizão liderada pela Arábia Saudita anunciou ataques aéreos contra áreas sob controle dos houthis no Iêmen e afirmou ter destruído 60 alvos militares, incluindo instalações ligadas a mísseis e drones. Autoridades ligadas aos houthis relataram pelo menos 17 mortos e feridos em ataques que teriam atingido uma fábrica de esponjas, uma fábrica de calçados e locais na região de Saada. A Associated Press divulgou os relatos das partes. Até a publicação, não havia confirmação independente da quantidade de alvos destruídos, da natureza de cada instalação atingida nem do balanço de vítimas.",
+   "analysis": "A ofensiva ocorre após o recuo de forças apoiadas pela Arábia Saudita nas proximidades do estreito de Bab el-Mandeb, passagem estratégica entre o mar Vermelho e o golfo de Áden. A região é essencial para navios que usam a rota do canal de Suez. A coalizão também afirmou ter interceptado um míssil de cruzeiro houthi direcionado a Riad. O ponto central não é apenas o número de bombardeios: a combinação de ataques terrestres e ameaças às rotas marítimas amplia os riscos para civis iemenitas e para o transporte internacional. O anúncio de 60 alvos é uma alegação militar da coalizão, não uma contagem auditada.",
+   "counterpoint": "Os houthis descrevem impactos em instalações civis e reportam mortes, enquanto a coalizão caracteriza a operação como ataque a alvos militares. Nenhuma dessas versões, isoladamente, permite determinar a legalidade de cada ataque ou confirmar o número de vítimas. A apuração independente e o acesso aos locais atingidos são fundamentais para esclarecer os danos.",
+   "sources": [
+    {
+     "name": "Associated Press — cobertura da ofensiva e das alegações das partes, 17–18/11/2026",
+     "url": "https://apnews.com/article/b71b1d25f3cff987b4b125196ecb4c3a"
+    },
+    {
+     "name": "Saudi Press Agency — posicionamento anterior da coalizão sobre operações contra houthis, 26/10/2026",
+     "url": "https://spa.gov.sa/en/N2710316"
+    }
+   ],
+   "photos": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Sa%27dah_01.jpg",
+     "slot": 1,
+     "uso_liberado": true,
+     "license": "CC BY-SA 3.0",
+     "credit": "Bernard Gagnon / Wikimedia Commons",
+     "source_article": "https://commons.wikimedia.org/wiki/File:Sa%27dah_01.jpg",
+     "caption": "FOTO DE ARQUIVO (15 de agosto de 1986): vista da cidade de Saada, no Iêmen, fotografada por Bernard Gagnon, CC BY-SA 3.0. Não retrata os bombardeios de novembro de 2026."
+    }
+   ],
+   "en": {
+    "title": "SAUDI-LED COALITION SAYS IT STRUCK 60 HOUTHI TARGETS IN YEMEN",
+    "subtitle": "The November 17 offensive escalates fighting near the Red Sea; Houthi officials report at least 17 deaths, a toll not independently verified.",
+    "facts": "On Tuesday, November 17, 2026, the Saudi-led coalition announced airstrikes in Houthi-controlled parts of Yemen, claiming it destroyed 60 military targets, including missile- and drone-related facilities. Houthi officials reported at least 17 deaths and additional injuries, saying strikes hit a sponge factory, a shoe factory and sites in the Saada area. The Associated Press reported the competing accounts. Neither the number of destroyed targets, the status of individual facilities nor the casualty figures had been independently confirmed.",
+    "analysis": "The offensive follows a withdrawal of Saudi-backed forces near the Bab el-Mandeb Strait, the strategic passage connecting the Red Sea and the Gulf of Aden. This corridor is vital to shipping using the Suez Canal. The coalition also said it intercepted a Houthi cruise missile aimed at Riyadh. Beyond the reported target count, the combination of fighting and threats to maritime routes raises risks for Yemeni civilians and international shipping. The 60-target figure remains a coalition claim, not an independently audited tally.",
+    "counterpoint": "Houthi authorities report strikes on civilian facilities and fatalities, while the coalition describes military targets. Neither account alone establishes the legality of each strike or confirms the casualties. Independent access to affected sites remains crucial.",
+    "category": "WORLD",
+    "photo_captions": {
+     "1": "FILE PHOTO (August 15, 1986): Saada, Yemen, photographed by Bernard Gagnon, CC BY-SA 3.0. Does not show the November 2026 airstrikes."
+    }
+   },
+   "es": {
+    "title": "COALICIÓN LIDERADA POR ARABIA SAUDITA AFIRMA HABER ATACADO 60 OBJETIVOS HUTÍES EN YEMEN",
+    "subtitle": "La ofensiva del 17 de noviembre intensifica los combates cerca del mar Rojo; autoridades hutíes denuncian al menos 17 muertos, cifra aún no verificada de forma independiente.",
+    "facts": "El martes 17 de noviembre de 2026, la coalición liderada por Arabia Saudita anunció bombardeos en zonas de Yemen controladas por los hutíes y aseguró haber destruido 60 objetivos militares, incluidas instalaciones vinculadas a misiles y drones. Autoridades hutíes denunciaron al menos 17 muertos y otros heridos, y afirmaron que los ataques alcanzaron una fábrica de esponjas, otra de calzado y lugares de la región de Saada. Associated Press recogió ambas versiones. No existía confirmación independiente del número de objetivos destruidos, la naturaleza de cada instalación ni el balance de víctimas.",
+    "analysis": "La ofensiva se produce después de la retirada de fuerzas apoyadas por Arabia Saudita cerca del estrecho de Bab el-Mandeb, paso estratégico entre el mar Rojo y el golfo de Adén. La ruta es fundamental para los barcos que utilizan el canal de Suez. La coalición también aseguró haber interceptado un misil de crucero hutí dirigido a Riad. Más allá del número de blancos anunciado, la combinación de combates y amenazas a las rutas marítimas aumenta los riesgos para la población y el transporte internacional. Los 60 objetivos son una afirmación militar, no un recuento auditado.",
+    "counterpoint": "Las autoridades hutíes denuncian ataques contra instalaciones civiles y víctimas mortales, mientras que la coalición habla de objetivos militares. Ninguna versión por sí sola permite establecer la legalidad de cada ataque ni confirmar las cifras. Es indispensable una investigación independiente sobre el terreno.",
+    "category": "MUNDO",
+    "photo_captions": {
+     "1": "FOTO DE ARCHIVO (15 de agosto de 1986): vista de Saada, Yemen, fotografiada por Bernard Gagnon, CC BY-SA 3.0. No muestra los bombardeos de noviembre de 2026."
+    }
+   }
+  },
   {
    "id": "kuwait-defesa-aerea-intercepta-drones-hostis-2026-11-18",
    "date": "2026-11-18",
