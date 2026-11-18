@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "senado-conclui-ajuste-fiscal-envia-camara-2026-11-18",
+      "date": "2026-11-18",
+      "category": "ECONOMIA",
+      "title": "SENADO CONCLUI AJUSTE FISCAL POR 69 A 2 E ENVIA PACOTE À CÂMARA",
+      "subtitle": "Após rejeitar destaques, senadores preservam restrições a compensações tributárias e negociam repasses da Lei Kandir; proposta ainda não é lei.",
+      "facts": "Em 18 de novembro de 2026, o Senado concluiu a votação do Projeto de Lei Complementar (PLP) 299/2026, de ajuste fiscal, e aprovou o relatório final por 69 votos a 2. Os senadores rejeitaram três destaques que buscavam alterar dispositivos centrais e negociaram mudanças relativas aos repasses da Lei Kandir a estados e municípios. O texto segue à Câmara dos Deputados, onde ainda precisará ser analisado. A proposta permite maior contingenciamento de despesas, limita em certas condições o crescimento real de gastos a 2% e autoriza restrições temporárias à compensação de tributos por créditos das empresas.",
+      "analysis": "O desfecho desta quarta encerra a etapa que havia ficado pendente após a aprovação do texto-base, por 45 a 31, em 12 de novembro. A diferença entre os placares não mede mudança direta de apoio ao mesmo texto: a votação final ocorreu após negociações e com objeto diferente. Para empresas, o ponto sensível é a possibilidade de restringir compensações tributárias, que afeta fluxo de caixa. Para estados e municípios, o acordo elevou de R$ 1 bilhão para R$ 2 bilhões os repasses anuais relacionados à Lei Kandir no período discutido. O governo projeta melhora de dezenas de bilhões de reais no resultado primário de 2027, mas estimativas precisam ser revistas à luz do texto final. Resultado primário é a diferença entre receitas e despesas antes dos juros da dívida.",
+      "counterpoint": "A aprovação no Senado não implementa automaticamente o ajuste: a Câmara pode modificar ou rejeitar o texto, e eventual sanção ainda será necessária. A estimativa de economia não equivale a dinheiro já poupado. A oposição e representantes de setores produtivos questionam restrições a créditos tributários e transferências federativas, enquanto o governo defende instrumentos adicionais para cumprir a meta fiscal. O efeito efetivo depende da redação aprovada ao final, da execução orçamentária e da arrecadação.",
+      "sources": [
+        {
+          "name": "Agência Brasil, 18/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-rejeita-mudancas-no-texto-e-aprova-ajuste-fiscal-do-governo"
+        },
+        {
+          "name": "Senado Federal, PLP 299/2026, 12/11/2026",
+          "url": "https://www12.senado.leg.br/institucional/presidencia/destaque-noticia/senado-aprova-texto-base-de-projeto-de-ajuste-fiscal-com-previsao-de-economia-de-ate-r-60-bilhoes"
+        },
+        {
+          "name": "UOL, 18/11/2026",
+          "url": "https://economia.uol.com.br/noticias/redacao/2026/11/18/ajuste-fiscal-votacao-destaques-senado.ghtm"
+        }
+      ],
+      "en": {
+        "title": "Brazil's Senate completes fiscal package vote 69–2, sends bill to lower house",
+        "subtitle": "Senators reject amendments, retain tax-credit restrictions and negotiate transfers to states; bill is not yet law.",
+        "facts": "On November 18, 2026, Brazil's Senate completed its vote on Complementary Bill (PLP) 299/2026, approving the final report by 69 votes to 2. Senators rejected three proposed amendments and negotiated changes to transfers under the Kandir Law. The bill now goes to the Chamber of Deputies. It would expand the government's ability to freeze spending, cap real expenditure growth at 2% under certain conditions, and temporarily restrict companies' use of tax credits to offset liabilities.",
+        "analysis": "This completes a stage left unfinished after the base text passed 45–31 on November 12. The two vote counts concern different stages and should not be treated as a direct shift in support for identical wording. Tax-credit restrictions may affect companies' cash flow. Negotiations raised annual Kandir Law transfers under discussion from R$1 billion to R$2 billion. The government's projected improvement in the 2027 primary balance remains an estimate subject to revision after amendments. The primary balance excludes interest payments.",
+        "counterpoint": "Senate approval does not make the measures law. The lower house must consider the bill and presidential approval would still be required. Fiscal savings are projected, not realized. Critics question tax-credit restrictions and intergovernmental transfers, while the government argues the measures improve budget control.",
+        "category": "ECONOMY",
+        "slug": "brazil-s-senate-completes-fiscal-package-vote-692-sends-bill-to-lower-house-2026-11-18"
+      },
+      "es": {
+        "title": "El Senado de Brasil concluye el ajuste fiscal por 69 votos a 2 y lo envía a Diputados",
+        "subtitle": "Los senadores rechazan enmiendas, mantienen restricciones a créditos tributarios y negocian transferencias a estados; aún no es ley.",
+        "facts": "El 18 de noviembre de 2026, el Senado de Brasil concluyó la votación del Proyecto de Ley Complementaria (PLP) 299/2026 y aprobó el informe final por 69 votos contra 2. Rechazó tres propuestas de modificación y negoció cambios en las transferencias vinculadas a la Ley Kandir. El texto pasa a la Cámara de Diputados. La propuesta amplía las posibilidades de congelar gastos, limita en determinadas condiciones el crecimiento real del gasto al 2% y permite restringir temporalmente el uso de créditos tributarios por las empresas.",
+        "analysis": "La votación completa la etapa pendiente desde que el texto base fue aprobado por 45 votos contra 31 el 12 de noviembre. Los resultados corresponden a etapas distintas y no reflejan necesariamente un cambio directo de apoyos sobre un texto idéntico. Las restricciones tributarias pueden afectar la liquidez empresarial. El acuerdo elevó de R$1.000 millones a R$2.000 millones las transferencias anuales de la Ley Kandir contempladas en la negociación. La mejora fiscal prevista para 2027 sigue siendo una estimación que deberá revisarse tras los cambios. El resultado primario excluye los intereses de la deuda.",
+        "counterpoint": "La aprobación en el Senado no convierte el proyecto en ley. La Cámara todavía debe examinarlo y sería necesaria la sanción presidencial. El ahorro previsto no se ha materializado. Los críticos cuestionan las restricciones a créditos fiscales y las transferencias a gobiernos subnacionales; el Ejecutivo defiende un mayor control presupuestario.",
+        "category": "ECONOMÍA",
+        "slug": "el-senado-de-brasil-concluye-el-ajuste-fiscal-por-69-votos-a-2-y-lo-envia-a-2026-11-18"
+      },
+      "firstSeen": "2026-11-18T19:59:00-03:00"
+    },
+    {
       "id": "israel-operacao-terrestre-centro-gaza-linha-amarela-2026-11-18",
       "date": "2026-11-18",
       "category": "MUNDO",
