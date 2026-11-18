@@ -2,9 +2,49 @@
  "schemaVersion": 1,
  "editorial": "O Corvo Investigador",
  "edition": "12/11/2026",
- "updatedAt": "2026-11-18T13:00:00-03:00",
+ "updatedAt": "2026-11-18T15:04:00-03:00",
  "tz": "America/Sao_Paulo",
  "articles": [
+  {
+   "id": "durigan-anuncia-novas-medidas-fiscais-apos-pacote-senado-2026-11-18",
+   "date": "2026-11-18",
+   "category": "ECONOMIA",
+   "title": "DURIGAN DIZ QUE GOVERNO PREPARA NOVAS MEDIDAS FISCAIS ALÉM DO PACOTE NO SENADO",
+   "subtitle": "Ministro da Fazenda chama proposta em tramitação de primeiro passo e promete ações adicionais; detalhes ainda não foram apresentados.",
+   "facts": "Em 18 de novembro de 2026, o ministro da Fazenda, Dario Durigan, afirmou em evento do Bradesco BBI, após reunião com o presidente Luiz Inácio Lula da Silva, que o governo pretende anunciar novas medidas fiscais em breve. Segundo ele, o pacote de ajuste em discussão no Senado é apenas o primeiro passo, e não o plano completo para os próximos anos. Durigan defendeu melhorar as contas públicas para criar condições para juros menores, descartou controle de capitais e mudanças na meta de inflação e disse esperar desaceleração econômica em 2027, mas não recessão. Não divulgou nessa declaração a íntegra das novas propostas nem um cronograma legislativo fechado.",
+   "analysis": "A novidade é a sinalização de uma segunda etapa além do pacote já enviado ao Congresso. Em 11 de novembro, o governo apresentou medidas que, segundo sua estimativa, poderiam melhorar as contas em R$ 50 bilhões a R$ 60 bilhões em 2027; o texto passou a enfrentar negociações e destaques no Senado. Anunciar medidas adicionais não equivale a aprová-las: o impacto efetivo dependerá do texto, das exceções negociadas, do Congresso e da execução orçamentária. O vínculo entre ajuste fiscal e queda da Selic é uma hipótese de política econômica condicionada também às expectativas de inflação e às decisões autônomas do Banco Central.",
+   "counterpoint": "Durigan não detalhou valores, cortes específicos nem quais propostas dependerão de mudança constitucional. A expectativa de superávit em 2027 e de redução dos juros é uma projeção do governo, não resultado garantido. Parlamentares ainda negociam o pacote existente, e novas medidas podem encontrar resistência. Sem textos oficiais completos, não é possível quantificar o ganho fiscal adicional.",
+   "sources": [
+    {
+     "name": "Reuters — novas medidas fiscais anunciadas por Durigan, 18/11/2026",
+     "url": "https://www.reuters.com/world/americas/brazils-finance-minister-signals-additional-fiscal-measures-near-term-2026-11-18/"
+    },
+    {
+     "name": "Reuters — proposta fiscal de 11/11/2026",
+     "url": "https://www.reuters.com/world/americas/brazil-unveil-fiscal-package-worth-up-108-billion-next-year-minister-says-2026-11-11/"
+    },
+    {
+     "name": "Agência Brasil — preparação das medidas fiscais, 05/11/2026",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-discutira-medidas-fiscais-com-lula-apos-viagem-cop31"
+    }
+   ],
+   "en": {
+    "title": "DURIGAN SAYS BRAZIL IS PREPARING FURTHER FISCAL MEASURES BEYOND SENATE PACKAGE",
+    "subtitle": "Finance minister calls the bill under debate a first step and signals additional action, without detailing the proposals.",
+    "facts": "On November 18, 2026, Finance Minister Dario Durigan said at a Bradesco BBI event, following a meeting with President Luiz Inácio Lula da Silva, that the government intends to introduce further fiscal measures soon. He described the adjustment package under Senate consideration as only a first step, rather than the government's complete plan for the coming years. Durigan argued that stronger public finances would help create conditions for lower interest rates, ruled out capital controls and changes to the inflation target, and forecast slower growth in 2027 but not a recession. He did not release the full proposals or a firm legislative timetable.",
+    "analysis": "The new development is the promise of a second stage beyond the bill already before Congress. On November 11, the government presented measures it estimated could improve the 2027 fiscal balance by R$50 billion to R$60 billion; negotiations and amendments followed in the Senate. Announcing additional measures is not the same as passing them: the eventual effect will depend on the wording, negotiated exemptions, congressional approval and budget execution. The link between fiscal consolidation and lower benchmark interest rates also depends on inflation expectations and the independent decisions of Brazil's Central Bank.",
+    "counterpoint": "Durigan provided no detailed figures, specific spending cuts or explanation of which proposals might require constitutional changes. A 2027 primary surplus and lower rates remain government expectations, not guaranteed outcomes. Lawmakers are still negotiating the existing package, and further measures may face resistance. Without complete official texts, the additional fiscal impact cannot be quantified.",
+    "category": "ECONOMY"
+   },
+   "es": {
+    "title": "DURIGAN ANUNCIA QUE BRASIL PREPARA MÁS MEDIDAS FISCALES ADEMÁS DEL PAQUETE EN EL SENADO",
+    "subtitle": "El ministro de Hacienda considera el proyecto en debate un primer paso y anticipa nuevas acciones sin detallar las propuestas.",
+    "facts": "El 18 de noviembre de 2026, el ministro de Hacienda, Dario Durigan, afirmó en un evento de Bradesco BBI, después de reunirse con el presidente Luiz Inácio Lula da Silva, que el Gobierno pretende presentar nuevas medidas fiscales próximamente. Calificó el paquete de ajuste debatido en el Senado como un primer paso, no como el plan completo para los próximos años. Defendió el saneamiento de las cuentas públicas para crear condiciones para tasas de interés más bajas, descartó controles de capitales y cambios en la meta de inflación y previó un crecimiento más lento en 2027, pero no una recesión. No divulgó las propuestas completas ni un calendario legislativo definitivo.",
+    "analysis": "La novedad es el anuncio de una segunda etapa además del proyecto ya enviado al Congreso. El 11 de noviembre, el Gobierno presentó medidas que, según sus estimaciones, podrían mejorar el resultado fiscal de 2027 entre R$50.000 millones y R$60.000 millones; después comenzaron negociaciones y enmiendas en el Senado. Anunciar más medidas no significa aprobarlas: el efecto dependerá del texto, las excepciones negociadas, la aprobación legislativa y la ejecución presupuestaria. La relación entre consolidación fiscal y reducción de tasas también depende de las expectativas de inflación y las decisiones autónomas del Banco Central de Brasil.",
+    "counterpoint": "Durigan no detalló cifras, recortes concretos ni cuáles propuestas requerirían cambios constitucionales. El superávit primario en 2027 y las tasas más bajas son expectativas oficiales, no resultados garantizados. El Congreso todavía negocia el paquete actual y nuevas medidas podrían encontrar resistencia. Sin textos oficiales completos, no es posible cuantificar el efecto fiscal adicional.",
+    "category": "ECONOMÍA"
+   }
+  },
   {
    "id": "rubio-descarta-ameaca-iminente-bomba-suja-ira-washington-2026-11-18",
    "date": "2026-11-18",
