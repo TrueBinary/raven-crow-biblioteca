@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": "aneel-aprova-revisao-ceee-d-alta-conta-luz-rs-2026-11-18",
+      "date": "2026-11-18",
+      "category": "ECONOMIA",
+      "title": "ANEEL APROVA ALTA DE 22,64% NA TARIFA RESIDENCIAL DA CEEE-D NO RIO GRANDE DO SUL",
+      "subtitle": "Revisão aprovada em 17 de novembro começa a valer no dia 22; efeito médio é de 20,16% para 2,03 milhões de unidades consumidoras atendidas.",
+      "facts": "A Agência Nacional de Energia Elétrica (Aneel) aprovou em 17 de novembro de 2026 a Revisão Tarifária Periódica da Companhia Estadual de Distribuição de Energia Elétrica (CEEE-D), concessionária do grupo Equatorial que atende cerca de 2,03 milhões de unidades consumidoras em 72 municípios do Rio Grande do Sul. Os novos índices passam a valer em 22 de novembro: 22,64% para a classe residencial B1, 22,51% em média para baixa tensão, 12,28% para alta tensão e 20,16% de efeito médio entre os consumidores. A agência atribui os índices a custos de distribuição, aquisição de energia, encargos setoriais e componentes financeiros.",
+      "analysis": "O percentual de 20,16% é uma média ponderada das classes de consumo e não representa o aumento específico de cada residência: para o consumidor residencial B1, o índice aprovado é 22,64%. Em uma comparação ilustrativa, uma parcela tarifária de R$ 100 sujeita integralmente a esse índice passaria a R$ 122,64, sem considerar mudanças de consumo, tributos, iluminação pública ou bandeiras tarifárias. Em outubro, a Aneel apresentara efeito médio preliminar de 22,31%; a decisão final ficou 2,15 pontos percentuais abaixo daquela proposta. A revisão periódica, diferentemente do reajuste anual, também reavalia custos eficientes da distribuição e parâmetros regulatórios. Foram recebidas 19 contribuições na consulta e audiência públicas.",
+      "counterpoint": "A redução do índice médio em relação à proposta inicial não significa queda na conta: a tarifa aprovada continua maior que a anterior. O impacto final em reais varia conforme classe, consumo, tributos e outros componentes da fatura. A decisão regulatória está confirmada, mas não é correto projetar o mesmo aumento percentual sobre o valor total de todas as contas individuais.",
+      "sources": [
+        {
+          "name": "Aneel — tarifas aprovadas, 17/11/2026",
+          "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aprovadas-novas-tarifas-para-consumidores-atendidos-pela-ceee-d-rs"
+        },
+        {
+          "name": "Aneel — proposta e audiência, 07/10/2026",
+          "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/audiencia-publica-discutira-revisao-das-tarifas-da-ceee-d-em-porto-alegre-rs"
+        }
+      ],
+      "en": {
+        "title": "BRAZIL'S ANEEL APPROVES 22.64% RESIDENTIAL ELECTRICITY TARIFF INCREASE FOR CEEE-D IN RIO GRANDE DO SUL",
+        "subtitle": "Approved on November 17, the revised rates take effect November 22; the average impact is 20.16% across 2.03 million customer units.",
+        "facts": "Brazil's National Electric Energy Agency (Aneel) approved a periodic tariff review for CEEE-D on November 17, 2026. The Equatorial-owned utility serves approximately 2.03 million customer units across 72 municipalities in Rio Grande do Sul. Effective November 22, residential B1 tariffs rise 22.64%, low-voltage tariffs increase 22.51% on average, high-voltage tariffs rise 12.28%, and the overall average effect is 20.16%. Aneel cited distribution costs, power purchases, sector charges and financial components.",
+        "analysis": "The 20.16% overall figure is a weighted average, not the rate applicable to each household; the approved residential B1 increase is 22.64%. For illustration, a R$100 tariff component fully subject to this rate would become R$122.64, excluding changes in usage, taxes, public-lighting charges and tariff flags. Aneel's October proposal projected a 22.31% average effect, 2.15 percentage points higher than the final decision. A periodic review also reassesses efficient distribution costs and regulatory parameters. The consultation and hearing received 19 contributions.",
+        "counterpoint": "The lower final percentage compared with the proposal does not mean electricity bills are falling. Actual bills depend on customer category, consumption, taxes and other charges; applying the percentage to every bill's total would be misleading.",
+        "category": "ECONOMY",
+        "slug": "brazil-s-aneel-approves-22-64-residential-electricity-tariff-increase-for-ceee-2026-11-18"
+      },
+      "es": {
+        "title": "ANEEL APRUEBA UN AUMENTO DEL 22,64% EN LA TARIFA ELÉCTRICA RESIDENCIAL DE CEEE-D EN RIO GRANDE DO SUL",
+        "subtitle": "La revisión aprobada el 17 de noviembre entrará en vigor el día 22; el efecto medio es del 20,16% para 2,03 millones de unidades consumidoras.",
+        "facts": "La Agencia Nacional de Energía Eléctrica de Brasil (Aneel) aprobó el 17 de noviembre de 2026 la revisión tarifaria periódica de CEEE-D, distribuidora del grupo Equatorial que atiende unas 2,03 millones de unidades consumidoras en 72 municipios de Rio Grande do Sul. Desde el 22 de noviembre, la tarifa residencial B1 subirá un 22,64%, la de baja tensión un 22,51% en promedio y la de alta tensión un 12,28%; el efecto medio general será del 20,16%. La agencia mencionó costos de distribución, compra de energía, cargos sectoriales y componentes financieros.",
+        "analysis": "El 20,16% es un promedio ponderado, no el porcentaje que se aplicará a cada hogar; para la clase residencial B1, el aumento aprobado es del 22,64%. Como ejemplo, un componente tarifario de R$ 100 íntegramente sujeto a ese índice pasaría a R$ 122,64, sin incluir variaciones de consumo, impuestos, alumbrado público ni banderas tarifarias. En octubre, la propuesta de Aneel preveía un efecto medio del 22,31%, 2,15 puntos porcentuales superior al resultado final. La revisión periódica también reevalúa costos eficientes y parámetros regulatorios. La consulta y audiencia públicas recibieron 19 aportaciones.",
+        "counterpoint": "La reducción frente a la propuesta inicial no implica una disminución de la factura. El efecto real depende de la categoría, el consumo, los impuestos y otros cargos; no sería correcto aplicar el mismo porcentaje al total de todas las facturas.",
+        "category": "ECONOMÍA",
+        "slug": "aneel-aprueba-un-aumento-del-22-64-en-la-tarifa-electrica-residencial-de-ceee-d-2026-11-18"
+      },
+      "firstSeen": "2026-11-18T02:00:00-03:00"
+    },
+    {
       "id": "awa-isolados-aproximacao-arariboia-funai-2026-11-18",
       "date": "2026-11-18",
       "category": "BRASIL",
