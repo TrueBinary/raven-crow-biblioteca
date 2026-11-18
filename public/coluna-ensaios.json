@@ -1,7 +1,78 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T10:00:12-03:00",
+  "updatedAt": "2026-11-18T19:00:00-03:00",
   "essays": [
+    {
+      "id": "o-preco-subiu-mas-o-discurso-esta-em-promocao-2026-11-18",
+      "section": "Política e sociedade",
+      "date": "2026-11-18",
+      "title": "O PREÇO SUBIU. O DISCURSO ESTÁ EM PROMOÇÃO.",
+      "subtitle": "A inflação pode desacelerar sem devolver um centavo ao bolso de quem faz as compras.",
+      "eyebrow": "OPINIÃO",
+      "paragraphs": [
+        "Um tomate não lê comunicado do Banco Central. Ele simplesmente aparece na banca com uma etiqueta nova, e o comprador descobre que o dinheiro de ontem ficou menor durante a noite. O vendedor não precisa de um seminário sobre política monetária para explicar o susto. Basta apontar o preço. É nesse encontro, entre a sacola e a carteira, que a inflação deixa de ser um gráfico bem-comportado e começa a falar português.",
+        "O IPCA, calculado pelo IBGE, mede a variação de preços de uma cesta de bens e serviços ponderada pelos hábitos de consumo das famílias. É uma ferramenta séria e necessária. Mas a média nacional não é a lista de compras de ninguém. Uma família que gasta boa parte da renda com comida e aluguel sente um movimento diferente de outra que consome mais serviços ou consegue substituir produtos. Quando alguém anuncia que a inflação desacelerou, pode estar dizendo a verdade estatística e, ainda assim, não estar dizendo que a vida ficou mais barata.",
+        "Essa confusão merece ser arrancada da vitrine: inflação menor geralmente significa preços subindo mais devagar, não preços voltando ao patamar anterior. Se um produto passa de dez para onze reais e depois para onze reais e cinquenta centavos, a segunda alta é menor; o produto continua mais caro. É possível comemorar a desaceleração sem fingir que o trabalhador recebeu de volta os cinquenta centavos, muito menos o primeiro real. O discurso público às vezes trata o freio como se fosse marcha à ré.",
+        "Também seria cômodo culpar exclusivamente Brasília por cada etiqueta. Uma chuva que prejudica a colheita, um choque internacional de energia, a variação cambial e a dificuldade de transporte podem elevar preços específicos. Nem toda alta de tomate é impressão de moeda, nem todo aumento de supermercado é prova de uma conspiração ministerial. O que se pode exigir do governo e da autoridade monetária é algo menos teatral: decisões responsáveis, explicações inteligíveis e nenhuma tentativa de transformar a experiência do consumidor em erro de percepção.",
+        "Existe ainda uma desigualdade pouco fotogênica. Quem tem patrimônio protegido, aplicações financeiras e margem para esperar uma promoção dispõe de defesas que faltam a quem recebe o salário e o vê desaparecer antes do fim do mês. Inflação persistente embaralha contratos, dificulta planejamento e pune especialmente quem não consegue reajustar a própria renda na velocidade das etiquetas. A estabilidade de preços, por isso, não é capricho de economista engravatado. É uma forma bastante concreta de respeitar o tempo de quem trabalha.",
+        "Eu não peço que o país governe olhando apenas para o preço do tomate. Peço que pare de olhar apenas para a própria apresentação de slides. Um índice é indispensável para compreender o conjunto; a compra do mês é indispensável para lembrar quem vive dentro dele. Quando o porta-voz disser que a inflação melhorou, ótimo: que explique quanto, por quê e o que ainda pesa. Porque o consumidor pode até não dominar a fórmula do IPCA. Mas sabe perfeitamente quando o jantar encolheu."
+      ],
+      "sources": [
+        {
+          "title": "IBGE — IPCA: metodologia, cesta de consumo e ponderações",
+          "url": "https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html"
+        },
+        {
+          "title": "IBGE — IPCA: conceitos e métodos, setembro de 2026",
+          "url": "https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidoramplo.html"
+        },
+        {
+          "title": "Folha de S.Paulo — Alta do tomate após chuvas, novembro de 2026",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/11/tomate-acumula-alta-de-quase-90-no-ano-e-fica-mais-caro-apos-chuvas.shtml"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Banco_Central_do_Brasil.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Paulo Rená da Silva Santarém / Wikimedia Commons",
+          "license": "CC BY-SA 2.0 — https://creativecommons.org/licenses/by-sa/2.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Banco_Central_do_Brasil.jpg",
+          "caption": "FOTO DE ARQUIVO (01/10/2008), Brasília (DF): sede do Banco Central do Brasil. Não retrata um episódio recente de inflação ou decisão monetária."
+        }
+      ],
+      "en": {
+        "title": "PRICES WENT UP. THE SPEECH IS ON SALE.",
+        "subtitle": "Inflation can slow without returning a cent to the people buying groceries.",
+        "eyebrow": "OPINION",
+        "section": "Politics and society",
+        "paragraphs": [
+          "A tomato does not read Central Bank statements. It simply turns up at the market with a new price tag, and the shopper discovers that yesterday's money buys less. The vendor needs no monetary-policy seminar to explain the shock. Pointing at the label will do. Somewhere between the shopping bag and the wallet, inflation stops being a tidy chart and starts speaking plainly.",
+          "Brazil's IPCA, calculated by the national statistics agency IBGE, tracks price changes across a basket of goods and services weighted by household spending patterns. It is a serious and necessary measure. But a national average is nobody's actual shopping list. A household spending much of its income on food and rent experiences price changes differently from one that buys more services or can switch products. Saying inflation has slowed may be statistically true without meaning that life has become cheaper.",
+          "Here is the confusion worth clearing away: lower inflation usually means prices are rising more slowly, not returning to where they were. If something goes from ten to eleven reais and then to eleven reais and fifty cents, the second increase is smaller, but the item is still dearer. We can welcome disinflation without pretending that workers have got their fifty cents back, let alone the first real. Public rhetoric sometimes sells the brakes as reverse gear.",
+          "It would also be convenient, and wrong, to blame Brasília for every price tag. Heavy rain damaging crops, an international energy shock, exchange-rate movements and transport disruptions can all push up particular prices. Not every expensive tomato is evidence of money printing, and not every supermarket increase proves a ministerial conspiracy. What citizens can reasonably demand from government and monetary authorities is less theatrical: sound decisions, understandable explanations and no suggestion that shoppers are imagining their bills.",
+          "There is also an inequality that rarely makes for a flattering photograph. People with protected assets, investments and room to wait for a sale have defenses unavailable to workers whose wages run out before the month does. Persistent inflation muddies contracts, makes planning harder and hits those least able to adjust their incomes as quickly as prices change. Price stability is not a fussy economist's hobby. It is a concrete way to respect the time people spend earning a living.",
+          "I am not asking Brazil to govern by the price of tomatoes alone. I am asking it to stop governing by the slide deck alone. An index is indispensable for understanding the whole; the monthly shopping trip reminds us who lives inside that whole. When a spokesperson says inflation has improved, fine: explain how much, why and what still hurts. Shoppers may not know the IPCA formula. They know perfectly well when dinner has shrunk."
+        ],
+        "photo_caption": "ARCHIVE PHOTO (October 1, 2008), Brasília, Brazil: Central Bank of Brazil headquarters. It does not depict a recent inflation event or monetary-policy decision."
+      },
+      "es": {
+        "title": "SUBIÓ EL PRECIO. EL DISCURSO ESTÁ DE OFERTA.",
+        "subtitle": "La inflación puede desacelerarse sin devolver un centavo a quien hace las compras.",
+        "eyebrow": "OPINIÓN",
+        "section": "Política y sociedad",
+        "paragraphs": [
+          "Un tomate no lee comunicados del Banco Central. Simplemente aparece en el mercado con una etiqueta nueva, y el comprador descubre que el dinero de ayer alcanza para menos. El vendedor no necesita un seminario de política monetaria para explicar el susto. Le basta señalar el precio. Entre la bolsa de compras y la cartera, la inflación deja de ser un gráfico ordenado y empieza a hablar con claridad.",
+          "El IPCA brasileño, calculado por el instituto de estadística IBGE, mide la variación de precios de una canasta de bienes y servicios ponderada según el consumo de los hogares. Es una herramienta seria y necesaria. Pero el promedio nacional no es la lista de compras de nadie. Una familia que dedica gran parte de sus ingresos a alimentos y alquiler vive una realidad distinta de otra que consume más servicios o puede sustituir productos. Decir que la inflación se desaceleró puede ser estadísticamente cierto sin significar que vivir sea más barato.",
+          "Conviene despejar una confusión: una inflación menor suele indicar que los precios suben más despacio, no que regresan a su nivel anterior. Si un producto pasa de diez a once reales y después a once reales con cincuenta centavos, el segundo aumento es menor, pero sigue costando más. Podemos celebrar la desaceleración sin fingir que el trabajador recuperó esos cincuenta centavos, mucho menos el primer real. A veces el discurso público vende el freno como si fuera marcha atrás.",
+          "También sería cómodo, y equivocado, culpar a Brasilia de cada etiqueta. Las lluvias que dañan cosechas, los choques internacionales de energía, el tipo de cambio y los problemas de transporte pueden encarecer productos concretos. No todo tomate caro demuestra emisión monetaria ni todo aumento en el supermercado prueba una conspiración ministerial. Lo razonable es exigir al gobierno y a la autoridad monetaria decisiones responsables, explicaciones comprensibles y que no traten la experiencia del consumidor como un error de percepción.",
+          "Existe además una desigualdad poco fotogénica. Quien posee activos protegidos, inversiones y margen para esperar una oferta cuenta con defensas que no tiene quien cobra su salario y lo ve agotarse antes de fin de mes. La inflación persistente complica contratos, dificulta planificar y golpea a quienes no pueden ajustar sus ingresos al ritmo de las etiquetas. La estabilidad de precios no es un capricho de economistas con corbata. Es una forma concreta de respetar el tiempo de quien trabaja.",
+          "No pido que Brasil gobierne mirando solamente el precio del tomate. Pido que deje de mirar solamente sus diapositivas. Un índice es indispensable para comprender el conjunto; la compra mensual recuerda quién vive dentro de él. Cuando un portavoz diga que la inflación mejoró, perfecto: que explique cuánto, por qué y qué sigue pesando. Tal vez el consumidor no domine la fórmula del IPCA. Pero sabe perfectamente cuándo la cena se hizo más pequeña."
+        ],
+        "photo_caption": "FOTO DE ARCHIVO (01/10/2008), Brasilia, Brasil: sede del Banco Central de Brasil. No retrata un episodio reciente de inflación ni una decisión monetaria."
+      }
+    },
     {
       "id": "o-segredo-e-publico-mas-a-chave-ficou-no-gabinete-2026-11-18",
       "section": "Política e sociedade",
