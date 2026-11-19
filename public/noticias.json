@@ -2,9 +2,45 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-19T03:02:16-03:00",
+  "updatedAt": "2026-11-19T04:01:38-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "pf-entrega-relatorios-fachin-ministros-master-2026-11-19",
+      "date": "2026-11-19",
+      "category": "JUSTIÇA",
+      "title": "PF ENTREGA A FACHIN RELATÓRIOS SOBRE MINISTROS CITADOS NO CASO MASTER",
+      "subtitle": "Documentos permanecem sigilosos; presidente do STF encaminhará material à PGR antes de eventuais providências.",
+      "facts": "Na noite de 18 de novembro de 2026, em Brasília, o diretor-geral da Polícia Federal (PF), Andrei Rodrigues, entregou ao presidente do Supremo Tribunal Federal (STF), Edson Fachin, relatórios sobre menções a ministros da Corte encontradas na investigação do Banco Master. Segundo a Agência Brasil, os documentos foram solicitados por Fachin para reunir referências a integrantes do STF no celular do ex-banqueiro Daniel Vorcaro, com o contexto das mensagens e caráter descritivo. O conteúdo segue sob sigilo. Fachin deverá encaminhá-lo à Procuradoria-Geral da República (PGR), responsável por avaliar providências cabíveis.",
+      "analysis": "A entrega conclui uma etapa documental, não uma investigação ou julgamento de ministros. O procedimento separa três atos que não devem ser confundidos: identificar menções em mensagens, avaliar se elas justificam diligências e decidir, pela autoridade competente, se há fundamento para investigação formal. A preservação do contexto das conversas é especialmente importante: aparecer em mensagem de terceiro não demonstra, por si só, participação em irregularidade. A análise da PGR e as decisões futuras do STF determinarão se haverá consequências processuais.",
+      "counterpoint": "O teor dos relatórios não foi divulgado e não é possível afirmar que eles contenham prova de crime cometido por qualquer ministro. Em audiência no Senado no dia 18, Andrei Rodrigues atribuiu a substituição de dois delegados em funções de chefia à quebra de confiança e à elaboração de relatórios que, em sua avaliação, extrapolaram as orientações recebidas. Essa é a explicação do diretor-geral, não uma conclusão independente sobre a conduta dos policiais. A transparência e o sigilo necessário às diligências seguem em tensão.",
+      "sources": [
+        {
+          "name": "Agência Brasil — entrega dos relatórios, 18/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/andrei-entrega-fachin-relatorios-sobre-ministros-no-caso-master"
+        },
+        {
+          "name": "Agência Brasil — audiência da PF no Senado, 18/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/caso-master-pf-entregara-ao-stf-relatorios-sobre-citacoes-a-ministros"
+        }
+      ],
+      "en": {
+        "title": "FEDERAL POLICE DELIVER REPORTS TO FACHIN ON JUSTICES MENTIONED IN MASTER CASE",
+        "subtitle": "Documents remain confidential; Brazil's Supreme Court president is expected to refer them to prosecutors.",
+        "facts": "On the evening of November 18, 2026, in Brasília, Federal Police (PF) director-general Andrei Rodrigues delivered reports to Edson Fachin, president of Brazil's Supreme Federal Court (STF), concerning references to justices found in the Banco Master investigation. According to Agência Brasil, Fachin requested a contextual, descriptive account of references found on former banker Daniel Vorcaro's phone. The documents remain confidential. Fachin is expected to send them to the Prosecutor General's Office (PGR) for an assessment of possible next steps.",
+        "analysis": "Delivery of the reports completes a documentary step, not an investigation or trial of any justice. Identifying a name in messages, assessing grounds for investigative measures and authorizing a formal investigation are distinct steps. Context matters: being mentioned by another person is not evidence of wrongdoing. The PGR's assessment and subsequent court decisions will determine whether there are procedural consequences.",
+        "counterpoint": "The reports have not been made public, so their contents cannot be treated as proof of a crime by any justice. During a Senate hearing on November 18, Rodrigues attributed the removal of two officers from leadership positions to a breakdown of trust and reports he said exceeded instructions. This is his account, not an independent finding about the officers' conduct. The balance between transparency and investigative confidentiality remains unresolved.",
+        "category": "JUSTICE"
+      },
+      "es": {
+        "title": "LA POLICÍA FEDERAL ENTREGA A FACHIN INFORMES SOBRE JUECES CITADOS EN EL CASO MASTER",
+        "subtitle": "Los documentos siguen bajo reserva; el presidente del Supremo remitirá el material a la Fiscalía General.",
+        "facts": "La noche del 18 de noviembre de 2026, en Brasilia, el director general de la Policía Federal (PF), Andrei Rodrigues, entregó al presidente del Supremo Tribunal Federal (STF) de Brasil, Edson Fachin, informes sobre menciones a magistrados halladas en la investigación del Banco Master. Según Agência Brasil, Fachin solicitó una descripción contextualizada de las referencias encontradas en el teléfono del exbanquero Daniel Vorcaro. Los documentos siguen bajo reserva. Fachin deberá remitirlos a la Procuraduría General de la República (PGR) para evaluar posibles medidas.",
+        "analysis": "La entrega cierra una etapa documental, no una investigación ni un juicio contra magistrados. Identificar menciones, evaluar la necesidad de diligencias y autorizar una investigación formal son pasos diferentes. El contexto es fundamental: aparecer en mensajes de terceros no constituye por sí solo prueba de irregularidad. La evaluación de la PGR y las futuras decisiones del tribunal determinarán los efectos procesales.",
+        "counterpoint": "El contenido de los informes no se ha divulgado y no puede considerarse prueba de delitos cometidos por magistrados. En una audiencia del Senado el 18 de noviembre, Rodrigues atribuyó el relevo de dos policías de puestos directivos a una pérdida de confianza y a informes que, según él, excedieron las instrucciones. Es su versión, no una conclusión independiente sobre los agentes. Persiste la tensión entre transparencia y reserva investigativa.",
+        "category": "JUSTICIA"
+      }
+    },
     {
       "id": "coalizao-saudita-relata-danos-apos-ameaca-missil-riade-2026-11-19",
       "date": "2026-11-19",
