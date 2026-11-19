@@ -2,9 +2,49 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-19T01:55:23-03:00",
+  "updatedAt": "2026-11-19T03:02:16-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "coalizao-saudita-relata-danos-apos-ameaca-missil-riade-2026-11-19",
+      "date": "2026-11-19",
+      "category": "MUNDO",
+      "title": "COALIZÃO SAUDITA RELATA DANOS APÓS AMEAÇA DE MÍSSIL HOUTHI CONTRA RIADE",
+      "subtitle": "Explosão foi ouvida na capital saudita nesta quinta-feira; autoridades atribuem a ameaça aos houthis e ainda avaliam a extensão dos estragos.",
+      "facts": "Em 19 de novembro de 2026, a coalizão liderada pela Arábia Saudita afirmou ter enfrentado uma ameaça de míssil lançada pelos houthis do Iêmen em direção a Riade. Uma forte explosão foi ouvida na capital. Segundo informações transmitidas pela Reuters, uma avaliação preliminar das autoridades apontou queda de fragmentos e danos materiais, mas ainda não havia dimensão definitiva dos estragos. A Defesa Civil saudita emitiu um alerta de perigo e posteriormente comunicou que a ameaça havia passado. A coalizão também relatou ter interceptado um míssil de cruzeiro direcionado ao sul do país. Não havia confirmação independente, naquele momento, sobre o local exato dos impactos nem balanço de vítimas.",
+      "analysis": "O episódio amplia uma sequência de ameaças e ataques contra a capital e instalações sauditas nas últimas semanas. Em 7, 10 e 11 de novembro, a agência estatal Saudi Press Agency já havia divulgado comunicados da coalizão sobre interceptações de mísseis em direção à região de Riade. A distinção desta quinta-feira é o registro preliminar de danos materiais associados à queda de fragmentos. Mesmo quando uma defesa aérea neutraliza uma ameaça, destroços podem atingir áreas urbanas; a existência de estragos, porém, não demonstra por si só que um alvo militar ou econômico tenha sido atingido diretamente. A escalada ocorre enquanto os combates no Iêmen ameaçam rotas comerciais próximas ao estreito de Bab el-Mandeb.",
+      "counterpoint": "As informações iniciais sobre a origem do projétil, sua interceptação e os danos vêm de autoridades da coalizão saudita, conforme relatado pela Reuters. O grupo houthi não teve sua versão específica deste incidente confirmada de forma independente na apuração consultada. Também não há base para atribuir vítimas, um alvo atingido ou um valor aos prejuízos antes da divulgação de dados verificáveis.",
+      "sources": [
+        {
+          "name": "Reuters — 19/11/2026",
+          "url": "https://www.reuters.com/world/middle-east/houthi-missile-threat-towards-riyadh-causes-damage-saudi-led-coalition-says-2026-11-19/"
+        },
+        {
+          "name": "Saudi Press Agency — interceptação anterior, 11/11/2026",
+          "url": "https://spa.gov.sa/en/N2724383"
+        },
+        {
+          "name": "Associated Press — contexto da escalada, 18/11/2026",
+          "url": "https://apnews.com/article/b71b1d25f3cff987b4b125196ecb4c3a"
+        }
+      ],
+      "en": {
+        "title": "Saudi-led coalition reports damage after Houthi missile threat toward Riyadh",
+        "subtitle": "An explosion was heard in the Saudi capital on Thursday; authorities are still assessing the damage.",
+        "facts": "On November 19, 2026, the Saudi-led coalition said it had dealt with a missile threat launched by Yemen's Houthis toward Riyadh. A loud explosion was heard in the capital. According to Reuters, an initial assessment identified falling debris and material damage, but the full extent remained unknown. Saudi Civil Defense issued a warning and later said the danger had passed. The coalition also reported intercepting a cruise missile aimed at southern Saudi Arabia. The precise impact locations and any casualties had not been independently established.",
+        "analysis": "The incident follows weeks of missile threats against Riyadh and Saudi infrastructure. On November 7, 10 and 11, the state-run Saudi Press Agency published coalition statements about earlier interceptions. Thursday's distinguishing development is the preliminary report of damage from falling debris. Interception can still leave debris in populated areas, but damage alone does not establish that a specific target was directly hit. The escalation also raises concerns for trade routes near the Bab el-Mandeb Strait.",
+        "counterpoint": "The initial account of the missile threat, interception and damage comes from Saudi-led coalition authorities as reported by Reuters. The Houthis' specific account of this incident was not independently confirmed in the sources consulted. Casualties, target locations and monetary losses should not be inferred without verified evidence.",
+        "category": "WORLD"
+      },
+      "es": {
+        "title": "La coalición saudí informa de daños tras una amenaza de misil hutí contra Riad",
+        "subtitle": "Se escuchó una explosión en la capital saudí este jueves; las autoridades todavía evalúan los daños.",
+        "facts": "El 19 de noviembre de 2026, la coalición liderada por Arabia Saudita afirmó haber respondido a una amenaza de misil lanzado por los hutíes de Yemen hacia Riad. Se escuchó una fuerte explosión en la capital. Según Reuters, la evaluación preliminar identificó caída de fragmentos y daños materiales, cuya magnitud todavía se desconocía. La Defensa Civil saudí emitió una alerta y posteriormente anunció que el peligro había pasado. La coalición también informó de la interceptación de un misil de crucero dirigido al sur del país. No se habían confirmado de manera independiente los lugares exactos de impacto ni posibles víctimas.",
+        "analysis": "El episodio se suma a varias semanas de amenazas contra Riad e instalaciones saudíes. Los días 7, 10 y 11 de noviembre, la agencia estatal Saudi Press Agency publicó comunicados de la coalición sobre interceptaciones anteriores. La novedad de este jueves es la información preliminar de daños causados por fragmentos. Una interceptación puede dejar restos sobre zonas urbanas, pero los daños no prueban por sí solos un impacto directo contra un objetivo específico. La escalada también preocupa por las rutas comerciales próximas al estrecho de Bab el-Mandeb.",
+        "counterpoint": "La versión inicial sobre la amenaza, la interceptación y los daños procede de autoridades de la coalición saudí citadas por Reuters. No se pudo confirmar independientemente la versión específica de los hutíes sobre este episodio. No corresponde atribuir víctimas, objetivos alcanzados ni pérdidas económicas sin pruebas verificadas.",
+        "category": "MUNDO"
+      }
+    },
     {
       "id": "java4shell-falha-java-alerta-agencias-seguranca-2026-11-19",
       "date": "2026-11-19",
