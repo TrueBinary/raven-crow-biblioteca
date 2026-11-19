@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "anthropic-estreia-nasdaq-ipo-81-bilhoes-2026-11-19",
+      "date": "2026-11-19",
+      "category": "TECNOLOGIA",
+      "title": "ANTHROPIC ESTREIA NA NASDAQ APÓS IPO DE US$ 81 BILHÕES",
+      "subtitle": "Criadora do Claude começa a negociar ações sob o código ANT; abertura acima do preço da oferta testa o apetite por empresas de inteligência artificial.",
+      "facts": "A Anthropic, desenvolvedora do assistente de inteligência artificial Claude, estreou na bolsa Nasdaq nesta quinta-feira, 19 de novembro de 2026, sob o código ANT. A companhia informou em 18 de novembro que precificou sua oferta pública inicial (IPO, sigla em inglês) em US$ 83 por ação, envolvendo 980 milhões de papéis, dos quais 956.351.354 foram vendidos pela própria empresa e 23.648.646 por acionistas vendedores. A operação mobilizou aproximadamente US$ 81 bilhões em ações ofertadas. Segundo a Reuters, os papéis abriram a US$ 111,50, alta de cerca de 34% ante o preço da oferta, levando o valor de mercado inicial a aproximadamente US$ 2 trilhões. A empresa espera concluir a operação em 20 de novembro, sujeito às condições usuais. Os recursos provenientes das ações vendidas por acionistas existentes não entram no caixa da Anthropic.",
+      "analysis": "O IPO permite captar recursos para sustentar investimentos intensivos em infraestrutura computacional e transforma a avaliação de uma empresa privada de IA em preço negociado continuamente no mercado. Há duas medidas que não devem ser confundidas: o valor levantado na oferta, calculado a partir das ações vendidas, e a capitalização de mercado, determinada pelo preço de negociação multiplicado pelo número de ações. A alta na estreia não significa que a empresa tenha recebido essa diferença em dinheiro. Para investidores e concorrentes, a negociação oferece um termômetro público das expectativas sobre receita, margens, custo de computação e retorno do investimento em modelos de inteligência artificial.",
+      "counterpoint": "A valorização no primeiro pregão reflete demanda por ações, não comprova lucratividade futura. Empresas de IA enfrentam custos elevados de treinamento e operação, concorrência e incertezas regulatórias. A cotação pode variar substancialmente após a estreia. O preço de US$ 111,50 é o valor de abertura relatado pela Reuters, não uma cotação garantida para o fechamento do dia.",
+      "sources": [
+        {
+          "name": "Anthropic — anúncio oficial da precificação, 18/11/2026",
+          "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+        },
+        {
+          "name": "Reuters — estreia da Anthropic na Nasdaq, 19/11/2026",
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
+        },
+        {
+          "name": "Associated Press — IPO da Anthropic, 19/11/2026",
+          "url": "https://apnews.com/article/70b660ddf900d90bbf484ecdf1fb441c"
+        }
+      ],
+      "en": {
+        "title": "ANTHROPIC MAKES NASDAQ DEBUT AFTER $81 BILLION IPO",
+        "subtitle": "The Claude developer begins trading under ANT, opening above its offering price in a test of investor appetite for artificial intelligence.",
+        "facts": "Anthropic, developer of the Claude artificial intelligence assistant, began trading on Nasdaq on Thursday, November 19, 2026, under the ticker ANT. On November 18, the company announced an initial public offering (IPO) price of $83 per share, covering 980 million shares: 956,351,354 sold by Anthropic and 23,648,646 by selling shareholders. The offering involved approximately $81 billion in shares. Reuters reported an opening price of $111.50, roughly 34% above the IPO price, implying an initial market capitalization of about $2 trillion. The offering is expected to close on November 20, subject to customary conditions. Anthropic does not receive proceeds from shares sold by existing shareholders.",
+        "analysis": "The IPO gives Anthropic access to public capital to support compute-intensive infrastructure investment and turns a private AI valuation into a continuously traded market price. Two figures must be distinguished: the amount raised by the offering and market capitalization, which depends on the trading price multiplied by outstanding shares. A first-day price jump does not deliver the entire increase in valuation as cash to the company. For investors and competitors, the listing provides a public gauge of expectations for AI revenue, margins, computing costs and investment returns.",
+        "counterpoint": "First-day demand is not proof of future profitability. AI developers face high training and operating costs, competition and regulatory uncertainty. Share prices can move sharply after a debut. The $111.50 figure is the Reuters-reported opening price, not a guaranteed closing price.",
+        "category": "TECHNOLOGY",
+        "slug": "anthropic-makes-nasdaq-debut-after-81-billion-ipo-2026-11-19"
+      },
+      "es": {
+        "title": "ANTHROPIC DEBUTA EN NASDAQ TRAS UNA OFERTA DE US$ 81.000 MILLONES",
+        "subtitle": "La creadora de Claude empieza a cotizar bajo el símbolo ANT y abre por encima del precio de colocación en una prueba para la inversión en inteligencia artificial.",
+        "facts": "Anthropic, desarrolladora del asistente de inteligencia artificial Claude, debutó en Nasdaq el jueves 19 de noviembre de 2026 bajo el símbolo ANT. El 18 de noviembre, la empresa anunció un precio de US$ 83 por acción para su oferta pública inicial (OPI), que abarcó 980 millones de acciones: 956.351.354 vendidas por Anthropic y 23.648.646 por accionistas vendedores. La oferta movilizó aproximadamente US$ 81.000 millones. Según Reuters, las acciones abrieron a US$ 111,50, cerca de un 34% por encima del precio de colocación, lo que implicó una capitalización inicial próxima a US$ 2 billones. Se prevé que la operación concluya el 20 de noviembre, sujeta a las condiciones habituales. Anthropic no recibe los ingresos de las acciones vendidas por accionistas existentes.",
+        "analysis": "La salida a bolsa permite captar capital público para inversiones intensivas en infraestructura informática y convierte la valoración privada de una empresa de IA en un precio negociado continuamente. Hay que distinguir el importe obtenido en la oferta de la capitalización bursátil, calculada según el precio de mercado y las acciones en circulación. La subida inicial no significa que toda la diferencia de valoración ingrese en la caja de la compañía. Para inversores y competidores, la cotización ofrece una referencia pública sobre expectativas de ingresos, márgenes, costos de computación y rentabilidad de la IA.",
+        "counterpoint": "La demanda del primer día no demuestra rentabilidad futura. Las empresas de IA afrontan elevados costos operativos y de entrenamiento, competencia e incertidumbre regulatoria. El precio puede fluctuar considerablemente tras el debut. Los US$ 111,50 corresponden al precio de apertura comunicado por Reuters, no a un cierre asegurado.",
+        "category": "TECNOLOGÍA",
+        "slug": "anthropic-debuta-en-nasdaq-tras-una-oferta-de-us-81-000-millones-2026-11-19"
+      },
+      "firstSeen": "2026-11-19T13:56:52-03:00"
+    },
+    {
       "id": "cij-condena-mianmar-genocidio-rohingya-2026-11-19",
       "date": "2026-11-19",
       "category": "MUNDO",
