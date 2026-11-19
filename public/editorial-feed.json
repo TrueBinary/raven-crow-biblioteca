@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": "cij-condena-mianmar-genocidio-rohingya-2026-11-19",
+      "date": "2026-11-19",
+      "category": "MUNDO",
+      "title": "CORTE DA ONU CONCLUI QUE MIANMAR COMETEU GENOCÍDIO CONTRA ROHINGYAS",
+      "subtitle": "Decisão da Corte Internacional de Justiça responsabiliza o Estado por atrocidades contra a minoria e determina medidas de reparação.",
+      "facts": "Em 19 de novembro de 2026, a Corte Internacional de Justiça (CIJ), sediada em Haia, concluiu que Mianmar cometeu genocídio contra a população rohingya no estado de Rakhine. A decisão foi proferida no processo iniciado pela Gâmbia. Segundo a leitura do julgamento, forças de segurança mataram milhares de civis, praticaram violência sexual generalizada, atacaram crianças e pessoas que fugiam para Bangladesh. Mianmar negava a acusação e afirmava que suas operações respondiam a uma insurgência armada. A corte rejeitou essa explicação como justificativa para os atos examinados.",
+      "analysis": "O ponto central é jurídico: a CIJ examina a responsabilidade internacional de Estados, e não condena individualmente comandantes ou soldados. Para reconhecer genocídio, não basta demonstrar mortes em massa; é necessário estabelecer a intenção de destruir, total ou parcialmente, um grupo protegido. A sentença representa uma mudança em relação às medidas provisórias adotadas anteriormente: há agora uma decisão sobre o mérito. A corte determinou medidas de reparação e garantias de não repetição, mas a implementação dependerá de ações concretas de Mianmar e de pressão internacional. Centenas de milhares de rohingyas fugiram para Bangladesh durante a campanha militar de 2016 e 2017; o julgamento não significa, por si só, que poderão retornar com segurança imediatamente.",
+      "counterpoint": "A decisão é vinculante no plano do direito internacional, mas a CIJ não dispõe de força policial própria para executá-la. A extensão prática das reparações e as condições de retorno dos refugiados permanecem questões abertas. A responsabilização do Estado tampouco equivale a uma condenação penal individual pela Corte Penal Internacional, instituição distinta.",
+      "sources": [
+        {
+          "name": "Reuters — decisão da CIJ, 19/11/2026",
+          "url": "https://www.reuters.com/world/asia-pacific/top-un-court-finds-myanmar-committed-state-sponsored-genocide-against-muslim-2026-11-19/"
+        },
+        {
+          "name": "The Guardian — julgamento e reparações, 19/11/2026",
+          "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar"
+        }
+      ],
+      "en": {
+        "title": "UN COURT FINDS MYANMAR RESPONSIBLE FOR GENOCIDE AGAINST ROHINGYA",
+        "subtitle": "The International Court of Justice holds the state responsible for atrocities and orders remedies.",
+        "facts": "On November 19, 2026, the International Court of Justice (ICJ) in The Hague ruled that Myanmar committed genocide against the Rohingya population in Rakhine State. The case was brought by The Gambia. Judges found that security forces killed thousands of civilians, committed widespread sexual violence and attacked children and people fleeing toward Bangladesh. Myanmar had denied genocide, describing its operations as a response to armed insurgents. The court rejected that account as a justification for the conduct examined.",
+        "analysis": "The distinction is crucial: the ICJ rules on state responsibility, not the criminal guilt of individual officers. Genocide requires proof of an intent to destroy a protected group, in whole or in part, beyond evidence of mass killings alone. Unlike earlier provisional measures, this is a judgment on the merits. The court ordered remedies and guarantees of non-repetition, but implementation will depend on Myanmar's actions and international pressure. Hundreds of thousands fled to Bangladesh during the 2016–2017 military campaign; the judgment does not itself ensure their safe return.",
+        "counterpoint": "ICJ judgments are binding under international law, but the court has no police force to enforce them. The practical scope of compensation and the conditions for refugee returns remain unresolved. State responsibility is distinct from individual criminal prosecution before the International Criminal Court.",
+        "category": "WORLD",
+        "slug": "un-court-finds-myanmar-responsible-for-genocide-against-rohingya-2026-11-19"
+      },
+      "es": {
+        "title": "LA CORTE DE LA ONU DECLARA QUE MYANMAR COMETIÓ GENOCIDIO CONTRA LOS ROHINGYAS",
+        "subtitle": "La Corte Internacional de Justicia responsabiliza al Estado por las atrocidades y ordena medidas de reparación.",
+        "facts": "El 19 de noviembre de 2026, la Corte Internacional de Justicia (CIJ), con sede en La Haya, concluyó que Myanmar cometió genocidio contra la población rohingya del estado de Rakhine. Gambia presentó el caso. Los jueces determinaron que las fuerzas de seguridad mataron a miles de civiles, cometieron violencia sexual generalizada y atacaron a niños y personas que huían hacia Bangladesh. Myanmar había negado el genocidio y sostenía que sus operaciones respondían a una insurgencia armada. La corte rechazó esa explicación como justificación de los actos examinados.",
+        "analysis": "La diferencia jurídica es fundamental: la CIJ determina la responsabilidad de los Estados, no la culpabilidad penal de oficiales individuales. Para acreditar genocidio es necesario demostrar la intención de destruir total o parcialmente a un grupo protegido, no solo asesinatos masivos. A diferencia de las medidas provisionales anteriores, esta es una sentencia sobre el fondo. El tribunal ordenó reparaciones y garantías de no repetición, pero su cumplimiento dependerá de Myanmar y de la presión internacional. Cientos de miles huyeron a Bangladesh durante la campaña militar de 2016 y 2017; la sentencia no garantiza por sí sola su retorno seguro.",
+        "counterpoint": "Las sentencias de la CIJ son vinculantes en el derecho internacional, pero el tribunal no dispone de una fuerza policial propia. El alcance efectivo de las indemnizaciones y las condiciones para el regreso de los refugiados siguen pendientes. La responsabilidad estatal es distinta de la persecución penal individual ante la Corte Penal Internacional.",
+        "category": "MUNDO",
+        "slug": "la-corte-de-la-onu-declara-que-myanmar-cometio-genocidio-contra-los-rohingyas-2026-11-19"
+      },
+      "firstSeen": "2026-11-19T11:56:35-03:00"
+    },
+    {
       "id": "pf-entrega-relatorios-fachin-ministros-master-2026-11-19",
       "date": "2026-11-19",
       "category": "JUSTIÇA",
