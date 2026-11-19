@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "id": "enem-2026-prazo-reaplicacao-termina-20-novembro",
+      "date": "2026-11-19",
+      "category": "EDUCAÇÃO",
+      "title": "ENEM 2026: PRAZO PARA PEDIR REAPLICAÇÃO TERMINA NESTA SEXTA ÀS 23H59",
+      "subtitle": "Inep exige solicitação pela Página do Participante até 20 de novembro; nova aplicação será em 15 e 16 de dezembro.",
+      "facts": "O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) informou nesta quinta-feira, 19 de novembro de 2026, que o prazo para solicitar a reaplicação do Exame Nacional do Ensino Médio (Enem) termina na sexta-feira, 20 de novembro, às 23h59, horário de Brasília. O pedido é feito exclusivamente pela Página do Participante, com documentação comprobatória. Podem solicitar candidatos prejudicados por problemas logísticos comprovados, desastres naturais que afetaram a aplicação ou doenças infectocontagiosas previstas no edital. As provas de reaplicação ocorrerão em 15 e 16 de dezembro.",
+      "analysis": "O aviso importa porque o prazo encerra amanhã, mas a reaplicação não é uma segunda chance geral para quem faltou. O candidato precisa demonstrar uma das hipóteses previstas no edital. O Enem regular ocorreu em 8 e 15 de novembro; quem teve apenas um dos dias inviabilizado solicita somente a prova correspondente. O procedimento prático é acessar https://enem.inep.gov.br/participante, apresentar a justificativa e anexar a documentação exigida antes do horário-limite. O Inep informou 5,05 milhões de inscrições confirmadas nesta edição, o que amplia o alcance potencial da orientação.",
+      "counterpoint": "O envio da solicitação não significa aprovação automática: o Inep analisará os documentos. Chuva sem prejuízo comprovado à aplicação, ausência por motivos pessoais ou atraso, isoladamente, não asseguram o direito à reaplicação. O participante deve acompanhar o resultado na plataforma oficial e conferir o edital aplicável ao seu caso.",
+      "sources": [
+        {
+          "name": "Inep, comunicado de 19/11/2026",
+          "url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/enem-2026-prazo-para-solicitar-reaplicacao-termina-nesta-sexta-20/"
+        },
+        {
+          "name": "Inep, orientações de 10/11/2026",
+          "url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/enem-quem-faltou-ao-primeiro-dia-pode-fazer-a-prova-no-segundo/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/EntradaEnem2010.JPG",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 3.0 Brasil",
+          "credit": "José Cruz/Agência Brasil",
+          "source_article": "https://commons.wikimedia.org/wiki/File:EntradaEnem2010.JPG",
+          "caption": "FOTO DE ARQUIVO (6 de novembro de 2010): candidatos entram em local de prova do Enem em Brasília. José Cruz/Agência Brasil, CC BY 3.0 Brasil. Não retrata o Enem 2026."
+        }
+      ],
+      "en": {
+        "title": "ENEM 2026: DEADLINE TO REQUEST A MAKEUP EXAM IS FRIDAY AT 11:59 PM",
+        "subtitle": "Brazil's Inep requires applications by November 20; makeup tests are scheduled for December 15 and 16.",
+        "facts": "Brazil's National Institute for Educational Studies and Research (Inep) announced on Thursday, November 19, 2026, that requests to retake the National High School Exam (Enem) must be submitted by Friday, November 20, at 11:59 p.m. Brasília time. Applicants must use the official Participant Page and provide supporting documents. Eligible circumstances include verified logistical failures, natural disasters that disrupted testing, and infectious diseases specified in the exam rules. Makeup exams are scheduled for December 15 and 16.",
+        "analysis": "The deadline matters because it expires tomorrow, but the makeup exam is not an unrestricted second chance for absentees. Candidates must document a qualifying circumstance. Regular exams took place on November 8 and 15; those affected on only one day request a makeup for that day's tests alone. The practical step is to visit https://enem.inep.gov.br/participante and submit the required evidence before the deadline. Inep reported 5.05 million confirmed registrations for the 2026 exam.",
+        "counterpoint": "Submitting a request does not guarantee approval: Inep reviews the evidence. Rain without proven disruption, personal absence or lateness alone do not establish eligibility. Candidates should check their application status and the official rules.",
+        "category": "EDUCATION",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (November 6, 2010): candidates enter an Enem test venue in Brasília. José Cruz/Agência Brasil, CC BY 3.0 Brazil. Does not depict the 2026 exam."
+        },
+        "slug": "enem-2026-deadline-to-request-a-makeup-exam-is-friday-at-11-59-pm"
+      },
+      "es": {
+        "title": "ENEM 2026: EL PLAZO PARA SOLICITAR LA REPETICIÓN TERMINA EL VIERNES A LAS 23:59",
+        "subtitle": "El Inep exige presentar la solicitud antes del 20 de noviembre; las nuevas pruebas serán el 15 y 16 de diciembre.",
+        "facts": "El Instituto Nacional de Estudios e Investigaciones Educativas (Inep) de Brasil informó el jueves 19 de noviembre de 2026 que el plazo para solicitar la repetición del Examen Nacional de Enseñanza Media (Enem) termina el viernes 20 de noviembre a las 23:59, hora de Brasilia. El trámite se realiza exclusivamente en la Página del Participante y exige documentación justificativa. Pueden solicitarlo quienes sufrieron problemas logísticos comprobados, desastres naturales que afectaron el examen o enfermedades infecciosas contempladas en las normas. Las pruebas se repetirán el 15 y 16 de diciembre.",
+        "analysis": "El aviso es importante porque el plazo vence mañana, pero la repetición no constituye una segunda oportunidad general para quienes faltaron. Es necesario demostrar una causa admitida. Las pruebas regulares fueron el 8 y 15 de noviembre; quien se vio afectado solo uno de esos días solicita únicamente esa parte. Para tramitarlo, hay que acceder a https://enem.inep.gov.br/participante y presentar los justificantes antes del cierre. El Inep registró 5,05 millones de inscripciones confirmadas en 2026.",
+        "counterpoint": "Presentar la solicitud no garantiza su aprobación: el Inep revisará los documentos. La lluvia sin perjuicio comprobado, la ausencia por motivos personales o llegar tarde no dan derecho automáticamente a repetir la prueba. Los participantes deben consultar el resultado y las normas oficiales.",
+        "category": "EDUCACIÓN",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (6 de noviembre de 2010): candidatos entran en un centro del Enem en Brasilia. José Cruz/Agência Brasil, CC BY 3.0 Brasil. No corresponde al examen de 2026."
+        },
+        "slug": "enem-2026-el-plazo-para-solicitar-la-repeticion-termina-el-viernes-a-las-23-59"
+      },
+      "firstSeen": "2026-11-19T19:02:28-03:00"
+    },
+    {
       "id": "trump-xi-putin-declaracao-paz-shenzhen-2026-11-19",
       "date": "2026-11-19",
       "category": "MUNDO",
