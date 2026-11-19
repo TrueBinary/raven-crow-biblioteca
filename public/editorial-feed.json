@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "comissao-europeia-propoe-45-bilhoes-euros-ucrania-2027-2026-11-18",
+      "date": "2026-11-18",
+      "category": "MUNDO",
+      "title": "COMISSÃO EUROPEIA PROPÕE EMPRÉSTIMO DE € 45 BILHÕES À UCRÂNIA PARA 2027",
+      "subtitle": "Plano prevê € 25 bilhões para defesa e € 20 bilhões para o orçamento; proposta depende de aprovação europeia e de garantias.",
+      "facts": "Em 18 de novembro de 2026, a Comissão Europeia apresentou propostas legislativas para conceder até € 45 bilhões adicionais em empréstimos à Ucrânia em 2027. O valor corresponde a cerca de dois terços de uma necessidade adicional estimada em € 70 bilhões. A proposta reserva até € 25 bilhões para assistência militar e € 20 bilhões para apoio ao orçamento, incluindo serviços públicos. A União Europeia captaria recursos nos mercados financeiros e garantiria a operação por meio de seu orçamento. A Comissão afirma que o principal seria exigível da Ucrânia apenas após o recebimento de reparações russas. O pacote ainda precisa percorrer o processo legislativo europeu.",
+      "analysis": "A novidade não é uma transferência imediata, mas um mecanismo de financiamento de 2027 que procura tornar previsíveis os recursos de defesa e de funcionamento do Estado ucraniano. O novo empréstimo seria adicional ao programa europeu de € 90 bilhões já previsto para 2026–2027, e não uma parcela desse valor. Se a necessidade adicional de € 70 bilhões se confirmar, os € 45 bilhões cobririam aproximadamente 64% do total, deixando cerca de € 25 bilhões para outros parceiros. O apoio orçamentário também dependeria de reformas em áreas como Estado de Direito e combate à corrupção. Para os contribuintes europeus, o ponto decisivo é a garantia orçamentária que sustenta a captação, mesmo com a promessa de reembolso condicionado a reparações.",
+      "counterpoint": "O anúncio não equivale a dinheiro aprovado ou desembolsado. Governos da UE e Parlamento Europeu ainda precisam deliberar, e a alteração da garantia orçamentária exige unanimidade dos Estados-membros. A obrigação de reparações pela Rússia não assegura quando ou se haverá pagamento; por isso, a exposição e o custo de financiamento europeus exigem acompanhamento. A estimativa de € 70 bilhões também poderá mudar conforme a evolução da guerra e as receitas ucranianas.",
+      "sources": [
+        {
+          "name": "Comissão Europeia, comunicado oficial, 18/11/2026",
+          "url": "https://enlargement.ec.europa.eu/news/commission-proposes-eur45-billion-additional-financial-support-ukraine-2027-2026-11-18_en"
+        },
+        {
+          "name": "Reuters, 18/11/2026",
+          "url": "https://www.reuters.com/world/eu-proposes-new-45-billion-loan-ukraine-2027-be-repaid-by-russia-2026-11-18/"
+        },
+        {
+          "name": "Associated Press, 18/11/2026",
+          "url": "https://apnews.com/article/8c1baf00b55973a3534096aae2cc73a2"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Visit_of_Ursula_von_der_Leyen%2C_President_of_the_European_European%2C_in_the_ERCC_%28P-070367-00-14%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 4.0",
+          "credit": "Dati Bendo / Comissão Europeia",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Visit_of_Ursula_von_der_Leyen,_President_of_the_European_European,_in_the_ERCC_(P-070367-00-14).jpg",
+          "caption": "FOTO DE ARQUIVO (31/08/2026): Ursula von der Leyen visita o Centro de Coordenação de Resposta a Emergências, em Bruxelas. Dati Bendo/Comissão Europeia, CC BY 4.0. Não retrata o anúncio do empréstimo de 18/11/2026."
+        }
+      ],
+      "en": {
+        "title": "European Commission proposes additional €45 billion loan for Ukraine in 2027",
+        "subtitle": "Plan earmarks €25 billion for defence and €20 billion for budget support, pending EU approvals.",
+        "facts": "On November 18, 2026, the European Commission unveiled legislative proposals for up to €45 billion in additional loans to Ukraine in 2027. The amount would cover roughly two-thirds of an estimated €70 billion additional financing gap. Up to €25 billion would fund military assistance and €20 billion general budget support. The EU would borrow on capital markets backed by its budget, with principal repayable by Ukraine only after Russia pays reparations. The plan has not yet been approved.",
+        "analysis": "This is a proposed financing mechanism, not an immediate disbursement. It is additional to the previously agreed €90 billion EU support loan for 2026–27. The €45 billion would cover about 64% of the estimated additional €70 billion need, leaving approximately €25 billion to other partners. Budget assistance would be tied to rule-of-law and anti-corruption reforms. The EU budget guarantee, rather than the repayment promise alone, is central to understanding the financial exposure.",
+        "counterpoint": "EU governments and the European Parliament must still approve the measures, and the budget-guarantee amendment requires unanimity. Russian reparations have no assured payment date. The funding gap may also change as the war evolves.",
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (August 31, 2026): Ursula von der Leyen visits the Emergency Response Coordination Centre in Brussels. Dati Bendo/European Commission, CC BY 4.0. Not the November 18 loan announcement."
+        },
+        "slug": "european-commission-proposes-additional-45-billion-loan-for-ukraine-in-2027-2026-11-18"
+      },
+      "es": {
+        "title": "La Comisión Europea propone un préstamo adicional de 45.000 millones de euros a Ucrania para 2027",
+        "subtitle": "El plan prevé 25.000 millones para defensa y 20.000 millones para el presupuesto, sujeto a aprobación europea.",
+        "facts": "El 18 de noviembre de 2026, la Comisión Europea presentó propuestas legislativas para conceder hasta 45.000 millones de euros adicionales en préstamos a Ucrania en 2027. Cubrirían aproximadamente dos tercios de una necesidad adicional estimada en 70.000 millones. Hasta 25.000 millones financiarían asistencia militar y 20.000 millones el presupuesto público. La UE captaría fondos en los mercados con garantía de su presupuesto; Ucrania devolvería el principal solo después de recibir reparaciones de Rusia. El plan todavía no está aprobado.",
+        "analysis": "Se trata de un mecanismo propuesto, no de un desembolso inmediato. Es adicional al préstamo europeo de 90.000 millones ya acordado para 2026–2027. Los 45.000 millones cubrirían cerca del 64% de la necesidad adicional estimada y dejarían unos 25.000 millones para otros socios. El apoyo presupuestario dependería de reformas sobre Estado de derecho y anticorrupción. La garantía presupuestaria de la UE es clave para evaluar el riesgo financiero.",
+        "counterpoint": "Los gobiernos de la UE y el Parlamento Europeo aún deben aprobar las medidas, y la modificación de la garantía presupuestaria requiere unanimidad. No hay fecha garantizada para las reparaciones rusas. Las necesidades financieras también pueden variar.",
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (31 de agosto de 2026): Ursula von der Leyen visita el Centro de Coordinación de la Respuesta a Emergencias en Bruselas. Dati Bendo/Comisión Europea, CC BY 4.0. No corresponde al anuncio del préstamo del 18 de noviembre."
+        },
+        "slug": "la-comision-europea-propone-un-prestamo-adicional-de-45-000-millones-de-euros-a-2026-11-18"
+      },
+      "firstSeen": "2026-11-18T23:04:00-03:00"
+    },
+    {
       "id": "senado-conclui-ajuste-fiscal-envia-camara-2026-11-18",
       "date": "2026-11-18",
       "category": "ECONOMIA",
