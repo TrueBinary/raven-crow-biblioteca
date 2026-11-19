@@ -2,9 +2,49 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-19T19:02:28-03:00",
+  "updatedAt": "2026-11-19T20:01:59-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "prf-operacao-consciencia-negra-2026-rodovias-federais",
+      "date": "2026-11-19",
+      "category": "BRASIL",
+      "title": "PRF REFORÇA FISCALIZAÇÃO NAS RODOVIAS ATÉ DOMINGO NO FERIADO DA CONSCIÊNCIA NEGRA",
+      "subtitle": "Operação iniciada nesta quinta-feira concentra ações em velocidade, ultrapassagens, álcool e proteção de motociclistas; restrições a cargas variam por trecho.",
+      "facts": "A Polícia Rodoviária Federal (PRF) iniciou nesta quinta-feira, 19 de novembro de 2026, a Operação Dia da Consciência Negra nas rodovias federais do Brasil. O reforço segue até domingo, 22 de novembro, em razão do feriado nacional de sexta-feira, dia 20. Comunicados da PRF em São Paulo, Rio de Janeiro e outros estados confirmam fiscalização de velocidade, ultrapassagens proibidas, embriaguez ao volante, cintos, cadeirinhas e segurança de motociclistas. A PRF prevê maior movimento na saída para o feriado, na noite de quinta, e no retorno de domingo.",
+      "analysis": "A orientação mais útil ao viajante é distinguir reforço de fiscalização de interdição geral: a operação não significa fechamento das rodovias. Em São Paulo, a PRF anunciou restrição a determinados veículos de carga que excedam limites de dimensões ou peso em rodovias federais de pista simples, das 16h às 22h de quinta, das 6h às 12h de sexta e das 16h às 22h de domingo. Os limites informados incluem largura superior a 2,6 m, altura superior a 4,4 m, comprimento superior a 19,8 m ou peso bruto total combinado superior a 58,5 toneladas. Motoristas devem consultar as regras específicas de seu trajeto, revisar pneus, freios e iluminação e reservar tempo adicional para os deslocamentos. Em emergências nas rodovias federais, a PRF atende pelo 191.",
+      "counterpoint": "Os comunicados descrevem uma operação preventiva e projeções de tráfego; não são balanço de acidentes do feriado de 2026. Os horários e limites de restrição de cargas não se aplicam indistintamente a todas as vias e veículos. Não há base, neste momento, para afirmar que o reforço já reduziu sinistros. A fotografia de arquivo identificada em acervo aberto não foi incluída porque não foi possível confirmar por GET o arquivo JPEG direto exigido pelo padrão técnico do site.",
+      "sources": [
+        {
+          "name": "PRF São Paulo, comunicado de 18/11/2026",
+          "url": "https://www.gov.br/prf/pt-br/noticias/estaduais/sao-paulo/prf-inicia-operacao-consciencia-negra-2026-nas-rodovias-federais-de-sao-paulo"
+        },
+        {
+          "name": "PRF Rio de Janeiro, comunicado de 18/11/2026",
+          "url": "https://www.gov.br/prf/pt-br/noticias/estaduais/rio-de-janeiro/2026/novembro/prf-intensifica-fiscalizacao-nas-rodovias-federais-do-rj-durante-o-feriado-da-consciencia-negra"
+        },
+        {
+          "name": "Agência Brasil, 18/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/prf-inicia-operacao-para-garantir-seguranca-nas-estradas-no-feriadao"
+        }
+      ],
+      "en": {
+        "title": "BRAZIL'S HIGHWAY POLICE STEP UP ROAD CHECKS THROUGH SUNDAY FOR BLACK CONSCIOUSNESS HOLIDAY",
+        "subtitle": "The operation began November 19, focusing on speeding, unsafe overtaking, drink-driving and motorcycle safety; truck restrictions vary by road.",
+        "facts": "Brazil's Federal Highway Police (PRF) began its Black Consciousness Day road-safety operation on Thursday, November 19, 2026. Increased enforcement on federal highways will continue through Sunday, November 22, around the November 20 national holiday. Official notices in São Paulo, Rio de Janeiro and other states identify speeding, prohibited overtaking, impaired driving, seat belts, child restraints and motorcycle safety as priorities. Traffic is expected to peak on Thursday evening and during Sunday's return journeys.",
+        "analysis": "The practical distinction is that stronger enforcement does not mean a general road closure. In São Paulo, certain oversized or overweight freight vehicles face restrictions on single-carriageway federal roads from 4 p.m. to 10 p.m. Thursday, 6 a.m. to noon Friday and 4 p.m. to 10 p.m. Sunday. Published thresholds include more than 2.6 metres wide, 4.4 metres high, 19.8 metres long or 58.5 tonnes gross combined weight. Drivers should check the rules for their routes, inspect tyres, brakes and lights, and allow extra travel time. For emergencies on federal highways, call PRF at 191.",
+        "counterpoint": "These announcements set out preventive measures and traffic forecasts, not accident statistics for the 2026 holiday. Freight restrictions do not apply equally to every road or vehicle. There is not yet evidence that the operation has reduced crashes. An archival photograph was located, but was excluded because direct JPEG access could not be verified with the required GET request.",
+        "category": "BRAZIL"
+      },
+      "es": {
+        "title": "BRASIL REFUERZA LOS CONTROLES EN CARRETERAS HASTA EL DOMINGO POR EL FERIADO DE LA CONCIENCIA NEGRA",
+        "subtitle": "La operación comenzó el 19 de noviembre, con controles de velocidad, adelantamientos, alcohol y seguridad de motociclistas; las restricciones a camiones dependen de la vía.",
+        "facts": "La Policía Federal de Carreteras (PRF) de Brasil inició el jueves 19 de noviembre de 2026 la Operación Día de la Conciencia Negra en las carreteras federales. El refuerzo de los controles continuará hasta el domingo 22, durante el feriado nacional del 20 de noviembre. Comunicados oficiales en São Paulo, Río de Janeiro y otros estados señalan como prioridades el exceso de velocidad, los adelantamientos prohibidos, la conducción bajo efectos del alcohol, los cinturones, los sistemas infantiles y la protección de motociclistas. Se espera más tráfico el jueves por la noche y durante el regreso del domingo.",
+        "analysis": "Para los viajeros, es importante distinguir el aumento de controles de un cierre general de carreteras. En São Paulo se anunciaron restricciones para determinados vehículos de carga de grandes dimensiones o peso en vías federales de calzada única: jueves de 16:00 a 22:00, viernes de 6:00 a 12:00 y domingo de 16:00 a 22:00. Los límites publicados incluyen más de 2,6 metros de ancho, 4,4 de alto, 19,8 de largo o 58,5 toneladas de peso bruto total combinado. Conviene consultar las reglas del trayecto, revisar neumáticos, frenos y luces y prever más tiempo. En emergencias en carreteras federales, la PRF atiende en el 191.",
+        "counterpoint": "Los comunicados describen medidas preventivas y previsiones de tráfico, no un balance de accidentes del feriado de 2026. Las restricciones de carga no se aplican por igual a todas las carreteras y vehículos. Todavía no hay pruebas de que el operativo haya reducido los siniestros. Se encontró una fotografía de archivo, pero se descartó al no poder verificarse mediante GET el acceso directo al JPEG exigido.",
+        "category": "BRASIL"
+      }
+    },
     {
       "id": "enem-2026-prazo-reaplicacao-termina-20-novembro",
       "date": "2026-11-19",
