@@ -1574,5 +1574,29 @@
     "artist": "Wilson Dias / Agência Brasil",
     "illustrative": false,
     "caption": "FOTO DE ARQUIVO (26/08/2007, Brasília): Participantes de edição antiga do Enem, não da prova de 2026. Imagem ilustrativa; não retrata os acontecimentos recentes tratados na notícia."
+  },
+  "java4shell-falha-java-alerta-agencias-seguranca-2026-11-19": {
+    "path": "editorial/photos/java4shell-falha-java-alerta-agencias-seguranca-2026-11-19.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Computer_server_rack.jpg",
+    "license": "CC BY-SA 2.5",
+    "artist": "Ricardo Moctezuma López / Wikimedia Commons",
+    "illustrative": false,
+    "caption": "FOTO DE ARQUIVO (outubro de 2006): rack de servidores, fotografia de Ricardo Moctezuma López, Wikimedia Commons, CC BY-SA 2.5. Não retrata sistemas afetados pela vulnerabilidade Java4Shell."
+  },
+  "tres-navios-atingidos-drones-proximo-romenia-mar-negro-2026-11-15": {
+    "path": "editorial/photos/tres-navios-atingidos-drones-proximo-romenia-mar-negro-2026-11-15.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Port_of_Constanca.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Svilen Enev / Wikimedia Commons",
+    "illustrative": false,
+    "caption": "FOTO DE ARQUIVO (julho de 2007, Constança, Romênia): Porto no Mar Negro, não os navios atingidos por drones. Imagem ilustrativa; não retrata os acontecimentos recentes tratados na notícia."
+  },
+  "o-silencio-do-acusado-nao-e-confissao-2026-11-17": {
+    "path": "editorial/photos/o-silencio-do-acusado-nao-e-confissao-2026-11-17.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Supremo_Tribunal_Federal.jpg",
+    "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/",
+    "artist": "Everton137 / Wikimedia Commons",
+    "illustrative": false,
+    "caption": "FOTO DE ARQUIVO (26/04/2010), Brasília (DF): edifício do Supremo Tribunal Federal. Não retrata investigação, julgamento ou acontecimento recente."
   }
 }
