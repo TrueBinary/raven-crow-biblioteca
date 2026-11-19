@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "dolar-5868-ibovespa-cai-134-18-novembro-2026",
+      "date": "2026-11-18",
+      "category": "ECONOMIA",
+      "title": "DÓLAR FECHA A R$ 5,868, MAIOR VALOR EM 19 MESES; IBOVESPA RECUA 1,34%",
+      "subtitle": "Moeda americana avança pela quinta sessão consecutiva; votação fiscal e juros nos EUA influenciam o mercado.",
+      "facts": "Em 18 de novembro de 2026, o dólar comercial fechou a R$ 5,868, alta de 1,48% no dia e maior cotação desde 15 de abril de 2025. Foi a quinta sessão consecutiva de valorização. O Ibovespa encerrou em 167.537,95 pontos, queda de 1,34%. O Banco Central realizou dois leilões de linha, totalizando US$ 1 bilhão com compromisso de recompra, para ampliar a liquidez cambial. A Agência Brasil relacionou a pressão à valorização internacional do dólar e à incerteza sobre o ajuste fiscal brasileiro.",
+      "analysis": "O movimento combina fatores domésticos e externos: a discussão do ajuste fiscal no Congresso aumenta a atenção à trajetória das contas públicas, enquanto expectativas de juros americanos mais elevados favorecem o dólar internacionalmente. A diferença entre a alta de 1,48% do câmbio no dia e o avanço de 0,23% do índice internacional do dólar, informado pela Agência Brasil, sugere que não se deve atribuir toda a oscilação brasileira exclusivamente ao exterior. Para empresas que importam insumos ou têm dívidas em moeda estrangeira, a valorização do dólar pode elevar custos; a transmissão aos preços ao consumidor depende de contratos, estoques e concorrência.",
+      "counterpoint": "Oscilações de uma sessão não comprovam uma causa única nem garantem que a tendência continuará. Os leilões de linha oferecem liquidez e não representam uma meta de cotação. A aprovação posterior de medidas fiscais também não assegura, isoladamente, a reversão do câmbio. Os dados são de fechamento de 18 de novembro e não representam uma cotação em tempo real.",
+      "sources": [
+        {
+          "name": "Agência Brasil — Wellton Máximo, 18/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-587-com-expectativa-sobre-votacao-de-ajuste-fiscal"
+        }
+      ],
+      "en": {
+        "title": "Brazilian real weakens as dollar closes at R$5.868, highest in 19 months",
+        "subtitle": "The dollar rises for a fifth consecutive session while the Ibovespa falls 1.34%.",
+        "facts": "On November 18, 2026, the US dollar closed at R$5.868 in Brazil, up 1.48% on the day and its highest closing level since April 15, 2025. It was the fifth consecutive daily increase. The Ibovespa fell 1.34% to 167,537.95 points. Brazil's Central Bank held two foreign-exchange liquidity auctions totaling US$1 billion with future repurchase commitments. Agência Brasil cited both global dollar strength and uncertainty over Brazil's fiscal package.",
+        "analysis": "Domestic fiscal concerns and international interest-rate expectations both matter. Agência Brasil reported a 0.23% increase in the global dollar index, compared with a 1.48% rise in Brazil's exchange rate, illustrating why the move cannot simply be attributed to global markets. A weaker real can increase costs for importers and companies with dollar-denominated liabilities, although the effect on consumer prices depends on other conditions.",
+        "counterpoint": "One trading session cannot establish a single cause or predict the next move. The central bank's liquidity auctions do not imply a target exchange rate. These are November 18 closing figures, not live quotes.",
+        "category": "ECONOMY",
+        "slug": "brazilian-real-weakens-as-dollar-closes-at-r-5-868-highest-in-19-months"
+      },
+      "es": {
+        "title": "El dólar cierra a R$ 5,868 en Brasil, su nivel más alto en 19 meses",
+        "subtitle": "La divisa sube por quinta sesión consecutiva y el Ibovespa cae un 1,34%.",
+        "facts": "El 18 de noviembre de 2026, el dólar comercial cerró a R$ 5,868, con un alza diaria del 1,48% y su mayor cotización desde el 15 de abril de 2025. Fue su quinta sesión consecutiva al alza. El Ibovespa bajó un 1,34%, hasta 167.537,95 puntos. El Banco Central de Brasil realizó dos subastas de liquidez cambiaria por un total de US$ 1.000 millones, con compromiso de recompra futura. Agência Brasil señaló la fortaleza internacional del dólar y la incertidumbre sobre el ajuste fiscal.",
+        "analysis": "La evolución del tipo de cambio refleja factores internos y externos. Según Agência Brasil, el índice internacional del dólar avanzó un 0,23%, frente al 1,48% registrado en Brasil, lo que impide atribuir toda la variación al exterior. La depreciación del real puede encarecer las importaciones y las obligaciones denominadas en dólares, aunque su traslado a los precios depende de otros factores.",
+        "counterpoint": "Una sola jornada no demuestra una causa única ni permite anticipar la tendencia. Las subastas del Banco Central buscan aportar liquidez, no fijar un tipo de cambio. Los datos corresponden al cierre del 18 de noviembre y no son cotizaciones en tiempo real.",
+        "category": "ECONOMÍA",
+        "slug": "el-dolar-cierra-a-r-5-868-en-brasil-su-nivel-mas-alto-en-19-meses"
+      },
+      "firstSeen": "2026-11-18T23:04:00-03:00"
+    },
+    {
       "id": "comissao-europeia-propoe-45-bilhoes-euros-ucrania-2027-2026-11-18",
       "date": "2026-11-18",
       "category": "MUNDO",
