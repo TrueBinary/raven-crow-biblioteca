@@ -1,7 +1,78 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T10:00:00-03:00",
+  "updatedAt": "2026-11-19T19:00:00-03:00",
   "essays": [
+    {
+      "id": "o-veto-nao-e-um-trono-e-o-congresso-nao-e-figurante-2026-11-19",
+      "section": "Política e sociedade",
+      "date": "2026-11-19",
+      "title": "O VETO NÃO É UM TRONO. E O CONGRESSO NÃO É FIGURANTE.",
+      "subtitle": "A Constituição deu uma caneta ao presidente e reservou ao Parlamento o direito de contestar o risco.",
+      "eyebrow": "OPINIÃO",
+      "paragraphs": [
+        "Há uma cena curiosa na política brasileira: o presidente risca um trecho de uma lei aprovada pelo Congresso, e parte da torcida reage como se a caneta tivesse encerrado o assunto para sempre. O veto presidencial vira sentença divina; o Parlamento, uma plateia obrigada a aplaudir o último ato. Só esqueceram de avisar à Constituição que a República tinha virado monólogo.",
+        "O artigo 66 da Constituição é menos teatral. O presidente pode vetar um projeto, no todo ou em parte, por inconstitucionalidade ou contrariedade ao interesse público. Deve comunicar as razões. Depois, deputados e senadores podem examinar o veto em sessão conjunta e rejeitá-lo por maioria absoluta em cada Casa. O poder de dizer 'não' existe; o direito de ouvir um 'não' de volta também. É precisamente esse desconforto que impede a caneta de virar cetro.",
+        "Não se trata de preciosismo acadêmico. Em janeiro de 2025, a Agência Senado registrou 55 vetos presidenciais pendentes de análise, o maior acúmulo pelo menos desde 2018. Não é prova de que todos fossem injustos, muito menos de que um único lado estivesse sabotando a democracia. É um retrato mais interessante: a Constituição desenhou uma conversa entre Poderes, mas a conversa pode acumular tantas falas interrompidas que a pauta começa a parecer uma caixa postal lotada.",
+        "O veto tem função legítima. Um presidente precisa poder barrar texto que considere incompatível com a Constituição ou prejudicial ao interesse público. E o Congresso, convenhamos, não produz sabedoria infalível só porque reúne centenas de parlamentares sob ar-condicionado. Derrubar todo veto por espírito de revanche seria tão infantil quanto mantê-lo apenas para proteger a autoridade de quem o assinou. A pergunta correta é sobre o conteúdo, as razões e os efeitos da decisão.",
+        "O problema começa quando cada instituição se apaixona pela própria assinatura. O Executivo apresenta o veto como prova de coragem; o Legislativo anuncia a derrubada como troféu de força. Enquanto isso, o cidadão que vai obedecer à norma mal consegue descobrir qual versão do texto sobreviveu ao duelo. A política tem um talento especial para transformar um mecanismo de controle recíproco em campeonato de vaidades. E a conta, como de costume, não fica no camarote.",
+        "Meu caro leitor, uma República não precisa de autoridades incapazes de perder uma votação. Precisa de autoridades capazes de explicar por que vetaram, por que mantiveram ou por que derrubaram um veto. O presidente não é dono da última palavra só por ocupar o Planalto; o Congresso tampouco ganha razão automática quando o contraria. Se a caneta presidencial fosse soberana, não haveria revisão. Se a maioria parlamentar fosse sagrada, não haveria veto. A Constituição desconfiou dos dois. Fez bem."
+      ],
+      "sources": [
+        {
+          "title": "Constituição da República Federativa do Brasil, art. 66 — Senado Federal",
+          "url": "https://legis.senado.leg.br/norma/579494/publicacao/16434817"
+        },
+        {
+          "title": "Agência Senado — Congresso tem 55 vetos para analisar (20/01/2025)",
+          "url": "https://www12.senado.leg.br/noticias/materias/2025/01/20/congresso-tem-55-vetos-para-analisar-no-retorno-das-atividades-legislativas"
+        },
+        {
+          "title": "Agência Senado — Como surgem os vetos presidenciais (04/06/2004)",
+          "url": "https://www12.senado.leg.br/noticias/materias/2004/06/04/como-surgem-os-vetos-presidenciais"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://live.staticflickr.com/65535/49527498167_a4fe1c33c5_o.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Jefferson Rudy / Agência Senado",
+          "license": "CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Plen%C3%A1rio_do_Congresso_(49527498167).jpg",
+          "caption": "FOTO DE ARQUIVO (12/02/2020), Brasília (DF): sessão conjunta do Congresso Nacional para deliberar sobre vetos presidenciais de 2019. Não retrata votação ou acontecimento recente."
+        }
+      ],
+      "en": {
+        "title": "A VETO IS NOT A THRONE. CONGRESS IS NOT AN EXTRA.",
+        "subtitle": "The Constitution gave the president a pen and Parliament the right to challenge its strokes.",
+        "eyebrow": "OPINION",
+        "section": "Politics and society",
+        "paragraphs": [
+          "There is a peculiar scene in Brazilian politics: the president crosses out part of a bill passed by Congress, and supporters behave as though the pen has settled the matter for eternity. A presidential veto becomes a divine decree; Parliament is reduced to an audience expected to applaud. Someone forgot to tell the Constitution that the republic had become a one-man show.",
+          "Article 66 of Brazil's Constitution is less theatrical. The president may veto a bill, in whole or in part, on constitutional or public-interest grounds, and must state the reasons. Deputies and senators may then review the veto in a joint session and override it with an absolute majority in each chamber. The power to say no exists. So does the possibility of hearing no in return. That discomfort is exactly what keeps a pen from becoming a scepter.",
+          "This is not an academic quibble. In January 2025, the Senate News Agency reported 55 presidential vetoes awaiting review, the largest backlog since at least 2018. That proves neither that every veto was unjustified nor that one political camp was sabotaging democracy. It reveals something more telling: the Constitution designed a conversation among branches of government, but so many lines can be left unanswered that the agenda starts to resemble an overflowing inbox.",
+          "The veto serves a legitimate purpose. A president must be able to block legislation believed to violate the Constitution or harm the public interest. And Congress, frankly, does not become infallible merely because hundreds of lawmakers sit together in an air-conditioned chamber. Overriding every veto out of spite would be as childish as upholding one solely to save the signer's pride. What matters is the substance, the reasons and the consequences.",
+          "Trouble begins when each institution falls in love with its own signature. The executive sells the veto as courage; the legislature markets the override as a show of strength. Meanwhile, the citizen expected to obey the law can barely tell which version survived the contest. Politics has a gift for turning mutual oversight into a vanity tournament. And the bill, as usual, is not left in the VIP box.",
+          "A republic does not need officials incapable of losing a vote. It needs officials who can explain why they vetoed, upheld or overrode a measure. The president does not own the last word simply by occupying the presidential palace; Congress is not automatically right when it disagrees. If the presidential pen were sovereign, there would be no review. If the parliamentary majority were sacred, there would be no veto. The Constitution distrusted both. Wisely."
+        ],
+        "photo_caption": "ARCHIVE PHOTO (February 12, 2020), Brasília, Brazil: joint session of Congress to consider presidential vetoes from 2019. It does not depict a recent vote or event."
+      },
+      "es": {
+        "title": "UN VETO NO ES UN TRONO. EL CONGRESO NO ES UN EXTRA.",
+        "subtitle": "La Constitución dio una pluma al presidente y reservó al Parlamento el derecho de cuestionar sus trazos.",
+        "eyebrow": "OPINIÓN",
+        "section": "Política y sociedad",
+        "paragraphs": [
+          "Hay una escena curiosa en la política brasileña: el presidente tacha un fragmento de una ley aprobada por el Congreso y sus partidarios reaccionan como si la pluma hubiera zanjado el asunto para siempre. El veto presidencial se convierte en decreto divino; el Parlamento, en público obligado a aplaudir. Se olvidaron de avisarle a la Constitución que la república se había vuelto un monólogo.",
+          "El artículo 66 de la Constitución brasileña es menos teatral. El presidente puede vetar un proyecto, total o parcialmente, por inconstitucionalidad o por razones de interés público, y debe explicar sus motivos. Después, diputados y senadores pueden examinar el veto en sesión conjunta y rechazarlo mediante mayoría absoluta en cada cámara. Existe el poder de decir que no; también existe la posibilidad de escuchar un no de vuelta. Esa incomodidad impide que la pluma se convierta en cetro.",
+          "No es una sutileza académica. En enero de 2025, la Agencia Senado informó que había 55 vetos presidenciales pendientes de examen, la mayor acumulación desde al menos 2018. Eso no demuestra que todos fueran injustos ni que un solo sector estuviera saboteando la democracia. Muestra algo más interesante: la Constitución diseñó una conversación entre poderes, pero pueden quedar tantas intervenciones sin respuesta que el orden del día termina pareciéndose a una bandeja de entrada desbordada.",
+          "El veto cumple una función legítima. Un presidente debe poder frenar una norma que considere contraria a la Constitución o perjudicial para el interés público. Y el Congreso, seamos francos, no produce sabiduría infalible solo porque reúna a cientos de parlamentarios bajo aire acondicionado. Rechazar cada veto por revancha sería tan infantil como mantenerlo únicamente para proteger el orgullo de quien lo firmó. Importan el contenido, los motivos y las consecuencias.",
+          "El problema empieza cuando cada institución se enamora de su propia firma. El Ejecutivo presenta el veto como una muestra de valentía; el Legislativo vende su rechazo como trofeo de fuerza. Mientras tanto, el ciudadano que deberá cumplir la norma apenas consigue averiguar qué versión del texto sobrevivió al duelo. La política tiene un talento especial para convertir el control recíproco en campeonato de vanidades. Y la cuenta, como siempre, no se queda en el palco.",
+          "Una república no necesita autoridades incapaces de perder una votación. Necesita autoridades capaces de explicar por qué vetaron, mantuvieron o rechazaron un veto. El presidente no posee la última palabra solo por ocupar el palacio presidencial; el Congreso tampoco tiene razón automáticamente cuando lo contradice. Si la pluma presidencial fuera soberana, no habría revisión. Si la mayoría parlamentaria fuera sagrada, no habría veto. La Constitución desconfió de ambos. Hizo bien."
+        ],
+        "photo_caption": "FOTO DE ARCHIVO (12/02/2020), Brasilia, Brasil: sesión conjunta del Congreso para examinar vetos presidenciales de 2019. No retrata una votación ni un acontecimiento reciente."
+      }
+    },
     {
       "id": "a-lei-mandou-advertir-o-boleto-nao-leu-2026-11-19",
       "section": "Política e sociedade",
