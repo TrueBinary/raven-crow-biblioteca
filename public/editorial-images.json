@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "gta-vi-lancado-ps5-xbox-series-2026-11-19": "editorial/covers/gta-vi-lancado-ps5-xbox-series-2026-11-19.svg",
     "dinamarca-aprova-acordo-defesa-groenlandia-eua-2026-11-19": "editorial/covers/dinamarca-aprova-acordo-defesa-groenlandia-eua-2026-11-19.svg",
     "anthropic-estreia-nasdaq-ipo-81-bilhoes-2026-11-19": "editorial/covers/anthropic-estreia-nasdaq-ipo-81-bilhoes-2026-11-19.svg",
     "cij-condena-mianmar-genocidio-rohingya-2026-11-19": "editorial/covers/cij-condena-mianmar-genocidio-rohingya-2026-11-19.svg",
@@ -431,7 +432,8 @@
     "java4shell-falha-java-alerta-agencias-seguranca-2026-11-19": "editorial/photos/java4shell-falha-java-alerta-agencias-seguranca-2026-11-19.jpg",
     "tres-navios-atingidos-drones-proximo-romenia-mar-negro-2026-11-15": "editorial/photos/tres-navios-atingidos-drones-proximo-romenia-mar-negro-2026-11-15.jpg",
     "o-silencio-do-acusado-nao-e-confissao-2026-11-17": "editorial/photos/o-silencio-do-acusado-nao-e-confissao-2026-11-17.jpg",
-    "adnoc-tripulante-desaparecido-11-feridos-ataque-ormuz-2026-11-18": "editorial/photos/adnoc-tripulante-desaparecido-11-feridos-ataque-ormuz-2026-11-18.jpg"
+    "adnoc-tripulante-desaparecido-11-feridos-ataque-ormuz-2026-11-18": "editorial/photos/adnoc-tripulante-desaparecido-11-feridos-ataque-ormuz-2026-11-18.jpg",
+    "gta-vi-lancado-ps5-xbox-series-2026-11-19": "editorial/photos/gta-vi-lancado-ps5-xbox-series-2026-11-19.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -1639,6 +1641,12 @@
       "srcset": "editorial/photos/adnoc-tripulante-desaparecido-11-feridos-ataque-ormuz-2026-11-18-320.webp 320w, editorial/photos/adnoc-tripulante-desaparecido-11-feridos-ataque-ormuz-2026-11-18-640.webp 640w, editorial/photos/adnoc-tripulante-desaparecido-11-feridos-ataque-ormuz-2026-11-18-960.webp 960w, editorial/photos/adnoc-tripulante-desaparecido-11-feridos-ataque-ormuz-2026-11-18-1280.webp 1280w",
       "width": 1280,
       "height": 719
+    },
+    "gta-vi-lancado-ps5-xbox-series-2026-11-19": {
+      "src": "editorial/photos/gta-vi-lancado-ps5-xbox-series-2026-11-19-1280.webp",
+      "srcset": "editorial/photos/gta-vi-lancado-ps5-xbox-series-2026-11-19-320.webp 320w, editorial/photos/gta-vi-lancado-ps5-xbox-series-2026-11-19-640.webp 640w, editorial/photos/gta-vi-lancado-ps5-xbox-series-2026-11-19-960.webp 960w, editorial/photos/gta-vi-lancado-ps5-xbox-series-2026-11-19-1280.webp 1280w",
+      "width": 1280,
+      "height": 776
     }
   }
 }
