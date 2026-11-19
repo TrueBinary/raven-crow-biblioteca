@@ -1,6 +1,53 @@
 {
   "articles": [
     {
+      "id": "trump-xi-putin-declaracao-paz-shenzhen-2026-11-19",
+      "date": "2026-11-19",
+      "category": "MUNDO",
+      "title": "TRUMP, XI E PUTIN DIVULGAM DECLARAÇÃO DE PAZ APÓS CÚPULA NA CHINA, MAS SEM ACORDO NUCLEAR",
+      "subtitle": "Texto conjunto promete diálogo sobre riscos nucleares, reforma da ONU e energia; não fixa metas de desarmamento.",
+      "facts": "Donald Trump, Xi Jinping e Vladimir Putin se reuniram nesta quinta-feira, 19 de novembro de 2026, em Shenzhen, na China, à margem da cúpula da Cooperação Econômica Ásia-Pacífico (APEC). Após o encontro, os governos divulgaram declaração conjunta reafirmando que uma guerra nuclear não pode ser vencida e não deve ser travada. O documento prevê diálogo para reduzir riscos nucleares, propõe reforma da Organização das Nações Unidas (ONU), ampliação do fornecimento de derivados de petróleo e respeito à imunidade de autoridades estatais. Não foram anunciados tratado nuclear, metas verificáveis de redução de arsenais nem acordo para encerrar a guerra na Ucrânia.",
+      "analysis": "A novidade em relação aos anúncios prévios da cúpula é a divulgação de um texto comum. Porém, a promessa de diálogo não equivale a desarmamento: faltam cronograma, mecanismo de fiscalização e compromissos quantificados. O encontro ocorreu depois do fim do tratado New START entre Estados Unidos e Rússia, enquanto Washington tenta incluir a China em futuras negociações. O documento também reúne temas muito distintos — segurança nuclear, energia e jurisdição de tribunais internacionais — sem detalhar sua implementação. Resultados concretos dependerão de compromissos posteriores que possam ser verificados.",
+      "counterpoint": "A Associated Press avaliou a reunião como predominantemente simbólica, sem avanços decisivos. A Ucrânia e os aliados europeus ficaram fora da mesa, embora a guerra tenha sido discutida; autoridades europeias criticaram a possibilidade de decisões sobre Kiev sem sua participação. Divergências sobre Ucrânia, Taiwan, comércio e armamentos continuam. A declaração registra intenções, não garante seu cumprimento.",
+      "sources": [
+        {
+          "name": "Casa Branca, declaração de 19/11/2026",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/"
+        },
+        {
+          "name": "Ministério das Relações Exteriores da China, 19/11/2026",
+          "url": "https://www.fmprc.gov.cn/eng/xw/zyxw/202611/t20261119_12063224.html"
+        },
+        {
+          "name": "Reuters, 19/11/2026",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/19/trump-xi-e-putin-divulgam-declaracao-de-paz-apos-cupula-sem-precedentes.amp.htm"
+        },
+        {
+          "name": "Associated Press, 19/11/2026",
+          "url": "https://apnews.com/article/a04dc76ed8e786b087e2c1ea9598783a"
+        }
+      ],
+      "en": {
+        "title": "TRUMP, XI AND PUTIN ISSUE PEACE DECLARATION AFTER CHINA SUMMIT, WITHOUT NUCLEAR DEAL",
+        "subtitle": "Joint text calls for dialogue on nuclear risks, UN reform and energy but sets no disarmament targets.",
+        "facts": "Donald Trump, Xi Jinping and Vladimir Putin met on Thursday, November 19, 2026, in Shenzhen, China, on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit. Their governments subsequently issued a joint declaration reaffirming that nuclear war cannot be won and must never be fought. The text calls for dialogue on nuclear risk reduction, reform of the United Nations (UN), increased supplies of refined petroleum products and respect for the immunity of state officials. No nuclear treaty, verifiable arsenal-reduction targets or agreement to end the war in Ukraine was announced.",
+        "analysis": "The new development, beyond the previously announced summit, is the release of a common statement. A promise of dialogue is not disarmament: the document provides no timetable, inspection mechanism or quantified commitments. The meeting followed the expiration of the US-Russia New START treaty, as Washington seeks to bring China into future negotiations. It also groups very different subjects — nuclear security, energy and international courts — without detailing implementation. Tangible results will depend on subsequent, verifiable commitments.",
+        "counterpoint": "The Associated Press described the meeting as largely symbolic, without major breakthroughs. Ukraine and European allies were absent despite discussions of the war, prompting European criticism of decisions about Kyiv without its participation. Disagreements over Ukraine, Taiwan, trade and arms control persist. The declaration records intentions, not guaranteed results.",
+        "category": "WORLD",
+        "slug": "trump-xi-and-putin-issue-peace-declaration-after-china-summit-without-nuclear-2026-11-19"
+      },
+      "es": {
+        "title": "TRUMP, XI Y PUTIN PUBLICAN UNA DECLARACIÓN DE PAZ TRAS LA CUMBRE EN CHINA, SIN ACUERDO NUCLEAR",
+        "subtitle": "El texto conjunto propone dialogar sobre riesgos nucleares, reforma de la ONU y energía, pero no fija metas de desarme.",
+        "facts": "Donald Trump, Xi Jinping y Vladimir Putin se reunieron el jueves 19 de noviembre de 2026 en Shenzhen, China, durante la cumbre de Cooperación Económica Asia-Pacífico (APEC). Sus gobiernos publicaron después una declaración conjunta que reafirma que una guerra nuclear no puede ganarse y nunca debe librarse. El documento propone dialogar para reducir riesgos nucleares, reformar la Organización de las Naciones Unidas (ONU), ampliar la oferta de derivados del petróleo y respetar la inmunidad de funcionarios estatales. No se anunciaron tratados nucleares, metas verificables de reducción de arsenales ni acuerdos para poner fin a la guerra en Ucrania.",
+        "analysis": "La novedad, más allá de la cumbre anunciada previamente, es la publicación de un texto común. Prometer diálogo no equivale a desarme: faltan plazos, mecanismos de inspección y compromisos cuantificados. La reunión ocurrió después del vencimiento del tratado New START entre Estados Unidos y Rusia, mientras Washington busca incorporar a China a futuras negociaciones. El documento también reúne asuntos muy diferentes — seguridad nuclear, energía y tribunales internacionales — sin detallar su aplicación. Los resultados dependerán de compromisos posteriores que puedan comprobarse.",
+        "counterpoint": "Associated Press describió la reunión como principalmente simbólica, sin avances decisivos. Ucrania y sus aliados europeos no participaron aunque se abordó la guerra, lo que provocó críticas europeas a cualquier decisión sobre Kiev sin su presencia. Persisten desacuerdos sobre Ucrania, Taiwán, comercio y armamentos. La declaración expresa intenciones, no garantiza resultados.",
+        "category": "MUNDO",
+        "slug": "trump-xi-y-putin-publican-una-declaracion-de-paz-tras-la-cumbre-en-china-sin-2026-11-19"
+      },
+      "firstSeen": "2026-11-19T17:04:48-03:00"
+    },
+    {
       "id": "gta-vi-lancado-ps5-xbox-series-2026-11-19",
       "date": "2026-11-19",
       "category": "CULTURA",
