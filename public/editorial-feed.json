@@ -1,6 +1,74 @@
 {
   "articles": [
     {
+      "id": "java4shell-falha-java-alerta-agencias-seguranca-2026-11-19",
+      "date": "2026-11-19",
+      "category": "TECNOLOGIA",
+      "title": "FALHA JAVA4SHELL LEVA AGÊNCIAS DE SEGURANÇA A PEDIR ATUALIZAÇÃO URGENTE",
+      "subtitle": "Vulnerabilidade CVE-2026-114938 pode permitir execução remota de código em ambientes específicos; correções foram disponibilizadas em 17 de novembro.",
+      "facts": "Agências de cibersegurança dos Estados Unidos, Reino Unido, Alemanha e Singapura emitiram alertas em 17 e 18 de novembro de 2026 sobre a vulnerabilidade CVE-2026-114938, apelidada Java4Shell. O problema envolve corrupção de memória na decodificação Base64 da máquina virtual Java HotSpot em determinadas configurações. A Oracle publicou correções em 17 de novembro. A agência americana CISA recomendou identificar instalações vulneráveis e aplicar os patches, com prioridade para serviços expostos à internet. O alerta do serviço público de saúde digital inglês identifica condições específicas de hardware e configuração; não significa que toda instalação de Java seja explorável.",
+      "analysis": "A vulnerabilidade merece atenção porque o ambiente de execução Java pode estar embutido em servidores, contêineres e aplicações de fornecedores, sem aparecer claramente nos inventários de software. Para equipes de tecnologia, a providência prática é localizar as versões efetivamente executadas, inclusive em imagens de contêiner, conferir os boletins do respectivo fornecedor, testar e instalar a atualização. A orientação da CISA inclui reduzir a exposição de entradas Base64 não confiáveis quando a atualização imediata não for possível. A pontuação CVSS 3.1 de 8,1 divulgada pela agência de Singapura indica gravidade elevada, mas não equivale à confirmação de invasões.",
+      "counterpoint": "Os avisos não demonstram que todos os sistemas Java estejam vulneráveis: a exploração depende de versões, arquitetura, recursos do processador e caminho de entrada dos dados. A agência alemã informou em 18 de novembro que não tinha conhecimento de ataques bem-sucedidos. Uma prova de conceito divulgada por pesquisadores não comprova uma campanha de ataques em larga escala. Administradores devem verificar os comunicados oficiais de seus fornecedores antes de alterar configurações em produção.",
+      "sources": [
+        {
+          "name": "CISA — alerta oficial, 17/11/2026",
+          "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching"
+        },
+        {
+          "name": "NHS England Digital — alerta, 18/11/2026",
+          "url": "https://digital.nhs.uk/cyber-alerts/2026/cc-4895"
+        },
+        {
+          "name": "Cyber Security Agency of Singapore — 18/11/2026",
+          "url": "https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-166/"
+        },
+        {
+          "name": "Oracle — atualização de segurança, novembro de 2026",
+          "url": "https://www.oracle.com/security-alerts/cspunov2026.html"
+        },
+        {
+          "name": "Reuters — alerta alemão, 18/11/2026",
+          "url": "https://www.reuters.com/world/german-cyber-security-agency-warns-critical-java4shell-vulnerability-2026-11-18/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Computer_server_rack.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 2.5",
+          "credit": "Ricardo Moctezuma López / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Computer_server_rack.jpg",
+          "caption": "FOTO DE ARQUIVO (outubro de 2006): rack de servidores, fotografia de Ricardo Moctezuma López, Wikimedia Commons, CC BY-SA 2.5. Não retrata sistemas afetados pela vulnerabilidade Java4Shell."
+        }
+      ],
+      "en": {
+        "title": "Java4Shell flaw prompts urgent patch warnings from cybersecurity agencies",
+        "subtitle": "CVE-2026-114938 could allow remote code execution under specific conditions; fixes became available on November 17.",
+        "facts": "On November 17 and 18, 2026, cybersecurity agencies in the United States, the United Kingdom, Germany and Singapore warned of CVE-2026-114938, dubbed Java4Shell. The flaw concerns memory corruption in the HotSpot Java virtual machine's Base64 decoding under certain configurations. Oracle released fixes on November 17. The US Cybersecurity and Infrastructure Security Agency (CISA) urged organizations to inventory affected installations and prioritize patching internet-facing services. The British advisory emphasizes that exploitation requires specific hardware and software conditions.",
+        "analysis": "The risk extends beyond separately installed Java software: Java runtimes may be bundled inside servers, containers and third-party applications. Administrators should check the runtime actually in use, consult vendor advisories, test updates and deploy patched releases. Where immediate patching is impossible, CISA advises limiting exposure to untrusted Base64 input. Singapore's published CVSS 3.1 score of 8.1 reflects severity, not evidence of an actual compromise.",
+        "counterpoint": "Not every Java installation is vulnerable; exposure depends on the release, processor capabilities, configuration and application input paths. Germany's cybersecurity agency said on November 18 that it knew of no successful attacks. A published proof of concept does not establish widespread exploitation.",
+        "category": "TECHNOLOGY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (October 2006): server rack photographed by Ricardo Moctezuma López, Wikimedia Commons, CC BY-SA 2.5. It does not show systems affected by Java4Shell."
+        },
+        "slug": "java4shell-flaw-prompts-urgent-patch-warnings-from-cybersecurity-agencies-2026-11-19"
+      },
+      "es": {
+        "title": "La falla Java4Shell provoca alertas urgentes de actualización de seguridad",
+        "subtitle": "La vulnerabilidad CVE-2026-114938 podría permitir ejecutar código a distancia en condiciones específicas; las correcciones están disponibles desde el 17 de noviembre.",
+        "facts": "El 17 y 18 de noviembre de 2026, agencias de ciberseguridad de Estados Unidos, Reino Unido, Alemania y Singapur alertaron sobre CVE-2026-114938, denominada Java4Shell. El problema consiste en corrupción de memoria durante la decodificación Base64 de la máquina virtual Java HotSpot en ciertas configuraciones. Oracle publicó correcciones el 17 de noviembre. La agencia estadounidense CISA (Agencia de Seguridad de Infraestructura y Ciberseguridad) recomendó localizar las instalaciones afectadas y priorizar los servicios expuestos a internet. El aviso británico precisa que la explotación depende de condiciones concretas de hardware y software.",
+        "analysis": "El riesgo no se limita a instalaciones independientes: los entornos Java pueden venir integrados en servidores, contenedores y aplicaciones de terceros. Los administradores deben identificar las versiones realmente utilizadas, consultar los avisos del proveedor, probar las actualizaciones y aplicar las correcciones. Si no es posible actualizar inmediatamente, CISA aconseja limitar la exposición a entradas Base64 no confiables. La puntuación CVSS 3.1 de 8,1 publicada por Singapur refleja la gravedad, pero no confirma ataques.",
+        "counterpoint": "No todas las instalaciones de Java son vulnerables: influyen la versión, el procesador, la configuración y la forma en que la aplicación recibe datos. La agencia alemana señaló el 18 de noviembre que no conocía ataques exitosos. La publicación de una prueba de concepto no demuestra explotación generalizada.",
+        "category": "TECNOLOGÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (octubre de 2006): rack de servidores fotografiado por Ricardo Moctezuma López, Wikimedia Commons, CC BY-SA 2.5. No muestra sistemas afectados por Java4Shell."
+        },
+        "slug": "la-falla-java4shell-provoca-alertas-urgentes-de-actualizacion-de-seguridad-2026-11-19"
+      },
+      "firstSeen": "2026-11-19T01:55:23-03:00"
+    },
+    {
       "id": "dolar-5868-ibovespa-cai-134-18-novembro-2026",
       "date": "2026-11-18",
       "category": "ECONOMIA",
