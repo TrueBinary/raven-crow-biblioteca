@@ -337,7 +337,7 @@
         "counterpoint": "These announcements set out preventive measures and traffic forecasts, not accident statistics for the 2026 holiday. Freight restrictions do not apply equally to every road or vehicle. There is not yet evidence that the operation has reduced crashes. An archival photograph was located, but was excluded because direct JPEG access could not be verified with the required GET request.",
         "category": "BRAZIL",
         "photo_captions": {
-          "1": "ARCHIVE PHOTO (August 24, 2011): Federal Highway Police vehicle on display. It does not depict the 2026 holiday road operation. Photo: EUDOXIO / Wikimedia Commons; license: CC BY-SA 3.0."
+          "1": "ARCHIVE PHOTO (date of capture unknown; released by PRF on November 18, 2026): Brazilian Federal Highway Police officer using a handheld speed radar by a roadway next to a patrol vehicle. Credit: PRF/gov.br, CC BY-ND 3.0. Released with the official announcement; it is not confirmed as footage of the holiday operation."
         },
         "slug": "brazil-s-highway-police-step-up-road-checks-through-sunday-for-black"
       },
@@ -349,19 +349,19 @@
         "counterpoint": "Los comunicados describen medidas preventivas y previsiones de tráfico, no un balance de accidentes del feriado de 2026. Las restricciones de carga no se aplican por igual a todas las carreteras y vehículos. Todavía no hay pruebas de que el operativo haya reducido los siniestros. Se encontró una fotografía de archivo, pero se descartó al no poder verificarse mediante GET el acceso directo al JPEG exigido.",
         "category": "BRASIL",
         "photo_captions": {
-          "1": "FOTO DE ARCHIVO (24 de agosto de 2011): Vehículo de la Policía Federal de Carreteras en exhibición. No muestra el operativo vial de 2026. Foto: EUDOXIO / Wikimedia Commons; licencia: CC BY-SA 3.0."
+          "1": "FOTO DE ARCHIVO (fecha de toma desconocida; difundida por la PRF el 18 de noviembre de 2026): agente de la Policía Federal de Carreteras con radar de velocidad junto a una patrulla. Crédito: PRF/gov.br, CC BY-ND 3.0. Publicada con el comunicado oficial; no está confirmado que corresponda al operativo del feriado."
         },
         "slug": "brasil-refuerza-los-controles-en-carreteras-hasta-el-domingo-por-el-feriado-de"
       },
       "photos": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Viatura_do_NOE_-_PRF.jpg",
+          "url": "https://www.gov.br/prf/pt-br/noticias/estaduais/sao-paulo/prf-inicia-operacao-consciencia-negra-2026-nas-rodovias-federais-de-sao-paulo/@@images/image-780-0c63903542ea281210b6936fd8d89a01.jpeg",
           "slot": 1,
           "uso_liberado": true,
-          "license": "CC BY-SA 3.0",
-          "credit": "EUDOXIO / Wikimedia Commons",
-          "source_article": "https://commons.wikimedia.org/wiki/File:Viatura_do_NOE_-_PRF.jpg",
-          "caption": "FOTO DE ARQUIVO (24/08/2011): Viatura da Polícia Rodoviária Federal em exposição. Não retrata a fiscalização do feriado de 2026. Foto: EUDOXIO / Wikimedia Commons; licença: CC BY-SA 3.0."
+          "license": "Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada (licença institucional do portal gov.br)",
+          "credit": "Polícia Rodoviária Federal / gov.br",
+          "source_article": "https://www.gov.br/prf/pt-br/noticias/estaduais/sao-paulo/prf-inicia-operacao-consciencia-negra-2026-nas-rodovias-federais-de-sao-paulo",
+          "caption": "FOTO DE ARQUIVO (data de captura não informada; disponibilizada pela PRF em 18/11/2026): agente da PRF usa radar portátil às margens de uma rodovia, ao lado de uma viatura. Crédito: Polícia Rodoviária Federal/gov.br, CC BY-ND 3.0. Imagem divulgada na notícia oficial da operação; não é possível confirmar que registre a fiscalização do feriado."
         }
       ],
       "firstSeen": "2026-11-19T20:01:59-03:00"
@@ -753,7 +753,7 @@
         "counterpoint": "The reports have not been made public, so their contents cannot be treated as proof of a crime by any justice. During a Senate hearing on November 18, Rodrigues attributed the removal of two officers from leadership positions to a breakdown of trust and reports he said exceeded instructions. This is his account, not an independent finding about the officers' conduct. The balance between transparency and investigative confidentiality remains unresolved.",
         "category": "JUSTICE",
         "photo_captions": {
-          "1": "ARCHIVE PHOTO (May 30, 2018): Justice Edson Fachin during a Brazilian Supreme Court session in Brasília. This does not depict the delivery of Federal Police reports in 2026. Photo: Antonio Cruz / Agência Brasil; license: CC BY 3.0 Brasil."
+          "1": "ARCHIVE PHOTO (October 13, 2026): Supreme Court president Edson Fachin meets Federal Police Director-General Andrei Rodrigues in Brasília to discuss investigations including the Banco Master case. Photo: Gustavo Moreno/STF via PF; institutional CC BY-ND 3.0. This does not depict the November handover of reports."
         },
         "video_captions": {
           "1": "Official TV Senado report released November 19, 2026, on Federal Police Director-General Andrei Rodrigues's committee testimony. He denies interference in the Master case reports and discusses handing the material to Justice Fachin. The video does not depict the delivery."
@@ -768,7 +768,7 @@
         "counterpoint": "El contenido de los informes no se ha divulgado y no puede considerarse prueba de delitos cometidos por magistrados. En una audiencia del Senado el 18 de noviembre, Rodrigues atribuyó el relevo de dos policías de puestos directivos a una pérdida de confianza y a informes que, según él, excedieron las instrucciones. Es su versión, no una conclusión independiente sobre los agentes. Persiste la tensión entre transparencia y reserva investigativa.",
         "category": "JUSTICIA",
         "photo_captions": {
-          "1": "FOTO DE ARCHIVO (30 de mayo de 2018): El magistrado Edson Fachin durante una sesión del Supremo Tribunal Federal en Brasilia. No muestra la entrega de informes de la Policía Federal de 2026. Foto: Antonio Cruz / Agência Brasil; licencia: CC BY 3.0 Brasil."
+          "1": "FOTO DE ARCHIVO (13 de octubre de 2026): Edson Fachin recibe al director de la Policía Federal, Andrei Rodrigues, en Brasilia para tratar investigaciones, incluido el caso Banco Master. Foto: Gustavo Moreno/STF, vía PF; licencia institucional CC BY-ND 3.0. No muestra la entrega de informes de noviembre."
         },
         "video_captions": {
           "1": "Reportaje oficial de TV Senado publicado el 19 de noviembre de 2026 sobre la comparecencia del director de la Policía Federal Andrei Rodrigues. Niega interferencias en los informes del caso Master y habla de su entrega a Fachin. El vídeo no muestra la entrega."
@@ -777,13 +777,13 @@
       },
       "photos": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Edson_Fachin_%283x4%29.jpg",
+          "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/10/nota-a-imprensa-2/audiencia_pf.jpg/@@images/1f9d42b6-6c63-4e42-91ef-3a3cc6c0d2fc.jpeg",
           "slot": 1,
           "uso_liberado": true,
-          "license": "CC BY 3.0 Brasil",
-          "credit": "Antonio Cruz / Agência Brasil",
-          "source_article": "https://commons.wikimedia.org/wiki/File:Edson_Fachin_(3x4).jpg",
-          "caption": "FOTO DE ARQUIVO (30/05/2018): Edson Fachin durante sessão do Supremo Tribunal Federal em Brasília. Não retrata a entrega dos relatórios da Polícia Federal em 2026. Foto: Antonio Cruz / Agência Brasil; licença: CC BY 3.0 Brasil."
+          "license": "Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada (licença indicada pelo portal gov.br; atribuição ao STF)",
+          "credit": "Gustavo Moreno / STF, via Polícia Federal",
+          "source_article": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/10/nota-a-imprensa-2/",
+          "caption": "FOTO DE ARQUIVO (13/10/2026): Edson Fachin recebe o diretor-geral da Polícia Federal, Andrei Rodrigues, em Brasília, para tratar de investigações relacionadas ao Banco Master e outros assuntos. Foto: Gustavo Moreno/STF, via PF; licença institucional CC BY-ND 3.0. Não retrata a entrega de relatórios em novembro."
         }
       ],
       "videos": [
@@ -1272,7 +1272,7 @@
         "counterpoint": "Durigan provided no detailed figures, specific spending cuts or explanation of which proposals might require constitutional changes. A 2027 primary surplus and lower rates remain government expectations, not guaranteed outcomes. Lawmakers are still negotiating the existing package, and further measures may face resistance. Without complete official texts, the additional fiscal impact cannot be quantified.",
         "category": "ECONOMY",
         "photo_captions": {
-          "1": "ARCHIVE PHOTO (September 17, 2026): President Lula and officials, including Dario Durigan, during a Bolsa Família announcement at the Planalto Palace. This does not depict the fiscal measures discussed in November 2026. Photo: Ricardo Stuckert / Presidência da República; license: CC BY-SA 4.0."
+          "1": "ARCHIVE PHOTO (September 25, 2026): President Lula and cabinet ministers at a government ceremony in São Paulo attended by Dario Durigan. Photo: Tom Costa/Ascom-MJSP, institutional CC BY-ND 3.0. This does not depict Durigan's November 2026 fiscal-policy comments."
         },
         "slug": "durigan-says-brazil-is-preparing-further-fiscal-measures-beyond-senate-package-2026-11-18"
       },
@@ -1284,19 +1284,19 @@
         "counterpoint": "Durigan no detalló cifras, recortes concretos ni cuáles propuestas requerirían cambios constitucionales. El superávit primario en 2027 y las tasas más bajas son expectativas oficiales, no resultados garantizados. El Congreso todavía negocia el paquete actual y nuevas medidas podrían encontrar resistencia. Sin textos oficiales completos, no es posible cuantificar el efecto fiscal adicional.",
         "category": "ECONOMÍA",
         "photo_captions": {
-          "1": "FOTO DE ARCHIVO (17 de septiembre de 2026): Lula y funcionarios, incluido Dario Durigan, durante un anuncio sobre Bolsa Família en el Palacio del Planalto. No muestra las medidas fiscales discutidas en noviembre de 2026. Foto: Ricardo Stuckert / Presidência da República; licencia: CC BY-SA 4.0."
+          "1": "FOTO DE ARCHIVO (25 de septiembre de 2026): Lula y ministros en un acto gubernamental en São Paulo al que asistió Dario Durigan. Foto: Tom Costa/Ascom-MJSP, licencia institucional CC BY-ND 3.0. No muestra las declaraciones fiscales de Durigan de noviembre de 2026."
         },
         "slug": "durigan-anuncia-que-brasil-prepara-mas-medidas-fiscales-ademas-del-paquete-en-2026-11-18"
       },
       "photos": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/17.09.26_-_Presidente_Lula_faz_an%C3%BAncio_de_atualiza%C3%A7%C3%A3o_monet%C3%A1ria_do_Bolsa_Fam%C3%ADlia_%2855533741956%29.jpg",
+          "url": "https://www.gov.br/mj/pt-br/assuntos/noticias/governo-federal-proibe-bets-em-todo-o-pais-e-lanca-pacote-de-protecao-as-familias-endividadas-1/whatsapp-image-2026-09-25-at-20-47-03.jpeg/@@images/d1b0e952-589f-4d3e-a8b6-9c479a5cd11f.jpeg",
           "slot": 1,
           "uso_liberado": true,
-          "license": "CC BY-SA 4.0",
-          "credit": "Ricardo Stuckert / Presidência da República",
-          "source_article": "https://commons.wikimedia.org/wiki/File:17.09.26_-_Presidente_Lula_faz_anúncio_de_atualização_monetária_do_Bolsa_Família_(55533741956).jpg",
-          "caption": "FOTO DE ARQUIVO (17/09/2026): Lula e integrantes do governo, incluindo Dario Durigan, em anúncio sobre o Bolsa Família no Palácio do Planalto. Não retrata as medidas fiscais discutidas em novembro de 2026. Foto: Ricardo Stuckert / Presidência da República; licença: CC BY-SA 4.0."
+          "license": "Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada (licença institucional do portal gov.br)",
+          "credit": "Tom Costa / Ascom-MJSP",
+          "source_article": "https://www.gov.br/mj/pt-br/assuntos/noticias/governo-federal-proibe-bets-em-todo-o-pais-e-lanca-pacote-de-protecao-as-familias-endividadas-1/",
+          "caption": "FOTO DE ARQUIVO (25/09/2026): presidente Lula e ministros em cerimônia governamental em São Paulo, na qual Dario Durigan esteve presente. Foto: Tom Costa/Ascom-MJSP, licença institucional CC BY-ND 3.0. Não retrata declarações de Durigan sobre medidas fiscais em novembro de 2026."
         }
       ],
       "firstSeen": "2026-11-18T15:04:00-03:00"
@@ -1624,7 +1624,7 @@
         "counterpoint": "Indigenous advocates suggest encroachment and food shortages may have contributed, but the cause has not been established. Funai says information is preliminary, and Reuters could not independently verify the footage's precise date and location. This report does not reproduce sensitive footage of the encounter.",
         "category": "BRAZIL",
         "photo_captions": {
-          "1": "ARCHIVE PHOTO (July 14, 2024): Public cultural performance by Indigenous people associated with the Arariboia Indigenous Territory region, Maranhão. The people are not identified as isolated Awá; this does not depict the reported 2026 encounter. Photo: William Junior Pindaré / Wikimedia Commons; license: CC BY-SA 4.0."
+          "1": "ARCHIVE PHOTO (September/October 2025): Funai teams and firefighting brigades during territorial protection and wildfire-prevention work in Arariboia Indigenous Territory, Maranhão. Funai release, institutional CC BY-ND 3.0. The people shown are not identified as isolated Awá and the image does not depict the November 2026 encounter."
         },
         "slug": "brazil-s-funai-monitors-rare-approach-by-isolated-awa-people-in-maranhao-2026-11-18"
       },
@@ -1636,19 +1636,19 @@
         "counterpoint": "Organizaciones indígenas señalan la presión de invasores y una posible escasez de alimentos como hipótesis, no como causas demostradas. Funai considera preliminar la información y Reuters no pudo verificar de forma independiente la fecha y el lugar exactos de las imágenes. Esta nota no reproduce las imágenes sensibles del encuentro.",
         "category": "BRASIL",
         "photo_captions": {
-          "1": "FOTO DE ARCHIVO (14 de julio de 2024): Presentación cultural pública de indígenas vinculados a la región del territorio Arariboia, Maranhão. Las personas no están identificadas como awá aislados; no muestra el acercamiento reportado en 2026. Foto: William Junior Pindaré / Wikimedia Commons; licencia: CC BY-SA 4.0."
+          "1": "FOTO DE ARCHIVO (septiembre/octubre de 2025): equipos de Funai y brigadas de bomberos durante labores de protección territorial y prevención de incendios en el territorio indígena Arariboia, Maranhão. Difusión/Funai, licencia institucional CC BY-ND 3.0. Las personas no están identificadas como awá aislados y la foto no muestra el acercamiento de noviembre de 2026."
         },
         "slug": "funai-vigila-el-acercamiento-de-indigenas-awa-aislados-a-una-aldea-en-maranhao-2026-11-18"
       },
       "photos": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Grupo_de_Cantoria_dos_Ind%C3%ADgenas_das_Terras_Ind%C3%ADgenas_Arariboias_do_munic%C3%ADpio_de_Arame_no_Maranh%C3%A3o.jpg",
+          "url": "https://www.gov.br/funai/pt-br/assuntos/noticias/2025/funai-confirma-presenca-de-indigenas-isolados-no-ma-e-intensifica-combate-a-incendios-na-ti-arariboia-em-conjunto-com-o-prevfogo/@@images/image-1600-b62b39b98dd0f7fc75209ea0b1f8d357.jpeg",
           "slot": 1,
           "uso_liberado": true,
-          "license": "CC BY-SA 4.0",
-          "credit": "William Junior Pindaré / Wikimedia Commons",
-          "source_article": "https://commons.wikimedia.org/wiki/File:Grupo_de_Cantoria_dos_Indígenas_das_Terras_Indígenas_Arariboias_do_município_de_Arame_no_Maranhão.jpg",
-          "caption": "FOTO DE ARQUIVO (14/07/2024): Apresentação cultural pública de indígenas ligados à região da Terra Indígena Arariboia, Maranhão. As pessoas não são identificadas como Awá isolados; a imagem não retrata a aproximação de 2026. Foto: William Junior Pindaré / Wikimedia Commons; licença: CC BY-SA 4.0."
+          "license": "Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada (licença institucional do portal gov.br)",
+          "credit": "Divulgação / Funai / Prevfogo",
+          "source_article": "https://www.gov.br/funai/pt-br/assuntos/noticias/2025/funai-confirma-presenca-de-indigenas-isolados-no-ma-e-intensifica-combate-a-incendios-na-ti-arariboia-em-conjunto-com-o-prevfogo",
+          "caption": "FOTO DE ARQUIVO (setembro/outubro de 2025): equipes da Funai e brigadistas durante ação de proteção territorial e prevenção de incêndios na Terra Indígena Arariboia, Maranhão. Divulgação/Funai, licença institucional CC BY-ND 3.0. As pessoas retratadas não são identificadas como indígenas Awá isolados; não mostra a aproximação de novembro de 2026."
         }
       ],
       "firstSeen": "2026-11-18T01:00:00-03:00"
@@ -1811,7 +1811,7 @@
         "counterpoint": "The minister's 8.5% estimate is not a legislative decision. The TCU supports its 11.3% benchmark, while lawmakers seek access to technical assumptions. Some businesses seek a delay, but the government favors keeping the 2027 timetable. The actual inflation effect remains uncertain.",
         "category": "ECONOMY",
         "photo_captions": {
-          "1": "ARCHIVE PHOTO (September 17, 2026): Dario Durigan and other officials alongside President Lula at a Planalto Palace announcement. This does not depict the November 2026 Senate hearing on the CBS tax. Photo: Ricardo Stuckert / Presidência da República; license: CC BY-SA 4.0."
+          "1": "ARCHIVE PHOTO (September 25, 2026): Lula and government ministers at an event in São Paulo attended by Dario Durigan. Photo: Tom Costa/Ascom-MJSP, institutional CC BY-ND 3.0. This does not depict the November 17, 2026 Senate hearing on the CBS tax."
         },
         "video_captions": {
           "1": "TV Senado's November 17, 2026 report on the debate over the CBS consumption-tax rate, including the 11.3% projection attributed to Brazil's federal audit court. It provides context but does not specifically document Dario Durigan's 8.5% estimate."
@@ -1826,7 +1826,7 @@
         "counterpoint": "La estimación ministerial del 8,5% no es una decisión legislativa. El TCU defiende su referencia del 11,3%, mientras legisladores piden conocer los supuestos técnicos. Parte del sector empresarial solicita un aplazamiento, pero el Gobierno quiere mantener el calendario de 2027. El efecto real sobre la inflación sigue siendo incierto.",
         "category": "ECONOMÍA",
         "photo_captions": {
-          "1": "FOTO DE ARCHIVO (17 de septiembre de 2026): Dario Durigan y otras autoridades junto a Lula en un anuncio en el Palacio del Planalto. No muestra la audiencia del Senado de noviembre de 2026 sobre el tributo CBS. Foto: Ricardo Stuckert / Presidência da República; licencia: CC BY-SA 4.0."
+          "1": "FOTO DE ARCHIVO (25 de septiembre de 2026): Lula y ministros en un acto en São Paulo con participación de Dario Durigan. Foto: Tom Costa/Ascom-MJSP, licencia institucional CC BY-ND 3.0. No muestra la audiencia del Senado del 17 de noviembre de 2026 sobre CBS."
         },
         "video_captions": {
           "1": "Reportaje de TV Senado del 17 de noviembre de 2026 sobre el debate de la alícuota del impuesto CBS, incluida la proyección del 11,3% atribuida al Tribunal de Cuentas de la Unión. Aporta contexto, pero no documenta específicamente la estimación del 8,5% de Dario Durigan."
@@ -1835,13 +1835,13 @@
       },
       "photos": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/17.09.26_-_Presidente_Lula_faz_an%C3%BAncio_de_atualiza%C3%A7%C3%A3o_monet%C3%A1ria_do_Bolsa_Fam%C3%ADlia_%2855533741956%29.jpg",
+          "url": "https://www.gov.br/mj/pt-br/assuntos/noticias/governo-federal-proibe-bets-em-todo-o-pais-e-lanca-pacote-de-protecao-as-familias-endividadas-1/whatsapp-image-2026-09-25-at-20-47-03.jpeg/@@images/d1b0e952-589f-4d3e-a8b6-9c479a5cd11f.jpeg",
           "slot": 1,
           "uso_liberado": true,
-          "license": "CC BY-SA 4.0",
-          "credit": "Ricardo Stuckert / Presidência da República",
-          "source_article": "https://commons.wikimedia.org/wiki/File:17.09.26_-_Presidente_Lula_faz_anúncio_de_atualização_monetária_do_Bolsa_Família_(55533741956).jpg",
-          "caption": "FOTO DE ARQUIVO (17/09/2026): Dario Durigan e outras autoridades ao lado do presidente Lula em anúncio no Palácio do Planalto. Não retrata a audiência do Senado sobre a CBS de novembro de 2026. Foto: Ricardo Stuckert / Presidência da República; licença: CC BY-SA 4.0."
+          "license": "Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada (licença institucional do portal gov.br)",
+          "credit": "Tom Costa / Ascom-MJSP",
+          "source_article": "https://www.gov.br/mj/pt-br/assuntos/noticias/governo-federal-proibe-bets-em-todo-o-pais-e-lanca-pacote-de-protecao-as-familias-endividadas-1/",
+          "caption": "FOTO DE ARQUIVO (25/09/2026): Lula e ministros durante cerimônia do governo em São Paulo com participação de Dario Durigan. Foto: Tom Costa/Ascom-MJSP, licença institucional CC BY-ND 3.0. Não retrata a audiência do Senado de 17/11/2026 sobre CBS."
         }
       ],
       "videos": [
