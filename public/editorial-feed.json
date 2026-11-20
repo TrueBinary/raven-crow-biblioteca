@@ -1,6 +1,48 @@
 {
   "articles": [
     {
+      "id": "nasa-confirma-voyager-1-um-dia-luz-terra-2026-11-19",
+      "date": "2026-11-19",
+      "category": "CIÊNCIA",
+      "title": "NASA CONFIRMA: VOYAGER 1 ATINGE UM DIA-LUZ DA TERRA, MAS ENFRENTA FALHA DE DADOS",
+      "subtitle": "Sonda lançada em 1977 ultrapassou 25,9 bilhões de quilômetros; sinal de rádio demora 24 horas para chegar à Terra.",
+      "facts": "A NASA confirmou em 19 de novembro de 2026 que a Voyager 1 atingiu, às 2h16 do dia 18 no horário da costa oeste dos Estados Unidos, a distância de um dia-luz da Terra: cerca de 25,9 bilhões de quilômetros. O Laboratório de Propulsão a Jato (JPL), na Califórnia, recebeu o sinal de rádio aproximadamente 24 horas depois. A missão começou em 1977 e entrou no espaço interestelar em 2012. A agência esclareceu que, desde 14 de novembro, não recebe os dados científicos e de engenharia da sonda, embora ainda detecte o sinal portador de rádio. A causa dessa interrupção permanece em investigação.",
+      "analysis": "Um dia-luz é uma unidade de distância, não a duração da viagem: representa quanto a luz percorre no vácuo em 24 horas. Para os controladores, isso significa um atraso de aproximadamente 48 horas entre enviar um comando e receber sua confirmação, sem contar o tempo de processamento. A Voyager 1 não está a um dia de viagem da Terra; levou quase 49 anos para chegar a essa distância. O marco é científico e operacional: demonstra a capacidade de manter contato com uma nave além da heliosfera, a região dominada pelo vento solar. A energia dos geradores radioisotópicos diminui cerca de quatro watts por ano, exigindo desligamentos e adaptações para prolongar a missão.",
+      "counterpoint": "O recorde de distância está confirmado pela NASA, mas não significa que todos os instrumentos estejam funcionando normalmente. O sinal portador comprova o contato de rádio; não substitui os dados científicos e de engenharia interrompidos. A agência ainda não informou a causa definitiva da falha nem uma data para sua solução. Imagens atuais da sonda em pleno espaço interestelar não existem: as representações divulgadas são ilustrações ou fotografias históricas.",
+      "sources": [
+        {
+          "name": "NASA — comunicado oficial, 19/11/2026",
+          "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/"
+        },
+        {
+          "name": "NASA/JPL — missão Voyager, 10/11/2026",
+          "url": "https://www.jpl.nasa.gov/news/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/"
+        },
+        {
+          "name": "Reuters — confirmação, 19/11/2026",
+          "url": "https://www.reuters.com/science/nasa-confirms-voyager-1-probes-light-day-distance-milestone-2026-11-19/"
+        }
+      ],
+      "en": {
+        "category": "SCIENCE",
+        "title": "NASA CONFIRMS VOYAGER 1 IS ONE LIGHT-DAY FROM EARTH AS DATA TROUBLE PERSISTS",
+        "subtitle": "Launched in 1977, the probe has passed 25.9 billion kilometers; its radio signals now take 24 hours to reach Earth.",
+        "facts": "On November 19, 2026, NASA confirmed that Voyager 1 had reached a distance of one light-day from Earth at 2:16 a.m. Pacific time on November 18, roughly 25.9 billion kilometers. NASA's Jet Propulsion Laboratory (JPL) in California received its radio signal about 24 hours later. Launched in 1977, the spacecraft entered interstellar space in 2012. NASA says it has not received science or engineering data since November 14, although the radio carrier signal is still detectable. Engineers are investigating the interruption.",
+        "analysis": "A light-day measures distance, not travel time: it is how far light moves through a vacuum in 24 hours. For mission controllers, sending a command and receiving a reply now involves about 48 hours of signal travel, excluding processing time. Voyager 1 did not travel this distance in a day; the journey took almost 49 years. The milestone demonstrates long-distance communications beyond the heliosphere, the region shaped by the solar wind. Its radioisotope power supply loses about four watts annually, forcing engineers to conserve energy.",
+        "counterpoint": "NASA has confirmed the distance milestone, not the full restoration of spacecraft data. Detecting a carrier signal is not equivalent to receiving usable science and engineering information. The cause of the outage and the timetable for a fix remain uncertain. Current close-up photographs of Voyager 1 in interstellar space do not exist; published depictions are illustrations or archival images.",
+        "slug": "nasa-confirms-voyager-1-is-one-light-day-from-earth-as-data-trouble-persists-2026-11-19"
+      },
+      "es": {
+        "category": "CIENCIA",
+        "title": "LA NASA CONFIRMA QUE VOYAGER 1 ESTÁ A UN DÍA LUZ DE LA TIERRA, PERO SUFRE FALLOS DE DATOS",
+        "subtitle": "Lanzada en 1977, la sonda superó los 25.900 millones de kilómetros; sus señales de radio tardan 24 horas en llegar.",
+        "facts": "El 19 de noviembre de 2026, la NASA confirmó que Voyager 1 alcanzó una distancia de un día luz de la Tierra a las 2:16 de la madrugada del 18 de noviembre, hora del Pacífico: unos 25.900 millones de kilómetros. El Laboratorio de Propulsión a Chorro (JPL) de la NASA, en California, recibió la señal unas 24 horas después. Lanzada en 1977, la nave entró en el espacio interestelar en 2012. Desde el 14 de noviembre, la agencia no recibe datos científicos ni de ingeniería, aunque sigue detectando la señal portadora de radio. La interrupción está bajo investigación.",
+        "analysis": "Un día luz mide distancia, no duración del viaje: equivale a lo que recorre la luz en el vacío durante 24 horas. Enviar una orden y recibir una respuesta implica ahora cerca de 48 horas de tránsito de señales, sin contar el procesamiento. Voyager 1 tardó casi 49 años en llegar allí. El hito demuestra que aún es posible comunicarse con una nave más allá de la heliosfera, región dominada por el viento solar. Su fuente de energía radioisotópica pierde unos cuatro vatios al año, lo que obliga a ahorrar electricidad.",
+        "counterpoint": "La NASA confirmó la distancia alcanzada, pero no la recuperación de los datos. Detectar la señal portadora no equivale a recibir información científica y técnica utilizable. La causa del problema y la fecha de su solución siguen sin determinarse. No existen fotografías actuales de cerca de Voyager 1 en el espacio interestelar; las imágenes divulgadas son ilustraciones o archivos históricos.",
+        "slug": "la-nasa-confirma-que-voyager-1-esta-a-un-dia-luz-de-la-tierra-pero-sufre-fallos-2026-11-19"
+      }
+    },
+    {
       "id": "decreto-13173-regulamenta-escala-5x2-2026-11-19",
       "date": "2026-11-19",
       "category": "BRASIL",
