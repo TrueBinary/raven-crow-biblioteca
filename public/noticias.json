@@ -2,9 +2,53 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-20T10:57:00-03:00",
+  "updatedAt": "2026-11-20T12:57:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "coalizao-saudita-ataca-porto-hodeida-iemen-2026-11-20",
+      "date": "2026-11-20",
+      "title": "COALIZÃO SAUDITA ATACA PORTO DE HODEIDA NO IÊMEN; HOUTHIS AMEAÇAM RETALIAÇÃO",
+      "subtitle": "Bombardeios e ameaças ampliam risco para transporte marítimo e abastecimento civil no Mar Vermelho",
+      "category": "MUNDO",
+      "facts": "Nesta sexta-feira, 20 de novembro de 2026, a coalizão liderada pela Arábia Saudita anunciou ataques contra instalações no porto de Hodeida, no oeste do Iêmen, e alvos militares em Sanaa, Saada e Taiz. Segundo o porta-voz Turki al-Malki, as estruturas atingidas em Hodeida eram usadas para contrabando e transporte de armas e mísseis balísticos pelos houthis. A coalizão havia recomendado a retirada de civis da área portuária. Os houthis, por sua vez, ameaçaram atingir portos sauditas no Mar Vermelho e advertiram companhias aéreas a evitar o espaço aéreo saudita. Reuters, Associated Press e AFP noticiaram a operação e as ameaças no mesmo dia. A extensão dos danos, eventuais vítimas e os efeitos concretos sobre as operações comerciais ainda não estavam independentemente estabelecidos nas informações consultadas.",
+      "analysis": "Hodeida é uma porta de entrada importante para alimentos e suprimentos destinados ao norte do Iêmen. Por isso, a relevância dos ataques ultrapassa a dimensão militar: interrupções prolongadas no porto podem afetar a circulação de mercadorias e a assistência à população. A escalada ocorre após novos ataques de mísseis e drones atribuídos aos houthis contra a Arábia Saudita, incluindo um episódio em Riade no dia 19. O conflito iemenita começou antes da intervenção da coalizão saudita, em 2015, e voltou a se intensificar em 2026. Para acompanhar o impacto real, é necessário distinguir três indicadores: capacidade operacional do porto, continuidade das entregas humanitárias e confirmação independente de danos civis. Uma declaração de que o porto segue funcionando não demonstra, isoladamente, que todo o fluxo de abastecimento esteja normal.",
+      "counterpoint": "A alegação de que os alvos portuários tinham finalidade militar é da coalizão saudita e não foi confirmada de maneira independente nas fontes consultadas. As ameaças houthis também não significam que os ataques anunciados tenham ocorrido. Autoridades iemenitas afirmaram que o porto permanecia operacional; essa informação deve ser acompanhada à luz de dados de navegação e distribuição de ajuda. Não há base para atribuir números de mortos ou de instalações destruídas especificamente à ofensiva de sexta-feira sem confirmação adicional.",
+      "sources": [
+        {
+          "name": "Reuters — 20/11/2026",
+          "url": "https://www.reuters.com/world/middle-east/yemens-houthis-threaten-strike-saudi-red-sea-ports-2026-11-20/"
+        },
+        {
+          "name": "Associated Press — 20/11/2026",
+          "url": "https://apnews.com/article/16c39c487a23b53b73c5eabb7f0fd57a"
+        },
+        {
+          "name": "AFP/BSS — 20/11/2026",
+          "url": "https://www.bssnews.net/international/448277"
+        },
+        {
+          "name": "Anadolu Agency — 20/11/2026",
+          "url": "https://mobil.aa.com.tr/en/middle-east/saudi-led-coalition-launches-military-operation-against-houthi-targets-in-yemen/4132278"
+        }
+      ],
+      "en": {
+        "title": "SAUDI-LED COALITION STRIKES YEMEN'S HODEIDAH PORT AS HOUTHIS THREATEN RETALIATION",
+        "subtitle": "Airstrikes and threats raise concerns over Red Sea shipping and civilian supplies",
+        "category": "WORLD",
+        "facts": "On Friday, November 20, 2026, the Saudi-led coalition announced strikes on facilities at Hodeidah port in western Yemen and military targets in Sanaa, Saada and Taiz. Spokesman Turki al-Malki said the port facilities had been used by the Houthis to smuggle and transport weapons and ballistic missiles. Civilians had been urged to evacuate the port area. The Houthis threatened Saudi Red Sea ports and warned airlines to avoid Saudi airspace. Reuters, Associated Press and AFP reported the developments that day. The scale of damage, possible casualties and actual impact on commercial operations had not been independently established in the sources reviewed.",
+        "analysis": "Hodeidah is a vital entry point for food and supplies reaching northern Yemen. The stakes therefore extend beyond military operations: sustained disruption could affect trade and humanitarian deliveries. The escalation follows renewed Houthi missile and drone attacks on Saudi Arabia, including an incident in Riyadh on November 19. The Yemen war predates the Saudi-led intervention of 2015 and has intensified again in 2026. Three indicators matter for assessing the consequences: the port's actual operating capacity, the continuity of humanitarian shipments and independently verified civilian harm. An official claim that the port remains open does not, by itself, establish that supplies are flowing normally.",
+        "counterpoint": "The coalition's assertion that port facilities were military targets has not been independently verified in the reviewed reports. Houthi threats do not establish that the promised strikes have taken place. Yemeni officials said the port remained operational, a claim that should be assessed against shipping and aid-delivery data. No specific death toll or count of destroyed facilities can responsibly be assigned to Friday's offensive without further confirmation."
+      },
+      "es": {
+        "title": "LA COALICIÓN SAUDÍ ATACA EL PUERTO YEMENÍ DE HODEIDA Y LOS HUTÍES AMENAZAN CON REPRESALIAS",
+        "subtitle": "Los bombardeos y las amenazas aumentan la preocupación por el transporte y el abastecimiento civil en el mar Rojo",
+        "category": "MUNDO",
+        "facts": "El viernes 20 de noviembre de 2026, la coalición encabezada por Arabia Saudita anunció ataques contra instalaciones del puerto de Hodeida, en el oeste de Yemen, y objetivos militares en Saná, Saada y Taiz. Su portavoz, Turki al-Malki, afirmó que las instalaciones portuarias se utilizaban para el contrabando y transporte de armas y misiles balísticos de los hutíes. Antes de la operación se había pedido a los civiles que abandonaran la zona. Los hutíes amenazaron con atacar puertos saudíes del mar Rojo y advirtieron a las aerolíneas que evitaran el espacio aéreo saudí. Reuters, Associated Press y AFP informaron sobre los hechos ese mismo día. Las fuentes consultadas no permitían establecer de manera independiente la magnitud de los daños, las posibles víctimas ni el efecto real sobre las operaciones comerciales.",
+        "analysis": "Hodeida es una vía esencial para la entrada de alimentos y suministros al norte de Yemen. Por ello, las consecuencias potenciales van más allá del plano militar: una interrupción prolongada podría afectar al comercio y a la ayuda humanitaria. La escalada llega tras nuevos ataques con misiles y drones atribuidos a los hutíes contra Arabia Saudita, incluido un episodio en Riad el 19 de noviembre. La guerra de Yemen precede a la intervención de la coalición saudí de 2015 y se ha intensificado de nuevo en 2026. Para medir las consecuencias deben examinarse la capacidad operativa real del puerto, la continuidad de las entregas humanitarias y los daños civiles verificados de forma independiente. Afirmar que el puerto sigue abierto no demuestra por sí solo que el abastecimiento funcione con normalidad.",
+        "counterpoint": "La afirmación de que las instalaciones portuarias tenían fines militares procede de la coalición saudí y no ha sido verificada de forma independiente en los informes examinados. Las amenazas hutíes tampoco prueban que se hayan ejecutado los ataques anunciados. Autoridades yemeníes aseguraron que el puerto seguía operativo; ese dato requiere contraste con el tráfico marítimo y las entregas de ayuda. No es posible atribuir un número de víctimas o instalaciones destruidas a la ofensiva del viernes sin confirmación adicional."
+      }
+    },
     {
       "id": "fachin-retira-sigilo-relatorio-mendonca-master-2026-11-20",
       "date": "2026-11-20",
