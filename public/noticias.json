@@ -2,9 +2,53 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-19T20:01:59-03:00",
+  "updatedAt": "2026-11-20T00:01:48-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "decreto-13173-regulamenta-escala-5x2-2026-11-19",
+      "date": "2026-11-19",
+      "category": "BRASIL",
+      "title": "DECRETO REGULAMENTA ESCALA 5X2: VEJA QUANDO A JORNADA CAI PARA 42 E 40 HORAS",
+      "subtitle": "Norma assinada em 19 de novembro detalha descanso remunerado, cálculo da hora e regimes especiais; redução começa em 16 de dezembro.",
+      "facts": "O presidente Luiz Inácio Lula da Silva assinou em Brasília, em 19 de novembro de 2026, o Decreto nº 13.173, publicado em edição extra do Diário Oficial da União. A norma regulamenta a Emenda Constitucional nº 141, de 16 de outubro de 2026, sobre dois dias de repouso semanal remunerado e transição da jornada máxima de 44 para 42 horas semanais em 16 de dezembro de 2026 e para 40 horas em 16 de dezembro de 2027, sem redução do salário mensal. O Ministério do Trabalho e Emprego (MTE) ficou responsável por normas complementares.",
+      "analysis": "Para quem recebe salário mensal fixo, a redução do divisor de cálculo muda o valor da hora: na jornada de 44 horas, o divisor usual é 220; para 42 horas, o decreto estabelece 210; para 40 horas, 200. Num exemplo meramente aritmético, salário de R$ 2.200 equivale a R$ 10 por hora pelo divisor 220, a aproximadamente R$ 10,48 pelo divisor 210 e a R$ 11 pelo divisor 200. Isso pode elevar o valor-base de horas extras, sem significar aumento automático do salário mensal. O MTE estima que 14,8 milhões de pessoas atualmente em escala 6x1 e outras 21,7 milhões que já trabalham cinco dias, mas cumprem 44 horas, serão alcançadas pelas mudanças. A transição deriva de emenda constitucional aprovada em outubro, não de uma decisão unilateral do decreto.",
+      "counterpoint": "A aplicação concreta dependerá de contratos, convenções coletivas, regimes especiais e regras complementares do MTE. O decreto também disciplina turnos ininterruptos de revezamento e jornadas 12x36, que não podem ser interpretados como simples conversão automática para cinco dias de trabalho. Os números de trabalhadores são estimativas governamentais, não contagem individual de contratos já alterados. A reportagem não inclui fotografia porque não foi possível verificar uma URL JPEG direta, de até 3 MB e com reutilização autorizada, da cerimônia oficial; o material visual da página governamental não foi presumido como arquivo publicável.",
+      "sources": [
+        {
+          "name": "Presidência da República — Decreto nº 13.173, de 19/11/2026",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13173.htm"
+        },
+        {
+          "name": "Casa Civil — explicação oficial, 19/11/2026",
+          "url": "https://www.gov.br/casacivil/pt-br/assuntos/noticias/2026/novembro/decreto-regulamenta-novas-regras-sobre-jornada-de-trabalho-e-descanso-semanal-remunerado"
+        },
+        {
+          "name": "Ministério do Trabalho e Emprego — regulamentação 5x2, 19/11/2026",
+          "url": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/novembro/governo-do-brasil-regulamenta-jornada-de-trabalho-na-escala-5x2"
+        },
+        {
+          "name": "Agência Brasil — cálculo das horas extras, 19/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/veja-como-sera-o-calculo-da-hora-extra-com-escala-de-trabalho-5x2"
+        }
+      ],
+      "en": {
+        "category": "BRAZIL",
+        "title": "BRAZIL REGULATES FIVE-DAY WORKWEEK: WHEN THE 42- AND 40-HOUR LIMITS TAKE EFFECT",
+        "subtitle": "A November 19 decree sets out paid rest, hourly pay calculations and special schedules; the transition starts December 16.",
+        "facts": "Brazilian President Luiz Inácio Lula da Silva signed Decree No. 13,173 in Brasília on November 19, 2026. Published in a special edition of the federal gazette, it implements Constitutional Amendment No. 141 of October 16, 2026. The amendment provides for two paid weekly rest days and a gradual reduction in the maximum workweek from 44 to 42 hours on December 16, 2026, and to 40 hours on December 16, 2027, without cutting monthly salaries. The Ministry of Labor and Employment (MTE) is to issue supplementary rules.",
+        "analysis": "For employees on fixed monthly pay, the divisor used to calculate hourly wages changes. The usual divisor for 44 hours is 220; the decree specifies 210 for 42 hours and 200 for 40 hours. As a purely arithmetic example, a R$2,200 monthly salary means R$10 per hour at 220, approximately R$10.48 at 210, and R$11 at 200. This may raise the base for overtime pay but does not automatically increase monthly salary. The MTE estimates that 14.8 million workers on six-day schedules and 21.7 million already on five-day schedules but working 44 hours will be affected. The change stems from the constitutional amendment passed in October, not from the decree alone.",
+        "counterpoint": "Individual implementation will depend on employment contracts, collective agreements, special work arrangements and further MTE guidance. The decree also addresses rotating shifts and 12-hour-on/36-hour-off schedules, which should not be treated as an automatic switch to a standard five-day week. The worker figures are government estimates, not a count of contracts already changed. No photo is included because a directly accessible, reusable JPEG of the signing ceremony meeting the site's 3 MB limit could not be verified."
+      },
+      "es": {
+        "category": "BRASIL",
+        "title": "BRASIL REGLAMENTA LA SEMANA LABORAL DE CINCO DÍAS: CUÁNDO BAJARÁ A 42 Y 40 HORAS",
+        "subtitle": "El decreto del 19 de noviembre detalla el descanso remunerado, el cálculo de la hora y los regímenes especiales; la transición comienza el 16 de diciembre.",
+        "facts": "El presidente brasileño Luiz Inácio Lula da Silva firmó en Brasilia, el 19 de noviembre de 2026, el Decreto n.º 13.173, publicado en una edición extraordinaria del diario oficial. La norma reglamenta la Enmienda Constitucional n.º 141 del 16 de octubre de 2026, que establece dos días de descanso semanal remunerado y la reducción gradual del máximo de 44 a 42 horas semanales el 16 de diciembre de 2026, y a 40 horas el 16 de diciembre de 2027, sin recortar el salario mensual. El Ministerio de Trabajo y Empleo (MTE) emitirá normas complementarias.",
+        "analysis": "Para quienes reciben un salario mensual fijo, cambia el divisor utilizado para calcular el valor de cada hora: el divisor habitual de 44 horas es 220; el decreto fija 210 para 42 horas y 200 para 40 horas. En un ejemplo exclusivamente aritmético, un sueldo de R$ 2.200 equivale a R$ 10 por hora con divisor 220, aproximadamente R$ 10,48 con 210 y R$ 11 con 200. Esto puede elevar la base de las horas extras sin implicar un aumento automático del sueldo mensual. El MTE estima que los cambios afectarán a 14,8 millones de trabajadores con escala de seis días y a otros 21,7 millones que ya trabajan cinco días pero cumplen 44 horas. La transición proviene de la enmienda constitucional aprobada en octubre, no solo del decreto.",
+        "counterpoint": "La aplicación concreta dependerá de los contratos, convenios colectivos, regímenes especiales y futuras normas del MTE. El decreto también regula turnos rotativos y jornadas de 12 horas de trabajo por 36 de descanso, que no deben interpretarse como una conversión automática a cinco días. Las cifras de trabajadores son estimaciones gubernamentales, no un recuento de contratos ya modificados. No se incluye fotografía porque no pudo verificarse un JPEG directo, reutilizable y de hasta 3 MB de la ceremonia oficial."
+      }
+    },
     {
       "id": "prf-operacao-consciencia-negra-2026-rodovias-federais",
       "date": "2026-11-19",
