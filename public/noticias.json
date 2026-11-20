@@ -34,7 +34,10 @@
         "facts": "Brazil's Federal Highway Police (PRF) began its Black Consciousness Day road-safety operation on Thursday, November 19, 2026. Increased enforcement on federal highways will continue through Sunday, November 22, around the November 20 national holiday. Official notices in São Paulo, Rio de Janeiro and other states identify speeding, prohibited overtaking, impaired driving, seat belts, child restraints and motorcycle safety as priorities. Traffic is expected to peak on Thursday evening and during Sunday's return journeys.",
         "analysis": "The practical distinction is that stronger enforcement does not mean a general road closure. In São Paulo, certain oversized or overweight freight vehicles face restrictions on single-carriageway federal roads from 4 p.m. to 10 p.m. Thursday, 6 a.m. to noon Friday and 4 p.m. to 10 p.m. Sunday. Published thresholds include more than 2.6 metres wide, 4.4 metres high, 19.8 metres long or 58.5 tonnes gross combined weight. Drivers should check the rules for their routes, inspect tyres, brakes and lights, and allow extra travel time. For emergencies on federal highways, call PRF at 191.",
         "counterpoint": "These announcements set out preventive measures and traffic forecasts, not accident statistics for the 2026 holiday. Freight restrictions do not apply equally to every road or vehicle. There is not yet evidence that the operation has reduced crashes. An archival photograph was located, but was excluded because direct JPEG access could not be verified with the required GET request.",
-        "category": "BRAZIL"
+        "category": "BRAZIL",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (August 24, 2011): Federal Highway Police vehicle on display. It does not depict the 2026 holiday road operation. Photo: EUDOXIO / Wikimedia Commons; license: CC BY-SA 3.0."
+        }
       },
       "es": {
         "title": "BRASIL REFUERZA LOS CONTROLES EN CARRETERAS HASTA EL DOMINGO POR EL FERIADO DE LA CONCIENCIA NEGRA",
@@ -42,8 +45,22 @@
         "facts": "La Policía Federal de Carreteras (PRF) de Brasil inició el jueves 19 de noviembre de 2026 la Operación Día de la Conciencia Negra en las carreteras federales. El refuerzo de los controles continuará hasta el domingo 22, durante el feriado nacional del 20 de noviembre. Comunicados oficiales en São Paulo, Río de Janeiro y otros estados señalan como prioridades el exceso de velocidad, los adelantamientos prohibidos, la conducción bajo efectos del alcohol, los cinturones, los sistemas infantiles y la protección de motociclistas. Se espera más tráfico el jueves por la noche y durante el regreso del domingo.",
         "analysis": "Para los viajeros, es importante distinguir el aumento de controles de un cierre general de carreteras. En São Paulo se anunciaron restricciones para determinados vehículos de carga de grandes dimensiones o peso en vías federales de calzada única: jueves de 16:00 a 22:00, viernes de 6:00 a 12:00 y domingo de 16:00 a 22:00. Los límites publicados incluyen más de 2,6 metros de ancho, 4,4 de alto, 19,8 de largo o 58,5 toneladas de peso bruto total combinado. Conviene consultar las reglas del trayecto, revisar neumáticos, frenos y luces y prever más tiempo. En emergencias en carreteras federales, la PRF atiende en el 191.",
         "counterpoint": "Los comunicados describen medidas preventivas y previsiones de tráfico, no un balance de accidentes del feriado de 2026. Las restricciones de carga no se aplican por igual a todas las carreteras y vehículos. Todavía no hay pruebas de que el operativo haya reducido los siniestros. Se encontró una fotografía de archivo, pero se descartó al no poder verificarse mediante GET el acceso directo al JPEG exigido.",
-        "category": "BRASIL"
-      }
+        "category": "BRASIL",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (24 de agosto de 2011): Vehículo de la Policía Federal de Carreteras en exhibición. No muestra el operativo vial de 2026. Foto: EUDOXIO / Wikimedia Commons; licencia: CC BY-SA 3.0."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Viatura_do_NOE_-_PRF.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 3.0",
+          "credit": "EUDOXIO / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Viatura_do_NOE_-_PRF.jpg",
+          "caption": "FOTO DE ARQUIVO (24/08/2011): Viatura da Polícia Rodoviária Federal em exposição. Não retrata a fiscalização do feriado de 2026. Foto: EUDOXIO / Wikimedia Commons; licença: CC BY-SA 3.0."
+        }
+      ]
     },
     {
       "id": "enem-2026-prazo-reaplicacao-termina-20-novembro",
@@ -131,7 +148,10 @@
         "facts": "Donald Trump, Xi Jinping and Vladimir Putin met on Thursday, November 19, 2026, in Shenzhen, China, on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit. Their governments subsequently issued a joint declaration reaffirming that nuclear war cannot be won and must never be fought. The text calls for dialogue on nuclear risk reduction, reform of the United Nations (UN), increased supplies of refined petroleum products and respect for the immunity of state officials. No nuclear treaty, verifiable arsenal-reduction targets or agreement to end the war in Ukraine was announced.",
         "analysis": "The new development, beyond the previously announced summit, is the release of a common statement. A promise of dialogue is not disarmament: the document provides no timetable, inspection mechanism or quantified commitments. The meeting followed the expiration of the US-Russia New START treaty, as Washington seeks to bring China into future negotiations. It also groups very different subjects — nuclear security, energy and international courts — without detailing implementation. Tangible results will depend on subsequent, verifiable commitments.",
         "counterpoint": "The Associated Press described the meeting as largely symbolic, without major breakthroughs. Ukraine and European allies were absent despite discussions of the war, prompting European criticism of decisions about Kyiv without its participation. Disagreements over Ukraine, Taiwan, trade and arms control persist. The declaration records intentions, not guaranteed results.",
-        "category": "WORLD"
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (October 30, 2025): Donald Trump and Xi Jinping meet at Gimhae airport, South Korea. Putin is not pictured, and this is not the November 2026 summit. Photo: Daniel Torok / Casa Branca; license: Domínio público — governo federal dos EUA."
+        }
       },
       "es": {
         "title": "TRUMP, XI Y PUTIN PUBLICAN UNA DECLARACIÓN DE PAZ TRAS LA CUMBRE EN CHINA, SIN ACUERDO NUCLEAR",
@@ -139,8 +159,22 @@
         "facts": "Donald Trump, Xi Jinping y Vladimir Putin se reunieron el jueves 19 de noviembre de 2026 en Shenzhen, China, durante la cumbre de Cooperación Económica Asia-Pacífico (APEC). Sus gobiernos publicaron después una declaración conjunta que reafirma que una guerra nuclear no puede ganarse y nunca debe librarse. El documento propone dialogar para reducir riesgos nucleares, reformar la Organización de las Naciones Unidas (ONU), ampliar la oferta de derivados del petróleo y respetar la inmunidad de funcionarios estatales. No se anunciaron tratados nucleares, metas verificables de reducción de arsenales ni acuerdos para poner fin a la guerra en Ucrania.",
         "analysis": "La novedad, más allá de la cumbre anunciada previamente, es la publicación de un texto común. Prometer diálogo no equivale a desarme: faltan plazos, mecanismos de inspección y compromisos cuantificados. La reunión ocurrió después del vencimiento del tratado New START entre Estados Unidos y Rusia, mientras Washington busca incorporar a China a futuras negociaciones. El documento también reúne asuntos muy diferentes — seguridad nuclear, energía y tribunales internacionales — sin detallar su aplicación. Los resultados dependerán de compromisos posteriores que puedan comprobarse.",
         "counterpoint": "Associated Press describió la reunión como principalmente simbólica, sin avances decisivos. Ucrania y sus aliados europeos no participaron aunque se abordó la guerra, lo que provocó críticas europeas a cualquier decisión sobre Kiev sin su presencia. Persisten desacuerdos sobre Ucrania, Taiwán, comercio y armamentos. La declaración expresa intenciones, no garantiza resultados.",
-        "category": "MUNDO"
-      }
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (30 de octubre de 2025): Donald Trump y Xi Jinping se reúnen en el aeropuerto de Gimhae, Corea del Sur. Putin no aparece y la imagen no muestra la cumbre de noviembre de 2026. Foto: Daniel Torok / Casa Branca; licencia: Domínio público — governo federal dos EUA."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/President_Donald_Trump_participates_in_a_bilateral_meeting_with_Chinese_President_Xi_Jinping_at_the_Gimhae_International_Airport_terminal_%2854890689554%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público — governo federal dos EUA",
+          "credit": "Daniel Torok / Casa Branca",
+          "source_article": "https://commons.wikimedia.org/wiki/File:President_Donald_Trump_participates_in_a_bilateral_meeting_with_Chinese_President_Xi_Jinping_at_the_Gimhae_International_Airport_terminal_(54890689554).jpg",
+          "caption": "FOTO DE ARQUIVO (30/10/2025): Donald Trump e Xi Jinping em reunião bilateral no aeroporto de Gimhae, Coreia do Sul. Putin não aparece e a fotografia não retrata a cúpula de novembro de 2026. Foto: Daniel Torok / Casa Branca; licença: Domínio público — governo federal dos EUA."
+        }
+      ]
     },
     {
       "id": "gta-vi-lancado-ps5-xbox-series-2026-11-19",
@@ -232,7 +266,10 @@
         "facts": "Denmark's Parliament approved a defense and security agreement with the United States and Greenland in Copenhagen on Thursday, November 19, 2026. The pact was signed on September 22. All 109 lawmakers present voted in favor, with no votes against or abstentions, according to international reporting. Greenland's Parliament had approved the agreement on November 3. The Danish Parliament said the government can now formally notify the United States that domestic procedures are complete, a step required for entry into force. The pact supplements the 1951 defense agreement and provides for expanded US military operations and defense areas at Narsarsuaq and Mestersvig while recognizing Danish sovereignty and Greenlanders' right to self-determination.",
         "analysis": "Greenland occupies a strategic position between the North Atlantic and Arctic Ocean, where surveillance and early-warning infrastructure matter to the North Atlantic Treaty Organization (NATO). Updating the 1951 arrangement expands options for US cooperation and military access, including missile-defense projects. The key legal distinction is that access granted by agreement is not territorial annexation. Approval by both parliaments provides an institutional basis for negotiating implementation after months of tension over Donald Trump's statements about taking control of the island.",
         "counterpoint": "Parliamentary approval does not mean new bases have been built or that every operational detail is settled. Entry into force still requires the specified diplomatic notification. Danish and Greenlandic officials say sovereignty and self-determination remain protected, but earlier US pressure damaged political trust. A larger US presence could prompt further debate over local autonomy, environmental effects and public participation.",
-        "category": "WORLD"
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (2026): Residential waterfront in Nuuk, Greenland. This does not depict the Danish parliamentary vote on the defense agreement. Photo: Comissão Europeia / Wikimedia Commons; license: CC BY 4.0."
+        }
       },
       "es": {
         "title": "DINAMARCA APRUEBA ACUERDO DE DEFENSA DE GROENLANDIA CON EE. UU. TRAS CRISIS DIPLOMÁTICA",
@@ -240,8 +277,22 @@
         "facts": "El Parlamento de Dinamarca aprobó en Copenhague, el jueves 19 de noviembre de 2026, un acuerdo de defensa y seguridad con Estados Unidos y Groenlandia firmado el 22 de septiembre. Los 109 diputados presentes votaron a favor, sin votos en contra ni abstenciones, según la prensa internacional. El Parlamento groenlandés había aprobado el pacto el 3 de noviembre. Según el Parlamento danés, el Gobierno ya puede notificar formalmente a Estados Unidos que concluyeron los procedimientos internos, requisito para su entrada en vigor. El texto complementa el acuerdo de defensa de 1951 y contempla la ampliación de operaciones militares estadounidenses y zonas de defensa en Narsarsuaq y Mestersvig, sin eliminar la soberanía danesa ni el derecho de autodeterminación de los groenlandeses.",
         "analysis": "Groenlandia ocupa una posición estratégica entre el Atlántico Norte y el océano Ártico, donde la vigilancia y la alerta temprana son importantes para la Organización del Tratado del Atlántico Norte (OTAN). La actualización del acuerdo de 1951 amplía las posibilidades de cooperación y acceso militar estadounidense, incluidos proyectos de defensa antimisiles. La distinción jurídica fundamental es que conceder acceso mediante un acuerdo no equivale a anexar territorio. La aprobación de ambos parlamentos establece una base institucional para negociar la aplicación del pacto tras meses de tensión por las declaraciones de Donald Trump sobre controlar la isla.",
         "counterpoint": "La aprobación parlamentaria no significa que se hayan construido nuevas bases ni que todos los detalles operativos estén resueltos. La entrada en vigor todavía requiere la notificación diplomática prevista. Las autoridades danesas y groenlandesas sostienen que se preservan la soberanía y la autodeterminación, pero la presión anterior de Washington deterioró la confianza política. Una mayor presencia estadounidense podría reabrir debates sobre autonomía local, impacto ambiental y participación ciudadana.",
-        "category": "MUNDO"
-      }
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (2026): Zona residencial costera de Nuuk, Groenlandia. No muestra la votación del acuerdo de defensa en el Parlamento danés. Foto: Comissão Europeia / Wikimedia Commons; licencia: CC BY 4.0."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Nuuk%2C_Greenland_%28P-070650-00-42%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 4.0",
+          "credit": "Comissão Europeia / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Nuuk,_Greenland_(P-070650-00-42).jpg",
+          "caption": "FOTO DE ARQUIVO (2026): Vista da orla residencial de Nuuk, na Groenlândia. Não retrata a votação do acordo de defesa no Parlamento dinamarquês. Foto: Comissão Europeia / Wikimedia Commons; licença: CC BY 4.0."
+        }
+      ]
     },
     {
       "id": "anthropic-estreia-nasdaq-ipo-81-bilhoes-2026-11-19",
@@ -272,7 +323,10 @@
         "facts": "Anthropic, developer of the Claude artificial intelligence assistant, began trading on Nasdaq on Thursday, November 19, 2026, under the ticker ANT. On November 18, the company announced an initial public offering (IPO) price of $83 per share, covering 980 million shares: 956,351,354 sold by Anthropic and 23,648,646 by selling shareholders. The offering involved approximately $81 billion in shares. Reuters reported an opening price of $111.50, roughly 34% above the IPO price, implying an initial market capitalization of about $2 trillion. The offering is expected to close on November 20, subject to customary conditions. Anthropic does not receive proceeds from shares sold by existing shareholders.",
         "analysis": "The IPO gives Anthropic access to public capital to support compute-intensive infrastructure investment and turns a private AI valuation into a continuously traded market price. Two figures must be distinguished: the amount raised by the offering and market capitalization, which depends on the trading price multiplied by outstanding shares. A first-day price jump does not deliver the entire increase in valuation as cash to the company. For investors and competitors, the listing provides a public gauge of expectations for AI revenue, margins, computing costs and investment returns.",
         "counterpoint": "First-day demand is not proof of future profitability. AI developers face high training and operating costs, competition and regulatory uncertainty. Share prices can move sharply after a debut. The $111.50 figure is the Reuters-reported opening price, not a guaranteed closing price.",
-        "category": "TECHNOLOGY"
+        "category": "TECHNOLOGY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (January 3, 2020): Commercial building on Howard Street, San Francisco, later associated with Anthropic; it housed Slack offices when photographed. This does not depict the Nasdaq debut. Photo: HaeB / Wikimedia Commons; license: CC BY-SA 4.0."
+        }
       },
       "es": {
         "title": "ANTHROPIC DEBUTA EN NASDAQ TRAS UNA OFERTA DE US$ 81.000 MILLONES",
@@ -280,8 +334,22 @@
         "facts": "Anthropic, desarrolladora del asistente de inteligencia artificial Claude, debutó en Nasdaq el jueves 19 de noviembre de 2026 bajo el símbolo ANT. El 18 de noviembre, la empresa anunció un precio de US$ 83 por acción para su oferta pública inicial (OPI), que abarcó 980 millones de acciones: 956.351.354 vendidas por Anthropic y 23.648.646 por accionistas vendedores. La oferta movilizó aproximadamente US$ 81.000 millones. Según Reuters, las acciones abrieron a US$ 111,50, cerca de un 34% por encima del precio de colocación, lo que implicó una capitalización inicial próxima a US$ 2 billones. Se prevé que la operación concluya el 20 de noviembre, sujeta a las condiciones habituales. Anthropic no recibe los ingresos de las acciones vendidas por accionistas existentes.",
         "analysis": "La salida a bolsa permite captar capital público para inversiones intensivas en infraestructura informática y convierte la valoración privada de una empresa de IA en un precio negociado continuamente. Hay que distinguir el importe obtenido en la oferta de la capitalización bursátil, calculada según el precio de mercado y las acciones en circulación. La subida inicial no significa que toda la diferencia de valoración ingrese en la caja de la compañía. Para inversores y competidores, la cotización ofrece una referencia pública sobre expectativas de ingresos, márgenes, costos de computación y rentabilidad de la IA.",
         "counterpoint": "La demanda del primer día no demuestra rentabilidad futura. Las empresas de IA afrontan elevados costos operativos y de entrenamiento, competencia e incertidumbre regulatoria. El precio puede fluctuar considerablemente tras el debut. Los US$ 111,50 corresponden al precio de apertura comunicado por Reuters, no a un cierre asegurado.",
-        "category": "TECNOLOGÍA"
-      }
+        "category": "TECNOLOGÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (3 de enero de 2020): Edificio comercial en Howard Street, San Francisco, asociado posteriormente a Anthropic; alojaba oficinas de Slack cuando se tomó la foto. No muestra el debut en Nasdaq. Foto: HaeB / Wikimedia Commons; licencia: CC BY-SA 4.0."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Slack_offices%2C_Howard_Street%2C_San_Francisco_%28viewed_from_the_south-west%2C_January_2020%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0",
+          "credit": "HaeB / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Slack_offices,_Howard_Street,_San_Francisco_(viewed_from_the_south-west,_January_2020).jpg",
+          "caption": "FOTO DE ARQUIVO (03/01/2020): Edifício comercial na Howard Street, São Francisco, posteriormente associado à Anthropic; abrigava escritórios da Slack quando fotografado. Não retrata a estreia na Nasdaq. Foto: HaeB / Wikimedia Commons; licença: CC BY-SA 4.0."
+        }
+      ]
     },
     {
       "id": "cij-condena-mianmar-genocidio-rohingya-2026-11-19",
@@ -308,7 +376,10 @@
         "facts": "On November 19, 2026, the International Court of Justice (ICJ) in The Hague ruled that Myanmar committed genocide against the Rohingya population in Rakhine State. The case was brought by The Gambia. Judges found that security forces killed thousands of civilians, committed widespread sexual violence and attacked children and people fleeing toward Bangladesh. Myanmar had denied genocide, describing its operations as a response to armed insurgents. The court rejected that account as a justification for the conduct examined.",
         "analysis": "The distinction is crucial: the ICJ rules on state responsibility, not the criminal guilt of individual officers. Genocide requires proof of an intent to destroy a protected group, in whole or in part, beyond evidence of mass killings alone. Unlike earlier provisional measures, this is a judgment on the merits. The court ordered remedies and guarantees of non-repetition, but implementation will depend on Myanmar's actions and international pressure. Hundreds of thousands fled to Bangladesh during the 2016–2017 military campaign; the judgment does not itself ensure their safe return.",
         "counterpoint": "ICJ judgments are binding under international law, but the court has no police force to enforce them. The practical scope of compensation and the conditions for refugee returns remain unresolved. State responsibility is distinct from individual criminal prosecution before the International Criminal Court.",
-        "category": "WORLD"
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (material identified as from 2017, released in 2018): Rohingya refugees in a camp in Bangladesh. This does not depict the International Court of Justice's 2026 ruling. Photo: Zlatica Hoke / Voice of America; license: Domínio público — Voice of America (governo dos EUA)."
+        }
       },
       "es": {
         "title": "LA CORTE DE LA ONU DECLARA QUE MYANMAR COMETIÓ GENOCIDIO CONTRA LOS ROHINGYAS",
@@ -316,8 +387,22 @@
         "facts": "El 19 de noviembre de 2026, la Corte Internacional de Justicia (CIJ), con sede en La Haya, concluyó que Myanmar cometió genocidio contra la población rohingya del estado de Rakhine. Gambia presentó el caso. Los jueces determinaron que las fuerzas de seguridad mataron a miles de civiles, cometieron violencia sexual generalizada y atacaron a niños y personas que huían hacia Bangladesh. Myanmar había negado el genocidio y sostenía que sus operaciones respondían a una insurgencia armada. La corte rechazó esa explicación como justificación de los actos examinados.",
         "analysis": "La diferencia jurídica es fundamental: la CIJ determina la responsabilidad de los Estados, no la culpabilidad penal de oficiales individuales. Para acreditar genocidio es necesario demostrar la intención de destruir total o parcialmente a un grupo protegido, no solo asesinatos masivos. A diferencia de las medidas provisionales anteriores, esta es una sentencia sobre el fondo. El tribunal ordenó reparaciones y garantías de no repetición, pero su cumplimiento dependerá de Myanmar y de la presión internacional. Cientos de miles huyeron a Bangladesh durante la campaña militar de 2016 y 2017; la sentencia no garantiza por sí sola su retorno seguro.",
         "counterpoint": "Las sentencias de la CIJ son vinculantes en el derecho internacional, pero el tribunal no dispone de una fuerza policial propia. El alcance efectivo de las indemnizaciones y las condiciones para el regreso de los refugiados siguen pendientes. La responsabilidad estatal es distinta de la persecución penal individual ante la Corte Penal Internacional.",
-        "category": "MUNDO"
-      }
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (material identificado como de 2017, difundido en 2018): Refugiados rohinyás en un campamento de Bangladés. No muestra la decisión de la Corte Internacional de Justicia de 2026. Foto: Zlatica Hoke / Voice of America; licencia: Domínio público — Voice of America (governo dos EUA)."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Rohingya_refugees_in_refugee_camp_in_Bangladesh%2C_2017.JPG",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público — Voice of America (governo dos EUA)",
+          "credit": "Zlatica Hoke / Voice of America",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Rohingya_refugees_in_refugee_camp_in_Bangladesh,_2017.JPG",
+          "caption": "FOTO DE ARQUIVO (material identificado como de 2017, divulgado em 2018): Refugiados rohingyas em acampamento em Bangladesh. Não retrata a decisão da Corte Internacional de Justiça em 2026. Foto: Zlatica Hoke / Voice of America; licença: Domínio público — Voice of America (governo dos EUA)."
+        }
+      ]
     },
     {
       "id": "pf-entrega-relatorios-fachin-ministros-master-2026-11-19",
@@ -344,7 +429,10 @@
         "facts": "On the evening of November 18, 2026, in Brasília, Federal Police (PF) director-general Andrei Rodrigues delivered reports to Edson Fachin, president of Brazil's Supreme Federal Court (STF), concerning references to justices found in the Banco Master investigation. According to Agência Brasil, Fachin requested a contextual, descriptive account of references found on former banker Daniel Vorcaro's phone. The documents remain confidential. Fachin is expected to send them to the Prosecutor General's Office (PGR) for an assessment of possible next steps.",
         "analysis": "Delivery of the reports completes a documentary step, not an investigation or trial of any justice. Identifying a name in messages, assessing grounds for investigative measures and authorizing a formal investigation are distinct steps. Context matters: being mentioned by another person is not evidence of wrongdoing. The PGR's assessment and subsequent court decisions will determine whether there are procedural consequences.",
         "counterpoint": "The reports have not been made public, so their contents cannot be treated as proof of a crime by any justice. During a Senate hearing on November 18, Rodrigues attributed the removal of two officers from leadership positions to a breakdown of trust and reports he said exceeded instructions. This is his account, not an independent finding about the officers' conduct. The balance between transparency and investigative confidentiality remains unresolved.",
-        "category": "JUSTICE"
+        "category": "JUSTICE",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (May 30, 2018): Justice Edson Fachin during a Brazilian Supreme Court session in Brasília. This does not depict the delivery of Federal Police reports in 2026. Photo: Antonio Cruz / Agência Brasil; license: CC BY 3.0 Brasil."
+        }
       },
       "es": {
         "title": "LA POLICÍA FEDERAL ENTREGA A FACHIN INFORMES SOBRE JUECES CITADOS EN EL CASO MASTER",
@@ -352,8 +440,22 @@
         "facts": "La noche del 18 de noviembre de 2026, en Brasilia, el director general de la Policía Federal (PF), Andrei Rodrigues, entregó al presidente del Supremo Tribunal Federal (STF) de Brasil, Edson Fachin, informes sobre menciones a magistrados halladas en la investigación del Banco Master. Según Agência Brasil, Fachin solicitó una descripción contextualizada de las referencias encontradas en el teléfono del exbanquero Daniel Vorcaro. Los documentos siguen bajo reserva. Fachin deberá remitirlos a la Procuraduría General de la República (PGR) para evaluar posibles medidas.",
         "analysis": "La entrega cierra una etapa documental, no una investigación ni un juicio contra magistrados. Identificar menciones, evaluar la necesidad de diligencias y autorizar una investigación formal son pasos diferentes. El contexto es fundamental: aparecer en mensajes de terceros no constituye por sí solo prueba de irregularidad. La evaluación de la PGR y las futuras decisiones del tribunal determinarán los efectos procesales.",
         "counterpoint": "El contenido de los informes no se ha divulgado y no puede considerarse prueba de delitos cometidos por magistrados. En una audiencia del Senado el 18 de noviembre, Rodrigues atribuyó el relevo de dos policías de puestos directivos a una pérdida de confianza y a informes que, según él, excedieron las instrucciones. Es su versión, no una conclusión independiente sobre los agentes. Persiste la tensión entre transparencia y reserva investigativa.",
-        "category": "JUSTICIA"
-      }
+        "category": "JUSTICIA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (30 de mayo de 2018): El magistrado Edson Fachin durante una sesión del Supremo Tribunal Federal en Brasilia. No muestra la entrega de informes de la Policía Federal de 2026. Foto: Antonio Cruz / Agência Brasil; licencia: CC BY 3.0 Brasil."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Edson_Fachin_%283x4%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 3.0 Brasil",
+          "credit": "Antonio Cruz / Agência Brasil",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Edson_Fachin_(3x4).jpg",
+          "caption": "FOTO DE ARQUIVO (30/05/2018): Edson Fachin durante sessão do Supremo Tribunal Federal em Brasília. Não retrata a entrega dos relatórios da Polícia Federal em 2026. Foto: Antonio Cruz / Agência Brasil; licença: CC BY 3.0 Brasil."
+        }
+      ]
     },
     {
       "id": "coalizao-saudita-relata-danos-apos-ameaca-missil-riade-2026-11-19",
@@ -384,7 +486,10 @@
         "facts": "On November 19, 2026, the Saudi-led coalition said it had dealt with a missile threat launched by Yemen's Houthis toward Riyadh. A loud explosion was heard in the capital. According to Reuters, an initial assessment identified falling debris and material damage, but the full extent remained unknown. Saudi Civil Defense issued a warning and later said the danger had passed. The coalition also reported intercepting a cruise missile aimed at southern Saudi Arabia. The precise impact locations and any casualties had not been independently established.",
         "analysis": "The incident follows weeks of missile threats against Riyadh and Saudi infrastructure. On November 7, 10 and 11, the state-run Saudi Press Agency published coalition statements about earlier interceptions. Thursday's distinguishing development is the preliminary report of damage from falling debris. Interception can still leave debris in populated areas, but damage alone does not establish that a specific target was directly hit. The escalation also raises concerns for trade routes near the Bab el-Mandeb Strait.",
         "counterpoint": "The initial account of the missile threat, interception and damage comes from Saudi-led coalition authorities as reported by Reuters. The Houthis' specific account of this incident was not independently confirmed in the sources consulted. Casualties, target locations and monetary losses should not be inferred without verified evidence.",
-        "category": "WORLD"
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (April 20, 2022): Riyadh skyline from the Diplomatic Quarter, Saudi Arabia. This does not depict missiles or damage reported in November 2026. Photo: Thesadcactus / Wikimedia Commons; license: CC BY-SA 4.0."
+        }
       },
       "es": {
         "title": "La coalición saudí informa de daños tras una amenaza de misil hutí contra Riad",
@@ -392,8 +497,22 @@
         "facts": "El 19 de noviembre de 2026, la coalición liderada por Arabia Saudita afirmó haber respondido a una amenaza de misil lanzado por los hutíes de Yemen hacia Riad. Se escuchó una fuerte explosión en la capital. Según Reuters, la evaluación preliminar identificó caída de fragmentos y daños materiales, cuya magnitud todavía se desconocía. La Defensa Civil saudí emitió una alerta y posteriormente anunció que el peligro había pasado. La coalición también informó de la interceptación de un misil de crucero dirigido al sur del país. No se habían confirmado de manera independiente los lugares exactos de impacto ni posibles víctimas.",
         "analysis": "El episodio se suma a varias semanas de amenazas contra Riad e instalaciones saudíes. Los días 7, 10 y 11 de noviembre, la agencia estatal Saudi Press Agency publicó comunicados de la coalición sobre interceptaciones anteriores. La novedad de este jueves es la información preliminar de daños causados por fragmentos. Una interceptación puede dejar restos sobre zonas urbanas, pero los daños no prueban por sí solos un impacto directo contra un objetivo específico. La escalada también preocupa por las rutas comerciales próximas al estrecho de Bab el-Mandeb.",
         "counterpoint": "La versión inicial sobre la amenaza, la interceptación y los daños procede de autoridades de la coalición saudí citadas por Reuters. No se pudo confirmar independientemente la versión específica de los hutíes sobre este episodio. No corresponde atribuir víctimas, objetivos alcanzados ni pérdidas económicas sin pruebas verificadas.",
-        "category": "MUNDO"
-      }
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (20 de abril de 2022): Vista panorámica de Riad desde el Barrio Diplomático, Arabia Saudita. No muestra misiles ni daños de noviembre de 2026. Foto: Thesadcactus / Wikimedia Commons; licencia: CC BY-SA 4.0."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Riyadh_skyline.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0",
+          "credit": "Thesadcactus / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Riyadh_skyline.jpg",
+          "caption": "FOTO DE ARQUIVO (20/04/2022): Panorama de Riade a partir do Bairro Diplomático, Arábia Saudita. Não retrata mísseis ou danos de novembro de 2026. Foto: Thesadcactus / Wikimedia Commons; licença: CC BY-SA 4.0."
+        }
+      ]
     },
     {
       "id": "java4shell-falha-java-alerta-agencias-seguranca-2026-11-19",
@@ -481,7 +600,10 @@
         "facts": "On November 18, 2026, the US dollar closed at R$5.868 in Brazil, up 1.48% on the day and its highest closing level since April 15, 2025. It was the fifth consecutive daily increase. The Ibovespa fell 1.34% to 167,537.95 points. Brazil's Central Bank held two foreign-exchange liquidity auctions totaling US$1 billion with future repurchase commitments. Agência Brasil cited both global dollar strength and uncertainty over Brazil's fiscal package.",
         "analysis": "Domestic fiscal concerns and international interest-rate expectations both matter. Agência Brasil reported a 0.23% increase in the global dollar index, compared with a 1.48% rise in Brazil's exchange rate, illustrating why the move cannot simply be attributed to global markets. A weaker real can increase costs for importers and companies with dollar-denominated liabilities, although the effect on consumer prices depends on other conditions.",
         "counterpoint": "One trading session cannot establish a single cause or predict the next move. The central bank's liquidity auctions do not imply a target exchange rate. These are November 18 closing figures, not live quotes.",
-        "category": "ECONOMY"
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (December 10, 2020): U.S. dollar banknotes. Illustrative image, not the November 18, 2026 foreign-exchange trading session. Photo: MarkBuckawicki / Wikimedia Commons; license: CC0 1.0."
+        }
       },
       "es": {
         "title": "El dólar cierra a R$ 5,868 en Brasil, su nivel más alto en 19 meses",
@@ -489,8 +611,22 @@
         "facts": "El 18 de noviembre de 2026, el dólar comercial cerró a R$ 5,868, con un alza diaria del 1,48% y su mayor cotización desde el 15 de abril de 2025. Fue su quinta sesión consecutiva al alza. El Ibovespa bajó un 1,34%, hasta 167.537,95 puntos. El Banco Central de Brasil realizó dos subastas de liquidez cambiaria por un total de US$ 1.000 millones, con compromiso de recompra futura. Agência Brasil señaló la fortaleza internacional del dólar y la incertidumbre sobre el ajuste fiscal.",
         "analysis": "La evolución del tipo de cambio refleja factores internos y externos. Según Agência Brasil, el índice internacional del dólar avanzó un 0,23%, frente al 1,48% registrado en Brasil, lo que impide atribuir toda la variación al exterior. La depreciación del real puede encarecer las importaciones y las obligaciones denominadas en dólares, aunque su traslado a los precios depende de otros factores.",
         "counterpoint": "Una sola jornada no demuestra una causa única ni permite anticipar la tendencia. Las subastas del Banco Central buscan aportar liquidez, no fijar un tipo de cambio. Los datos corresponden al cierre del 18 de noviembre y no son cotizaciones en tiempo real.",
-        "category": "ECONOMÍA"
-      }
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (10 de diciembre de 2020): Billetes de dólares estadounidenses. Imagen ilustrativa, no muestra la jornada cambiaria del 18 de noviembre de 2026. Foto: MarkBuckawicki / Wikimedia Commons; licencia: CC0 1.0."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Currency_in_USD_1.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC0 1.0",
+          "credit": "MarkBuckawicki / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Currency_in_USD_1.jpg",
+          "caption": "FOTO DE ARQUIVO (10/12/2020): Cédulas de dólares americanos. Imagem ilustrativa, não retrata o pregão de câmbio em 18/11/2026. Foto: MarkBuckawicki / Wikimedia Commons; licença: CC0 1.0."
+        }
+      ]
     },
     {
       "id": "comissao-europeia-propoe-45-bilhoes-euros-ucrania-2027-2026-11-18",
@@ -578,7 +714,10 @@
         "facts": "On November 18, 2026, Brazil's Senate completed its vote on Complementary Bill (PLP) 299/2026, approving the final report by 69 votes to 2. Senators rejected three proposed amendments and negotiated changes to transfers under the Kandir Law. The bill now goes to the Chamber of Deputies. It would expand the government's ability to freeze spending, cap real expenditure growth at 2% under certain conditions, and temporarily restrict companies' use of tax credits to offset liabilities.",
         "analysis": "This completes a stage left unfinished after the base text passed 45–31 on November 12. The two vote counts concern different stages and should not be treated as a direct shift in support for identical wording. Tax-credit restrictions may affect companies' cash flow. Negotiations raised annual Kandir Law transfers under discussion from R$1 billion to R$2 billion. The government's projected improvement in the 2027 primary balance remains an estimate subject to revision after amendments. The primary balance excludes interest payments.",
         "counterpoint": "Senate approval does not make the measures law. The lower house must consider the bill and presidential approval would still be required. Fiscal savings are projected, not realized. Critics question tax-credit restrictions and intergovernmental transfers, while the government argues the measures improve budget control.",
-        "category": "ECONOMY"
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (July 2, 2025): Senators during a deliberative session in Brazil's Federal Senate chamber in Brasília. This does not depict the November 2026 fiscal-package vote. Photo: Carlos Moura / Agência Senado; license: CC BY 4.0."
+        }
       },
       "es": {
         "title": "El Senado de Brasil concluye el ajuste fiscal por 69 votos a 2 y lo envía a Diputados",
@@ -586,8 +725,22 @@
         "facts": "El 18 de noviembre de 2026, el Senado de Brasil concluyó la votación del Proyecto de Ley Complementaria (PLP) 299/2026 y aprobó el informe final por 69 votos contra 2. Rechazó tres propuestas de modificación y negoció cambios en las transferencias vinculadas a la Ley Kandir. El texto pasa a la Cámara de Diputados. La propuesta amplía las posibilidades de congelar gastos, limita en determinadas condiciones el crecimiento real del gasto al 2% y permite restringir temporalmente el uso de créditos tributarios por las empresas.",
         "analysis": "La votación completa la etapa pendiente desde que el texto base fue aprobado por 45 votos contra 31 el 12 de noviembre. Los resultados corresponden a etapas distintas y no reflejan necesariamente un cambio directo de apoyos sobre un texto idéntico. Las restricciones tributarias pueden afectar la liquidez empresarial. El acuerdo elevó de R$1.000 millones a R$2.000 millones las transferencias anuales de la Ley Kandir contempladas en la negociación. La mejora fiscal prevista para 2027 sigue siendo una estimación que deberá revisarse tras los cambios. El resultado primario excluye los intereses de la deuda.",
         "counterpoint": "La aprobación en el Senado no convierte el proyecto en ley. La Cámara todavía debe examinarlo y sería necesaria la sanción presidencial. El ahorro previsto no se ha materializado. Los críticos cuestionan las restricciones a créditos fiscales y las transferencias a gobiernos subnacionales; el Ejecutivo defiende un mayor control presupuestario.",
-        "category": "ECONOMÍA"
-      }
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (2 de julio de 2025): Senadores durante una sesión deliberativa en el pleno del Senado Federal de Brasil, en Brasilia. No muestra la votación fiscal de noviembre de 2026. Foto: Carlos Moura / Agência Senado; licencia: CC BY 4.0."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Plen%C3%A1rio_do_Senado_%2854629518238%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 4.0",
+          "credit": "Carlos Moura / Agência Senado",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Plenário_do_Senado_(54629518238).jpg",
+          "caption": "FOTO DE ARQUIVO (02/07/2025): Senadores em sessão deliberativa no plenário do Senado Federal, Brasília. Não retrata a votação do pacote fiscal em novembro de 2026. Foto: Carlos Moura / Agência Senado; licença: CC BY 4.0."
+        }
+      ]
     },
     {
       "id": "israel-operacao-terrestre-centro-gaza-linha-amarela-2026-11-18",
@@ -618,7 +771,10 @@
         "facts": "On November 18, 2026, Israeli forces launched a ground operation in central Gaza west of the Yellow Line established after the October 2025 ceasefire. Residents told Reuters that tanks moved along Salah al-Din road and families fled shelters near Nuseirat and Al-Bureij. Israel's military confirmed an operation against what it described as Hamas infrastructure and said it was addressing a threat to its troops. Palestinian medics reported three deaths in Israeli strikes across Gaza on Wednesday, including one near the ground operation; individual circumstances could not be independently established.",
         "analysis": "The advance matters because the Yellow Line has separated military-controlled areas since the 2025 truce. Crossing it may further restrict movement and increase risks for already displaced families. Disruptions to Salah al-Din road affect a major transport and aid corridor. The raid does not itself establish that the ceasefire has formally ended, but highlights its fragility. Key indicators are how long troops remain, whether they return to previous positions and whether humanitarian access is restored.",
         "counterpoint": "Israel says it is responding to threats and Hamas violations; Hamas accuses Israel of violating the truce and forcibly displacing civilians. These accounts conflict. The precise military targets and final casualty toll have not been independently verified, and the operation should not be described as formal termination of the ceasefire.",
-        "category": "WORLD"
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (January 29, 2025): Destroyed buildings in Sheikh Ijlin, Gaza City. This does not depict the November 2026 ground operation or its specific location. Photo: Jaber Jehad Badwan / Wikimedia Commons; license: CC BY-SA 4.0."
+        }
       },
       "es": {
         "title": "Israel avanza más allá de la Línea Amarilla en una operación terrestre en el centro de Gaza",
@@ -626,8 +782,22 @@
         "facts": "El 18 de noviembre de 2026, fuerzas israelíes iniciaron una operación terrestre en el centro de Gaza, al oeste de la Línea Amarilla establecida tras el alto el fuego de octubre de 2025. Vecinos dijeron a Reuters que tanques avanzaron por la carretera Salah al-Din y que familias abandonaron refugios cerca de Nuseirat y Al-Bureij. El Ejército israelí confirmó una operación contra lo que calificó de infraestructura de Hamás y alegó una amenaza para sus tropas. Personal sanitario palestino informó de tres muertos en ataques israelíes en Gaza el miércoles, uno de ellos cerca de la operación; las circunstancias individuales no pudieron verificarse de forma independiente.",
         "analysis": "El avance importa por su ubicación: la Línea Amarilla separa zonas de control militar desde la tregua de 2025. Cruzarla puede restringir aún más la movilidad y aumentar el riesgo para familias ya desplazadas. Las interrupciones en Salah al-Din afectan una vía esencial para transporte y ayuda. La incursión no demuestra por sí sola el fin formal del alto el fuego, pero evidencia su fragilidad. Será importante observar cuánto dura, si las tropas regresan a sus posiciones y si se restablece el acceso humanitario.",
         "counterpoint": "Israel sostiene que responde a amenazas y violaciones de Hamás; Hamás acusa a Israel de incumplir la tregua y desplazar civiles por la fuerza. Las versiones son contradictorias. No se han verificado independientemente todos los objetivos militares alegados ni el balance definitivo de víctimas, y la operación no equivale a una revocación formal del alto el fuego.",
-        "category": "MUNDO"
-      }
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (29 de enero de 2025): Edificios destruidos en el barrio Sheikh Ijlin de la ciudad de Gaza. No muestra la operación terrestre de noviembre de 2026 ni su ubicación específica. Foto: Jaber Jehad Badwan / Wikimedia Commons; licencia: CC BY-SA 4.0."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Gaza_war_2023_-_2025_IMG_3905.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0",
+          "credit": "Jaber Jehad Badwan / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Gaza_war_2023_-_2025_IMG_3905.jpg",
+          "caption": "FOTO DE ARQUIVO (29/01/2025): Edifícios destruídos no bairro Sheikh Ijlin, cidade de Gaza. Não retrata a operação terrestre de novembro de 2026 nem sua localização específica. Foto: Jaber Jehad Badwan / Wikimedia Commons; licença: CC BY-SA 4.0."
+        }
+      ]
     },
     {
       "id": "cbf-preve-perda-pontos-atraso-salarial-serie-a-2028-2026-11-18",
@@ -658,7 +828,10 @@
         "facts": "Brazil's Football Confederation (CBF) presented additional payment-compliance measures to first- and second-division clubs on November 17, 2026, in Rio de Janeiro. According to UOL and ge, top-flight teams unable to prove that wages are current 20 days before the 2028 season may start with a three-point deduction. In-season arrears may trigger a registration ban after 30 days, a ban lasting an entire transfer window after 60 days, and a three-point deduction after 90 days. Deductions identified after round 19 would be applied to the following season. Specific second-tier measures linked to a financial assistance program are planned for 2027.",
         "analysis": "The proposed sporting penalties aim to prevent clubs from gaining a competitive edge by failing to pay their workforce. Monitoring encompasses image-rights payments and labor obligations, not just base salaries. Oversight falls under the National Agency for Football Regulation and Sustainability (ANRESF), created within CBF's financial sustainability framework. Financial compliance could therefore affect league standings as well as transfer activity. The top-division schedule and the second-tier assistance-program rules should not be treated as interchangeable.",
         "counterpoint": "Implementation still depends on final regulations, evidence of outstanding payments and enforcement and appeal procedures. No club can be described as having already lost points under these new provisions. The earlier second-tier measures are tied to a distinct assistance program.",
-        "category": "SPORT"
+        "category": "SPORT",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (May 28, 2015): Brazilian Football Confederation headquarters facade in Rio de Janeiro. This does not depict the 2026 announcement about salary-related rules. Photo: Fernando Frazão / Agência Brasil; license: CC BY 3.0 Brasil."
+        }
       },
       "es": {
         "title": "La CBF prevé quitar tres puntos por salarios atrasados en la primera división desde 2028",
@@ -666,8 +839,22 @@
         "facts": "La Confederación Brasileña de Fútbol (CBF) presentó el 17 de noviembre de 2026, en Río de Janeiro, nuevas medidas de control de pagos para clubes de primera y segunda división. Según UOL y ge, los equipos de primera que no acrediten estar al día 20 días antes del campeonato de 2028 podrían empezar con tres puntos menos. Durante la temporada, los atrasos de 30 días podrían provocar una prohibición de inscribir jugadores; a los 60 días, la restricción abarcaría una ventana de fichajes completa; a los 90 días, se prevé una deducción de tres puntos. Si se detecta después de la jornada 19, la sanción se aplicaría en la temporada siguiente. Para segunda división se anunciaron medidas específicas vinculadas a un programa de ayuda financiera desde 2027.",
         "analysis": "Las sanciones deportivas buscan evitar que los clubes obtengan ventajas competitivas al incumplir sus pagos. El control incluye derechos de imagen y obligaciones laborales, además del salario básico. La fiscalización corresponde a la Agencia Nacional de Regulación y Sostenibilidad del Fútbol (ANRESF), dentro del sistema financiero de la CBF. Así, la solvencia podría repercutir tanto en la clasificación como en los fichajes. Es fundamental distinguir el calendario de primera división de las condiciones especiales del programa de apoyo de segunda.",
         "counterpoint": "La aplicación dependerá de los reglamentos definitivos, la comprobación de las deudas y los procedimientos de fiscalización y recurso. No se puede afirmar que algún club ya haya perdido puntos por estas nuevas disposiciones. Las medidas anticipadas de segunda división corresponden a un programa específico.",
-        "category": "DEPORTE"
-      }
+        "category": "DEPORTE",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (28 de mayo de 2015): Fachada de la sede de la Confederación Brasileña de Fútbol en Río de Janeiro. No muestra el anuncio de 2026 sobre normas salariales. Foto: Fernando Frazão / Agência Brasil; licencia: CC BY 3.0 Brasil."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/CBF_Fachada_2.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 3.0 Brasil",
+          "credit": "Fernando Frazão / Agência Brasil",
+          "source_article": "https://commons.wikimedia.org/wiki/File:CBF_Fachada_2.jpg",
+          "caption": "FOTO DE ARQUIVO (28/05/2015): Fachada da sede da Confederação Brasileira de Futebol, no Rio de Janeiro. Não retrata o anúncio das regras salariais em 2026. Foto: Fernando Frazão / Agência Brasil; licença: CC BY 3.0 Brasil."
+        }
+      ]
     },
     {
       "id": "durigan-anuncia-novas-medidas-fiscais-apos-pacote-senado-2026-11-18",
@@ -698,7 +885,10 @@
         "facts": "On November 18, 2026, Finance Minister Dario Durigan said at a Bradesco BBI event, following a meeting with President Luiz Inácio Lula da Silva, that the government intends to introduce further fiscal measures soon. He described the adjustment package under Senate consideration as only a first step, rather than the government's complete plan for the coming years. Durigan argued that stronger public finances would help create conditions for lower interest rates, ruled out capital controls and changes to the inflation target, and forecast slower growth in 2027 but not a recession. He did not release the full proposals or a firm legislative timetable.",
         "analysis": "The new development is the promise of a second stage beyond the bill already before Congress. On November 11, the government presented measures it estimated could improve the 2027 fiscal balance by R$50 billion to R$60 billion; negotiations and amendments followed in the Senate. Announcing additional measures is not the same as passing them: the eventual effect will depend on the wording, negotiated exemptions, congressional approval and budget execution. The link between fiscal consolidation and lower benchmark interest rates also depends on inflation expectations and the independent decisions of Brazil's Central Bank.",
         "counterpoint": "Durigan provided no detailed figures, specific spending cuts or explanation of which proposals might require constitutional changes. A 2027 primary surplus and lower rates remain government expectations, not guaranteed outcomes. Lawmakers are still negotiating the existing package, and further measures may face resistance. Without complete official texts, the additional fiscal impact cannot be quantified.",
-        "category": "ECONOMY"
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (September 17, 2026): President Lula and officials, including Dario Durigan, during a Bolsa Família announcement at the Planalto Palace. This does not depict the fiscal measures discussed in November 2026. Photo: Ricardo Stuckert / Presidência da República; license: CC BY-SA 4.0."
+        }
       },
       "es": {
         "title": "DURIGAN ANUNCIA QUE BRASIL PREPARA MÁS MEDIDAS FISCALES ADEMÁS DEL PAQUETE EN EL SENADO",
@@ -706,8 +896,22 @@
         "facts": "El 18 de noviembre de 2026, el ministro de Hacienda, Dario Durigan, afirmó en un evento de Bradesco BBI, después de reunirse con el presidente Luiz Inácio Lula da Silva, que el Gobierno pretende presentar nuevas medidas fiscales próximamente. Calificó el paquete de ajuste debatido en el Senado como un primer paso, no como el plan completo para los próximos años. Defendió el saneamiento de las cuentas públicas para crear condiciones para tasas de interés más bajas, descartó controles de capitales y cambios en la meta de inflación y previó un crecimiento más lento en 2027, pero no una recesión. No divulgó las propuestas completas ni un calendario legislativo definitivo.",
         "analysis": "La novedad es el anuncio de una segunda etapa además del proyecto ya enviado al Congreso. El 11 de noviembre, el Gobierno presentó medidas que, según sus estimaciones, podrían mejorar el resultado fiscal de 2027 entre R$50.000 millones y R$60.000 millones; después comenzaron negociaciones y enmiendas en el Senado. Anunciar más medidas no significa aprobarlas: el efecto dependerá del texto, las excepciones negociadas, la aprobación legislativa y la ejecución presupuestaria. La relación entre consolidación fiscal y reducción de tasas también depende de las expectativas de inflación y las decisiones autónomas del Banco Central de Brasil.",
         "counterpoint": "Durigan no detalló cifras, recortes concretos ni cuáles propuestas requerirían cambios constitucionales. El superávit primario en 2027 y las tasas más bajas son expectativas oficiales, no resultados garantizados. El Congreso todavía negocia el paquete actual y nuevas medidas podrían encontrar resistencia. Sin textos oficiales completos, no es posible cuantificar el efecto fiscal adicional.",
-        "category": "ECONOMÍA"
-      }
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (17 de septiembre de 2026): Lula y funcionarios, incluido Dario Durigan, durante un anuncio sobre Bolsa Família en el Palacio del Planalto. No muestra las medidas fiscales discutidas en noviembre de 2026. Foto: Ricardo Stuckert / Presidência da República; licencia: CC BY-SA 4.0."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/17.09.26_-_Presidente_Lula_faz_an%C3%BAncio_de_atualiza%C3%A7%C3%A3o_monet%C3%A1ria_do_Bolsa_Fam%C3%ADlia_%2855533741956%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0",
+          "credit": "Ricardo Stuckert / Presidência da República",
+          "source_article": "https://commons.wikimedia.org/wiki/File:17.09.26_-_Presidente_Lula_faz_anúncio_de_atualização_monetária_do_Bolsa_Família_(55533741956).jpg",
+          "caption": "FOTO DE ARQUIVO (17/09/2026): Lula e integrantes do governo, incluindo Dario Durigan, em anúncio sobre o Bolsa Família no Palácio do Planalto. Não retrata as medidas fiscais discutidas em novembro de 2026. Foto: Ricardo Stuckert / Presidência da República; licença: CC BY-SA 4.0."
+        }
+      ]
     },
     {
       "id": "rubio-descarta-ameaca-iminente-bomba-suja-ira-washington-2026-11-18",
@@ -738,7 +942,10 @@
         "facts": "On November 18, 2026, US Secretary of State Marco Rubio said in Manila, Philippines, that he did not believe Washington faced an imminent threat. He was responding to questions about a CNN report citing intelligence sources concerning alleged Iranian planning to target US officials with a radiological 'dirty bomb' or chemical agents. Rubio said US authorities continued to monitor threats but did not confirm the intelligence details. President Donald Trump said on November 17 that the report was being taken seriously. Iran's foreign ministry rejected the allegations as baseless. No operational plot or imminent attack has been publicly substantiated.",
         "analysis": "A 'dirty bomb' uses conventional explosives to disperse radioactive material; it is not a nuclear detonation. Its potential effects involve contamination, disruption and public alarm rather than an atomic blast. Rubio's statement distinguishes intelligence being examined from a public assessment of imminence. Against the backdrop of the US-Israeli war with Iran that began in February 2026, threat reports may influence security measures and diplomacy but cannot substitute for verifiable evidence.",
         "counterpoint": "CNN relied on intelligence sources whose identities and underlying assessments have not been made public. Rubio did not rule out every possible attack, only said he saw no imminent threat. Iran's denial is an official position, not independent proof. The alleged plot's intent and feasibility cannot be established from public information.",
-        "category": "WORLD"
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (January 23, 2025): Official portrait of U.S. Secretary of State Marco Rubio. This does not depict his November 2026 remarks. Photo: Departamento de Estado dos EUA / Wikimedia Commons; license: Domínio público — Departamento de Estado dos EUA."
+        }
       },
       "es": {
         "title": "RUBIO NO VE UNA AMENAZA INMINENTE CONTRA WASHINGTON TRAS INFORME SOBRE SUPUESTO PLAN IRANÍ",
@@ -746,8 +953,22 @@
         "facts": "El 18 de noviembre de 2026, el secretario de Estado de Estados Unidos, Marco Rubio, afirmó en Manila, Filipinas, que no considera inminente una amenaza contra Washington. Respondió a preguntas sobre una información de CNN basada en fuentes de inteligencia acerca de supuestos planes iraníes para atacar a funcionarios estadounidenses con una 'bomba sucia' radiológica o agentes químicos. Rubio dijo que las autoridades siguen vigilando amenazas, pero no confirmó los detalles de inteligencia. El presidente Donald Trump declaró el 17 de noviembre que el informe se tomaba en serio. El Ministerio de Exteriores de Irán rechazó las acusaciones por infundadas. No se ha demostrado públicamente un plan operativo ni un ataque inminente.",
         "analysis": "Una 'bomba sucia' emplea explosivos convencionales para dispersar material radiactivo; no es una detonación nuclear. Sus posibles consecuencias incluyen contaminación, interrupciones y alarma pública, no una explosión atómica. Las palabras de Rubio distinguen entre examinar información de inteligencia y evaluar públicamente la inminencia del peligro. En el contexto de la guerra entre Estados Unidos, Israel e Irán iniciada en febrero de 2026, los informes sobre amenazas pueden afectar a la seguridad y la diplomacia, pero no sustituyen pruebas verificables.",
         "counterpoint": "CNN citó fuentes de inteligencia no identificadas públicamente y no divulgó las evaluaciones completas. Rubio no descartó cualquier posible ataque: dijo que no veía una amenaza inminente. La negativa iraní es una postura oficial, no una prueba independiente. La intención y viabilidad del supuesto plan no pueden establecerse con los datos públicos.",
-        "category": "MUNDO"
-      }
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (23 de enero de 2025): Retrato oficial de Marco Rubio, secretario de Estado de Estados Unidos. No muestra sus declaraciones de noviembre de 2026. Foto: Departamento de Estado dos EUA / Wikimedia Commons; licencia: Domínio público — Departamento de Estado dos EUA."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Official_portrait_of_Secretary_Marco_Rubio_January_2025_%28cropped%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público — Departamento de Estado dos EUA",
+          "credit": "Departamento de Estado dos EUA / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Secretary_Marco_Rubio_January_2025_(cropped).jpg",
+          "caption": "FOTO DE ARQUIVO (23/01/2025): Retrato oficial de Marco Rubio, secretário de Estado dos Estados Unidos. Não retrata suas declarações de novembro de 2026. Foto: Departamento de Estado dos EUA / Wikimedia Commons; licença: Domínio público — Departamento de Estado dos EUA."
+        }
+      ]
     },
     {
       "id": "adnoc-tripulante-desaparecido-11-feridos-ataque-ormuz-2026-11-18",
@@ -937,7 +1158,10 @@
         "facts": "Brazil's National Electric Energy Agency (Aneel) approved a periodic tariff review for CEEE-D on November 17, 2026. The Equatorial-owned utility serves approximately 2.03 million customer units across 72 municipalities in Rio Grande do Sul. Effective November 22, residential B1 tariffs rise 22.64%, low-voltage tariffs increase 22.51% on average, high-voltage tariffs rise 12.28%, and the overall average effect is 20.16%. Aneel cited distribution costs, power purchases, sector charges and financial components.",
         "analysis": "The 20.16% overall figure is a weighted average, not the rate applicable to each household; the approved residential B1 increase is 22.64%. For illustration, a R$100 tariff component fully subject to this rate would become R$122.64, excluding changes in usage, taxes, public-lighting charges and tariff flags. Aneel's October proposal projected a 22.31% average effect, 2.15 percentage points higher than the final decision. A periodic review also reassesses efficient distribution costs and regulatory parameters. The consultation and hearing received 19 contributions.",
         "counterpoint": "The lower final percentage compared with the proposal does not mean electricity bills are falling. Actual bills depend on customer category, consumption, taxes and other charges; applying the percentage to every bill's total would be misleading.",
-        "category": "ECONOMY"
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (November 24, 2013): Electrical substation in Porto Alegre, Rio Grande do Sul, Brazil. This does not depict Aneel's November 2026 tariff decision. Photo: Paulo RS Menezes / Wikimedia Commons; license: CC BY-SA 3.0 Brasil."
+        }
       },
       "es": {
         "title": "ANEEL APRUEBA UN AUMENTO DEL 22,64% EN LA TARIFA ELÉCTRICA RESIDENCIAL DE CEEE-D EN RIO GRANDE DO SUL",
@@ -945,8 +1169,22 @@
         "facts": "La Agencia Nacional de Energía Eléctrica de Brasil (Aneel) aprobó el 17 de noviembre de 2026 la revisión tarifaria periódica de CEEE-D, distribuidora del grupo Equatorial que atiende unas 2,03 millones de unidades consumidoras en 72 municipios de Rio Grande do Sul. Desde el 22 de noviembre, la tarifa residencial B1 subirá un 22,64%, la de baja tensión un 22,51% en promedio y la de alta tensión un 12,28%; el efecto medio general será del 20,16%. La agencia mencionó costos de distribución, compra de energía, cargos sectoriales y componentes financieros.",
         "analysis": "El 20,16% es un promedio ponderado, no el porcentaje que se aplicará a cada hogar; para la clase residencial B1, el aumento aprobado es del 22,64%. Como ejemplo, un componente tarifario de R$ 100 íntegramente sujeto a ese índice pasaría a R$ 122,64, sin incluir variaciones de consumo, impuestos, alumbrado público ni banderas tarifarias. En octubre, la propuesta de Aneel preveía un efecto medio del 22,31%, 2,15 puntos porcentuales superior al resultado final. La revisión periódica también reevalúa costos eficientes y parámetros regulatorios. La consulta y audiencia públicas recibieron 19 aportaciones.",
         "counterpoint": "La reducción frente a la propuesta inicial no implica una disminución de la factura. El efecto real depende de la categoría, el consumo, los impuestos y otros cargos; no sería correcto aplicar el mismo porcentaje al total de todas las facturas.",
-        "category": "ECONOMÍA"
-      }
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (24 de noviembre de 2013): Subestación eléctrica en Porto Alegre, Rio Grande do Sul, Brasil. No muestra la decisión tarifaria de Aneel de noviembre de 2026. Foto: Paulo RS Menezes / Wikimedia Commons; licencia: CC BY-SA 3.0 Brasil."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Subesta%C3%A7%C3%A3o_el%C3%A9trica_em_Porto_Alegre_001.JPG",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 3.0 Brasil",
+          "credit": "Paulo RS Menezes / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Subestação_elétrica_em_Porto_Alegre_001.JPG",
+          "caption": "FOTO DE ARQUIVO (24/11/2013): Subestação elétrica em Porto Alegre, Rio Grande do Sul. Não retrata a decisão tarifária da Aneel em novembro de 2026. Foto: Paulo RS Menezes / Wikimedia Commons; licença: CC BY-SA 3.0 Brasil."
+        }
+      ]
     },
     {
       "id": "awa-isolados-aproximacao-arariboia-funai-2026-11-18",
@@ -981,7 +1219,10 @@
         "facts": "Brazil's National Indigenous Peoples Foundation (Funai) confirmed on November 17, 2026, that sightings and approaches by isolated Awá people began on November 16 near a Funai checkpoint and the Guajajara village of Tawari in Maranhão's Arariboia Indigenous Territory. Indigenous leaders and Survival International said approximately 20 people received yams before returning to the forest. Funai, the Ministry of Indigenous Peoples and the Indigenous Health Secretariat are monitoring the situation. The reason for the approach and individual health conditions remain unconfirmed.",
         "analysis": "Funai tracks the isolated Awá group under official record No. 41 and had already mobilized a response team in 2025 amid wildfires and contact risks. Arariboia covers approximately 413,000 hectares and faces illegal logging and land encroachment. A brief approach does not mean permanent contact: Brazil's policy remains non-contact, prioritizing territorial protection, disease prevention and self-determination.",
         "counterpoint": "Indigenous advocates suggest encroachment and food shortages may have contributed, but the cause has not been established. Funai says information is preliminary, and Reuters could not independently verify the footage's precise date and location. This report does not reproduce sensitive footage of the encounter.",
-        "category": "BRAZIL"
+        "category": "BRAZIL",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (July 14, 2024): Public cultural performance by Indigenous people associated with the Arariboia Indigenous Territory region, Maranhão. The people are not identified as isolated Awá; this does not depict the reported 2026 encounter. Photo: William Junior Pindaré / Wikimedia Commons; license: CC BY-SA 4.0."
+        }
       },
       "es": {
         "title": "FUNAI VIGILA EL ACERCAMIENTO DE INDÍGENAS AWÁ AISLADOS A UNA ALDEA EN MARANHÃO",
@@ -989,8 +1230,22 @@
         "facts": "La Fundación Nacional de los Pueblos Indígenas de Brasil (Funai) confirmó el 17 de noviembre de 2026 que desde el día 16 se registraron avistamientos y acercamientos de indígenas Awá en aislamiento cerca de un puesto de control y de la aldea Guajajara de Tawari, en la Tierra Indígena Arariboia, Maranhão. Líderes indígenas y Survival International relataron que unas 20 personas recibieron ñame y regresaron al bosque. Funai, el Ministerio de los Pueblos Indígenas y la Secretaría de Salud Indígena siguen el caso. No se han confirmado las causas ni el estado de salud individual del grupo.",
         "analysis": "Funai monitorea a los Awá aislados bajo el registro oficial nº 41 y ya había activado medidas preventivas en 2025 por incendios y riesgos de contacto. Arariboia abarca unos 413.000 hectáreas y sufre presiones de tala ilegal y ocupación irregular. El acercamiento no implica el fin definitivo del aislamiento: la política brasileña mantiene el principio de no contacto, la protección territorial y la prevención de enfermedades.",
         "counterpoint": "Organizaciones indígenas señalan la presión de invasores y una posible escasez de alimentos como hipótesis, no como causas demostradas. Funai considera preliminar la información y Reuters no pudo verificar de forma independiente la fecha y el lugar exactos de las imágenes. Esta nota no reproduce las imágenes sensibles del encuentro.",
-        "category": "BRASIL"
-      }
+        "category": "BRASIL",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (14 de julio de 2024): Presentación cultural pública de indígenas vinculados a la región del territorio Arariboia, Maranhão. Las personas no están identificadas como awá aislados; no muestra el acercamiento reportado en 2026. Foto: William Junior Pindaré / Wikimedia Commons; licencia: CC BY-SA 4.0."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Grupo_de_Cantoria_dos_Ind%C3%ADgenas_das_Terras_Ind%C3%ADgenas_Arariboias_do_munic%C3%ADpio_de_Arame_no_Maranh%C3%A3o.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0",
+          "credit": "William Junior Pindaré / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Grupo_de_Cantoria_dos_Indígenas_das_Terras_Indígenas_Arariboias_do_município_de_Arame_no_Maranhão.jpg",
+          "caption": "FOTO DE ARQUIVO (14/07/2024): Apresentação cultural pública de indígenas ligados à região da Terra Indígena Arariboia, Maranhão. As pessoas não são identificadas como Awá isolados; a imagem não retrata a aproximação de 2026. Foto: William Junior Pindaré / Wikimedia Commons; licença: CC BY-SA 4.0."
+        }
+      ]
     },
     {
       "id": "senado-adia-destaques-ajuste-fiscal-para-18-novembro-2026",
@@ -1127,7 +1382,10 @@
         "facts": "On November 17, 2026, Finance Minister Dario Durigan told the Senate Economic Affairs Committee that the effective average rate of the new Contribution on Goods and Services (CBS) could be 8.5%. Brazil's Federal Court of Accounts (TCU) calculated an 11.3% reference rate to replace PIS/Pasep and Cofins in 2027. The Senate has until December 15 to set the rate by resolution; otherwise the TCU reference applies provisionally. Rapporteur Eduardo Braga requested greater transparency about the calculations.",
         "analysis": "The 8.5% and 11.3% figures do not necessarily describe rival uniform tax rates. The benchmark is designed to preserve revenue, while the lower estimated effective average accounts for exemptions and preferential treatment. Businesses must learn the credit-and-debit mechanism; consumer prices will depend on spending patterns and pass-through. Durigan acknowledged that the transition could temporarily raise inflation. Its impact on individual households has not been established.",
         "counterpoint": "The minister's 8.5% estimate is not a legislative decision. The TCU supports its 11.3% benchmark, while lawmakers seek access to technical assumptions. Some businesses seek a delay, but the government favors keeping the 2027 timetable. The actual inflation effect remains uncertain.",
-        "category": "ECONOMY"
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (September 17, 2026): Dario Durigan and other officials alongside President Lula at a Planalto Palace announcement. This does not depict the November 2026 Senate hearing on the CBS tax. Photo: Ricardo Stuckert / Presidência da República; license: CC BY-SA 4.0."
+        }
       },
       "es": {
         "title": "DURIGAN ESTIMA UNA CBS MEDIA DEL 8,5%, MIENTRAS EL SENADO DEBATE EL 11,3%",
@@ -1135,8 +1393,22 @@
         "facts": "El 17 de noviembre de 2026, el ministro de Hacienda, Dario Durigan, dijo ante la Comisión de Asuntos Económicos del Senado que la tasa efectiva media de la Contribución sobre Bienes y Servicios (CBS) podría ser del 8,5%. El Tribunal de Cuentas de la Unión (TCU) calculó una tasa de referencia del 11,3% para sustituir PIS/Pasep y Cofins en 2027. El Senado tiene hasta el 15 de diciembre para fijarla por resolución; de no hacerlo, se aplicará provisionalmente la referencia del TCU. El ponente Eduardo Braga pidió transparencia sobre los cálculos.",
         "analysis": "El 8,5% y el 11,3% no son necesariamente dos tasas uniformes rivales. La referencia busca mantener la recaudación, mientras que el promedio efectivo estimado contempla exenciones y tratamientos especiales. Las empresas deberán adaptarse al sistema de créditos y débitos; el efecto en los precios dependerá del consumo y de cuánto se traslade al comprador. Durigan reconoció que la transición podría elevar temporalmente la inflación. No se ha determinado el impacto por hogar.",
         "counterpoint": "La estimación ministerial del 8,5% no es una decisión legislativa. El TCU defiende su referencia del 11,3%, mientras legisladores piden conocer los supuestos técnicos. Parte del sector empresarial solicita un aplazamiento, pero el Gobierno quiere mantener el calendario de 2027. El efecto real sobre la inflación sigue siendo incierto.",
-        "category": "ECONOMÍA"
-      }
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (17 de septiembre de 2026): Dario Durigan y otras autoridades junto a Lula en un anuncio en el Palacio del Planalto. No muestra la audiencia del Senado de noviembre de 2026 sobre el tributo CBS. Foto: Ricardo Stuckert / Presidência da República; licencia: CC BY-SA 4.0."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/17.09.26_-_Presidente_Lula_faz_an%C3%BAncio_de_atualiza%C3%A7%C3%A3o_monet%C3%A1ria_do_Bolsa_Fam%C3%ADlia_%2855533741956%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0",
+          "credit": "Ricardo Stuckert / Presidência da República",
+          "source_article": "https://commons.wikimedia.org/wiki/File:17.09.26_-_Presidente_Lula_faz_anúncio_de_atualização_monetária_do_Bolsa_Família_(55533741956).jpg",
+          "caption": "FOTO DE ARQUIVO (17/09/2026): Dario Durigan e outras autoridades ao lado do presidente Lula em anúncio no Palácio do Planalto. Não retrata a audiência do Senado sobre a CBS de novembro de 2026. Foto: Ricardo Stuckert / Presidência da República; licença: CC BY-SA 4.0."
+        }
+      ]
     },
     {
       "id": "eua-perdem-status-eliminacao-sarampo-opas-2026-11-17",
