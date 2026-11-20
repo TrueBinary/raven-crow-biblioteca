@@ -478,7 +478,13 @@
     "o-banco-tem-lugar-mas-a-cidade-nao-quer-que-voce-sente-2026-11-14": "editorial/photos/o-banco-tem-lugar-mas-a-cidade-nao-quer-que-voce-sente-2026-11-14.jpg",
     "a-verdade-nao-e-um-buffet-e-deus-nao-e-um-prato-opcional-2026-11-10": "editorial/photos/a-verdade-nao-e-um-buffet-e-deus-nao-e-um-prato-opcional-2026-11-10.jpg",
     "comissoes-senado-propoem-859-bilhoes-emendas-orcamento-2027-2026-11-19": "editorial/photos/comissoes-senado-propoem-859-bilhoes-emendas-orcamento-2027-2026-11-19.jpg",
-    "o-voto-e-livre-desde-que-voce-compareca-2026-11-20": "editorial/photos/o-voto-e-livre-desde-que-voce-compareca-2026-11-20.jpg"
+    "o-voto-e-livre-desde-que-voce-compareca-2026-11-20": "editorial/photos/o-voto-e-livre-desde-que-voce-compareca-2026-11-20.jpg",
+    "fachin-retira-sigilo-relatorio-mendonca-master-2026-11-20": "editorial/photos/fachin-retira-sigilo-relatorio-mendonca-master-2026-11-20.jpg",
+    "levantamento-arayara-894-por-cento-eolicas-alertas-2026-11-20": "editorial/photos/levantamento-arayara-894-por-cento-eolicas-alertas-2026-11-20.jpg",
+    "ataques-russos-atingem-tres-pontes-kiev-2026-11-20": "editorial/photos/ataques-russos-atingem-tres-pontes-kiev-2026-11-20.jpg",
+    "haiti-policia-operacao-martissant-34-suspeitos-mortos-2026-11-19": "editorial/photos/haiti-policia-operacao-martissant-34-suspeitos-mortos-2026-11-19.jpg",
+    "nasa-confirma-voyager-1-um-dia-luz-terra-2026-11-19": "editorial/photos/nasa-confirma-voyager-1-um-dia-luz-terra-2026-11-19.jpg",
+    "decreto-13173-regulamenta-escala-5x2-2026-11-19": "editorial/photos/decreto-13173-regulamenta-escala-5x2-2026-11-19.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -1902,6 +1908,42 @@
       "srcset": "editorial/photos/o-voto-e-livre-desde-que-voce-compareca-2026-11-20-320.webp 320w, editorial/photos/o-voto-e-livre-desde-que-voce-compareca-2026-11-20-640.webp 640w, editorial/photos/o-voto-e-livre-desde-que-voce-compareca-2026-11-20-960.webp 960w, editorial/photos/o-voto-e-livre-desde-que-voce-compareca-2026-11-20-1280.webp 1280w",
       "width": 1280,
       "height": 960
+    },
+    "fachin-retira-sigilo-relatorio-mendonca-master-2026-11-20": {
+      "src": "editorial/photos/fachin-retira-sigilo-relatorio-mendonca-master-2026-11-20-768.webp",
+      "srcset": "editorial/photos/fachin-retira-sigilo-relatorio-mendonca-master-2026-11-20-320.webp 320w, editorial/photos/fachin-retira-sigilo-relatorio-mendonca-master-2026-11-20-640.webp 640w, editorial/photos/fachin-retira-sigilo-relatorio-mendonca-master-2026-11-20-768.webp 768w",
+      "width": 768,
+      "height": 480
+    },
+    "levantamento-arayara-894-por-cento-eolicas-alertas-2026-11-20": {
+      "src": "editorial/photos/levantamento-arayara-894-por-cento-eolicas-alertas-2026-11-20-1280.webp",
+      "srcset": "editorial/photos/levantamento-arayara-894-por-cento-eolicas-alertas-2026-11-20-320.webp 320w, editorial/photos/levantamento-arayara-894-por-cento-eolicas-alertas-2026-11-20-640.webp 640w, editorial/photos/levantamento-arayara-894-por-cento-eolicas-alertas-2026-11-20-960.webp 960w, editorial/photos/levantamento-arayara-894-por-cento-eolicas-alertas-2026-11-20-1280.webp 1280w",
+      "width": 1280,
+      "height": 768
+    },
+    "ataques-russos-atingem-tres-pontes-kiev-2026-11-20": {
+      "src": "editorial/photos/ataques-russos-atingem-tres-pontes-kiev-2026-11-20-1280.webp",
+      "srcset": "editorial/photos/ataques-russos-atingem-tres-pontes-kiev-2026-11-20-320.webp 320w, editorial/photos/ataques-russos-atingem-tres-pontes-kiev-2026-11-20-640.webp 640w, editorial/photos/ataques-russos-atingem-tres-pontes-kiev-2026-11-20-960.webp 960w, editorial/photos/ataques-russos-atingem-tres-pontes-kiev-2026-11-20-1280.webp 1280w",
+      "width": 1280,
+      "height": 960
+    },
+    "haiti-policia-operacao-martissant-34-suspeitos-mortos-2026-11-19": {
+      "src": "editorial/photos/haiti-policia-operacao-martissant-34-suspeitos-mortos-2026-11-19-1080.webp",
+      "srcset": "editorial/photos/haiti-policia-operacao-martissant-34-suspeitos-mortos-2026-11-19-320.webp 320w, editorial/photos/haiti-policia-operacao-martissant-34-suspeitos-mortos-2026-11-19-640.webp 640w, editorial/photos/haiti-policia-operacao-martissant-34-suspeitos-mortos-2026-11-19-960.webp 960w, editorial/photos/haiti-policia-operacao-martissant-34-suspeitos-mortos-2026-11-19-1080.webp 1080w",
+      "width": 1080,
+      "height": 608
+    },
+    "nasa-confirma-voyager-1-um-dia-luz-terra-2026-11-19": {
+      "src": "editorial/photos/nasa-confirma-voyager-1-um-dia-luz-terra-2026-11-19-800.webp",
+      "srcset": "editorial/photos/nasa-confirma-voyager-1-um-dia-luz-terra-2026-11-19-320.webp 320w, editorial/photos/nasa-confirma-voyager-1-um-dia-luz-terra-2026-11-19-640.webp 640w, editorial/photos/nasa-confirma-voyager-1-um-dia-luz-terra-2026-11-19-800.webp 800w",
+      "width": 800,
+      "height": 626
+    },
+    "decreto-13173-regulamenta-escala-5x2-2026-11-19": {
+      "src": "editorial/photos/decreto-13173-regulamenta-escala-5x2-2026-11-19-768.webp",
+      "srcset": "editorial/photos/decreto-13173-regulamenta-escala-5x2-2026-11-19-320.webp 320w, editorial/photos/decreto-13173-regulamenta-escala-5x2-2026-11-19-640.webp 640w, editorial/photos/decreto-13173-regulamenta-escala-5x2-2026-11-19-768.webp 768w",
+      "width": 768,
+      "height": 512
     }
   }
 }
