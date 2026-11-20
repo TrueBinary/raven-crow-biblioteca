@@ -325,7 +325,7 @@
         "counterpoint": "These announcements set out preventive measures and traffic forecasts, not accident statistics for the 2026 holiday. Freight restrictions do not apply equally to every road or vehicle. There is not yet evidence that the operation has reduced crashes. An archival photograph was located, but was excluded because direct JPEG access could not be verified with the required GET request.",
         "category": "BRAZIL",
         "photo_captions": {
-          "1": "ARCHIVE PHOTO (August 24, 2011): Federal Highway Police vehicle on display. It does not depict the 2026 holiday road operation. Photo: EUDOXIO / Wikimedia Commons; license: CC BY-SA 3.0."
+          "1": "ARCHIVE PHOTO (date of capture unknown; released by PRF on November 18, 2026): Brazilian Federal Highway Police officer using a handheld speed radar by a roadway next to a patrol vehicle. Credit: PRF/gov.br, CC BY-ND 3.0. Released with the official announcement; it is not confirmed as footage of the holiday operation."
         }
       },
       "es": {
@@ -336,18 +336,18 @@
         "counterpoint": "Los comunicados describen medidas preventivas y previsiones de tráfico, no un balance de accidentes del feriado de 2026. Las restricciones de carga no se aplican por igual a todas las carreteras y vehículos. Todavía no hay pruebas de que el operativo haya reducido los siniestros. Se encontró una fotografía de archivo, pero se descartó al no poder verificarse mediante GET el acceso directo al JPEG exigido.",
         "category": "BRASIL",
         "photo_captions": {
-          "1": "FOTO DE ARCHIVO (24 de agosto de 2011): Vehículo de la Policía Federal de Carreteras en exhibición. No muestra el operativo vial de 2026. Foto: EUDOXIO / Wikimedia Commons; licencia: CC BY-SA 3.0."
+          "1": "FOTO DE ARCHIVO (fecha de toma desconocida; difundida por la PRF el 18 de noviembre de 2026): agente de la Policía Federal de Carreteras con radar de velocidad junto a una patrulla. Crédito: PRF/gov.br, CC BY-ND 3.0. Publicada con el comunicado oficial; no está confirmado que corresponda al operativo del feriado."
         }
       },
       "photos": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Viatura_do_NOE_-_PRF.jpg",
+          "url": "https://www.gov.br/prf/pt-br/noticias/estaduais/sao-paulo/prf-inicia-operacao-consciencia-negra-2026-nas-rodovias-federais-de-sao-paulo/@@images/image-780-0c63903542ea281210b6936fd8d89a01.jpeg",
           "slot": 1,
           "uso_liberado": true,
-          "license": "CC BY-SA 3.0",
-          "credit": "EUDOXIO / Wikimedia Commons",
-          "source_article": "https://commons.wikimedia.org/wiki/File:Viatura_do_NOE_-_PRF.jpg",
-          "caption": "FOTO DE ARQUIVO (24/08/2011): Viatura da Polícia Rodoviária Federal em exposição. Não retrata a fiscalização do feriado de 2026. Foto: EUDOXIO / Wikimedia Commons; licença: CC BY-SA 3.0."
+          "license": "Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada (licença institucional do portal gov.br)",
+          "credit": "Polícia Rodoviária Federal / gov.br",
+          "source_article": "https://www.gov.br/prf/pt-br/noticias/estaduais/sao-paulo/prf-inicia-operacao-consciencia-negra-2026-nas-rodovias-federais-de-sao-paulo",
+          "caption": "FOTO DE ARQUIVO (data de captura não informada; disponibilizada pela PRF em 18/11/2026): agente da PRF usa radar portátil às margens de uma rodovia, ao lado de uma viatura. Crédito: Polícia Rodoviária Federal/gov.br, CC BY-ND 3.0. Imagem divulgada na notícia oficial da operação; não é possível confirmar que registre a fiscalização do feriado."
         }
       ]
     },
@@ -720,7 +720,7 @@
         "counterpoint": "The reports have not been made public, so their contents cannot be treated as proof of a crime by any justice. During a Senate hearing on November 18, Rodrigues attributed the removal of two officers from leadership positions to a breakdown of trust and reports he said exceeded instructions. This is his account, not an independent finding about the officers' conduct. The balance between transparency and investigative confidentiality remains unresolved.",
         "category": "JUSTICE",
         "photo_captions": {
-          "1": "ARCHIVE PHOTO (May 30, 2018): Justice Edson Fachin during a Brazilian Supreme Court session in Brasília. This does not depict the delivery of Federal Police reports in 2026. Photo: Antonio Cruz / Agência Brasil; license: CC BY 3.0 Brasil."
+          "1": "ARCHIVE PHOTO (October 13, 2026): Supreme Court president Edson Fachin meets Federal Police Director-General Andrei Rodrigues in Brasília to discuss investigations including the Banco Master case. Photo: Gustavo Moreno/STF via PF; institutional CC BY-ND 3.0. This does not depict the November handover of reports."
         },
         "video_captions": {
           "1": "Official TV Senado report released November 19, 2026, on Federal Police Director-General Andrei Rodrigues's committee testimony. He denies interference in the Master case reports and discusses handing the material to Justice Fachin. The video does not depict the delivery."
@@ -734,7 +734,7 @@
         "counterpoint": "El contenido de los informes no se ha divulgado y no puede considerarse prueba de delitos cometidos por magistrados. En una audiencia del Senado el 18 de noviembre, Rodrigues atribuyó el relevo de dos policías de puestos directivos a una pérdida de confianza y a informes que, según él, excedieron las instrucciones. Es su versión, no una conclusión independiente sobre los agentes. Persiste la tensión entre transparencia y reserva investigativa.",
         "category": "JUSTICIA",
         "photo_captions": {
-          "1": "FOTO DE ARCHIVO (30 de mayo de 2018): El magistrado Edson Fachin durante una sesión del Supremo Tribunal Federal en Brasilia. No muestra la entrega de informes de la Policía Federal de 2026. Foto: Antonio Cruz / Agência Brasil; licencia: CC BY 3.0 Brasil."
+          "1": "FOTO DE ARCHIVO (13 de octubre de 2026): Edson Fachin recibe al director de la Policía Federal, Andrei Rodrigues, en Brasilia para tratar investigaciones, incluido el caso Banco Master. Foto: Gustavo Moreno/STF, vía PF; licencia institucional CC BY-ND 3.0. No muestra la entrega de informes de noviembre."
         },
         "video_captions": {
           "1": "Reportaje oficial de TV Senado publicado el 19 de noviembre de 2026 sobre la comparecencia del director de la Policía Federal Andrei Rodrigues. Niega interferencias en los informes del caso Master y habla de su entrega a Fachin. El vídeo no muestra la entrega."
@@ -742,13 +742,13 @@
       },
       "photos": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Edson_Fachin_%283x4%29.jpg",
+          "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/10/nota-a-imprensa-2/audiencia_pf.jpg/@@images/1f9d42b6-6c63-4e42-91ef-3a3cc6c0d2fc.jpeg",
           "slot": 1,
           "uso_liberado": true,
-          "license": "CC BY 3.0 Brasil",
-          "credit": "Antonio Cruz / Agência Brasil",
-          "source_article": "https://commons.wikimedia.org/wiki/File:Edson_Fachin_(3x4).jpg",
-          "caption": "FOTO DE ARQUIVO (30/05/2018): Edson Fachin durante sessão do Supremo Tribunal Federal em Brasília. Não retrata a entrega dos relatórios da Polícia Federal em 2026. Foto: Antonio Cruz / Agência Brasil; licença: CC BY 3.0 Brasil."
+          "license": "Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada (licença indicada pelo portal gov.br; atribuição ao STF)",
+          "credit": "Gustavo Moreno / STF, via Polícia Federal",
+          "source_article": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/10/nota-a-imprensa-2/",
+          "caption": "FOTO DE ARQUIVO (13/10/2026): Edson Fachin recebe o diretor-geral da Polícia Federal, Andrei Rodrigues, em Brasília, para tratar de investigações relacionadas ao Banco Master e outros assuntos. Foto: Gustavo Moreno/STF, via PF; licença institucional CC BY-ND 3.0. Não retrata a entrega de relatórios em novembro."
         }
       ],
       "videos": [
