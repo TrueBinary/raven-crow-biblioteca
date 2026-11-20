@@ -441,7 +441,17 @@
     "o-veto-nao-e-um-trono-e-o-congresso-nao-e-figurante-2026-11-19": "editorial/photos/o-veto-nao-e-um-trono-e-o-congresso-nao-e-figurante-2026-11-19.jpg",
     "cij-condena-mianmar-genocidio-rohingya-2026-11-19": "editorial/photos/cij-condena-mianmar-genocidio-rohingya-2026-11-19.jpg",
     "coalizao-saudita-relata-danos-apos-ameaca-missil-riade-2026-11-19": "editorial/photos/coalizao-saudita-relata-danos-apos-ameaca-missil-riade-2026-11-19.jpg",
-    "anthropic-estreia-nasdaq-ipo-81-bilhoes-2026-11-19": "editorial/photos/anthropic-estreia-nasdaq-ipo-81-bilhoes-2026-11-19.jpg"
+    "anthropic-estreia-nasdaq-ipo-81-bilhoes-2026-11-19": "editorial/photos/anthropic-estreia-nasdaq-ipo-81-bilhoes-2026-11-19.jpg",
+    "prf-operacao-consciencia-negra-2026-rodovias-federais": "editorial/photos/prf-operacao-consciencia-negra-2026-rodovias-federais.jpg",
+    "enem-2026-prazo-reaplicacao-termina-20-novembro": "editorial/photos/enem-2026-prazo-reaplicacao-termina-20-novembro.jpg",
+    "trump-xi-putin-declaracao-paz-shenzhen-2026-11-19": "editorial/photos/trump-xi-putin-declaracao-paz-shenzhen-2026-11-19.jpg",
+    "dinamarca-aprova-acordo-defesa-groenlandia-eua-2026-11-19": "editorial/photos/dinamarca-aprova-acordo-defesa-groenlandia-eua-2026-11-19.jpg",
+    "pf-entrega-relatorios-fachin-ministros-master-2026-11-19": "editorial/photos/pf-entrega-relatorios-fachin-ministros-master-2026-11-19.jpg",
+    "dolar-5868-ibovespa-cai-134-18-novembro-2026": "editorial/photos/dolar-5868-ibovespa-cai-134-18-novembro-2026.jpg",
+    "comissao-europeia-propoe-45-bilhoes-euros-ucrania-2027-2026-11-18": "editorial/photos/comissao-europeia-propoe-45-bilhoes-euros-ucrania-2027-2026-11-18.jpg",
+    "senado-conclui-ajuste-fiscal-envia-camara-2026-11-18": "editorial/photos/senado-conclui-ajuste-fiscal-envia-camara-2026-11-18.jpg",
+    "israel-operacao-terrestre-centro-gaza-linha-amarela-2026-11-18": "editorial/photos/israel-operacao-terrestre-centro-gaza-linha-amarela-2026-11-18.jpg",
+    "cbf-preve-perda-pontos-atraso-salarial-serie-a-2028-2026-11-18": "editorial/photos/cbf-preve-perda-pontos-atraso-salarial-serie-a-2028-2026-11-18.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -1685,6 +1695,66 @@
       "srcset": "editorial/photos/anthropic-estreia-nasdaq-ipo-81-bilhoes-2026-11-19-320.webp 320w, editorial/photos/anthropic-estreia-nasdaq-ipo-81-bilhoes-2026-11-19-640.webp 640w, editorial/photos/anthropic-estreia-nasdaq-ipo-81-bilhoes-2026-11-19-960.webp 960w, editorial/photos/anthropic-estreia-nasdaq-ipo-81-bilhoes-2026-11-19-1280.webp 1280w",
       "width": 1280,
       "height": 1319
+    },
+    "prf-operacao-consciencia-negra-2026-rodovias-federais": {
+      "src": "editorial/photos/prf-operacao-consciencia-negra-2026-rodovias-federais-1280.webp",
+      "srcset": "editorial/photos/prf-operacao-consciencia-negra-2026-rodovias-federais-320.webp 320w, editorial/photos/prf-operacao-consciencia-negra-2026-rodovias-federais-640.webp 640w, editorial/photos/prf-operacao-consciencia-negra-2026-rodovias-federais-960.webp 960w, editorial/photos/prf-operacao-consciencia-negra-2026-rodovias-federais-1280.webp 1280w",
+      "width": 1280,
+      "height": 998
+    },
+    "enem-2026-prazo-reaplicacao-termina-20-novembro": {
+      "src": "editorial/photos/enem-2026-prazo-reaplicacao-termina-20-novembro-1280.webp",
+      "srcset": "editorial/photos/enem-2026-prazo-reaplicacao-termina-20-novembro-320.webp 320w, editorial/photos/enem-2026-prazo-reaplicacao-termina-20-novembro-640.webp 640w, editorial/photos/enem-2026-prazo-reaplicacao-termina-20-novembro-960.webp 960w, editorial/photos/enem-2026-prazo-reaplicacao-termina-20-novembro-1280.webp 1280w",
+      "width": 1280,
+      "height": 852
+    },
+    "trump-xi-putin-declaracao-paz-shenzhen-2026-11-19": {
+      "src": "editorial/photos/trump-xi-putin-declaracao-paz-shenzhen-2026-11-19-1280.webp",
+      "srcset": "editorial/photos/trump-xi-putin-declaracao-paz-shenzhen-2026-11-19-320.webp 320w, editorial/photos/trump-xi-putin-declaracao-paz-shenzhen-2026-11-19-640.webp 640w, editorial/photos/trump-xi-putin-declaracao-paz-shenzhen-2026-11-19-960.webp 960w, editorial/photos/trump-xi-putin-declaracao-paz-shenzhen-2026-11-19-1280.webp 1280w",
+      "width": 1280,
+      "height": 853
+    },
+    "dinamarca-aprova-acordo-defesa-groenlandia-eua-2026-11-19": {
+      "src": "editorial/photos/dinamarca-aprova-acordo-defesa-groenlandia-eua-2026-11-19-1280.webp",
+      "srcset": "editorial/photos/dinamarca-aprova-acordo-defesa-groenlandia-eua-2026-11-19-320.webp 320w, editorial/photos/dinamarca-aprova-acordo-defesa-groenlandia-eua-2026-11-19-640.webp 640w, editorial/photos/dinamarca-aprova-acordo-defesa-groenlandia-eua-2026-11-19-960.webp 960w, editorial/photos/dinamarca-aprova-acordo-defesa-groenlandia-eua-2026-11-19-1280.webp 1280w",
+      "width": 1280,
+      "height": 808
+    },
+    "pf-entrega-relatorios-fachin-ministros-master-2026-11-19": {
+      "src": "editorial/photos/pf-entrega-relatorios-fachin-ministros-master-2026-11-19-938.webp",
+      "srcset": "editorial/photos/pf-entrega-relatorios-fachin-ministros-master-2026-11-19-320.webp 320w, editorial/photos/pf-entrega-relatorios-fachin-ministros-master-2026-11-19-640.webp 640w, editorial/photos/pf-entrega-relatorios-fachin-ministros-master-2026-11-19-938.webp 938w",
+      "width": 938,
+      "height": 1251
+    },
+    "dolar-5868-ibovespa-cai-134-18-novembro-2026": {
+      "src": "editorial/photos/dolar-5868-ibovespa-cai-134-18-novembro-2026-1280.webp",
+      "srcset": "editorial/photos/dolar-5868-ibovespa-cai-134-18-novembro-2026-320.webp 320w, editorial/photos/dolar-5868-ibovespa-cai-134-18-novembro-2026-640.webp 640w, editorial/photos/dolar-5868-ibovespa-cai-134-18-novembro-2026-960.webp 960w, editorial/photos/dolar-5868-ibovespa-cai-134-18-novembro-2026-1280.webp 1280w",
+      "width": 1280,
+      "height": 960
+    },
+    "comissao-europeia-propoe-45-bilhoes-euros-ucrania-2027-2026-11-18": {
+      "src": "editorial/photos/comissao-europeia-propoe-45-bilhoes-euros-ucrania-2027-2026-11-18-1280.webp",
+      "srcset": "editorial/photos/comissao-europeia-propoe-45-bilhoes-euros-ucrania-2027-2026-11-18-320.webp 320w, editorial/photos/comissao-europeia-propoe-45-bilhoes-euros-ucrania-2027-2026-11-18-640.webp 640w, editorial/photos/comissao-europeia-propoe-45-bilhoes-euros-ucrania-2027-2026-11-18-960.webp 960w, editorial/photos/comissao-europeia-propoe-45-bilhoes-euros-ucrania-2027-2026-11-18-1280.webp 1280w",
+      "width": 1280,
+      "height": 853
+    },
+    "senado-conclui-ajuste-fiscal-envia-camara-2026-11-18": {
+      "src": "editorial/photos/senado-conclui-ajuste-fiscal-envia-camara-2026-11-18-1280.webp",
+      "srcset": "editorial/photos/senado-conclui-ajuste-fiscal-envia-camara-2026-11-18-320.webp 320w, editorial/photos/senado-conclui-ajuste-fiscal-envia-camara-2026-11-18-640.webp 640w, editorial/photos/senado-conclui-ajuste-fiscal-envia-camara-2026-11-18-960.webp 960w, editorial/photos/senado-conclui-ajuste-fiscal-envia-camara-2026-11-18-1280.webp 1280w",
+      "width": 1280,
+      "height": 853
+    },
+    "israel-operacao-terrestre-centro-gaza-linha-amarela-2026-11-18": {
+      "src": "editorial/photos/israel-operacao-terrestre-centro-gaza-linha-amarela-2026-11-18-1280.webp",
+      "srcset": "editorial/photos/israel-operacao-terrestre-centro-gaza-linha-amarela-2026-11-18-320.webp 320w, editorial/photos/israel-operacao-terrestre-centro-gaza-linha-amarela-2026-11-18-640.webp 640w, editorial/photos/israel-operacao-terrestre-centro-gaza-linha-amarela-2026-11-18-960.webp 960w, editorial/photos/israel-operacao-terrestre-centro-gaza-linha-amarela-2026-11-18-1280.webp 1280w",
+      "width": 1280,
+      "height": 720
+    },
+    "cbf-preve-perda-pontos-atraso-salarial-serie-a-2028-2026-11-18": {
+      "src": "editorial/photos/cbf-preve-perda-pontos-atraso-salarial-serie-a-2028-2026-11-18-1280.webp",
+      "srcset": "editorial/photos/cbf-preve-perda-pontos-atraso-salarial-serie-a-2028-2026-11-18-320.webp 320w, editorial/photos/cbf-preve-perda-pontos-atraso-salarial-serie-a-2028-2026-11-18-640.webp 640w, editorial/photos/cbf-preve-perda-pontos-atraso-salarial-serie-a-2028-2026-11-18-960.webp 960w, editorial/photos/cbf-preve-perda-pontos-atraso-salarial-serie-a-2028-2026-11-18-1280.webp 1280w",
+      "width": 1280,
+      "height": 848
     }
   }
 }
