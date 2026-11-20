@@ -1,7 +1,78 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T19:00:00-03:00",
+  "updatedAt": "2026-11-20T10:00:00-03:00",
   "essays": [
+    {
+      "id": "o-voto-e-livre-desde-que-voce-compareca-2026-11-20",
+      "section": "Política e sociedade",
+      "date": "2026-11-20",
+      "title": "O VOTO É LIVRE. DESDE QUE VOCÊ COMPAREÇA.",
+      "subtitle": "A urna respeita o segredo da escolha. A obrigação de aparecer merece uma conversa mais franca.",
+      "eyebrow": "OPINIÃO",
+      "paragraphs": [
+        "O Brasil tem uma maneira peculiar de celebrar a liberdade política: entrega ao cidadão uma urna e, junto dela, a obrigação de comparecer. A escolha do candidato é livre, o voto é secreto, mas a ausência precisa de explicação. É como receber um convite para jantar com a observação de que o anfitrião aceita qualquer prato, desde que você apareça para comer.",
+        "O artigo 14 da Constituição torna obrigatórios o alistamento e o voto para brasileiros alfabetizados dos 18 aos 70 anos, com as exceções previstas no próprio texto. Quem falta pode justificar; quem não justifica pode pagar multa. O TSE também informa que três eleições consecutivas sem voto, justificativa ou quitação podem levar ao cancelamento da inscrição. Não é prisão por ficar em casa, evidentemente. Mas também não é uma escolha inteiramente sem consequências.",
+        "Há uma defesa respeitável da obrigatoriedade: a participação ampla dificulta que apenas os mais ricos, organizados ou entusiasmados decidam por todos. A democracia não é um clube de assinantes, e a abstenção desigual pode empobrecer sua representatividade. O argumento merece mais que uma piada. Só que ele esbarra numa pergunta incômoda: presença produz consciência política? O corpo diante da urna pode estar ali por convicção, hábito ou para evitar uma pendência no cadastro. A máquina registra o voto; não mede o motivo.",
+        "Em agosto de 2026, uma pesquisa Datafolha divulgada pela Folha apontou que 56% dos entrevistados diziam que votariam mesmo sem obrigação. É uma declaração de intenção, não uma previsão infalível do comparecimento real. Ainda assim, desmonta a fantasia de que todo eleitor só sai de casa porque há uma ameaça administrativa esperando na porta. Milhões podem considerar votar um dever moral sem desejar que o Estado transforme esse dever em cobrança legal.",
+        "Também não se deve confundir voto facultativo com solução milagrosa. Ele exigiria atenção à participação de quem enfrenta longas distâncias, jornadas exaustivas e pouca informação. Facilitar o acesso às urnas, ensinar a distinguir propostas de slogans e exigir prestação de contas dos eleitos são tarefas menos vistosas que um discurso sobre civismo, mas provavelmente mais úteis. Uma democracia que precisa de cidadãos presentes deve oferecer razões para que queiram estar presentes.",
+        "Defendo que votar seja levado a sério precisamente porque a decisão pertence à consciência. O cidadão pode escolher mal, anular, votar em branco ou simplesmente se decepcionar com todos; nenhuma dessas possibilidades autoriza tratá-lo como criança em excursão escolar, cuja presença o professor confere na entrada. A República merece eleitores que compareçam por vontade e responsabilidade. Se a soberania nasce do povo, convém lembrar que o povo não é propriedade da urna."
+      ],
+      "sources": [
+        {
+          "title": "Constituição Federal, artigo 14 — TSE",
+          "url": "https://www.tse.jus.br/legislacao/compilada/constituicao-federal/1988/constituicao-federal-de-1988"
+        },
+        {
+          "title": "TSE — Quem não votou nas três últimas eleições deve regularizar a situação (06/03/2025)",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2025/Marco/quem-nao-votou-nas-tres-ultimas-eleicoes-deve-regularizar-a-situacao-ate-19-de-maio"
+        },
+        {
+          "title": "Folha de S.Paulo — Datafolha: 56% votariam mesmo sem obrigatoriedade (agosto de 2026)",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/datafolha-56-dizem-que-iriam-votar-neste-ano-mesmo-se-nao-fosse-obrigatorio.shtml"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Urna_Eletr%C3%B4nica_Brasileira.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Vinicius Depizzol / Wikimedia Commons",
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Urna_Eletr%C3%B4nica_Brasileira.jpg",
+          "caption": "FOTO DE ARQUIVO (28/10/2018), São Francisco, Estados Unidos: urna eletrônica brasileira sendo inicializada em seção eleitoral. Não retrata as eleições de 2026 nem acontecimento recente."
+        }
+      ],
+      "en": {
+        "title": "THE VOTE IS FREE. AS LONG AS YOU SHOW UP.",
+        "subtitle": "The ballot protects your choice. The obligation to appear deserves a more candid debate.",
+        "eyebrow": "OPINION",
+        "section": "Politics and society",
+        "paragraphs": [
+          "Brazil has a peculiar way of celebrating political freedom: it hands citizens a ballot and, with it, an obligation to show up. The choice of candidate is free and the vote is secret, but absence requires an explanation. It is rather like a dinner invitation whose host allows you to order anything, provided you turn up to eat.",
+          "Article 14 of Brazil's Constitution makes registration and voting compulsory for literate citizens aged 18 to 70, subject to its stated exceptions. Those who miss an election can provide a justification; those who do not may face a fine. The Superior Electoral Court also explains that missing three consecutive electoral rounds without voting, justification or settlement may result in cancellation of registration. Staying home is not a criminal offense. But neither is it a choice without consequences.",
+          "There is a respectable case for compulsion: broad turnout helps prevent only the wealthy, organized or highly motivated from deciding for everyone. Democracy should not be a members-only club, and unequal abstention can weaken representation. That argument deserves more than a joke. Yet it raises an awkward question: does attendance create political judgment? Someone standing before a voting machine may be there out of conviction, habit or fear of an administrative problem. The machine records a vote, not a motive.",
+          "In August 2026, a Datafolha survey reported by Folha found that 56% of respondents said they would vote even if it were optional. That is a stated intention, not a reliable forecast of actual turnout. Still, it challenges the notion that everyone votes only because an administrative threat is waiting at the door. Millions may regard voting as a moral duty without wanting the state to make that duty legally compulsory.",
+          "Optional voting would not be a miracle cure, either. It would require serious attention to participation among people facing long journeys, exhausting shifts and poor access to information. Making polling accessible, teaching citizens to distinguish proposals from slogans and holding elected officials accountable are less glamorous than speeches about civic virtue, but probably more useful. A democracy that needs people to show up should give them reasons to want to.",
+          "I want voting to be taken seriously precisely because the decision belongs to the conscience. Citizens may choose badly, spoil their ballots, vote blank or lose faith in every candidate. None of this makes them children on a school trip whose names must be checked at the gate. A republic deserves voters who turn up willingly and responsibly. If sovereignty comes from the people, we should remember that the people do not belong to the ballot box."
+        ],
+        "photo_caption": "ARCHIVE PHOTO (October 28, 2018), San Francisco, United States: a Brazilian electronic voting machine being initialized at a polling station. Not the 2026 election or a recent event."
+      },
+      "es": {
+        "title": "EL VOTO ES LIBRE. SIEMPRE QUE TE PRESENTES.",
+        "subtitle": "La urna protege el secreto de la elección. La obligación de acudir merece un debate más franco.",
+        "eyebrow": "OPINIÓN",
+        "section": "Política y sociedad",
+        "paragraphs": [
+          "Brasil tiene una forma peculiar de celebrar la libertad política: entrega al ciudadano una urna y, junto con ella, la obligación de presentarse. La elección del candidato es libre y el voto es secreto, pero la ausencia exige explicaciones. Es como recibir una invitación a cenar en la que el anfitrión permite pedir cualquier plato, siempre que uno se presente a comer.",
+          "El artículo 14 de la Constitución brasileña establece la obligatoriedad de la inscripción electoral y del voto para los ciudadanos alfabetizados de 18 a 70 años, con las excepciones previstas. Quien falta puede justificarlo; quien no lo hace puede recibir una multa. El Tribunal Superior Electoral también explica que tres elecciones consecutivas sin votar, justificar o regularizar las multas pueden llevar a la cancelación de la inscripción. Quedarse en casa no es un delito. Pero tampoco es una decisión sin consecuencias.",
+          "Existe una defensa respetable de la obligatoriedad: la participación amplia ayuda a impedir que solo los ricos, los organizados o los más entusiastas decidan por todos. La democracia no debería ser un club de socios, y una abstención desigual puede debilitar la representación. El argumento merece más que una broma. Pero tropieza con una pregunta incómoda: ¿la asistencia produce criterio político? Quien está frente a la urna puede hacerlo por convicción, costumbre o para evitar un problema administrativo. La máquina registra el voto, no el motivo.",
+          "En agosto de 2026, una encuesta de Datafolha difundida por Folha señaló que el 56% de los entrevistados afirmaba que votaría aunque no fuera obligatorio. Es una intención declarada, no una predicción infalible de participación. Aun así, cuestiona la fantasía de que todo elector sale de casa solo porque le espera una amenaza administrativa. Millones pueden considerar el voto un deber moral sin querer que el Estado lo convierta en obligación legal.",
+          "El voto voluntario tampoco sería una solución milagrosa. Exigiría prestar atención a quienes afrontan grandes distancias, jornadas agotadoras y escaso acceso a información. Facilitar la votación, enseñar a distinguir propuestas de consignas y exigir cuentas a los elegidos son tareas menos vistosas que un discurso sobre civismo, pero probablemente más útiles. Una democracia que necesita ciudadanos presentes debe darles motivos para querer estar presentes.",
+          "Defiendo que se tome el voto en serio precisamente porque la decisión pertenece a la conciencia. El ciudadano puede elegir mal, anular, votar en blanco o desencantarse de todos; ninguna de esas posibilidades permite tratarlo como a un niño de excursión cuya presencia se comprueba en la entrada. La república merece electores que acudan por voluntad y responsabilidad. Si la soberanía nace del pueblo, conviene recordar que el pueblo no pertenece a la urna."
+        ],
+        "photo_caption": "FOTO DE ARCHIVO (28/10/2018), San Francisco, Estados Unidos: urna electrónica brasileña durante su inicialización en un centro de votación. No retrata las elecciones de 2026 ni un hecho reciente."
+      }
+    },
     {
       "id": "o-veto-nao-e-um-trono-e-o-congresso-nao-e-figurante-2026-11-19",
       "section": "Política e sociedade",
