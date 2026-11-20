@@ -1,7 +1,78 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T10:00:00-03:00",
+  "updatedAt": "2026-11-20T19:00:00-03:00",
   "essays": [
+    {
+      "id": "o-botao-comprar-e-facil-o-direito-de-desistir-nao-pode-ser-labirinto-2026-11-20",
+      "section": "Política e sociedade",
+      "date": "2026-11-20",
+      "title": "O BOTÃO COMPRAR É FÁCIL. DESISTIR NÃO PODE SER UM LABIRINTO.",
+      "subtitle": "A loja conhece cada clique do cliente. Na hora de cancelar, às vezes esquece até onde fica a saída.",
+      "eyebrow": "OPINIÃO",
+      "paragraphs": [
+        "Uma compra pela internet pode durar quatro segundos. O arrependimento, curiosamente, às vezes exige uma pequena carreira de investigador particular. O botão de comprar aparece enorme, luminoso, quase afetuoso. O de desistir, quando existe, parece ter sido escondido por alguém que perdeu uma aposta. E a pergunta que fica não é se o consumidor deveria pensar antes de gastar. Deveria. É por que algumas empresas parecem esquecer o significado da palavra escolha depois que o pagamento foi aprovado.",
+        "O artigo 49 do Código de Defesa do Consumidor assegura, nas contratações fora do estabelecimento comercial, o direito de desistir em sete dias, contados da assinatura ou do recebimento do produto ou serviço. O Procon-SP esclarece que isso alcança compras pela internet e por telefone. Não é favor da loja, promoção de fim de semana nem recompensa por encontrar um atendente disposto a conversar. É uma proteção legal para quem comprou sem a experiência de examinar pessoalmente o que lhe foi oferecido.",
+        "Esse direito faz ainda mais sentido numa economia que aprendeu a vender ao vivo. Uma demonstração convincente, um contador regressivo e uma oferta anunciada como irrepetível conseguem encurtar a distância entre desejar e pagar. Não há pecado em vender bem; o comerciante precisa viver, o apresentador precisa trabalhar e o cliente continua responsável por suas decisões. Mas há uma diferença moral entre persuadir alguém a comprar e transformar a desistência legítima numa corrida de obstáculos.",
+        "Também seria desonesto fingir que toda devolução é indolor para quem vende. Há frete, conferência, estoque, fraude e pequenos negócios que operam com margens apertadas. O direito de arrependimento não autoriza destruir um produto, agir de má-fé ou exigir privilégios sem fundamento. Justamente por isso a regra deve ser clara para os dois lados. Segurança jurídica não é uma arma contra o comércio: é o chão em que um comércio confiável consegue crescer.",
+        "O problema é a assimetria de entusiasmo. Na hora de receber, a empresa conhece seu nome, seu cartão e até a cor preferida da embalagem. Na hora de cancelar, subitamente precisa confirmar se você realmente existe. Um mercado livre merece consumidores capazes de dizer sim, mas também capazes de dizer não nos limites da lei. Se a plataforma consegue registrar um pedido em segundos, não é extravagante esperar que saiba registrar uma desistência sem transformar o cliente em peregrino do atendimento.",
+        "Não quero um Estado escolhendo minhas compras nem uma loja escolhendo meus arrependimentos. Quero contratos inteligíveis, regras cumpridas e responsabilidade recíproca. O direito de desistir não substitui o bom senso de comprar; protege o espaço em que o bom senso pode corrigir um erro. A compra pode nascer de um clique. A liberdade não deveria desaparecer no clique seguinte."
+      ],
+      "sources": [
+        {
+          "title": "Lei nº 8.078/1990, Código de Defesa do Consumidor, art. 49 — Presidência da República",
+          "url": "https://planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+        },
+        {
+          "title": "Procon-SP — Reclamações de compras online, pergunta 27 (direito de arrependimento)",
+          "url": "https://www.procon.sp.gov.br/reclamacoes-de-compras-online/"
+        },
+        {
+          "title": "Procon-SP — Cartilha Direitos básicos do consumidor (2025)",
+          "url": "https://www.procon.sp.gov.br/wp-content/uploads/2025/07/Cartilha-Direitos-basicos-do-consumidor-para-refugiados-e-imigrantes-Portugues2.pdf"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/PChome_Online_Shopping_box_20090615.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Person Lin / Wikimedia Commons",
+          "license": "CC BY-SA 2.0 — https://creativecommons.org/licenses/by-sa/2.0/",
+          "source_article": "https://commons.wikimedia.org/wiki/File:PChome_Online_Shopping_box_20090615.jpg",
+          "caption": "FOTO DE ARQUIVO (15/06/2009), Taiwan: caixa de encomenda de comércio eletrônico. Imagem ilustrativa de uma compra à distância; não retrata caso brasileiro nem acontecimento recente."
+        }
+      ],
+      "en": {
+        "title": "BUYING IS EASY. CANCELLING SHOULD NOT BE A MAZE.",
+        "subtitle": "A store remembers every click. When it is time to cancel, it sometimes forgets where the exit is.",
+        "eyebrow": "OPINION",
+        "section": "Politics and society",
+        "paragraphs": [
+          "An online purchase can take four seconds. Regret, curiously, may require a minor career as a private detective. The buy button is enormous, glowing, almost affectionate. The cancel option, when it exists, looks as if someone hid it after losing a bet. The question is not whether shoppers should think before spending. Of course they should. It is why some companies seem to forget the meaning of choice once the payment clears.",
+          "Article 49 of Brazil's Consumer Protection Code grants a seven-day withdrawal right for contracts made away from business premises, counted from signing or receipt of the product or service. São Paulo's consumer protection agency explains that online and telephone purchases are covered. This is not a store's generosity, a weekend promotion or a prize for finding a helpful agent. It is a legal safeguard for people buying without the chance to inspect the offer in person.",
+          "That safeguard matters all the more in an economy that has learned to sell live. A compelling demonstration, a countdown and an allegedly unrepeatable offer can shrink the distance between wanting and paying. Selling well is no sin: merchants need to earn a living, hosts need to work, and customers remain responsible for their decisions. But persuading someone to buy is morally different from turning a lawful cancellation into an obstacle course.",
+          "It would also be dishonest to pretend that every return is painless for sellers. Shipping, inspection, inventory, fraud and the narrow margins of small businesses are real concerns. A withdrawal right does not authorize damaging goods, acting in bad faith or demanding privileges without justification. That is precisely why the rules should be clear on both sides. Legal certainty is not a weapon against commerce; it is the ground on which trustworthy commerce grows.",
+          "The trouble is the imbalance of enthusiasm. When taking payment, a company knows your name, your card and perhaps even your favorite packaging color. When you ask to cancel, it suddenly needs to verify that you exist. A free market deserves customers able to say yes, but also able to say no within the law. If a platform can record an order in seconds, expecting it to record a withdrawal without sending the customer on a pilgrimage through support is hardly extravagant.",
+          "I do not want the state choosing my purchases or a store choosing my regrets. I want understandable contracts, rules that are honored and responsibility on both sides. The right to withdraw does not replace the good judgment needed to buy; it protects the room to correct a mistake. A purchase may begin with a click. Freedom should not vanish with the next one."
+        ],
+        "photo_caption": "ARCHIVE PHOTO (June 15, 2009), Taiwan: an e-commerce parcel box. Illustrates distance shopping; it does not depict a Brazilian case or a recent event."
+      },
+      "es": {
+        "title": "COMPRAR ES FÁCIL. DESISTIR NO DEBERÍA SER UN LABERINTO.",
+        "subtitle": "La tienda recuerda cada clic del cliente. Al cancelar, a veces olvida dónde está la salida.",
+        "eyebrow": "OPINIÓN",
+        "section": "Política y sociedad",
+        "paragraphs": [
+          "Una compra por internet puede durar cuatro segundos. El arrepentimiento, curiosamente, a veces exige una pequeña carrera de detective privado. El botón de comprar es enorme, luminoso, casi cariñoso. El de cancelar, cuando existe, parece escondido por alguien que perdió una apuesta. La cuestión no es si el consumidor debería pensar antes de gastar. Claro que sí. Es por qué algunas empresas parecen olvidar qué significa elegir una vez aprobado el pago.",
+          "El artículo 49 del Código de Defensa del Consumidor brasileño garantiza siete días para desistir de contratos celebrados fuera del establecimiento comercial, contados desde la firma o la recepción del producto o servicio. El Procon de São Paulo aclara que abarca compras por internet y teléfono. No es un favor de la tienda, una promoción de fin de semana ni un premio por encontrar a un empleado amable. Es una protección legal para quien compró sin poder examinar personalmente lo ofrecido.",
+          "Esa protección cobra aún más sentido en una economía que aprendió a vender en directo. Una demostración convincente, una cuenta regresiva y una oferta presentada como irrepetible acortan la distancia entre desear y pagar. Vender bien no es pecado: el comerciante necesita vivir, el presentador trabajar y el cliente sigue siendo responsable de sus decisiones. Pero persuadir a alguien para comprar es moralmente distinto de convertir una cancelación legítima en una carrera de obstáculos.",
+          "Tampoco sería honesto fingir que toda devolución resulta indolora para quien vende. Hay transporte, inspección, inventario, fraude y pequeños negocios con márgenes estrechos. El derecho de desistimiento no autoriza dañar un producto, actuar de mala fe ni exigir privilegios sin fundamento. Precisamente por eso las reglas deben ser claras para ambas partes. La seguridad jurídica no es un arma contra el comercio: es el suelo sobre el que crece un comercio confiable.",
+          "El problema es la asimetría del entusiasmo. Para cobrar, la empresa conoce tu nombre, tu tarjeta y hasta el color preferido del paquete. Para cancelar, de repente necesita comprobar que existes. Un mercado libre merece consumidores capaces de decir sí, pero también de decir no dentro de la ley. Si una plataforma registra un pedido en segundos, no es extravagante esperar que registre un desistimiento sin convertir al cliente en peregrino de atención al público.",
+          "No quiero que el Estado elija mis compras ni que una tienda elija mis arrepentimientos. Quiero contratos comprensibles, reglas respetadas y responsabilidad recíproca. El derecho a desistir no sustituye el buen juicio al comprar; protege el espacio para corregir un error. Una compra puede empezar con un clic. La libertad no debería desaparecer con el siguiente."
+        ],
+        "photo_caption": "FOTO DE ARCHIVO (15/06/2009), Taiwán: caja de un pedido de comercio electrónico. Ilustra una compra a distancia; no retrata un caso brasileño ni un hecho reciente."
+      }
+    },
     {
       "id": "o-voto-e-livre-desde-que-voce-compareca-2026-11-20",
       "section": "Política e sociedade",
