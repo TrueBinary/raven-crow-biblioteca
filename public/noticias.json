@@ -2,9 +2,45 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-20T04:02:39-03:00",
+  "updatedAt": "2026-11-20T09:57:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "levantamento-arayara-894-por-cento-eolicas-alertas-2026-11-20",
+      "date": "2026-11-20",
+      "title": "LEVANTAMENTO APONTA ALERTAS SOCIOAMBIENTAIS EM 89,4% DOS PARQUES EÓLICOS MAPEADOS",
+      "subtitle": "Plataforma Farol das Eólicas identifica áreas sensíveis; classificação não comprova danos ambientais",
+      "category": "MEIO AMBIENTE",
+      "facts": "Levantamento do Instituto Internacional Arayara, divulgado em 19 de novembro de 2026 durante a COP31, em Antalya, na Turquia, mapeou 1.748 empreendimentos eólicos terrestres em 13 estados brasileiros, incluindo usinas em operação e projetos em construção ou planejamento. Segundo a plataforma Farol das Eólicas, 89,4% apresentam pelo menos um fator de sensibilidade socioambiental. Foram classificados 645 empreendimentos na faixa vermelha (36,9%), 917 na amarela (52,5%) e 186 na verde (10,6%). A Agência Brasil publicou os resultados em 20 de novembro.",
+      "analysis": "A distinção entre alerta e dano é essencial para interpretar os números. O indicador cruza a localização de projetos com territórios tradicionais, unidades de conservação, áreas de biodiversidade e residências próximas, entre 13 critérios. Isso pode orientar a análise de licenciamento e a escolha de locais para novos empreendimentos, mas não mede a gravidade de impactos nem substitui estudos ambientais específicos. Dos 1.748 empreendimentos analisados, 1.175 já operam; portanto, o percentual geral não descreve apenas usinas em funcionamento. O levantamento aponta 64,5% dos parques com ao menos uma residência a até 400 metros de seus limites, um dado que merece avaliação local de ruído e sombreamento.",
+      "counterpoint": "A classificação de sensibilidade não demonstra que 89,4% dos parques tenham causado danos ou descumprido licenças. O próprio instituto ressalva que o sistema não substitui estudos de impacto ambiental. A reportagem consultada não apresenta resposta individual de empresas responsáveis pelos empreendimentos. Os dados são do levantamento da organização, não de uma fiscalização conclusiva dos órgãos ambientais.",
+      "sources": [
+        {
+          "name": "Agência Brasil — 20/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/quase-90-das-usinas-eolicas-do-pais-tem-alertas-socioambientais"
+        },
+        {
+          "name": "Instituto Arayara — Farol das Eólicas",
+          "url": "https://monitores.arayara.org/"
+        }
+      ],
+      "en": {
+        "title": "Study flags environmental and social sensitivities at 89.4% of mapped Brazilian wind farms",
+        "subtitle": "Farol das Eólicas maps sensitive areas; alerts are not proof of environmental damage",
+        "category": "ENVIRONMENT",
+        "facts": "A survey by the International Arayara Institute, released on November 19, 2026 at COP31 in Antalya, Turkey, mapped 1,748 onshore wind projects across 13 Brazilian states, including operating plants and projects under construction or planning. According to the Farol das Eólicas platform, 89.4% have at least one environmental or social sensitivity factor. The survey placed 645 projects in the red category (36.9%), 917 in yellow (52.5%), and 186 in green (10.6%). Agência Brasil reported the findings on November 20.",
+        "analysis": "An alert is not the same as verified harm. The tool overlays project locations with traditional communities' territories, conservation areas, biodiversity sites and nearby homes, using 13 criteria. The results may help prioritize licensing reviews and site selection, but do not quantify actual harm or replace project-specific environmental assessments. Of the 1,748 projects surveyed, 1,175 are operating, so the overall percentage does not describe operating facilities alone. The institute also identified at least one home within 400 meters of 64.5% of the sites.",
+        "counterpoint": "The sensitivity scores do not prove that 89.4% of wind farms caused damage or breached permits. The institute itself says its platform cannot replace environmental impact studies. The cited report does not provide responses from individual operators. These are findings from a civil-society survey, not conclusive enforcement findings."
+      },
+      "es": {
+        "title": "Estudio identifica alertas socioambientales en el 89,4% de los parques eólicos brasileños analizados",
+        "subtitle": "Farol das Eólicas señala zonas sensibles, pero las alertas no prueban daños ambientales",
+        "category": "MEDIO AMBIENTE",
+        "facts": "Un estudio del Instituto Internacional Arayara, presentado el 19 de noviembre de 2026 durante la COP31 en Antalya, Turquía, analizó 1.748 proyectos eólicos terrestres de 13 estados brasileños, entre instalaciones operativas y proyectos en construcción o planificación. Según la plataforma Farol das Eólicas, el 89,4% presenta al menos un factor de sensibilidad socioambiental. Se clasificaron 645 proyectos en rojo (36,9%), 917 en amarillo (52,5%) y 186 en verde (10,6%). Agência Brasil publicó los datos el 20 de noviembre.",
+        "analysis": "Una alerta no equivale a un daño comprobado. La plataforma cruza la ubicación de los proyectos con territorios de comunidades tradicionales, áreas protegidas, espacios de biodiversidad y viviendas cercanas mediante 13 criterios. Puede orientar la revisión de licencias y la selección de emplazamientos, pero no mide los daños reales ni sustituye los estudios ambientales de cada proyecto. De los 1.748 proyectos, 1.175 ya operan; por tanto, el porcentaje general no se refiere exclusivamente a instalaciones activas. También se detectaron viviendas a menos de 400 metros del 64,5% de los parques.",
+        "counterpoint": "La clasificación no demuestra que el 89,4% haya causado daños ni infringido licencias. El propio instituto advierte que su herramienta no reemplaza los estudios de impacto ambiental. La información consultada no incluye respuestas individuales de los operadores. Son resultados de una investigación de una organización civil, no conclusiones definitivas de fiscalización."
+      }
+    },
     {
       "id": "ataques-russos-atingem-tres-pontes-kiev-2026-11-20",
       "date": "2026-11-20",
