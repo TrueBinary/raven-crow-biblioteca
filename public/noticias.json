@@ -2,9 +2,78 @@
  "schemaVersion": 1,
  "editorial": "O Corvo Investigador",
  "edition": "12/11/2026",
- "updatedAt": "2026-11-20T17:08:04-03:00",
+ "updatedAt": "2026-11-20T18:03:00-03:00",
  "tz": "America/Sao_Paulo",
  "articles": [
+  {
+   "id": "temporal-tupancireta-tres-mortos-defesa-civil-2026-11-20",
+   "date": "2026-11-20",
+   "title": "TEMPORAL DEVASTA TUPANCIRETÃ: TRÊS MORTOS, MILHARES DE CASAS ATINGIDAS E SOCORRO FEDERAL",
+   "subtitle": "Tempestade deixa três mortos em Tupanciretã (RS); estado libera R$ 2 milhões e União envia equipes de socorro.",
+   "category": "BRASIL",
+   "facts": "Uma tempestade com ventos intensos e granizo atingiu Tupanciretã, no Rio Grande do Sul, na madrugada de 20 de novembro de 2026, deixando três mortos, conforme balanço divulgado pela Agência Brasil com base em autoridades municipais. Segundo a prefeitura, em informação reproduzida pela Secretaria de Comunicação Social da Presidência da República (Secom), cerca de 8 mil das 8,6 mil casas do município foram destruídas, derrubadas ou destelhadas, estimativa preliminar ainda sujeita a levantamento de campo. De acordo com a Defesa Civil do Rio Grande do Sul, o governador Eduardo Leite determinou a liberação imediata de R$ 2 milhões para o socorro emergencial, enquanto a Secretaria Nacional de Proteção e Defesa Civil (Sedec) enviou equipe para apoiar a resposta e o reconhecimento da situação de emergência.",
+   "analysis": "O temporal comprometeu energia elétrica, abastecimento de água e circulação de ambulâncias, agravando o atendimento aos feridos, alguns transferidos para Santa Maria e Júlio de Castilhos. A resposta estadual prevê mobilização de máquinas e instalação de um gabinete regionalizado de crise. No plano federal, o Grupo de Apoio a Desastres da Defesa Civil Nacional deve auxiliar o município a formalizar a emergência, etapa necessária para acelerar a transferência de recursos. O Ministério da Saúde anunciou pelo menos duas equipes da Força Nacional do Sistema Único de Saúde (SUS) e uma terceira equipe de avaliação com prazo de até 72 horas para diagnosticar necessidades. A diferença entre as estimativas iniciais de imóveis afetados — cerca de 8 mil unidades informadas pela prefeitura e aproximadamente 5 mil destelhamentos em outros levantamentos — exige cautela: os números usam categorias e estágios de apuração diferentes.",
+   "counterpoint": "A Defesa Civil emitiu alertas de granizo e vendaval na madrugada. Especialistas investigam se os danos resultaram de ventos associados a uma supercélula, de uma microexplosão ou de um tornado; a ocorrência de tornado não estava confirmada nas fontes consultadas. O número de vítimas e o balanço de imóveis podem mudar com a vistoria. A fotografia desta matéria é de arquivo e mostra um prédio real da cidade em 2016, não o temporal atual.",
+   "sources": [
+    {
+     "name": "Defesa Civil RS — auxílio emergencial de R$ 2 milhões (20/11/2026)",
+     "url": "https://defesacivil.rs.gov.br/governador-eduardo-leite-destina-r-2-milhoes-para-apoio-emergencial-a-tupancireta"
+    },
+    {
+     "name": "Defesa Civil RS — alerta severo (20/11/2026)",
+     "url": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-severa-para-tempestade-com-granizo-grande-e-vendaval-que-atuam-nas-proximidades-de-tu-6afff253c4aad"
+    },
+    {
+     "name": "Secretaria de Comunicação Social da Presidência — resposta federal (20/11/2026)",
+     "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/governo-federal-mobiliza-resposta-imediata-a-tupancireta-rs-por-determinacao-do-presidente-lula"
+    },
+    {
+     "name": "Agência Brasil — três mortes e danos no município (20/11/2026)",
+     "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/tempestade-deixa-um-morto-em-tupancireta-no-rio-grande-do-sul"
+    },
+    {
+     "name": "Agência Brasil — mobilização federal (20/11/2026)",
+     "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/temporal-no-rs-governo-envia-equipes-da-defesa-civil-para-tupancireta"
+    },
+    {
+     "name": "Canal Rural — balanço de vítimas e ventos (20/11/2026)",
+     "url": "https://www.canalrural.com.br/nacional/rio-grande-do-sul/tupancireta-registra-tres-mortes-apos-temporal-governo-estadual-destina-r-2-milhoes-a-cidade/"
+    }
+   ],
+   "photos": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/As_propor%C3%A7%C3%B5es_hoje_desproporcionais_do_Complexo_Agroindustrial_Dr._Severo_Correa_de_Barros_Netto%2C_em_Tupanciret%C3%A3%2C_que%2C_nos_dias_de_gl%C3%B3ria%2C_abatia_1.200_cabe%C3%A7as_de_gado_por_DIA._A_foto_ilustra%2C_apenas%2C_o_pr%C3%A9dio_d_-_panoramio.jpg",
+     "slot": 1,
+     "uso_liberado": true,
+     "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+     "credit": "Alessandrocbs / Wikimedia Commons",
+     "source_article": "https://commons.wikimedia.org/wiki/File:As_propor%C3%A7%C3%B5es_hoje_desproporcionais_do_Complexo_Agroindustrial_Dr._Severo_Correa_de_Barros_Netto,_em_Tupanciret%C3%A3,_que,_nos_dias_de_gl%C3%B3ria,_abatia_1.200_cabe%C3%A7as_de_gado_por_DIA._A_foto_ilustra,_apenas,_o_pr%C3%A9dio_d_-_panoramio.jpg",
+     "caption": "FOTO DE ARQUIVO (8 de março de 2016): antigo prédio de caldeiras do Complexo Agroindustrial Dr. Severo Correa de Barros Netto, em Tupanciretã (RS). Alessandrocbs / Wikimedia Commons, CC BY-SA 3.0. Não retrata a tempestade de 20 de novembro de 2026 nem os danos atuais."
+    }
+   ],
+   "en": {
+    "title": "Storm kills three in Tupanciretã as thousands of homes are damaged and federal aid is mobilized",
+    "subtitle": "Three people die in a storm in Tupanciretã, Brazil; the state allocates R$2 million and federal emergency teams are deployed.",
+    "facts": "A severe storm with high winds and hail struck Tupanciretã, in Brazil's Rio Grande do Sul state, early on November 20, 2026, killing three people, according to Agência Brasil citing municipal authorities. The city government estimated that about 8,000 of its 8,600 homes were destroyed, damaged or lost their roofs, a preliminary figure cited by the Brazilian Presidency's Secretariat for Social Communication (Secom) that remains subject to on-site verification. According to the Rio Grande do Sul Civil Defense agency, Governor Eduardo Leite authorized R$2 million in immediate emergency aid, while the National Secretariat for Civil Protection and Defense (Sedec) deployed a team to assist relief operations and emergency recognition.",
+    "analysis": "The storm disrupted power, water supplies and ambulance access, complicating care for the injured, some of whom were transferred to Santa Maria and Júlio de Castilhos. The state government is mobilizing equipment and establishing a regional crisis office. At federal level, the National Disaster Support Group is helping the municipality obtain formal emergency recognition, a step toward faster relief funding. The Health Ministry announced at least two National Health System (SUS) response teams and a third assessment team expected to evaluate needs within 72 hours. Initial housing estimates differ: the municipality cited about 8,000 affected homes, while other reports described roughly 5,000 homes with roof damage. These figures reflect different definitions and stages of assessment.",
+    "counterpoint": "Civil Defense issued hail and high-wind alerts during the night. Authorities are assessing whether the damage was caused by a supercell storm, a downburst or a tornado; a tornado had not been confirmed by the consulted sources. Casualty and damage figures may change. The accompanying photograph shows a real building in Tupanciretã in 2016 and does not depict this storm.",
+    "category": "BRAZIL",
+    "photo_captions": {
+     "1": "FILE PHOTO (March 8, 2016): former boiler building at the Dr. Severo Correa de Barros Netto Agroindustrial Complex in Tupanciretã, Rio Grande do Sul. Alessandrocbs / Wikimedia Commons, CC BY-SA 3.0. Does not show the November 20, 2026 storm or its damage."
+    }
+   },
+   "es": {
+    "title": "Temporal deja tres muertos en Tupanciretã, miles de viviendas afectadas y despliegue de ayuda federal",
+    "subtitle": "Un temporal causa tres muertes en Tupanciretã, Brasil; el estado destina R$ 2 millones y llegan equipos federales de emergencia.",
+    "facts": "Una tormenta con fuertes vientos y granizo azotó Tupanciretã, en el estado brasileño de Rio Grande do Sul, durante la madrugada del 20 de noviembre de 2026 y dejó tres muertos, según Agência Brasil, que cita a las autoridades municipales. El ayuntamiento estimó que unas 8.000 de las 8.600 viviendas del municipio quedaron destruidas, dañadas o sin techo, una cifra preliminar recogida por la Secretaría de Comunicación Social de la Presidencia de Brasil (Secom), pendiente de verificación sobre el terreno. Según la Defensa Civil de Rio Grande do Sul, el gobernador Eduardo Leite autorizó R$ 2 millones para ayuda inmediata, mientras la Secretaría Nacional de Protección y Defensa Civil (Sedec) envió un equipo para apoyar el socorro y el reconocimiento de la emergencia.",
+    "analysis": "El temporal interrumpió el suministro eléctrico y de agua y dificultó el acceso de ambulancias, lo que complicó la atención de heridos trasladados en algunos casos a Santa Maria y Júlio de Castilhos. El gobierno estatal moviliza maquinaria y establece un gabinete regional de crisis. A escala federal, el Grupo de Apoyo a Desastres ayuda al municipio a obtener el reconocimiento formal de la emergencia, necesario para agilizar recursos. El Ministerio de Salud anunció al menos dos equipos de la Fuerza Nacional del Sistema Único de Salud (SUS) y otro equipo que evaluará las necesidades en un plazo de hasta 72 horas. Las estimaciones iniciales difieren: el ayuntamiento citó unas 8.000 viviendas afectadas, mientras otros balances hablaron de aproximadamente 5.000 destechadas; no son categorías necesariamente equivalentes.",
+    "counterpoint": "La Defensa Civil emitió alertas de granizo y vendaval durante la madrugada. Las autoridades investigan si los daños se debieron a una supercélula, una microexplosión atmosférica o un tornado; este último fenómeno aún no estaba confirmado por las fuentes consultadas. Las cifras de víctimas y daños pueden cambiar. La fotografía es de archivo, tomada en 2016 en un edificio real de Tupanciretã, y no muestra el temporal actual.",
+    "category": "BRASIL",
+    "photo_captions": {
+     "1": "FOTO DE ARCHIVO (8 de marzo de 2016): antiguo edificio de calderas del Complejo Agroindustrial Dr. Severo Correa de Barros Netto, en Tupanciretã, Rio Grande do Sul. Alessandrocbs / Wikimedia Commons, CC BY-SA 3.0. No muestra la tormenta del 20 de noviembre de 2026 ni sus daños."
+    }
+   }
+  },
   {
    "id": "trump-filipinas-agro-brasil-soja-eua-2026-11-20",
    "date": "2026-11-20",
