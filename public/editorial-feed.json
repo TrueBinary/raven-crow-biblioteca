@@ -449,6 +449,9 @@
         "photo_captions": {
           "1": "ARCHIVE PHOTO (May 30, 2018): Justice Edson Fachin during a Brazilian Supreme Court session in Brasília. This does not depict the delivery of Federal Police reports in 2026. Photo: Antonio Cruz / Agência Brasil; license: CC BY 3.0 Brasil."
         },
+        "video_captions": {
+          "1": "Official TV Senado report released November 19, 2026, on Federal Police Director-General Andrei Rodrigues's committee testimony. He denies interference in the Master case reports and discusses handing the material to Justice Fachin. The video does not depict the delivery."
+        },
         "slug": "federal-police-deliver-reports-to-fachin-on-justices-mentioned-in-master-case-2026-11-19"
       },
       "es": {
@@ -461,6 +464,9 @@
         "photo_captions": {
           "1": "FOTO DE ARCHIVO (30 de mayo de 2018): El magistrado Edson Fachin durante una sesión del Supremo Tribunal Federal en Brasilia. No muestra la entrega de informes de la Policía Federal de 2026. Foto: Antonio Cruz / Agência Brasil; licencia: CC BY 3.0 Brasil."
         },
+        "video_captions": {
+          "1": "Reportaje oficial de TV Senado publicado el 19 de noviembre de 2026 sobre la comparecencia del director de la Policía Federal Andrei Rodrigues. Niega interferencias en los informes del caso Master y habla de su entrega a Fachin. El vídeo no muestra la entrega."
+        },
         "slug": "la-policia-federal-entrega-a-fachin-informes-sobre-jueces-citados-en-el-caso-2026-11-19"
       },
       "photos": [
@@ -472,6 +478,15 @@
           "credit": "Antonio Cruz / Agência Brasil",
           "source_article": "https://commons.wikimedia.org/wiki/File:Edson_Fachin_(3x4).jpg",
           "caption": "FOTO DE ARQUIVO (30/05/2018): Edson Fachin durante sessão do Supremo Tribunal Federal em Brasília. Não retrata a entrega dos relatórios da Polícia Federal em 2026. Foto: Antonio Cruz / Agência Brasil; licença: CC BY 3.0 Brasil."
+        }
+      ],
+      "videos": [
+        {
+          "youtube": "https://www.youtube.com/watch?v=XcLWuWSv1wQ",
+          "start": 0,
+          "placement": "analise",
+          "caption": "Reportagem oficial da TV Senado publicada em 19 de novembro de 2026 sobre a audiência do diretor-geral da PF Andrei Rodrigues na CCJ. Ele nega interferência nos relatórios do caso Master e informa a intenção de entregar o material a Fachin. O vídeo não mostra a entrega.",
+          "credit": "TV Senado / Senado Federal"
         }
       ],
       "firstSeen": "2026-11-19T04:01:38-03:00"
@@ -749,6 +764,10 @@
         "photo_captions": {
           "1": "ARCHIVE PHOTO (July 2, 2025): Senators during a deliberative session in Brazil's Federal Senate chamber in Brasília. This does not depict the November 2026 fiscal-package vote. Photo: Carlos Moura / Agência Senado; license: CC BY 4.0."
         },
+        "video_captions": {
+          "1": "Official TV Senado report dated November 18, 2026, covering the final Senate vote on the fiscal package and its referral to the Chamber of Deputies. Playback begins at the start of the report.",
+          "2": "TV Senado interview released November 19, 2026: Senate President Davi Alcolumbre discusses the November 18 vote and the agreement concerning states and municipalities. This is not footage of a new vote."
+        },
         "slug": "brazil-s-senate-completes-fiscal-package-vote-692-sends-bill-to-lower-house-2026-11-18"
       },
       "es": {
@@ -761,6 +780,10 @@
         "photo_captions": {
           "1": "FOTO DE ARCHIVO (2 de julio de 2025): Senadores durante una sesión deliberativa en el pleno del Senado Federal de Brasil, en Brasilia. No muestra la votación fiscal de noviembre de 2026. Foto: Carlos Moura / Agência Senado; licencia: CC BY 4.0."
         },
+        "video_captions": {
+          "1": "Reportaje oficial de TV Senado del 18 de noviembre de 2026 sobre la votación definitiva del paquete fiscal en el Senado y su envío a la Cámara de Diputados. La reproducción comienza al inicio.",
+          "2": "Entrevista difundida por TV Senado el 19 de noviembre de 2026: Davi Alcolumbre comenta la votación del día 18 y el acuerdo sobre estados y municipios. No corresponde a una nueva votación."
+        },
         "slug": "el-senado-de-brasil-concluye-el-ajuste-fiscal-por-69-votos-a-2-y-lo-envia-a-2026-11-18"
       },
       "photos": [
@@ -772,6 +795,22 @@
           "credit": "Carlos Moura / Agência Senado",
           "source_article": "https://commons.wikimedia.org/wiki/File:Plenário_do_Senado_(54629518238).jpg",
           "caption": "FOTO DE ARQUIVO (02/07/2025): Senadores em sessão deliberativa no plenário do Senado Federal, Brasília. Não retrata a votação do pacote fiscal em novembro de 2026. Foto: Carlos Moura / Agência Senado; licença: CC BY 4.0."
+        }
+      ],
+      "videos": [
+        {
+          "youtube": "https://www.youtube.com/watch?v=1IcYqqIiZyA",
+          "start": 0,
+          "placement": "fatos",
+          "caption": "Reportagem oficial da TV Senado, de 18 de novembro de 2026, sobre a conclusão da votação do ajuste fiscal e o envio da proposta à Câmara. O vídeo começa do início; não mostra uma sessão de outro dia.",
+          "credit": "TV Senado / Senado Federal"
+        },
+        {
+          "youtube": "https://www.youtube.com/watch?v=BX8Pw_QcePs",
+          "start": 0,
+          "placement": "analise",
+          "caption": "Entrevista publicada pela TV Senado em 19 de novembro de 2026: Davi Alcolumbre comenta a votação de 18 de novembro e o acordo sobre estados e municípios. Não é uma nova votação.",
+          "credit": "TV Senado / Senado Federal"
         }
       ],
       "firstSeen": "2026-11-18T19:59:00-03:00"
@@ -1348,6 +1387,9 @@
         "photo_captions": {
           "1": "ARCHIVE PHOTO (April 15, 2026): Brazilian Senate plenary in Brasília. Carlos Moura/Agência Senado, CC BY-SA 4.0. Does not depict the November 17, 2026 session."
         },
+        "video_captions": {
+          "1": "Official TV Senado report dated November 17, 2026, on the postponement of the fiscal-package amendment votes until November 18. This documents the postponement, not the final vote."
+        },
         "slug": "brazil-s-senate-delays-final-fiscal-package-vote-until-wednesday-amid-dispute"
       },
       "es": {
@@ -1360,8 +1402,20 @@
         "photo_captions": {
           "1": "FOTO DE ARCHIVO (15 de abril de 2026): pleno del Senado brasileño en Brasilia. Carlos Moura/Agência Senado, CC BY-SA 4.0. No corresponde a la sesión del 17 de noviembre de 2026."
         },
+        "video_captions": {
+          "1": "Reportaje oficial de TV Senado del 17 de noviembre de 2026 sobre el aplazamiento de la votación de las enmiendas al paquete fiscal hasta el 18 de noviembre. Documenta el aplazamiento, no la votación final."
+        },
         "slug": "el-senado-brasileno-aplaza-hasta-el-miercoles-la-votacion-final-del-ajuste"
       },
+      "videos": [
+        {
+          "youtube": "https://www.youtube.com/watch?v=J_Riuvmj_bg",
+          "start": 0,
+          "placement": "fatos",
+          "caption": "Reportagem oficial da TV Senado de 17 de novembro de 2026 sobre o adiamento da votação dos destaques ao ajuste fiscal para 18 de novembro. É um registro do adiamento, não da votação final.",
+          "credit": "TV Senado / Senado Federal"
+        }
+      ],
       "firstSeen": "2026-11-18T00:01:00-03:00"
     },
     {
@@ -1453,6 +1507,9 @@
         "photo_captions": {
           "1": "ARCHIVE PHOTO (September 17, 2026): Dario Durigan and other officials alongside President Lula at a Planalto Palace announcement. This does not depict the November 2026 Senate hearing on the CBS tax. Photo: Ricardo Stuckert / Presidência da República; license: CC BY-SA 4.0."
         },
+        "video_captions": {
+          "1": "TV Senado's November 17, 2026 report on the debate over the CBS consumption-tax rate, including the 11.3% projection attributed to Brazil's federal audit court. It provides context but does not specifically document Dario Durigan's 8.5% estimate."
+        },
         "slug": "durigan-estimates-8-5-average-cbs-tax-rate-as-senate-debates-11-3-benchmark-2026-11-17"
       },
       "es": {
@@ -1465,6 +1522,9 @@
         "photo_captions": {
           "1": "FOTO DE ARCHIVO (17 de septiembre de 2026): Dario Durigan y otras autoridades junto a Lula en un anuncio en el Palacio del Planalto. No muestra la audiencia del Senado de noviembre de 2026 sobre el tributo CBS. Foto: Ricardo Stuckert / Presidência da República; licencia: CC BY-SA 4.0."
         },
+        "video_captions": {
+          "1": "Reportaje de TV Senado del 17 de noviembre de 2026 sobre el debate de la alícuota del impuesto CBS, incluida la proyección del 11,3% atribuida al Tribunal de Cuentas de la Unión. Aporta contexto, pero no documenta específicamente la estimación del 8,5% de Dario Durigan."
+        },
         "slug": "durigan-estima-una-cbs-media-del-8-5-mientras-el-senado-debate-el-11-3-2026-11-17"
       },
       "photos": [
@@ -1476,6 +1536,15 @@
           "credit": "Ricardo Stuckert / Presidência da República",
           "source_article": "https://commons.wikimedia.org/wiki/File:17.09.26_-_Presidente_Lula_faz_anúncio_de_atualização_monetária_do_Bolsa_Família_(55533741956).jpg",
           "caption": "FOTO DE ARQUIVO (17/09/2026): Dario Durigan e outras autoridades ao lado do presidente Lula em anúncio no Palácio do Planalto. Não retrata a audiência do Senado sobre a CBS de novembro de 2026. Foto: Ricardo Stuckert / Presidência da República; licença: CC BY-SA 4.0."
+        }
+      ],
+      "videos": [
+        {
+          "youtube": "https://www.youtube.com/watch?v=7qEdwq4IX-A",
+          "start": 0,
+          "placement": "contraponto",
+          "caption": "Reportagem da TV Senado de 17 de novembro de 2026 sobre a discussão da alíquota da CBS, inclusive a projeção de 11,3% atribuída ao TCU. Contextualiza o debate, mas não documenta especificamente a estimativa de 8,5% de Dario Durigan.",
+          "credit": "TV Senado / Senado Federal"
         }
       ],
       "firstSeen": "2026-11-17T22:00:00-03:00"
