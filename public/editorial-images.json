@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "comissoes-senado-propoem-859-bilhoes-emendas-orcamento-2027-2026-11-19": "editorial/covers/comissoes-senado-propoem-859-bilhoes-emendas-orcamento-2027-2026-11-19.svg",
     "nasa-confirma-voyager-1-um-dia-luz-terra-2026-11-19": "editorial/covers/nasa-confirma-voyager-1-um-dia-luz-terra-2026-11-19.svg",
     "decreto-13173-regulamenta-escala-5x2-2026-11-19": "editorial/covers/decreto-13173-regulamenta-escala-5x2-2026-11-19.svg",
     "prf-operacao-consciencia-negra-2026-rodovias-federais": "editorial/covers/prf-operacao-consciencia-negra-2026-rodovias-federais.svg",
@@ -471,7 +472,8 @@
     "a-lei-mandou-advertir-o-boleto-nao-leu-2026-11-19": "editorial/photos/a-lei-mandou-advertir-o-boleto-nao-leu-2026-11-19.jpg",
     "o-preco-subiu-mas-o-discurso-esta-em-promocao-2026-11-18": "editorial/photos/o-preco-subiu-mas-o-discurso-esta-em-promocao-2026-11-18.jpg",
     "o-banco-tem-lugar-mas-a-cidade-nao-quer-que-voce-sente-2026-11-14": "editorial/photos/o-banco-tem-lugar-mas-a-cidade-nao-quer-que-voce-sente-2026-11-14.jpg",
-    "a-verdade-nao-e-um-buffet-e-deus-nao-e-um-prato-opcional-2026-11-10": "editorial/photos/a-verdade-nao-e-um-buffet-e-deus-nao-e-um-prato-opcional-2026-11-10.jpg"
+    "a-verdade-nao-e-um-buffet-e-deus-nao-e-um-prato-opcional-2026-11-10": "editorial/photos/a-verdade-nao-e-um-buffet-e-deus-nao-e-um-prato-opcional-2026-11-10.jpg",
+    "comissoes-senado-propoem-859-bilhoes-emendas-orcamento-2027-2026-11-19": "editorial/photos/comissoes-senado-propoem-859-bilhoes-emendas-orcamento-2027-2026-11-19.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -1883,6 +1885,12 @@
       "srcset": "editorial/photos/a-verdade-nao-e-um-buffet-e-deus-nao-e-um-prato-opcional-2026-11-10-320.webp 320w, editorial/photos/a-verdade-nao-e-um-buffet-e-deus-nao-e-um-prato-opcional-2026-11-10-640.webp 640w, editorial/photos/a-verdade-nao-e-um-buffet-e-deus-nao-e-um-prato-opcional-2026-11-10-768.webp 768w",
       "width": 768,
       "height": 1024
+    },
+    "comissoes-senado-propoem-859-bilhoes-emendas-orcamento-2027-2026-11-19": {
+      "src": "editorial/photos/comissoes-senado-propoem-859-bilhoes-emendas-orcamento-2027-2026-11-19-1280.webp",
+      "srcset": "editorial/photos/comissoes-senado-propoem-859-bilhoes-emendas-orcamento-2027-2026-11-19-320.webp 320w, editorial/photos/comissoes-senado-propoem-859-bilhoes-emendas-orcamento-2027-2026-11-19-640.webp 640w, editorial/photos/comissoes-senado-propoem-859-bilhoes-emendas-orcamento-2027-2026-11-19-960.webp 960w, editorial/photos/comissoes-senado-propoem-859-bilhoes-emendas-orcamento-2027-2026-11-19-1280.webp 1280w",
+      "width": 1280,
+      "height": 960
     }
   }
 }

@@ -1,6 +1,57 @@
 {
   "articles": [
     {
+      "id": "comissoes-senado-propoem-859-bilhoes-emendas-orcamento-2027-2026-11-19",
+      "date": "2026-11-19",
+      "category": "ECONOMIA",
+      "title": "COMISSÕES PROPÕEM R$ 85,9 BILHÕES EM EMENDAS PARA 2027; VALOR AINDA NÃO ESTÁ APROVADO",
+      "subtitle": "Dezesseis colegiados apresentaram 96 propostas de apropriação; pedidos para saúde, educação e esporte ainda dependem da Comissão Mista de Orçamento.",
+      "facts": "Em balanço publicado em 19 de novembro de 2026, a Agência Senado informou que 16 comissões do Senado e do Congresso Nacional aprovaram, nos dias 17 e 18, 96 emendas de apropriação ao projeto de Orçamento de 2027, totalizando R$ 85,9 bilhões. Os colegiados também aprovaram sete emendas de remanejamento, que somam R$ 696 milhões. Entre os pedidos de apropriação estão R$ 14,5 bilhões da Comissão de Assuntos Sociais, R$ 12,75 bilhões da Comissão de Esporte e aproximadamente R$ 6,9 bilhões da Comissão de Educação. As propostas seguem para avaliação da Comissão Mista de Orçamento (CMO); ainda não representam despesas autorizadas nem recursos efetivamente pagos.",
+      "analysis": "O número de R$ 85,9 bilhões descreve solicitações de comissões, não um aumento automático de gasto público. Emendas de apropriação indicam uma despesa e sua compensação na reserva ou em outras dotações; as de remanejamento deslocam valores de dotações específicas. Para o leitor, a distinção decisiva é entre pedir, aprovar no orçamento e executar: uma proposta pode ser reduzida, rejeitada ou modificada durante a tramitação. O texto oficial informa ainda que o projeto de Orçamento de 2027, PLN 24/2026, está sob relatoria-geral de Eduardo Braga; a Lei de Diretrizes Orçamentárias, PLN 2/2026, orienta metas e regras fiscais. Na Comissão de Esporte, por exemplo, R$ 50 milhões solicitados para a Universidade Federal do Esporte são uma indicação, não uma obra ou repasse já garantido.",
+      "counterpoint": "A aprovação nas comissões não equivale à aprovação do Orçamento pelo Congresso. O senador Eduardo Gomes informou que não há reserva específica para emendas de comissão e que as condições de atendimento serão definidas no relatório preliminar. O calendário divulgado prevê votação do relatório geral na CMO em 16 de dezembro e apreciação do Orçamento pelo Congresso em 17 de dezembro, mas datas e montantes podem mudar. Os R$ 44,8 bilhões reservados para emendas individuais e de bancadas estaduais, de execução obrigatória, constituem outra rubrica e não devem ser confundidos com os R$ 85,9 bilhões propostos.",
+      "sources": [
+        {
+          "name": "Agência Senado — balanço das emendas, 19/11/2026",
+          "url": "https://www12.senado.leg.br/noticias/materias/2026/11/19/comissoes-propoem-r-85-9-bilhoes-em-emendas-ao-orcamento-de-2027"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Fachada_do_Congresso_Nacional_%2848079594148%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 2.0",
+          "credit": "Leonardo Sá/Agência Senado",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Fachada_do_Congresso_Nacional_(48079594148).jpg",
+          "caption": "FOTO DE ARQUIVO (13/06/2019): fachada do Congresso Nacional, em Brasília. Foto: Leonardo Sá/Agência Senado, CC BY 2.0. Não retrata as reuniões das comissões de 17 e 18 de novembro de 2026."
+        }
+      ],
+      "en": {
+        "category": "ECONOMY",
+        "title": "SENATE COMMITTEES PROPOSE R$85.9 BILLION IN 2027 BUDGET AMENDMENTS, NOT YET APPROVED",
+        "subtitle": "Sixteen committees backed 96 proposed appropriations; requests for healthcare, education and sports still face budget scrutiny.",
+        "facts": "In a report published on November 19, 2026, Brazil's Senate news agency said 16 Senate and congressional committees had approved 96 proposed appropriation amendments on November 17 and 18, totaling R$85.9 billion for the 2027 federal budget. They also endorsed seven reallocation amendments worth R$696 million. Proposals include R$14.5 billion from the Social Affairs Committee, R$12.75 billion from the Sports Committee and roughly R$6.9 billion from the Education Committee. The Joint Budget Committee (CMO) must still review them. These figures do not represent authorized or disbursed spending.",
+        "analysis": "The R$85.9 billion figure measures requests, not an automatic increase in public spending. Appropriation amendments identify spending and an offset in reserves or other budget lines; reallocation amendments transfer funding from specific appropriations. For readers, the distinction is between proposing, authorizing and actually spending money. The 2027 annual budget bill, PLN 24/2026, is overseen by rapporteur Eduardo Braga, while the budget guidelines bill, PLN 2/2026, sets fiscal rules and priorities. For example, the Sports Committee's proposed R$50 million for a Federal University of Sport is a request, not a guaranteed transfer or construction project.",
+        "counterpoint": "Committee endorsement does not mean Congress has passed the budget. Senator Eduardo Gomes said there is no dedicated reserve for committee amendments; the preliminary budget report will determine how they can be accommodated. The announced timetable calls for the Joint Budget Committee's final report on December 16 and a congressional vote on December 17, but dates and amounts may change. A separate R$44.8 billion provision for mandatory individual and state-delegation amendments should not be confused with the R$85.9 billion in committee proposals.",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (June 13, 2019): Brazil's National Congress building in Brasília. Photo: Leonardo Sá/Agência Senado, CC BY 2.0. It does not depict the November 17–18, 2026 committee meetings."
+        },
+        "slug": "senate-committees-propose-r-85-9-billion-in-2027-budget-amendments-not-yet-2026-11-19"
+      },
+      "es": {
+        "category": "ECONOMÍA",
+        "title": "COMISIONES PROPONEN R$ 85.900 MILLONES EN ENMIENDAS AL PRESUPUESTO DE 2027, AÚN SIN APROBACIÓN FINAL",
+        "subtitle": "Dieciséis comisiones respaldaron 96 propuestas de asignación; las solicitudes para salud, educación y deporte aún deben pasar por la comisión presupuestaria.",
+        "facts": "En un informe publicado el 19 de noviembre de 2026, la Agencia Senado indicó que 16 comisiones del Senado y del Congreso de Brasil aprobaron los días 17 y 18 un total de 96 enmiendas de asignación al proyecto de Presupuesto de 2027, por R$ 85.900 millones. También aprobaron siete enmiendas de reasignación por R$ 696 millones. Entre las propuestas figuran R$ 14.500 millones de la Comisión de Asuntos Sociales, R$ 12.750 millones de la Comisión de Deporte y unos R$ 6.900 millones de la Comisión de Educación. Las solicitudes pasarán a la Comisión Mixta de Presupuesto (CMO) y todavía no equivalen a gastos autorizados o desembolsados.",
+        "analysis": "La cifra de R$ 85.900 millones corresponde a solicitudes, no a un aumento automático del gasto. Las enmiendas de asignación identifican nuevos gastos y su compensación en reservas u otras partidas; las de reasignación trasladan recursos entre partidas específicas. Conviene distinguir entre proponer, aprobar y ejecutar el presupuesto. El proyecto de Ley Presupuestaria Anual de 2027, PLN 24/2026, tiene como relator general a Eduardo Braga, mientras que el proyecto de directrices presupuestarias, PLN 2/2026, establece reglas y prioridades fiscales. Por ejemplo, los R$ 50 millones solicitados para una Universidad Federal del Deporte no son todavía una transferencia ni una obra garantizada.",
+        "counterpoint": "La aprobación en las comisiones no significa que el Congreso haya aprobado el presupuesto. El senador Eduardo Gomes señaló que no existe una reserva específica para las enmiendas de comisión; el informe preliminar determinará las condiciones de admisión. El calendario anunciado prevé votar el informe final en la CMO el 16 de diciembre y el presupuesto en el Congreso el 17 de diciembre, aunque las fechas y las cifras pueden cambiar. La reserva separada de R$ 44.800 millones para enmiendas individuales y de bancadas estatales obligatorias no debe confundirse con las propuestas de R$ 85.900 millones.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (13 de junio de 2019): fachada del Congreso Nacional de Brasil, en Brasilia. Foto: Leonardo Sá/Agência Senado, CC BY 2.0. No muestra las reuniones de las comisiones del 17 y 18 de noviembre de 2026."
+        },
+        "slug": "comisiones-proponen-r-85-900-millones-en-enmiendas-al-presupuesto-de-2027-aun-2026-11-19"
+      }
+    },
+    {
       "id": "nasa-confirma-voyager-1-um-dia-luz-terra-2026-11-19",
       "date": "2026-11-19",
       "category": "CIÊNCIA",
