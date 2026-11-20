@@ -462,7 +462,15 @@
     "eua-atacam-base-misseis-ira-ilha-qeshm-2026-11-17": "editorial/photos/eua-atacam-base-misseis-ira-ilha-qeshm-2026-11-17.jpg",
     "durigan-cbs-85-por-cento-reforma-tributaria-senado-2026-11-17": "editorial/photos/durigan-cbs-85-por-cento-reforma-tributaria-senado-2026-11-17.jpg",
     "anglo-american-alerta-fechamento-minas-niquel-goias-ue-2026-11-17": "editorial/photos/anglo-american-alerta-fechamento-minas-niquel-goias-ue-2026-11-17.jpg",
-    "ira-drones-bahrein-base-sheikh-isa-interceptacao-2026-11-17": "editorial/photos/ira-drones-bahrein-base-sheikh-isa-interceptacao-2026-11-17.jpg"
+    "ira-drones-bahrein-base-sheikh-isa-interceptacao-2026-11-17": "editorial/photos/ira-drones-bahrein-base-sheikh-isa-interceptacao-2026-11-17.jpg",
+    "fernando-alonso-aston-martin-dakar-2027-anuncio-2026-11-17": "editorial/photos/fernando-alonso-aston-martin-dakar-2027-anuncio-2026-11-17.jpg",
+    "bolsa-familia-novembro-calendario-unificado-2026-11-16": "editorial/photos/bolsa-familia-novembro-calendario-unificado-2026-11-16.jpg",
+    "canarias-recorde-1488-migrantes-resgatados-2026-11-14": "editorial/photos/canarias-recorde-1488-migrantes-resgatados-2026-11-14.jpg",
+    "bahrein-emite-alertas-ameaca-ira-alega-ataque-base-eua-2026-11-15": "editorial/photos/bahrein-emite-alertas-ameaca-ira-alega-ataque-base-eua-2026-11-15.jpg",
+    "a-lei-mandou-advertir-o-boleto-nao-leu-2026-11-19": "editorial/photos/a-lei-mandou-advertir-o-boleto-nao-leu-2026-11-19.jpg",
+    "o-preco-subiu-mas-o-discurso-esta-em-promocao-2026-11-18": "editorial/photos/o-preco-subiu-mas-o-discurso-esta-em-promocao-2026-11-18.jpg",
+    "o-banco-tem-lugar-mas-a-cidade-nao-quer-que-voce-sente-2026-11-14": "editorial/photos/o-banco-tem-lugar-mas-a-cidade-nao-quer-que-voce-sente-2026-11-14.jpg",
+    "a-verdade-nao-e-um-buffet-e-deus-nao-e-um-prato-opcional-2026-11-10": "editorial/photos/a-verdade-nao-e-um-buffet-e-deus-nao-e-um-prato-opcional-2026-11-10.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -1826,6 +1834,54 @@
       "srcset": "editorial/photos/ira-drones-bahrein-base-sheikh-isa-interceptacao-2026-11-17-320.webp 320w, editorial/photos/ira-drones-bahrein-base-sheikh-isa-interceptacao-2026-11-17-640.webp 640w, editorial/photos/ira-drones-bahrein-base-sheikh-isa-interceptacao-2026-11-17-960.webp 960w, editorial/photos/ira-drones-bahrein-base-sheikh-isa-interceptacao-2026-11-17-1280.webp 1280w",
       "width": 1280,
       "height": 853
+    },
+    "fernando-alonso-aston-martin-dakar-2027-anuncio-2026-11-17": {
+      "src": "editorial/photos/fernando-alonso-aston-martin-dakar-2027-anuncio-2026-11-17-729.webp",
+      "srcset": "editorial/photos/fernando-alonso-aston-martin-dakar-2027-anuncio-2026-11-17-320.webp 320w, editorial/photos/fernando-alonso-aston-martin-dakar-2027-anuncio-2026-11-17-640.webp 640w, editorial/photos/fernando-alonso-aston-martin-dakar-2027-anuncio-2026-11-17-729.webp 729w",
+      "width": 729,
+      "height": 1012
+    },
+    "bolsa-familia-novembro-calendario-unificado-2026-11-16": {
+      "src": "editorial/photos/bolsa-familia-novembro-calendario-unificado-2026-11-16-1280.webp",
+      "srcset": "editorial/photos/bolsa-familia-novembro-calendario-unificado-2026-11-16-320.webp 320w, editorial/photos/bolsa-familia-novembro-calendario-unificado-2026-11-16-640.webp 640w, editorial/photos/bolsa-familia-novembro-calendario-unificado-2026-11-16-960.webp 960w, editorial/photos/bolsa-familia-novembro-calendario-unificado-2026-11-16-1280.webp 1280w",
+      "width": 1280,
+      "height": 853
+    },
+    "canarias-recorde-1488-migrantes-resgatados-2026-11-14": {
+      "src": "editorial/photos/canarias-recorde-1488-migrantes-resgatados-2026-11-14-1280.webp",
+      "srcset": "editorial/photos/canarias-recorde-1488-migrantes-resgatados-2026-11-14-320.webp 320w, editorial/photos/canarias-recorde-1488-migrantes-resgatados-2026-11-14-640.webp 640w, editorial/photos/canarias-recorde-1488-migrantes-resgatados-2026-11-14-960.webp 960w, editorial/photos/canarias-recorde-1488-migrantes-resgatados-2026-11-14-1280.webp 1280w",
+      "width": 1280,
+      "height": 853
+    },
+    "bahrein-emite-alertas-ameaca-ira-alega-ataque-base-eua-2026-11-15": {
+      "src": "editorial/photos/bahrein-emite-alertas-ameaca-ira-alega-ataque-base-eua-2026-11-15-1280.webp",
+      "srcset": "editorial/photos/bahrein-emite-alertas-ameaca-ira-alega-ataque-base-eua-2026-11-15-320.webp 320w, editorial/photos/bahrein-emite-alertas-ameaca-ira-alega-ataque-base-eua-2026-11-15-640.webp 640w, editorial/photos/bahrein-emite-alertas-ameaca-ira-alega-ataque-base-eua-2026-11-15-960.webp 960w, editorial/photos/bahrein-emite-alertas-ameaca-ira-alega-ataque-base-eua-2026-11-15-1280.webp 1280w",
+      "width": 1280,
+      "height": 960
+    },
+    "a-lei-mandou-advertir-o-boleto-nao-leu-2026-11-19": {
+      "src": "editorial/photos/a-lei-mandou-advertir-o-boleto-nao-leu-2026-11-19-1280.webp",
+      "srcset": "editorial/photos/a-lei-mandou-advertir-o-boleto-nao-leu-2026-11-19-320.webp 320w, editorial/photos/a-lei-mandou-advertir-o-boleto-nao-leu-2026-11-19-640.webp 640w, editorial/photos/a-lei-mandou-advertir-o-boleto-nao-leu-2026-11-19-960.webp 960w, editorial/photos/a-lei-mandou-advertir-o-boleto-nao-leu-2026-11-19-1280.webp 1280w",
+      "width": 1280,
+      "height": 720
+    },
+    "o-preco-subiu-mas-o-discurso-esta-em-promocao-2026-11-18": {
+      "src": "editorial/photos/o-preco-subiu-mas-o-discurso-esta-em-promocao-2026-11-18-1280.webp",
+      "srcset": "editorial/photos/o-preco-subiu-mas-o-discurso-esta-em-promocao-2026-11-18-320.webp 320w, editorial/photos/o-preco-subiu-mas-o-discurso-esta-em-promocao-2026-11-18-640.webp 640w, editorial/photos/o-preco-subiu-mas-o-discurso-esta-em-promocao-2026-11-18-960.webp 960w, editorial/photos/o-preco-subiu-mas-o-discurso-esta-em-promocao-2026-11-18-1280.webp 1280w",
+      "width": 1280,
+      "height": 1707
+    },
+    "o-banco-tem-lugar-mas-a-cidade-nao-quer-que-voce-sente-2026-11-14": {
+      "src": "editorial/photos/o-banco-tem-lugar-mas-a-cidade-nao-quer-que-voce-sente-2026-11-14-960.webp",
+      "srcset": "editorial/photos/o-banco-tem-lugar-mas-a-cidade-nao-quer-que-voce-sente-2026-11-14-320.webp 320w, editorial/photos/o-banco-tem-lugar-mas-a-cidade-nao-quer-que-voce-sente-2026-11-14-640.webp 640w, editorial/photos/o-banco-tem-lugar-mas-a-cidade-nao-quer-que-voce-sente-2026-11-14-960.webp 960w",
+      "width": 960,
+      "height": 1280
+    },
+    "a-verdade-nao-e-um-buffet-e-deus-nao-e-um-prato-opcional-2026-11-10": {
+      "src": "editorial/photos/a-verdade-nao-e-um-buffet-e-deus-nao-e-um-prato-opcional-2026-11-10-768.webp",
+      "srcset": "editorial/photos/a-verdade-nao-e-um-buffet-e-deus-nao-e-um-prato-opcional-2026-11-10-320.webp 320w, editorial/photos/a-verdade-nao-e-um-buffet-e-deus-nao-e-um-prato-opcional-2026-11-10-640.webp 640w, editorial/photos/a-verdade-nao-e-um-buffet-e-deus-nao-e-um-prato-opcional-2026-11-10-768.webp 768w",
+      "width": 768,
+      "height": 1024
     }
   }
 }
