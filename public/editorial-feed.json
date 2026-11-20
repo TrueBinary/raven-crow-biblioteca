@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "fachin-retira-sigilo-relatorio-mendonca-master-2026-11-20",
+      "date": "2026-11-20",
+      "title": "FACHIN RETIRA SIGILO DE RELATÓRIO SOBRE MENDONÇA NO CASO MASTER A PEDIDO DO MINISTRO",
+      "subtitle": "Documento da PF registra referências ao magistrado em conversas de terceiros; menção não equivale a acusação",
+      "category": "JUSTIÇA",
+      "facts": "Em 20 de novembro de 2026, o presidente do Supremo Tribunal Federal (STF), Edson Fachin, determinou a retirada do sigilo do relatório da Polícia Federal (PF) com referências ao ministro André Mendonça no caso Banco Master. A decisão atendeu a pedido do próprio Mendonça, que renunciou à confidencialidade e solicitou publicidade dos documentos. O material foi elaborado a partir de mensagens apreendidas de Daniel Vorcaro, ligado ao banco. Reportagens publicadas nesta sexta-feira informam que a PF identificou 11 diálogos com menções ao ministro, feitos por terceiros, sem troca direta de mensagens entre Mendonça e Vorcaro.",
+      "analysis": "O levantamento foi solicitado para contextualizar referências a integrantes do STF nas provas reunidas na investigação. Fachin enviou quatro relatórios à Procuradoria-Geral da República (PGR) e arquivou outros seis, segundo a cobertura do caso. A abertura do sigilo sobre Mendonça permite escrutínio público do conteúdo específico, mas não significa que o documento tenha concluído pela prática de crime ou infração disciplinar. A PGR ainda deverá avaliar eventuais providências. A distinção entre ser citado em conversas alheias, ter contato direto e ser formalmente investigado é fundamental para interpretar os documentos.",
+      "counterpoint": "As referências em mensagens de terceiros não constituem, por si, prova de participação em irregularidades. As informações sobre o conteúdo foram relatadas pela imprensa; a leitura integral dos autos liberados e eventuais conclusões da PGR podem acrescentar contexto. A retirada de sigilo relativa a Mendonça não torna automaticamente públicos os documentos sobre os demais ministros.",
+      "sources": [
+        {
+          "name": "Congresso em Foco — 20/11/2026",
+          "url": "https://www.congressoemfoco.com.br/noticia/131757/fachin-autoriza-retirada-de-sigilo-de-andre-mendonca-no-caso-master"
+        },
+        {
+          "name": "Exame — 20/11/2026",
+          "url": "https://exame.com/brasil/caso-master-fachin-retira-sigilo-de-relatorio-da-pf-sobre-andre-mendonca/"
+        },
+        {
+          "name": "Folha de S.Paulo — 20/11/2026",
+          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/pf-diz-em-relatorio-a-fachin-que-mendonca-nunca-falou-com-vorcaro-foi-apenas-citado-em-11-dialogos.shtml"
+        }
+      ],
+      "en": {
+        "title": "Brazil's top court chief lifts secrecy on report mentioning Justice André Mendonça",
+        "subtitle": "The police report cites third-party conversations; a mention is not an allegation of wrongdoing",
+        "category": "JUSTICE",
+        "facts": "On November 20, 2026, Edson Fachin, president of Brazil's Supreme Federal Court (STF), ordered the release of a Federal Police (PF) report mentioning Justice André Mendonça in the Banco Master investigation. Mendonça himself requested disclosure and waived confidentiality. The report draws on messages recovered from Daniel Vorcaro, associated with the bank. News reports on Friday said police found 11 conversations in which third parties mentioned Mendonça, but no direct messages between him and Vorcaro.",
+        "analysis": "The police review sought to put references to STF justices in their proper context. According to reporting, Fachin forwarded four reports to the Prosecutor General's Office (PGR) and closed six others. Making the Mendonça report public enables scrutiny of the references, but does not mean investigators concluded that he committed a crime or disciplinary violation. Prosecutors must still assess any next steps. Being mentioned by others, communicating directly with a person under scrutiny and being formally investigated are different things.",
+        "counterpoint": "References in third-party messages do not, on their own, prove misconduct. The descriptions of the report come from news coverage; the full disclosed records and any subsequent prosecutorial findings may add context. Disclosure concerning Mendonça does not automatically release the reports concerning other justices.",
+        "slug": "brazil-s-top-court-chief-lifts-secrecy-on-report-mentioning-justice-andre-2026-11-20"
+      },
+      "es": {
+        "title": "Fachin levanta el secreto de un informe sobre André Mendonça en el caso Banco Master",
+        "subtitle": "El documento policial recoge menciones de terceros, que no equivalen a acusaciones",
+        "category": "JUSTICIA",
+        "facts": "El 20 de noviembre de 2026, Edson Fachin, presidente del Supremo Tribunal Federal de Brasil (STF), ordenó levantar el secreto de un informe de la Policía Federal (PF) con referencias al magistrado André Mendonça en la investigación del Banco Master. La decisión respondió a una solicitud del propio Mendonça, que renunció a la confidencialidad. El informe se basa en mensajes recuperados de Daniel Vorcaro, vinculado al banco. Según informaciones publicadas el viernes, la policía identificó 11 conversaciones en las que terceros mencionaban al magistrado, pero ningún intercambio directo de mensajes entre Mendonça y Vorcaro.",
+        "analysis": "La revisión policial buscaba contextualizar las menciones a magistrados del STF en las pruebas del caso. Según la prensa, Fachin remitió cuatro informes a la Procuraduría General de la República (PGR) y archivó otros seis. La publicación del documento permite examinar las referencias, pero no implica una conclusión de delito o infracción disciplinaria. La fiscalía todavía debe evaluar posibles medidas. Ser mencionado por terceros, mantener contacto directo y estar formalmente investigado son situaciones distintas.",
+        "counterpoint": "Las menciones en conversaciones ajenas no prueban por sí solas una irregularidad. La información sobre el contenido procede de reportajes; el acceso íntegro a los documentos y futuras decisiones de la fiscalía podrían aportar contexto. El levantamiento del secreto sobre Mendonça no hace públicos automáticamente los informes sobre otros magistrados.",
+        "slug": "fachin-levanta-el-secreto-de-un-informe-sobre-andre-mendonca-en-el-caso-banco-2026-11-20"
+      },
+      "firstSeen": "2026-11-20T10:57:00-03:00"
+    },
+    {
       "id": "levantamento-arayara-894-por-cento-eolicas-alertas-2026-11-20",
       "date": "2026-11-20",
       "title": "LEVANTAMENTO APONTA ALERTAS SOCIOAMBIENTAIS EM 89,4% DOS PARQUES EÓLICOS MAPEADOS",
