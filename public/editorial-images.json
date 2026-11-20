@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "casa-branca-substitui-diretor-ciberseguranca-apos-apagoes-2026-11-20": "editorial/covers/casa-branca-substitui-diretor-ciberseguranca-apos-apagoes-2026-11-20.svg",
     "coalizao-saudita-ataca-porto-hodeida-iemen-2026-11-20": "editorial/covers/coalizao-saudita-ataca-porto-hodeida-iemen-2026-11-20.svg",
     "fachin-retira-sigilo-relatorio-mendonca-master-2026-11-20": "editorial/covers/fachin-retira-sigilo-relatorio-mendonca-master-2026-11-20.svg",
     "levantamento-arayara-894-por-cento-eolicas-alertas-2026-11-20": "editorial/covers/levantamento-arayara-894-por-cento-eolicas-alertas-2026-11-20.svg",
@@ -485,7 +486,8 @@
     "ataques-russos-atingem-tres-pontes-kiev-2026-11-20": "editorial/photos/ataques-russos-atingem-tres-pontes-kiev-2026-11-20.jpg",
     "haiti-policia-operacao-martissant-34-suspeitos-mortos-2026-11-19": "editorial/photos/haiti-policia-operacao-martissant-34-suspeitos-mortos-2026-11-19.jpg",
     "nasa-confirma-voyager-1-um-dia-luz-terra-2026-11-19": "editorial/photos/nasa-confirma-voyager-1-um-dia-luz-terra-2026-11-19.jpg",
-    "decreto-13173-regulamenta-escala-5x2-2026-11-19": "editorial/photos/decreto-13173-regulamenta-escala-5x2-2026-11-19.jpg"
+    "decreto-13173-regulamenta-escala-5x2-2026-11-19": "editorial/photos/decreto-13173-regulamenta-escala-5x2-2026-11-19.jpg",
+    "casa-branca-substitui-diretor-ciberseguranca-apos-apagoes-2026-11-20": "editorial/photos/casa-branca-substitui-diretor-ciberseguranca-apos-apagoes-2026-11-20.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -1945,6 +1947,12 @@
       "srcset": "editorial/photos/decreto-13173-regulamenta-escala-5x2-2026-11-19-320.webp 320w, editorial/photos/decreto-13173-regulamenta-escala-5x2-2026-11-19-640.webp 640w, editorial/photos/decreto-13173-regulamenta-escala-5x2-2026-11-19-768.webp 768w",
       "width": 768,
       "height": 512
+    },
+    "casa-branca-substitui-diretor-ciberseguranca-apos-apagoes-2026-11-20": {
+      "src": "editorial/photos/casa-branca-substitui-diretor-ciberseguranca-apos-apagoes-2026-11-20-1280.webp",
+      "srcset": "editorial/photos/casa-branca-substitui-diretor-ciberseguranca-apos-apagoes-2026-11-20-320.webp 320w, editorial/photos/casa-branca-substitui-diretor-ciberseguranca-apos-apagoes-2026-11-20-640.webp 640w, editorial/photos/casa-branca-substitui-diretor-ciberseguranca-apos-apagoes-2026-11-20-960.webp 960w, editorial/photos/casa-branca-substitui-diretor-ciberseguranca-apos-apagoes-2026-11-20-1280.webp 1280w",
+      "width": 1280,
+      "height": 1600
     }
   }
 }

@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "casa-branca-substitui-diretor-ciberseguranca-apos-apagoes-2026-11-20",
+      "date": "2026-11-20",
+      "title": "CASA BRANCA SUBSTITUI DIRETOR DE CIBERSEGURANÇA APÓS SÉRIE DE APAGÕES TECNOLÓGICOS",
+      "subtitle": "Sean Cairncross deixa cargo de coordenação federal; Kirsten Davies assume interinamente em meio a questionamentos sobre falhas em serviços críticos.",
+      "category": "TECNOLOGIA",
+      "facts": "A Casa Branca confirmou em 19 de novembro de 2026 a saída de Sean Cairncross do posto de diretor nacional de cibersegurança dos Estados Unidos. Kirsten Davies, responsável pela área de tecnologia da informação no Departamento de Defesa, foi designada para a função interina. A mudança ocorre após interrupções em serviços da Microsoft, operações aéreas, bancos e sistemas da Agência de Segurança Nacional (NSA). Segundo a Reuters, uma fonte próxima à Casa Branca afirmou que o presidente Donald Trump apoiou a demissão. A Associated Press confirmou a nomeação de Davies.",
+      "analysis": "O diretor nacional de cibersegurança coordena políticas e prioridades entre órgãos federais, mas não opera diretamente os sistemas de companhias aéreas, bancos ou fornecedores privados. Portanto, a proximidade temporal entre os apagões e a substituição não demonstra que a gestão de Cairncross causou as falhas. O episódio evidencia a dificuldade de coordenar infraestrutura digital distribuída entre governo e empresas, sobretudo quando atualizações técnicas podem provocar interrupções em cadeia. Uma nomeação permanente dependerá de confirmação pelo Senado.",
+      "counterpoint": "Autoridades americanas disseram não haver evidência de ataque coordenado ou patrocinado por outro Estado e atribuíram os episódios a problemas técnicos e de manutenção. As causas específicas de cada interrupção ainda exigem apuração independente. A decisão de trocar o responsável pela política nacional de cibersegurança não equivale à identificação de uma causa única para os apagões.",
+      "sources": [
+        {
+          "name": "Associated Press — White House taps Kirsten Davies",
+          "url": "https://apnews.com/article/2f1f84f3ca5429d01ace67929c72128d"
+        },
+        {
+          "name": "Reuters — Trump ousts cyber director",
+          "url": "https://www.reuters.com/world/us/white-house-national-cyber-director-cairncross-leaving-his-post-axios-reports-2026-11-19/"
+        },
+        {
+          "name": "Wikimedia Commons — Retrato oficial de Kirsten Davies",
+          "url": "https://commons.wikimedia.org/wiki/File:Chief_Information_Officer_of_the_Department_of_War_Kirsten_A._Davies.jpg"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Chief_Information_Officer_of_the_Department_of_War_Kirsten_A._Davies.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público nos Estados Unidos — obra oficial do Departamento de Defesa dos EUA",
+          "credit": "Rey Ramon / Exército dos Estados Unidos",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Chief_Information_Officer_of_the_Department_of_War_Kirsten_A._Davies.jpg",
+          "caption": "FOTO DE ARQUIVO (9 de fevereiro de 2026): Kirsten Davies em retrato oficial no Pentágono, Arlington, Virgínia. Rey Ramon/Exército dos EUA, domínio público nos EUA. Não retrata a substituição anunciada em novembro."
+        }
+      ],
+      "en": {
+        "title": "WHITE HOUSE REPLACES CYBER DIRECTOR AFTER WIDESPREAD TECHNOLOGY OUTAGES",
+        "subtitle": "Sean Cairncross leaves the federal cybersecurity coordination role as Kirsten Davies takes over on an interim basis.",
+        "facts": "On November 19, 2026, the White House confirmed that Sean Cairncross was leaving his position as US national cyber director. Kirsten Davies, the Defense Department's chief information officer, was named acting director. The move followed outages affecting Microsoft services, air travel, banks and National Security Agency (NSA) systems. Reuters reported that a source close to the White House said President Donald Trump supported Cairncross's dismissal. The Associated Press confirmed Davies's appointment.",
+        "analysis": "The national cyber director coordinates federal cybersecurity policy but does not directly operate airline, banking or private technology networks. The timing of the personnel change does not establish that Cairncross caused the outages. The disruptions underscore the challenge of coordinating digital infrastructure across public and private organizations. A permanent successor requires Senate confirmation.",
+        "counterpoint": "US officials said there was no evidence of a coordinated or state-sponsored cyberattack, attributing the incidents to separate technical and maintenance issues. The precise causes of individual failures still warrant independent scrutiny; the personnel change does not establish a single common cause.",
+        "category": "TECHNOLOGY",
+        "photo_captions": {
+          "1": "FILE PHOTO (February 9, 2026): Kirsten Davies in an official portrait at the Pentagon in Arlington, Virginia. Rey Ramon/US Army, public domain in the United States. Does not depict the November appointment."
+        },
+        "slug": "white-house-replaces-cyber-director-after-widespread-technology-outages-2026-11-20"
+      },
+      "es": {
+        "title": "LA CASA BLANCA SUSTITUYE AL DIRECTOR DE CIBERSEGURIDAD TRAS UNA OLA DE FALLOS TECNOLÓGICOS",
+        "subtitle": "Sean Cairncross deja la coordinación federal y Kirsten Davies asume provisionalmente tras interrupciones en servicios esenciales.",
+        "facts": "El 19 de noviembre de 2026, la Casa Blanca confirmó la salida de Sean Cairncross del cargo de director nacional de ciberseguridad de Estados Unidos. Kirsten Davies, responsable de tecnología de la información del Departamento de Defensa, fue designada directora interina. El cambio se produjo tras interrupciones en servicios de Microsoft, el transporte aéreo, bancos y sistemas de la Agencia de Seguridad Nacional (NSA). Reuters informó que una fuente próxima a la Casa Blanca dijo que Donald Trump apoyó el despido. Associated Press confirmó el nombramiento de Davies.",
+        "analysis": "El director nacional coordina las políticas federales de ciberseguridad, pero no administra directamente los sistemas de aerolíneas, bancos o empresas tecnológicas. La coincidencia temporal no demuestra que Cairncross causara las fallas. El episodio refleja los desafíos de coordinar infraestructuras digitales públicas y privadas. Un sucesor permanente deberá ser confirmado por el Senado.",
+        "counterpoint": "Las autoridades estadounidenses afirmaron que no existen pruebas de un ciberataque coordinado o patrocinado por otro Estado y atribuyeron los incidentes a problemas técnicos y de mantenimiento independientes. Las causas concretas todavía requieren examen; el relevo no demuestra una causa común.",
+        "category": "TECNOLOGÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (9 de febrero de 2026): Kirsten Davies en un retrato oficial en el Pentágono, Arlington, Virginia. Rey Ramon/Ejército de EE. UU., dominio público en Estados Unidos. No muestra el nombramiento de noviembre."
+        },
+        "slug": "la-casa-blanca-sustituye-al-director-de-ciberseguridad-tras-una-ola-de-fallos-2026-11-20"
+      },
+      "firstSeen": "2026-11-20T14:56:00-03:00"
+    },
+    {
       "id": "coalizao-saudita-ataca-porto-hodeida-iemen-2026-11-20",
       "date": "2026-11-20",
       "title": "COALIZÃO SAUDITA ATACA PORTO DE HODEIDA NO IÊMEN; HOUTHIS AMEAÇAM RETALIAÇÃO",
