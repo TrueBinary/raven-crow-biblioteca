@@ -34,7 +34,10 @@
         "category": "JUSTICE",
         "facts": "On November 20, 2026, Edson Fachin, president of Brazil's Supreme Federal Court (STF), ordered the release of a Federal Police (PF) report mentioning Justice André Mendonça in the Banco Master investigation. Mendonça himself requested disclosure and waived confidentiality. The report draws on messages recovered from Daniel Vorcaro, associated with the bank. News reports on Friday said police found 11 conversations in which third parties mentioned Mendonça, but no direct messages between him and Vorcaro.",
         "analysis": "The police review sought to put references to STF justices in their proper context. According to reporting, Fachin forwarded four reports to the Prosecutor General's Office (PGR) and closed six others. Making the Mendonça report public enables scrutiny of the references, but does not mean investigators concluded that he committed a crime or disciplinary violation. Prosecutors must still assess any next steps. Being mentioned by others, communicating directly with a person under scrutiny and being formally investigated are different things.",
-        "counterpoint": "References in third-party messages do not, on their own, prove misconduct. The descriptions of the report come from news coverage; the full disclosed records and any subsequent prosecutorial findings may add context. Disclosure concerning Mendonça does not automatically release the reports concerning other justices."
+        "counterpoint": "References in third-party messages do not, on their own, prove misconduct. The descriptions of the report come from news coverage; the full disclosed records and any subsequent prosecutorial findings may add context. Disclosure concerning Mendonça does not automatically release the reports concerning other justices.",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (October 13, 2026): Justice Edson Fachin meets Federal Police Director-General Andrei Rodrigues in Brasília. Photo: Gustavo Moreno/STF via Federal Police, institutional CC BY-ND 3.0. This does not depict the November 20, 2026 decision on the confidentiality of the report involving André Mendonça."
+        }
       },
       "es": {
         "title": "Fachin levanta el secreto de un informe sobre André Mendonça en el caso Banco Master",
@@ -42,8 +45,22 @@
         "category": "JUSTICIA",
         "facts": "El 20 de noviembre de 2026, Edson Fachin, presidente del Supremo Tribunal Federal de Brasil (STF), ordenó levantar el secreto de un informe de la Policía Federal (PF) con referencias al magistrado André Mendonça en la investigación del Banco Master. La decisión respondió a una solicitud del propio Mendonça, que renunció a la confidencialidad. El informe se basa en mensajes recuperados de Daniel Vorcaro, vinculado al banco. Según informaciones publicadas el viernes, la policía identificó 11 conversaciones en las que terceros mencionaban al magistrado, pero ningún intercambio directo de mensajes entre Mendonça y Vorcaro.",
         "analysis": "La revisión policial buscaba contextualizar las menciones a magistrados del STF en las pruebas del caso. Según la prensa, Fachin remitió cuatro informes a la Procuraduría General de la República (PGR) y archivó otros seis. La publicación del documento permite examinar las referencias, pero no implica una conclusión de delito o infracción disciplinaria. La fiscalía todavía debe evaluar posibles medidas. Ser mencionado por terceros, mantener contacto directo y estar formalmente investigado son situaciones distintas.",
-        "counterpoint": "Las menciones en conversaciones ajenas no prueban por sí solas una irregularidad. La información sobre el contenido procede de reportajes; el acceso íntegro a los documentos y futuras decisiones de la fiscalía podrían aportar contexto. El levantamiento del secreto sobre Mendonça no hace públicos automáticamente los informes sobre otros magistrados."
-      }
+        "counterpoint": "Las menciones en conversaciones ajenas no prueban por sí solas una irregularidad. La información sobre el contenido procede de reportajes; el acceso íntegro a los documentos y futuras decisiones de la fiscalía podrían aportar contexto. El levantamiento del secreto sobre Mendonça no hace públicos automáticamente los informes sobre otros magistrados.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (13 de octubre de 2026): Edson Fachin recibe a Andrei Rodrigues, director de la Policía Federal, en Brasilia. Foto: Gustavo Moreno/STF, vía Policía Federal; licencia institucional CC BY-ND 3.0. No muestra la decisión sobre el secreto del informe relacionado con André Mendonça del 20 de noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/10/nota-a-imprensa-2/audiencia_pf.jpg/@@images/1f9d42b6-6c63-4e42-91ef-3a3cc6c0d2fc.jpeg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada — portal gov.br",
+          "credit": "Gustavo Moreno / STF, via Polícia Federal",
+          "source_article": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/10/nota-a-imprensa-2/",
+          "caption": "FOTO DE ARQUIVO (13/10/2026): Edson Fachin recebe Andrei Rodrigues, diretor-geral da Polícia Federal, em Brasília. Foto: Gustavo Moreno/STF, via Polícia Federal; licença institucional CC BY-ND 3.0. Não retrata a decisão sobre o sigilo do relatório envolvendo André Mendonça em 20/11/2026."
+        }
+      ]
     },
     {
       "id": "levantamento-arayara-894-por-cento-eolicas-alertas-2026-11-20",
@@ -70,7 +87,10 @@
         "category": "ENVIRONMENT",
         "facts": "A survey by the International Arayara Institute, released on November 19, 2026 at COP31 in Antalya, Turkey, mapped 1,748 onshore wind projects across 13 Brazilian states, including operating plants and projects under construction or planning. According to the Farol das Eólicas platform, 89.4% have at least one environmental or social sensitivity factor. The survey placed 645 projects in the red category (36.9%), 917 in yellow (52.5%), and 186 in green (10.6%). Agência Brasil reported the findings on November 20.",
         "analysis": "An alert is not the same as verified harm. The tool overlays project locations with traditional communities' territories, conservation areas, biodiversity sites and nearby homes, using 13 criteria. The results may help prioritize licensing reviews and site selection, but do not quantify actual harm or replace project-specific environmental assessments. Of the 1,748 projects surveyed, 1,175 are operating, so the overall percentage does not describe operating facilities alone. The institute also identified at least one home within 400 meters of 64.5% of the sites.",
-        "counterpoint": "The sensitivity scores do not prove that 89.4% of wind farms caused damage or breached permits. The institute itself says its platform cannot replace environmental impact studies. The cited report does not provide responses from individual operators. These are findings from a civil-society survey, not conclusive enforcement findings."
+        "counterpoint": "The sensitivity scores do not prove that 89.4% of wind farms caused damage or breached permits. The institute itself says its platform cannot replace environmental impact studies. The cited report does not provide responses from individual operators. These are findings from a civil-society survey, not conclusive enforcement findings.",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (February 8, 2019): wind turbines at Arizona I Wind Farm in Rio do Fogo, Rio Grande do Norte, Brazil. Marcos Elias de Oliveira Júnior/Wikimedia Commons, CC0 1.0. For context only: this image neither substantiates environmental alerts nor identifies facilities in the November 2026 study."
+        }
       },
       "es": {
         "title": "Estudio identifica alertas socioambientales en el 89,4% de los parques eólicos brasileños analizados",
@@ -78,8 +98,22 @@
         "category": "MEDIO AMBIENTE",
         "facts": "Un estudio del Instituto Internacional Arayara, presentado el 19 de noviembre de 2026 durante la COP31 en Antalya, Turquía, analizó 1.748 proyectos eólicos terrestres de 13 estados brasileños, entre instalaciones operativas y proyectos en construcción o planificación. Según la plataforma Farol das Eólicas, el 89,4% presenta al menos un factor de sensibilidad socioambiental. Se clasificaron 645 proyectos en rojo (36,9%), 917 en amarillo (52,5%) y 186 en verde (10,6%). Agência Brasil publicó los datos el 20 de noviembre.",
         "analysis": "Una alerta no equivale a un daño comprobado. La plataforma cruza la ubicación de los proyectos con territorios de comunidades tradicionales, áreas protegidas, espacios de biodiversidad y viviendas cercanas mediante 13 criterios. Puede orientar la revisión de licencias y la selección de emplazamientos, pero no mide los daños reales ni sustituye los estudios ambientales de cada proyecto. De los 1.748 proyectos, 1.175 ya operan; por tanto, el porcentaje general no se refiere exclusivamente a instalaciones activas. También se detectaron viviendas a menos de 400 metros del 64,5% de los parques.",
-        "counterpoint": "La clasificación no demuestra que el 89,4% haya causado daños ni infringido licencias. El propio instituto advierte que su herramienta no reemplaza los estudios de impacto ambiental. La información consultada no incluye respuestas individuales de los operadores. Son resultados de una investigación de una organización civil, no conclusiones definitivas de fiscalización."
-      }
+        "counterpoint": "La clasificación no demuestra que el 89,4% haya causado daños ni infringido licencias. El propio instituto advierte que su herramienta no reemplaza los estudios de impacto ambiental. La información consultada no incluye respuestas individuales de los operadores. Son resultados de una investigación de una organización civil, no conclusiones definitivas de fiscalización.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (8 de febrero de 2019): aerogeneradores del parque eólico Arizona I, en Rio do Fogo (RN), Brasil. Marcos Elias de Oliveira Júnior/Wikimedia Commons, CC0 1.0. Imagen contextual: no demuestra alertas socioambientales ni identifica instalaciones analizadas en el estudio de noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Parque_E%C3%B3lico_Arizona_I%2C_Rio_do_Fogo_%28RN%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC0 1.0",
+          "credit": "Marcos Elias de Oliveira Júnior / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Parque_Eólico_Arizona_I,_Rio_do_Fogo_(RN).jpg",
+          "caption": "FOTO DE ARQUIVO (08/02/2019): aerogeradores do Parque Eólico Arizona I, no município de Rio do Fogo (RN). Marcos Elias de Oliveira Júnior/Wikimedia Commons, CC0 1.0. Imagem contextual; não comprova alertas socioambientais nem identifica instalações avaliadas no levantamento de novembro de 2026."
+        }
+      ]
     },
     {
       "id": "ataques-russos-atingem-tres-pontes-kiev-2026-11-20",
@@ -110,7 +144,10 @@
         "subtitle": "Overnight missile attacks disrupt crossings over the Dnipro River; casualty figures and the extent of damage remain preliminary.",
         "facts": "On Friday, November 20, 2026, Russian missile strikes hit three bridges across the Dnipro River in Kyiv, Ukraine's capital. Mayor Vitali Klitschko reported three deaths and about 15 injuries. Traffic was halted or restricted on the Podilsko-Voskresenskyi, Darnytskyi and Pivdennyi bridges as crews assessed the damage. Fires and damage to other civilian buildings and infrastructure were also reported. Reuters and the Financial Times covered the attacks; initial casualty figures and structural assessments remain subject to updates.",
         "analysis": "The Dnipro crossings connect Kyiv's eastern and western banks and are essential to commuting, emergency response and freight. Their disruption can extend beyond physical damage: a bridge that remains standing may still be closed for safety inspections, forcing traffic onto alternative routes. The latest strikes follow attacks on Kyiv bridges earlier in the week and Ukrainian strikes on the bridge connecting Russia to annexed Crimea. The sequence puts transport infrastructure under further pressure but does not, on its own, establish the intent behind each strike.",
-        "counterpoint": "Early casualty figures and bridge damage reports came from Ukrainian authorities. This report does not have a final engineering assessment or independent verification of every reported injury and damaged structure. Moscow says it targets military and logistical infrastructure, which does not establish the military status of every site struck. International humanitarian law requires distinction between military objectives and civilian objects, proportionality and precautions in attack."
+        "counterpoint": "Early casualty figures and bridge damage reports came from Ukrainian authorities. This report does not have a final engineering assessment or independent verification of every reported injury and damaged structure. Moscow says it targets military and logistical infrastructure, which does not establish the military status of every site struck. International humanitarian law requires distinction between military objectives and civilian objects, proportionality and precautions in attack.",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (before January 2007; exact capture date unconfirmed): Pivnichnyi Bridge over the Dnipro River in Kyiv, Ukraine. Maksym Kozlenko/Wikimedia Commons, CC BY-SA 3.0. This does not show the November 2026 attacks or identify this bridge as one of the three reported targets."
+        }
       },
       "es": {
         "category": "MUNDO",
@@ -118,8 +155,22 @@
         "subtitle": "Los bombardeos nocturnos interrumpen cruces sobre el río Dniéper; las cifras de víctimas y los daños siguen siendo provisionales.",
         "facts": "El viernes 20 de noviembre de 2026, ataques rusos con misiles alcanzaron tres puentes sobre el río Dniéper en Kiev, capital de Ucrania. El alcalde Vitali Klitschko informó de tres muertos y unos 15 heridos. El tránsito quedó interrumpido o restringido en los puentes Podilsko-Voskresenskyi, Darnytskyi y Pivdennyi mientras los equipos evaluaban los daños. También se registraron incendios y daños en edificios e infraestructuras civiles. Reuters y Financial Times informaron sobre los ataques; los balances iniciales y las evaluaciones estructurales pueden cambiar.",
         "analysis": "Los puentes sobre el Dniéper unen las orillas oriental y occidental de Kiev y son esenciales para el transporte cotidiano, los servicios de emergencia y las mercancías. Incluso un puente que sigue en pie puede permanecer cerrado por inspecciones de seguridad, desviando el tráfico hacia otras rutas. Los ataques se producen después de bombardeos contra puentes de Kiev a principios de semana y de operaciones ucranianas contra el puente que conecta Rusia con la Crimea anexionada. Esta secuencia aumenta la presión sobre las infraestructuras, pero no prueba por sí sola la intención de cada ataque.",
-        "counterpoint": "Las primeras cifras de víctimas y daños proceden de las autoridades ucranianas. No se dispone aquí de una evaluación estructural definitiva ni de una verificación independiente de todos los daños y heridos. Moscú sostiene que ataca infraestructuras militares y logísticas, pero ello no demuestra el carácter militar de cada lugar alcanzado. El derecho internacional humanitario exige distinguir los objetivos militares de los bienes civiles, respetar la proporcionalidad y adoptar precauciones."
-      }
+        "counterpoint": "Las primeras cifras de víctimas y daños proceden de las autoridades ucranianas. No se dispone aquí de una evaluación estructural definitiva ni de una verificación independiente de todos los daños y heridos. Moscú sostiene que ataca infraestructuras militares y logísticas, pero ello no demuestra el carácter militar de cada lugar alcanzado. El derecho internacional humanitario exige distinguir los objetivos militares de los bienes civiles, respetar la proporcionalidad y adoptar precauciones.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (anterior a enero de 2007; fecha exacta de captura sin confirmar): puente Pivnichnyi sobre el río Dniéper, en Kiev, Ucrania. Maksym Kozlenko/Wikimedia Commons, CC BY-SA 3.0. No muestra los ataques de noviembre de 2026 ni identifica este puente entre los tres objetivos mencionados."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Pivnichnyi_Bridge_in_Kyiv.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 3.0",
+          "credit": "Maksym Kozlenko / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Pivnichnyi_Bridge_in_Kyiv.jpg",
+          "caption": "FOTO DE ARQUIVO (antes de janeiro de 2007; data exata da captura não confirmada): ponte Pivnichnyi sobre o rio Dnipro, em Kiev, Ucrânia. Maksym Kozlenko/Wikimedia Commons, CC BY-SA 3.0. Não retrata os ataques de novembro de 2026 e não identifica nenhuma das três pontes citadas na notícia como alvo."
+        }
+      ]
     },
     {
       "id": "haiti-policia-operacao-martissant-34-suspeitos-mortos-2026-11-19",
@@ -150,7 +201,10 @@
         "subtitle": "The Martissant operation targets a route linking Port-au-Prince to the south; authorities' casualty figures have not been independently verified.",
         "facts": "On November 19, 2026, Haiti's National Police said at least 34 people it identified as suspected gang members had been killed in an operation in Martissant, south of Port-au-Prince. Police officers and a government task force took part. Authorities reported no police or civilian injuries, a claim that has not been independently verified. Reuters verified that police-released footage, including a building collapsing amid smoke, was filmed in Martissant. The offensive seeks to regain control of National Route 2, which links the capital with southern and western cities and has been disrupted by armed groups since 2021.",
         "analysis": "Martissant's strategic importance lies in its location on the southern exit from Port-au-Prince. Armed groups have blocked traffic, demanded payments and attacked vehicles along this corridor since 2021, disrupting commerce, aid delivery and daily travel. Retaking territory could improve access, but a temporary military advance is not the same as reopening a road safely. The reported death toll alone cannot establish that the corridor is now secure or that residents can travel freely.",
-        "counterpoint": "The figure of 34 dead and the assertion that no civilians were injured come from Haiti's police, not an independent casualty assessment. Reuters and AP reported the use of explosive drones and a government task force supported by a private contractor. Analysts warned about civilian risks and the difficulty of holding territory after raids. Police said Salvadoran troops did not participate in this particular operation, although Salvadoran forces are active elsewhere in Haiti. The identities of all those killed and the lasting reopening of the route remain unverified."
+        "counterpoint": "The figure of 34 dead and the assertion that no civilians were injured come from Haiti's police, not an independent casualty assessment. Reuters and AP reported the use of explosive drones and a government task force supported by a private contractor. Analysts warned about civilian risks and the difficulty of holding territory after raids. Police said Salvadoran troops did not participate in this particular operation, although Salvadoran forces are active elsewhere in Haiti. The identities of all those killed and the lasting reopening of the route remain unverified.",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (October 31, 2019): Haitian National Police personnel remove makeshift barricades near the National Palace in Port-au-Prince. Matiado Vilme/Voice of America, public domain. This does not depict the November 2026 Martissant police operation or those reported killed."
+        }
       },
       "es": {
         "category": "MUNDO",
@@ -158,8 +212,22 @@
         "subtitle": "La ofensiva en Martissant busca recuperar la conexión entre Puerto Príncipe y el sur; el balance oficial no ha sido verificado de forma independiente.",
         "facts": "El 19 de noviembre de 2026, la Policía Nacional de Haití informó de al menos 34 personas señaladas como presuntos miembros de pandillas muertas durante una operación en Martissant, al sur de Puerto Príncipe. Participaron agentes policiales y una fuerza de tarea del gobierno. Según las autoridades, no hubo policías ni civiles heridos, extremo que no ha sido confirmado de manera independiente. Reuters verificó que las imágenes difundidas por la policía, incluido el derrumbe de un edificio entre humo, fueron grabadas en Martissant. La operación busca recuperar la Ruta Nacional 2, que conecta la capital con ciudades del sur y oeste y permanece afectada por grupos armados desde 2021.",
         "analysis": "Martissant ocupa un punto estratégico en la salida sur de Puerto Príncipe. Desde 2021, las pandillas han bloqueado el corredor, cobrado peajes ilegales y atacado vehículos, perjudicando el comercio, la ayuda humanitaria y los desplazamientos diarios. Recuperar posiciones podría facilitar el tránsito, pero una incursión temporal no equivale a restablecer la seguridad de la carretera. El balance de muertos no demuestra que la ruta esté abierta ni que los habitantes puedan circular sin peligro.",
-        "counterpoint": "Las cifras de 34 muertos y de ausencia de víctimas civiles proceden de la policía haitiana, no de una investigación independiente. Reuters y AP informaron del uso de drones explosivos y de una fuerza de tarea con apoyo privado. Especialistas advirtieron de los riesgos para los civiles y de la dificultad de mantener el control territorial. La policía negó la participación de militares salvadoreños en esta operación concreta, aunque fuerzas de El Salvador actúan en otras zonas del país. No se han verificado de manera independiente las identidades de todos los fallecidos ni la reapertura permanente de la carretera."
-      }
+        "counterpoint": "Las cifras de 34 muertos y de ausencia de víctimas civiles proceden de la policía haitiana, no de una investigación independiente. Reuters y AP informaron del uso de drones explosivos y de una fuerza de tarea con apoyo privado. Especialistas advirtieron de los riesgos para los civiles y de la dificultad de mantener el control territorial. La policía negó la participación de militares salvadoreños en esta operación concreta, aunque fuerzas de El Salvador actúan en otras zonas del país. No se han verificado de manera independiente las identidades de todos los fallecidos ni la reapertura permanente de la carretera.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (31 de octubre de 2019): agentes de la Policía Nacional de Haití retiran barricadas improvisadas cerca del Palacio Nacional, en Puerto Príncipe. Matiado Vilme/Voice of America, dominio público. No muestra el operativo policial de noviembre de 2026 en Martissant ni a las personas fallecidas."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Image-haiti2019.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público — Voice of America (governo federal dos EUA)",
+          "credit": "Matiado Vilme / Voice of America / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Image-haiti2019.jpg",
+          "caption": "FOTO DE ARQUIVO (31/10/2019): policiais do Haiti removem barricadas improvisadas perto do Palácio Nacional, em Porto Príncipe. Matiado Vilme/Voice of America, domínio público. Não retrata a operação policial de novembro de 2026 em Martissant, nem as pessoas mortas relatadas."
+        }
+      ]
     },
     {
       "id": "comissoes-senado-propoem-859-bilhoes-emendas-orcamento-2027-2026-11-19",
@@ -239,7 +307,10 @@
         "subtitle": "Launched in 1977, the probe has passed 25.9 billion kilometers; its radio signals now take 24 hours to reach Earth.",
         "facts": "On November 19, 2026, NASA confirmed that Voyager 1 had reached a distance of one light-day from Earth at 2:16 a.m. Pacific time on November 18, roughly 25.9 billion kilometers. NASA's Jet Propulsion Laboratory (JPL) in California received its radio signal about 24 hours later. Launched in 1977, the spacecraft entered interstellar space in 2012. NASA says it has not received science or engineering data since November 14, although the radio carrier signal is still detectable. Engineers are investigating the interruption.",
         "analysis": "A light-day measures distance, not travel time: it is how far light moves through a vacuum in 24 hours. For mission controllers, sending a command and receiving a reply now involves about 48 hours of signal travel, excluding processing time. Voyager 1 did not travel this distance in a day; the journey took almost 49 years. The milestone demonstrates long-distance communications beyond the heliosphere, the region shaped by the solar wind. Its radioisotope power supply loses about four watts annually, forcing engineers to conserve energy.",
-        "counterpoint": "NASA has confirmed the distance milestone, not the full restoration of spacecraft data. Detecting a carrier signal is not equivalent to receiving usable science and engineering information. The cause of the outage and the timetable for a fix remain uncertain. Current close-up photographs of Voyager 1 in interstellar space do not exist; published depictions are illustrations or archival images."
+        "counterpoint": "NASA has confirmed the distance milestone, not the full restoration of spacecraft data. Detecting a carrier signal is not equivalent to receiving usable science and engineering information. The cause of the outage and the timetable for a fix remain uncertain. Current close-up photographs of Voyager 1 in interstellar space do not exist; published depictions are illustrations or archival images.",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (1977): one of the two identical Voyager probes photographed on Earth, showing its antenna and instruments. NASA/JPL-Caltech, public domain. This does not depict Voyager 1's position in space or its distance from Earth in November 2026."
+        }
       },
       "es": {
         "category": "CIENCIA",
@@ -247,8 +318,22 @@
         "subtitle": "Lanzada en 1977, la sonda superó los 25.900 millones de kilómetros; sus señales de radio tardan 24 horas en llegar.",
         "facts": "El 19 de noviembre de 2026, la NASA confirmó que Voyager 1 alcanzó una distancia de un día luz de la Tierra a las 2:16 de la madrugada del 18 de noviembre, hora del Pacífico: unos 25.900 millones de kilómetros. El Laboratorio de Propulsión a Chorro (JPL) de la NASA, en California, recibió la señal unas 24 horas después. Lanzada en 1977, la nave entró en el espacio interestelar en 2012. Desde el 14 de noviembre, la agencia no recibe datos científicos ni de ingeniería, aunque sigue detectando la señal portadora de radio. La interrupción está bajo investigación.",
         "analysis": "Un día luz mide distancia, no duración del viaje: equivale a lo que recorre la luz en el vacío durante 24 horas. Enviar una orden y recibir una respuesta implica ahora cerca de 48 horas de tránsito de señales, sin contar el procesamiento. Voyager 1 tardó casi 49 años en llegar allí. El hito demuestra que aún es posible comunicarse con una nave más allá de la heliosfera, región dominada por el viento solar. Su fuente de energía radioisotópica pierde unos cuatro vatios al año, lo que obliga a ahorrar electricidad.",
-        "counterpoint": "La NASA confirmó la distancia alcanzada, pero no la recuperación de los datos. Detectar la señal portadora no equivale a recibir información científica y técnica utilizable. La causa del problema y la fecha de su solución siguen sin determinarse. No existen fotografías actuales de cerca de Voyager 1 en el espacio interestelar; las imágenes divulgadas son ilustraciones o archivos históricos."
-      }
+        "counterpoint": "La NASA confirmó la distancia alcanzada, pero no la recuperación de los datos. Detectar la señal portadora no equivale a recibir información científica y técnica utilizable. La causa del problema y la fecha de su solución siguen sin determinarse. No existen fotografías actuales de cerca de Voyager 1 en el espacio interestelar; las imágenes divulgadas son ilustraciones o archivos históricos.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (1977): una de las dos sondas Voyager idénticas fotografiada en tierra, con antena e instrumentos. NASA/JPL-Caltech, dominio público. No muestra la posición de Voyager 1 en el espacio ni su distancia de la Tierra en noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Voyager.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público — NASA/JPL-Caltech (governo federal dos EUA)",
+          "credit": "NASA / JPL-Caltech / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Voyager.jpg",
+          "caption": "FOTO DE ARQUIVO (1977): fotografia de uma das duas sondas Voyager idênticas, em terra, mostrando antena e instrumentos. NASA/JPL-Caltech, domínio público. Não retrata a posição da Voyager 1 no espaço nem sua distância da Terra em novembro de 2026."
+        }
+      ]
     },
     {
       "id": "decreto-13173-regulamenta-escala-5x2-2026-11-19",
@@ -283,7 +368,10 @@
         "subtitle": "A November 19 decree sets out paid rest, hourly pay calculations and special schedules; the transition starts December 16.",
         "facts": "Brazilian President Luiz Inácio Lula da Silva signed Decree No. 13,173 in Brasília on November 19, 2026. Published in a special edition of the federal gazette, it implements Constitutional Amendment No. 141 of October 16, 2026. The amendment provides for two paid weekly rest days and a gradual reduction in the maximum workweek from 44 to 42 hours on December 16, 2026, and to 40 hours on December 16, 2027, without cutting monthly salaries. The Ministry of Labor and Employment (MTE) is to issue supplementary rules.",
         "analysis": "For employees on fixed monthly pay, the divisor used to calculate hourly wages changes. The usual divisor for 44 hours is 220; the decree specifies 210 for 42 hours and 200 for 40 hours. As a purely arithmetic example, a R$2,200 monthly salary means R$10 per hour at 220, approximately R$10.48 at 210, and R$11 at 200. This may raise the base for overtime pay but does not automatically increase monthly salary. The MTE estimates that 14.8 million workers on six-day schedules and 21.7 million already on five-day schedules but working 44 hours will be affected. The change stems from the constitutional amendment passed in October, not from the decree alone.",
-        "counterpoint": "Individual implementation will depend on employment contracts, collective agreements, special work arrangements and further MTE guidance. The decree also addresses rotating shifts and 12-hour-on/36-hour-off schedules, which should not be treated as an automatic switch to a standard five-day week. The worker figures are government estimates, not a count of contracts already changed. No photo is included because a directly accessible, reusable JPEG of the signing ceremony meeting the site's 3 MB limit could not be verified."
+        "counterpoint": "Individual implementation will depend on employment contracts, collective agreements, special work arrangements and further MTE guidance. The decree also addresses rotating shifts and 12-hour-on/36-hour-off schedules, which should not be treated as an automatic switch to a standard five-day week. The worker figures are government estimates, not a count of contracts already changed. No photo is included because a directly accessible, reusable JPEG of the signing ceremony meeting the site's 3 MB limit could not be verified.",
+        "photo_captions": {
+          "1": "EVENT PHOTO (November 19, 2026): President Lula holds up the signed document during the federal government's ceremony regulating the five-day workweek and phased reduction in working hours. Photo: Ricardo Stuckert/Brazilian Presidency, institutional CC BY-ND 3.0."
+        }
       },
       "es": {
         "category": "BRASIL",
@@ -291,8 +379,22 @@
         "subtitle": "El decreto del 19 de noviembre detalla el descanso remunerado, el cálculo de la hora y los regímenes especiales; la transición comienza el 16 de diciembre.",
         "facts": "El presidente brasileño Luiz Inácio Lula da Silva firmó en Brasilia, el 19 de noviembre de 2026, el Decreto n.º 13.173, publicado en una edición extraordinaria del diario oficial. La norma reglamenta la Enmienda Constitucional n.º 141 del 16 de octubre de 2026, que establece dos días de descanso semanal remunerado y la reducción gradual del máximo de 44 a 42 horas semanales el 16 de diciembre de 2026, y a 40 horas el 16 de diciembre de 2027, sin recortar el salario mensual. El Ministerio de Trabajo y Empleo (MTE) emitirá normas complementarias.",
         "analysis": "Para quienes reciben un salario mensual fijo, cambia el divisor utilizado para calcular el valor de cada hora: el divisor habitual de 44 horas es 220; el decreto fija 210 para 42 horas y 200 para 40 horas. En un ejemplo exclusivamente aritmético, un sueldo de R$ 2.200 equivale a R$ 10 por hora con divisor 220, aproximadamente R$ 10,48 con 210 y R$ 11 con 200. Esto puede elevar la base de las horas extras sin implicar un aumento automático del sueldo mensual. El MTE estima que los cambios afectarán a 14,8 millones de trabajadores con escala de seis días y a otros 21,7 millones que ya trabajan cinco días pero cumplen 44 horas. La transición proviene de la enmienda constitucional aprobada en octubre, no solo del decreto.",
-        "counterpoint": "La aplicación concreta dependerá de los contratos, convenios colectivos, regímenes especiales y futuras normas del MTE. El decreto también regula turnos rotativos y jornadas de 12 horas de trabajo por 36 de descanso, que no deben interpretarse como una conversión automática a cinco días. Las cifras de trabajadores son estimaciones gubernamentales, no un recuento de contratos ya modificados. No se incluye fotografía porque no pudo verificarse un JPEG directo, reutilizable y de hasta 3 MB de la ceremonia oficial."
-      }
+        "counterpoint": "La aplicación concreta dependerá de los contratos, convenios colectivos, regímenes especiales y futuras normas del MTE. El decreto también regula turnos rotativos y jornadas de 12 horas de trabajo por 36 de descanso, que no deben interpretarse como una conversión automática a cinco días. Las cifras de trabajadores son estimaciones gubernamentales, no un recuento de contratos ya modificados. No se incluye fotografía porque no pudo verificarse un JPEG directo, reutilizable y de hasta 3 MB de la ceremonia oficial.",
+        "photo_captions": {
+          "1": "FOTO DEL ACONTECIMIENTO (19 de noviembre de 2026): Lula muestra el documento firmado durante la ceremonia del Gobierno federal para reglamentar la semana laboral de cinco días y la reducción gradual de la jornada. Foto: Ricardo Stuckert/Presidencia de Brasil, licencia institucional CC BY-ND 3.0."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://www.gov.br/sri/pt-br/lula-assina-o-decreto-do-fim-da-escala-6x1/pr.jpeg/@@images/c4d76b51-9f2a-4cfc-a748-153a724ec18a.jpeg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada — portal gov.br",
+          "credit": "Ricardo Stuckert / Presidência da República",
+          "source_article": "https://www.gov.br/sri/pt-br/lula-assina-o-decreto-do-fim-da-escala-6x1/",
+          "caption": "FOTO DO ACONTECIMENTO (19/11/2026): presidente Lula apresenta documento assinado durante cerimônia do governo federal para regulamentar a escala 5x2 e a redução gradual da jornada. Foto: Ricardo Stuckert/Presidência da República, licença institucional CC BY-ND 3.0."
+        }
+      ]
     },
     {
       "id": "prf-operacao-consciencia-negra-2026-rodovias-federais",
