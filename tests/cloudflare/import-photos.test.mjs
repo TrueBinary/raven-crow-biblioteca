@@ -113,6 +113,15 @@ test('linked photos: article "photos" with an https url on an allowed host are d
   assert.deepEqual(again.imported, []);
 });
 
+test('linked photos: User-Agent carries a contact URL (Wikimedia answers 429 without one)', async t => {
+  const { importLinkedPhotos } = await import('../../ops/cloudflare/import-photos.mjs');
+  const s = setup({ items: [] }); t.after(() => rmSync(s.root, { recursive: true, force: true }));
+  writeFileSync(join(s.site, 'public', 'noticias.json'), JSON.stringify({ articles: [{ id: 'nova-2026', photos: [{ url: 'https://upload.wikimedia.org/a.jpg', uso_liberado: true, credit: 'A', license: 'CC BY 4.0', source_article: 'https://commons.wikimedia.org/x' }] }] }));
+  let ua;
+  await importLinkedPhotos({ siteRoot: s.site, fetchFn: async (_, o) => { ua = o.headers['User-Agent']; return new Response(JPG, { status: 200 }); } });
+  assert.match(ua, /\(https:\/\/ravencrow\.cloud[^)]*\)/);
+});
+
 test('linked photos: non-JPEG or failed download is skipped, nothing written', async t => {
   const { importLinkedPhotos } = await import('../../ops/cloudflare/import-photos.mjs');
   const s = setup({ items: [] }); t.after(() => rmSync(s.root, { recursive: true, force: true }));

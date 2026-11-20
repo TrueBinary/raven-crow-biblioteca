@@ -78,7 +78,7 @@ export async function importLinkedPhotos({ siteRoot, fetchFn = fetch }) {
     if (u.protocol !== 'https:' || !ALLOWED_HOSTS.test(u.hostname)) { skip('photo host not allowed: ' + u.hostname); continue; }
     let buf;
     try {
-      const r = await fetchFn(u.href, { signal: AbortSignal.timeout(20000), headers: { 'User-Agent': 'RavenCrowRelease/1.0' } });
+      const r = await fetchFn(u.href, { signal: AbortSignal.timeout(20000), headers: { 'User-Agent': 'RavenCrowRelease/1.0 (https://ravencrow.cloud/sobre/)' } }); // Wikimedia devolve 429 a UA sem contato
       if (!r.ok) { skip('download failed: HTTP ' + r.status); continue; }
       buf = Buffer.from(await r.arrayBuffer());
     } catch (e) { skip('download failed: ' + e.message); continue; }
