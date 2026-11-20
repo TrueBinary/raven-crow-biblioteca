@@ -493,7 +493,8 @@
     "casa-branca-substitui-diretor-ciberseguranca-apos-apagoes-2026-11-20": "editorial/photos/casa-branca-substitui-diretor-ciberseguranca-apos-apagoes-2026-11-20.jpg",
     "mercados-globais-queda-acoes-ia-taiwan-2026-11-20": "editorial/photos/mercados-globais-queda-acoes-ia-taiwan-2026-11-20.jpg",
     "trump-filipinas-agro-brasil-soja-eua-2026-11-20": "editorial/photos/trump-filipinas-agro-brasil-soja-eua-2026-11-20.jpg",
-    "temporal-tupancireta-tres-mortos-defesa-civil-2026-11-20": "editorial/photos/temporal-tupancireta-tres-mortos-defesa-civil-2026-11-20.jpg"
+    "temporal-tupancireta-tres-mortos-defesa-civil-2026-11-20": "editorial/photos/temporal-tupancireta-tres-mortos-defesa-civil-2026-11-20.jpg",
+    "o-botao-comprar-e-facil-o-direito-de-desistir-nao-pode-ser-labirinto-2026-11-20": "editorial/photos/o-botao-comprar-e-facil-o-direito-de-desistir-nao-pode-ser-labirinto-2026-11-20.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -1977,6 +1978,12 @@
       "srcset": "editorial/photos/temporal-tupancireta-tres-mortos-defesa-civil-2026-11-20-320.webp 320w, editorial/photos/temporal-tupancireta-tres-mortos-defesa-civil-2026-11-20-640.webp 640w, editorial/photos/temporal-tupancireta-tres-mortos-defesa-civil-2026-11-20-960.webp 960w, editorial/photos/temporal-tupancireta-tres-mortos-defesa-civil-2026-11-20-1280.webp 1280w",
       "width": 1280,
       "height": 2279
+    },
+    "o-botao-comprar-e-facil-o-direito-de-desistir-nao-pode-ser-labirinto-2026-11-20": {
+      "src": "editorial/photos/o-botao-comprar-e-facil-o-direito-de-desistir-nao-pode-ser-labirinto-2026-11-20-1280.webp",
+      "srcset": "editorial/photos/o-botao-comprar-e-facil-o-direito-de-desistir-nao-pode-ser-labirinto-2026-11-20-320.webp 320w, editorial/photos/o-botao-comprar-e-facil-o-direito-de-desistir-nao-pode-ser-labirinto-2026-11-20-640.webp 640w, editorial/photos/o-botao-comprar-e-facil-o-direito-de-desistir-nao-pode-ser-labirinto-2026-11-20-960.webp 960w, editorial/photos/o-botao-comprar-e-facil-o-direito-de-desistir-nao-pode-ser-labirinto-2026-11-20-1280.webp 1280w",
+      "width": 1280,
+      "height": 960
     }
   }
 }
