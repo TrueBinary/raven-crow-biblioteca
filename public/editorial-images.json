@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "decreto-13173-regulamenta-escala-5x2-2026-11-19": "editorial/covers/decreto-13173-regulamenta-escala-5x2-2026-11-19.svg",
     "prf-operacao-consciencia-negra-2026-rodovias-federais": "editorial/covers/prf-operacao-consciencia-negra-2026-rodovias-federais.svg",
     "enem-2026-prazo-reaplicacao-termina-20-novembro": "editorial/covers/enem-2026-prazo-reaplicacao-termina-20-novembro.svg",
     "trump-xi-putin-declaracao-paz-shenzhen-2026-11-19": "editorial/covers/trump-xi-putin-declaracao-paz-shenzhen-2026-11-19.svg",
@@ -451,7 +452,17 @@
     "comissao-europeia-propoe-45-bilhoes-euros-ucrania-2027-2026-11-18": "editorial/photos/comissao-europeia-propoe-45-bilhoes-euros-ucrania-2027-2026-11-18.jpg",
     "senado-conclui-ajuste-fiscal-envia-camara-2026-11-18": "editorial/photos/senado-conclui-ajuste-fiscal-envia-camara-2026-11-18.jpg",
     "israel-operacao-terrestre-centro-gaza-linha-amarela-2026-11-18": "editorial/photos/israel-operacao-terrestre-centro-gaza-linha-amarela-2026-11-18.jpg",
-    "cbf-preve-perda-pontos-atraso-salarial-serie-a-2028-2026-11-18": "editorial/photos/cbf-preve-perda-pontos-atraso-salarial-serie-a-2028-2026-11-18.jpg"
+    "cbf-preve-perda-pontos-atraso-salarial-serie-a-2028-2026-11-18": "editorial/photos/cbf-preve-perda-pontos-atraso-salarial-serie-a-2028-2026-11-18.jpg",
+    "durigan-anuncia-novas-medidas-fiscais-apos-pacote-senado-2026-11-18": "editorial/photos/durigan-anuncia-novas-medidas-fiscais-apos-pacote-senado-2026-11-18.jpg",
+    "rubio-descarta-ameaca-iminente-bomba-suja-ira-washington-2026-11-18": "editorial/photos/rubio-descarta-ameaca-iminente-bomba-suja-ira-washington-2026-11-18.jpg",
+    "kuwait-defesa-aerea-intercepta-drones-hostis-2026-11-18": "editorial/photos/kuwait-defesa-aerea-intercepta-drones-hostis-2026-11-18.jpg",
+    "aneel-aprova-revisao-ceee-d-alta-conta-luz-rs-2026-11-18": "editorial/photos/aneel-aprova-revisao-ceee-d-alta-conta-luz-rs-2026-11-18.jpg",
+    "awa-isolados-aproximacao-arariboia-funai-2026-11-18": "editorial/photos/awa-isolados-aproximacao-arariboia-funai-2026-11-18.jpg",
+    "senado-adia-destaques-ajuste-fiscal-para-18-novembro-2026": "editorial/photos/senado-adia-destaques-ajuste-fiscal-para-18-novembro-2026.jpg",
+    "eua-atacam-base-misseis-ira-ilha-qeshm-2026-11-17": "editorial/photos/eua-atacam-base-misseis-ira-ilha-qeshm-2026-11-17.jpg",
+    "durigan-cbs-85-por-cento-reforma-tributaria-senado-2026-11-17": "editorial/photos/durigan-cbs-85-por-cento-reforma-tributaria-senado-2026-11-17.jpg",
+    "anglo-american-alerta-fechamento-minas-niquel-goias-ue-2026-11-17": "editorial/photos/anglo-american-alerta-fechamento-minas-niquel-goias-ue-2026-11-17.jpg",
+    "ira-drones-bahrein-base-sheikh-isa-interceptacao-2026-11-17": "editorial/photos/ira-drones-bahrein-base-sheikh-isa-interceptacao-2026-11-17.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -1755,6 +1766,66 @@
       "srcset": "editorial/photos/cbf-preve-perda-pontos-atraso-salarial-serie-a-2028-2026-11-18-320.webp 320w, editorial/photos/cbf-preve-perda-pontos-atraso-salarial-serie-a-2028-2026-11-18-640.webp 640w, editorial/photos/cbf-preve-perda-pontos-atraso-salarial-serie-a-2028-2026-11-18-960.webp 960w, editorial/photos/cbf-preve-perda-pontos-atraso-salarial-serie-a-2028-2026-11-18-1280.webp 1280w",
       "width": 1280,
       "height": 848
+    },
+    "durigan-anuncia-novas-medidas-fiscais-apos-pacote-senado-2026-11-18": {
+      "src": "editorial/photos/durigan-anuncia-novas-medidas-fiscais-apos-pacote-senado-2026-11-18-1280.webp",
+      "srcset": "editorial/photos/durigan-anuncia-novas-medidas-fiscais-apos-pacote-senado-2026-11-18-320.webp 320w, editorial/photos/durigan-anuncia-novas-medidas-fiscais-apos-pacote-senado-2026-11-18-640.webp 640w, editorial/photos/durigan-anuncia-novas-medidas-fiscais-apos-pacote-senado-2026-11-18-960.webp 960w, editorial/photos/durigan-anuncia-novas-medidas-fiscais-apos-pacote-senado-2026-11-18-1280.webp 1280w",
+      "width": 1280,
+      "height": 794
+    },
+    "rubio-descarta-ameaca-iminente-bomba-suja-ira-washington-2026-11-18": {
+      "src": "editorial/photos/rubio-descarta-ameaca-iminente-bomba-suja-ira-washington-2026-11-18-1280.webp",
+      "srcset": "editorial/photos/rubio-descarta-ameaca-iminente-bomba-suja-ira-washington-2026-11-18-320.webp 320w, editorial/photos/rubio-descarta-ameaca-iminente-bomba-suja-ira-washington-2026-11-18-640.webp 640w, editorial/photos/rubio-descarta-ameaca-iminente-bomba-suja-ira-washington-2026-11-18-960.webp 960w, editorial/photos/rubio-descarta-ameaca-iminente-bomba-suja-ira-washington-2026-11-18-1280.webp 1280w",
+      "width": 1280,
+      "height": 1710
+    },
+    "kuwait-defesa-aerea-intercepta-drones-hostis-2026-11-18": {
+      "src": "editorial/photos/kuwait-defesa-aerea-intercepta-drones-hostis-2026-11-18-1280.webp",
+      "srcset": "editorial/photos/kuwait-defesa-aerea-intercepta-drones-hostis-2026-11-18-320.webp 320w, editorial/photos/kuwait-defesa-aerea-intercepta-drones-hostis-2026-11-18-640.webp 640w, editorial/photos/kuwait-defesa-aerea-intercepta-drones-hostis-2026-11-18-960.webp 960w, editorial/photos/kuwait-defesa-aerea-intercepta-drones-hostis-2026-11-18-1280.webp 1280w",
+      "width": 1280,
+      "height": 965
+    },
+    "aneel-aprova-revisao-ceee-d-alta-conta-luz-rs-2026-11-18": {
+      "src": "editorial/photos/aneel-aprova-revisao-ceee-d-alta-conta-luz-rs-2026-11-18-1280.webp",
+      "srcset": "editorial/photos/aneel-aprova-revisao-ceee-d-alta-conta-luz-rs-2026-11-18-320.webp 320w, editorial/photos/aneel-aprova-revisao-ceee-d-alta-conta-luz-rs-2026-11-18-640.webp 640w, editorial/photos/aneel-aprova-revisao-ceee-d-alta-conta-luz-rs-2026-11-18-960.webp 960w, editorial/photos/aneel-aprova-revisao-ceee-d-alta-conta-luz-rs-2026-11-18-1280.webp 1280w",
+      "width": 1280,
+      "height": 960
+    },
+    "awa-isolados-aproximacao-arariboia-funai-2026-11-18": {
+      "src": "editorial/photos/awa-isolados-aproximacao-arariboia-funai-2026-11-18-1080.webp",
+      "srcset": "editorial/photos/awa-isolados-aproximacao-arariboia-funai-2026-11-18-320.webp 320w, editorial/photos/awa-isolados-aproximacao-arariboia-funai-2026-11-18-640.webp 640w, editorial/photos/awa-isolados-aproximacao-arariboia-funai-2026-11-18-960.webp 960w, editorial/photos/awa-isolados-aproximacao-arariboia-funai-2026-11-18-1080.webp 1080w",
+      "width": 1080,
+      "height": 608
+    },
+    "senado-adia-destaques-ajuste-fiscal-para-18-novembro-2026": {
+      "src": "editorial/photos/senado-adia-destaques-ajuste-fiscal-para-18-novembro-2026-1280.webp",
+      "srcset": "editorial/photos/senado-adia-destaques-ajuste-fiscal-para-18-novembro-2026-320.webp 320w, editorial/photos/senado-adia-destaques-ajuste-fiscal-para-18-novembro-2026-640.webp 640w, editorial/photos/senado-adia-destaques-ajuste-fiscal-para-18-novembro-2026-960.webp 960w, editorial/photos/senado-adia-destaques-ajuste-fiscal-para-18-novembro-2026-1280.webp 1280w",
+      "width": 1280,
+      "height": 853
+    },
+    "eua-atacam-base-misseis-ira-ilha-qeshm-2026-11-17": {
+      "src": "editorial/photos/eua-atacam-base-misseis-ira-ilha-qeshm-2026-11-17-1280.webp",
+      "srcset": "editorial/photos/eua-atacam-base-misseis-ira-ilha-qeshm-2026-11-17-320.webp 320w, editorial/photos/eua-atacam-base-misseis-ira-ilha-qeshm-2026-11-17-640.webp 640w, editorial/photos/eua-atacam-base-misseis-ira-ilha-qeshm-2026-11-17-960.webp 960w, editorial/photos/eua-atacam-base-misseis-ira-ilha-qeshm-2026-11-17-1280.webp 1280w",
+      "width": 1280,
+      "height": 1285
+    },
+    "durigan-cbs-85-por-cento-reforma-tributaria-senado-2026-11-17": {
+      "src": "editorial/photos/durigan-cbs-85-por-cento-reforma-tributaria-senado-2026-11-17-1280.webp",
+      "srcset": "editorial/photos/durigan-cbs-85-por-cento-reforma-tributaria-senado-2026-11-17-320.webp 320w, editorial/photos/durigan-cbs-85-por-cento-reforma-tributaria-senado-2026-11-17-640.webp 640w, editorial/photos/durigan-cbs-85-por-cento-reforma-tributaria-senado-2026-11-17-960.webp 960w, editorial/photos/durigan-cbs-85-por-cento-reforma-tributaria-senado-2026-11-17-1280.webp 1280w",
+      "width": 1280,
+      "height": 794
+    },
+    "anglo-american-alerta-fechamento-minas-niquel-goias-ue-2026-11-17": {
+      "src": "editorial/photos/anglo-american-alerta-fechamento-minas-niquel-goias-ue-2026-11-17-640.webp",
+      "srcset": "editorial/photos/anglo-american-alerta-fechamento-minas-niquel-goias-ue-2026-11-17-320.webp 320w, editorial/photos/anglo-american-alerta-fechamento-minas-niquel-goias-ue-2026-11-17-640.webp 640w",
+      "width": 640,
+      "height": 516
+    },
+    "ira-drones-bahrein-base-sheikh-isa-interceptacao-2026-11-17": {
+      "src": "editorial/photos/ira-drones-bahrein-base-sheikh-isa-interceptacao-2026-11-17-1280.webp",
+      "srcset": "editorial/photos/ira-drones-bahrein-base-sheikh-isa-interceptacao-2026-11-17-320.webp 320w, editorial/photos/ira-drones-bahrein-base-sheikh-isa-interceptacao-2026-11-17-640.webp 640w, editorial/photos/ira-drones-bahrein-base-sheikh-isa-interceptacao-2026-11-17-960.webp 960w, editorial/photos/ira-drones-bahrein-base-sheikh-isa-interceptacao-2026-11-17-1280.webp 1280w",
+      "width": 1280,
+      "height": 853
     }
   }
 }
