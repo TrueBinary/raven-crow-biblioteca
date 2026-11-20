@@ -1,6 +1,74 @@
 {
   "articles": [
     {
+      "id": "trump-filipinas-agro-brasil-soja-eua-2026-11-20",
+      "date": "2026-11-20",
+      "title": "URGENTE: O PAINHO FUDEU COM A GENTE! TRUMP DIZ TER COBRADO QUE FILIPINAS DEIXEM DE COMPRAR AGRO DO BRASIL",
+      "subtitle": "Trump cita o Brasil ao pressionar Filipinas por compras agrícolas dos EUA; Manila fala em soja e trigo, mas não confirma ruptura.",
+      "category": "ECONOMIA",
+      "facts": "Em 20 de novembro de 2026, o presidente dos Estados Unidos, Donald Trump, disse em entrevista coletiva na Casa Branca, em Washington, ter pressionado as Filipinas a trocar produtos agrícolas de fornecedores como o Brasil por mercadorias norte-americanas, segundo a Associated Press (AP) e a CNN Brasil. Trump afirmou que as Filipinas comprariam 100% dos produtos agrícolas dos Estados Unidos, percentual atribuído a ele pela AP e não confirmado nos termos oficiais divulgados. De acordo com a Philippine News Agency (PNA), o presidente filipino Ferdinand Marcos Jr. disse no mesmo dia que negocia ampliar importações de soja e trigo dos EUA, sem anunciar o fim das compras brasileiras.",
+      "analysis": "A declaração tem potencial de afetar a disputa comercial entre produtores brasileiros e norte-americanos, mas não demonstra, por si só, cancelamento de contratos ou bloqueio de soja brasileira. Em comunicado de 18 de novembro de 2026, a Casa Branca descreveu a intenção de reduzir o déficit comercial dos EUA com as Filipinas por meio de mais compras de produtos agrícolas e energia americanos, sem prever exclusividade de 100%. O documento também anunciou mais de US$ 17 bilhões em acordos e investimentos de diversos setores, cifra que não equivale a um contrato de compra de soja. Para o agro brasileiro, o impacto dependerá de volumes efetivamente contratados, prazos e eventual substituição de fornecedores, elementos ainda não divulgados.",
+      "counterpoint": "A agência oficial filipina registra que Marcos Jr. apresentou as conversas como forma de diversificar o abastecimento de alimentos e energia e afirmou que os detalhes continuam em negociação. A própria AP ressalta que os documentos publicados pela Casa Branca não trazem o percentual alegado por Trump. A referência específica à soja vem das compras americanas discutidas por Manila; não há confirmação de uma ordem filipina para suspender a importação de soja brasileira. A linguagem coloquial do título é uma reação editorial à declaração e não representa fato econômico consumado.",
+      "sources": [
+        {
+          "name": "Associated Press — coletiva de Trump na Casa Branca, 20/11/2026",
+          "url": "https://apnews.com/article/540e631e21d003b83877ee4174cde2c0"
+        },
+        {
+          "name": "Philippine News Agency — declaração de Ferdinand Marcos Jr., 20/11/2026",
+          "url": "https://www.pna.gov.ph/article/marcos-ph-us-trade-deal-covers-tariffs-wider-access-to-us-food-energy"
+        },
+        {
+          "name": "Casa Branca — comunicado sobre acordos EUA-Filipinas, 18/11/2026",
+          "url": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-secures-historic-economic-deals-for-american-workers-and-strengthens-americas-leadership-in-asia/"
+        },
+        {
+          "name": "CNN Brasil — declaração de Trump sobre produtos agrícolas brasileiros, 20/11/2026",
+          "url": "https://www.cnnbrasil.com.br/agro/trump-diz-que-filipinas-trocarao-produtos-agricolas-do-brasil-pelos-dos-eua/"
+        },
+        {
+          "name": "Reuters — termos comerciais ainda não fechados, 18/11/2026",
+          "url": "https://www.reuters.com/world/asia-pacific/trump-says-us-has-concluded-very-big-trade-deal-with-philippines-2026-11-18/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Donald_Trump_official_portrait%2C_2025_%28headshot%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público, liberado mundialmente pelo autor Daniel Torok",
+          "credit": "Daniel Torok / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait,_2025_(headshot).jpg",
+          "caption": "FOTO DE ARQUIVO (15 de janeiro de 2025): retrato oficial de Donald Trump, presidente dos Estados Unidos. Daniel Torok / Wikimedia Commons, domínio público concedido pelo autor. Não retrata a coletiva realizada em 20 de novembro de 2026."
+        }
+      ],
+      "en": {
+        "title": "Trump says he pressed the Philippines to replace Brazilian farm imports with US products",
+        "subtitle": "Trump targets Brazilian farm suppliers, while Manila discusses US soybeans and wheat without confirming a ban on Brazilian imports.",
+        "facts": "On November 20, 2026, US President Donald Trump said at a White House news conference in Washington that he had pressured the Philippines to replace agricultural goods from countries including Brazil with American products, according to the Associated Press (AP) and CNN Brasil. Trump claimed the Philippines would buy 100% of its agricultural goods from the United States, a figure reported as his assertion by AP but not confirmed in the published agreement terms. The Philippine News Agency (PNA) reported on the same date that Philippine President Ferdinand Marcos Jr. discussed increasing purchases of US soybeans and wheat, without announcing an end to Brazilian imports.",
+        "analysis": "Trump's remarks could sharpen competition between Brazilian and American farm exporters, but they do not establish that existing contracts were cancelled or that Brazilian soybean shipments have been prohibited. In a November 18, 2026 statement, the White House said the two governments aimed to narrow the US trade deficit with the Philippines through more American agricultural and energy exports, without specifying a 100% exclusive purchasing requirement. The White House also described more than US$17 billion in commercial deals and investments across multiple sectors; that total is not a soybean purchase commitment. Any effect on Brazilian exporters depends on actual contracted quantities, schedules and supplier substitution, none of which has been established.",
+        "counterpoint": "The Philippine News Agency quoted Marcos Jr. describing the talks as a way to diversify food and energy supplies and saying details remain under negotiation. AP noted that the White House materials did not include Trump's claimed percentage. Soybeans featured in Manila's discussions of additional US purchases, not in a verified decision to ban Brazilian soybeans. The colloquial reaction in the Portuguese headline is editorial language, not a verified economic outcome.",
+        "category": "ECONOMY",
+        "photo_captions": {
+          "1": "FILE PHOTO (January 15, 2025): official portrait of US President Donald Trump. Daniel Torok / Wikimedia Commons, released into the public domain by its author. Does not depict the November 20, 2026 press conference."
+        },
+        "slug": "trump-says-he-pressed-the-philippines-to-replace-brazilian-farm-imports-with-us-2026-11-20"
+      },
+      "es": {
+        "title": "Trump dice que presionó a Filipinas para sustituir productos agrícolas brasileños por los de EE. UU.",
+        "subtitle": "Trump apunta a proveedores agrícolas brasileños; Manila negocia soja y trigo de EE. UU., sin confirmar que dejará de importar de Brasil.",
+        "facts": "El 20 de noviembre de 2026, el presidente de Estados Unidos, Donald Trump, afirmó en una rueda de prensa en la Casa Blanca, en Washington, que había presionado a Filipinas para sustituir productos agrícolas de países como Brasil por mercancías estadounidenses, según Associated Press (AP) y CNN Brasil. Trump sostuvo que Filipinas compraría el 100% de sus productos agrícolas a Estados Unidos, un porcentaje atribuido a sus palabras por AP, pero no confirmado en los términos oficiales publicados. La Philippine News Agency (PNA) informó el mismo día que el presidente filipino, Ferdinand Marcos Jr., habló de aumentar las compras de soja y trigo estadounidenses, sin anunciar el fin de las importaciones brasileñas.",
+        "analysis": "Las declaraciones podrían intensificar la competencia entre exportadores agrícolas de Brasil y Estados Unidos, pero no prueban la cancelación de contratos ni la prohibición de importar soja brasileña. En un comunicado del 18 de noviembre de 2026, la Casa Blanca expuso el objetivo de reducir el déficit comercial estadounidense con Filipinas mediante mayores ventas agrícolas y energéticas, sin establecer una exclusividad del 100%. También anunció más de US$ 17.000 millones en acuerdos e inversiones de distintos sectores, cantidad que no representa contratos de compra de soja. El impacto sobre los exportadores brasileños dependerá de volúmenes contratados, plazos y cambios reales de proveedor, aún no documentados.",
+        "counterpoint": "Según la agencia oficial filipina, Marcos Jr. presentó las conversaciones como una forma de diversificar el suministro de alimentos y energía y señaló que los detalles siguen negociándose. AP subrayó que los documentos de la Casa Blanca no incluyen el porcentaje mencionado por Trump. La soja aparece entre las compras estadounidenses que Manila estudia ampliar, no como parte de una prohibición verificada de adquirir soja brasileña. La expresión coloquial del titular en portugués es una reacción editorial y no un resultado económico confirmado.",
+        "category": "ECONOMÍA",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (15 de enero de 2025): retrato oficial del presidente de Estados Unidos, Donald Trump. Daniel Torok / Wikimedia Commons, dominio público concedido por el autor. No corresponde a la conferencia de prensa del 20 de noviembre de 2026."
+        },
+        "slug": "trump-dice-que-presiono-a-filipinas-para-sustituir-productos-agricolas-2026-11-20"
+      },
+      "firstSeen": "2026-11-20T17:08:04-03:00"
+    },
+    {
       "id": "mercados-globais-queda-acoes-ia-taiwan-2026-11-20",
       "date": "2026-11-20",
       "title": "BOLSAS GLOBAIS AMPLIAM QUEDA COM TEMOR SOBRE IA; TAIWAN PERDE 17% NA SEMANA",
