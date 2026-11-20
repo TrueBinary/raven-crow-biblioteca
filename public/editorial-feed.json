@@ -1,6 +1,48 @@
 {
   "articles": [
     {
+      "id": "haiti-policia-operacao-martissant-34-suspeitos-mortos-2026-11-19",
+      "date": "2026-11-19",
+      "category": "MUNDO",
+      "title": "HAITI: POLÍCIA RELATA 34 SUSPEITOS MORTOS EM OFENSIVA PARA RETOMAR ROTA ESTRATÉGICA",
+      "subtitle": "Operação em Martissant tenta reabrir ligação entre Porto Príncipe e o sul; balanço é das autoridades e não foi verificado de forma independente.",
+      "facts": "A Polícia Nacional do Haiti informou em 19 de novembro de 2026 que pelo menos 34 pessoas apontadas como integrantes de gangues morreram em uma operação no bairro de Martissant, ao sul de Porto Príncipe. A ofensiva envolveu policiais e uma força-tarefa do governo. Segundo a polícia, não houve feridos entre agentes ou civis; não há confirmação independente desse balanço. A Reuters verificou que imagens divulgadas pelas autoridades, incluindo o desabamento de uma construção em meio à fumaça, foram registradas em Martissant. A operação busca recuperar o controle da Rota Nacional 2, ligação da capital com cidades do sul e oeste do Haiti, controlada por grupos armados desde 2021.",
+      "analysis": "Martissant não é apenas um bairro disputado: sua posição na saída sul de Porto Príncipe transforma o controle da estrada em uma questão de circulação de mercadorias, atendimento humanitário e deslocamento cotidiano. Desde 2021, gangues impõem barreiras, cobranças e ataques a veículos; recuperar o corredor poderia reduzir o isolamento de comunidades, mas isso depende de manter a segurança após os confrontos. A diferença entre ocupar temporariamente uma área e restabelecer trânsito seguro é decisiva. O número de mortos comunicado pela polícia não demonstra, por si só, que a via foi reaberta ou que moradores podem circular sem risco.",
+      "counterpoint": "O balanço de 34 mortos e a alegação de ausência de vítimas civis são declarações da Polícia Nacional, não uma contagem independente. Reuters e AP descrevem uso de drones explosivos e participação de uma força-tarefa com apoio privado; analistas alertam para riscos aos moradores e para a necessidade de proteção duradoura. A polícia disse que militares salvadorenhos não participaram dessa operação, embora tropas de El Salvador atuem no Haiti em outras frentes. Não foi apresentada verificação independente da identidade de todas as pessoas mortas nem comprovação de reabertura permanente da estrada.",
+      "sources": [
+        {
+          "name": "Reuters — operação policial em Martissant, 19/11/2026",
+          "url": "https://www.reuters.com/world/americas/police-operation-haiti-leaves-least-34-alleged-gang-members-dead-2026-11-19/"
+        },
+        {
+          "name": "Associated Press — confronto e importância da Rota 2, 19/11/2026",
+          "url": "https://apnews.com/article/69cedb174f2b429b2ca0e9d5dadd4acb"
+        },
+        {
+          "name": "EFE — declaração da Polícia Nacional do Haiti, 19/11/2026",
+          "url": "https://efe.com/english/latest-news/2026-11-19/at-least-34-members-of-armed-gang-killed-in-haitian-police-operation/"
+        }
+      ],
+      "en": {
+        "category": "WORLD",
+        "title": "HAITI POLICE REPORT 34 SUSPECTED GANG MEMBERS KILLED IN BID TO RECLAIM KEY ROAD",
+        "subtitle": "The Martissant operation targets a route linking Port-au-Prince to the south; authorities' casualty figures have not been independently verified.",
+        "facts": "On November 19, 2026, Haiti's National Police said at least 34 people it identified as suspected gang members had been killed in an operation in Martissant, south of Port-au-Prince. Police officers and a government task force took part. Authorities reported no police or civilian injuries, a claim that has not been independently verified. Reuters verified that police-released footage, including a building collapsing amid smoke, was filmed in Martissant. The offensive seeks to regain control of National Route 2, which links the capital with southern and western cities and has been disrupted by armed groups since 2021.",
+        "analysis": "Martissant's strategic importance lies in its location on the southern exit from Port-au-Prince. Armed groups have blocked traffic, demanded payments and attacked vehicles along this corridor since 2021, disrupting commerce, aid delivery and daily travel. Retaking territory could improve access, but a temporary military advance is not the same as reopening a road safely. The reported death toll alone cannot establish that the corridor is now secure or that residents can travel freely.",
+        "counterpoint": "The figure of 34 dead and the assertion that no civilians were injured come from Haiti's police, not an independent casualty assessment. Reuters and AP reported the use of explosive drones and a government task force supported by a private contractor. Analysts warned about civilian risks and the difficulty of holding territory after raids. Police said Salvadoran troops did not participate in this particular operation, although Salvadoran forces are active elsewhere in Haiti. The identities of all those killed and the lasting reopening of the route remain unverified.",
+        "slug": "haiti-police-report-34-suspected-gang-members-killed-in-bid-to-reclaim-key-road-2026-11-19"
+      },
+      "es": {
+        "category": "MUNDO",
+        "title": "HAITÍ: LA POLICÍA INFORMA DE 34 PRESUNTOS PANDILLEROS MUERTOS EN OPERACIÓN POR UNA RUTA CLAVE",
+        "subtitle": "La ofensiva en Martissant busca recuperar la conexión entre Puerto Príncipe y el sur; el balance oficial no ha sido verificado de forma independiente.",
+        "facts": "El 19 de noviembre de 2026, la Policía Nacional de Haití informó de al menos 34 personas señaladas como presuntos miembros de pandillas muertas durante una operación en Martissant, al sur de Puerto Príncipe. Participaron agentes policiales y una fuerza de tarea del gobierno. Según las autoridades, no hubo policías ni civiles heridos, extremo que no ha sido confirmado de manera independiente. Reuters verificó que las imágenes difundidas por la policía, incluido el derrumbe de un edificio entre humo, fueron grabadas en Martissant. La operación busca recuperar la Ruta Nacional 2, que conecta la capital con ciudades del sur y oeste y permanece afectada por grupos armados desde 2021.",
+        "analysis": "Martissant ocupa un punto estratégico en la salida sur de Puerto Príncipe. Desde 2021, las pandillas han bloqueado el corredor, cobrado peajes ilegales y atacado vehículos, perjudicando el comercio, la ayuda humanitaria y los desplazamientos diarios. Recuperar posiciones podría facilitar el tránsito, pero una incursión temporal no equivale a restablecer la seguridad de la carretera. El balance de muertos no demuestra que la ruta esté abierta ni que los habitantes puedan circular sin peligro.",
+        "counterpoint": "Las cifras de 34 muertos y de ausencia de víctimas civiles proceden de la policía haitiana, no de una investigación independiente. Reuters y AP informaron del uso de drones explosivos y de una fuerza de tarea con apoyo privado. Especialistas advirtieron de los riesgos para los civiles y de la dificultad de mantener el control territorial. La policía negó la participación de militares salvadoreños en esta operación concreta, aunque fuerzas de El Salvador actúan en otras zonas del país. No se han verificado de manera independiente las identidades de todos los fallecidos ni la reapertura permanente de la carretera.",
+        "slug": "haiti-la-policia-informa-de-34-presuntos-pandilleros-muertos-en-operacion-por-2026-11-19"
+      }
+    },
+    {
       "id": "comissoes-senado-propoem-859-bilhoes-emendas-orcamento-2027-2026-11-19",
       "date": "2026-11-19",
       "category": "ECONOMIA",
