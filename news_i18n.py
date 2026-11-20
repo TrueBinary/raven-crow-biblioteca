@@ -12,6 +12,7 @@ from urllib.parse import urlparse
 
 from news_photos import news_figures
 from news_videos import news_videos
+from plain_title import plain_title, article_text
 
 REQUIRED = ("title", "facts", "analysis", "counterpoint")
 LANGS = {
@@ -137,9 +138,10 @@ def url_of(base: str, lang: str, slug: str) -> str:
     return f"{base}/{lang}/{section(lang, 'noticias')}/{slug}/"
 
 
-def render_article(root: Path, a: dict, lang: str, updated: str, credits: dict, css: str, base: str, title_html) -> str:
+def render_article(root: Path, a: dict, lang: str, updated: str, credits: dict, css: str, base: str, title_html, corpus: str = "") -> str:
     """Write public/<lang>/noticias/<id>/index.html and return its URL."""
     b, slug, L = block(a, lang), a["id"], LANGS[lang]
+    seo = plain_title(b["title"], article_text(b), corpus)  # <title>/og:title/headline em caixa normal; o h1 segue igual
     url, pt_url = url_of(base, lang, local_slug(a, lang)), f"{base}/noticias/{slug}/"
     caps = b.get("photo_captions") if isinstance(b.get("photo_captions"), dict) else {}
     local = dict(credits)
@@ -152,7 +154,7 @@ def render_article(root: Path, a: dict, lang: str, updated: str, credits: dict, 
     figs = {k: figs[k] + vids[k] for k in figs}
     sources = "".join('<li><a rel="noopener noreferrer" target="_blank" href="' + _esc(s["url"]) + '">' + _esc(s.get("name", L["source"])) + "</a></li>"
                       for s in a.get("sources", []) if urlparse(s.get("url", "")).scheme == "https")
-    schema = {"@context": "https://schema.org", "@type": "NewsArticle", "headline": b["title"], "description": b.get("subtitle", ""),
+    schema = {"@context": "https://schema.org", "@type": "NewsArticle", "headline": seo, "description": b.get("subtitle", ""),
               "inLanguage": lang, "datePublished": a.get("firstSeen") or a["date"], "dateModified": a.get("firstSeen") or a["date"], "author": {"@type": "Organization", "name": "Raven Crow"},
               "publisher": {"@type": "Organization", "name": "Raven Crow"}, "mainEntityOfPage": {"@type": "WebPage", "@id": url}, "isAccessibleForFree": True}
     photo = root / "public" / "editorial" / "photos" / (slug + ".jpg")
@@ -164,7 +166,7 @@ def render_article(root: Path, a: dict, lang: str, updated: str, credits: dict, 
     ld = og + '<meta property="og:type" content="article"><script type="application/ld+json">' + json.dumps(schema, ensure_ascii=False).replace("<", "\\u003c") + "</script>"
     alts = {l: url_of(base, l, local_slug(a, l)) for l in langs_of(a)}
     h = L["h"]
-    page = (_head(lang, b["title"] + " | Raven Crow", b.get("subtitle", ""), url, hreflang(pt_url, alts), css, ld)
+    page = (_head(lang, seo + " | Raven Crow", b.get("subtitle", ""), url, hreflang(pt_url, alts), css, ld)
             + '<body class="rc-news">' + _top(lang, "../../../", "../../../noticias/" + slug + "/")
             + '<main><span class="rc-pill">' + _esc(b.get("category") or L["category"]) + " / " + L["pill"] + "</span><h1>" + title_html(b["title"]) + "</h1>"
             + "<p><strong>" + _esc(b.get("subtitle", "")) + "</strong></p>" + figs["style"] + figs["top"]

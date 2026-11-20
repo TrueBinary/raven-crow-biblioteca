@@ -13,6 +13,7 @@ import re
 from xml.sax.saxutils import escape as xml_escape
 
 from news_i18n import PAGE_SLUGS, section
+from plain_title import plain_title, article_text
 
 BASE = "https://ravencrow.cloud"
 SLUG = re.compile(r"[a-z0-9-]{3,100}\Z")
@@ -199,7 +200,9 @@ def build(root: Path, today: date | None = None) -> dict:
     linked_news = []
     recent_news = []
     first_seen = _first_seen(pub)
+    corpus = "\n".join(article_text(x) for x in news.values())
     for slug, item in sorted(news.items(), key=lambda kv: (kv[1].get("date", ""), kv[0]), reverse=True):
+        title = plain_title(item.get("title", ""), article_text(item), corpus)  # buscadores e IAs citam como está
         url = BASE + "/noticias/" + slug + "/"
         file = pub / "noticias" / slug / "index.html"
         published = _date(item.get("date"))
@@ -217,7 +220,7 @@ def build(root: Path, today: date | None = None) -> dict:
         ]
         article = {
             "@type": "NewsArticle", "@id": url + "#article",
-            "headline": item.get("title", ""), "description": item.get("subtitle", ""),
+            "headline": title, "description": item.get("subtitle", ""),
             "datePublished": published_at, "dateModified": modified_at, "inLanguage": "pt-BR",
             "articleSection": item.get("category", "Análise"),
             "author": {"@id": BASE + "/#organization"},
@@ -229,11 +232,11 @@ def build(root: Path, today: date | None = None) -> dict:
             article["image"] = image
         if citations:
             article["citation"] = citations
-        _metadata(file, [article, _crumbs("Notícias", item.get("title", ""), url)],
+        _metadata(file, [article, _crumbs("Notícias", title, url)],
                   published=published_at, modified=modified_at, image=image)
         entries.append((url, modified))
-        linked_news.append((url, item.get("title", "")))
-        recent_news.append((url, item.get("title", ""), published))
+        linked_news.append((url, title))
+        recent_news.append((url, title, published))
 
     for slug, item in sorted(essays.items()):
         url = BASE + "/coluna/" + slug + "/"

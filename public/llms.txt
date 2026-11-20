@@ -1,0 +1,21 @@
+# Raven Crow
+
+> Editorial independente brasileiro: notícias e análises sobre política, instituições e economia do Brasil e do mundo, a Coluna do Corvo (ensaios de opinião) e a Biblioteca do Corvo (livros de filosofia). Conteúdo em português, com edições em inglês e espanhol.
+
+Cada notícia traz as seções "O que aconteceu" (fatos), "Análise do Corvo", "Contraponto" e "Fontes", com links para as fontes primárias (órgãos oficiais, agências e veículos). Fotos são de arquivo com licença livre e crédito; a legenda informa quando a imagem não retrata o fato.
+
+## Seções
+
+- [Notícias](https://ravencrow.cloud/noticias): todas as notícias, da mais recente à mais antiga
+- [Coluna do Corvo](https://ravencrow.cloud/coluna): ensaios de opinião sobre política, filosofia, fé e família
+- [Biblioteca do Corvo](https://ravencrow.cloud/livros): livros recomendados
+- [Sobre](https://ravencrow.cloud/sobre): quem somos e como trabalhamos
+- [News in English](https://ravencrow.cloud/en/)
+- [Noticias en español](https://ravencrow.cloud/es/)
+
+## Dados
+
+- [Sitemap](https://ravencrow.cloud/sitemap.xml)
+- [Notícias dos últimos dois dias](https://ravencrow.cloud/sitemap-news.xml)
+- [Feed editorial em JSON](https://ravencrow.cloud/editorial-feed.json)
+- [Créditos das fotos](https://ravencrow.cloud/creditos-fotos.html)
