@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "ataques-russos-atingem-tres-pontes-kiev-2026-11-20",
+      "date": "2026-11-20",
+      "category": "MUNDO",
+      "title": "ATAQUES RUSSOS ATINGEM TRÊS PONTES EM KIEV; AUTORIDADES RELATAM TRÊS MORTOS",
+      "subtitle": "Bombardeios da madrugada interrompem travessias sobre o rio Dnipro; número de vítimas e extensão dos danos ainda podem mudar.",
+      "facts": "Na madrugada de sexta-feira, 20 de novembro de 2026, ataques com mísseis russos atingiram três pontes sobre o rio Dnipro em Kiev, capital da Ucrânia. Segundo o prefeito Vitali Klitschko, três pessoas morreram e cerca de 15 ficaram feridas. As pontes Podilsko-Voskresenskyi, Darnytskyi e Pivdennyi sofreram restrições ou interrupções de tráfego enquanto equipes avaliavam os danos. Incêndios e danos a estruturas civis e de infraestrutura também foram relatados. Reuters e Financial Times noticiaram o episódio; os números iniciais e a avaliação estrutural dependem de atualizações das autoridades locais.",
+      "analysis": "As travessias do Dnipro conectam as margens oriental e ocidental da capital e são fundamentais para deslocamentos diários, serviços de emergência e transporte de mercadorias. O impacto imediato não se limita ao dano físico: mesmo uma ponte que permaneça de pé pode precisar ser interditada para inspeção, deslocando o fluxo para outras rotas. O ataque ocorre depois de novos bombardeios a pontes de Kiev no início da semana e de uma ofensiva ucraniana contra a ponte que liga a Rússia à Crimeia anexada. A sequência aumenta a pressão sobre a infraestrutura de transporte, mas não permite atribuir, sem evidências adicionais, a intenção de cada disparo.",
+      "counterpoint": "As informações sobre mortos, feridos e pontes atingidas foram inicialmente divulgadas por autoridades ucranianas. Não há nesta apuração laudo estrutural definitivo nem confirmação independente de todos os danos e números de vítimas. Moscou afirma atingir alvos de infraestrutura militar e logística; isso não demonstra que cada local afetado tinha uso militar. A legislação humanitária internacional exige distinção entre objetivos militares e bens civis, além de proporcionalidade e precauções em ataques.",
+      "sources": [
+        {
+          "name": "Reuters — ataques a três pontes de Kiev, 20/11/2026",
+          "url": "https://www.reuters.com/world/europe/fire-broke-out-ukraines-kyiv-after-missile-strike-mayor-says-2026-11-20/"
+        },
+        {
+          "name": "Financial Times — danos e interrupções em Kiev, 20/11/2026",
+          "url": "https://www.ft.com/content/d76c0ce7-ba3b-42b3-8efa-7724cc0900d7"
+        },
+        {
+          "name": "Reuters — ataques anteriores às pontes de Kiev, 17/11/2026",
+          "url": "https://www.reuters.com/world/kyiv-mayor-klitschko-says-russian-forces-struck-two-bridges-across-dnipro-river-2026-11-16/"
+        }
+      ],
+      "en": {
+        "category": "WORLD",
+        "title": "RUSSIAN STRIKES HIT THREE KYIV BRIDGES; AUTHORITIES REPORT THREE DEAD",
+        "subtitle": "Overnight missile attacks disrupt crossings over the Dnipro River; casualty figures and the extent of damage remain preliminary.",
+        "facts": "On Friday, November 20, 2026, Russian missile strikes hit three bridges across the Dnipro River in Kyiv, Ukraine's capital. Mayor Vitali Klitschko reported three deaths and about 15 injuries. Traffic was halted or restricted on the Podilsko-Voskresenskyi, Darnytskyi and Pivdennyi bridges as crews assessed the damage. Fires and damage to other civilian buildings and infrastructure were also reported. Reuters and the Financial Times covered the attacks; initial casualty figures and structural assessments remain subject to updates.",
+        "analysis": "The Dnipro crossings connect Kyiv's eastern and western banks and are essential to commuting, emergency response and freight. Their disruption can extend beyond physical damage: a bridge that remains standing may still be closed for safety inspections, forcing traffic onto alternative routes. The latest strikes follow attacks on Kyiv bridges earlier in the week and Ukrainian strikes on the bridge connecting Russia to annexed Crimea. The sequence puts transport infrastructure under further pressure but does not, on its own, establish the intent behind each strike.",
+        "counterpoint": "Early casualty figures and bridge damage reports came from Ukrainian authorities. This report does not have a final engineering assessment or independent verification of every reported injury and damaged structure. Moscow says it targets military and logistical infrastructure, which does not establish the military status of every site struck. International humanitarian law requires distinction between military objectives and civilian objects, proportionality and precautions in attack.",
+        "slug": "russian-strikes-hit-three-kyiv-bridges-authorities-report-three-dead-2026-11-20"
+      },
+      "es": {
+        "category": "MUNDO",
+        "title": "ATAQUES RUSOS ALCANZAN TRES PUENTES DE KIEV; AUTORIDADES INFORMAN DE TRES MUERTOS",
+        "subtitle": "Los bombardeos nocturnos interrumpen cruces sobre el río Dniéper; las cifras de víctimas y los daños siguen siendo provisionales.",
+        "facts": "El viernes 20 de noviembre de 2026, ataques rusos con misiles alcanzaron tres puentes sobre el río Dniéper en Kiev, capital de Ucrania. El alcalde Vitali Klitschko informó de tres muertos y unos 15 heridos. El tránsito quedó interrumpido o restringido en los puentes Podilsko-Voskresenskyi, Darnytskyi y Pivdennyi mientras los equipos evaluaban los daños. También se registraron incendios y daños en edificios e infraestructuras civiles. Reuters y Financial Times informaron sobre los ataques; los balances iniciales y las evaluaciones estructurales pueden cambiar.",
+        "analysis": "Los puentes sobre el Dniéper unen las orillas oriental y occidental de Kiev y son esenciales para el transporte cotidiano, los servicios de emergencia y las mercancías. Incluso un puente que sigue en pie puede permanecer cerrado por inspecciones de seguridad, desviando el tráfico hacia otras rutas. Los ataques se producen después de bombardeos contra puentes de Kiev a principios de semana y de operaciones ucranianas contra el puente que conecta Rusia con la Crimea anexionada. Esta secuencia aumenta la presión sobre las infraestructuras, pero no prueba por sí sola la intención de cada ataque.",
+        "counterpoint": "Las primeras cifras de víctimas y daños proceden de las autoridades ucranianas. No se dispone aquí de una evaluación estructural definitiva ni de una verificación independiente de todos los daños y heridos. Moscú sostiene que ataca infraestructuras militares y logísticas, pero ello no demuestra el carácter militar de cada lugar alcanzado. El derecho internacional humanitario exige distinguir los objetivos militares de los bienes civiles, respetar la proporcionalidad y adoptar precauciones.",
+        "slug": "ataques-rusos-alcanzan-tres-puentes-de-kiev-autoridades-informan-de-tres-muertos-2026-11-20"
+      },
+      "firstSeen": "2026-11-20T04:02:39-03:00"
+    },
+    {
       "id": "haiti-policia-operacao-martissant-34-suspeitos-mortos-2026-11-19",
       "date": "2026-11-19",
       "category": "MUNDO",
