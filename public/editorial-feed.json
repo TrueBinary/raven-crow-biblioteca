@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "temporais-rs-19663-pessoas-33-municipios-balanco-2026-11-21",
+      "date": "2026-11-21",
+      "title": "TEMPORAIS NO RS JÁ AFETAM 19,6 MIL PESSOAS EM 33 MUNICÍPIOS, DIZ DEFESA CIVIL",
+      "subtitle": "Novo balanço estadual registra 19.663 afetados, 60 feridos e 50 desabrigados após temporais no Rio Grande do Sul.",
+      "category": "BRASIL",
+      "facts": "A Defesa Civil do Rio Grande do Sul informou em 21 de novembro de 2026 que tempestades recentes afetaram 19.663 pessoas em 33 municípios do estado, segundo balanço reproduzido pela Agência Brasil. De acordo com o mesmo boletim, os temporais deixaram 60 feridos e 50 desabrigados, com Tupanciretã entre as cidades mais atingidas. A Agência Brasil registra três mortes em Tupanciretã, onde os danos incluem cerca de 7 mil casas destelhadas e 20 escolas danificadas, números sujeitos a atualização pelas equipes de campo.",
+      "analysis": "O balanço estadual amplia a dimensão do desastre além de Tupanciretã, que concentrava as primeiras informações sobre vítimas e destruição. Em 20 de novembro, a Defesa Civil contabilizava 32 ocorrências em 28 municípios; a atualização de 21 de novembro aponta 33 municípios afetados. Os números não devem ser confundidos: ocorrências registradas e municípios afetados são indicadores diferentes. A extensão territorial exige coordenação de abrigos, reparos em energia e acesso viário, além de levantamentos municipais para dimensionar recursos de reconstrução.",
+      "counterpoint": "Os números são preliminares e podem mudar conforme chegam novos registros. Os totais de casas afetadas variam entre levantamentos que usam critérios distintos, como destelhamento, danos e destruição; por isso, não devem ser somados automaticamente. A classificação meteorológica exata dos ventos em cada município também depende de análise técnica.",
+      "sources": [
+        {
+          "name": "Agência Brasil — balanço da Defesa Civil, 21/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/tempestade-no-rio-grande-do-sul-afeta-196-mil-pessoas-em-33-cidades"
+        },
+        {
+          "name": "Agência Brasil — danos em 28 municípios, 20/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/estragos-no-rs-atingem-mais-cidades-alem-de-tupancireta"
+        },
+        {
+          "name": "Rádio Nacional — boletim de 21/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-11/temporais-atingem-33-municipios-no-rs-tupancireta-e-o-mais-afetado"
+        }
+      ],
+      "en": {
+        "title": "Storms affect 19,663 people across 33 municipalities in Brazil's Rio Grande do Sul",
+        "subtitle": "A new state Civil Defense report records 19,663 affected people, 60 injured and 50 without shelter after storms.",
+        "facts": "On November 21, 2026, the Rio Grande do Sul Civil Defense agency reported that recent storms affected 19,663 people across 33 municipalities in southern Brazil, according to a bulletin reported by Agência Brasil. The same agency reported 60 injured people and 50 people without shelter, with Tupanciretã among the hardest-hit cities. Agência Brasil reported three deaths in Tupanciretã, where damage included around 7,000 homes with roof damage and 20 damaged schools, figures subject to further field assessment.",
+        "analysis": "The statewide update shows that the disaster extends beyond Tupanciretã, where initial reports focused on casualties and destruction. On November 20, Civil Defense counted 32 incidents in 28 municipalities; the November 21 update identifies 33 affected municipalities. Incident counts and affected-municipality counts are different measures and should not be directly compared. The geographic spread increases demands on emergency shelter, power restoration, road access and municipal damage assessments.",
+        "counterpoint": "These figures remain preliminary and may change as field reports arrive. Housing damage estimates use different categories, including roof damage, structural damage and destruction, and cannot simply be added together. The precise meteorological classification of the winds in each municipality also requires technical assessment.",
+        "category": "BRAZIL",
+        "slug": "storms-affect-19-663-people-across-33-municipalities-in-brazil-s-rio-grande-do-2026-11-21"
+      },
+      "es": {
+        "title": "Temporales afectan a 19.663 personas en 33 municipios de Rio Grande do Sul, Brasil",
+        "subtitle": "Un nuevo balance de Defensa Civil registra 19.663 afectados, 60 heridos y 50 personas sin alojamiento tras los temporales.",
+        "facts": "El 21 de noviembre de 2026, la Defensa Civil de Rio Grande do Sul informó que los temporales recientes afectaron a 19.663 personas en 33 municipios del sur de Brasil, según un balance divulgado por Agência Brasil. El mismo organismo contabilizó 60 heridos y 50 personas sin alojamiento, con Tupanciretã entre las localidades más perjudicadas. Agência Brasil informó de tres muertes en Tupanciretã, donde los daños incluyen unas 7.000 viviendas destechadas y 20 escuelas dañadas, cifras sujetas a nuevas evaluaciones sobre el terreno.",
+        "analysis": "La actualización estatal demuestra que el desastre va más allá de Tupanciretã, donde se concentraron los primeros informes de víctimas y destrucción. El 20 de noviembre, Defensa Civil registraba 32 incidentes en 28 municipios; el balance del 21 de noviembre identifica 33 municipios afectados. Los incidentes registrados y los municipios afectados son indicadores diferentes y no deben compararse directamente. La extensión territorial exige coordinación de refugios, reparaciones eléctricas, accesos viales y evaluaciones municipales de daños.",
+        "counterpoint": "Las cifras son preliminares y pueden cambiar con nuevos informes. Las estimaciones de viviendas dañadas emplean categorías distintas, como destechamiento, daños estructurales y destrucción, por lo que no deben sumarse automáticamente. La clasificación meteorológica exacta de los vientos en cada municipio también requiere análisis técnico.",
+        "category": "BRASIL",
+        "slug": "temporales-afectan-a-19-663-personas-en-33-municipios-de-rio-grande-do-sul-2026-11-21"
+      },
+      "firstSeen": "2026-11-21T14:04:40-03:00"
+    },
+    {
       "id": "incendio-usina-hartha-basra-iraque-quatro-mortos-2026-11-21",
       "date": "2026-11-21",
       "category": "MUNDO",
