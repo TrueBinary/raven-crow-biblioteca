@@ -2,9 +2,45 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-20T23:56:00-03:00",
+  "updatedAt": "2026-11-21T02:57:40-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "fbi-investiga-suspeita-invasao-banco-criminal-ncic-2026-11-21",
+      "date": "2026-11-21",
+      "category": "MUNDO",
+      "title": "FBI INVESTIGA SUSPEITA DE INVASÃO EM BANCO NACIONAL DE DADOS CRIMINAIS DOS EUA",
+      "subtitle": "Investigação sobre possível acesso indevido ao NCIC foi revelada pela CNN; alcance da suspeita ainda não foi confirmado.",
+      "facts": "O Federal Bureau of Investigation (FBI), a polícia federal dos Estados Unidos, investiga uma possível invasão do National Crime Information Center (NCIC), sistema nacional de informações criminais usado por autoridades policiais americanas. A suspeita foi divulgada em 20 de novembro de 2026 pela CNN, com base em duas pessoas informadas sobre a investigação, segundo a reportagem original da emissora. A Reuters informou em 21 de novembro de 2026 que o episódio, caso confirmado, representaria a segunda intrusão envolvendo sistemas do FBI em meses, após um ataque ao portal de recrutamento em setembro de 2026. O NCIC é usado para compartilhar mandados, históricos criminais e informações de verificação de antecedentes. Ainda não há confirmação pública sobre quais dados teriam sido acessados, quantas pessoas seriam afetadas ou quem estaria por trás do incidente.",
+      "analysis": "O ponto mais relevante não é apenas a possibilidade de vazamento, mas a natureza do sistema investigado: o NCIC apoia consultas de órgãos policiais federais, estaduais e locais. Uma intrusão confirmada poderia exigir revisão de credenciais, auditoria de acessos e avaliação da integridade das consultas; essas são consequências possíveis, não medidas anunciadas. A comparação com o episódio de setembro exige cautela: o ataque anterior atingiu um portal de empregos, enquanto a suspeita atual envolve um banco operacional de informações criminais. São superfícies e riscos distintos.",
+      "counterpoint": "A CNN descreveu uma aparente invasão com base em fontes familiarizadas com a apuração. A Reuters não obteve resposta do FBI ao pedir comentários. Portanto, não é correto afirmar como fato consumado que todo o banco de dados foi comprometido ou que registros foram roubados. Também não há evidência apresentada de ligação entre este caso e os demais incidentes tecnológicos recentes.",
+      "sources": [
+        {
+          "name": "CNN — reportagem de Evan Perez, 20/11/2026",
+          "url": "https://ktvz.com/politics/cnn-us-politics/2026/11/20/the-fbi-was-hacked-again-this-time-the-breach-targeted-its-crime-database/"
+        },
+        {
+          "name": "Reuters — 21/11/2026",
+          "url": "https://www.reuters.com/world/us/fbis-criminal-information-database-hacked-cnn-reports-2026-11-21/"
+        }
+      ],
+      "en": {
+        "title": "FBI INVESTIGATES SUSPECTED BREACH OF US NATIONAL CRIME DATABASE",
+        "subtitle": "CNN reported a suspected intrusion into the NCIC; investigators have not publicly confirmed the scope of any access.",
+        "facts": "The Federal Bureau of Investigation (FBI), the United States federal law-enforcement agency, is investigating a suspected intrusion into the National Crime Information Center (NCIC), a nationwide criminal information system used by US police agencies. CNN reported the investigation on November 20, 2026, citing two people briefed on it, according to the network's original report. Reuters reported on November 21, 2026, that the suspected incident would be the second intrusion involving an FBI system in recent months if confirmed, following a September 2026 breach of a recruitment website. NCIC helps authorities share warrants, criminal histories and background-check information. Officials have not publicly confirmed what data, if any, were accessed, how many people may be affected or who was responsible.",
+        "analysis": "The concern extends beyond potential disclosure: NCIC supports federal, state and local law-enforcement queries. A confirmed intrusion could prompt access audits, credential reviews and integrity checks, although none of these measures has been announced. The September incident involved a recruitment website; the new allegation concerns an operational criminal-information system, with different potential risks.",
+        "counterpoint": "CNN's account relies on people briefed on the investigation, and the FBI did not respond to Reuters' request for comment. A suspected intrusion does not establish that the entire database was compromised or that records were stolen. No verified link to other recent technology disruptions has been established.",
+        "category": "WORLD"
+      },
+      "es": {
+        "title": "EL FBI INVESTIGA UNA POSIBLE INTRUSIÓN EN LA BASE NACIONAL DE DATOS PENALES DE EE. UU.",
+        "subtitle": "CNN informó de una posible intrusión en el NCIC; el alcance del presunto acceso sigue sin confirmación pública.",
+        "facts": "La Oficina Federal de Investigaciones (FBI), agencia federal de investigación de Estados Unidos, investiga una posible intrusión en el Centro Nacional de Información Criminal (NCIC), sistema nacional utilizado por organismos policiales estadounidenses. CNN informó de la investigación el 20 de noviembre de 2026, citando a dos personas informadas sobre el caso, según el reportaje original de la cadena. Reuters señaló el 21 de noviembre de 2026 que, de confirmarse, sería la segunda intrusión en un sistema del FBI en los últimos meses, tras el ataque de septiembre de 2026 contra su portal de contratación. El NCIC permite compartir órdenes de detención, antecedentes penales y datos para verificaciones de antecedentes. No se ha confirmado públicamente qué datos se habrían consultado, cuántas personas podrían resultar afectadas ni quién sería responsable.",
+        "analysis": "La importancia del caso radica en el uso operativo del NCIC por policías federales, estatales y locales. Una intrusión confirmada podría motivar auditorías de acceso y comprobaciones de integridad, aunque no se han anunciado tales medidas. El incidente de septiembre afectó a un portal de empleo, mientras que la sospecha actual se refiere a un sistema de información penal, con riesgos potenciales diferentes.",
+        "counterpoint": "CNN se basó en fuentes conocedoras de la investigación y el FBI no respondió a la solicitud de comentarios de Reuters. Una posible intrusión no demuestra que toda la base de datos haya sido comprometida ni que se hayan sustraído registros. Tampoco se ha acreditado relación con otras interrupciones tecnológicas recientes.",
+        "category": "MUNDO"
+      }
+    },
     {
       "id": "trump-ameaca-taxar-data-centers-exterior-2026-11-20",
       "date": "2026-11-20",
