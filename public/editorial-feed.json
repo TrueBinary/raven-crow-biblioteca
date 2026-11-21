@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "trump-ameaca-taxar-data-centers-exterior-2026-11-20",
+      "date": "2026-11-20",
+      "title": "TRUMP AMEAÇA TAXAR DATA CENTERS DE EMPRESAS AMERICANAS NO EXTERIOR, MAS NÃO DETALHA MEDIDA",
+      "subtitle": "Presidente dos EUA promete penalidades para empresas que instalarem centros de dados fora do país, sem apresentar proposta formal.",
+      "category": "TECNOLOGIA",
+      "facts": "O presidente dos Estados Unidos, Donald Trump, afirmou em 20 de novembro de 2026, durante entrevista coletiva na Casa Branca, em Washington, que pretende impor taxas elevadas a empresas americanas que construam centros de dados no exterior, segundo a Reuters e a Associated Press. Trump não apresentou alíquota, texto normativo ou mecanismo de cobrança e disse que ainda não havia comunicado o plano à própria equipe, segundo a Associated Press. A Reuters informou que regras anunciadas pelo governo americano em 16 de novembro de 2026 restringiram o acesso remoto a chips avançados de inteligência artificial; para certos centros de dados que atendem empresas sediadas na China, a adequação às exigências de licença tem prazo de 90 dias. São iniciativas distintas: a regra sobre chips já foi anunciada, enquanto a ameaça tributária não foi formalizada.",
+      "analysis": "A fala coloca em tensão duas prioridades da política tecnológica americana: concentrar investimentos e capacidade computacional nos Estados Unidos e manter serviços de computação próximos de usuários internacionais. Centros de dados sustentam o treinamento e a operação de sistemas de inteligência artificial, mas também atendem serviços sensíveis à latência, como pagamentos. Uma penalidade para instalações externas poderia alterar custos e planos de expansão de empresas americanas; seu alcance depende de detalhes ainda inexistentes. O contexto é a disputa tecnológica com a China e a resistência de comunidades americanas ao consumo de energia e água dessas instalações. Para o Brasil, ainda não há base para afirmar que projetos locais serão atingidos: a medida anunciada oralmente não define países, empresas ou exceções.",
+      "counterpoint": "O anúncio é uma intenção presidencial, não uma taxa vigente. Trump não explicou fundamento jurídico, valores, vigência ou eventuais exceções. As restrições a chips de 16 de novembro não devem ser confundidas com a penalidade tributária aventada em 20 de novembro. Sem regulamentação, impactos financeiros específicos seriam especulativos.",
+      "sources": [
+        {
+          "name": "Reuters — Trump says US to penalize firms building data centers abroad (20/11/2026)",
+          "url": "https://www.reuters.com/technology/trump-says-us-penalize-firms-building-data-centers-abroad-2026-11-20/"
+        },
+        {
+          "name": "Associated Press — Trump seeks to penalize US companies that build AI data centers abroad (20/11/2026)",
+          "url": "https://apnews.com/article/f1ac03b73d13445400eeed8631d9d879"
+        },
+        {
+          "name": "Reuters — US to curb China's access to AI chips (16/11/2026)",
+          "url": "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/"
+        }
+      ],
+      "en": {
+        "title": "TRUMP THREATENS TAXES ON US COMPANIES BUILDING DATA CENTERS ABROAD, WITHOUT POLICY DETAILS",
+        "subtitle": "The US president threatens penalties for overseas data centers but has yet to present a formal proposal.",
+        "category": "TECHNOLOGY",
+        "facts": "US President Donald Trump said at a White House news conference in Washington on November 20, 2026, that he intends to impose heavy taxes on American companies building data centers overseas, Reuters and the Associated Press reported. Trump specified no tax rate, legal instrument or enforcement mechanism and said he had not yet briefed his own staff, according to the Associated Press. Reuters reported that US rules announced on November 16, 2026, restricted remote access to advanced artificial intelligence chips and gave certain data centers serving China-based firms 90 days to meet licensing requirements. These are separate developments: the chip restrictions have been announced, while the proposed tax remains an unformalized threat.",
+        "analysis": "The statement exposes a tension between keeping computing investment inside the United States and locating services near international users. Data centers underpin AI training and operation but also support latency-sensitive services such as payments. A penalty could affect expansion costs and plans, although its scope remains undefined. The backdrop includes competition with China and US community concerns about electricity and water use. There is no basis yet to conclude that specific Brazilian projects will be affected.",
+        "counterpoint": "A presidential statement is not an enacted tax. Rates, legal authority, implementation and exemptions remain unspecified. The November 16 chip-access restrictions are distinct from the threatened November 20 tax; precise financial impacts cannot yet be established.",
+        "slug": "trump-threatens-taxes-on-us-companies-building-data-centers-abroad-without-2026-11-20"
+      },
+      "es": {
+        "title": "TRUMP AMENAZA CON GRAVAR CENTROS DE DATOS DE EMPRESAS ESTADOUNIDENSES EN EL EXTERIOR, SIN DETALLAR LA MEDIDA",
+        "subtitle": "El presidente estadounidense amenaza con sanciones a centros de datos en el extranjero, pero no presenta una propuesta formal.",
+        "category": "TECNOLOGÍA",
+        "facts": "El presidente de Estados Unidos, Donald Trump, declaró el 20 de noviembre de 2026, en una rueda de prensa en la Casa Blanca, Washington, que pretende imponer fuertes impuestos a empresas estadounidenses que construyan centros de datos en el extranjero, según Reuters y Associated Press. Trump no precisó tasas, instrumentos legales ni mecanismos de aplicación y afirmó que todavía no había informado del plan a su equipo, según Associated Press. Reuters informó que las normas anunciadas el 16 de noviembre de 2026 restringieron el acceso remoto a chips avanzados de inteligencia artificial y concedieron 90 días a determinados centros de datos que atienden a empresas con sede en China para cumplir requisitos de licencia. Se trata de medidas diferentes: las restricciones sobre chips ya fueron anunciadas, mientras que el impuesto sigue siendo una amenaza sin formalizar.",
+        "analysis": "La declaración revela una tensión entre concentrar la inversión informática en Estados Unidos y situar los servicios cerca de usuarios internacionales. Los centros de datos sustentan la inteligencia artificial y servicios sensibles a la latencia, como los pagos. Una sanción podría modificar costes y planes de expansión, pero todavía se desconoce su alcance. El contexto incluye la competencia con China y las preocupaciones locales por el consumo de electricidad y agua. Aún no hay fundamento para afirmar que proyectos concretos en Brasil se verán afectados.",
+        "counterpoint": "Una declaración presidencial no equivale a un impuesto vigente. No se han definido tasas, base jurídica, aplicación ni excepciones. Las restricciones sobre chips del 16 de noviembre son distintas de la amenaza tributaria del 20 de noviembre; no es posible cuantificar impactos concretos.",
+        "slug": "trump-amenaza-con-gravar-centros-de-datos-de-empresas-estadounidenses-en-el-2026-11-20"
+      },
+      "firstSeen": "2026-11-20T23:56:00-03:00"
+    },
+    {
       "id": "bolsonaro-internado-dor-abdominal-df-star-2026-11-20",
       "date": "2026-11-20",
       "title": "BOLSONARO É INTERNADO EM BRASÍLIA COM DOR ABDOMINAL; HOSPITAL INVESTIGA CAUSA",
