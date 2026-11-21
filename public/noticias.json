@@ -140,7 +140,10 @@
         "facts": "On November 21, 2026, the Rio Grande do Sul Civil Defense agency reported that recent storms affected 19,663 people across 33 municipalities in southern Brazil, according to a bulletin reported by Agência Brasil. The same agency reported 60 injured people and 50 people without shelter, with Tupanciretã among the hardest-hit cities. Agência Brasil reported three deaths in Tupanciretã, where damage included around 7,000 homes with roof damage and 20 damaged schools, figures subject to further field assessment.",
         "analysis": "The statewide update shows that the disaster extends beyond Tupanciretã, where initial reports focused on casualties and destruction. On November 20, Civil Defense counted 32 incidents in 28 municipalities; the November 21 update identifies 33 affected municipalities. Incident counts and affected-municipality counts are different measures and should not be directly compared. The geographic spread increases demands on emergency shelter, power restoration, road access and municipal damage assessments.",
         "counterpoint": "These figures remain preliminary and may change as field reports arrive. Housing damage estimates use different categories, including roof damage, structural damage and destruction, and cannot simply be added together. The precise meteorological classification of the winds in each municipality also requires technical assessment.",
-        "category": "BRAZIL"
+        "category": "BRAZIL",
+        "photo_captions": {
+          "1": "PHOTO (released November 21, 2026): members of a federal response team mobilized to assist Tupanciretã, Rio Grande do Sul, pose in front of a Brazilian Air Force aircraft. Exact location not stated. MDS handout, CC BY-ND 3.0. The image does not show storm damage or victims."
+        }
       },
       "es": {
         "title": "Temporales afectan a 19.663 personas en 33 municipios de Rio Grande do Sul, Brasil",
@@ -148,8 +151,22 @@
         "facts": "El 21 de noviembre de 2026, la Defensa Civil de Rio Grande do Sul informó que los temporales recientes afectaron a 19.663 personas en 33 municipios del sur de Brasil, según un balance divulgado por Agência Brasil. El mismo organismo contabilizó 60 heridos y 50 personas sin alojamiento, con Tupanciretã entre las localidades más perjudicadas. Agência Brasil informó de tres muertes en Tupanciretã, donde los daños incluyen unas 7.000 viviendas destechadas y 20 escuelas dañadas, cifras sujetas a nuevas evaluaciones sobre el terreno.",
         "analysis": "La actualización estatal demuestra que el desastre va más allá de Tupanciretã, donde se concentraron los primeros informes de víctimas y destrucción. El 20 de noviembre, Defensa Civil registraba 32 incidentes en 28 municipios; el balance del 21 de noviembre identifica 33 municipios afectados. Los incidentes registrados y los municipios afectados son indicadores diferentes y no deben compararse directamente. La extensión territorial exige coordinación de refugios, reparaciones eléctricas, accesos viales y evaluaciones municipales de daños.",
         "counterpoint": "Las cifras son preliminares y pueden cambiar con nuevos informes. Las estimaciones de viviendas dañadas emplean categorías distintas, como destechamiento, daños estructurales y destrucción, por lo que no deben sumarse automáticamente. La clasificación meteorológica exacta de los vientos en cada municipio también requiere análisis técnico.",
-        "category": "BRASIL"
-      }
+        "category": "BRASIL",
+        "photo_captions": {
+          "1": "FOTO (difundida el 21 de noviembre de 2026): integrantes de un equipo federal movilizado para asistir a Tupanciretã, Rio Grande do Sul, posan frente a una aeronave de la Fuerza Aérea Brasileña. No se precisó el lugar exacto. Difusión/MDS, CC BY-ND 3.0. No muestra daños ni víctimas del temporal."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://www.gov.br/mds/pt-br/noticias-e-conteudos/Noticias/2026/mds-reforca-assistencia-social-as-familias-atingidas-por-tempestade-no-rio-grande-do-sul/photo-2026-11-21-15-11-44.jpg/@@images/ff657f8f-71f4-42c6-9bac-2fb6aea6f3ef.jpeg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada (CC BY-ND 3.0), licença institucional indicada no portal do MDS",
+          "credit": "Divulgação / Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS)",
+          "source_article": "https://www.gov.br/mds/pt-br/noticias-e-conteudos/Noticias/2026/mds-reforca-assistencia-social-as-familias-atingidas-por-tempestade-no-rio-grande-do-sul",
+          "caption": "FOTO (divulgada em 21/11/2026): integrantes de equipe federal mobilizada para prestar assistência a Tupanciretã (RS) posam diante de aeronave da Força Aérea Brasileira. Local exato da imagem não informado. Divulgação/MDS, CC BY-ND 3.0. Não retrata danos ou vítimas do temporal."
+        }
+      ]
     },
     {
       "id": "incendio-usina-hartha-basra-iraque-quatro-mortos-2026-11-21",
