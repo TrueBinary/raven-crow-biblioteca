@@ -34,7 +34,10 @@
         "category": "WORLD",
         "facts": "On November 21, 2026, Denmark urged European Union (EU) member states to tighten Russian citizens' access to the Schengen Area after Danish authorities alleged an assassination plot against a Ukrainian-American rapper near Copenhagen. According to Reuters, a message sent to European diplomats on November 20 proposed suspending tourist visas and refusing non-biometric Russian passports across Schengen. Reuters reported that Denmark plans to present its proposals to EU ambassadors on Monday, November 23, and that the Danish government announced the expulsion of Russia's defence attaché on November 20. Russian intelligence involvement remains an allegation by Danish authorities that the Russian embassy disputes.",
         "analysis": "The proposal moves a national security investigation into an EU-wide debate over travel rules. Coordinated visa restrictions would extend beyond bilateral diplomatic measures, but would require decisions by the relevant European governments and institutions. A diplomatic proposal is not an enacted travel ban.",
-        "counterpoint": "The Russian embassy in Copenhagen denied that the accusations were supported by evidence. Reuters reported on a diplomatic message confirmed by two diplomats; that does not establish EU adoption of the proposals or a court finding on the alleged plot."
+        "counterpoint": "The Russian embassy in Copenhagen denied that the accusations were supported by evidence. Reuters reported on a diplomatic message confirmed by two diplomats; that does not establish EU adoption of the proposals or a court finding on the alleged plot.",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (July 30, 2008): Denmark's Ministry of Foreign Affairs headquarters in Copenhagen, viewed from the harbour. Pbn-dk/Wikimedia Commons, CC BY 3.0. It does not show the November 2026 diplomatic proposal or the alleged plot under investigation."
+        }
       },
       "es": {
         "title": "DINAMARCA PIDE A LA UE ENDURECER VISADOS RUSOS TRAS DENUNCIA DE UN SUPUESTO PLAN DE ASESINATO",
@@ -42,8 +45,22 @@
         "category": "MUNDO",
         "facts": "El 21 de noviembre de 2026, Dinamarca pidió a los Estados miembros de la Unión Europea (UE) endurecer el acceso de ciudadanos rusos al espacio Schengen después de que autoridades danesas denunciaran un supuesto plan para asesinar a un rapero ucraniano-estadounidense cerca de Copenhague. Según Reuters, un mensaje enviado a diplomáticos europeos el 20 de noviembre propuso suspender los visados turísticos y dejar de reconocer pasaportes rusos no biométricos en todo Schengen. Reuters informó que Dinamarca prevé presentar sus propuestas a los embajadores de la UE el lunes 23 de noviembre y que el Gobierno danés anunció el 20 de noviembre la expulsión del agregado de defensa ruso. La supuesta participación de la inteligencia rusa sigue siendo una acusación de las autoridades danesas que la embajada rusa rechaza.",
         "analysis": "La propuesta traslada una investigación de seguridad nacional al debate europeo sobre las reglas de viaje. Las restricciones coordinadas tendrían un alcance mayor que las medidas diplomáticas bilaterales, pero requerirían decisiones de los gobiernos y las instituciones europeas competentes. La propuesta todavía no constituye una prohibición vigente.",
-        "counterpoint": "La embajada rusa en Copenhague negó que las acusaciones estuvieran respaldadas por pruebas. Reuters informó de un mensaje diplomático confirmado por dos diplomáticos, lo que no equivale a una aprobación de la UE ni a una sentencia judicial sobre el supuesto complot."
-      }
+        "counterpoint": "La embajada rusa en Copenhague negó que las acusaciones estuvieran respaldadas por pruebas. Reuters informó de un mensaje diplomático confirmado por dos diplomáticos, lo que no equivale a una aprobación de la UE ni a una sentencia judicial sobre el supuesto complot.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (30 de julio de 2008): sede del Ministerio de Asuntos Exteriores de Dinamarca, en Copenhague, vista desde el puerto. Pbn-dk/Wikimedia Commons, CC BY 3.0. No muestra la propuesta diplomática de noviembre de 2026 ni el supuesto complot investigado."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Udenrigsministeriet.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution 3.0 Unported (CC BY 3.0)",
+          "credit": "Pbn-dk / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Udenrigsministeriet.jpg",
+          "caption": "FOTO DE ARQUIVO (30/07/2008): sede do Ministério das Relações Exteriores da Dinamarca, em Copenhague, vista do porto. Pbn-dk/Wikimedia Commons, CC BY 3.0. Não retrata a proposta diplomática de novembro de 2026 nem o suposto plano investigado."
+        }
+      ]
     },
     {
       "id": "chuvas-aparecida-guaratingueta-alertas-sp-2026-11-21",
@@ -66,7 +83,10 @@
         "facts": "Heavy rain struck Aparecida, in Brazil's São Paulo state, on November 20, 2026, causing flooding, fallen trees, property damage and the precautionary closure of a home, according to the São Paulo State Civil Defense agency in a report published by Agência Brasil on November 21. Civil Defense said five hotel guests were affected when part of a restaurant ceiling collapsed, while one family had to leave a structurally compromised house. According to Civil Defense, 47 public warnings were sent on Friday (November 20), including 20 Cell Broadcast warnings and 27 SMS messages, followed by 11 more SMS warnings by 7 a.m. on Saturday (November 21). In nearby Guaratinguetá, the overflow of the Ribeirão dos Mottas flooded approximately 30 homes, the same agency reported. The statewide alert remains in effect through Sunday (November 22).",
         "analysis": "The storms caused different hazards in neighboring municipalities: structural damage and flooding in Aparecida, and river overflow affecting homes in Guaratinguetá. A statewide alert does not mean every city has suffered damage. Civil Defense advises residents to avoid flooded roads and riverbanks, watch for cracks and instability on slopes, and evacuate threatened buildings. Free SMS alerts are available by sending a local postal code to 40199; Civil Defense can be reached at 199 and firefighters at 193.",
         "counterpoint": "These are preliminary Civil Defense reports and may change after inspections. The cited report does not confirm deaths in these incidents or establish the severity of any injuries to the five hotel guests. A weather alert is preventive, not a prediction of damage in every municipality.",
-        "category": "BRAZIL"
+        "category": "BRAZIL",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (August 22, 2016): view of Aparecida, São Paulo state, from the cable car, with the National Shrine in the background. Tomás R M de Paula/Wikimedia Commons, CC BY-SA 4.0. It does not show the November 20, 2026 flooding."
+        }
       },
       "es": {
         "title": "Temporales dañan inmuebles en Aparecida y São Paulo mantiene alerta hasta el domingo",
@@ -74,8 +94,22 @@
         "facts": "Fuertes lluvias afectaron a Aparecida, en el estado brasileño de São Paulo, el 20 de noviembre de 2026, causando inundaciones, caídas de árboles, daños materiales y la clausura preventiva de una vivienda, según la Defensa Civil del Estado de São Paulo en información publicada por Agência Brasil el 21 de noviembre. Según Defensa Civil, cinco huéspedes resultaron afectados por el derrumbe parcial del techo de un restaurante de hotel y una familia tuvo que abandonar una vivienda con daños estructurales. De acuerdo con Defensa Civil, el viernes 20 se enviaron 47 alertas, de los cuales 20 fueron por Cell Broadcast y 27 por SMS, además de otros 11 mensajes SMS hasta las 7 de la mañana del sábado 21. En Guaratinguetá, el desbordamiento del Ribeirão dos Mottas inundó aproximadamente 30 viviendas, según el mismo organismo. La alerta estatal continúa hasta el domingo 22.",
         "analysis": "Las lluvias provocaron riesgos distintos en municipios cercanos: daños estructurales e inundaciones en Aparecida y desbordamiento de un arroyo en Guaratinguetá. Una alerta para todo el estado no implica daños en todas las ciudades. Defensa Civil recomienda evitar calles inundadas y riberas, vigilar grietas y señales de inestabilidad en laderas y evacuar inmuebles amenazados. Para recibir avisos gratuitos por SMS, se puede enviar el código postal al 40199; las emergencias se comunican al 199 o al 193.",
         "counterpoint": "Los informes son preliminares y pueden cambiar tras nuevas inspecciones. La fuente no confirma muertes vinculadas a estos episodios ni determina la gravedad de las lesiones de los cinco huéspedes afectados. Una alerta meteorológica es preventiva y no implica daños en todos los municipios.",
-        "category": "BRASIL"
-      }
+        "category": "BRASIL",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (22 de agosto de 2016): vista de Aparecida, estado de São Paulo, desde el teleférico, con el Santuario Nacional al fondo. Tomás R M de Paula/Wikimedia Commons, CC BY-SA 4.0. No muestra las inundaciones del 20 de noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Vista_da_Cidade_de_Aparecida_SP_BR.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "credit": "Tomás R M de Paula / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Vista_da_Cidade_de_Aparecida_SP_BR.jpg",
+          "caption": "FOTO DE ARQUIVO (22/08/2016): vista da cidade de Aparecida (SP), a partir do teleférico, com o Santuário Nacional ao fundo. Tomás R M de Paula/Wikimedia Commons, CC BY-SA 4.0. Não retrata os alagamentos de 20/11/2026."
+        }
+      ]
     },
     {
       "id": "temporais-rs-19663-pessoas-33-municipios-balanco-2026-11-21",
@@ -142,7 +176,10 @@
         "category": "WORLD",
         "facts": "A fire struck the Hartha power station north of Basra in southern Iraq on November 21, 2026, spread to neighboring homes and forced the plant to halt operations. According to Reuters, security officials reported at least 4 deaths and 35 injuries; Iraq's state-run Iraqi News Agency (INA) said civil defense teams brought the blaze under control. Reuters reported that the plant had 800 megawatts of installed capacity but was producing around 400 megawatts before the fire. Iraq's Electricity Ministry linked the incident to a gas pipeline supplying the facility, although the precise cause remains under investigation.",
         "analysis": "The blaze was not confined to industrial infrastructure: it reached nearby homes, putting residents at risk. Halting a plant operating at about half its installed capacity removes active generation from an electricity network already struggling with maintenance and supply problems, according to Reuters. The plant's nominal 800-megawatt capacity must not be confused with its roughly 400-megawatt output immediately before the incident. The actual effect on electricity supply depends on the duration of the shutdown and whether other plants can compensate.",
-        "counterpoint": "Injury totals changed between early reports and later updates, and casualty figures may still be revised. An official reference to a gas pipeline is not a final forensic finding on the fire's origin or responsibility. The extent of the damage, the restart date and any resulting power outages remain unconfirmed."
+        "counterpoint": "Injury totals changed between early reports and later updates, and casualty figures may still be revised. An official reference to a gas pipeline is not a final forensic finding on the fire's origin or responsibility. The extent of the damage, the restart date and any resulting power outages remain unconfirmed.",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (May 9, 2009): electricity generation facility in Iraq, photographed by the US Army Corps of Engineers (USACE), public domain. The image does not depict the Hartha power station or the November 21, 2026 fire."
+        }
       },
       "es": {
         "title": "INCENDIO EN CENTRAL DE HARTHA EN IRAK DEJA AL MENOS CUATRO MUERTOS Y DETIENE LA GENERACIÓN",
@@ -150,8 +187,22 @@
         "category": "MUNDO",
         "facts": "Un incendio afectó la central eléctrica de Hartha, al norte de Basora, en el sur de Irak, el 21 de noviembre de 2026, se propagó a viviendas cercanas y obligó a suspender las operaciones. Según Reuters, las autoridades de seguridad informaron de al menos 4 muertos y 35 heridos; la agencia estatal Iraqi News Agency (INA) señaló que los equipos de Defensa Civil controlaron las llamas. De acuerdo con Reuters, la central tenía una capacidad instalada de 800 megavatios, pero producía unos 400 megavatios antes del incendio. El Ministerio de Electricidad iraquí relacionó el incidente con una tubería de gas que abastece la instalación, aunque la causa exacta sigue bajo investigación.",
         "analysis": "El incendio no se limitó a la infraestructura industrial: alcanzó viviendas cercanas y puso en riesgo a sus habitantes. La paralización de una central que producía cerca de la mitad de su capacidad instalada elimina generación activa de una red que ya afronta problemas de mantenimiento y suministro, según Reuters. No debe confundirse la capacidad nominal de 800 megavatios con los aproximadamente 400 megavatios generados antes del siniestro. El impacto real en el suministro dependerá de la duración de la interrupción y de la capacidad de otras centrales para compensarla.",
-        "counterpoint": "Las cifras de heridos variaron entre los primeros informes y las actualizaciones posteriores, y el balance puede cambiar. La mención oficial de una tubería de gas no constituye una conclusión pericial definitiva sobre el origen o las responsabilidades. Siguen sin confirmarse el alcance de los daños, la fecha de reanudación y posibles cortes eléctricos derivados."
-      }
+        "counterpoint": "Las cifras de heridos variaron entre los primeros informes y las actualizaciones posteriores, y el balance puede cambiar. La mención oficial de una tubería de gas no constituye una conclusión pericial definitiva sobre el origen o las responsabilidades. Siguen sin confirmarse el alcance de los daños, la fecha de reanudación y posibles cortes eléctricos derivados.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (9 de mayo de 2009): instalación de generación eléctrica en Irak, fotografiada por el Cuerpo de Ingenieros del Ejército de Estados Unidos (USACE), dominio público. No muestra la central de Hartha ni el incendio del 21 de noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Modern_power_plant_in_Iraq.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público — fotografia oficial do Corpo de Engenheiros do Exército dos Estados Unidos (USACE)",
+          "credit": "US Army Corps of Engineers (USACE) / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Modern_power_plant_in_Iraq.jpg",
+          "caption": "FOTO DE ARQUIVO (09/05/2009): instalação de geração elétrica no Iraque, em registro do Corpo de Engenheiros do Exército dos Estados Unidos (USACE), domínio público. A imagem não identifica a usina de Hartha nem retrata o incêndio de 21/11/2026."
+        }
+      ]
     },
     {
       "id": "onu-adia-regras-armas-autonomas-2028-genebra-2026-11-21",
@@ -182,7 +233,10 @@
         "facts": "The 128 parties to the United Nations (UN) Convention on Certain Conventional Weapons (CCW) concluded a conference in Geneva, Switzerland, in the early hours of November 21, 2026, without agreeing to launch immediate negotiations on a binding treaty governing lethal autonomous weapons. According to Reuters, countries agreed to continue discussions for another two years, until 2028, without deciding whether future rules would be legally binding. Reuters reported that around 100 countries favored binding restrictions, while the United States, Russia and Israel opposed the proposed approach. The UN confirms that the seventh review conference was scheduled for November 16–20, 2026, and involved the convention's 128 parties.",
         "analysis": "The decision neither bans nor newly authorizes autonomous weapons. It keeps open the question of how to regulate systems that can select and attack targets with varying degrees of human oversight. Continuing political discussions is not the same as negotiating enforceable prohibitions. Because the convention operates by consensus, opposition from a few countries can block stronger action. According to the Associated Press, Brazil was among the countries proposing treaty negotiations. The 2028 horizon is a deadline for further work, not a promise that a treaty will be adopted.",
         "counterpoint": "Supporters of binding restrictions warn of risks to civilians and accountability when machines make targeting decisions. Opponents of an immediate treaty favor alternative approaches or argue that existing humanitarian law is adequate. The legal status, scope and enforcement of any future agreement remain unsettled.",
-        "category": "WORLD"
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (October 12, 2021): Alley of Flags near the Palais des Nations, the United Nations premises in Geneva, Switzerland. Tinux/Wikimedia Commons, CC0. It does not show the November 2026 talks on autonomous weapons."
+        }
       },
       "es": {
         "title": "LA ONU APLAZA HASTA 2028 LAS REGLAS SOBRE ARMAS AUTÓNOMAS TRAS EL BLOQUEO EN GINEBRA",
@@ -190,8 +244,22 @@
         "facts": "Los 128 Estados parte de la Convención sobre Ciertas Armas Convencionales (CCW) de las Naciones Unidas (ONU) concluyeron en la madrugada del 21 de noviembre de 2026, en Ginebra, Suiza, una conferencia sin acordar negociaciones inmediatas de un tratado obligatorio sobre armas autónomas letales. Según Reuters, se decidió continuar las conversaciones durante otros dos años, hasta 2028, sin establecer si las futuras normas serán jurídicamente vinculantes. Reuters informó que unos 100 países apoyaban restricciones obligatorias, mientras Estados Unidos, Rusia e Israel se opusieron al enfoque propuesto. La ONU confirma que la séptima conferencia de examen estaba prevista del 16 al 20 de noviembre de 2026 y reunió a las 128 partes contratantes.",
         "analysis": "La decisión no prohíbe ni autoriza una nueva categoría de armas: deja pendiente cómo regular sistemas capaces de seleccionar y atacar objetivos con distintos grados de supervisión humana. Continuar el diálogo político no equivale a negociar prohibiciones exigibles. Como la convención requiere consenso, la oposición de algunos países puede bloquear decisiones más ambiciosas. Según Associated Press, Brasil figuró entre los países que propusieron iniciar negociaciones de un instrumento jurídico. El horizonte de 2028 no garantiza la aprobación de un tratado.",
         "counterpoint": "Los defensores de límites obligatorios advierten sobre los riesgos para civiles y la dificultad de atribuir responsabilidades. Los opositores a un tratado inmediato prefieren otros enfoques o consideran suficiente el derecho humanitario vigente. Siguen sin definirse la naturaleza jurídica, el alcance y la aplicación de eventuales normas.",
-        "category": "MUNDO"
-      }
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (12 de octubre de 2021): Alameda de las Banderas junto al Palacio de las Naciones, sede de la ONU en Ginebra, Suiza. Tinux/Wikimedia Commons, CC0. No muestra las negociaciones sobre armas autónomas de noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Alley_of_flags_UNO_Geneva.jpg/1280px-Alley_of_flags_UNO_Geneva.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Zero 1.0 Universal (CC0 1.0)",
+          "credit": "Tinux / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Alley_of_flags_UNO_Geneva.jpg",
+          "caption": "FOTO DE ARQUIVO (12/10/2021): Alameda das Bandeiras na área do Palácio das Nações, sede da ONU em Genebra, Suíça. Tinux/Wikimedia Commons, CC0. Não retrata as negociações sobre armas autônomas em novembro de 2026."
+        }
+      ]
     },
     {
       "id": "terremoto-magnitude-67-junin-peru-2026-11-21",
@@ -222,7 +290,10 @@
         "category": "WORLD",
         "facts": "A magnitude 6.7 earthquake struck the Junín region of central Peru on November 20, 2026, at 7:09 p.m. local time, according to Peru's Geophysical Institute (IGP). The IGP placed the epicenter 30 kilometers northwest of Junín and estimated a depth of 129 kilometers. The United States Geological Survey (USGS) also measured magnitude 6.7, but estimated a depth of 108 kilometers and located the epicenter 9 kilometers northeast of Carhuamayo. Reuters reported shaking in Lima, where residents evacuated buildings and lawmakers left Congress; no immediate casualties or significant damage were reported.",
         "analysis": "The differing epicenter and depth estimates from IGP and USGS reflect calculations from different seismic networks, not two separate earthquakes. A deep focus helps explain why the shaking was felt far from the epicenter. Junín hosts mining operations, but Reuters did not confirm mine damage or shutdowns. Peru lies on the seismically active Pacific Ring of Fire. Residents should follow civil protection updates rather than unsupported earthquake predictions.",
-        "counterpoint": "Damage assessments were preliminary at the time of the Reuters report. IGP reported a magnitude of 6.7 and depth of 129 km, while USGS agreed on magnitude but calculated 108 km depth. There is no verified basis to claim deaths, widespread destruction or a tsunami. Seismic measurements and damage reports may be revised."
+        "counterpoint": "Damage assessments were preliminary at the time of the Reuters report. IGP reported a magnitude of 6.7 and depth of 129 km, while USGS agreed on magnitude but calculated 108 km depth. There is no verified basis to claim deaths, widespread destruction or a tsunami. Seismic measurements and damage reports may be revised.",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (March 14, 2019): panoramic view of Junín, in central Peru. Jcrevolledo/Wikimedia Commons, CC BY-SA 4.0. It does not depict the November 20, 2026 earthquake or its effects."
+        }
       },
       "es": {
         "title": "UN SISMO DE MAGNITUD 6,7 SACUDE JUNÍN, PERÚ, Y SE SIENTE EN LIMA",
@@ -230,8 +301,22 @@
         "category": "MUNDO",
         "facts": "Un sismo de magnitud 6,7 sacudió la región de Junín, en el centro de Perú, el 20 de noviembre de 2026 a las 19:09, hora local, según el Instituto Geofísico del Perú (IGP). El IGP situó el epicentro a 30 kilómetros al noroeste de Junín y calculó una profundidad de 129 kilómetros. El Servicio Geológico de Estados Unidos (USGS) también registró magnitud 6,7, pero estimó una profundidad de 108 kilómetros y ubicó el epicentro a 9 kilómetros al noreste de Carhuamayo. Según Reuters, el temblor se sintió en Lima, donde residentes evacuaron edificios y legisladores salieron del Congreso; no se informaron inicialmente víctimas ni daños importantes.",
         "analysis": "Las diferencias entre los cálculos del IGP y el USGS responden a redes sísmicas distintas y no indican dos terremotos. La profundidad del foco ayuda a explicar por qué se sintió lejos del epicentro. Junín alberga operaciones mineras, pero Reuters no confirmó daños ni suspensiones de actividad. Perú forma parte del Cinturón de Fuego del Pacífico. Es importante seguir los avisos de protección civil y evitar difundir predicciones sísmicas sin respaldo científico.",
-        "counterpoint": "Los balances de daños eran preliminares cuando Reuters publicó la noticia. El IGP calculó magnitud 6,7 y profundidad de 129 km; el USGS coincidió en la magnitud, pero estimó 108 km. No hay confirmación de fallecidos, destrucción generalizada ni tsunami. Las mediciones y los balances pueden actualizarse."
-      }
+        "counterpoint": "Los balances de daños eran preliminares cuando Reuters publicó la noticia. El IGP calculó magnitud 6,7 y profundidad de 129 km; el USGS coincidió en la magnitud, pero estimó 108 km. No hay confirmación de fallecidos, destrucción generalizada ni tsunami. Las mediciones y los balances pueden actualizarse.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (14 de marzo de 2019): vista panorámica de la ciudad de Junín, en el centro de Perú. Jcrevolledo/Wikimedia Commons, CC BY-SA 4.0. No muestra el terremoto del 20 de noviembre de 2026 ni sus efectos."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Vista_de_Junin.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "credit": "Jcrevolledo / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Vista_de_Junin.jpg",
+          "caption": "FOTO DE ARQUIVO (14/03/2019): vista panorâmica da cidade de Junín, na região central do Peru. Jcrevolledo/Wikimedia Commons, CC BY-SA 4.0. Não retrata o terremoto de 20/11/2026 nem seus efeitos."
+        }
+      ]
     },
     {
       "id": "bitcoin-cai-55830-dolares-menor-nivel-dois-anos-2026-11-21",
@@ -258,7 +343,10 @@
         "category": "ECONOMY",
         "facts": "Bitcoin fell to $55,830 at 11:13 p.m. US Eastern time on November 20, 2026, amid a global sell-off in risk assets, Reuters reported. The news agency recorded a 5.10% decline at that time and said the price was its lowest since September 2024. CoinDesk separately reported that bitcoin had fallen below $57,000 on November 20 as selling spread across technology stocks and other assets. These figures are snapshots, not fixed prices for the rest of the trading day.",
         "analysis": "The decline extended a series of losses coinciding with pressure on technology shares and artificial intelligence investments. Investors often reduce exposure to volatile assets when borrowing costs and uncertainty about future earnings rise. Breaking widely watched levels such as $60,000 and $57,000 may amplify volatility, but does not establish the direction of future prices. For Brazilian investors, dollar-denominated returns also depend on exchange rates and transaction costs.",
-        "counterpoint": "Reuters and CoinDesk document the price decline and broader risk aversion, but do not establish a single cause. Quotes differ across times and trading venues, and the observations do not justify a price forecast."
+        "counterpoint": "Reuters and CoinDesk document the price decline and broader risk aversion, but do not establish a single cause. Quotes differ across times and trading venues, and the observations do not justify a price forecast.",
+        "photo_captions": {
+          "1": "ARCHIVE ILLUSTRATION (January 3, 2017): three-dimensional digital rendering of the bitcoin symbol. Davidstankiewicz/Wikimedia Commons, CC BY-SA 4.0. This is not a price chart and does not depict the November 2026 exchange rate."
+        }
       },
       "es": {
         "title": "BITCOIN CAE A 55.830 DÓLARES, SU NIVEL MÁS BAJO DESDE SEPTIEMBRE DE 2024",
@@ -266,8 +354,22 @@
         "category": "ECONOMÍA",
         "facts": "El bitcoin cayó a 55.830 dólares a las 23:13 del 20 de noviembre de 2026, hora del este de Estados Unidos, en medio de una ola global de ventas de activos de riesgo, según Reuters. La agencia registró una caída del 5,10% en ese momento y señaló que era su cotización más baja desde septiembre de 2024. CoinDesk también informó que el bitcoin bajó de 57.000 dólares el 20 de noviembre mientras las ventas afectaban a las acciones tecnológicas y otros activos. Las cifras corresponden a momentos concretos, no a precios fijos para el resto del día.",
         "analysis": "La caída prolongó una serie de pérdidas coincidente con la presión sobre las acciones tecnológicas y las inversiones en inteligencia artificial. Los inversores suelen reducir su exposición a activos volátiles cuando aumentan los costes de financiación y la incertidumbre sobre beneficios futuros. Romper niveles como 60.000 y 57.000 dólares puede intensificar la volatilidad, pero no determina la evolución futura. Para los inversores brasileños también importan el tipo de cambio y los costes de operación.",
-        "counterpoint": "Reuters y CoinDesk documentan la caída y la aversión al riesgo, pero no demuestran una causa única. Los precios varían según el horario y la plataforma, y estos datos no permiten predecir la próxima dirección del mercado."
-      }
+        "counterpoint": "Reuters y CoinDesk documentan la caída y la aversión al riesgo, pero no demuestran una causa única. Los precios varían según el horario y la plataforma, y estos datos no permiten predecir la próxima dirección del mercado.",
+        "photo_captions": {
+          "1": "ILUSTRACIÓN DE ARCHIVO (3 de enero de 2017): representación digital tridimensional del símbolo de bitcoin. Davidstankiewicz/Wikimedia Commons, CC BY-SA 4.0. No es un gráfico de precios ni representa la cotización de noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bitcoin_3d_logo.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "credit": "Davidstankiewicz / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Bitcoin_3d_logo.jpg",
+          "caption": "ILUSTRAÇÃO DE ARQUIVO (03/01/2017): representação digital em três dimensões do símbolo do bitcoin. Davidstankiewicz/Wikimedia Commons, CC BY-SA 4.0. Não representa um gráfico ou a cotação registrada em novembro de 2026."
+        }
+      ]
     },
     {
       "id": "fbi-investiga-suspeita-invasao-banco-criminal-ncic-2026-11-21",
@@ -294,7 +396,10 @@
         "facts": "The Federal Bureau of Investigation (FBI), the United States federal law-enforcement agency, is investigating a suspected intrusion into the National Crime Information Center (NCIC), a nationwide criminal information system used by US police agencies. CNN reported the investigation on November 20, 2026, citing two people briefed on it, according to the network's original report. Reuters reported on November 21, 2026, that the suspected incident would be the second intrusion involving an FBI system in recent months if confirmed, following a September 2026 breach of a recruitment website. NCIC helps authorities share warrants, criminal histories and background-check information. Officials have not publicly confirmed what data, if any, were accessed, how many people may be affected or who was responsible.",
         "analysis": "The concern extends beyond potential disclosure: NCIC supports federal, state and local law-enforcement queries. A confirmed intrusion could prompt access audits, credential reviews and integrity checks, although none of these measures has been announced. The September incident involved a recruitment website; the new allegation concerns an operational criminal-information system, with different potential risks.",
         "counterpoint": "CNN's account relies on people briefed on the investigation, and the FBI did not respond to Reuters' request for comment. A suspected intrusion does not establish that the entire database was compromised or that records were stolen. No verified link to other recent technology disruptions has been established.",
-        "category": "WORLD"
+        "category": "WORLD",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (October 15, 2005): the J. Edgar Hoover Building, headquarters of the Federal Bureau of Investigation (FBI), Washington, United States. Aude/Wikimedia Commons, CC BY-SA 3.0. It does not depict the November 2026 investigation into a possible NCIC breach."
+        }
       },
       "es": {
         "title": "EL FBI INVESTIGA UNA POSIBLE INTRUSIÓN EN LA BASE NACIONAL DE DATOS PENALES DE EE. UU.",
@@ -302,8 +407,22 @@
         "facts": "La Oficina Federal de Investigaciones (FBI), agencia federal de investigación de Estados Unidos, investiga una posible intrusión en el Centro Nacional de Información Criminal (NCIC), sistema nacional utilizado por organismos policiales estadounidenses. CNN informó de la investigación el 20 de noviembre de 2026, citando a dos personas informadas sobre el caso, según el reportaje original de la cadena. Reuters señaló el 21 de noviembre de 2026 que, de confirmarse, sería la segunda intrusión en un sistema del FBI en los últimos meses, tras el ataque de septiembre de 2026 contra su portal de contratación. El NCIC permite compartir órdenes de detención, antecedentes penales y datos para verificaciones de antecedentes. No se ha confirmado públicamente qué datos se habrían consultado, cuántas personas podrían resultar afectadas ni quién sería responsable.",
         "analysis": "La importancia del caso radica en el uso operativo del NCIC por policías federales, estatales y locales. Una intrusión confirmada podría motivar auditorías de acceso y comprobaciones de integridad, aunque no se han anunciado tales medidas. El incidente de septiembre afectó a un portal de empleo, mientras que la sospecha actual se refiere a un sistema de información penal, con riesgos potenciales diferentes.",
         "counterpoint": "CNN se basó en fuentes conocedoras de la investigación y el FBI no respondió a la solicitud de comentarios de Reuters. Una posible intrusión no demuestra que toda la base de datos haya sido comprometida ni que se hayan sustraído registros. Tampoco se ha acreditado relación con otras interrupciones tecnológicas recientes.",
-        "category": "MUNDO"
-      }
+        "category": "MUNDO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (15 de octubre de 2005): edificio J. Edgar Hoover, sede del Federal Bureau of Investigation (FBI), en Washington, Estados Unidos. Aude/Wikimedia Commons, CC BY-SA 3.0. No muestra la investigación de noviembre de 2026 sobre una posible intrusión en el NCIC."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Fbi_headquarters.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "credit": "Aude / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Fbi_headquarters.jpg",
+          "caption": "FOTO DE ARQUIVO (15/10/2005): edifício J. Edgar Hoover, sede do Federal Bureau of Investigation (FBI), em Washington, Estados Unidos. Aude/Wikimedia Commons, CC BY-SA 3.0. Não retrata a investigação de possível invasão do NCIC em novembro de 2026."
+        }
+      ]
     },
     {
       "id": "trump-ameaca-taxar-data-centers-exterior-2026-11-20",
@@ -334,7 +453,10 @@
         "category": "TECHNOLOGY",
         "facts": "US President Donald Trump said at a White House news conference in Washington on November 20, 2026, that he intends to impose heavy taxes on American companies building data centers overseas, Reuters and the Associated Press reported. Trump specified no tax rate, legal instrument or enforcement mechanism and said he had not yet briefed his own staff, according to the Associated Press. Reuters reported that US rules announced on November 16, 2026, restricted remote access to advanced artificial intelligence chips and gave certain data centers serving China-based firms 90 days to meet licensing requirements. These are separate developments: the chip restrictions have been announced, while the proposed tax remains an unformalized threat.",
         "analysis": "The statement exposes a tension between keeping computing investment inside the United States and locating services near international users. Data centers underpin AI training and operation but also support latency-sensitive services such as payments. A penalty could affect expansion costs and plans, although its scope remains undefined. The backdrop includes competition with China and US community concerns about electricity and water use. There is no basis yet to conclude that specific Brazilian projects will be affected.",
-        "counterpoint": "A presidential statement is not an enacted tax. Rates, legal authority, implementation and exemptions remain unspecified. The November 16 chip-access restrictions are distinct from the threatened November 20 tax; precise financial impacts cannot yet be established."
+        "counterpoint": "A presidential statement is not an enacted tax. Rates, legal authority, implementation and exemptions remain unspecified. The November 16 chip-access restrictions are distinct from the threatened November 20 tax; precise financial impacts cannot yet be established.",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (January 15, 2025): official portrait of United States President Donald Trump. Daniel Torok/White House, public domain. It does not show the November 20, 2026 statement about data centers."
+        }
       },
       "es": {
         "title": "TRUMP AMENAZA CON GRAVAR CENTROS DE DATOS DE EMPRESAS ESTADOUNIDENSES EN EL EXTERIOR, SIN DETALLAR LA MEDIDA",
@@ -342,8 +464,22 @@
         "category": "TECNOLOGÍA",
         "facts": "El presidente de Estados Unidos, Donald Trump, declaró el 20 de noviembre de 2026, en una rueda de prensa en la Casa Blanca, Washington, que pretende imponer fuertes impuestos a empresas estadounidenses que construyan centros de datos en el extranjero, según Reuters y Associated Press. Trump no precisó tasas, instrumentos legales ni mecanismos de aplicación y afirmó que todavía no había informado del plan a su equipo, según Associated Press. Reuters informó que las normas anunciadas el 16 de noviembre de 2026 restringieron el acceso remoto a chips avanzados de inteligencia artificial y concedieron 90 días a determinados centros de datos que atienden a empresas con sede en China para cumplir requisitos de licencia. Se trata de medidas diferentes: las restricciones sobre chips ya fueron anunciadas, mientras que el impuesto sigue siendo una amenaza sin formalizar.",
         "analysis": "La declaración revela una tensión entre concentrar la inversión informática en Estados Unidos y situar los servicios cerca de usuarios internacionales. Los centros de datos sustentan la inteligencia artificial y servicios sensibles a la latencia, como los pagos. Una sanción podría modificar costes y planes de expansión, pero todavía se desconoce su alcance. El contexto incluye la competencia con China y las preocupaciones locales por el consumo de electricidad y agua. Aún no hay fundamento para afirmar que proyectos concretos en Brasil se verán afectados.",
-        "counterpoint": "Una declaración presidencial no equivale a un impuesto vigente. No se han definido tasas, base jurídica, aplicación ni excepciones. Las restricciones sobre chips del 16 de noviembre son distintas de la amenaza tributaria del 20 de noviembre; no es posible cuantificar impactos concretos."
-      }
+        "counterpoint": "Una declaración presidencial no equivale a un impuesto vigente. No se han definido tasas, base jurídica, aplicación ni excepciones. Las restricciones sobre chips del 16 de noviembre son distintas de la amenaza tributaria del 20 de noviembre; no es posible cuantificar impactos concretos.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (15 de enero de 2025): retrato oficial del presidente de Estados Unidos, Donald Trump. Daniel Torok/Casa Blanca, dominio público. No muestra su declaración sobre centros de datos del 20 de noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Donald_Trump_official_portrait%2C_2025_%28headshot%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público — retrato oficial da Casa Branca",
+          "credit": "Daniel Torok / Casa Branca, via Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait,_2025_(headshot).jpg",
+          "caption": "FOTO DE ARQUIVO (15/01/2025): retrato oficial do presidente dos Estados Unidos, Donald Trump. Daniel Torok/Casa Branca, domínio público. Não retrata a declaração sobre centros de dados de 20/11/2026."
+        }
+      ]
     },
     {
       "id": "bolsonaro-internado-dor-abdominal-df-star-2026-11-20",
@@ -691,7 +827,10 @@
         "category": "WORLD",
         "facts": "On Friday, November 20, 2026, the Saudi-led coalition announced strikes on facilities at Hodeidah port in western Yemen and military targets in Sanaa, Saada and Taiz. Spokesman Turki al-Malki said the port facilities had been used by the Houthis to smuggle and transport weapons and ballistic missiles. Civilians had been urged to evacuate the port area. The Houthis threatened Saudi Red Sea ports and warned airlines to avoid Saudi airspace. Reuters, Associated Press and AFP reported the developments that day. The scale of damage, possible casualties and actual impact on commercial operations had not been independently established in the sources reviewed.",
         "analysis": "Hodeidah is a vital entry point for food and supplies reaching northern Yemen. The stakes therefore extend beyond military operations: sustained disruption could affect trade and humanitarian deliveries. The escalation follows renewed Houthi missile and drone attacks on Saudi Arabia, including an incident in Riyadh on November 19. The Yemen war predates the Saudi-led intervention of 2015 and has intensified again in 2026. Three indicators matter for assessing the consequences: the port's actual operating capacity, the continuity of humanitarian shipments and independently verified civilian harm. An official claim that the port remains open does not, by itself, establish that supplies are flowing normally.",
-        "counterpoint": "The coalition's assertion that port facilities were military targets has not been independently verified in the reviewed reports. Houthi threats do not establish that the promised strikes have taken place. Yemeni officials said the port remained operational, a claim that should be assessed against shipping and aid-delivery data. No specific death toll or count of destroyed facilities can responsibly be assigned to Friday's offensive without further confirmation."
+        "counterpoint": "The coalition's assertion that port facilities were military targets has not been independently verified in the reviewed reports. Houthi threats do not establish that the promised strikes have taken place. Yemeni officials said the port remained operational, a claim that should be assessed against shipping and aid-delivery data. No specific death toll or count of destroyed facilities can responsibly be assigned to Friday's offensive without further confirmation.",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (February 11, 2015): sunset over the coastal city of Hodeidah, Yemen. Rod Waddington/Flickr, CC BY-SA 2.0. It does not show the port, coalition strikes or damage on November 20, 2026."
+        }
       },
       "es": {
         "title": "LA COALICIÓN SAUDÍ ATACA EL PUERTO YEMENÍ DE HODEIDA Y LOS HUTÍES AMENAZAN CON REPRESALIAS",
@@ -699,8 +838,22 @@
         "category": "MUNDO",
         "facts": "El viernes 20 de noviembre de 2026, la coalición encabezada por Arabia Saudita anunció ataques contra instalaciones del puerto de Hodeida, en el oeste de Yemen, y objetivos militares en Saná, Saada y Taiz. Su portavoz, Turki al-Malki, afirmó que las instalaciones portuarias se utilizaban para el contrabando y transporte de armas y misiles balísticos de los hutíes. Antes de la operación se había pedido a los civiles que abandonaran la zona. Los hutíes amenazaron con atacar puertos saudíes del mar Rojo y advirtieron a las aerolíneas que evitaran el espacio aéreo saudí. Reuters, Associated Press y AFP informaron sobre los hechos ese mismo día. Las fuentes consultadas no permitían establecer de manera independiente la magnitud de los daños, las posibles víctimas ni el efecto real sobre las operaciones comerciales.",
         "analysis": "Hodeida es una vía esencial para la entrada de alimentos y suministros al norte de Yemen. Por ello, las consecuencias potenciales van más allá del plano militar: una interrupción prolongada podría afectar al comercio y a la ayuda humanitaria. La escalada llega tras nuevos ataques con misiles y drones atribuidos a los hutíes contra Arabia Saudita, incluido un episodio en Riad el 19 de noviembre. La guerra de Yemen precede a la intervención de la coalición saudí de 2015 y se ha intensificado de nuevo en 2026. Para medir las consecuencias deben examinarse la capacidad operativa real del puerto, la continuidad de las entregas humanitarias y los daños civiles verificados de forma independiente. Afirmar que el puerto sigue abierto no demuestra por sí solo que el abastecimiento funcione con normalidad.",
-        "counterpoint": "La afirmación de que las instalaciones portuarias tenían fines militares procede de la coalición saudí y no ha sido verificada de forma independiente en los informes examinados. Las amenazas hutíes tampoco prueban que se hayan ejecutado los ataques anunciados. Autoridades yemeníes aseguraron que el puerto seguía operativo; ese dato requiere contraste con el tráfico marítimo y las entregas de ayuda. No es posible atribuir un número de víctimas o instalaciones destruidas a la ofensiva del viernes sin confirmación adicional."
-      }
+        "counterpoint": "La afirmación de que las instalaciones portuarias tenían fines militares procede de la coalición saudí y no ha sido verificada de forma independiente en los informes examinados. Las amenazas hutíes tampoco prueban que se hayan ejecutado los ataques anunciados. Autoridades yemeníes aseguraron que el puerto seguía operativo; ese dato requiere contraste con el tráfico marítimo y las entregas de ayuda. No es posible atribuir un número de víctimas o instalaciones destruidas a la ofensiva del viernes sin confirmación adicional.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (11 de febrero de 2015): puesta de sol sobre la ciudad costera de Hodeida, Yemen. Rod Waddington/Flickr, CC BY-SA 2.0. No muestra el puerto, los ataques de la coalición ni los daños del 20 de noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://live.staticflickr.com/8626/15869150124_3b7b63b1bb_o.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)",
+          "credit": "Rod Waddington / Flickr, via Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Hodaidah_Sunset,_Yemen_(15869150124).jpg",
+          "caption": "FOTO DE ARQUIVO (11/02/2015): pôr do sol sobre a cidade costeira de Hodeida, no Iêmen. Rod Waddington/Flickr, CC BY-SA 2.0. Não mostra o porto, os ataques da coalizão ou danos de 20/11/2026."
+        }
+      ]
     },
     {
       "id": "fachin-retira-sigilo-relatorio-mendonca-master-2026-11-20",
