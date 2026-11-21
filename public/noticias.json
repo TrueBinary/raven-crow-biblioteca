@@ -2,9 +2,49 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-21T04:00:00-03:00",
+  "updatedAt": "2026-11-21T07:00:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "terremoto-magnitude-67-junin-peru-2026-11-21",
+      "date": "2026-11-21",
+      "title": "TERREMOTO DE MAGNITUDE 6,7 ATINGE REGIÃO ANDINA DO PERU E É SENTIDO EM LIMA",
+      "subtitle": "Tremor na região peruana de Junín foi sentido na capital; autoridades não relataram inicialmente vítimas ou danos graves.",
+      "category": "MUNDO",
+      "facts": "Um terremoto de magnitude 6,7 atingiu a região de Junín, no centro do Peru, em 20 de novembro de 2026, às 19h09 no horário local, segundo o Instituto Geofísico do Peru (IGP). O órgão localizou o epicentro a 30 quilômetros a noroeste da cidade de Junín e registrou profundidade de 129 quilômetros. O Serviço Geológico dos Estados Unidos (USGS) também calculou magnitude 6,7, mas estimou profundidade de 108 quilômetros e posicionou o epicentro a 9 quilômetros a nordeste de Carhuamayo. Segundo a Reuters, o abalo foi sentido em Lima, onde moradores saíram de edifícios e parlamentares deixaram o Congresso; não havia relatos imediatos de vítimas ou danos significativos.",
+      "analysis": "A divergência entre as estimativas de localização e profundidade do IGP e do USGS reflete cálculos de redes sísmicas distintas e não significa que ocorreram dois terremotos. O foco profundo ajuda a explicar por que o tremor foi percebido a grande distância. Junín abriga operações de mineração, mas a reportagem da Reuters não identificou paralisações ou danos confirmados nas minas. O Peru integra a faixa tectonicamente ativa do Círculo de Fogo do Pacífico. Para os moradores, a prioridade é acompanhar os comunicados de defesa civil e evitar compartilhar previsões de novos terremotos sem fundamento científico.",
+      "counterpoint": "As avaliações de danos ainda eram preliminares quando a Reuters publicou a informação. O IGP informou magnitude 6,7 e profundidade de 129 km; o USGS concordou com a magnitude, mas calculou 108 km de profundidade. Não há base para afirmar que o terremoto provocou mortes, destruição ampla ou tsunami. Dados sísmicos e balanços de ocorrências podem ser revisados.",
+      "sources": [
+        {
+          "name": "Instituto Geofísico del Perú — reporte IGP/CENSIS/RS 2026-0818 (20/11/2026)",
+          "url": "https://ultimosismo.igp.gob.pe/evento/2026-0818"
+        },
+        {
+          "name": "USGS — M 6.7 near Carhuamayo, Peru (21/11/2026 UTC)",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm/region-info"
+        },
+        {
+          "name": "Reuters — Magnitude 6.8 quake in Peru's Andean region (21/11/2026)",
+          "url": "https://www.reuters.com/business/environment/magnitude-68-quake-strikes-peru-sending-lima-residents-homes-2026-11-21/"
+        }
+      ],
+      "en": {
+        "title": "MAGNITUDE 6.7 EARTHQUAKE STRIKES PERU'S JUNÍN REGION AND IS FELT IN LIMA",
+        "subtitle": "A magnitude 6.7 earthquake struck Junín, Peru, and was felt in Lima; no immediate casualties or major damage were reported.",
+        "category": "WORLD",
+        "facts": "A magnitude 6.7 earthquake struck the Junín region of central Peru on November 20, 2026, at 7:09 p.m. local time, according to Peru's Geophysical Institute (IGP). The IGP placed the epicenter 30 kilometers northwest of Junín and estimated a depth of 129 kilometers. The United States Geological Survey (USGS) also measured magnitude 6.7, but estimated a depth of 108 kilometers and located the epicenter 9 kilometers northeast of Carhuamayo. Reuters reported shaking in Lima, where residents evacuated buildings and lawmakers left Congress; no immediate casualties or significant damage were reported.",
+        "analysis": "The differing epicenter and depth estimates from IGP and USGS reflect calculations from different seismic networks, not two separate earthquakes. A deep focus helps explain why the shaking was felt far from the epicenter. Junín hosts mining operations, but Reuters did not confirm mine damage or shutdowns. Peru lies on the seismically active Pacific Ring of Fire. Residents should follow civil protection updates rather than unsupported earthquake predictions.",
+        "counterpoint": "Damage assessments were preliminary at the time of the Reuters report. IGP reported a magnitude of 6.7 and depth of 129 km, while USGS agreed on magnitude but calculated 108 km depth. There is no verified basis to claim deaths, widespread destruction or a tsunami. Seismic measurements and damage reports may be revised."
+      },
+      "es": {
+        "title": "UN SISMO DE MAGNITUD 6,7 SACUDE JUNÍN, PERÚ, Y SE SIENTE EN LIMA",
+        "subtitle": "El sismo de magnitud 6,7 en Junín se sintió en Lima; inicialmente no se reportaron víctimas ni daños graves.",
+        "category": "MUNDO",
+        "facts": "Un sismo de magnitud 6,7 sacudió la región de Junín, en el centro de Perú, el 20 de noviembre de 2026 a las 19:09, hora local, según el Instituto Geofísico del Perú (IGP). El IGP situó el epicentro a 30 kilómetros al noroeste de Junín y calculó una profundidad de 129 kilómetros. El Servicio Geológico de Estados Unidos (USGS) también registró magnitud 6,7, pero estimó una profundidad de 108 kilómetros y ubicó el epicentro a 9 kilómetros al noreste de Carhuamayo. Según Reuters, el temblor se sintió en Lima, donde residentes evacuaron edificios y legisladores salieron del Congreso; no se informaron inicialmente víctimas ni daños importantes.",
+        "analysis": "Las diferencias entre los cálculos del IGP y el USGS responden a redes sísmicas distintas y no indican dos terremotos. La profundidad del foco ayuda a explicar por qué se sintió lejos del epicentro. Junín alberga operaciones mineras, pero Reuters no confirmó daños ni suspensiones de actividad. Perú forma parte del Cinturón de Fuego del Pacífico. Es importante seguir los avisos de protección civil y evitar difundir predicciones sísmicas sin respaldo científico.",
+        "counterpoint": "Los balances de daños eran preliminares cuando Reuters publicó la noticia. El IGP calculó magnitud 6,7 y profundidad de 129 km; el USGS coincidió en la magnitud, pero estimó 108 km. No hay confirmación de fallecidos, destrucción generalizada ni tsunami. Las mediciones y los balances pueden actualizarse."
+      }
+    },
     {
       "id": "bitcoin-cai-55830-dolares-menor-nivel-dois-anos-2026-11-21",
       "date": "2026-11-21",
