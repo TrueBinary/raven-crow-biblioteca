@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "onu-adia-regras-armas-autonomas-2028-genebra-2026-11-21",
+      "date": "2026-11-21",
+      "title": "ONU ADIA PARA 2028 DEFINIÇÃO DE REGRAS SOBRE ARMAS AUTÔNOMAS APÓS IMPASSE EM GENEBRA",
+      "subtitle": "Países mantêm negociações sobre armas que selecionam alvos sem intervenção humana, mas não aprovam compromisso de tratado obrigatório.",
+      "category": "MUNDO",
+      "facts": "Os 128 Estados participantes da Convenção sobre Certas Armas Convencionais (CCW), no âmbito das Nações Unidas (ONU), encerraram na madrugada de 21 de novembro de 2026, em Genebra, na Suíça, uma conferência sem aprovar negociações imediatas de um tratado obrigatório para armas autônomas letais. Segundo a Reuters, o acordo prevê mais dois anos de discussões, até 2028, sem definir se as futuras regras terão força jurídica. A Reuters informa que aproximadamente 100 países defendiam restrições vinculantes, enquanto Estados Unidos, Rússia e Israel se opuseram ao encaminhamento proposto. A ONU confirma que a sétima conferência de revisão foi convocada para 16 a 20 de novembro de 2026 e reuniu as 128 partes contratantes.",
+      "analysis": "A decisão não proíbe nem autoriza uma nova classe de armamentos: mantém aberta a discussão sobre sistemas capazes de selecionar e atacar alvos com graus variados de autonomia. A diferença prática está entre um compromisso político de continuar conversando e a abertura de negociações de normas obrigatórias, que poderiam criar proibições e deveres verificáveis. A exigência de consenso entre as partes da convenção permite que a resistência de alguns países impeça decisões mais ambiciosas. O Brasil esteve entre os países que propuseram iniciar negociações de um instrumento jurídico, segundo a Associated Press. O novo prazo até 2028 não equivale à aprovação de um tratado nessa data.",
+      "counterpoint": "Defensores de regras obrigatórias argumentam que a ausência de limites claros amplia riscos à população civil e dificulta a responsabilização por ataques. Países contrários ao tratado imediato defendem outras abordagens ou consideram suficientes as normas humanitárias existentes. A natureza das medidas futuras, o alcance de eventuais proibições e sua aplicação permanecem indefinidos.",
+      "sources": [
+        {
+          "name": "Reuters, 21/11/2026",
+          "url": "https://www.reuters.com/world/states-agree-to-un-talks-aiming-regulate-killer-robots-by-2028-2026-11-21/"
+        },
+        {
+          "name": "Associated Press, 21/11/2026",
+          "url": "https://apnews.com/article/ebe057d2a47cde53100970c8f648e7fa"
+        },
+        {
+          "name": "Escritório das Nações Unidas em Genebra, 10/11/2026",
+          "url": "https://www.ungeneva.org/en/news-media/press-release/2026/11/seventh-review-conference-high-contracting-parties-convention"
+        }
+      ],
+      "en": {
+        "title": "UN DEFERS BINDING RULES ON AUTONOMOUS WEAPONS AS GENEVA TALKS EXTEND TO 2028",
+        "subtitle": "Countries agreed to continue talks on weapons that select targets without human intervention, but did not launch binding treaty negotiations.",
+        "facts": "The 128 parties to the United Nations (UN) Convention on Certain Conventional Weapons (CCW) concluded a conference in Geneva, Switzerland, in the early hours of November 21, 2026, without agreeing to launch immediate negotiations on a binding treaty governing lethal autonomous weapons. According to Reuters, countries agreed to continue discussions for another two years, until 2028, without deciding whether future rules would be legally binding. Reuters reported that around 100 countries favored binding restrictions, while the United States, Russia and Israel opposed the proposed approach. The UN confirms that the seventh review conference was scheduled for November 16–20, 2026, and involved the convention's 128 parties.",
+        "analysis": "The decision neither bans nor newly authorizes autonomous weapons. It keeps open the question of how to regulate systems that can select and attack targets with varying degrees of human oversight. Continuing political discussions is not the same as negotiating enforceable prohibitions. Because the convention operates by consensus, opposition from a few countries can block stronger action. According to the Associated Press, Brazil was among the countries proposing treaty negotiations. The 2028 horizon is a deadline for further work, not a promise that a treaty will be adopted.",
+        "counterpoint": "Supporters of binding restrictions warn of risks to civilians and accountability when machines make targeting decisions. Opponents of an immediate treaty favor alternative approaches or argue that existing humanitarian law is adequate. The legal status, scope and enforcement of any future agreement remain unsettled.",
+        "category": "WORLD",
+        "slug": "un-defers-binding-rules-on-autonomous-weapons-as-geneva-talks-extend-to-2028-2026-11-21"
+      },
+      "es": {
+        "title": "LA ONU APLAZA HASTA 2028 LAS REGLAS SOBRE ARMAS AUTÓNOMAS TRAS EL BLOQUEO EN GINEBRA",
+        "subtitle": "Los países continuarán debatiendo las armas que seleccionan objetivos sin intervención humana, sin iniciar aún un tratado vinculante.",
+        "facts": "Los 128 Estados parte de la Convención sobre Ciertas Armas Convencionales (CCW) de las Naciones Unidas (ONU) concluyeron en la madrugada del 21 de noviembre de 2026, en Ginebra, Suiza, una conferencia sin acordar negociaciones inmediatas de un tratado obligatorio sobre armas autónomas letales. Según Reuters, se decidió continuar las conversaciones durante otros dos años, hasta 2028, sin establecer si las futuras normas serán jurídicamente vinculantes. Reuters informó que unos 100 países apoyaban restricciones obligatorias, mientras Estados Unidos, Rusia e Israel se opusieron al enfoque propuesto. La ONU confirma que la séptima conferencia de examen estaba prevista del 16 al 20 de noviembre de 2026 y reunió a las 128 partes contratantes.",
+        "analysis": "La decisión no prohíbe ni autoriza una nueva categoría de armas: deja pendiente cómo regular sistemas capaces de seleccionar y atacar objetivos con distintos grados de supervisión humana. Continuar el diálogo político no equivale a negociar prohibiciones exigibles. Como la convención requiere consenso, la oposición de algunos países puede bloquear decisiones más ambiciosas. Según Associated Press, Brasil figuró entre los países que propusieron iniciar negociaciones de un instrumento jurídico. El horizonte de 2028 no garantiza la aprobación de un tratado.",
+        "counterpoint": "Los defensores de límites obligatorios advierten sobre los riesgos para civiles y la dificultad de atribuir responsabilidades. Los opositores a un tratado inmediato prefieren otros enfoques o consideran suficiente el derecho humanitario vigente. Siguen sin definirse la naturaleza jurídica, el alcance y la aplicación de eventuales normas.",
+        "category": "MUNDO",
+        "slug": "la-onu-aplaza-hasta-2028-las-reglas-sobre-armas-autonomas-tras-el-bloqueo-en-2026-11-21"
+      },
+      "firstSeen": "2026-11-21T08:00:00-03:00"
+    },
+    {
       "id": "terremoto-magnitude-67-junin-peru-2026-11-21",
       "date": "2026-11-21",
       "title": "TERREMOTO DE MAGNITUDE 6,7 ATINGE REGIÃO ANDINA DO PERU E É SENTIDO EM LIMA",
