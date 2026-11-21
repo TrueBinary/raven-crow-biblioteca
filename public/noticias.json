@@ -2,9 +2,49 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-21T16:01:26-03:00",
+  "updatedAt": "2026-11-21T17:01:09-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "dinamarca-propoe-restricoes-vistos-russos-ue-2026-11-21",
+      "date": "2026-11-21",
+      "title": "DINAMARCA PEDE À UE RESTRIÇÕES A VISTOS RUSSOS APÓS DENÚNCIA DE PLANO DE ASSASSINATO",
+      "subtitle": "Copenhague propõe suspender vistos turísticos russos após autoridades denunciarem um suposto plano de assassinato em território dinamarquês.",
+      "category": "MUNDO",
+      "facts": "A Dinamarca pediu em 21 de novembro de 2026 que países da União Europeia (UE) endureçam as regras de entrada de cidadãos russos no Espaço Schengen, após autoridades dinamarquesas denunciarem um suposto plano de assassinato contra um rapper ucraniano-americano perto de Copenhague. Segundo a Reuters, a mensagem enviada a diplomatas europeus na noite de 20 de novembro propõe suspender vistos turísticos e deixar de reconhecer passaportes russos não biométricos em toda a área Schengen. De acordo com a Reuters, a Dinamarca pretende apresentar as propostas aos embaixadores da UE na segunda-feira, 23 de novembro; a agência também informou que o governo dinamarquês anunciou em 20 de novembro a expulsão do adido de defesa russo. A alegada participação da inteligência russa no plano ainda é uma acusação das autoridades dinamarquesas, contestada pela embaixada russa.",
+      "analysis": "A proposta transforma uma investigação de segurança nacional em debate sobre regras comuns de circulação na Europa. Uma suspensão coordenada de vistos turísticos teria alcance mais amplo do que medidas diplomáticas bilaterais, mas dependeria de decisões dos países e das instituições europeias competentes. O anúncio de uma proposta não significa que as restrições já estejam em vigor. A distinção é importante para viajantes: o regime atual não muda automaticamente por causa da comunicação diplomática.",
+      "counterpoint": "A embaixada da Rússia em Copenhague rejeitou a acusação de envolvimento russo e afirmou que ela não foi sustentada por provas. A Reuters relatou a existência de uma mensagem diplomática e a confirmação de seu teor por dois diplomatas, mas isso não equivale à aprovação das medidas pela UE nem a uma decisão judicial sobre o suposto plano.",
+      "sources": [
+        {
+          "name": "Reuters — proposta dinamarquesa à UE, 21/11/2026",
+          "url": "https://www.reuters.com/world/europe/denmark-pushes-eu-tighten-curbs-russians-after-foiled-plot-message-member-states-2026-11-21/"
+        },
+        {
+          "name": "Reuters — investigação e expulsão do adido, 20/11/2026",
+          "url": "https://www.reuters.com/world/europe/two-danes-suspected-being-hired-by-russia-kill-us-ukrainian-rapper-2026-11-20/"
+        },
+        {
+          "name": "The Guardian — contexto e reação russa",
+          "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing"
+        }
+      ],
+      "en": {
+        "title": "DENMARK URGES EU TO TIGHTEN RUSSIAN VISA RULES AFTER ALLEGED ASSASSINATION PLOT",
+        "subtitle": "Copenhagen seeks tighter Russian tourist visa rules following allegations of an assassination plot on Danish soil.",
+        "category": "WORLD",
+        "facts": "On November 21, 2026, Denmark urged European Union (EU) member states to tighten Russian citizens' access to the Schengen Area after Danish authorities alleged an assassination plot against a Ukrainian-American rapper near Copenhagen. According to Reuters, a message sent to European diplomats on November 20 proposed suspending tourist visas and refusing non-biometric Russian passports across Schengen. Reuters reported that Denmark plans to present its proposals to EU ambassadors on Monday, November 23, and that the Danish government announced the expulsion of Russia's defence attaché on November 20. Russian intelligence involvement remains an allegation by Danish authorities that the Russian embassy disputes.",
+        "analysis": "The proposal moves a national security investigation into an EU-wide debate over travel rules. Coordinated visa restrictions would extend beyond bilateral diplomatic measures, but would require decisions by the relevant European governments and institutions. A diplomatic proposal is not an enacted travel ban.",
+        "counterpoint": "The Russian embassy in Copenhagen denied that the accusations were supported by evidence. Reuters reported on a diplomatic message confirmed by two diplomats; that does not establish EU adoption of the proposals or a court finding on the alleged plot."
+      },
+      "es": {
+        "title": "DINAMARCA PIDE A LA UE ENDURECER VISADOS RUSOS TRAS DENUNCIA DE UN SUPUESTO PLAN DE ASESINATO",
+        "subtitle": "Copenhague propone restringir visados turísticos rusos tras denunciarse un supuesto plan de asesinato en Dinamarca.",
+        "category": "MUNDO",
+        "facts": "El 21 de noviembre de 2026, Dinamarca pidió a los Estados miembros de la Unión Europea (UE) endurecer el acceso de ciudadanos rusos al espacio Schengen después de que autoridades danesas denunciaran un supuesto plan para asesinar a un rapero ucraniano-estadounidense cerca de Copenhague. Según Reuters, un mensaje enviado a diplomáticos europeos el 20 de noviembre propuso suspender los visados turísticos y dejar de reconocer pasaportes rusos no biométricos en todo Schengen. Reuters informó que Dinamarca prevé presentar sus propuestas a los embajadores de la UE el lunes 23 de noviembre y que el Gobierno danés anunció el 20 de noviembre la expulsión del agregado de defensa ruso. La supuesta participación de la inteligencia rusa sigue siendo una acusación de las autoridades danesas que la embajada rusa rechaza.",
+        "analysis": "La propuesta traslada una investigación de seguridad nacional al debate europeo sobre las reglas de viaje. Las restricciones coordinadas tendrían un alcance mayor que las medidas diplomáticas bilaterales, pero requerirían decisiones de los gobiernos y las instituciones europeas competentes. La propuesta todavía no constituye una prohibición vigente.",
+        "counterpoint": "La embajada rusa en Copenhague negó que las acusaciones estuvieran respaldadas por pruebas. Reuters informó de un mensaje diplomático confirmado por dos diplomáticos, lo que no equivale a una aprobación de la UE ni a una sentencia judicial sobre el supuesto complot."
+      }
+    },
     {
       "id": "chuvas-aparecida-guaratingueta-alertas-sp-2026-11-21",
       "date": "2026-11-21",
