@@ -2,9 +2,45 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-21T02:57:40-03:00",
+  "updatedAt": "2026-11-21T04:00:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "bitcoin-cai-55830-dolares-menor-nivel-dois-anos-2026-11-21",
+      "date": "2026-11-21",
+      "title": "BITCOIN CAI A US$ 55.830 E ATINGE MENOR NÍVEL DESDE SETEMBRO DE 2024",
+      "subtitle": "Criptomoeda recua 5,10% e chega a US$ 55.830 em meio à venda global de ativos de risco.",
+      "category": "ECONOMIA",
+      "facts": "O bitcoin caiu para US$ 55.830 às 23h13 de 20 de novembro de 2026, no horário da costa leste dos Estados Unidos, em meio à liquidação de ativos de risco nos mercados globais, segundo a Reuters. A agência registrou queda de 5,10% nesse momento e informou que a cotação era a menor desde setembro de 2024. O CoinDesk também relatou que o bitcoin rompeu o patamar de US$ 57 mil em 20 de novembro, em um movimento de vendas que atingiu ações de tecnologia e outras classes de ativos. As cotações são registros de momentos específicos, não preços fixos para o restante do dia.",
+      "analysis": "O recuo ampliou uma sequência de perdas que coincidiu com a pressão sobre empresas de tecnologia e investimentos ligados à inteligência artificial. A relação é relevante porque investidores frequentemente reduzem posições em ativos voláteis quando o custo do dinheiro e a incerteza sobre lucros futuros aumentam. O rompimento de patamares psicológicos como US$ 60 mil e US$ 57 mil pode intensificar a volatilidade, mas não demonstra por si só uma tendência futura. Para o investidor brasileiro, a cotação em dólares não equivale ao retorno em reais: a variação cambial e os custos de negociação também importam.",
+      "counterpoint": "Reuters e CoinDesk descrevem a queda e o contexto de aversão ao risco, mas não demonstram que uma única causa explique o movimento. Os valores variam conforme horário e plataforma de negociação. Não há fundamento para prever recuperação ou nova queda a partir desses registros.",
+      "sources": [
+        {
+          "name": "Reuters — Bitcoin falls to its lowest in two years (21/11/2026)",
+          "url": "https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/"
+        },
+        {
+          "name": "CoinDesk — Bitcoin tanks below $57,000 for the first time in two years (20/11/2026)",
+          "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone"
+        }
+      ],
+      "en": {
+        "title": "BITCOIN FALLS TO $55,830, ITS LOWEST LEVEL SINCE SEPTEMBER 2024",
+        "subtitle": "Bitcoin falls 5.10% to $55,830 amid a global sell-off in risk assets.",
+        "category": "ECONOMY",
+        "facts": "Bitcoin fell to $55,830 at 11:13 p.m. US Eastern time on November 20, 2026, amid a global sell-off in risk assets, Reuters reported. The news agency recorded a 5.10% decline at that time and said the price was its lowest since September 2024. CoinDesk separately reported that bitcoin had fallen below $57,000 on November 20 as selling spread across technology stocks and other assets. These figures are snapshots, not fixed prices for the rest of the trading day.",
+        "analysis": "The decline extended a series of losses coinciding with pressure on technology shares and artificial intelligence investments. Investors often reduce exposure to volatile assets when borrowing costs and uncertainty about future earnings rise. Breaking widely watched levels such as $60,000 and $57,000 may amplify volatility, but does not establish the direction of future prices. For Brazilian investors, dollar-denominated returns also depend on exchange rates and transaction costs.",
+        "counterpoint": "Reuters and CoinDesk document the price decline and broader risk aversion, but do not establish a single cause. Quotes differ across times and trading venues, and the observations do not justify a price forecast."
+      },
+      "es": {
+        "title": "BITCOIN CAE A 55.830 DÓLARES, SU NIVEL MÁS BAJO DESDE SEPTIEMBRE DE 2024",
+        "subtitle": "La criptomoneda cae un 5,10% hasta 55.830 dólares en medio de ventas globales de activos de riesgo.",
+        "category": "ECONOMÍA",
+        "facts": "El bitcoin cayó a 55.830 dólares a las 23:13 del 20 de noviembre de 2026, hora del este de Estados Unidos, en medio de una ola global de ventas de activos de riesgo, según Reuters. La agencia registró una caída del 5,10% en ese momento y señaló que era su cotización más baja desde septiembre de 2024. CoinDesk también informó que el bitcoin bajó de 57.000 dólares el 20 de noviembre mientras las ventas afectaban a las acciones tecnológicas y otros activos. Las cifras corresponden a momentos concretos, no a precios fijos para el resto del día.",
+        "analysis": "La caída prolongó una serie de pérdidas coincidente con la presión sobre las acciones tecnológicas y las inversiones en inteligencia artificial. Los inversores suelen reducir su exposición a activos volátiles cuando aumentan los costes de financiación y la incertidumbre sobre beneficios futuros. Romper niveles como 60.000 y 57.000 dólares puede intensificar la volatilidad, pero no determina la evolución futura. Para los inversores brasileños también importan el tipo de cambio y los costes de operación.",
+        "counterpoint": "Reuters y CoinDesk documentan la caída y la aversión al riesgo, pero no demuestran una causa única. Los precios varían según el horario y la plataforma, y estos datos no permiten predecir la próxima dirección del mercado."
+      }
+    },
     {
       "id": "fbi-investiga-suspeita-invasao-banco-criminal-ncic-2026-11-21",
       "date": "2026-11-21",
