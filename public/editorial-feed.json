@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "id": "bolsonaro-internado-dor-abdominal-df-star-2026-11-20",
+      "date": "2026-11-20",
+      "title": "BOLSONARO É INTERNADO EM BRASÍLIA COM DOR ABDOMINAL; HOSPITAL INVESTIGA CAUSA",
+      "subtitle": "Ex-presidente Jair Bolsonaro permanece no DF Star após apresentar dor e distensão abdominal nesta sexta-feira (20).",
+      "category": "BRASIL",
+      "facts": "O ex-presidente Jair Messias Bolsonaro foi internado no Hospital DF Star, em Brasília, na sexta-feira, 20 de novembro de 2026, após apresentar dor e distensão abdominal, conforme boletim da unidade divulgado pela Agência Brasil. Segundo a Agência Brasil, a internação ocorreu em 20 de novembro, depois de avaliação do médico particular e deslocamento escoltado pela Polícia Militar do Distrito Federal (PMDF). De acordo com a Reuters, Bolsonaro, de 71 anos, cumpre pena em regime domiciliar por razões de saúde e passou por cirurgias abdominais após o atentado sofrido em 2018. O hospital informou que ele permaneceria internado para exames e investigação diagnóstica, sem divulgar naquele boletim a causa definitiva dos sintomas.",
+      "analysis": "A hospitalização reacende a atenção sobre as complicações abdominais recorrentes do ex-presidente, que foi ferido com uma faca durante a campanha de 2018. Uma obstrução intestinal anterior exigiu cirurgia em 2025, mas o histórico não permite concluir, por si só, que o episódio atual tenha a mesma causa. A diferença entre sintomas relatados, suspeita clínica e diagnóstico confirmado é decisiva: a evolução do quadro depende de exames e da avaliação da equipe médica. O deslocamento ocorreu durante o cumprimento de prisão domiciliar humanitária; a internação não equivale, por si, a uma alteração da condenação judicial.",
+      "counterpoint": "O boletim inicialmente divulgado pelo DF Star confirma dor e distensão abdominal e investigação diagnóstica, mas não estabelece prognóstico, necessidade de cirurgia nem data de alta. Relatos posteriores de profissionais à imprensa mencionam suspeita de obstrução intestinal, que deve ser atribuída aos médicos e não confundida com o conteúdo do boletim inicial. Alegações de familiares de que as condições de prisão provocaram o episódio não foram demonstradas por avaliação médica independente nas fontes consultadas.",
+      "sources": [
+        {
+          "name": "Agência Brasil — boletim e internação (20/11/2026)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-e-internado-com-quadro-de-dor-e-distens%C3%A3o-abdominal"
+        },
+        {
+          "name": "Reuters — internação e histórico médico (20/11/2026)",
+          "url": "https://www.reuters.com/world/americas/brazil-ex-president-bolsonaro-taken-hospital-with-abdominal-pain-son-says-2026-11-20/"
+        },
+        {
+          "name": "CNN Brasil — boletim hospitalar (20/11/2026)",
+          "url": "https://www.cnnbrasil.com.br/politica/bolsonaro-e-internado-com-quadro-de-dor-e-distensao-abdominal-diz-boletim/"
+        },
+        {
+          "name": "Folha de S.Paulo — avaliação médica (20/11/2026)",
+          "url": "https://www1.folha.uol.com.br/poder/2026/11/bolsonaro-e-levado-a-hospital-apos-sentir-dor-abdominal.shtml"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Jair_Bolsonaro_2022_%28cropped%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+          "credit": "Alan Santos/Presidência da República via Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Jair_Bolsonaro_2022_(cropped).jpg",
+          "caption": "FOTO DE ARQUIVO (7 de setembro de 2022): Jair Bolsonaro durante desfile cívico-militar em Brasília. Foto: Alan Santos/Presidência da República, CC BY 2.0. Não retrata a internação de 20 de novembro de 2026."
+        }
+      ],
+      "en": {
+        "title": "Bolsonaro hospitalized in Brasília with abdominal pain as doctors investigate cause",
+        "subtitle": "Former Brazilian president Jair Bolsonaro remains at DF Star hospital after abdominal pain and distension on Friday.",
+        "facts": "Former Brazilian president Jair Messias Bolsonaro was admitted to DF Star Hospital in Brasília on Friday, November 20, 2026, with abdominal pain and distension, according to a hospital statement reported by Agência Brasil. Agência Brasil said the admission occurred on November 20 after his private physician assessed him and police escorted him to the hospital. Reuters reported that Bolsonaro, aged 71, is serving his sentence under humanitarian house arrest and has undergone abdominal surgeries since he was stabbed in 2018. The hospital said tests were underway and did not provide a definitive diagnosis in its initial statement.",
+        "analysis": "The admission draws renewed attention to the former president's recurring abdominal complications following the 2018 stabbing. An earlier intestinal obstruction required surgery in 2025, but that history alone does not establish the cause of the current episode. Symptoms, clinical suspicion and a confirmed diagnosis must be distinguished while tests continue. Hospital treatment during humanitarian house arrest does not, by itself, change his criminal sentence.",
+        "counterpoint": "The initial DF Star statement confirmed abdominal pain and distension but did not establish a prognosis, need for surgery or discharge date. Subsequent reports citing physicians discussed a possible intestinal obstruction; these accounts should not be presented as part of the initial hospital statement. Relatives' claims linking the episode to detention conditions have not been independently established in the consulted medical evidence.",
+        "category": "BRAZIL",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (September 7, 2022): Jair Bolsonaro at a civic-military parade in Brasília. Photo: Alan Santos/Brazilian Presidency, CC BY 2.0. This does not depict his November 20, 2026 hospitalization."
+        },
+        "slug": "bolsonaro-hospitalized-in-brasilia-with-abdominal-pain-as-doctors-investigate-2026-11-20"
+      },
+      "es": {
+        "title": "Bolsonaro es hospitalizado en Brasilia por dolor abdominal mientras investigan la causa",
+        "subtitle": "El expresidente Jair Bolsonaro permanece en el hospital DF Star tras presentar dolor y distensión abdominal este viernes.",
+        "facts": "El expresidente brasileño Jair Messias Bolsonaro fue ingresado en el Hospital DF Star, en Brasilia, el viernes 20 de noviembre de 2026, por dolor y distensión abdominal, según el parte médico difundido por Agência Brasil. Según Agência Brasil, el ingreso se produjo el 20 de noviembre después de una evaluación de su médico particular y un traslado escoltado por la Policía Militar del Distrito Federal (PMDF). Reuters informó que Bolsonaro, de 71 años, cumple su condena bajo arresto domiciliario humanitario y ha pasado por cirugías abdominales desde el atentado sufrido en 2018. El hospital indicó que seguían los exámenes sin establecer una causa definitiva en el comunicado inicial.",
+        "analysis": "La hospitalización vuelve a poner el foco en las complicaciones abdominales recurrentes del expresidente desde el ataque con cuchillo de 2018. Una obstrucción intestinal anterior requirió cirugía en 2025, pero ese antecedente no demuestra que el episodio actual tenga la misma causa. Es fundamental distinguir los síntomas, la sospecha clínica y el diagnóstico confirmado mientras continúan los estudios. La atención hospitalaria durante el arresto domiciliario humanitario no modifica por sí sola la condena penal.",
+        "counterpoint": "El primer comunicado del DF Star confirmó dolor y distensión abdominal, pero no estableció pronóstico, necesidad de cirugía ni fecha de alta. Informaciones posteriores que citan a médicos mencionan una posible obstrucción intestinal y no deben confundirse con el parte inicial. Las afirmaciones de familiares que atribuyen el episodio a las condiciones de detención no quedaron acreditadas de manera independiente en la evidencia médica consultada.",
+        "category": "BRASIL",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (7 de septiembre de 2022): Jair Bolsonaro durante un desfile cívico-militar en Brasilia. Foto: Alan Santos/Presidencia de Brasil, CC BY 2.0. No muestra la hospitalización del 20 de noviembre de 2026."
+        },
+        "slug": "bolsonaro-es-hospitalizado-en-brasilia-por-dolor-abdominal-mientras-investigan-2026-11-20"
+      },
+      "firstSeen": "2026-11-20T21:00:00-03:00"
+    },
+    {
       "id": "temporal-tupancireta-tres-mortos-defesa-civil-2026-11-20",
       "date": "2026-11-20",
       "title": "TEMPORAL DEVASTA TUPANCIRETÃ: TRÊS MORTOS, MILHARES DE CASAS ATINGIDAS E SOCORRO FEDERAL",
