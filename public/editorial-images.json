@@ -515,7 +515,8 @@
     "bitcoin-cai-55830-dolares-menor-nivel-dois-anos-2026-11-21": "editorial/photos/bitcoin-cai-55830-dolares-menor-nivel-dois-anos-2026-11-21.jpg",
     "fbi-investiga-suspeita-invasao-banco-criminal-ncic-2026-11-21": "editorial/photos/fbi-investiga-suspeita-invasao-banco-criminal-ncic-2026-11-21.jpg",
     "trump-ameaca-taxar-data-centers-exterior-2026-11-20": "editorial/photos/trump-ameaca-taxar-data-centers-exterior-2026-11-20.jpg",
-    "coalizao-saudita-ataca-porto-hodeida-iemen-2026-11-20": "editorial/photos/coalizao-saudita-ataca-porto-hodeida-iemen-2026-11-20.jpg"
+    "coalizao-saudita-ataca-porto-hodeida-iemen-2026-11-20": "editorial/photos/coalizao-saudita-ataca-porto-hodeida-iemen-2026-11-20.jpg",
+    "temporais-rs-19663-pessoas-33-municipios-balanco-2026-11-21": "editorial/photos/temporais-rs-19663-pessoas-33-municipios-balanco-2026-11-21.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -2071,6 +2072,12 @@
       "srcset": "editorial/photos/coalizao-saudita-ataca-porto-hodeida-iemen-2026-11-20-320.webp 320w, editorial/photos/coalizao-saudita-ataca-porto-hodeida-iemen-2026-11-20-640.webp 640w, editorial/photos/coalizao-saudita-ataca-porto-hodeida-iemen-2026-11-20-960.webp 960w, editorial/photos/coalizao-saudita-ataca-porto-hodeida-iemen-2026-11-20-1280.webp 1280w",
       "width": 1280,
       "height": 855
+    },
+    "temporais-rs-19663-pessoas-33-municipios-balanco-2026-11-21": {
+      "src": "editorial/photos/temporais-rs-19663-pessoas-33-municipios-balanco-2026-11-21-768.webp",
+      "srcset": "editorial/photos/temporais-rs-19663-pessoas-33-municipios-balanco-2026-11-21-320.webp 320w, editorial/photos/temporais-rs-19663-pessoas-33-municipios-balanco-2026-11-21-640.webp 640w, editorial/photos/temporais-rs-19663-pessoas-33-municipios-balanco-2026-11-21-768.webp 768w",
+      "width": 768,
+      "height": 511
     }
   }
 }
