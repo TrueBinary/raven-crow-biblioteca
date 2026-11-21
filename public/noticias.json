@@ -2,9 +2,45 @@
  "schemaVersion": 1,
  "editorial": "O Corvo Investigador",
  "edition": "12/11/2026",
- "updatedAt": "2026-11-21T08:00:00-03:00",
+ "updatedAt": "2026-11-21T11:55:00-03:00",
  "tz": "America/Sao_Paulo",
  "articles": [
+  {
+   "id": "incendio-usina-hartha-basra-iraque-quatro-mortos-2026-11-21",
+   "date": "2026-11-21",
+   "category": "MUNDO",
+   "title": "INCÊNDIO EM USINA DE HARTHA NO IRAQUE DEIXA AO MENOS QUATRO MORTOS E PARALISA GERAÇÃO",
+   "subtitle": "Fogo na usina de Hartha, perto de Basra, atingiu casas vizinhas, deixou ao menos quatro mortos e interrompeu operações.",
+   "facts": "Um incêndio atingiu a usina elétrica de Hartha, ao norte de Basra, no sul do Iraque, em 21 de novembro de 2026, espalhou-se para residências próximas e levou à paralisação da instalação. Segundo a agência Reuters, autoridades de segurança registraram ao menos 4 mortes e 35 feridos; a agência estatal iraquiana Iraqi News Agency (INA) informou que equipes de Defesa Civil controlaram as chamas. De acordo com a Reuters, a usina tinha capacidade instalada de 800 megawatts, mas gerava aproximadamente 400 megawatts antes do incêndio. O Ministério da Eletricidade iraquiano associou o incidente a uma tubulação de gás que abastece a usina, mas a causa precisa ainda depende de investigação.",
+   "analysis": "O efeito do incêndio vai além dos danos à instalação: a propagação do fogo às casas vizinhas transformou um acidente industrial em emergência para moradores. A paralisação de uma unidade que produzia aproximadamente metade de sua capacidade instalada retira geração de uma rede elétrica que já enfrenta dificuldades de manutenção e oferta, segundo a Reuters. A capacidade instalada de 800 megawatts não deve ser confundida com a produção efetiva de cerca de 400 megawatts imediatamente antes do episódio; por isso, não é correto afirmar que toda a capacidade nominal foi perdida na rede. O impacto real no abastecimento dependerá do tempo de interrupção e da possibilidade de compensação por outras usinas.",
+   "counterpoint": "Os números de feridos mudaram entre as primeiras informações e atualizações posteriores, e o balanço de vítimas pode ser revisto. A referência oficial a uma tubulação de gás não equivale a uma conclusão pericial sobre a causa inicial ou a responsabilidade pelo incêndio. Ainda não há avaliação definitiva dos danos, do prazo de retomada da geração ou de eventuais apagões associados.",
+   "sources": [
+    {
+     "name": "Reuters, 21/11/2026",
+     "url": "https://www.reuters.com/business/energy/iraq-fire-basra-power-station-kills-least-four-injures-30-2026-11-21/"
+    },
+    {
+     "name": "Al Jazeera, 21/11/2026",
+     "url": "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq"
+    }
+   ],
+   "en": {
+    "title": "HARTHA POWER STATION FIRE IN IRAQ KILLS AT LEAST FOUR AND HALTS GENERATION",
+    "subtitle": "A fire at the Hartha power station near Basra spread to nearby homes, killed at least four people and halted operations.",
+    "category": "WORLD",
+    "facts": "A fire struck the Hartha power station north of Basra in southern Iraq on November 21, 2026, spread to neighboring homes and forced the plant to halt operations. According to Reuters, security officials reported at least 4 deaths and 35 injuries; Iraq's state-run Iraqi News Agency (INA) said civil defense teams brought the blaze under control. Reuters reported that the plant had 800 megawatts of installed capacity but was producing around 400 megawatts before the fire. Iraq's Electricity Ministry linked the incident to a gas pipeline supplying the facility, although the precise cause remains under investigation.",
+    "analysis": "The blaze was not confined to industrial infrastructure: it reached nearby homes, putting residents at risk. Halting a plant operating at about half its installed capacity removes active generation from an electricity network already struggling with maintenance and supply problems, according to Reuters. The plant's nominal 800-megawatt capacity must not be confused with its roughly 400-megawatt output immediately before the incident. The actual effect on electricity supply depends on the duration of the shutdown and whether other plants can compensate.",
+    "counterpoint": "Injury totals changed between early reports and later updates, and casualty figures may still be revised. An official reference to a gas pipeline is not a final forensic finding on the fire's origin or responsibility. The extent of the damage, the restart date and any resulting power outages remain unconfirmed."
+   },
+   "es": {
+    "title": "INCENDIO EN CENTRAL DE HARTHA EN IRAK DEJA AL MENOS CUATRO MUERTOS Y DETIENE LA GENERACIÓN",
+    "subtitle": "El incendio en la central de Hartha, cerca de Basora, alcanzó viviendas, dejó al menos cuatro muertos y paralizó las operaciones.",
+    "category": "MUNDO",
+    "facts": "Un incendio afectó la central eléctrica de Hartha, al norte de Basora, en el sur de Irak, el 21 de noviembre de 2026, se propagó a viviendas cercanas y obligó a suspender las operaciones. Según Reuters, las autoridades de seguridad informaron de al menos 4 muertos y 35 heridos; la agencia estatal Iraqi News Agency (INA) señaló que los equipos de Defensa Civil controlaron las llamas. De acuerdo con Reuters, la central tenía una capacidad instalada de 800 megavatios, pero producía unos 400 megavatios antes del incendio. El Ministerio de Electricidad iraquí relacionó el incidente con una tubería de gas que abastece la instalación, aunque la causa exacta sigue bajo investigación.",
+    "analysis": "El incendio no se limitó a la infraestructura industrial: alcanzó viviendas cercanas y puso en riesgo a sus habitantes. La paralización de una central que producía cerca de la mitad de su capacidad instalada elimina generación activa de una red que ya afronta problemas de mantenimiento y suministro, según Reuters. No debe confundirse la capacidad nominal de 800 megavatios con los aproximadamente 400 megavatios generados antes del siniestro. El impacto real en el suministro dependerá de la duración de la interrupción y de la capacidad de otras centrales para compensarla.",
+    "counterpoint": "Las cifras de heridos variaron entre los primeros informes y las actualizaciones posteriores, y el balance puede cambiar. La mención oficial de una tubería de gas no constituye una conclusión pericial definitiva sobre el origen o las responsabilidades. Siguen sin confirmarse el alcance de los daños, la fecha de reanudación y posibles cortes eléctricos derivados."
+   }
+  },
   {
    "id": "onu-adia-regras-armas-autonomas-2028-genebra-2026-11-21",
    "date": "2026-11-21",
