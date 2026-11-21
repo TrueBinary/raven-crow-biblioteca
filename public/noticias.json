@@ -2,9 +2,41 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-21T14:04:40-03:00",
+  "updatedAt": "2026-11-21T16:01:26-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "chuvas-aparecida-guaratingueta-alertas-sp-2026-11-21",
+      "date": "2026-11-21",
+      "title": "CHUVAS ATINGEM APARECIDA, DANIFICAM IMÓVEIS E MANTÊM SP EM ALERTA ATÉ DOMINGO",
+      "subtitle": "Temporal em Aparecida deixa família fora de casa e atinge cinco hóspedes; Defesa Civil mantém alerta em todo o estado até domingo.",
+      "category": "BRASIL",
+      "facts": "Fortes chuvas atingiram Aparecida, no interior de São Paulo, em 20 de novembro de 2026, provocando alagamentos, quedas de árvores, danos em imóveis e a interdição preventiva de uma residência, conforme informações da Defesa Civil do Estado de São Paulo divulgadas pela Agência Brasil em 21 de novembro. Segundo a Defesa Civil, cinco hóspedes foram atingidos pelo desabamento parcial do teto de um restaurante de hotel e uma família deixou sua casa por risco estrutural. De acordo com a Defesa Civil, foram enviados 47 alertas à população na sexta-feira (20), sendo 20 por Cell Broadcast e 27 por SMS, além de outros 11 alertas por SMS até as 7h de sábado (21). Em Guaratinguetá, o transbordamento do Ribeirão dos Mottas inundou aproximadamente 30 residências, segundo o mesmo levantamento. O alerta estadual permanece até domingo (22).",
+      "analysis": "O episódio envolve municípios distintos e riscos de natureza diferente: em Aparecida, alagamentos e danos estruturais afetaram casas e um estabelecimento hoteleiro; em Guaratinguetá, o transbordamento de um curso d'água atingiu residências. A extensão do alerta para todo o estado não significa que todas as cidades sofreram danos. Para moradores de áreas de risco, a Defesa Civil recomenda evitar ruas alagadas, correntezas e margens de rios, observar rachaduras e sinais de instabilidade em encostas e deixar imediatamente locais ameaçados. Alertas gratuitos por SMS podem ser recebidos ao enviar o CEP para 40199; emergências devem ser comunicadas à Defesa Civil pelo 199 ou aos Bombeiros pelo 193.",
+      "counterpoint": "Os relatos são balanços iniciais da Defesa Civil e podem mudar com novas vistorias. A reportagem não apresenta confirmação de mortes associadas a esses episódios, nem permite concluir que as cinco pessoas atingidas pelo teto sofreram ferimentos de determinada gravidade. O alerta meteorológico é preventivo e não equivale à previsão de danos em cada município.",
+      "sources": [
+        {
+          "name": "Agência Brasil — Temporais provocam alagamentos e danos em imóveis no estado de SP, 21/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/temporais-provocam-alagamentos-e-danos-em-imoveis-no-estado-de-sp"
+        }
+      ],
+      "en": {
+        "title": "Storms damage homes in Aparecida as São Paulo state remains on alert through Sunday",
+        "subtitle": "Storms displace a family in Aparecida and affect five hotel guests; statewide rain alerts remain in place through Sunday.",
+        "facts": "Heavy rain struck Aparecida, in Brazil's São Paulo state, on November 20, 2026, causing flooding, fallen trees, property damage and the precautionary closure of a home, according to the São Paulo State Civil Defense agency in a report published by Agência Brasil on November 21. Civil Defense said five hotel guests were affected when part of a restaurant ceiling collapsed, while one family had to leave a structurally compromised house. According to Civil Defense, 47 public warnings were sent on Friday (November 20), including 20 Cell Broadcast warnings and 27 SMS messages, followed by 11 more SMS warnings by 7 a.m. on Saturday (November 21). In nearby Guaratinguetá, the overflow of the Ribeirão dos Mottas flooded approximately 30 homes, the same agency reported. The statewide alert remains in effect through Sunday (November 22).",
+        "analysis": "The storms caused different hazards in neighboring municipalities: structural damage and flooding in Aparecida, and river overflow affecting homes in Guaratinguetá. A statewide alert does not mean every city has suffered damage. Civil Defense advises residents to avoid flooded roads and riverbanks, watch for cracks and instability on slopes, and evacuate threatened buildings. Free SMS alerts are available by sending a local postal code to 40199; Civil Defense can be reached at 199 and firefighters at 193.",
+        "counterpoint": "These are preliminary Civil Defense reports and may change after inspections. The cited report does not confirm deaths in these incidents or establish the severity of any injuries to the five hotel guests. A weather alert is preventive, not a prediction of damage in every municipality.",
+        "category": "BRAZIL"
+      },
+      "es": {
+        "title": "Temporales dañan inmuebles en Aparecida y São Paulo mantiene alerta hasta el domingo",
+        "subtitle": "Las lluvias obligan a una familia a dejar su casa y afectan a cinco huéspedes; São Paulo mantiene la alerta hasta el domingo.",
+        "facts": "Fuertes lluvias afectaron a Aparecida, en el estado brasileño de São Paulo, el 20 de noviembre de 2026, causando inundaciones, caídas de árboles, daños materiales y la clausura preventiva de una vivienda, según la Defensa Civil del Estado de São Paulo en información publicada por Agência Brasil el 21 de noviembre. Según Defensa Civil, cinco huéspedes resultaron afectados por el derrumbe parcial del techo de un restaurante de hotel y una familia tuvo que abandonar una vivienda con daños estructurales. De acuerdo con Defensa Civil, el viernes 20 se enviaron 47 alertas, de los cuales 20 fueron por Cell Broadcast y 27 por SMS, además de otros 11 mensajes SMS hasta las 7 de la mañana del sábado 21. En Guaratinguetá, el desbordamiento del Ribeirão dos Mottas inundó aproximadamente 30 viviendas, según el mismo organismo. La alerta estatal continúa hasta el domingo 22.",
+        "analysis": "Las lluvias provocaron riesgos distintos en municipios cercanos: daños estructurales e inundaciones en Aparecida y desbordamiento de un arroyo en Guaratinguetá. Una alerta para todo el estado no implica daños en todas las ciudades. Defensa Civil recomienda evitar calles inundadas y riberas, vigilar grietas y señales de inestabilidad en laderas y evacuar inmuebles amenazados. Para recibir avisos gratuitos por SMS, se puede enviar el código postal al 40199; las emergencias se comunican al 199 o al 193.",
+        "counterpoint": "Los informes son preliminares y pueden cambiar tras nuevas inspecciones. La fuente no confirma muertes vinculadas a estos episodios ni determina la gravedad de las lesiones de los cinco huéspedes afectados. Una alerta meteorológica es preventiva y no implica daños en todos los municipios.",
+        "category": "BRASIL"
+      }
+    },
     {
       "id": "temporais-rs-19663-pessoas-33-municipios-balanco-2026-11-21",
       "date": "2026-11-21",
