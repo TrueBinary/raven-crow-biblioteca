@@ -30,7 +30,10 @@
         "facts": "Spanish Ducati Lenovo Team rider Marc Márquez secured his eighth premier-class MotoGP world championship on Sunday, November 22, 2026, by finishing eighth at the Portuguese Grand Prix in Portimão. According to MotoGP's official report, the title was decided at round 21 of 22 despite Márquez finishing off the podium. MotoGP also reports that he had trailed Marco Bezzecchi by 102 points after round seven; in Portugal, Bezzecchi won ahead of Jorge Martín and Raúl Fernández.",
         "analysis": "The race result and championship result tell different stories: Aprilia swept the podium, but Márquez's eighth place was enough to make his points lead unassailable. According to MotoGP, his eighth premier-class title draws him level with Giacomo Agostini. Overcoming a 102-point deficit illustrates the importance of season-long consistency rather than a single race result. Valencia remains relevant to other standings, not the riders' title.",
         "counterpoint": "Winning the riders' championship does not mean Ducati won the Portuguese Grand Prix; Bezzecchi and Aprilia swept the podium. The historical comparison concerns premier-class titles, not championships across all motorcycle racing classes.",
-        "category": "SPORT"
+        "category": "SPORT",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (July 18, 2025): Marc Márquez rides a Ducati at the Czech Grand Prix in Brno. Pavel21kriz/Wikimedia Commons, CC BY-SA 4.0. This is not the November 22, 2026 Portuguese Grand Prix."
+        }
       },
       "es": {
         "title": "MARC MÁRQUEZ LOGRA SU OCTAVO TÍTULO DE MOTOGP AL TERMINAR OCTAVO EN PORTUGAL",
@@ -38,8 +41,22 @@
         "facts": "El piloto español del Ducati Lenovo Team Marc Márquez conquistó el domingo 22 de noviembre de 2026 su octavo campeonato mundial de la categoría reina de MotoGP al finalizar octavo en el Gran Premio de Portugal, en Portimão. Según el informe oficial de MotoGP, aseguró el título en la prueba 21 de 22 pese a quedar fuera del podio. De acuerdo con MotoGP, Márquez había estado 102 puntos por detrás de Marco Bezzecchi tras la séptima prueba; en Portugal ganó Bezzecchi, seguido por Jorge Martín y Raúl Fernández.",
         "analysis": "El resultado de la carrera y el del campeonato cuentan historias distintas: Aprilia ocupó todo el podio, pero el octavo puesto permitió a Márquez lograr una ventaja matemática definitiva. Según MotoGP, iguala los ocho títulos de la categoría reina de Giacomo Agostini. Remontar 102 puntos evidencia el peso de la regularidad durante la temporada frente a una carrera aislada. Valencia todavía importa para otras clasificaciones, aunque no cambiará al campeón de pilotos.",
         "counterpoint": "El título de pilotos no significa que Ducati ganara el Gran Premio de Portugal: Bezzecchi y Aprilia coparon el podio. La comparación histórica se limita a los títulos de la categoría reina, no a todas las categorías del motociclismo.",
-        "category": "DEPORTE"
-      }
+        "category": "DEPORTE",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (18/07/2025): Marc Márquez pilota una Ducati en Brno, en el Gran Premio de la República Checa. Pavel21kriz/Wikimedia Commons, CC BY-SA 4.0. No muestra el GP de Portugal del 22/11/2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Marc_M%C3%A1rquez_at_Czech_Motorcycle_Grand_Prix_at_Brno_2025.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0",
+          "credit": "Pavel21kriz / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Marc_M%C3%A1rquez_at_Czech_Motorcycle_Grand_Prix_at_Brno_2025.jpg",
+          "caption": "FOTO DE ARQUIVO (18/07/2025): Marc Márquez pilota uma Ducati em Brno, no Grande Prêmio da República Tcheca. Pavel21kriz/Wikimedia Commons, CC BY-SA 4.0. Não retrata o GP de Portugal de 22/11/2026."
+        }
+      ]
     },
     {
       "id": "temporais-rs-25123-afetados-42-municipios-novo-balanco-2026-11-22",
@@ -70,7 +87,10 @@
         "category": "BRAZIL",
         "facts": "On November 22, 2026, the Rio Grande do Sul Civil Defense agency reported that storms beginning on November 20 had affected 25,123 people in 42 municipalities in southern Brazil, according to Agência Brasil. The agency's figures, reported by Agência Brasil, include 47 incidents, 265 injured people and five deaths. The assessment also lists 19,854 displaced from their homes, 40 people requiring public shelter and 7,971 homes with roof damage; local damage assessments remain subject to revision.",
         "analysis": "The new figures expand the scale of the emergency compared with the November 21 report of 19,663 affected people across 33 municipalities: an increase of 5,460 people and nine municipalities, although the underlying records may be revised. The rise in reported injuries from 60 to 265 underscores the distinction between newly recorded cases and injuries necessarily sustained during the latest reporting interval. Damage to 29 educational facilities and three healthcare facilities also poses challenges for public services alongside housing repairs and shelter.",
-        "counterpoint": "The figures are preliminary and depend on municipal reporting. People displaced from their homes and those requiring public shelter are distinct categories. Differences between reports do not establish that every newly recorded case occurred between publication times."
+        "counterpoint": "The figures are preliminary and depend on municipal reporting. People displaced from their homes and those requiring public shelter are distinct categories. Differences between reports do not establish that every newly recorded case occurred between publication times.",
+        "photo_captions": {
+          "1": "PHOTO (released November 21, 2026): homes with damaged roofs in Tupanciretã, Rio Grande do Sul, after the storm. MIDR/Secom, CC BY-ND 3.0. The photo shows local damage, not all 42 municipalities in the statewide tally."
+        }
       },
       "es": {
         "title": "Temporales afectan a 25.123 personas en 42 municipios del sur de Brasil; hay cinco muertos",
@@ -78,8 +98,22 @@
         "category": "BRASIL",
         "facts": "El 22 de noviembre de 2026, la Defensa Civil de Rio Grande do Sul informó que los temporales iniciados el 20 de noviembre afectaron a 25.123 personas en 42 municipios del sur de Brasil, según Agência Brasil. De acuerdo con las cifras del organismo difundidas por Agência Brasil, se registraron 47 incidentes, 265 heridos y cinco muertes. El balance incluye además 19.854 personas desplazadas de sus hogares, 40 que necesitan alojamiento público y 7.971 viviendas destechadas; los daños siguen sujetos a revisión municipal.",
         "analysis": "El nuevo balance amplía la dimensión de la emergencia respecto al informe del 21 de noviembre, que registraba 19.663 afectados en 33 municipios: 5.460 personas y nueve municipios adicionales, aunque los registros pueden revisarse. El aumento de heridos de 60 a 265 muestra la importancia de diferenciar nuevos registros de lesiones ocurridas necesariamente en las últimas horas. Los daños en 29 establecimientos educativos y tres sanitarios también amenazan la continuidad de servicios públicos, además de exigir refugios y reparaciones.",
-        "counterpoint": "Las cifras son provisionales y dependen de los informes municipales. Las personas desplazadas de sus viviendas y quienes necesitan refugio público son categorías distintas. La diferencia entre balances no demuestra que todos los casos añadidos hayan ocurrido entre ambas publicaciones."
-      }
+        "counterpoint": "Las cifras son provisionales y dependen de los informes municipales. Las personas desplazadas de sus viviendas y quienes necesitan refugio público son categorías distintas. La diferencia entre balances no demuestra que todos los casos añadidos hayan ocurrido entre ambas publicaciones.",
+        "photo_captions": {
+          "1": "FOTO (difundida el 21/11/2026): viviendas con techos destruidos en Tupanciretã, Rio Grande do Sul, tras la tormenta. MIDR/Secom, CC BY-ND 3.0. Muestra daños locales y no los 42 municipios del balance estatal."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/governo-federal-reconhece-estado-de-calamidade-em-tupancireta-rs-e-inicia-planos-de-trabalho-para-resposta-a-tempestade/tupancireta-1.jpg/@@images/5e878cdd-f6d2-43c1-96cd-957dfd35d995.jpeg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-ND 3.0 — licença institucional explícita no portal da Secom",
+          "credit": "Divulgação/MIDR, via Secom/Governo Federal",
+          "source_article": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/governo-federal-reconhece-estado-de-calamidade-em-tupancireta-rs-e-inicia-planos-de-trabalho-para-resposta-a-tempestade",
+          "caption": "FOTO (divulgada em 21/11/2026): casas com telhados destruídos em Tupanciretã, no Rio Grande do Sul, após o temporal. Divulgação/MIDR, via Secom, CC BY-ND 3.0. Mostra danos locais, não os 42 municípios do balanço estadual."
+        }
+      ]
     },
     {
       "id": "ministro-educacao-coreia-sul-renuncia-fraudes-ia-vestibular-2026-11-22",
@@ -110,7 +144,10 @@
         "category": "WORLD",
         "facts": "South Korean Education Minister Choi Kyo-jin resigned on November 22, 2026, in Seoul after criticism of last-minute changes to rules intended to prevent artificial intelligence (AI) cheating in the national university entrance exam. According to South Korea's Yonhap news agency, President Lee Jae Myung accepted his resignation that day after the government acknowledged confusion for test takers. According to Agence France-Presse reporting carried by the Guardian, officials identified 111 electronic-device-related misconduct cases during the November 19 exam, nearly half detected through emergency mobile-phone alerts.",
         "analysis": "The episode highlights a practical challenge in supervising in-person exams: miniature cameras and phones can enable access to AI systems without an obvious computer. Authorities introduced checks of glasses, watches and clothing, device collection and restrictions on Wi-Fi around test venues. The measures changed shortly before the exam, after a candidate in a different examination admitted using a hidden camera and AI. The resignation is a political consequence of the planning and communication of the safeguards, not proof that the university exam was compromised on a large scale.",
-        "counterpoint": "The 111 reported incidents involved electronic devices and do not establish 111 confirmed cases of AI cheating. Officials said the exam ended without major incidents; widespread manipulation of results has not been demonstrated. No official video with verified content and a precise start time could be established for embedding."
+        "counterpoint": "The 111 reported incidents involved electronic devices and do not establish 111 confirmed cases of AI cheating. Officials said the exam ended without major incidents; widespread manipulation of results has not been demonstrated. No official video with verified content and a precise start time could be established for embedding.",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (September 18, 2025): official portrait of Choi Kyo-jin. National Assembly of South Korea, KOGL Type 1. This does not depict his November 22, 2026 resignation."
+        }
       },
       "es": {
         "title": "RENUNCIA EL MINISTRO DE EDUCACIÓN DE COREA DEL SUR POR CAMBIOS DE ÚLTIMA HORA CONTRA TRAMPAS CON IA",
@@ -118,8 +155,22 @@
         "category": "MUNDO",
         "facts": "El ministro de Educación de Corea del Sur, Choi Kyo-jin, renunció el 22 de noviembre de 2026 en Seúl tras las críticas por cambios de última hora en las normas para impedir trampas con inteligencia artificial (IA) en el examen nacional de acceso universitario. Según la agencia surcoreana Yonhap, el presidente Lee Jae Myung aceptó su dimisión ese mismo día, después de que el Gobierno reconociera la confusión causada a los aspirantes. De acuerdo con información de Agence France-Presse publicada por The Guardian, los supervisores identificaron 111 casos de irregularidades relacionadas con dispositivos electrónicos durante el examen del 19 de noviembre; casi la mitad se detectó mediante alertas de emergencia a teléfonos móviles.",
         "analysis": "El caso revela una dificultad concreta para vigilar los exámenes presenciales: cámaras diminutas y teléfonos permiten consultar sistemas de IA sin utilizar un ordenador visible. Las autoridades introdujeron inspecciones de gafas, relojes y ropa, recogida de dispositivos y restricciones de Wi-Fi cerca de los centros. Las medidas cambiaron poco antes de la prueba, después de que un aspirante a otro examen admitiera haber usado una cámara oculta e IA. La renuncia es una consecuencia política de la preparación y comunicación de esas medidas, no una prueba de fraude generalizado en el examen universitario.",
-        "counterpoint": "Los 111 incidentes registrados estaban relacionados con dispositivos electrónicos y no equivalen a 111 casos confirmados de fraude mediante IA. Las autoridades afirmaron que la prueba concluyó sin incidentes graves; no se ha demostrado una manipulación generalizada de los resultados. No se verificó un video oficial con contenido y segundo inicial precisos para incorporarlo."
-      }
+        "counterpoint": "Los 111 incidentes registrados estaban relacionados con dispositivos electrónicos y no equivalen a 111 casos confirmados de fraude mediante IA. Las autoridades afirmaron que la prueba concluyó sin incidentes graves; no se ha demostrado una manipulación generalizada de los resultados. No se verificó un video oficial con contenido y segundo inicial precisos para incorporarlo.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (18/09/2025): retrato oficial de Choi Kyo-jin. Asamblea Nacional de Corea del Sur, KOGL Type 1. No muestra su renuncia del 22/11/2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Choi_Kyo-jin_20250918.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Korea Open Government License Type 1 (KOGL Type 1)",
+          "credit": "Assembleia Nacional da Coreia do Sul / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Choi_Kyo-jin_20250918.jpg",
+          "caption": "FOTO DE ARQUIVO (18/09/2025): Choi Kyo-jin em retrato oficial. Assembleia Nacional da Coreia do Sul, KOGL Type 1. Não retrata a renúncia de 22/11/2026."
+        }
+      ]
     },
     {
       "id": "dylan-dawson-vence-atlantic-coast-pro-classic-physique-2026-11-22",
@@ -150,7 +201,10 @@
         "facts": "South African bodybuilder Dylan Dawson won the Open Classic Physique division at the Atlantic Coast Pro, held on November 21, 2026, in Fort Lauderdale, Florida, United States, according to the International Federation of Bodybuilding and Fitness Professional League (IFBB Pro League) official scorecard. The IFBB Pro League recorded Dawson first with a judging score of 3, ahead of runner-up Mudbi Favors with 6 and third-place Jarek Crew with 10. In Men's Bodybuilding Masters 40+, Brazilian competitor Rachid Souki placed second with 7, behind winner Troy Gardner with 3, according to the same official results.",
         "analysis": "The official scorecards allow comparisons within each division, not direct comparisons between Classic Physique and Masters Bodybuilding competitors, whose judging standards and fields differ. Dawson's victory adds a professional international result, while Souki's runner-up finish is the confirmed Brazilian highlight in the Masters 40+ class. Organizers scheduled the event for November 21–22, with open and age-group divisions, making precise division labels essential.",
         "counterpoint": "Official placings and judging scores do not independently establish prize money, sponsorship agreements or automatic Olympia qualification. Qualification claims require checking the circuit's applicable rules. No official video with a verifiable excerpt and timestamp was confirmed for embedding.",
-        "category": "BODYBUILDING"
+        "category": "BODYBUILDING",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (December 29, 2023): dumbbells and workout benches at a gym. KeepActive.com.au/Wikimedia Commons, CC BY-SA 4.0. Contextual image only; it does not show Dylan Dawson or the November 21, 2026 Atlantic Coast Pro."
+        }
       },
       "es": {
         "title": "DYLAN DAWSON GANA CLASSIC PHYSIQUE EN EL ATLANTIC COAST PRO; BRASILEÑO ES SUBCAMPEÓN MASTERS",
@@ -158,8 +212,22 @@
         "facts": "El sudafricano Dylan Dawson ganó la categoría Classic Physique Open del Atlantic Coast Pro, celebrado el 21 de noviembre de 2026 en Fort Lauderdale, Florida, Estados Unidos, según el acta oficial de la Liga Profesional de la Federación Internacional de Fisicoculturismo (IFBB Pro League). Según la IFBB Pro League, Dawson quedó primero con 3 puntos de evaluación, por delante de Mudbi Favors, segundo con 6, y Jarek Crew, tercero con 10. En Men's Bodybuilding Masters 40+, el brasileño Rachid Souki fue subcampeón con 7 puntos, detrás de Troy Gardner, ganador con 3, según la misma clasificación oficial.",
         "analysis": "Las actas permiten comparar resultados dentro de cada categoría, pero no comparar directamente Classic Physique y Masters Bodybuilding, que tienen criterios y participantes diferentes. La victoria de Dawson constituye un nuevo resultado profesional internacional; para Brasil, el segundo puesto de Souki es el resultado destacado confirmado en Masters 40+. Los organizadores programaron el evento para el 21 y 22 de noviembre, con divisiones abiertas y por edad, por lo que es fundamental identificar la categoría exacta.",
         "counterpoint": "Los puestos y las puntuaciones oficiales no acreditan por sí solos premios económicos, contratos de patrocinio ni una clasificación automática para el Olympia. Cualquier afirmación sobre plazas debe contrastarse con las reglas vigentes. No se confirmó ningún video oficial con fragmento y marca temporal verificables para insertar.",
-        "category": "FISICOCULTURISMO"
-      }
+        "category": "FISICOCULTURISMO",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (29/12/2023): mancuernas y bancos de entrenamiento en un gimnasio. KeepActive.com.au/Wikimedia Commons, CC BY-SA 4.0. Imagen contextual; no muestra a Dylan Dawson ni el Atlantic Coast Pro del 21/11/2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Dumbells_and_free_weights_in_a_gym.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0; atribuição e link ao fotógrafo KeepActive.com.au",
+          "credit": "KeepActive.com.au (https://keepactive.com.au) / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Dumbells_and_free_weights_in_a_gym.jpg",
+          "caption": "FOTO DE ARQUIVO (29/12/2023): halteres e bancos de treino em uma academia. KeepActive.com.au/Wikimedia Commons, CC BY-SA 4.0. Imagem contextual; não mostra Dylan Dawson nem o Atlantic Coast Pro de 21/11/2026."
+        }
+      ]
     },
     {
       "id": "verstappen-vence-gp-las-vegas-formula-1-2026-11-22",
@@ -190,7 +258,10 @@
         "category": "SPORT",
         "facts": "Red Bull Racing driver Max Verstappen won the Formula 1 Las Vegas Grand Prix held on November 21, 2026, local time, on the Las Vegas street circuit in the United States. According to Formula 1's official results, Verstappen completed 50 laps in 1:27:39.624 and finished 0.639 seconds ahead of McLaren's Lando Norris; Oscar Piastri placed third, 1.529 seconds behind. The organizer reported 35 changes of lead, with Mercedes drivers George Russell and Kimi Antonelli also challenging at the front.",
         "analysis": "The margin of less than one second illustrates why this was far from a straightforward pole-to-flag victory. Formula 1's race account describes repeated passes and lead changes shaped by slipstreaming and energy management. Russell fell to ninth after a late braking error, while Antonelli finished fourth. McLaren secured second and third despite Mercedes repeatedly threatening Red Bull during the race.",
-        "counterpoint": "These positions reflect the official classification consulted after the race; any subsequent stewards' decisions should be checked against the series' documentation. An official video is available on Formula 1's website, but it was not embedded because a public YouTube link with a verified timestamp could not be established."
+        "counterpoint": "These positions reflect the official classification consulted after the race; any subsequent stewards' decisions should be checked against the series' documentation. An official video is available on Formula 1's website, but it was not embedded because a public YouTube link with a verified timestamp could not be established.",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (October 10, 2026): Max Verstappen's car during the Singapore Grand Prix sprint race. Liauzh/Wikimedia Commons, CC BY-SA 4.0. This is not the November 21, 2026 Las Vegas Grand Prix."
+        }
       },
       "es": {
         "title": "VERSTAPPEN GANA EL GRAN PREMIO DE LAS VEGAS POR 0,639 SEGUNDOS TRAS 50 VUELTAS",
@@ -198,8 +269,22 @@
         "category": "DEPORTE",
         "facts": "Max Verstappen, piloto de Red Bull Racing, ganó el Gran Premio de Las Vegas de Fórmula 1 disputado el 21 de noviembre de 2026, hora local, en el circuito urbano de Las Vegas, Estados Unidos. Según los resultados oficiales de Fórmula 1, Verstappen completó 50 vueltas en 1:27:39,624 y superó por 0,639 segundos a Lando Norris, de McLaren; Oscar Piastri fue tercero, a 1,529 segundos. La organización informó de 35 cambios de liderato, con George Russell y Kimi Antonelli, de Mercedes, también luchando por la primera posición.",
         "analysis": "La diferencia inferior a un segundo muestra que no fue una victoria cómoda desde la pole position. El relato oficial describe adelantamientos y cambios de liderato favorecidos por el rebufo y la gestión de energía. Russell cayó al noveno puesto tras un error de frenada en las últimas vueltas, mientras Antonelli terminó cuarto. McLaren consiguió el segundo y tercer puesto pese a la presión de Mercedes sobre Red Bull.",
-        "counterpoint": "Las posiciones corresponden a la clasificación oficial consultada después de la carrera; cualquier decisión posterior de los comisarios debe comprobarse en la documentación de la categoría. Existe un video oficial en el sitio de Fórmula 1, pero no se incorporó porque no pudo verificarse un enlace público de YouTube con un instante preciso."
-      }
+        "counterpoint": "Las posiciones corresponden a la clasificación oficial consultada después de la carrera; cualquier decisión posterior de los comisarios debe comprobarse en la documentación de la categoría. Existe un video oficial en el sitio de Fórmula 1, pero no se incorporó porque no pudo verificarse un enlace público de YouTube con un instante preciso.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (10/10/2026): el coche de Max Verstappen durante la carrera sprint del Gran Premio de Singapur. Liauzh/Wikimedia Commons, CC BY-SA 4.0. No muestra el GP de Las Vegas del 21/11/2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/2026_Singapore_GP_-_Red_Bull_-_Max_Verstappen_-_Sprint_Race.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0",
+          "credit": "Liauzh / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:2026_Singapore_GP_-_Red_Bull_-_Max_Verstappen_-_Sprint_Race.jpg",
+          "caption": "FOTO DE ARQUIVO (10/10/2026): carro de Max Verstappen durante a sprint do Grande Prêmio de Singapura. Liauzh/Wikimedia Commons, CC BY-SA 4.0. Não retrata o GP de Las Vegas de 21/11/2026."
+        }
+      ]
     },
     {
       "id": "cop31-antalya-termina-sem-acordo-geral-2026-11-22",
@@ -230,7 +315,10 @@
         "category": "WORLD",
         "facts": "The 31st Conference of the Parties to the United Nations Framework Convention on Climate Change (COP31) ended on November 22, 2026, in Antalya, Türkiye, without adopting its overarching political decision, after the European Union and other countries objected to the draft proposed by the Turkish and Australian presidencies, according to Reuters and the Associated Press. According to the United Nations Framework Convention on Climate Change (UNFCCC), the official conference dates were November 9–20, 2026; negotiations continued through Sunday, November 22, Reuters reported. The Associated Press said talks ran nearly 48 hours into overtime and the draft did not explicitly reaffirm the 2023 commitment to transition away from fossil fuels. Conference president Murat Kurum acknowledged the lack of consensus and said the central text would not be adopted.",
         "analysis": "The deadlock matters because UN climate decisions require consensus: broad support cannot secure adoption when objections remain. The dispute concerned not only oil, gas and coal, but also climate finance and carbon-capture technologies. Failure to adopt the central declaration does not repeal the Paris Agreement or previous commitments, and it does not mean every technical decision at COP31 was void. Distinguishing the missing overarching political agreement from the summit's other outcomes is essential to assessing the setback.",
-        "counterpoint": "The European Union and vulnerable countries criticized the omission of fossil fuels; oil-producing countries argued for keeping multiple technologies and energy options available. Earlier climate obligations remain in place, but the summit failed to deliver a new collective political signal. Consequences for national targets and finance depend on future decisions."
+        "counterpoint": "The European Union and vulnerable countries criticized the omission of fossil fuels; oil-producing countries argued for keeping multiple technologies and energy options available. Earlier climate obligations remain in place, but the summit failed to deliver a new collective political signal. Consequences for national targets and finance depend on future decisions.",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (November 12, 2026): Tarique Rahman addresses COP31 in Antalya, Turkey. Bangladesh Press Information Department, public domain. This does not depict COP31's November 22 conclusion."
+        }
       },
       "es": {
         "title": "LA COP31 TERMINA SIN ACUERDO GENERAL TRAS DISPUTA SOBRE COMBUSTIBLES FÓSILES",
@@ -238,8 +326,22 @@
         "category": "MUNDO",
         "facts": "La 31.ª Conferencia de las Partes de la Convención Marco de las Naciones Unidas sobre el Cambio Climático (COP31) terminó el 22 de noviembre de 2026 en Antalya, Turquía, sin aprobar su decisión política central, después de que la Unión Europea y otros países rechazaran el borrador presentado por las presidencias turca y australiana, según Reuters y Associated Press. Según la Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC), la conferencia estaba programada del 9 al 20 de noviembre de 2026; las negociaciones continuaron hasta el domingo 22, informó Reuters. De acuerdo con Associated Press, las conversaciones se prolongaron casi 48 horas y el proyecto no reafirmaba expresamente el compromiso de 2023 de abandonar progresivamente los combustibles fósiles. El presidente de la conferencia, Murat Kurum, reconoció que no había consenso y anunció que el texto central no sería adoptado.",
         "analysis": "El bloqueo importa porque las decisiones climáticas multilaterales requieren consenso: el apoyo de numerosos países no basta si persisten objeciones. La disputa abarcó petróleo, gas y carbón, pero también financiación climática y tecnologías de captura de carbono. La ausencia de una declaración central no deroga el Acuerdo de París ni los compromisos anteriores, y tampoco significa que todas las decisiones técnicas de la COP31 hayan quedado anuladas. Es importante distinguir el fracaso del acuerdo político general de los demás resultados de la cumbre.",
-        "counterpoint": "La Unión Europea y países vulnerables criticaron la omisión de los combustibles fósiles; los países productores defendieron mantener diversas tecnologías y opciones energéticas. Los compromisos climáticos previos siguen vigentes, pero la conferencia no logró una nueva señal política conjunta. Sus efectos sobre metas y financiación dependerán de decisiones posteriores."
-      }
+        "counterpoint": "La Unión Europea y países vulnerables criticaron la omisión de los combustibles fósiles; los países productores defendieron mantener diversas tecnologías y opciones energéticas. Los compromisos climáticos previos siguen vigentes, pero la conferencia no logró una nueva señal política conjunta. Sus efectos sobre metas y financiación dependerán de decisiones posteriores.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (12/11/2026): Tarique Rahman interviene en la COP31, en Antalya, Turquía. Departamento de Información de Prensa de Bangladesh, dominio público. No muestra la clausura del 22/11/2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Tarique_Rahman_addressing_the_United_Nations_Climate_Change_Conference_COP31_in_Antalya%2C_Turkey%2C_2026-11-12.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "Domínio público — declaração institucional do Departamento de Informação à Imprensa de Bangladesh",
+          "credit": "Press Information Department / Governo de Bangladesh / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Tarique_Rahman_addressing_the_United_Nations_Climate_Change_Conference_COP31_in_Antalya,_Turkey,_2026-11-12.jpg",
+          "caption": "FOTO DE ARQUIVO (12/11/2026): Tarique Rahman discursa na COP31, em Antália, Turquia. Departamento de Informação à Imprensa de Bangladesh, domínio público. Não retrata o encerramento da COP31 em 22/11/2026."
+        }
+      ]
     },
     {
       "id": "tupancireta-calamidade-federal-cinco-mortos-2026-11-22",
@@ -270,7 +372,10 @@
         "category": "BRAZIL",
         "facts": "Brazil's federal government recognized a state of public calamity in Tupanciretã, Rio Grande do Sul, on November 21, 2026, following a storm on November 20, according to the Ministry of Integration and Regional Development (MIDR). According to Rio Grande do Sul's Civil Defense, in figures reported by GZH on November 21, the death toll reached 5 and 265 people were injured. The same Civil Defense figures reported 7,796 homes with damaged roofs and 20 schools damaged in the municipality. The recognition was announced, but the formal publication of the ordinance in the Official Gazette was still pending in the government statement reviewed.",
         "analysis": "Federal recognition can speed up emergency funding requests and planning, but it does not mean the full reconstruction budget has already been disbursed. MIDR said three work plans were being prepared for humanitarian assistance, roofing materials and debris clearance, with other projects to be assessed individually. The rise from three initially reported deaths to five illustrates the importance of dating disaster figures. Recovery will require work on homes, schools, healthcare facilities and power infrastructure alongside immediate relief.",
-        "counterpoint": "Casualty and damage figures remain subject to revision. The total reconstruction cost has not been established, and recognition alone does not prove that each funding tranche has been released. A tornado has not been definitively confirmed as the cause."
+        "counterpoint": "Casualty and damage figures remain subject to revision. The total reconstruction cost has not been established, and recognition alone does not prove that each funding tranche has been released. A tornado has not been definitively confirmed as the cause.",
+        "photo_captions": {
+          "1": "PHOTO (released November 21, 2026): Minister Waldez Góes and local and federal representatives discuss the storm response in Tupanciretã, Rio Grande do Sul. MIDR/Secom, CC BY-ND 3.0. The photo does not show the formal publication of the disaster declaration."
+        }
       },
       "es": {
         "title": "BRASIL RECONOCE CALAMIDAD EN TUPANCIRETÃ; TEMPORAL DEJA YA 5 MUERTOS",
@@ -278,8 +383,22 @@
         "category": "BRASIL",
         "facts": "El Gobierno federal de Brasil reconoció el 21 de noviembre de 2026 la situación de calamidad pública en Tupanciretã, Rio Grande do Sul, tras la tormenta del 20 de noviembre, según el Ministerio de Integración y Desarrollo Regional (MIDR). De acuerdo con la Defensa Civil de Rio Grande do Sul, en cifras difundidas por GZH el 21 de noviembre, el número de fallecidos llegó a 5 y el de heridos a 265. El mismo balance de Defensa Civil registró 7.796 viviendas con techos dañados y 20 escuelas afectadas en el municipio. El reconocimiento fue anunciado, pero el comunicado oficial consultado aún preveía la publicación formal de la ordenanza en el Diario Oficial.",
         "analysis": "El reconocimiento federal puede acelerar las solicitudes de recursos y la planificación de la respuesta, pero no implica que ya se haya desembolsado todo el presupuesto de reconstrucción. El MIDR informó que preparaba tres planes para asistencia humanitaria, compra de tejas y retirada de escombros, mientras otras intervenciones serían evaluadas por separado. El aumento de tres a cinco fallecidos muestra la necesidad de fechar los balances. La recuperación abarcará viviendas, escuelas, servicios sanitarios y redes eléctricas, además de la ayuda inmediata.",
-        "counterpoint": "Las cifras de víctimas y daños pueden cambiar. Todavía no se ha determinado el costo total de la reconstrucción y el reconocimiento no demuestra que se hayan transferido todos los recursos. La hipótesis de un tornado aún no está confirmada de manera definitiva."
-      }
+        "counterpoint": "Las cifras de víctimas y daños pueden cambiar. Todavía no se ha determinado el costo total de la reconstrucción y el reconocimiento no demuestra que se hayan transferido todos los recursos. La hipótesis de un tornado aún no está confirmada de manera definitiva.",
+        "photo_captions": {
+          "1": "FOTO (difundida el 21/11/2026): el ministro Waldez Góes y representantes locales y federales abordan la respuesta a la tormenta en Tupanciretã, Rio Grande do Sul. MIDR/Secom, CC BY-ND 3.0. No muestra la publicación formal de la declaración de calamidad."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/governo-federal-reconhece-estado-de-calamidade-em-tupancireta-rs-e-inicia-planos-de-trabalho-para-resposta-a-tempestade/tupancireta-visita-ministro-waldez.jpg/@@images/f414a488-6975-45c4-8b6d-3b7d8a0d8ae1.jpeg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-ND 3.0 — licença institucional explícita no portal da Secom",
+          "credit": "Divulgação/MIDR, via Secom/Governo Federal",
+          "source_article": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/governo-federal-reconhece-estado-de-calamidade-em-tupancireta-rs-e-inicia-planos-de-trabalho-para-resposta-a-tempestade",
+          "caption": "FOTO (divulgada em 21/11/2026): ministro Waldez Góes e representantes locais e federais discutem a resposta ao temporal em Tupanciretã (RS). Divulgação/MIDR, via Secom, CC BY-ND 3.0. Não retrata a publicação formal do reconhecimento de calamidade."
+        }
+      ]
     },
     {
       "id": "incendio-fabrica-doces-indonesia-banten-desaparecidos-2026-11-22",
@@ -310,7 +429,10 @@
         "category": "WORLD",
         "facts": "A fire broke out on November 21, 2026, at the PT Fonusa Agung Mulia candy factory in Cikande, Serang regency, Banten province, Indonesia, and rescue operations continued on November 22. According to the Associated Press (AP), at least 3 workers died and 36 were still missing in Sunday's reported toll. Reuters reported that 15 people survived, including 4 who received medical care for injuries; the figures could change as searches continued. Authorities had not determined the cause of the blaze.",
         "analysis": "The disaster presents both an urgent search-and-rescue challenge and questions about industrial safety. The three-story building suffered structural damage, including sections of collapsed roof, restricting rescuers' access and increasing the risk of further accidents. The missing-person count is an operational estimate, not confirmation of additional deaths. The next crucial step is reconciling lists of workers on site with survivors and identified victims, alongside the investigation into the fire's origin.",
-        "counterpoint": "Early accounts differ over how many workers were inside the facility. There is no verified basis to blame electrical faults, refrigeration equipment or negligence before the official investigation concludes. Casualty figures remain preliminary."
+        "counterpoint": "Early accounts differ over how many workers were inside the facility. There is no verified basis to blame electrical faults, refrigeration equipment or negligence before the official investigation concludes. Casualty figures remain preliminary.",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (November 22, 2012): a road in the Cikande industrial area near Serang, Indonesia. dutaw/Wikimedia Commons, CC BY 3.0. This does not show the affected confectionery factory or the November 21, 2026 fire."
+        }
       },
       "es": {
         "title": "INCENDIO EN FÁBRICA DE DULCES DE INDONESIA DEJA 3 MUERTOS Y 36 DESAPARECIDOS",
@@ -318,8 +440,22 @@
         "category": "MUNDO",
         "facts": "Un incendio se declaró el 21 de noviembre de 2026 en la fábrica de dulces PT Fonusa Agung Mulia, en Cikande, distrito de Serang, provincia de Banten, Indonesia, y las labores de rescate continuaron el 22 de noviembre. Según la agencia Associated Press (AP), al menos 3 trabajadores murieron y 36 seguían desaparecidos en el balance difundido el domingo. De acuerdo con Reuters, 15 personas sobrevivieron, entre ellas 4 que recibieron atención médica por lesiones; las cifras podían cambiar mientras proseguían las búsquedas. Las autoridades aún no habían determinado la causa del incendio.",
         "analysis": "La emergencia plantea tanto dificultades de búsqueda y rescate como interrogantes sobre la seguridad industrial. El edificio de tres plantas sufrió daños estructurales y derrumbes parciales del techo, que dificultan el acceso de los rescatistas y elevan el riesgo de nuevos accidentes. El número de desaparecidos es un balance operativo, no una confirmación de fallecimientos adicionales. El siguiente paso clave es cotejar las listas de trabajadores presentes con los supervivientes y las víctimas identificadas, además de investigar el origen del fuego.",
-        "counterpoint": "Los primeros relatos difieren sobre cuántas personas se encontraban dentro de la fábrica. No existe fundamento verificado para atribuir la causa a fallos eléctricos, equipos de refrigeración o negligencia antes de que concluya la investigación oficial. Las cifras de víctimas siguen siendo provisionales."
-      }
+        "counterpoint": "Los primeros relatos difieren sobre cuántas personas se encontraban dentro de la fábrica. No existe fundamento verificado para atribuir la causa a fallos eléctricos, equipos de refrigeración o negligencia antes de que concluya la investigación oficial. Las cifras de víctimas siguen siendo provisionales.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (22/11/2012): vía de la zona industrial de Cikande, cerca de Serang, Indonesia. dutaw/Wikimedia Commons, CC BY 3.0. No muestra la fábrica de dulces afectada ni el incendio del 21/11/2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Jl._Modern_Industri_VII_Kav_I%2C_Kawasan_Industri_Modern_Cikande_-_Serang_-_panoramio.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 3.0",
+          "credit": "dutaw / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Jl._Modern_Industri_VII_Kav_I,_Kawasan_Industri_Modern_Cikande_-_Serang_-_panoramio.jpg",
+          "caption": "FOTO DE ARQUIVO (22/11/2012): via da área industrial de Cikande, região de Serang, Indonésia. dutaw/Wikimedia Commons, CC BY 3.0. Não retrata a fábrica de doces atingida nem o incêndio de 21/11/2026."
+        }
+      ]
     },
     {
       "id": "ataque-iraniano-incendio-industria-bahrein-2026-11-21",
@@ -350,7 +486,10 @@
         "category": "WORLD",
         "facts": "On November 21, 2026, Bahrain's Ministry of Interior said an attack attributed to Iran struck a civilian industrial facility in the country and started a fire. According to the Ministry of Interior, initial assessments reported zero injuries as Civil Defence crews worked to extinguish the flames. Reuters reported that Iran's Islamic Revolutionary Guard Corps claimed missile and drone strikes against two US military positions identified as Al-Riffa and Awali; that claim does not establish that the civilian facility was deliberately targeted. Bahraini authorities did not identify the facility or disclose its precise location.",
         "analysis": "The incident underscores the exposure of civilian infrastructure to the Gulf region's military escalation. Bahrain hosts the US Navy's Fifth Fleet, making security in the kingdom significant for the American naval presence and regional shipping. Two claims must be kept distinct: Bahrain reports damage to a civilian facility, while Iran's Revolutionary Guards claim strikes on US military positions. It has not been independently established that these refer to the same target. Without the site's identity, a specific economic impact cannot be assessed.",
-        "counterpoint": "Bahrain attributes the industrial fire to an Iranian attack, while Iran's Revolutionary Guards claim strikes on military targets. The facility's location, the final extent of damage and the precise relationship between the reported targets and the fire remain unverified publicly. The no-injuries figure is preliminary."
+        "counterpoint": "Bahrain attributes the industrial fire to an Iranian attack, while Iran's Revolutionary Guards claim strikes on military targets. The facility's location, the final extent of damage and the precise relationship between the reported targets and the fire remain unverified publicly. The no-injuries figure is preliminary.",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (December 17, 2007): view of Manama, Bahrain's capital. Chris Price/Wikimedia Commons, CC BY 2.0. The affected facility is not identified here; this does not depict the November 21, 2026 attack or fire."
+        }
       },
       "es": {
         "title": "BAHREIN INFORMA DE UN INCENDIO EN UNA INSTALACIÓN INDUSTRIAL CIVIL TRAS UN ATAQUE IRANÍ",
@@ -358,8 +497,22 @@
         "category": "MUNDO",
         "facts": "El 21 de noviembre de 2026, el Ministerio del Interior de Baréin informó que un ataque atribuido a Irán alcanzó una instalación industrial civil del país y provocó un incendio. Según el Ministerio del Interior, las evaluaciones preliminares registraron cero heridos mientras equipos de Defensa Civil combatían las llamas. De acuerdo con Reuters, el Cuerpo de la Guardia Revolucionaria Islámica de Irán afirmó haber lanzado misiles y drones contra dos posiciones militares estadounidenses identificadas como Al-Riffa y Awali; esa afirmación no demuestra que la instalación civil fuera un objetivo deliberado. Las autoridades bareiníes no identificaron la instalación ni precisaron su ubicación.",
         "analysis": "El episodio pone de relieve la vulnerabilidad de las instalaciones civiles ante la escalada militar en el Golfo. Baréin alberga la Quinta Flota de la Armada de Estados Unidos, por lo que su seguridad importa para la presencia naval estadounidense y la navegación regional. Deben distinguirse dos afirmaciones: Baréin denuncia daños en una instalación civil y la Guardia Revolucionaria iraní reivindica ataques contra posiciones militares estadounidenses. No se ha confirmado de manera independiente que se trate del mismo objetivo. Sin identificar la instalación, no puede estimarse un impacto económico específico.",
-        "counterpoint": "Baréin atribuye el incendio a un ataque iraní, mientras que la Guardia Revolucionaria de Irán reivindica ataques contra objetivos militares. La ubicación de la instalación, el alcance definitivo de los daños y la relación exacta entre los objetivos declarados y el incendio no están confirmados públicamente. La cifra de cero heridos es preliminar."
-      }
+        "counterpoint": "Baréin atribuye el incendio a un ataque iraní, mientras que la Guardia Revolucionaria de Irán reivindica ataques contra objetivos militares. La ubicación de la instalación, el alcance definitivo de los daños y la relación exacta entre los objetivos declarados y el incendio no están confirmados públicamente. La cifra de cero heridos es preliminar.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (17/12/2007): vista de Manama, capital de Baréin. Chris Price/Wikimedia Commons, CC BY 2.0. No identifica la instalación afectada ni muestra el ataque o incendio del 21/11/2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Manama_Skyline.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 2.0",
+          "credit": "Chris Price / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Manama_Skyline.jpg",
+          "caption": "FOTO DE ARQUIVO (17/12/2007): vista de Manama, capital do Bahrein. Chris Price/Wikimedia Commons, CC BY 2.0. Não identifica a instalação atingida e não retrata o ataque ou incêndio de 21/11/2026."
+        }
+      ]
     },
     {
       "id": "dinamarca-propoe-restricoes-vistos-russos-ue-2026-11-21",
