@@ -2,9 +2,49 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-22T12:00:00-03:00",
+  "updatedAt": "2026-11-22T15:56:33.600Z",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "verstappen-vence-gp-las-vegas-formula-1-2026-11-22",
+      "date": "2026-11-22",
+      "title": "VERSTAPPEN VENCE GP DE LAS VEGAS POR 0,639 SEGUNDO APÓS 50 VOLTAS",
+      "subtitle": "Max Verstappen venceu em Las Vegas, com Lando Norris em segundo e Oscar Piastri em terceiro, segundo a classificação oficial da Fórmula 1.",
+      "category": "ESPORTE",
+      "facts": "Max Verstappen, piloto da Red Bull Racing, venceu o Grande Prêmio de Las Vegas de Fórmula 1 disputado em 21 de novembro de 2026, horário local, no circuito urbano de Las Vegas, Estados Unidos. Segundo a classificação oficial da Fórmula 1, Verstappen completou 50 voltas em 1h27min39s624 e superou Lando Norris, da McLaren, por 0,639 segundo; Oscar Piastri terminou em terceiro, a 1,529 segundo. A organização informou que a prova teve 35 mudanças de liderança, enquanto a disputa pelo primeiro lugar incluiu George Russell e Kimi Antonelli, da Mercedes.",
+      "analysis": "A diferença de menos de um segundo entre os dois primeiros mostra por que o resultado não pode ser resumido a uma vitória tranquila desde a pole position. A cobertura oficial descreve sucessivas ultrapassagens e retomadas de liderança em razão do vácuo e da gestão de energia. Russell caiu para nono após errar uma frenagem nas voltas finais, e Antonelli terminou em quarto. Para a McLaren, o segundo e o terceiro lugares representaram um pódio duplo apesar de a Mercedes ter ameaçado o domínio da Red Bull durante a corrida.",
+      "counterpoint": "A ordem apresentada corresponde à classificação oficial consultada após a prova; eventuais decisões posteriores dos comissários devem ser conferidas na documentação da categoria. O vídeo oficial disponível no site da Fórmula 1 não foi incorporado porque não foi possível verificar um link público do YouTube com trecho e timestamp específicos.",
+      "sources": [
+        {
+          "name": "Fórmula 1 — resultado oficial do GP de Las Vegas de 2026",
+          "url": "https://www.formula1.com/en/results/2026/races/1300/las-vegas/race-result"
+        },
+        {
+          "name": "Fórmula 1 — relato oficial da corrida, 22/11/2026",
+          "url": "https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX"
+        },
+        {
+          "name": "Fórmula 1 — vídeo oficial do fim da prova, 22/11/2026",
+          "url": "https://www.formula1.com/en/video/2026-las-vegas-grand-prix-verstappen-wins-thriller.1882549515241911213"
+        }
+      ],
+      "en": {
+        "title": "VERSTAPPEN WINS LAS VEGAS GRAND PRIX BY 0.639 SECONDS AFTER 50 LAPS",
+        "subtitle": "Max Verstappen won in Las Vegas ahead of Lando Norris and Oscar Piastri, according to Formula 1's official classification.",
+        "category": "SPORT",
+        "facts": "Red Bull Racing driver Max Verstappen won the Formula 1 Las Vegas Grand Prix held on November 21, 2026, local time, on the Las Vegas street circuit in the United States. According to Formula 1's official results, Verstappen completed 50 laps in 1:27:39.624 and finished 0.639 seconds ahead of McLaren's Lando Norris; Oscar Piastri placed third, 1.529 seconds behind. The organizer reported 35 changes of lead, with Mercedes drivers George Russell and Kimi Antonelli also challenging at the front.",
+        "analysis": "The margin of less than one second illustrates why this was far from a straightforward pole-to-flag victory. Formula 1's race account describes repeated passes and lead changes shaped by slipstreaming and energy management. Russell fell to ninth after a late braking error, while Antonelli finished fourth. McLaren secured second and third despite Mercedes repeatedly threatening Red Bull during the race.",
+        "counterpoint": "These positions reflect the official classification consulted after the race; any subsequent stewards' decisions should be checked against the series' documentation. An official video is available on Formula 1's website, but it was not embedded because a public YouTube link with a verified timestamp could not be established."
+      },
+      "es": {
+        "title": "VERSTAPPEN GANA EL GRAN PREMIO DE LAS VEGAS POR 0,639 SEGUNDOS TRAS 50 VUELTAS",
+        "subtitle": "Max Verstappen ganó en Las Vegas por delante de Lando Norris y Oscar Piastri, según la clasificación oficial de Fórmula 1.",
+        "category": "DEPORTE",
+        "facts": "Max Verstappen, piloto de Red Bull Racing, ganó el Gran Premio de Las Vegas de Fórmula 1 disputado el 21 de noviembre de 2026, hora local, en el circuito urbano de Las Vegas, Estados Unidos. Según los resultados oficiales de Fórmula 1, Verstappen completó 50 vueltas en 1:27:39,624 y superó por 0,639 segundos a Lando Norris, de McLaren; Oscar Piastri fue tercero, a 1,529 segundos. La organización informó de 35 cambios de liderato, con George Russell y Kimi Antonelli, de Mercedes, también luchando por la primera posición.",
+        "analysis": "La diferencia inferior a un segundo muestra que no fue una victoria cómoda desde la pole position. El relato oficial describe adelantamientos y cambios de liderato favorecidos por el rebufo y la gestión de energía. Russell cayó al noveno puesto tras un error de frenada en las últimas vueltas, mientras Antonelli terminó cuarto. McLaren consiguió el segundo y tercer puesto pese a la presión de Mercedes sobre Red Bull.",
+        "counterpoint": "Las posiciones corresponden a la clasificación oficial consultada después de la carrera; cualquier decisión posterior de los comisarios debe comprobarse en la documentación de la categoría. Existe un video oficial en el sitio de Fórmula 1, pero no se incorporó porque no pudo verificarse un enlace público de YouTube con un instante preciso."
+      }
+    },
     {
       "id": "cop31-antalya-termina-sem-acordo-geral-2026-11-22",
       "date": "2026-11-22",
