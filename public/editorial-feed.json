@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "dylan-dawson-vence-atlantic-coast-pro-classic-physique-2026-11-22",
+      "date": "2026-11-22",
+      "title": "DYLAN DAWSON VENCE CLASSIC PHYSIQUE NO ATLANTIC COAST PRO; BRASILEIRO É VICE NOS MASTERS",
+      "subtitle": "Sul-africano conquista a Classic Physique em Fort Lauderdale; brasileiro Rachid Souki fica em segundo nos Masters 40+.",
+      "category": "FISICULTURISMO",
+      "facts": "O sul-africano Dylan Dawson venceu a categoria Classic Physique Open do Atlantic Coast Pro, disputado em 21 de novembro de 2026 em Fort Lauderdale, Flórida, nos Estados Unidos, conforme a súmula da Federação Profissional de Fisiculturismo (IFBB Pro League). Segundo a IFBB Pro League, Dawson terminou em primeiro lugar com 3 pontos de julgamento, à frente de Mudbi Favors, segundo com 6, e Jarek Crew, terceiro com 10. Na categoria Men's Bodybuilding Masters 40+, o brasileiro Rachid Souki foi vice-campeão com 7 pontos, atrás de Troy Gardner, vencedor com 3, de acordo com a mesma súmula oficial.",
+      "analysis": "A súmula permite comparar resultados dentro de cada categoria, mas não equiparar diretamente atletas de Classic Physique e Masters Bodybuilding, que têm critérios e elencos distintos. A vitória de Dawson representa um novo resultado na disputa profissional internacional; para o Brasil, a segunda posição de Souki é o destaque confirmado entre os Masters 40+. A organização programou o evento para 21 e 22 de novembro, com categorias abertas e por idade, o que exige identificar exatamente a divisão ao divulgar cada colocação.",
+      "counterpoint": "A classificação oficial confirma posições e pontuação de julgamento, mas não demonstra por si só valores de premiação, contratos de patrocínio ou classificação automática para o Olympia. Qualquer alegação sobre vagas deve ser confrontada com as regras vigentes do circuito. Não foi localizado vídeo oficial com trecho e marcação temporal verificáveis para incorporação nesta matéria.",
+      "sources": [
+        {
+          "name": "IFBB Pro League — Atlantic Coast Pro 2026, súmulas oficiais",
+          "url": "https://www.ifbbpro.com/competition/2026-atlantic-coast-pro/"
+        },
+        {
+          "name": "Tim Gardner Productions — programação oficial do Atlantic Coast Pro",
+          "url": "https://www.timgardnerproductions.com/atlantic-coast-pro"
+        },
+        {
+          "name": "Fitness Volt — resultados, 22 de novembro de 2026",
+          "url": "https://fitnessvolt.com/2026-atlantic-coast-pro-results/"
+        }
+      ],
+      "en": {
+        "title": "DYLAN DAWSON WINS ATLANTIC COAST PRO CLASSIC PHYSIQUE; BRAZILIAN TAKES MASTERS RUNNER-UP SPOT",
+        "subtitle": "South Africa's Dylan Dawson wins Classic Physique in Fort Lauderdale; Brazil's Rachid Souki finishes second in Masters 40+.",
+        "facts": "South African bodybuilder Dylan Dawson won the Open Classic Physique division at the Atlantic Coast Pro, held on November 21, 2026, in Fort Lauderdale, Florida, United States, according to the International Federation of Bodybuilding and Fitness Professional League (IFBB Pro League) official scorecard. The IFBB Pro League recorded Dawson first with a judging score of 3, ahead of runner-up Mudbi Favors with 6 and third-place Jarek Crew with 10. In Men's Bodybuilding Masters 40+, Brazilian competitor Rachid Souki placed second with 7, behind winner Troy Gardner with 3, according to the same official results.",
+        "analysis": "The official scorecards allow comparisons within each division, not direct comparisons between Classic Physique and Masters Bodybuilding competitors, whose judging standards and fields differ. Dawson's victory adds a professional international result, while Souki's runner-up finish is the confirmed Brazilian highlight in the Masters 40+ class. Organizers scheduled the event for November 21–22, with open and age-group divisions, making precise division labels essential.",
+        "counterpoint": "Official placings and judging scores do not independently establish prize money, sponsorship agreements or automatic Olympia qualification. Qualification claims require checking the circuit's applicable rules. No official video with a verifiable excerpt and timestamp was confirmed for embedding.",
+        "category": "BODYBUILDING",
+        "slug": "dylan-dawson-wins-atlantic-coast-pro-classic-physique-brazilian-takes-masters-2026-11-22"
+      },
+      "es": {
+        "title": "DYLAN DAWSON GANA CLASSIC PHYSIQUE EN EL ATLANTIC COAST PRO; BRASILEÑO ES SUBCAMPEÓN MASTERS",
+        "subtitle": "El sudafricano Dylan Dawson gana Classic Physique en Fort Lauderdale; el brasileño Rachid Souki termina segundo en Masters 40+.",
+        "facts": "El sudafricano Dylan Dawson ganó la categoría Classic Physique Open del Atlantic Coast Pro, celebrado el 21 de noviembre de 2026 en Fort Lauderdale, Florida, Estados Unidos, según el acta oficial de la Liga Profesional de la Federación Internacional de Fisicoculturismo (IFBB Pro League). Según la IFBB Pro League, Dawson quedó primero con 3 puntos de evaluación, por delante de Mudbi Favors, segundo con 6, y Jarek Crew, tercero con 10. En Men's Bodybuilding Masters 40+, el brasileño Rachid Souki fue subcampeón con 7 puntos, detrás de Troy Gardner, ganador con 3, según la misma clasificación oficial.",
+        "analysis": "Las actas permiten comparar resultados dentro de cada categoría, pero no comparar directamente Classic Physique y Masters Bodybuilding, que tienen criterios y participantes diferentes. La victoria de Dawson constituye un nuevo resultado profesional internacional; para Brasil, el segundo puesto de Souki es el resultado destacado confirmado en Masters 40+. Los organizadores programaron el evento para el 21 y 22 de noviembre, con divisiones abiertas y por edad, por lo que es fundamental identificar la categoría exacta.",
+        "counterpoint": "Los puestos y las puntuaciones oficiales no acreditan por sí solos premios económicos, contratos de patrocinio ni una clasificación automática para el Olympia. Cualquier afirmación sobre plazas debe contrastarse con las reglas vigentes. No se confirmó ningún video oficial con fragmento y marca temporal verificables para insertar.",
+        "category": "FISICOCULTURISMO",
+        "slug": "dylan-dawson-gana-classic-physique-en-el-atlantic-coast-pro-brasileno-es-2026-11-22"
+      },
+      "firstSeen": "2026-11-22T17:56:23.000Z"
+    },
+    {
       "id": "verstappen-vence-gp-las-vegas-formula-1-2026-11-22",
       "date": "2026-11-22",
       "title": "VERSTAPPEN VENCE GP DE LAS VEGAS POR 0,639 SEGUNDO APÓS 50 VOLTAS",
