@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "tupancireta-calamidade-federal-cinco-mortos-2026-11-22",
+      "date": "2026-11-22",
+      "title": "UNIÃO RECONHECE CALAMIDADE EM TUPANCIRETÃ; TEMPORAL JÁ DEIXA 5 MORTOS",
+      "subtitle": "Reconhecimento federal abre caminho a ajuda emergencial após temporal que deixou cinco mortos e 265 feridos em Tupanciretã.",
+      "category": "BRASIL",
+      "facts": "O Governo Federal reconheceu em 21 de novembro de 2026 a situação de calamidade pública em Tupanciretã, no Rio Grande do Sul, após a tempestade que atingiu a cidade em 20 de novembro, segundo o Ministério da Integração e do Desenvolvimento Regional (MIDR). De acordo com a Defesa Civil do Rio Grande do Sul, em balanço noticiado pela GZH em 21 de novembro, o número de mortos chegou a 5 e o de feridos a 265. Segundo o mesmo levantamento da Defesa Civil, 7.796 casas ficaram destelhadas e 20 escolas foram danificadas no município. O reconhecimento federal foi anunciado, mas a publicação formal da portaria no Diário Oficial da União ainda estava prevista no comunicado consultado.",
+      "analysis": "O reconhecimento de calamidade permite acelerar o planejamento e a solicitação de recursos federais, mas não significa que todo o dinheiro necessário à reconstrução já tenha sido transferido. O MIDR informou que três planos de trabalho estavam sendo preparados para ajuda humanitária, aquisição de telhas e limpeza urbana, enquanto os demais danos seriam avaliados por intervenção. A diferença entre o primeiro balanço de três mortes e o novo total de cinco mostra por que os números de um desastre precisam ser datados e atribuídos. A recuperação envolve moradias, escolas, serviços de saúde e infraestrutura elétrica, além do atendimento imediato às famílias.",
+      "counterpoint": "Os números de vítimas e danos seguem sujeitos à atualização. O valor total da reconstrução ainda não foi definido, e o anúncio do reconhecimento não comprova a efetiva liberação de cada parcela. A hipótese de tornado permanece sem confirmação definitiva e não deve ser apresentada como causa estabelecida.",
+      "sources": [
+        {
+          "name": "Ministério da Integração e do Desenvolvimento Regional — reconhecimento federal, 21/11/2026",
+          "url": "https://www.gov.br/mdr/pt-br/noticias/waldez-percorre-areas-destruidas-e-agiliza-reconhecimento-de-calamidade-em-tupancireta"
+        },
+        {
+          "name": "GZH — Defesa Civil confirma quinta morte, 21/11/2026",
+          "url": "https://gauchazh.clicrbs.com.br/ambiente/noticia/2026/11/sobe-para-cinco-o-numero-de-mortos-apos-temporal-em-tupancireta-cmwqy2tos024a015udz9vg7hw.html"
+        },
+        {
+          "name": "UOL — balanço e resposta federal, 21/11/2026",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/21/governo-reconhece-calamidade-em-tupancireta-e-acelera-resposta-a-tempestade.ghtm"
+        }
+      ],
+      "en": {
+        "title": "BRAZIL RECOGNIZES DISASTER IN TUPANCIRETÃ AS STORM DEATH TOLL REACHES 5",
+        "subtitle": "Federal disaster recognition paves the way for emergency aid after a storm killed five and injured 265 in Tupanciretã.",
+        "category": "BRAZIL",
+        "facts": "Brazil's federal government recognized a state of public calamity in Tupanciretã, Rio Grande do Sul, on November 21, 2026, following a storm on November 20, according to the Ministry of Integration and Regional Development (MIDR). According to Rio Grande do Sul's Civil Defense, in figures reported by GZH on November 21, the death toll reached 5 and 265 people were injured. The same Civil Defense figures reported 7,796 homes with damaged roofs and 20 schools damaged in the municipality. The recognition was announced, but the formal publication of the ordinance in the Official Gazette was still pending in the government statement reviewed.",
+        "analysis": "Federal recognition can speed up emergency funding requests and planning, but it does not mean the full reconstruction budget has already been disbursed. MIDR said three work plans were being prepared for humanitarian assistance, roofing materials and debris clearance, with other projects to be assessed individually. The rise from three initially reported deaths to five illustrates the importance of dating disaster figures. Recovery will require work on homes, schools, healthcare facilities and power infrastructure alongside immediate relief.",
+        "counterpoint": "Casualty and damage figures remain subject to revision. The total reconstruction cost has not been established, and recognition alone does not prove that each funding tranche has been released. A tornado has not been definitively confirmed as the cause.",
+        "slug": "brazil-recognizes-disaster-in-tupancireta-as-storm-death-toll-reaches-5-2026-11-22"
+      },
+      "es": {
+        "title": "BRASIL RECONOCE CALAMIDAD EN TUPANCIRETÃ; TEMPORAL DEJA YA 5 MUERTOS",
+        "subtitle": "El reconocimiento federal facilita la ayuda de emergencia tras un temporal con cinco muertos y 265 heridos en Tupanciretã.",
+        "category": "BRASIL",
+        "facts": "El Gobierno federal de Brasil reconoció el 21 de noviembre de 2026 la situación de calamidad pública en Tupanciretã, Rio Grande do Sul, tras la tormenta del 20 de noviembre, según el Ministerio de Integración y Desarrollo Regional (MIDR). De acuerdo con la Defensa Civil de Rio Grande do Sul, en cifras difundidas por GZH el 21 de noviembre, el número de fallecidos llegó a 5 y el de heridos a 265. El mismo balance de Defensa Civil registró 7.796 viviendas con techos dañados y 20 escuelas afectadas en el municipio. El reconocimiento fue anunciado, pero el comunicado oficial consultado aún preveía la publicación formal de la ordenanza en el Diario Oficial.",
+        "analysis": "El reconocimiento federal puede acelerar las solicitudes de recursos y la planificación de la respuesta, pero no implica que ya se haya desembolsado todo el presupuesto de reconstrucción. El MIDR informó que preparaba tres planes para asistencia humanitaria, compra de tejas y retirada de escombros, mientras otras intervenciones serían evaluadas por separado. El aumento de tres a cinco fallecidos muestra la necesidad de fechar los balances. La recuperación abarcará viviendas, escuelas, servicios sanitarios y redes eléctricas, además de la ayuda inmediata.",
+        "counterpoint": "Las cifras de víctimas y daños pueden cambiar. Todavía no se ha determinado el costo total de la reconstrucción y el reconocimiento no demuestra que se hayan transferido todos los recursos. La hipótesis de un tornado aún no está confirmada de manera definitiva.",
+        "slug": "brasil-reconoce-calamidad-en-tupancireta-temporal-deja-ya-5-muertos-2026-11-22"
+      },
+      "firstSeen": "2026-11-22T09:00:00-03:00"
+    },
+    {
       "id": "incendio-fabrica-doces-indonesia-banten-desaparecidos-2026-11-22",
       "date": "2026-11-22",
       "title": "INCÊNDIO EM FÁBRICA DE DOCES NA INDONÉSIA DEIXA 3 MORTOS E 36 DESAPARECIDOS",
