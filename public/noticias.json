@@ -2,9 +2,45 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-22T19:56:57.000Z",
+  "updatedAt": "2026-11-22T20:56:19.588Z",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "marc-marquez-octacampeao-motogp-portugal-2026-11-22",
+      "date": "2026-11-22",
+      "title": "MARC MÁRQUEZ CONQUISTA O 8º TÍTULO DA MOTOGP COM 8º LUGAR EM PORTUGAL",
+      "subtitle": "Espanhol garante o título mundial em Portimão com uma etapa de antecedência; Marco Bezzecchi vence a corrida.",
+      "category": "ESPORTE",
+      "facts": "Marc Márquez, piloto espanhol da Ducati Lenovo Team, conquistou neste domingo, 22 de novembro de 2026, seu oitavo título da categoria principal do Mundial de MotoGP ao terminar em oitavo no Grande Prêmio de Portugal, em Portimão. Segundo a organização oficial MotoGP, ele chegou à 21ª de 22 etapas com a possibilidade de assegurar o campeonato e confirmou a conquista mesmo sem subir ao pódio. De acordo com a MotoGP, Márquez havia ficado 102 pontos atrás de Marco Bezzecchi após a sétima etapa da temporada; em Portugal, Bezzecchi venceu, Jorge Martín foi segundo e Raúl Fernández, terceiro.",
+      "analysis": "O resultado distingue a disputa da corrida da disputa do campeonato: a Aprilia ocupou as três posições do pódio, mas o oitavo lugar bastou para o piloto da Ducati tornar matematicamente inalcançável sua liderança. Márquez igualou os oito títulos da classe principal de Giacomo Agostini, segundo a organização da MotoGP. A recuperação de uma desvantagem de 102 pontos mostra por que a regularidade ao longo das etapas foi mais decisiva do que o resultado isolado de Portimão. A etapa final, em Valência, ainda terá relevância para outras classificações, embora não possa alterar o campeão de pilotos.",
+      "counterpoint": "O título de pilotos não equivale à vitória da Ducati no Grande Prêmio de Portugal: Bezzecchi e a Aprilia dominaram o pódio. A comparação histórica se refere especificamente aos títulos da categoria principal, não à soma de conquistas em todas as categorias do motociclismo.",
+      "sources": [
+        {
+          "name": "MotoGP — resultado oficial e título (22/11/2026)",
+          "url": "https://www.motogp.com/en/news/2026/11/22/bezzecchi-wins-in-portugal-as-marc-marquez-finishes-p8-to-clinch-his-8th-motogp-title/1186076"
+        },
+        {
+          "name": "Reuters — Márquez conquista oitavo título (22/11/2026)",
+          "url": "https://www.reuters.com/sports/marquez-wins-eighth-motogp-title-portugal-2026-11-22/"
+        }
+      ],
+      "en": {
+        "title": "MARC MÁRQUEZ CLINCHES EIGHTH MOTOGP TITLE WITH EIGHTH PLACE IN PORTUGAL",
+        "subtitle": "The Spaniard seals the world championship in Portimão with one round to spare as Marco Bezzecchi wins the race.",
+        "facts": "Spanish Ducati Lenovo Team rider Marc Márquez secured his eighth premier-class MotoGP world championship on Sunday, November 22, 2026, by finishing eighth at the Portuguese Grand Prix in Portimão. According to MotoGP's official report, the title was decided at round 21 of 22 despite Márquez finishing off the podium. MotoGP also reports that he had trailed Marco Bezzecchi by 102 points after round seven; in Portugal, Bezzecchi won ahead of Jorge Martín and Raúl Fernández.",
+        "analysis": "The race result and championship result tell different stories: Aprilia swept the podium, but Márquez's eighth place was enough to make his points lead unassailable. According to MotoGP, his eighth premier-class title draws him level with Giacomo Agostini. Overcoming a 102-point deficit illustrates the importance of season-long consistency rather than a single race result. Valencia remains relevant to other standings, not the riders' title.",
+        "counterpoint": "Winning the riders' championship does not mean Ducati won the Portuguese Grand Prix; Bezzecchi and Aprilia swept the podium. The historical comparison concerns premier-class titles, not championships across all motorcycle racing classes.",
+        "category": "SPORT"
+      },
+      "es": {
+        "title": "MARC MÁRQUEZ LOGRA SU OCTAVO TÍTULO DE MOTOGP AL TERMINAR OCTAVO EN PORTUGAL",
+        "subtitle": "El español asegura el Mundial en Portimão a falta de una prueba, mientras Marco Bezzecchi gana la carrera.",
+        "facts": "El piloto español del Ducati Lenovo Team Marc Márquez conquistó el domingo 22 de noviembre de 2026 su octavo campeonato mundial de la categoría reina de MotoGP al finalizar octavo en el Gran Premio de Portugal, en Portimão. Según el informe oficial de MotoGP, aseguró el título en la prueba 21 de 22 pese a quedar fuera del podio. De acuerdo con MotoGP, Márquez había estado 102 puntos por detrás de Marco Bezzecchi tras la séptima prueba; en Portugal ganó Bezzecchi, seguido por Jorge Martín y Raúl Fernández.",
+        "analysis": "El resultado de la carrera y el del campeonato cuentan historias distintas: Aprilia ocupó todo el podio, pero el octavo puesto permitió a Márquez lograr una ventaja matemática definitiva. Según MotoGP, iguala los ocho títulos de la categoría reina de Giacomo Agostini. Remontar 102 puntos evidencia el peso de la regularidad durante la temporada frente a una carrera aislada. Valencia todavía importa para otras clasificaciones, aunque no cambiará al campeón de pilotos.",
+        "counterpoint": "El título de pilotos no significa que Ducati ganara el Gran Premio de Portugal: Bezzecchi y Aprilia coparon el podio. La comparación histórica se limita a los títulos de la categoría reina, no a todas las categorías del motociclismo.",
+        "category": "DEPORTE"
+      }
+    },
     {
       "id": "temporais-rs-25123-afetados-42-municipios-novo-balanco-2026-11-22",
       "date": "2026-11-22",
