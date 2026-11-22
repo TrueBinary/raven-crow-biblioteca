@@ -2,9 +2,49 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-22T09:00:00-03:00",
+  "updatedAt": "2026-11-22T12:00:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "cop31-antalya-termina-sem-acordo-geral-2026-11-22",
+      "date": "2026-11-22",
+      "title": "COP31 TERMINA SEM ACORDO GERAL APÓS IMPASSE SOBRE COMBUSTÍVEIS FÓSSEIS",
+      "subtitle": "Conferência climática em Antália termina sem declaração política central após países rejeitarem texto que omitia combustíveis fósseis.",
+      "category": "MUNDO",
+      "facts": "A 31ª Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (COP31) terminou em 22 de novembro de 2026, em Antália, na Turquia, sem aprovar a declaração política central, após objeções da União Europeia e de outros países à proposta apresentada pelas presidências turca e australiana, segundo Reuters e Associated Press. Segundo a Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC), a programação oficial estava marcada de 9 a 20 de novembro de 2026; as negociações se estenderam até o domingo, dia 22, conforme Reuters. De acordo com a Associated Press, as discussões ultrapassaram o prazo em quase 48 horas e o projeto não reafirmava expressamente a transição para longe dos combustíveis fósseis acordada em 2023. O presidente da conferência, Murat Kurum, reconheceu a ausência de consenso e informou que o texto central não seria adotado.",
+      "analysis": "O impasse é relevante porque as conferências climáticas funcionam por consenso: uma proposta apoiada por muitos participantes ainda pode ficar sem adoção se houver objeções. A divergência envolveu não apenas o tratamento de petróleo, gás e carvão, mas também financiamento climático e tecnologias de captura de carbono. A rejeição do documento central não revoga o Acordo de Paris nem compromissos anteriores, tampouco significa que todas as decisões técnicas da COP31 tenham sido anuladas. A distinção entre ausência de declaração política abrangente e inexistência de qualquer resultado é essencial para compreender o alcance do fracasso diplomático.",
+      "counterpoint": "A União Europeia e países vulneráveis consideraram o texto insuficiente por omitir combustíveis fósseis; países produtores de petróleo defenderam manter diferentes tecnologias e opções energéticas na negociação. As obrigações climáticas anteriores permanecem, mas a conferência não produziu o novo sinal político conjunto esperado. O efeito sobre metas nacionais e financiamento depende de decisões futuras.",
+      "sources": [
+        {
+          "name": "Reuters — COP31 termina sem consenso, 22/11/2026",
+          "url": "https://www.reuters.com/sustainability/cop/cop31-climate-deal-balance-after-fractious-talks-2026-11-22/"
+        },
+        {
+          "name": "Associated Press — negociações terminam sem acordo central, 22/11/2026",
+          "url": "https://apnews.com/article/f6e36c4caf13ec6fed57c9f077cbd067"
+        },
+        {
+          "name": "UNFCCC — página oficial da COP31 e datas",
+          "url": "https://unfccc.int/cop31"
+        }
+      ],
+      "en": {
+        "title": "COP31 ENDS WITHOUT OVERARCHING DEAL AFTER FOSSIL-FUEL DISPUTE",
+        "subtitle": "Climate summit in Antalya ends without its central political decision after countries reject a draft omitting fossil fuels.",
+        "category": "WORLD",
+        "facts": "The 31st Conference of the Parties to the United Nations Framework Convention on Climate Change (COP31) ended on November 22, 2026, in Antalya, Türkiye, without adopting its overarching political decision, after the European Union and other countries objected to the draft proposed by the Turkish and Australian presidencies, according to Reuters and the Associated Press. According to the United Nations Framework Convention on Climate Change (UNFCCC), the official conference dates were November 9–20, 2026; negotiations continued through Sunday, November 22, Reuters reported. The Associated Press said talks ran nearly 48 hours into overtime and the draft did not explicitly reaffirm the 2023 commitment to transition away from fossil fuels. Conference president Murat Kurum acknowledged the lack of consensus and said the central text would not be adopted.",
+        "analysis": "The deadlock matters because UN climate decisions require consensus: broad support cannot secure adoption when objections remain. The dispute concerned not only oil, gas and coal, but also climate finance and carbon-capture technologies. Failure to adopt the central declaration does not repeal the Paris Agreement or previous commitments, and it does not mean every technical decision at COP31 was void. Distinguishing the missing overarching political agreement from the summit's other outcomes is essential to assessing the setback.",
+        "counterpoint": "The European Union and vulnerable countries criticized the omission of fossil fuels; oil-producing countries argued for keeping multiple technologies and energy options available. Earlier climate obligations remain in place, but the summit failed to deliver a new collective political signal. Consequences for national targets and finance depend on future decisions."
+      },
+      "es": {
+        "title": "LA COP31 TERMINA SIN ACUERDO GENERAL TRAS DISPUTA SOBRE COMBUSTIBLES FÓSILES",
+        "subtitle": "La cumbre de Antalya concluye sin declaración política central después del rechazo a un borrador que omitía los combustibles fósiles.",
+        "category": "MUNDO",
+        "facts": "La 31.ª Conferencia de las Partes de la Convención Marco de las Naciones Unidas sobre el Cambio Climático (COP31) terminó el 22 de noviembre de 2026 en Antalya, Turquía, sin aprobar su decisión política central, después de que la Unión Europea y otros países rechazaran el borrador presentado por las presidencias turca y australiana, según Reuters y Associated Press. Según la Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC), la conferencia estaba programada del 9 al 20 de noviembre de 2026; las negociaciones continuaron hasta el domingo 22, informó Reuters. De acuerdo con Associated Press, las conversaciones se prolongaron casi 48 horas y el proyecto no reafirmaba expresamente el compromiso de 2023 de abandonar progresivamente los combustibles fósiles. El presidente de la conferencia, Murat Kurum, reconoció que no había consenso y anunció que el texto central no sería adoptado.",
+        "analysis": "El bloqueo importa porque las decisiones climáticas multilaterales requieren consenso: el apoyo de numerosos países no basta si persisten objeciones. La disputa abarcó petróleo, gas y carbón, pero también financiación climática y tecnologías de captura de carbono. La ausencia de una declaración central no deroga el Acuerdo de París ni los compromisos anteriores, y tampoco significa que todas las decisiones técnicas de la COP31 hayan quedado anuladas. Es importante distinguir el fracaso del acuerdo político general de los demás resultados de la cumbre.",
+        "counterpoint": "La Unión Europea y países vulnerables criticaron la omisión de los combustibles fósiles; los países productores defendieron mantener diversas tecnologías y opciones energéticas. Los compromisos climáticos previos siguen vigentes, pero la conferencia no logró una nueva señal política conjunta. Sus efectos sobre metas y financiación dependerán de decisiones posteriores."
+      }
+    },
     {
       "id": "tupancireta-calamidade-federal-cinco-mortos-2026-11-22",
       "date": "2026-11-22",
