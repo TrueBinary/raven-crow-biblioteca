@@ -1,7 +1,74 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T10:00:00-03:00",
+  "updatedAt": "2026-11-22T10:00:00-03:00",
   "essays": [
+    {
+      "id": "machado-de-assis-nao-precisa-de-cadeado-2026-11-22",
+      "section": "Filosofia e ideias",
+      "date": "2026-11-22",
+      "title": "MACHADO DE ASSIS MORREU. O CADEADO NÃO PRECISA SOBREVIVER.",
+      "subtitle": "O domínio público não enterra o autor: impede que a cultura fique presa para sempre no inventário de alguém.",
+      "eyebrow": "OPINIÃO",
+      "paragraphs": [
+        "Machado de Assis morreu em 1908. Mais de um século depois, ainda consegue desmentir uma ideia bastante moderna: a de que uma obra precisa ter dono para continuar viva. Seus romances circulam, são reeditados, estudados, transformados em novas leituras. O homem não está aqui para assinar contratos. Sua literatura, felizmente, não precisou ser enterrada junto com ele.",
+        "A Lei nº 9.610, de 1998, estabelece no artigo 41 que os direitos patrimoniais do autor duram setenta anos, contados a partir de 1º de janeiro do ano seguinte à sua morte. Machado morreu em 1908; por essa regra geral, suas obras já estão em domínio público há décadas. Isso não significa que qualquer edição recente, tradução ou adaptação possa ser copiada indiscriminadamente. O artigo 14 protege a contribuição criativa de quem adapta ou traduz, sem permitir que essa pessoa monopolize o original.",
+        "Há uma beleza pouco comentada nessa passagem do privado ao comum. O autor escreve para ganhar a vida, sim, mas também para alcançar gente que ainda nem nasceu. A proteção patrimonial reconhece trabalho e investimento; o domínio público reconhece que a cultura não pode permanecer eternamente trancada no inventário de uma família ou no cofre de uma empresa. Se dependesse de certos entusiasmos proprietários, até a ironia de Brás Cubas chegaria com mensalidade e cláusula de renovação automática.",
+        "É fácil defender acesso irrestrito quando o criador já morreu. O argumento mais difícil vem de quem está vivo: escritores, músicos, ilustradores e seus herdeiros precisam de condições para sobreviver, e editoras assumem riscos reais para produzir livros. Concordo. Por isso a lei protege direitos econômicos por um prazo longo. Mas prazo longo e prazo infinito são coisas diferentes. Uma sociedade que nunca devolvesse nada ao patrimônio cultural comum estaria chamando de incentivo aquilo que, com o tempo, viraria cerca hereditária.",
+        "Há outra sutileza jurídica: o domínio público não apaga o nome do autor. A mesma lei preserva direitos morais e atribui ao Estado a defesa da integridade e da autoria de obras em domínio público, nos termos do artigo 24. Portanto, abrir uma obra ao uso não é dar licença para falsificar sua origem. É possível respeitar Machado sem pedir autorização a um descendente remoto para ler, encenar ou publicar o texto original. Respeito intelectual não exige pedágio perpétuo.",
+        "Talvez seja essa a verdadeira prova de grandeza de um escritor: quando o livro deixa de depender de seu proprietário e continua merecendo leitores. O mercado pode vender boas edições, prefácios, capas, traduções e trabalho editorial; não precisa vender de novo o direito de existir de um romance de 1881. Machado já nos deixou uma obra cheia de defuntos que falam. Seria um exagero exigir que os vivos pagassem aluguel aos mortos para ouvi-los."
+      ],
+      "sources": [
+        {
+          "title": "Lei nº 9.610/1998, artigos 14, 24, 41 e 45 — Presidência da República",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm"
+        },
+        {
+          "title": "Arquivo Nacional / Wikimedia Commons — retrato de Machado de Assis (1904), licença e procedência",
+          "url": "https://commons.wikimedia.org/wiki/File:Machado_de_Assis_1904.jpg"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Machado_de_Assis_1904.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "credit": "Fotógrafo não identificado / Acervo Arquivo Nacional",
+          "license": "Domínio público — Acervo Arquivo Nacional (conforme Wikimedia Commons)",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Machado_de_Assis_1904.jpg",
+          "caption": "FOTO DE ARQUIVO (1904), Brasil: retrato de Machado de Assis, fotógrafo não identificado, do acervo do Arquivo Nacional. Não retrata acontecimento recente."
+        }
+      ],
+      "en": {
+        "title": "MACHADO DE ASSIS DIED. THE PADLOCK NEED NOT OUTLIVE HIM.",
+        "subtitle": "The public domain does not bury an author. It keeps culture from being locked forever in someone's estate.",
+        "eyebrow": "OPINION",
+        "section": "Philosophy and ideas",
+        "paragraphs": [
+          "Machado de Assis died in 1908. More than a century later, he still disproves a remarkably modern notion: that a work needs an owner to remain alive. His novels circulate, are republished, studied and reinterpreted. The man is no longer here to sign contracts. Thankfully, his literature did not have to be buried with him.",
+          "Brazil's Copyright Act, Law 9,610 of 1998, provides in Article 41 that an author's economic rights last seventy years, counted from January 1 of the year after death. Machado died in 1908; under that general rule, his works have been in the public domain for decades. This does not mean every recent edition, translation or adaptation can simply be copied. Article 14 protects the creative contribution of translators and adapters without allowing them to monopolize the original.",
+          "There is an underappreciated beauty in the passage from private ownership to the commons. Writers work to make a living, certainly, but also to reach people not yet born. Economic rights recognize labor and investment; the public domain recognizes that culture cannot remain locked forever in a family's estate or a company's vault. If some property enthusiasts had their way, even the irony of Brás Cubas would arrive with a subscription fee and automatic renewal.",
+          "It is easy to champion unrestricted access once the creator is dead. The harder argument comes from the living: writers, musicians, illustrators and their heirs need to survive, and publishers take genuine risks producing books. Agreed. That is why the law protects economic rights for a long time. But a long term is not eternity. A society that never returned anything to its shared cultural inheritance would eventually be calling an inherited fence an incentive.",
+          "One legal subtlety matters: the public domain does not erase authorship. The same law preserves moral rights and, under Article 24, assigns the state responsibility for defending the integrity and attribution of public-domain works. Opening a work to use is therefore not permission to falsify its origin. We can honor Machado without asking a distant descendant for permission to read, stage or publish his original text. Intellectual respect does not require a perpetual toll.",
+          "Perhaps this is the true measure of a great writer: when a book no longer depends on an owner and still earns readers. The market can sell fine editions, introductions, covers, translations and editorial work. It need not sell, once again, the right of an 1881 novel to exist. Machado left us fiction full of speaking dead men. Making the living pay rent to the dead just to hear them would be a bit much."
+        ],
+        "photo_caption": "ARCHIVE PHOTO (1904), Brazil: portrait of Machado de Assis, photographer unknown, Brazilian National Archives collection. Does not depict a recent event."
+      },
+      "es": {
+        "title": "MACHADO DE ASSIS MURIÓ. EL CANDADO NO TIENE POR QUÉ SOBREVIVIRLE.",
+        "subtitle": "El dominio público no entierra al autor: evita que la cultura quede encerrada para siempre en una herencia.",
+        "eyebrow": "OPINIÓN",
+        "section": "Filosofía e ideas",
+        "paragraphs": [
+          "Machado de Assis murió en 1908. Más de un siglo después, todavía desmiente una idea sorprendentemente moderna: que una obra necesita propietario para seguir viva. Sus novelas circulan, se reeditan, se estudian y reciben nuevas interpretaciones. El hombre ya no está aquí para firmar contratos. Por suerte, su literatura no tuvo que ser enterrada con él.",
+          "La Ley brasileña 9.610 de 1998 establece en su artículo 41 que los derechos patrimoniales del autor duran setenta años, contados desde el 1 de enero del año siguiente a su muerte. Machado murió en 1908; según esa regla general, sus obras llevan décadas en dominio público. Eso no significa que se pueda copiar sin más cualquier edición reciente, traducción o adaptación. El artículo 14 protege la aportación creativa de quien adapta o traduce, sin permitirle monopolizar el original.",
+          "Hay una belleza poco reconocida en el paso de lo privado a lo común. El escritor trabaja para ganarse la vida, desde luego, pero también para llegar a personas que aún no han nacido. Los derechos económicos reconocen trabajo e inversión; el dominio público reconoce que la cultura no puede quedar encerrada para siempre en la herencia de una familia o la caja fuerte de una empresa. Si dependiera de ciertos entusiastas de la propiedad, hasta la ironía de Brás Cubas vendría con cuota mensual y renovación automática.",
+          "Es fácil defender el acceso irrestricto cuando el creador ya murió. El argumento más difícil viene de los vivos: escritores, músicos, ilustradores y sus herederos necesitan medios para subsistir, y las editoriales asumen riesgos reales al producir libros. De acuerdo. Por eso la ley protege los derechos económicos durante mucho tiempo. Pero un plazo largo no es la eternidad. Una sociedad que nunca devolviera nada a su patrimonio cultural común acabaría llamando incentivo a una cerca hereditaria.",
+          "Hay otra sutileza jurídica: el dominio público no borra la autoría. La misma ley preserva derechos morales y, en su artículo 24, encomienda al Estado defender la integridad y atribución de las obras de dominio público. Abrir una obra al uso no autoriza falsificar su origen. Podemos respetar a Machado sin pedir permiso a un descendiente lejano para leer, representar o publicar su texto original. El respeto intelectual no exige un peaje perpetuo.",
+          "Quizá esa sea la verdadera prueba de grandeza de un escritor: cuando el libro deja de depender de su propietario y sigue mereciendo lectores. El mercado puede vender buenas ediciones, prólogos, portadas, traducciones y trabajo editorial; no necesita volver a vender el derecho de una novela de 1881 a existir. Machado nos dejó ficción llena de muertos que hablan. Sería demasiado exigir que los vivos pagaran alquiler a los muertos para escucharlos."
+        ],
+        "photo_caption": "FOTO DE ARCHIVO (1904), Brasil: retrato de Machado de Assis, fotógrafo desconocido, colección del Archivo Nacional. No muestra un hecho reciente."
+      }
+    },
     {
       "id": "a-fe-nao-cabe-na-casinha-do-censo-2026-11-21",
       "section": "Fé e família",
