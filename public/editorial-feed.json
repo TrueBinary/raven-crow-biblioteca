@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "temporais-rs-25123-afetados-42-municipios-novo-balanco-2026-11-22",
+      "date": "2026-11-22",
+      "title": "TEMPORAIS NO RS ATINGEM 25,1 MIL PESSOAS EM 42 MUNICÍPIOS; BALANÇO SOBE PARA 5 MORTOS",
+      "subtitle": "Defesa Civil atualiza para 25.123 os afetados e 42 os municípios com ocorrências após os temporais no Rio Grande do Sul.",
+      "category": "BRASIL",
+      "facts": "A Defesa Civil do Rio Grande do Sul informou neste domingo, 22 de novembro de 2026, que os temporais iniciados na sexta-feira (20) afetaram 25.123 pessoas em 42 municípios do estado, segundo balanço divulgado pela Agência Brasil. Conforme a Defesa Civil, reproduzida pela Agência Brasil, foram registradas 47 ocorrências, 265 pessoas feridas e cinco mortes. O levantamento contabiliza ainda 19.854 desalojados, 40 desabrigados e 7.971 casas destelhadas; a extensão dos danos permanece sujeita a novas verificações municipais.",
+      "analysis": "O novo balanço amplia a dimensão da emergência em relação ao relatório de 21 de novembro, que apontava 19.663 afetados em 33 municípios: são mais 5.460 pessoas e nove municípios no levantamento, embora as bases possam sofrer revisões. A elevação dos feridos de 60 para 265 reforça a importância de distinguir atualização de registros de agravamento ocorrido exclusivamente nas últimas horas. O impacto em 29 estabelecimentos de ensino e três de saúde, segundo o balanço divulgado, também cria demandas de continuidade de serviços públicos, além de abrigo e reparos nas moradias.",
+      "counterpoint": "Os totais são provisórios e dependem da comunicação dos municípios à Defesa Civil. Pessoas desalojadas deixaram suas casas, enquanto desabrigadas necessitam de acolhimento público; não são categorias intercambiáveis. A diferença entre boletins não demonstra, por si só, que todos os novos casos tenham ocorrido no intervalo entre publicações.",
+      "sources": [
+        {
+          "name": "Agência Brasil — balanço da Defesa Civil, 22/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/chuvas-no-rs-afetam-mais-de-25-mil-pessoas-em-42-cidades"
+        },
+        {
+          "name": "Agência Brasil — balanço anterior, 21/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/tempestade-no-rio-grande-do-sul-afeta-196-mil-pessoas-em-33-cidades"
+        },
+        {
+          "name": "Defesa Civil RS — alerta severo, 22/11/2026",
+          "url": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-severo-para-tempestade-com-granizo-grande-e-vendaval-que-atua-nas-proximidades-de-palmeira-das-missoes"
+        }
+      ],
+      "en": {
+        "title": "Storms affect 25,123 people in 42 municipalities in southern Brazil; death toll reaches five",
+        "subtitle": "Rio Grande do Sul Civil Defense updates its toll to 25,123 affected people and incidents in 42 municipalities.",
+        "category": "BRAZIL",
+        "facts": "On November 22, 2026, the Rio Grande do Sul Civil Defense agency reported that storms beginning on November 20 had affected 25,123 people in 42 municipalities in southern Brazil, according to Agência Brasil. The agency's figures, reported by Agência Brasil, include 47 incidents, 265 injured people and five deaths. The assessment also lists 19,854 displaced from their homes, 40 people requiring public shelter and 7,971 homes with roof damage; local damage assessments remain subject to revision.",
+        "analysis": "The new figures expand the scale of the emergency compared with the November 21 report of 19,663 affected people across 33 municipalities: an increase of 5,460 people and nine municipalities, although the underlying records may be revised. The rise in reported injuries from 60 to 265 underscores the distinction between newly recorded cases and injuries necessarily sustained during the latest reporting interval. Damage to 29 educational facilities and three healthcare facilities also poses challenges for public services alongside housing repairs and shelter.",
+        "counterpoint": "The figures are preliminary and depend on municipal reporting. People displaced from their homes and those requiring public shelter are distinct categories. Differences between reports do not establish that every newly recorded case occurred between publication times.",
+        "slug": "storms-affect-25-123-people-in-42-municipalities-in-southern-brazil-death-toll-2026-11-22"
+      },
+      "es": {
+        "title": "Temporales afectan a 25.123 personas en 42 municipios del sur de Brasil; hay cinco muertos",
+        "subtitle": "Defensa Civil de Rio Grande do Sul eleva a 25.123 los afectados y a 42 los municipios con incidentes.",
+        "category": "BRASIL",
+        "facts": "El 22 de noviembre de 2026, la Defensa Civil de Rio Grande do Sul informó que los temporales iniciados el 20 de noviembre afectaron a 25.123 personas en 42 municipios del sur de Brasil, según Agência Brasil. De acuerdo con las cifras del organismo difundidas por Agência Brasil, se registraron 47 incidentes, 265 heridos y cinco muertes. El balance incluye además 19.854 personas desplazadas de sus hogares, 40 que necesitan alojamiento público y 7.971 viviendas destechadas; los daños siguen sujetos a revisión municipal.",
+        "analysis": "El nuevo balance amplía la dimensión de la emergencia respecto al informe del 21 de noviembre, que registraba 19.663 afectados en 33 municipios: 5.460 personas y nueve municipios adicionales, aunque los registros pueden revisarse. El aumento de heridos de 60 a 265 muestra la importancia de diferenciar nuevos registros de lesiones ocurridas necesariamente en las últimas horas. Los daños en 29 establecimientos educativos y tres sanitarios también amenazan la continuidad de servicios públicos, además de exigir refugios y reparaciones.",
+        "counterpoint": "Las cifras son provisionales y dependen de los informes municipales. Las personas desplazadas de sus viviendas y quienes necesitan refugio público son categorías distintas. La diferencia entre balances no demuestra que todos los casos añadidos hayan ocurrido entre ambas publicaciones.",
+        "slug": "temporales-afectan-a-25-123-personas-en-42-municipios-del-sur-de-brasil-hay-2026-11-22"
+      },
+      "firstSeen": "2026-11-22T19:56:57.000Z"
+    },
+    {
       "id": "ministro-educacao-coreia-sul-renuncia-fraudes-ia-vestibular-2026-11-22",
       "date": "2026-11-22",
       "title": "MINISTRO DA EDUCAÇÃO DA COREIA DO SUL RENUNCIA APÓS CONFUSÃO COM REGRAS ANTICOLA POR IA",
