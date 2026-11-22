@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "incendio-fabrica-doces-indonesia-banten-desaparecidos-2026-11-22",
+      "date": "2026-11-22",
+      "title": "INCÊNDIO EM FÁBRICA DE DOCES NA INDONÉSIA DEIXA 3 MORTOS E 36 DESAPARECIDOS",
+      "subtitle": "Equipes procuram 36 desaparecidos após incêndio em fábrica de doces na província de Banten; três mortes foram confirmadas.",
+      "category": "MUNDO",
+      "facts": "Um incêndio atingiu em 21 de novembro de 2026 a fábrica de doces PT Fonusa Agung Mulia, em Cikande, distrito de Serang, província de Banten, na Indonésia, e equipes de resgate continuaram as buscas em 22 de novembro. Segundo a agência de notícias Associated Press (AP), ao menos 3 trabalhadores morreram e 36 permaneciam desaparecidos no balanço divulgado no domingo. De acordo com a agência Reuters, 15 pessoas sobreviveram, das quais 4 receberam atendimento médico por ferimentos; as contagens ainda poderiam mudar durante as buscas. A causa do incêndio não havia sido determinada pelas autoridades.",
+      "analysis": "A ocorrência combina uma emergência de resgate com a necessidade de identificar vítimas e esclarecer as condições de segurança do complexo industrial. O edifício de três andares sofreu danos estruturais e partes do teto desabaram, o que dificulta o acesso das equipes e aumenta o risco de novos acidentes. O número de desaparecidos é um balanço operacional, não uma confirmação de mortes adicionais. O dado mais importante para acompanhar nas próximas horas é a conciliação da lista de trabalhadores presentes com os resgatados e identificados, além do laudo sobre a origem das chamas.",
+      "counterpoint": "Os primeiros levantamentos sobre o número de pessoas dentro da fábrica variam entre autoridades e representantes da empresa. Não há base para atribuir a causa a falha elétrica, equipamento de refrigeração ou negligência antes da investigação oficial. O balanço de vítimas é preliminar e sujeito a revisão.",
+      "sources": [
+        {
+          "name": "Associated Press — incêndio na fábrica de Cikande, 22/11/2026",
+          "url": "https://apnews.com/article/fb73ec65390a34dc1e4aff4f87d6d111"
+        },
+        {
+          "name": "Reuters — buscas após incêndio industrial, 22/11/2026",
+          "url": "https://www.reuters.com/world/asia-pacific/indonesia-rescuers-search-36-missing-after-factory-fire-kills-3-2026-11-22/"
+        },
+        {
+          "name": "AFP via The Guardian — relato das equipes de resgate, 22/11/2026",
+          "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta"
+        }
+      ],
+      "en": {
+        "title": "INDONESIAN CANDY FACTORY FIRE KILLS 3, LEAVES 36 MISSING",
+        "subtitle": "Rescuers search for 36 missing workers after a candy factory fire in Banten province; three deaths have been confirmed.",
+        "category": "WORLD",
+        "facts": "A fire broke out on November 21, 2026, at the PT Fonusa Agung Mulia candy factory in Cikande, Serang regency, Banten province, Indonesia, and rescue operations continued on November 22. According to the Associated Press (AP), at least 3 workers died and 36 were still missing in Sunday's reported toll. Reuters reported that 15 people survived, including 4 who received medical care for injuries; the figures could change as searches continued. Authorities had not determined the cause of the blaze.",
+        "analysis": "The disaster presents both an urgent search-and-rescue challenge and questions about industrial safety. The three-story building suffered structural damage, including sections of collapsed roof, restricting rescuers' access and increasing the risk of further accidents. The missing-person count is an operational estimate, not confirmation of additional deaths. The next crucial step is reconciling lists of workers on site with survivors and identified victims, alongside the investigation into the fire's origin.",
+        "counterpoint": "Early accounts differ over how many workers were inside the facility. There is no verified basis to blame electrical faults, refrigeration equipment or negligence before the official investigation concludes. Casualty figures remain preliminary.",
+        "slug": "indonesian-candy-factory-fire-kills-3-leaves-36-missing-2026-11-22"
+      },
+      "es": {
+        "title": "INCENDIO EN FÁBRICA DE DULCES DE INDONESIA DEJA 3 MUERTOS Y 36 DESAPARECIDOS",
+        "subtitle": "Los equipos buscan a 36 desaparecidos tras un incendio en una fábrica de dulces de Banten; se confirmaron tres fallecidos.",
+        "category": "MUNDO",
+        "facts": "Un incendio se declaró el 21 de noviembre de 2026 en la fábrica de dulces PT Fonusa Agung Mulia, en Cikande, distrito de Serang, provincia de Banten, Indonesia, y las labores de rescate continuaron el 22 de noviembre. Según la agencia Associated Press (AP), al menos 3 trabajadores murieron y 36 seguían desaparecidos en el balance difundido el domingo. De acuerdo con Reuters, 15 personas sobrevivieron, entre ellas 4 que recibieron atención médica por lesiones; las cifras podían cambiar mientras proseguían las búsquedas. Las autoridades aún no habían determinado la causa del incendio.",
+        "analysis": "La emergencia plantea tanto dificultades de búsqueda y rescate como interrogantes sobre la seguridad industrial. El edificio de tres plantas sufrió daños estructurales y derrumbes parciales del techo, que dificultan el acceso de los rescatistas y elevan el riesgo de nuevos accidentes. El número de desaparecidos es un balance operativo, no una confirmación de fallecimientos adicionales. El siguiente paso clave es cotejar las listas de trabajadores presentes con los supervivientes y las víctimas identificadas, además de investigar el origen del fuego.",
+        "counterpoint": "Los primeros relatos difieren sobre cuántas personas se encontraban dentro de la fábrica. No existe fundamento verificado para atribuir la causa a fallos eléctricos, equipos de refrigeración o negligencia antes de que concluya la investigación oficial. Las cifras de víctimas siguen siendo provisionales.",
+        "slug": "incendio-en-fabrica-de-dulces-de-indonesia-deja-3-muertos-y-36-desaparecidos-2026-11-22"
+      },
+      "firstSeen": "2026-11-22T08:00:00-03:00"
+    },
+    {
       "id": "ataque-iraniano-incendio-industria-bahrein-2026-11-21",
       "date": "2026-11-21",
       "title": "ATAQUE IRANIANO PROVOCA INCÊNDIO EM INSTALAÇÃO INDUSTRIAL NO BAHREIN, DIZ GOVERNO",
