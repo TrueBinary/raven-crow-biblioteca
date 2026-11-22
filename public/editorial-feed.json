@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "ministro-educacao-coreia-sul-renuncia-fraudes-ia-vestibular-2026-11-22",
+      "date": "2026-11-22",
+      "title": "MINISTRO DA EDUCAÇÃO DA COREIA DO SUL RENUNCIA APÓS CONFUSÃO COM REGRAS ANTICOLA POR IA",
+      "subtitle": "Choi Kyo-jin deixou o Ministério da Educação após mudanças de última hora nas regras de fiscalização do exame nacional de acesso à universidade.",
+      "category": "MUNDO",
+      "facts": "O ministro da Educação da Coreia do Sul, Choi Kyo-jin, renunciou em 22 de novembro de 2026, em Seul, após críticas às mudanças de última hora nas regras para impedir fraudes com inteligência artificial (IA) no exame nacional de ingresso universitário. Segundo a agência sul-coreana Yonhap, o presidente Lee Jae Myung aceitou a renúncia no mesmo dia, depois de o governo reconhecer a confusão causada aos candidatos. De acordo com a cobertura da Agence France-Presse publicada pelo Guardian, fiscais identificaram 111 casos de irregularidades envolvendo aparelhos eletrônicos durante a prova de 19 de novembro; quase metade foi detectada por alertas emergenciais enviados a celulares.",
+      "analysis": "O episódio expõe uma dificuldade concreta da fiscalização de provas presenciais: dispositivos pequenos, como câmeras escondidas e telefones, permitem consultar sistemas de IA sem o uso ostensivo de um computador. A reação das autoridades incluiu inspeções de óculos, relógios e roupas, recolhimento de dispositivos e bloqueio de redes Wi-Fi nas áreas de prova. As alterações foram anunciadas perto do exame, depois de um candidato de outra avaliação admitir o uso de câmera e IA. A renúncia é uma consequência política da preparação e comunicação dessas medidas, não uma comprovação de que o exame universitário tenha sido comprometido em larga escala.",
+      "counterpoint": "As 111 ocorrências relatadas dizem respeito a irregularidades com dispositivos eletrônicos, e não equivalem a 111 fraudes comprovadas com inteligência artificial. O governo afirmou que a prova terminou sem grandes incidentes; não foi demonstrado que o resultado geral tenha sido adulterado. Não foi localizado vídeo oficial cujo conteúdo e instante de início pudessem ser verificados para incorporação.",
+      "sources": [
+        {
+          "name": "Yonhap — renúncia e aceitação presidencial, 22/11/2026",
+          "url": "https://en.yna.co.kr/view/AEN20261122001051315"
+        },
+        {
+          "name": "The Korea Times — mudanças nas regras e contexto, 22/11/2026",
+          "url": "https://www.koreatimes.co.kr/southkorea/education/20261122/education-minister-resigns-amid-backlash-over-csat-anti-cheating-measures"
+        },
+        {
+          "name": "The Guardian / AFP — fiscalização e 111 ocorrências, 22/11/2026",
+          "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+        }
+      ],
+      "en": {
+        "title": "SOUTH KOREA EDUCATION MINISTER RESIGNS OVER LAST-MINUTE AI ANTI-CHEATING RULES",
+        "subtitle": "Choi Kyo-jin resigned after last-minute changes to anti-cheating checks caused confusion ahead of South Korea's university entrance exam.",
+        "category": "WORLD",
+        "facts": "South Korean Education Minister Choi Kyo-jin resigned on November 22, 2026, in Seoul after criticism of last-minute changes to rules intended to prevent artificial intelligence (AI) cheating in the national university entrance exam. According to South Korea's Yonhap news agency, President Lee Jae Myung accepted his resignation that day after the government acknowledged confusion for test takers. According to Agence France-Presse reporting carried by the Guardian, officials identified 111 electronic-device-related misconduct cases during the November 19 exam, nearly half detected through emergency mobile-phone alerts.",
+        "analysis": "The episode highlights a practical challenge in supervising in-person exams: miniature cameras and phones can enable access to AI systems without an obvious computer. Authorities introduced checks of glasses, watches and clothing, device collection and restrictions on Wi-Fi around test venues. The measures changed shortly before the exam, after a candidate in a different examination admitted using a hidden camera and AI. The resignation is a political consequence of the planning and communication of the safeguards, not proof that the university exam was compromised on a large scale.",
+        "counterpoint": "The 111 reported incidents involved electronic devices and do not establish 111 confirmed cases of AI cheating. Officials said the exam ended without major incidents; widespread manipulation of results has not been demonstrated. No official video with verified content and a precise start time could be established for embedding.",
+        "slug": "south-korea-education-minister-resigns-over-last-minute-ai-anti-cheating-rules-2026-11-22"
+      },
+      "es": {
+        "title": "RENUNCIA EL MINISTRO DE EDUCACIÓN DE COREA DEL SUR POR CAMBIOS DE ÚLTIMA HORA CONTRA TRAMPAS CON IA",
+        "subtitle": "Choi Kyo-jin dimitió tras la confusión causada por nuevas inspecciones contra el fraude antes del examen nacional de acceso universitario.",
+        "category": "MUNDO",
+        "facts": "El ministro de Educación de Corea del Sur, Choi Kyo-jin, renunció el 22 de noviembre de 2026 en Seúl tras las críticas por cambios de última hora en las normas para impedir trampas con inteligencia artificial (IA) en el examen nacional de acceso universitario. Según la agencia surcoreana Yonhap, el presidente Lee Jae Myung aceptó su dimisión ese mismo día, después de que el Gobierno reconociera la confusión causada a los aspirantes. De acuerdo con información de Agence France-Presse publicada por The Guardian, los supervisores identificaron 111 casos de irregularidades relacionadas con dispositivos electrónicos durante el examen del 19 de noviembre; casi la mitad se detectó mediante alertas de emergencia a teléfonos móviles.",
+        "analysis": "El caso revela una dificultad concreta para vigilar los exámenes presenciales: cámaras diminutas y teléfonos permiten consultar sistemas de IA sin utilizar un ordenador visible. Las autoridades introdujeron inspecciones de gafas, relojes y ropa, recogida de dispositivos y restricciones de Wi-Fi cerca de los centros. Las medidas cambiaron poco antes de la prueba, después de que un aspirante a otro examen admitiera haber usado una cámara oculta e IA. La renuncia es una consecuencia política de la preparación y comunicación de esas medidas, no una prueba de fraude generalizado en el examen universitario.",
+        "counterpoint": "Los 111 incidentes registrados estaban relacionados con dispositivos electrónicos y no equivalen a 111 casos confirmados de fraude mediante IA. Las autoridades afirmaron que la prueba concluyó sin incidentes graves; no se ha demostrado una manipulación generalizada de los resultados. No se verificó un video oficial con contenido y segundo inicial precisos para incorporarlo.",
+        "slug": "renuncia-el-ministro-de-educacion-de-corea-del-sur-por-cambios-de-ultima-hora-2026-11-22"
+      },
+      "firstSeen": "2026-11-22T19:04:12.000Z"
+    },
+    {
       "id": "dylan-dawson-vence-atlantic-coast-pro-classic-physique-2026-11-22",
       "date": "2026-11-22",
       "title": "DYLAN DAWSON VENCE CLASSIC PHYSIQUE NO ATLANTIC COAST PRO; BRASILEIRO É VICE NOS MASTERS",
