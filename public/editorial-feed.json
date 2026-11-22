@@ -1,6 +1,48 @@
 {
   "articles": [
     {
+      "id": "ataque-iraniano-incendio-industria-bahrein-2026-11-21",
+      "date": "2026-11-21",
+      "title": "ATAQUE IRANIANO PROVOCA INCÊNDIO EM INSTALAÇÃO INDUSTRIAL NO BAHREIN, DIZ GOVERNO",
+      "subtitle": "Bahrein relata incêndio e danos materiais em instalação civil após ataque iraniano; autoridades não informaram feridos.",
+      "category": "MUNDO",
+      "facts": "Em 21 de novembro de 2026, o Ministério do Interior do Bahrein informou que um ataque atribuído ao Irã atingiu uma instalação industrial civil no país e provocou um incêndio. Segundo o Ministério do Interior, os primeiros levantamentos indicaram zero feridos, enquanto equipes da Defesa Civil trabalhavam no combate às chamas. De acordo com a Reuters, a Guarda Revolucionária do Irã afirmou ter lançado mísseis e drones contra duas posições militares americanas identificadas como Al-Riffa e Awali; essa alegação não comprova que a instalação civil tenha sido um alvo deliberado. As autoridades do Bahrein não divulgaram o nome nem a localização precisa da instalação atingida.",
+      "analysis": "O episódio amplia o risco de danos a instalações civis na escalada militar do Golfo Pérsico. O Bahrein abriga a Quinta Frota da Marinha dos Estados Unidos, circunstância que torna a segurança do arquipélago relevante para a presença naval americana e para a circulação regional. Há duas informações distintas: o governo do Bahrein relata dano a uma instalação civil; a Guarda Revolucionária iraniana reivindica ataques contra posições militares dos EUA. Não há confirmação independente de que se trate do mesmo alvo. Sem identificação do complexo industrial, não é possível calcular impacto econômico ou operacional específico.",
+      "counterpoint": "O governo do Bahrein atribuiu o incêndio à ofensiva iraniana, e a Guarda Revolucionária do Irã reivindicou ataques contra alvos militares. A localização da instalação civil, a extensão final dos danos e a relação exata entre os alvos declarados e o incêndio permanecem sem confirmação pública. A informação de ausência de feridos é preliminar.",
+      "sources": [
+        {
+          "name": "Reuters — ataque e incêndio no Bahrein, 21/11/2026",
+          "url": "https://www.reuters.com/world/middle-east/bahrain-warns-residents-potential-threat-iran-conflict-persists-2026-11-21/"
+        },
+        {
+          "name": "Al Jazeera — comunicado do Ministério do Interior e contexto, 21/11/2026",
+          "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility"
+        },
+        {
+          "name": "Gulf News — alertas e balanço preliminar, 21/11/2026",
+          "url": "https://gulfnews.com/world/gulf/bahrain/iranian-attack-sparks-fire-at-civilian-industrial-facility-in-bahrain-1.500756564"
+        }
+      ],
+      "en": {
+        "title": "BAHRAIN REPORTS FIRE AT CIVILIAN INDUSTRIAL FACILITY AFTER IRANIAN ATTACK",
+        "subtitle": "Bahrain reports fire and damage at a civilian industrial site after an Iranian attack, with no injuries initially reported.",
+        "category": "WORLD",
+        "facts": "On November 21, 2026, Bahrain's Ministry of Interior said an attack attributed to Iran struck a civilian industrial facility in the country and started a fire. According to the Ministry of Interior, initial assessments reported zero injuries as Civil Defence crews worked to extinguish the flames. Reuters reported that Iran's Islamic Revolutionary Guard Corps claimed missile and drone strikes against two US military positions identified as Al-Riffa and Awali; that claim does not establish that the civilian facility was deliberately targeted. Bahraini authorities did not identify the facility or disclose its precise location.",
+        "analysis": "The incident underscores the exposure of civilian infrastructure to the Gulf region's military escalation. Bahrain hosts the US Navy's Fifth Fleet, making security in the kingdom significant for the American naval presence and regional shipping. Two claims must be kept distinct: Bahrain reports damage to a civilian facility, while Iran's Revolutionary Guards claim strikes on US military positions. It has not been independently established that these refer to the same target. Without the site's identity, a specific economic impact cannot be assessed.",
+        "counterpoint": "Bahrain attributes the industrial fire to an Iranian attack, while Iran's Revolutionary Guards claim strikes on military targets. The facility's location, the final extent of damage and the precise relationship between the reported targets and the fire remain unverified publicly. The no-injuries figure is preliminary.",
+        "slug": "bahrain-reports-fire-at-civilian-industrial-facility-after-iranian-attack-2026-11-21"
+      },
+      "es": {
+        "title": "BAHREIN INFORMA DE UN INCENDIO EN UNA INSTALACIÓN INDUSTRIAL CIVIL TRAS UN ATAQUE IRANÍ",
+        "subtitle": "Baréin informa de un incendio y daños en una instalación industrial civil tras un ataque iraní, sin heridos reportados inicialmente.",
+        "category": "MUNDO",
+        "facts": "El 21 de noviembre de 2026, el Ministerio del Interior de Baréin informó que un ataque atribuido a Irán alcanzó una instalación industrial civil del país y provocó un incendio. Según el Ministerio del Interior, las evaluaciones preliminares registraron cero heridos mientras equipos de Defensa Civil combatían las llamas. De acuerdo con Reuters, el Cuerpo de la Guardia Revolucionaria Islámica de Irán afirmó haber lanzado misiles y drones contra dos posiciones militares estadounidenses identificadas como Al-Riffa y Awali; esa afirmación no demuestra que la instalación civil fuera un objetivo deliberado. Las autoridades bareiníes no identificaron la instalación ni precisaron su ubicación.",
+        "analysis": "El episodio pone de relieve la vulnerabilidad de las instalaciones civiles ante la escalada militar en el Golfo. Baréin alberga la Quinta Flota de la Armada de Estados Unidos, por lo que su seguridad importa para la presencia naval estadounidense y la navegación regional. Deben distinguirse dos afirmaciones: Baréin denuncia daños en una instalación civil y la Guardia Revolucionaria iraní reivindica ataques contra posiciones militares estadounidenses. No se ha confirmado de manera independiente que se trate del mismo objetivo. Sin identificar la instalación, no puede estimarse un impacto económico específico.",
+        "counterpoint": "Baréin atribuye el incendio a un ataque iraní, mientras que la Guardia Revolucionaria de Irán reivindica ataques contra objetivos militares. La ubicación de la instalación, el alcance definitivo de los daños y la relación exacta entre los objetivos declarados y el incendio no están confirmados públicamente. La cifra de cero heridos es preliminar.",
+        "slug": "bahrein-informa-de-un-incendio-en-una-instalacion-industrial-civil-tras-un-2026-11-21"
+      }
+    },
+    {
       "id": "dinamarca-propoe-restricoes-vistos-russos-ue-2026-11-21",
       "date": "2026-11-21",
       "title": "DINAMARCA PEDE À UE RESTRIÇÕES A VISTOS RUSSOS APÓS DENÚNCIA DE PLANO DE ASSASSINATO",
