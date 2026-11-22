@@ -526,7 +526,16 @@
     "trump-ameaca-taxar-data-centers-exterior-2026-11-20": "editorial/photos/trump-ameaca-taxar-data-centers-exterior-2026-11-20.jpg",
     "coalizao-saudita-ataca-porto-hodeida-iemen-2026-11-20": "editorial/photos/coalizao-saudita-ataca-porto-hodeida-iemen-2026-11-20.jpg",
     "temporais-rs-19663-pessoas-33-municipios-balanco-2026-11-21": "editorial/photos/temporais-rs-19663-pessoas-33-municipios-balanco-2026-11-21.jpg",
-    "machado-de-assis-nao-precisa-de-cadeado-2026-11-22": "editorial/photos/machado-de-assis-nao-precisa-de-cadeado-2026-11-22.jpg"
+    "machado-de-assis-nao-precisa-de-cadeado-2026-11-22": "editorial/photos/machado-de-assis-nao-precisa-de-cadeado-2026-11-22.jpg",
+    "marc-marquez-octacampeao-motogp-portugal-2026-11-22": "editorial/photos/marc-marquez-octacampeao-motogp-portugal-2026-11-22.jpg",
+    "temporais-rs-25123-afetados-42-municipios-novo-balanco-2026-11-22": "editorial/photos/temporais-rs-25123-afetados-42-municipios-novo-balanco-2026-11-22.jpg",
+    "ministro-educacao-coreia-sul-renuncia-fraudes-ia-vestibular-2026-11-22": "editorial/photos/ministro-educacao-coreia-sul-renuncia-fraudes-ia-vestibular-2026-11-22.jpg",
+    "dylan-dawson-vence-atlantic-coast-pro-classic-physique-2026-11-22": "editorial/photos/dylan-dawson-vence-atlantic-coast-pro-classic-physique-2026-11-22.jpg",
+    "verstappen-vence-gp-las-vegas-formula-1-2026-11-22": "editorial/photos/verstappen-vence-gp-las-vegas-formula-1-2026-11-22.jpg",
+    "cop31-antalya-termina-sem-acordo-geral-2026-11-22": "editorial/photos/cop31-antalya-termina-sem-acordo-geral-2026-11-22.jpg",
+    "tupancireta-calamidade-federal-cinco-mortos-2026-11-22": "editorial/photos/tupancireta-calamidade-federal-cinco-mortos-2026-11-22.jpg",
+    "incendio-fabrica-doces-indonesia-banten-desaparecidos-2026-11-22": "editorial/photos/incendio-fabrica-doces-indonesia-banten-desaparecidos-2026-11-22.jpg",
+    "ataque-iraniano-incendio-industria-bahrein-2026-11-21": "editorial/photos/ataque-iraniano-incendio-industria-bahrein-2026-11-21.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -2094,6 +2103,60 @@
       "srcset": "editorial/photos/machado-de-assis-nao-precisa-de-cadeado-2026-11-22-320.webp 320w, editorial/photos/machado-de-assis-nao-precisa-de-cadeado-2026-11-22-640.webp 640w, editorial/photos/machado-de-assis-nao-precisa-de-cadeado-2026-11-22-960.webp 960w, editorial/photos/machado-de-assis-nao-precisa-de-cadeado-2026-11-22-1280.webp 1280w",
       "width": 1280,
       "height": 1578
+    },
+    "marc-marquez-octacampeao-motogp-portugal-2026-11-22": {
+      "src": "editorial/photos/marc-marquez-octacampeao-motogp-portugal-2026-11-22-1280.webp",
+      "srcset": "editorial/photos/marc-marquez-octacampeao-motogp-portugal-2026-11-22-320.webp 320w, editorial/photos/marc-marquez-octacampeao-motogp-portugal-2026-11-22-640.webp 640w, editorial/photos/marc-marquez-octacampeao-motogp-portugal-2026-11-22-960.webp 960w, editorial/photos/marc-marquez-octacampeao-motogp-portugal-2026-11-22-1280.webp 1280w",
+      "width": 1280,
+      "height": 960
+    },
+    "temporais-rs-25123-afetados-42-municipios-novo-balanco-2026-11-22": {
+      "src": "editorial/photos/temporais-rs-25123-afetados-42-municipios-novo-balanco-2026-11-22-1080.webp",
+      "srcset": "editorial/photos/temporais-rs-25123-afetados-42-municipios-novo-balanco-2026-11-22-320.webp 320w, editorial/photos/temporais-rs-25123-afetados-42-municipios-novo-balanco-2026-11-22-640.webp 640w, editorial/photos/temporais-rs-25123-afetados-42-municipios-novo-balanco-2026-11-22-960.webp 960w, editorial/photos/temporais-rs-25123-afetados-42-municipios-novo-balanco-2026-11-22-1080.webp 1080w",
+      "width": 1080,
+      "height": 720
+    },
+    "ministro-educacao-coreia-sul-renuncia-fraudes-ia-vestibular-2026-11-22": {
+      "src": "editorial/photos/ministro-educacao-coreia-sul-renuncia-fraudes-ia-vestibular-2026-11-22-658.webp",
+      "srcset": "editorial/photos/ministro-educacao-coreia-sul-renuncia-fraudes-ia-vestibular-2026-11-22-320.webp 320w, editorial/photos/ministro-educacao-coreia-sul-renuncia-fraudes-ia-vestibular-2026-11-22-640.webp 640w, editorial/photos/ministro-educacao-coreia-sul-renuncia-fraudes-ia-vestibular-2026-11-22-658.webp 658w",
+      "width": 658,
+      "height": 878
+    },
+    "dylan-dawson-vence-atlantic-coast-pro-classic-physique-2026-11-22": {
+      "src": "editorial/photos/dylan-dawson-vence-atlantic-coast-pro-classic-physique-2026-11-22-1280.webp",
+      "srcset": "editorial/photos/dylan-dawson-vence-atlantic-coast-pro-classic-physique-2026-11-22-320.webp 320w, editorial/photos/dylan-dawson-vence-atlantic-coast-pro-classic-physique-2026-11-22-640.webp 640w, editorial/photos/dylan-dawson-vence-atlantic-coast-pro-classic-physique-2026-11-22-960.webp 960w, editorial/photos/dylan-dawson-vence-atlantic-coast-pro-classic-physique-2026-11-22-1280.webp 1280w",
+      "width": 1280,
+      "height": 930
+    },
+    "verstappen-vence-gp-las-vegas-formula-1-2026-11-22": {
+      "src": "editorial/photos/verstappen-vence-gp-las-vegas-formula-1-2026-11-22-1280.webp",
+      "srcset": "editorial/photos/verstappen-vence-gp-las-vegas-formula-1-2026-11-22-320.webp 320w, editorial/photos/verstappen-vence-gp-las-vegas-formula-1-2026-11-22-640.webp 640w, editorial/photos/verstappen-vence-gp-las-vegas-formula-1-2026-11-22-960.webp 960w, editorial/photos/verstappen-vence-gp-las-vegas-formula-1-2026-11-22-1280.webp 1280w",
+      "width": 1280,
+      "height": 720
+    },
+    "cop31-antalya-termina-sem-acordo-geral-2026-11-22": {
+      "src": "editorial/photos/cop31-antalya-termina-sem-acordo-geral-2026-11-22-1280.webp",
+      "srcset": "editorial/photos/cop31-antalya-termina-sem-acordo-geral-2026-11-22-320.webp 320w, editorial/photos/cop31-antalya-termina-sem-acordo-geral-2026-11-22-640.webp 640w, editorial/photos/cop31-antalya-termina-sem-acordo-geral-2026-11-22-960.webp 960w, editorial/photos/cop31-antalya-termina-sem-acordo-geral-2026-11-22-1280.webp 1280w",
+      "width": 1280,
+      "height": 911
+    },
+    "tupancireta-calamidade-federal-cinco-mortos-2026-11-22": {
+      "src": "editorial/photos/tupancireta-calamidade-federal-cinco-mortos-2026-11-22-768.webp",
+      "srcset": "editorial/photos/tupancireta-calamidade-federal-cinco-mortos-2026-11-22-320.webp 320w, editorial/photos/tupancireta-calamidade-federal-cinco-mortos-2026-11-22-640.webp 640w, editorial/photos/tupancireta-calamidade-federal-cinco-mortos-2026-11-22-768.webp 768w",
+      "width": 768,
+      "height": 512
+    },
+    "incendio-fabrica-doces-indonesia-banten-desaparecidos-2026-11-22": {
+      "src": "editorial/photos/incendio-fabrica-doces-indonesia-banten-desaparecidos-2026-11-22-1280.webp",
+      "srcset": "editorial/photos/incendio-fabrica-doces-indonesia-banten-desaparecidos-2026-11-22-320.webp 320w, editorial/photos/incendio-fabrica-doces-indonesia-banten-desaparecidos-2026-11-22-640.webp 640w, editorial/photos/incendio-fabrica-doces-indonesia-banten-desaparecidos-2026-11-22-960.webp 960w, editorial/photos/incendio-fabrica-doces-indonesia-banten-desaparecidos-2026-11-22-1280.webp 1280w",
+      "width": 1280,
+      "height": 960
+    },
+    "ataque-iraniano-incendio-industria-bahrein-2026-11-21": {
+      "src": "editorial/photos/ataque-iraniano-incendio-industria-bahrein-2026-11-21-1280.webp",
+      "srcset": "editorial/photos/ataque-iraniano-incendio-industria-bahrein-2026-11-21-320.webp 320w, editorial/photos/ataque-iraniano-incendio-industria-bahrein-2026-11-21-640.webp 640w, editorial/photos/ataque-iraniano-incendio-industria-bahrein-2026-11-21-960.webp 960w, editorial/photos/ataque-iraniano-incendio-industria-bahrein-2026-11-21-1280.webp 1280w",
+      "width": 1280,
+      "height": 223
     }
   }
 }
