@@ -1,7 +1,68 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T10:00:00-03:00",
+  "updatedAt": "2026-11-22T19:00:00-03:00",
   "essays": [
+    {
+      "id": "a-meia-custa-vinte-reais-a-biografia-vai-de-brinde-2026-11-22",
+      "section": "Política e sociedade",
+      "date": "2026-11-22",
+      "title": "A MEIA CUSTA VINTE REAIS. A BIOGRAFIA VAI DE BRINDE.",
+      "subtitle": "O comércio quer vender um produto. Por que precisa conhecer a vida inteira do comprador?",
+      "eyebrow": "OPINIÃO",
+      "paragraphs": [
+        "Há uma intimidade curiosa entre o brasileiro e a caixa de seleção. Para comprar um par de meias, às vezes lhe pedem nome, telefone, aniversário e autorização para receber ofertas até o fim dos tempos. A meia custa vinte reais; a biografia vai de brinde. Depois, quando chegam mensagens de empresas das quais ninguém se lembra, a surpresa é tratada como um fenômeno meteorológico.",
+        "A Lei Geral de Proteção de Dados Pessoais, Lei nº 13.709 de 2018, tem um mérito que deveria ser óbvio: informação sobre uma pessoa não vira propriedade irrestrita de quem conseguiu coletá-la. O artigo 18 prevê acesso, correção e, em determinadas condições, eliminação de dados. A Autoridade Nacional de Proteção de Dados explica que o titular também pode perguntar com quem suas informações foram compartilhadas. É uma espécie de direito de olhar para a própria sombra digital e descobrir quantas pessoas estão pisando nela.",
+        "O problema não começa necessariamente com um hacker. Começa com a naturalidade com que aceitamos que uma compra simples se transforme numa investigação sobre nossa vida. Há empresas que precisam de endereço para entregar um produto e de dados para emitir documentos fiscais. Perfeitamente razoável. O salto indevido acontece quando necessidade operacional vira desculpa para conhecer o consumidor melhor do que seus próprios parentes.",
+        "Não vou fingir que todo uso de dados seja uma conspiração. Um serviço pode melhorar quando lembra preferências, evita fraudes e oferece atendimento adequado. A própria LGPD admite diferentes bases legais para o tratamento; consentimento não é a única. Também não existe botão mágico para apagar registros que a lei exige conservar: os artigos 15 e 16 estabelecem condições e exceções. Liberdade sem responsabilidade seria um slogan confortável, mas juridicamente falso.",
+        "É justamente por isso que transparência importa. Quem pede uma informação deveria conseguir explicar, sem uma excursão de quarenta páginas pelo juridiquês, por que precisa dela e o que pretende fazer. E o cidadão deveria poder contestar abusos sem ter de cursar direito digital à noite. A ANPD orienta a procurar primeiro o controlador e guardar os registros do pedido antes de apresentar uma petição à autoridade. O direito existe; exercê-lo ainda exige uma paciência que ninguém colocou no carrinho.",
+        "Privacidade não significa viver escondido, nem proibir empresas de trabalhar. Significa reconhecer que o fato de alguém conseguir registrar cada gesto nosso não lhe concede autoridade moral para fazê-lo. Quero comprar as meias, não adotar uma nova testemunha permanente da minha existência. Se um comércio precisa conhecer a minha alma para vender algodão, talvez esteja no ramo errado."
+      ],
+      "sources": [
+        {
+          "title": "Lei nº 13.709/2018, artigos 15, 16 e 18 — Presidência da República",
+          "url": "https://planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm"
+        },
+        {
+          "title": "ANPD — Perguntas frequentes, direitos dos titulares e bases de tratamento",
+          "url": "https://www.gov.br/anpd/pt-br/acesso-a-informacao/perguntas-frequentes"
+        },
+        {
+          "title": "ANPD — Denúncia e petição de titular",
+          "url": "https://www.gov.br/anpd/pt-br/canais_atendimento/cidadao-titular-de-dados/denuncia-peticao-de-titular-referente-lgpd"
+        }
+      ],
+      "photos": [],
+      "en": {
+        "title": "THE SOCKS COST TWENTY REAIS. YOUR BIOGRAPHY COMES FREE.",
+        "subtitle": "A shop wants to sell a product. Why does it need to know the buyer's whole life?",
+        "eyebrow": "OPINION",
+        "section": "Politics and society",
+        "paragraphs": [
+          "There is an odd intimacy between Brazilians and the checkbox. To buy a pair of socks, you may be asked for your name, phone number, birthday and permission to receive offers until the end of time. The socks cost twenty reais; your biography comes free. Later, messages arrive from companies you barely remember, and everyone acts as though this were a weather event.",
+          "Brazil's General Personal Data Protection Law, Law 13,709 of 2018, makes a point that should be obvious: information about a person does not become the unrestricted property of whoever collected it. Article 18 provides rights of access, correction and, under certain conditions, deletion. The National Data Protection Authority also explains that people may ask with whom their information was shared. It is a right to inspect your digital shadow and see how many strangers are standing on it.",
+          "The trouble does not necessarily begin with a hacker. It begins when we accept that a simple purchase should turn into an inquiry into our lives. Businesses may need an address to deliver goods and information to issue tax documents. Fair enough. The questionable leap comes when operational necessity becomes an excuse to know a customer better than their own relatives do.",
+          "I will not pretend that every use of data is a conspiracy. Services can improve by remembering preferences, preventing fraud and providing appropriate support. The law itself recognizes several legal bases for processing; consent is not the only one. Nor is there a magic button that erases records a business is legally required to keep: Articles 15 and 16 establish conditions and exceptions. Freedom without responsibility would make a convenient slogan, but a false legal claim.",
+          "That is exactly why transparency matters. Anyone requesting information ought to be able to explain, without a forty-page tour of legal jargon, why it is needed and what will be done with it. People should be able to challenge abuse without enrolling in evening classes on digital law. The authority advises contacting the data controller first and keeping records before filing a petition. The right exists; exercising it still demands patience no one added to the shopping cart.",
+          "Privacy does not mean hiding from the world or preventing businesses from operating. It means acknowledging that the ability to record our every move is not a moral license to do so. I want to buy socks, not acquire a permanent witness to my existence. If a shop needs to know my soul to sell cotton, perhaps it is in the wrong business."
+        ],
+        "photo_caption": ""
+      },
+      "es": {
+        "title": "LOS CALCETINES CUESTAN VEINTE REALES. LA BIOGRAFÍA VA DE REGALO.",
+        "subtitle": "Una tienda quiere vender un producto. ¿Por qué necesita conocer toda la vida del comprador?",
+        "eyebrow": "OPINIÓN",
+        "section": "Política y sociedad",
+        "paragraphs": [
+          "Hay una intimidad curiosa entre los brasileños y la casilla de verificación. Para comprar unos calcetines, a veces te piden nombre, teléfono, cumpleaños y permiso para recibir ofertas hasta el fin de los tiempos. Los calcetines cuestan veinte reales; la biografía va de regalo. Después llegan mensajes de empresas que apenas recuerdas y todos reaccionan como si fuera un fenómeno meteorológico.",
+          "La Ley General de Protección de Datos Personales de Brasil, Ley 13.709 de 2018, afirma algo que debería ser evidente: la información sobre una persona no se convierte en propiedad ilimitada de quien la recoge. El artículo 18 reconoce derechos de acceso, rectificación y, en determinadas condiciones, supresión. La Autoridad Nacional de Protección de Datos explica además que el titular puede preguntar con quién se compartieron sus datos. Es el derecho a observar tu sombra digital y descubrir cuántos desconocidos la pisan.",
+          "El problema no empieza necesariamente con un pirata informático. Empieza cuando aceptamos que una compra sencilla se transforme en una investigación de nuestra vida. Una empresa puede necesitar la dirección para entregar un producto y datos para emitir documentos fiscales. Es razonable. El salto cuestionable ocurre cuando una necesidad operativa sirve de excusa para conocer al cliente mejor que sus propios familiares.",
+          "No voy a fingir que todo uso de datos sea una conspiración. Un servicio puede mejorar si recuerda preferencias, previene fraudes y atiende bien. La propia ley admite distintas bases jurídicas para el tratamiento; el consentimiento no es la única. Tampoco existe un botón mágico para borrar registros que deben conservarse por obligación legal: los artículos 15 y 16 establecen condiciones y excepciones. La libertad sin responsabilidad sería un lema cómodo, pero jurídicamente falso.",
+          "Precisamente por eso importa la transparencia. Quien pide información debería explicar, sin obligarnos a recorrer cuarenta páginas de jerga jurídica, por qué la necesita y qué hará con ella. Y cualquier ciudadano debería poder cuestionar abusos sin estudiar derecho digital por las noches. La autoridad recomienda acudir primero al responsable del tratamiento y conservar constancia de la solicitud antes de presentar una petición. El derecho existe; ejercerlo todavía exige una paciencia que nadie añadió al carrito.",
+          "La privacidad no consiste en esconderse ni en impedir que las empresas trabajen. Consiste en reconocer que poder registrar cada movimiento nuestro no concede autoridad moral para hacerlo. Quiero comprar calcetines, no adoptar un testigo permanente de mi existencia. Si una tienda necesita conocer mi alma para vender algodón, quizá se haya equivocado de negocio."
+        ],
+        "photo_caption": ""
+      }
+    },
     {
       "id": "machado-de-assis-nao-precisa-de-cadeado-2026-11-22",
       "section": "Filosofia e ideias",
