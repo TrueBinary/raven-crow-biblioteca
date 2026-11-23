@@ -6,6 +6,42 @@
   "tz": "America/Sao_Paulo",
   "articles": [
     {
+      "id": "ataques-russos-regiao-kiev-15-mortos-dymer-2026-11-23",
+      "date": "2026-11-23",
+      "title": "ATAQUES RUSSOS NA REGIÃO DE KIEV DEIXAM AO MENOS 15 MORTOS; RESGATES CONTINUAM EM DYMER",
+      "subtitle": "Bombardeios atingiram Dymer, Vyshneve e Bila Tserkva; autoridades ucranianas relatam pelo menos 15 mortos.",
+      "category": "MUNDO",
+      "facts": "Ataques aéreos russos contra localidades da região de Kiev, na Ucrânia, deixaram pelo menos 15 mortos até 23 de novembro de 2026, segundo autoridades ucranianas citadas pela AFP e pela Euronews. Em Dymer, a cerca de 45 quilômetros da capital, um edifício residencial de cinco andares foi atingido; o balanço chegou a 11 mortos, segundo o responsável regional Tymur Tkachenko, em informação divulgada pela Reuters em 23 de novembro. Segundo a Euronews, com base nos relatos das autoridades locais, outros três civis morreram em um ataque a supermercado em Vyshneve e uma pessoa morreu em Bila Tserkva. As buscas entre os escombros continuavam, e o total de vítimas poderia mudar.",
+      "analysis": "O balanço regional reúne ocorrências em três localidades, não apenas o desabamento de Dymer. Essa distinção importa porque a atualização de 11 mortos no edifício e o total de 15 mortos na região descrevem recortes diferentes da mesma ofensiva. A busca por desaparecidos e os alertas de novos ataques dificultam o trabalho das equipes de resgate. O episódio ocorre em meio à intensificação dos bombardeios russos contra cidades e infraestrutura ucranianas antes do inverno, ampliando a pressão sobre serviços de emergência e moradores.",
+      "counterpoint": "Os números são balanços preliminares atribuídos a autoridades ucranianas e podem ser revisados. A Reuters confirmou a divulgação do total de 11 mortos em Dymer; a contagem regional de pelo menos 15 foi relatada pela AFP, reproduzida pela Euronews. Não há neste levantamento confirmação independente do número definitivo de vítimas ou de todas as circunstâncias militares dos ataques.",
+      "sources": [
+        {
+          "name": "Reuters — 23/11/2026",
+          "url": "https://www.reuters.com/world/russian-attack-ukraines-dymer-kyiv-region-kills-11-official-says-2026-11-23/"
+        },
+        {
+          "name": "Euronews / AFP — 23/11/2026",
+          "url": "https://www.euronews.com/2026/11/23/russian-air-strikes-kill-at-least-15-people-across-kyiv-region-ukraine-says"
+        }
+      ],
+      "en": {
+        "title": "RUSSIAN STRIKES KILL AT LEAST 15 IN KYIV REGION AS DYMER RESCUE CONTINUES",
+        "subtitle": "Strikes hit Dymer, Vyshneve and Bila Tserkva; Ukrainian officials report at least 15 deaths.",
+        "category": "WORLD",
+        "facts": "Russian air strikes on towns in Ukraine's Kyiv region killed at least 15 people by November 23, 2026, according to Ukrainian officials cited by AFP and Euronews. In Dymer, about 45 kilometres north of the capital, a five-storey residential building was hit; the death toll reached 11, according to regional official Tymur Tkachenko as reported by Reuters on November 23. Euronews, citing local officials, reported three additional deaths at a supermarket in Vyshneve and one at a home in Bila Tserkva. Searches through the rubble continued and the casualty figures could change.",
+        "analysis": "The regional toll combines strikes in three locations rather than just the collapsed building in Dymer. This distinction matters: 11 deaths at the building and at least 15 across the region refer to different scopes of the same series of attacks. Searches for missing residents and further air alerts complicated rescue operations. The strikes come amid intensified Russian bombardment of Ukrainian towns and infrastructure ahead of winter, placing additional pressure on emergency services and civilians.",
+        "counterpoint": "These are preliminary figures attributed to Ukrainian authorities and may be revised. Reuters reported the official toll of 11 in Dymer; AFP, carried by Euronews, reported at least 15 across the region. The final casualty count and all military circumstances of the strikes have not been independently established."
+      },
+      "es": {
+        "title": "ATAQUES RUSOS DEJAN AL MENOS 15 MUERTOS EN LA REGIÓN DE KIEV; SIGUEN LOS RESCATES EN DYMER",
+        "subtitle": "Los bombardeos alcanzaron Dymer, Vyshneve y Bila Tserkva; autoridades ucranianas informan de al menos 15 muertos.",
+        "category": "MUNDO",
+        "facts": "Los ataques aéreos rusos contra localidades de la región de Kiev, Ucrania, dejaron al menos 15 muertos hasta el 23 de noviembre de 2026, según autoridades ucranianas citadas por AFP y Euronews. En Dymer, a unos 45 kilómetros al norte de la capital, fue alcanzado un edificio residencial de cinco plantas; el balance ascendió a 11 muertos, según el responsable regional Tymur Tkachenko, citado por Reuters el 23 de noviembre. Euronews, basándose en autoridades locales, informó de otras tres muertes en un supermercado de Vyshneve y una en una vivienda de Bila Tserkva. La búsqueda entre los escombros continuaba y el número de víctimas podía cambiar.",
+        "analysis": "El balance regional reúne ataques en tres localidades y no solo el derrumbe de Dymer. La distinción importa: los 11 muertos del edificio y los al menos 15 de toda la región corresponden a ámbitos distintos de la misma ofensiva. La búsqueda de desaparecidos y las nuevas alertas aéreas dificultan el rescate. Los ataques se producen en medio de una intensificación de los bombardeos rusos contra ciudades e infraestructuras ucranianas antes del invierno, con mayor presión sobre los servicios de emergencia y la población.",
+        "counterpoint": "Son cifras preliminares atribuidas a autoridades ucranianas y pueden revisarse. Reuters informó del balance oficial de 11 muertos en Dymer; AFP, a través de Euronews, informó de al menos 15 en toda la región. No se han confirmado de manera independiente el balance definitivo ni todas las circunstancias militares de los ataques."
+      }
+    },
+    {
       "id": "combates-ituri-ameacam-resposta-ebola-oms-2026-11-23",
       "date": "2026-11-23",
       "title": "COMBATES PERTO DE HOSPITAL NO CONGO PREJUDICAM RESPOSTA AO EBOLA, ALERTA OMS",
