@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "galipolo-defende-revisao-regras-gastos-inflacao-2026-11-23",
+      "date": "2026-11-23",
+      "category": "ECONOMIA",
+      "title": "GALÍPOLO DEFENDE REVER REGRAS DE GASTOS SEM CORTAR PROGRAMAS SOCIAIS",
+      "subtitle": "Presidente do Banco Central diz que despesas vinculadas à arrecadação podem pressionar a inflação e exigir juros mais altos.",
+      "facts": "O presidente do Banco Central do Brasil (BC), Gabriel Muricca Galípolo, defendeu em 23 de novembro de 2026, durante o Macro Vision 2026, evento do Itaú BBA em São Paulo, a revisão de regras que ampliam automaticamente as despesas públicas, sem necessariamente cortar programas sociais, conforme relataram Reuters e CNN Brasil. Ele argumentou que gastos vinculados à arrecadação podem pressionar a inflação em uma economia com emprego elevado, tornando mais difícil reduzir os juros, segundo a Reuters. De acordo com a CNN Brasil, Galípolo afirmou que não há discussão no governo para mudar a meta de inflação, atualmente de 3% ao ano, com tolerância de 1,5 ponto percentual para cima ou para baixo. Segundo a Reuters, a regra fiscal brasileira estabelece limite de crescimento real das despesas de até 70% do aumento real da receita, sujeito a teto anual de 2,5% e piso de 0,6%.",
+      "analysis": "A fala não anuncia alteração de lei nem decisão sobre a taxa básica de juros. Ela distingue duas questões frequentemente confundidas: preservar o atendimento social e revisar mecanismos que transformam arrecadação adicional em despesas obrigatórias. Se a receita cresce e parte do ganho é automaticamente consumida por novos gastos, o ajuste fiscal pode ser menor que o esperado. Isso ajuda a explicar por que o presidente do BC relacionou a arquitetura das regras de despesa às expectativas de inflação e ao custo de financiamento da dívida. A decisão de alterar esses mecanismos caberia ao processo político e legislativo, não ao Banco Central.",
+      "counterpoint": "Galípolo não apresentou no evento uma proposta legislativa detalhada nem quantificou quanto a revisão das vinculações reduziria inflação ou juros. A avaliação sobre os efeitos fiscais depende do desenho de cada regra, da arrecadação, do crescimento e da proteção efetiva aos beneficiários. As declarações são uma análise de riscos do presidente do BC, não uma decisão já adotada pelo governo.",
+      "sources": [
+        {
+          "name": "Reuters — declaração de Galípolo, 23/11/2026",
+          "url": "https://www.reuters.com/world/americas/brazils-galipolo-says-rising-minimum-wage-pressures-inflation-calls-policy-2026-11-23/"
+        },
+        {
+          "name": "CNN Brasil — Macro Vision, 23/11/2026",
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/galipolo-diz-que-ha-espaco-para-ajuste-sem-cortes-absolutos/"
+        },
+        {
+          "name": "Congresso em Foco — 23/11/2026",
+          "url": "https://www.congressoemfoco.com.br/noticia/131776/galipolo-defende-rever-regras-fiscais-sem-cortar-programas-sociais"
+        }
+      ],
+      "en": {
+        "title": "BRAZIL'S CENTRAL BANK CHIEF CALLS FOR SPENDING-RULE CHANGES WITHOUT CUTTING SOCIAL PROGRAMS",
+        "subtitle": "Gabriel Galípolo says revenue-linked spending can fuel inflation and keep interest rates higher.",
+        "category": "ECONOMY",
+        "facts": "Gabriel Muricca Galípolo, president of the Central Bank of Brazil (BC), called for reviewing rules that automatically increase public spending without necessarily cutting social programs at the Itaú BBA Macro Vision 2026 event in São Paulo on November 23, 2026, Reuters and CNN Brasil reported. He argued that linking spending to revenue can add inflationary pressure when employment is high, complicating interest-rate cuts, according to Reuters. CNN Brasil reported that Galípolo ruled out any government discussion of changing Brazil's annual 3% inflation target, which has a tolerance band of 1.5 percentage points on either side. Reuters described the fiscal framework as limiting real spending growth to 70% of real revenue growth, with an annual ceiling of 2.5% and floor of 0.6%.",
+        "analysis": "The remarks do not amount to a new law or an interest-rate decision. They distinguish preserving social protection from changing mechanisms that automatically turn additional tax revenue into expenditure. If revenues rise but linked spending rises as well, the resulting fiscal adjustment may be smaller than expected. That is why the central bank chief connected spending-rule design with inflation expectations and government borrowing costs. Any legislative change would require political decisions outside the central bank.",
+        "counterpoint": "Galípolo offered no detailed legislative proposal and did not quantify how much inflation or interest rates might fall following changes to spending rules. The outcome would depend on the specific provisions, economic growth, revenues and safeguards for beneficiaries. His remarks express a risk assessment rather than a government policy decision.",
+        "slug": "brazil-s-central-bank-chief-calls-for-spending-rule-changes-without-cutting-2026-11-23"
+      },
+      "es": {
+        "title": "GALÍPOLO PROPONE REVISAR REGLAS DE GASTO SIN RECORTAR PROGRAMAS SOCIALES EN BRASIL",
+        "subtitle": "El presidente del Banco Central advierte que el gasto vinculado a los ingresos puede presionar la inflación y los tipos de interés.",
+        "category": "ECONOMÍA",
+        "facts": "Gabriel Muricca Galípolo, presidente del Banco Central de Brasil (BC), defendió el 23 de noviembre de 2026 en el evento Macro Vision 2026 de Itaú BBA, celebrado en São Paulo, la revisión de normas que aumentan automáticamente el gasto público sin necesariamente recortar programas sociales, según Reuters y CNN Brasil. Argumentó que vincular los gastos a la recaudación puede aumentar la presión inflacionaria en una economía con alto empleo y dificultar la reducción de los tipos de interés, de acuerdo con Reuters. CNN Brasil informó que Galípolo descartó conversaciones gubernamentales para modificar la meta anual de inflación del 3%, con una banda de tolerancia de 1,5 puntos porcentuales en cada dirección. Según Reuters, el marco fiscal limita el crecimiento real del gasto al 70% del aumento real de los ingresos, con un techo anual del 2,5% y un mínimo del 0,6%.",
+        "analysis": "Las declaraciones no representan una nueva ley ni una decisión sobre los tipos de interés. Distinguen entre proteger los programas sociales y modificar mecanismos que convierten automáticamente mayores ingresos tributarios en más gastos. Si la recaudación crece y también lo hacen los compromisos vinculados, el ajuste fiscal puede ser menor de lo previsto. Esto explica la relación señalada entre las reglas de gasto, las expectativas inflacionarias y el costo de financiación de la deuda pública. Cualquier cambio legal correspondería al proceso político y legislativo.",
+        "counterpoint": "Galípolo no presentó una propuesta legislativa detallada ni cuantificó cuánto bajarían la inflación o los tipos de interés con una revisión de las reglas. El resultado dependería de las normas concretas, la recaudación, el crecimiento económico y la protección de los beneficiarios. Sus palabras constituyen una evaluación de riesgos, no una decisión gubernamental.",
+        "slug": "galipolo-propone-revisar-reglas-de-gasto-sin-recortar-programas-sociales-en-2026-11-23"
+      },
+      "firstSeen": "2026-11-23T14:04:48-03:00"
+    },
+    {
       "id": "nvidia-reconduz-jensen-huang-ceo-acoes-disparam-2026-11-23",
       "date": "2026-11-23",
       "category": "TECNOLOGIA",
