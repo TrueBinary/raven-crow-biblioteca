@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": "combates-ituri-ameacam-resposta-ebola-oms-2026-11-23",
+      "date": "2026-11-23",
+      "title": "COMBATES PERTO DE HOSPITAL NO CONGO PREJUDICAM RESPOSTA AO EBOLA, ALERTA OMS",
+      "subtitle": "Confrontos em Ituri obrigaram profissionais de saúde a buscar abrigo por mais de 24 horas em maternidade, segundo a OMS.",
+      "category": "MUNDO",
+      "facts": "Combates perto de um hospital na província de Ituri, no nordeste da República Democrática do Congo, interromperam atividades de resposta ao ebola, informou em 22 de novembro de 2026 o diretor-geral da Organização Mundial da Saúde (OMS), Tedros Adhanom Ghebreyesus. Segundo Tedros, profissionais da OMS e parceiros humanitários permaneceram abrigados na maternidade da unidade por mais de 24 horas, enquanto a organização negociava passagem segura. De acordo com dados do governo congolês reproduzidos pela Reuters em 22 de novembro, o surto declarado em 15 de maio de 2026 já havia provocado mais de 11 mil infecções e 5,5 mil mortes; esses números são um balanço acumulado, não vítimas dos confrontos.",
+      "analysis": "A interrupção de um hospital em área de transmissão prejudica simultaneamente atendimento, isolamento de pacientes e acompanhamento de contatos. O risco não se limita aos profissionais que ficaram abrigados: a continuidade das operações de saúde depende de acesso seguro para equipes e pacientes. Os números acumulados do surto dão a dimensão do desafio sanitário, mas não permitem medir quantas infecções adicionais seriam atribuíveis a este episódio específico de violência.",
+      "counterpoint": "O relato sobre a situação da maternidade foi feito pelo diretor-geral da OMS e noticiado por Reuters e Al Jazeera. Até a apuração, não havia confirmação independente sobre a identidade dos responsáveis pelos confrontos, o número de pessoas abrigadas ou a conclusão da retirada segura. Não se deve confundir os dados acumulados de ebola com vítimas dos combates.",
+      "sources": [
+        {
+          "name": "Reuters — 22/11/2026",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-chief-says-fighting-near-congo-ebola-outbreak-area-disrupts-response-efforts-2026-11-22/"
+        },
+        {
+          "name": "Al Jazeera — 23/11/2026",
+          "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region"
+        }
+      ],
+      "en": {
+        "title": "FIGHTING NEAR CONGO HOSPITAL DISRUPTS EBOLA RESPONSE, WHO CHIEF WARNS",
+        "subtitle": "Clashes in Ituri forced health workers to shelter in a maternity ward for more than 24 hours, according to the WHO.",
+        "category": "WORLD",
+        "facts": "Fighting near a hospital in Ituri province, northeastern Democratic Republic of the Congo, disrupted the Ebola response, World Health Organization (WHO) Director-General Tedros Adhanom Ghebreyesus said on November 22, 2026. According to Tedros, WHO personnel and humanitarian partners sheltered in the hospital's maternity ward for more than 24 hours while the organization sought safe passage. Government figures reported by Reuters on November 22 showed that the outbreak declared on May 15, 2026 had caused more than 11,000 infections and 5,500 deaths; these are cumulative outbreak figures, not casualties from the fighting.",
+        "analysis": "Disrupting a hospital in an outbreak area affects care, patient isolation and contact tracing at the same time. The danger extends beyond the sheltered workers because continuity of health operations requires safe access for teams and patients. The cumulative outbreak figures show the scale of the health emergency, but cannot establish how many additional infections might be attributable to this particular episode of violence.",
+        "counterpoint": "The maternity-ward account came from the WHO director-general and was reported by Reuters and Al Jazeera. At the time of reporting, there was no independent confirmation of who was responsible for the fighting, how many people were sheltering, or whether a safe evacuation had been completed. Ebola outbreak totals must not be confused with casualties from the clashes.",
+        "slug": "fighting-near-congo-hospital-disrupts-ebola-response-who-chief-warns-2026-11-23"
+      },
+      "es": {
+        "title": "COMBATES CERCA DE HOSPITAL EN CONGO INTERRUMPEN RESPUESTA AL ÉBOLA, ADVIERTE LA OMS",
+        "subtitle": "Los enfrentamientos en Ituri obligaron a personal sanitario a refugiarse más de 24 horas en una maternidad, según la OMS.",
+        "category": "MUNDO",
+        "facts": "Los combates cerca de un hospital en la provincia de Ituri, noreste de la República Democrática del Congo, interrumpieron la respuesta al ébola, informó el 22 de noviembre de 2026 el director general de la Organización Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus. Según Tedros, trabajadores de la OMS y socios humanitarios permanecieron refugiados en la maternidad del hospital durante más de 24 horas mientras se buscaba un paso seguro. Según datos del Gobierno congoleño citados por Reuters el 22 de noviembre, el brote declarado el 15 de mayo de 2026 había causado más de 11.000 infecciones y 5.500 muertes; son cifras acumuladas del brote, no víctimas de los enfrentamientos.",
+        "analysis": "La interrupción de un hospital en una zona de transmisión perjudica a la vez la atención, el aislamiento de pacientes y el rastreo de contactos. El riesgo va más allá del personal refugiado: la continuidad de las operaciones sanitarias exige acceso seguro para equipos y pacientes. Las cifras acumuladas muestran la magnitud de la emergencia, pero no permiten calcular cuántas infecciones adicionales pueden atribuirse a este episodio concreto de violencia.",
+        "counterpoint": "El relato sobre la maternidad procede del director general de la OMS y fue recogido por Reuters y Al Jazeera. Al cierre de la información no había confirmación independiente sobre los responsables de los combates, el número de personas refugiadas ni la conclusión de una evacuación segura. Las cifras acumuladas de ébola no deben confundirse con víctimas de los enfrentamientos.",
+        "slug": "combates-cerca-de-hospital-en-congo-interrumpen-respuesta-al-ebola-advierte-la-2026-11-23"
+      },
+      "firstSeen": "2026-11-23T01:57:38-03:00"
+    },
+    {
       "id": "falha-sistema-delta-atrasa-mais-1600-voos-eua-2026-11-23",
       "date": "2026-11-23",
       "title": "FALHA NA DELTA ATRASA MAIS DE 1.600 VOOS NOS EUA ÀS VÉSPERAS DO THANKSGIVING",
