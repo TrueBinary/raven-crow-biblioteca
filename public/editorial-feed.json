@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "id": "nvidia-reconduz-jensen-huang-ceo-acoes-disparam-2026-11-23",
+      "date": "2026-11-23",
+      "category": "TECNOLOGIA",
+      "title": "NVIDIA RECONDUZ JENSEN HUANG AO COMANDO; CONSELHO MANTÉM INVESTIGAÇÃO",
+      "subtitle": "Conselho da Nvidia aprovou por unanimidade a volta de Jensen Huang como CEO, mas mantém apuração independente sobre riscos de segurança.",
+      "facts": "A Nvidia anunciou em 23 de novembro de 2026, em Santa Clara, Califórnia, a recondução imediata de Jensen Huang aos cargos de presidente-executivo, presidente da empresa e integrante do conselho, após decisão unânime dos diretores, segundo comunicado oficial da companhia. A decisão reverte a saída anunciada em 12 de novembro de 2026, conforme outro comunicado da Nvidia. Segundo o registro enviado à Comissão de Valores Mobiliários dos Estados Unidos (SEC), o conselho formalizou a recondução em 22 de novembro; o anúncio público ocorreu no dia seguinte. Colette Kress deixa o posto de CEO interina e permanece diretora financeira.",
+      "analysis": "A mudança evidencia a dependência estratégica da Nvidia de seu cofundador em um momento de intensa demanda por chips de inteligência artificial. O conselho afirmou ter consultado autoridades do governo americano antes de concluir que a recondução não representa risco à segurança nacional. A Reuters relatou forte reação positiva das ações, mas a valorização de mercado não equivale a uma conclusão sobre as investigações. O ponto decisivo para acionistas e clientes é a separação entre continuidade operacional, governança e conformidade com controles de exportação.",
+      "counterpoint": "A recondução não encerra a apuração independente sobre relatos de possível atuação de inteligência estrangeira envolvendo Huang. A Nvidia afirmou que o comitê seguirá investigando e anunciou uma estrutura de supervisão de segurança nacional e controles de exportação, além de procurar um diretor de conformidade. Suspeitas e alegações ainda não devem ser tratadas como fatos comprovados.",
+      "sources": [
+        {
+          "name": "Nvidia — comunicado oficial, 23/11/2026",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx"
+        },
+        {
+          "name": "Nvidia — transição anunciada em 12/11/2026",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/default.aspx"
+        },
+        {
+          "name": "SEC — Form 8-K de 23/11/2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20261122.htm"
+        },
+        {
+          "name": "Reuters — 23/11/2026",
+          "url": "https://www.reuters.com/technology/nvidia-reinstates-jensen-huang-ceo-2026-11-23/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Jensen_Huang_20231109.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 2.0",
+          "credit": "Gabinete Presidencial de Taiwan (總統府)",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_20231109.jpg",
+          "caption": "FOTO DE ARQUIVO (9 de novembro de 2023): Jensen Huang em cerimônia em Taiwan. Crédito: Gabinete Presidencial de Taiwan, CC BY 2.0. Não retrata a recondução de 2026."
+        }
+      ],
+      "en": {
+        "title": "NVIDIA REINSTATES JENSEN HUANG AS CEO WHILE INDEPENDENT INVESTIGATION CONTINUES",
+        "subtitle": "Nvidia's board unanimously reinstated Jensen Huang as CEO, while an independent national-security-related inquiry remains open.",
+        "category": "TECHNOLOGY",
+        "facts": "Nvidia announced on November 23, 2026, in Santa Clara, California, that Jensen Huang was reinstated immediately as chief executive, president and board member following a unanimous board vote, according to the company's official statement. The move reversed the leadership transition announced on November 12, 2026, according to Nvidia's earlier release. A filing with the US Securities and Exchange Commission (SEC) states that the board acted on November 22, one day before the public announcement. Interim CEO Colette Kress remains chief financial officer.",
+        "analysis": "The reversal underscores Nvidia's reliance on its cofounder as demand for artificial-intelligence chips remains central to its business. The board said it consulted senior US officials before concluding that Huang's return posed no national-security risk. Reuters reported a sharp positive share-price reaction, but market enthusiasm is not evidence that outstanding inquiries have been resolved. The distinction between operational continuity, corporate governance and export-control compliance remains important.",
+        "counterpoint": "The reinstatement does not conclude the independent investigation into reports that Huang may have been targeted by foreign intelligence. Nvidia says its committee will continue its work and has established additional national-security and export-control oversight while seeking a chief compliance officer. Allegations remain allegations until substantiated.",
+        "photo_captions": {
+          "1": "FILE PHOTO (November 9, 2023): Jensen Huang at a ceremony in Taiwan. Credit: Taiwan Presidential Office, CC BY 2.0. Does not depict the 2026 reinstatement."
+        },
+        "slug": "nvidia-reinstates-jensen-huang-as-ceo-while-independent-investigation-continues-2026-11-23"
+      },
+      "es": {
+        "title": "NVIDIA RESTITUYE A JENSEN HUANG COMO DIRECTOR EJECUTIVO Y MANTIENE UNA INVESTIGACIÓN",
+        "subtitle": "El consejo de Nvidia restituyó por unanimidad a Jensen Huang como director ejecutivo, mientras continúa una investigación independiente.",
+        "category": "TECNOLOGÍA",
+        "facts": "Nvidia anunció el 23 de noviembre de 2026, en Santa Clara, California, la reincorporación inmediata de Jensen Huang como director ejecutivo, presidente y miembro del consejo tras una votación unánime, según el comunicado oficial de la empresa. La decisión revierte la transición anunciada el 12 de noviembre de 2026, de acuerdo con el comunicado anterior de Nvidia. Un documento presentado ante la Comisión de Bolsa y Valores de Estados Unidos (SEC) indica que el consejo tomó la decisión el 22 de noviembre, un día antes del anuncio público. Colette Kress deja la dirección interina y continúa como directora financiera.",
+        "analysis": "El cambio pone de relieve la dependencia estratégica de Nvidia de su cofundador en un mercado impulsado por los chips para inteligencia artificial. El consejo afirmó haber consultado a altos funcionarios estadounidenses antes de concluir que el regreso no suponía un riesgo para la seguridad nacional. Reuters informó de una fuerte reacción positiva de las acciones, pero la subida bursátil no resuelve las investigaciones pendientes. La continuidad operativa, la gobernanza y el cumplimiento de las restricciones de exportación son cuestiones diferentes.",
+        "counterpoint": "La reincorporación no pone fin a la investigación independiente sobre informes de un posible intento de inteligencia extranjera de acercarse a Huang. Nvidia indicó que el comité seguirá trabajando y creó mecanismos adicionales de supervisión de seguridad nacional y controles de exportación, además de buscar un responsable de cumplimiento. Las acusaciones no deben presentarse como hechos probados.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (9 de noviembre de 2023): Jensen Huang en una ceremonia en Taiwán. Crédito: Oficina Presidencial de Taiwán, CC BY 2.0. No muestra la reincorporación de 2026."
+        },
+        "slug": "nvidia-restituye-a-jensen-huang-como-director-ejecutivo-y-mantiene-una-2026-11-23"
+      },
+      "firstSeen": "2026-11-23T13:00:00-03:00"
+    },
+    {
       "id": "receita-consulta-lote-residual-ir-223793-restituicoes-2026-11-23",
       "date": "2026-11-23",
       "title": "RECEITA ABRE CONSULTA A 223,8 MIL RESTITUIÇÕES DO IR; PAGAMENTO SERÁ EM 30 DE NOVEMBRO",
