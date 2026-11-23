@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "china-plano-cuidados-idosos-criancas-metas-2030-2026-11-23",
+      "date": "2026-11-23",
+      "title": "CHINA DIVULGA PLANO DE CUIDADOS COM IDOSOS E CRIANÇAS COM METAS ATÉ 2030",
+      "subtitle": "Governo chinês estabelece metas para leitos de cuidados, atendimento comunitário e creches até 2030.",
+      "category": "MUNDO",
+      "facts": "A Comissão Nacional de Desenvolvimento e Reforma da China divulgou em 23 de novembro de 2026 um plano nacional para ampliar os serviços de atendimento a idosos e crianças até 2030, diante do envelhecimento da população e da queda da natalidade. Segundo o documento oficial, os leitos destinados a cuidados de enfermagem deverão representar 73% das vagas em instituições para idosos até 2030, e a cobertura de instalações comunitárias de atendimento deverá chegar a 70%. O plano também prevê elevar em 6 pontos percentuais, em relação a 2025, a taxa de matrícula de crianças menores de três anos em serviços de cuidado, segundo a comissão. O texto fixa objetivos nacionais, mas não comprova que essas metas já foram alcançadas.",
+      "analysis": "O documento combina metas para duas pressões demográficas: mais pessoas idosas necessitando de assistência e menos nascimentos. A proposta prevê modernizar instituições, ampliar serviços próximos das residências e incentivar creches em locais de trabalho. A meta de 73% diz respeito à proporção de leitos de enfermagem dentro das instituições, não à parcela de idosos atendidos; a de 70% mede cobertura de instalações comunitárias, não acesso individual garantido. A distinção evita interpretar metas administrativas como atendimento universal. O plano também aponta fontes de financiamento, incluindo orçamento central, títulos especiais de governos locais e crédito comercial.",
+      "counterpoint": "As metas para 2030 são compromissos de planejamento, não resultados observados. A implementação dependerá de financiamento, pessoal e capacidade dos governos locais. O documento não demonstra por si só que a expansão será homogênea entre áreas urbanas e rurais.",
+      "sources": [
+        {
+          "name": "Comissão Nacional de Desenvolvimento e Reforma da China — plano oficial, 23/11/2026",
+          "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202611/P020261123356825007351.pdf"
+        },
+        {
+          "name": "Reuters — 23/11/2026",
+          "url": "https://www.reuters.com/world/china/china-sets-2030-targets-boost-support-older-people-childcare-2026-11-23/"
+        },
+        {
+          "name": "Xinhua — 23/11/2026",
+          "url": "https://www2.xinhuanet.com/politics/20261123/b4229c255dfe40bba8e7730552a01685/c.html"
+        }
+      ],
+      "en": {
+        "title": "CHINA SETS 2030 TARGETS FOR ELDERLY CARE AND CHILDCARE SERVICES",
+        "subtitle": "China sets targets for nursing beds, community elderly care and childcare enrolment by 2030.",
+        "category": "WORLD",
+        "facts": "China's National Development and Reform Commission published a national plan on November 23, 2026 to expand elderly care and childcare services by 2030 amid population ageing and declining births. According to the official plan, nursing-care beds are to account for 73% of beds in elderly care institutions by 2030, while community elderly care facilities are to reach 70% coverage. The commission also targets a 6-percentage-point increase in childcare enrolment for children under three compared with 2025. These are targets, not evidence that the services have already expanded to those levels.",
+        "analysis": "The plan addresses two demographic pressures at once: rising demand for elderly assistance and falling births. It calls for upgrading institutions, improving neighbourhood services and encouraging workplace childcare, backed by central funding, local-government bonds and commercial credit. The 73% figure measures the share of nursing beds inside institutions, not the share of older people receiving care; the 70% figure concerns facility coverage, not guaranteed access for every resident.",
+        "counterpoint": "The 2030 figures are policy targets rather than achieved outcomes. Implementation depends on staffing, funding and local administrative capacity; the plan does not establish equal access in urban and rural areas.",
+        "slug": "china-sets-2030-targets-for-elderly-care-and-childcare-services-2026-11-23"
+      },
+      "es": {
+        "title": "CHINA FIJA METAS DE ATENCIÓN A MAYORES Y CUIDADO INFANTIL PARA 2030",
+        "subtitle": "China establece objetivos de camas asistenciales, centros comunitarios y atención infantil para 2030.",
+        "category": "MUNDO",
+        "facts": "La Comisión Nacional de Desarrollo y Reforma de China publicó el 23 de noviembre de 2026 un plan nacional para ampliar la atención a personas mayores y niños hasta 2030, ante el envejecimiento demográfico y la caída de la natalidad. Según el documento oficial, las camas de cuidados de enfermería deberán representar el 73% de las plazas en instituciones para mayores en 2030, mientras que la cobertura de centros comunitarios deberá alcanzar el 70%. La comisión también prevé aumentar en 6 puntos porcentuales, frente a 2025, la tasa de asistencia a servicios de cuidado para menores de tres años. Se trata de objetivos, no de resultados ya alcanzados.",
+        "analysis": "El plan responde simultáneamente al aumento de la demanda de cuidados para mayores y al descenso de los nacimientos. Propone renovar centros, ampliar servicios de proximidad e impulsar guarderías en lugares de trabajo, con financiación del presupuesto central, bonos de gobiernos locales y crédito comercial. El 73% mide la proporción de camas de enfermería dentro de instituciones, no la proporción de mayores atendidos; el 70% se refiere a cobertura de instalaciones, no a acceso garantizado para cada persona.",
+        "counterpoint": "Las cifras de 2030 son metas de política pública y no logros comprobados. Su cumplimiento dependerá de financiación, personal y capacidad local; el documento no demuestra una expansión uniforme entre zonas urbanas y rurales.",
+        "slug": "china-fija-metas-de-atencion-a-mayores-y-cuidado-infantil-para-2030-2026-11-23"
+      },
+      "firstSeen": "2026-11-23T06:02:45-03:00"
+    },
+    {
       "id": "ataques-russos-regiao-kiev-15-mortos-dymer-2026-11-23",
       "date": "2026-11-23",
       "title": "ATAQUES RUSSOS NA REGIÃO DE KIEV DEIXAM AO MENOS 15 MORTOS; RESGATES CONTINUAM EM DYMER",
