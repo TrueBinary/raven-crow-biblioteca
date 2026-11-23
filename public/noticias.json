@@ -2,9 +2,49 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-23T18:00:48-03:00",
+  "updatedAt": "2026-11-23T19:00:08-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "uniao-europeia-propoe-22-pacote-sancoes-russia-60-bancos-2026-11-23",
+      "date": "2026-11-23",
+      "category": "MUNDO",
+      "title": "UNIÃO EUROPEIA PROPÕE 22º PACOTE DE SANÇÕES À RÚSSIA COM 60 BANCOS NA MIRA",
+      "subtitle": "Comissão Europeia quer ampliar restrições a bancos, petroleiros e esportes; medidas ainda dependem de aprovação unânime.",
+      "facts": "A Comissão Europeia apresentou em Estrasburgo, na França, em 23 de novembro de 2026, uma proposta para o 22º pacote de sanções da União Europeia contra a Rússia, em resposta à guerra na Ucrânia, segundo declaração oficial da presidente da Comissão, Ursula von der Leyen. De acordo com a Comissão Europeia, a proposta pretende restringir transações de cerca de 60 bancos russos e excluí-los da rede de mensagens financeiras SWIFT. Ainda segundo a Comissão, mais de 70 embarcações associadas à chamada frota paralela russa seriam acrescentadas às listas de restrições. A proposta também prevê limites a serviços de energia, redes de criptomoedas, vistos para ex-combatentes russos e participação sob a bandeira russa em eventos esportivos europeus. As medidas não entraram automaticamente em vigor com o anúncio: dependem da aprovação unânime dos 27 Estados-membros, conforme a Associated Press.",
+      "analysis": "A novidade amplia a estratégia de pressionar receitas e canais financeiros associados ao esforço de guerra russo, mas combina instrumentos distintos. A restrição bancária procura dificultar pagamentos internacionais; as medidas contra petroleiros e serviços de energia procuram elevar o custo logístico de exportações; as proibições esportivas e de vistos têm efeito diplomático e de segurança, não equivalente a um embargo comercial. O pacote anterior, o 21º, foi adotado em julho de 2026, segundo o Conselho da União Europeia. É importante distinguir proposta da Comissão, aprovação política pelos governos e aplicação efetiva por operadores e autoridades nacionais.",
+      "counterpoint": "O anúncio não significa que todos os 60 bancos já tenham sido desligados da SWIFT, nem que os mais de 70 navios estejam imediatamente sancionados. O texto pode mudar durante a negociação entre os 27 governos. Também não há demonstração, apenas a partir do anúncio, de quanto a proposta reduziria receitas russas ou alteraria o curso da guerra.",
+      "sources": [
+        {
+          "name": "Comissão Europeia — declaração de Ursula von der Leyen, 23/11/2026",
+          "url": "https://cyprus.representation.ec.europa.eu/news/statement-president-von-der-leyen-22nd-package-sanctions-against-russia-2026-11-23_en"
+        },
+        {
+          "name": "Associated Press — proposta do 22º pacote, 23/11/2026",
+          "url": "https://apnews.com/article/ecad86868390f6602b346c70d1fa5757"
+        },
+        {
+          "name": "Conselho da União Europeia — 21º pacote, 23/07/2026",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/07/23/21st-package-of-sanctions-eu-hits-russian-energy-financial-services-and-crypto-hard/"
+        }
+      ],
+      "en": {
+        "title": "EU PROPOSES 22ND RUSSIA SANCTIONS PACKAGE TARGETING 60 BANKS",
+        "subtitle": "European Commission proposes wider banking, tanker and sports restrictions; unanimous approval is still required.",
+        "category": "WORLD",
+        "facts": "The European Commission presented a proposal for the European Union's 22nd sanctions package against Russia in Strasbourg, France, on November 23, 2026, in response to the war in Ukraine, according to an official statement by Commission President Ursula von der Leyen. The Commission said the proposal would restrict transactions involving about 60 Russian banks and remove them from the SWIFT financial messaging network. It also proposed listing more than 70 additional vessels linked to Russia's shadow fleet, according to the Commission. Other proposed measures target energy services, cryptocurrency networks, visas for former Russian combatants and Russian-flag participation in European sporting events. The announcement did not bring the measures into force: approval by all 27 EU member states is required, the Associated Press reported.",
+        "analysis": "The proposal seeks to raise the financial and logistical costs of Russia's war effort through different channels. Bank restrictions would complicate cross-border payments; shipping and energy-service restrictions would affect export logistics; sports and visa measures have diplomatic and security aims rather than the same effect as a trade embargo. The previous, 21st package was adopted in July 2026, according to the Council of the European Union. A Commission proposal, unanimous political agreement and actual enforcement are separate stages.",
+        "counterpoint": "The announcement does not mean all 60 banks have already been disconnected from SWIFT or that more than 70 vessels are already subject to new restrictions. The measures may change during negotiations among the 27 governments. Their eventual economic or military impact cannot be quantified from the announcement alone."
+      },
+      "es": {
+        "title": "LA UE PROPONE SU 22.º PAQUETE DE SANCIONES A RUSIA Y APUNTA A 60 BANCOS",
+        "subtitle": "La Comisión Europea plantea nuevas restricciones financieras, marítimas y deportivas, pendientes de aprobación unánime.",
+        "category": "MUNDO",
+        "facts": "La Comisión Europea presentó en Estrasburgo, Francia, el 23 de noviembre de 2026 una propuesta para el 22.º paquete de sanciones de la Unión Europea contra Rusia por la guerra en Ucrania, según una declaración oficial de su presidenta, Ursula von der Leyen. Según la Comisión, la propuesta restringiría las transacciones de unos 60 bancos rusos y los excluiría de la red de mensajería financiera SWIFT. La Comisión también propone incorporar más de 70 buques vinculados a la llamada flota en la sombra rusa a las listas restrictivas. Otras medidas previstas afectan a servicios energéticos, redes de criptomonedas, visados para excombatientes rusos y participación bajo bandera rusa en eventos deportivos europeos. El anuncio no supone la entrada en vigor inmediata: se requiere el respaldo unánime de los 27 Estados miembros, informó Associated Press.",
+        "analysis": "La propuesta pretende aumentar los costes financieros y logísticos de la guerra rusa mediante instrumentos distintos. Las restricciones bancarias dificultarían pagos internacionales; las medidas marítimas y energéticas afectarían a la logística de exportación; las prohibiciones deportivas y de visados responden a objetivos diplomáticos y de seguridad. El 21.º paquete fue aprobado en julio de 2026, según el Consejo de la Unión Europea. Una propuesta de la Comisión, el acuerdo político y la aplicación efectiva son etapas diferentes.",
+        "counterpoint": "El anuncio no implica que los 60 bancos ya estén desconectados de SWIFT ni que más de 70 buques hayan recibido sanciones inmediatas. El texto podría modificarse durante las negociaciones entre los 27 gobiernos. Tampoco permite cuantificar todavía su impacto económico o militar."
+      }
+    },
     {
       "id": "chuvas-sao-paulo-34-desalojados-buscas-tamanduatei-2026-11-23",
       "date": "2026-11-23",
