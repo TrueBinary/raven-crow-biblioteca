@@ -2,9 +2,49 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-23T03:15:00.000Z",
+  "updatedAt": "2026-11-23T01:04:56-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "falha-sistema-delta-atrasa-mais-1600-voos-eua-2026-11-23",
+      "date": "2026-11-23",
+      "title": "FALHA NA DELTA ATRASA MAIS DE 1.600 VOOS NOS EUA ÀS VÉSPERAS DO THANKSGIVING",
+      "subtitle": "Problema no sistema de peso e balanceamento da Delta afetou voos nos EUA no domingo; empresa informou que o serviço foi restabelecido.",
+      "category": "MUNDO",
+      "facts": "A companhia aérea Delta Air Lines enfrentou em 22 de novembro de 2026, nos Estados Unidos, uma falha no sistema automatizado que calcula peso e balanceamento de aeronaves, com impactos importantes em Atlanta. Segundo a Delta, em declaração reproduzida pela ABC News em 22 de novembro, mais de 1.600 voos da empresa sofreram atrasos pelo país. De acordo com dados do FlightAware citados pela Associated Press, ao meio-dia de domingo 48% dos voos da companhia estavam atrasados; a Administração Federal de Aviação dos Estados Unidos (FAA) informou que seus próprios sistemas de tráfego aéreo não causaram a interrupção. A empresa afirmou posteriormente que o sistema havia voltado ao funcionamento normal e que não se tratava de ataque cibernético.",
+      "analysis": "O cálculo de peso e balanceamento é parte da preparação de cada decolagem: a distribuição da carga e dos passageiros influencia os limites operacionais e o centro de gravidade do avião. A interrupção de uma ferramenta de despacho pode, portanto, atrasar uma rede inteira de conexões mesmo sem falha no controle de tráfego aéreo. O episódio ocorreu na semana do feriado de Ação de Graças, período de demanda elevada nos Estados Unidos. O número de atrasos não significa que todos os voos tenham sido cancelados, nem que cada atraso tenha sido provocado exclusivamente pela falha.",
+      "counterpoint": "As contagens de atrasos variaram ao longo do dia e entre fontes, pois são retratos de horários diferentes. A Delta declarou que a falha não foi causada por invasão informática; essa declaração não equivale a uma auditoria técnica independente. Não há confirmação de que os sistemas da FAA tenham falhado neste incidente.",
+      "sources": [
+        {
+          "name": "ABC News — 22/11/2026",
+          "url": "https://abcnews.com/US/equipment-outage-atlanta-causes-1300-delta-flight-delays/story?id=138360900"
+        },
+        {
+          "name": "Associated Press — 22/11/2026",
+          "url": "https://apnews.com/article/delta-atlanta-flight-delays-d4bdb732da930205ec3453d35c28daa2"
+        },
+        {
+          "name": "Reuters — 22/11/2026",
+          "url": "https://www.reuters.com/business/aerospace-defense/delta-flights-faced-brief-delays-at-atlanta-airport-over-automated-system-issue-2026-11-22/"
+        }
+      ],
+      "en": {
+        "title": "DELTA SYSTEM FAILURE DELAYS MORE THAN 1,600 US FLIGHTS AHEAD OF THANKSGIVING",
+        "subtitle": "A Delta weight-and-balance system outage disrupted US flights on Sunday; the airline later said the system had been restored.",
+        "category": "WORLD",
+        "facts": "Delta Air Lines experienced an automated aircraft weight-and-balance system outage on November 22, 2026, in the United States, with significant disruption in Atlanta. According to Delta, as reported by ABC News on November 22, more than 1,600 of its flights were delayed nationwide. FlightAware figures cited by the Associated Press showed 48% of Delta flights delayed by midday Sunday; the US Federal Aviation Administration (FAA) said its own air traffic systems did not cause the disruption. Delta later said its system was restored and that the incident was not a cyberattack.",
+        "analysis": "Weight-and-balance calculations are essential to flight dispatch because load distribution affects operating limits and an aircraft's center of gravity. A disruption to a dispatch tool can therefore ripple across connecting flights even without an air traffic control failure. The outage came ahead of the busy US Thanksgiving travel period. Delayed flights are not the same as canceled flights, and not every delay can necessarily be attributed solely to this outage.",
+        "counterpoint": "Delay totals changed throughout the day and differed by reporting time. Delta said the outage was not caused by a cyberattack, but that statement is not an independent technical audit. There is no confirmation of an FAA systems failure in this incident."
+      },
+      "es": {
+        "title": "FALLA EN DELTA RETRASA MÁS DE 1.600 VUELOS EN EE. UU. ANTES DE ACCIÓN DE GRACIAS",
+        "subtitle": "Una falla en el sistema de peso y equilibrio de Delta afectó vuelos el domingo; la aerolínea dijo después que restableció el servicio.",
+        "category": "MUNDO",
+        "facts": "Delta Air Lines sufrió el 22 de noviembre de 2026, en Estados Unidos, una falla de su sistema automatizado de peso y equilibrio de aeronaves, con importantes consecuencias en Atlanta. Según Delta, citada por ABC News el 22 de noviembre, más de 1.600 vuelos de la compañía registraron retrasos en todo el país. Los datos de FlightAware citados por Associated Press indicaban que el 48% de los vuelos de Delta acumulaban retrasos al mediodía del domingo; la Administración Federal de Aviación de Estados Unidos (FAA) señaló que sus sistemas de control de tráfico aéreo no causaron la interrupción. Delta informó posteriormente que el sistema volvió a funcionar y que no se trató de un ciberataque.",
+        "analysis": "Los cálculos de peso y equilibrio son esenciales antes del despegue porque la distribución de la carga afecta los límites operativos y el centro de gravedad del avión. Por eso, una falla en una herramienta de despacho puede repercutir en toda una red de conexiones incluso sin problemas en el control aéreo. El incidente ocurrió antes del período de viajes por Acción de Gracias. Un vuelo retrasado no equivale a uno cancelado, y no todos los retrasos pueden atribuirse necesariamente solo a esta falla.",
+        "counterpoint": "Las cifras de retrasos cambiaron durante el día y varían según la hora de medición. Delta afirmó que no hubo un ciberataque, pero esa declaración no sustituye una auditoría técnica independiente. No hay confirmación de una falla en los sistemas de la FAA durante este incidente."
+      }
+    },
     {
       "id": "mexico-captura-chapo-isidro-guasave-11-mortos-2026-11-23",
       "date": "2026-11-23",
