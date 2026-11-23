@@ -2,9 +2,53 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-23T00:55:10.000Z",
+  "updatedAt": "2026-11-23T03:15:00.000Z",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "mexico-captura-chapo-isidro-guasave-11-mortos-2026-11-23",
+      "date": "2026-11-23",
+      "title": "MÉXICO CAPTURA 'CHAPO ISIDRO' EM SINALOA; OPERAÇÃO DEIXA 11 MORTOS",
+      "subtitle": "Forças mexicanas prenderam suspeito de liderar cartel em Guasave; operação deixou quatro militares e sete suspeitos mortos.",
+      "category": "MUNDO",
+      "facts": "Forças especiais do Exército e da Guarda Nacional do México capturaram Fausto Isidro Meza Flores, conhecido como 'Chapo Isidro', em Guasave, no estado de Sinaloa, em 20 de novembro de 2026. Segundo a Secretaria da Defesa Nacional mexicana, a operação resultou na morte de 4 militares e 7 supostos agressores; o balanço foi detalhado em comunicado de 21 de novembro de 2026. A mesma secretaria informou que 8 suspeitos foram detidos, dos quais 3 foram transferidos para a Cidade do México, e que houve cooperação de inteligência com autoridades dos Estados Unidos. A situação jurídica dos detidos seria determinada pelo Ministério Público Federal mexicano; as acusações ainda dependem de decisão judicial.",
+      "analysis": "A captura atinge uma liderança apontada pelas autoridades mexicanas como integrante da organização Beltrán Leyva e aliada à facção 'Mayos' do Cartel do Pacífico. O deslocamento dos detidos para a capital e a mobilização militar mostram a dimensão da operação, mas prender dirigentes não equivale a desarticular redes de distribuição e financiamento. Para moradores de Guasave, a questão imediata é a segurança após confrontos e bloqueios; para os governos do México e dos Estados Unidos, o teste será demonstrar redução sustentada da violência e responsabilização judicial, não apenas anunciar prisões.",
+      "counterpoint": "As informações sobre vínculos criminosos e mortes são atribuídas às autoridades mexicanas e não substituem julgamento. A secretaria informou não ter registrado vítimas alheias ao confronto até seu último balanço, dado que pode mudar com novas apurações. Não há evidência suficiente para afirmar que a prisão encerrará a disputa entre facções.",
+      "sources": [
+        {
+          "name": "Secretaría de la Defensa Nacional de México, 21/11/2026",
+          "url": "https://www.gob.mx/defensa/prensa/seguimiento-a-la-operacion-de-captura-de-fausto-n-a-chapo-isidro-jefe-de-la-organizacion-delictiva-beltran-leyva"
+        },
+        {
+          "name": "Secretaría de la Defensa Nacional de México, comunicado de captura, 21/11/2026",
+          "url": "https://www.gob.mx/defensa/prensa/fuerzas-especiales-de-la-guardia-nacional-y-del-ejercito-detienen-a-fausto-n-a-chapo-isidro"
+        },
+        {
+          "name": "Associated Press, 22/11/2026",
+          "url": "https://apnews.com/article/7301b67a1b1b974bc6bd20c9d030ce07"
+        },
+        {
+          "name": "Reuters, 21/11/2026",
+          "url": "https://www.reuters.com/world/americas/mexico-captures-top-drug-lord-el-chapo-isidro-latest-string-captures-2026-11-21/"
+        }
+      ],
+      "en": {
+        "title": "MEXICO CAPTURES 'CHAPO ISIDRO' IN SINALOA; OPERATION LEAVES 11 DEAD",
+        "subtitle": "Mexican forces arrested an alleged cartel leader in Guasave; four soldiers and seven alleged attackers died in the operation.",
+        "category": "WORLD",
+        "facts": "Special forces from Mexico's Army and National Guard captured Fausto Isidro Meza Flores, known as 'Chapo Isidro', in Guasave, Sinaloa state, on November 20, 2026. According to Mexico's Secretariat of National Defense, 4 soldiers and 7 alleged attackers were killed; the figures were detailed in a November 21, 2026 statement. The same agency reported 8 arrests, including 3 suspects transferred to Mexico City, and said US intelligence agencies had cooperated. Federal prosecutors were to determine the detainees' legal status; the allegations remain subject to judicial proceedings.",
+        "analysis": "Mexican authorities identify the detainee as a leader linked to the Beltrán Leyva organization and allied with the Pacific Cartel's 'Mayos' faction. His transfer to the capital underscores the scale of the operation, but arresting leaders does not necessarily dismantle trafficking and financing networks. For Guasave residents, the immediate issue is security following clashes and roadblocks; for both governments, the longer-term test is sustained reductions in violence and judicial accountability.",
+        "counterpoint": "Allegations about criminal affiliations and the casualty count are attributed to Mexican authorities, not court findings. Officials said they had no reports of uninvolved civilian casualties at the time of their statement, but that assessment may change. The arrest alone does not establish that factional violence will end."
+      },
+      "es": {
+        "title": "MÉXICO CAPTURA AL 'CHAPO ISIDRO' EN SINALOA; OPERATIVO DEJA 11 MUERTOS",
+        "subtitle": "Fuerzas mexicanas detuvieron a un presunto líder criminal en Guasave; murieron cuatro militares y siete presuntos agresores.",
+        "category": "MUNDO",
+        "facts": "Fuerzas especiales del Ejército y de la Guardia Nacional de México capturaron a Fausto Isidro Meza Flores, conocido como 'Chapo Isidro', en Guasave, estado de Sinaloa, el 20 de noviembre de 2026. Según la Secretaría de la Defensa Nacional de México, murieron 4 militares y 7 presuntos agresores; las cifras se detallaron en un comunicado del 21 de noviembre de 2026. La misma institución informó de 8 detenidos, entre ellos 3 trasladados a Ciudad de México, y de cooperación de inteligencia con Estados Unidos. La situación jurídica de los detenidos quedaría a cargo del Ministerio Público Federal; las acusaciones están sujetas a resolución judicial.",
+        "analysis": "Las autoridades mexicanas señalan al detenido como dirigente vinculado a la organización Beltrán Leyva y aliado de la facción 'Mayos' del Cártel del Pacífico. Su traslado a la capital refleja la magnitud del operativo, pero capturar líderes no significa necesariamente desmantelar las redes de tráfico y financiación. Para los habitantes de Guasave, la prioridad es la seguridad tras los enfrentamientos y bloqueos; para ambos gobiernos, la prueba será una reducción sostenida de la violencia y la rendición de cuentas judicial.",
+        "counterpoint": "Las acusaciones sobre vínculos criminales y las cifras de fallecidos proceden de las autoridades mexicanas y no constituyen sentencias judiciales. La Secretaría afirmó que no tenía reportes de víctimas ajenas a los hechos en ese momento, algo que puede cambiar con nuevas investigaciones. La detención por sí sola no garantiza el fin de las disputas entre facciones."
+      }
+    },
     {
       "id": "temporais-parana-250-casas-907-afetados-2026-11-22",
       "date": "2026-11-22",
