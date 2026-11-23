@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "chuvas-sao-paulo-34-desalojados-buscas-tamanduatei-2026-11-23",
+      "date": "2026-11-23",
+      "category": "CIDADES",
+      "title": "TEMPORAIS EM SÃO PAULO DEIXAM 34 DESALOJADOS E BUSCAS NO TAMANDUATEÍ",
+      "subtitle": "Chuva derrubou muro na Penha, provocou resgates no Jabaquara e mobilizou bombeiros para localizar pessoa desaparecida.",
+      "facts": "As chuvas que atingiram São Paulo entre 22 e 23 de novembro de 2026 provocaram o desabamento de um muro de contenção na Penha, na zona leste, e mobilizaram buscas por uma pessoa levada pela correnteza do rio Tamanduateí, na Vila Monumento, segundo a Agência Brasil, com informações da Defesa Civil estadual. Segundo a Agência Brasil, 34 pessoas ficaram desalojadas após a interdição preventiva de 2 residências na Rua Malacacheta: 14 moradores de uma casa foram acolhidos por familiares, enquanto a proprietária da outra se comprometeu a realocar 20 inquilinos. A mesma reportagem informou que 3 pessoas, incluindo uma criança, foram resgatadas após serem arrastadas por enxurrada no Jabaquara e encaminhadas para atendimento médico. Na tarde de 23 de novembro, a Folha de S.Paulo relatou novo alerta severo da Defesa Civil às 16h18 e 49.255 imóveis sem energia na capital às 16h47, segundo a concessionária Enel. O estado da busca e os números de ocorrências podem mudar com novos boletins oficiais.",
+      "analysis": "O balanço combina dois riscos diferentes: danos estruturais em imóveis, que exigem avaliação técnica antes do retorno dos moradores, e a força da correnteza em vias e cursos d'água urbanos, que pode arrastar pessoas mesmo longe de áreas de deslizamento. Os 34 desalojados são moradores que precisaram deixar temporariamente suas casas; não representam, por si só, pessoas em abrigos públicos. A nova rodada de alertas na tarde de segunda-feira mostra que o risco não se encerrou com as ocorrências da noite anterior. Em áreas alagadas, a orientação é não atravessar a correnteza e acompanhar os avisos da Defesa Civil.",
+      "counterpoint": "Os relatos disponíveis divergem sobre o gênero da pessoa desaparecida no Tamanduateí; por isso, a identificação não é afirmada aqui. Os balanços divulgados em horários diferentes também podem mudar conforme as vistorias e buscas avançam. Não há confirmação nesta apuração de que a pessoa desaparecida tenha sido encontrada. A foto de arquivo não foi incluída porque a verificação técnica do JPEG por requisição direta não pôde ser concluída.",
+      "sources": [
+        {
+          "name": "Agência Brasil — balanço da Defesa Civil, 23/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/chuvas-deixam-34-desalojados-e-um-desaparecido-em-sao-paulo"
+        },
+        {
+          "name": "Folha de S.Paulo — atualização das chuvas e alertas, 23/11/2026",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/sao-paulo-em-estado-de-atencao-para-alagamentos-e-defesa-civil-envia-alerta-severo-nesta-segunda-23.shtml"
+        },
+        {
+          "name": "UOL — boletim de ocorrências, 23/11/2026",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/23/boletim-chuvas-sao-paulo.ghtm"
+        }
+      ],
+      "en": {
+        "title": "SÃO PAULO STORMS DISPLACE 34 PEOPLE AS SEARCH CONTINUES IN TAMANDUATEÍ RIVER",
+        "subtitle": "A collapsed wall in Penha displaced residents, while rescuers responded to flooding in Jabaquara and a missing person in the river.",
+        "category": "CITIES",
+        "facts": "Storms in São Paulo on November 22–23, 2026 caused a retaining wall to collapse in the eastern Penha district and prompted a search for a person swept into the Tamanduateí River near Vila Monumento, Agência Brasil reported, citing the state Civil Defense agency. According to Agência Brasil, 34 people were displaced after 2 homes on Rua Malacacheta were closed as a precaution: 14 residents stayed with relatives, while the owner of the second property pledged to relocate 20 tenants. The same report said 3 people, including a child, were rescued after floodwaters swept them away in Jabaquara and were taken for medical care. On November 23, Folha de S.Paulo reported a new severe weather warning at 4:18 p.m. and, citing utility Enel, 49,255 properties without power in the city at 4:47 p.m. Search results and incident totals may change with further official updates.",
+        "analysis": "The incidents highlight distinct risks: structural damage that requires professional inspection before residents return, and powerful urban flood currents capable of sweeping people away. The 34 displaced residents are not necessarily staying in public shelters. Renewed warnings on Monday afternoon show that the danger continued beyond Sunday's initial storm. Residents should avoid crossing floodwater and follow Civil Defense alerts.",
+        "counterpoint": "Available accounts disagree on the missing person's gender, so this report does not assert an identification. Totals may change as searches and inspections continue. No verified confirmation of the person's recovery was available for this report. An archival image was not attached because a direct HTTP check of the JPEG could not be completed.",
+        "slug": "sao-paulo-storms-displace-34-people-as-search-continues-in-tamanduatei-river-2026-11-23"
+      },
+      "es": {
+        "title": "TORMENTAS EN SÃO PAULO DEJAN 34 DESALOJADOS Y BÚSQUEDA EN EL RÍO TAMANDUATEÍ",
+        "subtitle": "Un muro se derrumbó en Penha, hubo rescates en Jabaquara y bomberos buscan a una persona arrastrada por la corriente.",
+        "category": "CIUDADES",
+        "facts": "Las tormentas que afectaron São Paulo entre el 22 y el 23 de noviembre de 2026 provocaron el derrumbe de un muro de contención en Penha, en la zona este, y una búsqueda de una persona arrastrada por el río Tamanduateí cerca de Vila Monumento, según Agência Brasil, que citó a la Defensa Civil estatal. De acuerdo con Agência Brasil, 34 personas quedaron desalojadas tras la clausura preventiva de 2 viviendas en Rua Malacacheta: 14 residentes fueron acogidos por familiares y la propietaria del segundo inmueble se comprometió a reubicar a 20 inquilinos. El mismo medio informó que 3 personas, entre ellas un menor, fueron rescatadas después de ser arrastradas por una riada en Jabaquara y trasladadas para recibir atención médica. El 23 de noviembre, Folha de S.Paulo informó de una nueva alerta severa a las 16:18 y, citando a Enel, de 49.255 inmuebles sin electricidad en la capital a las 16:47. Las cifras y el resultado de la búsqueda pueden cambiar con nuevos boletines oficiales.",
+        "analysis": "Los incidentes revelan riesgos diferentes: daños estructurales que requieren inspecciones antes de regresar a las viviendas y corrientes urbanas capaces de arrastrar personas. Los 34 desalojados no necesariamente están alojados en refugios públicos. Las nuevas alertas del lunes por la tarde indican que el peligro continuó después de la tormenta inicial. Se recomienda evitar cruzar zonas inundadas y seguir los avisos de Defensa Civil.",
+        "counterpoint": "Los relatos disponibles discrepan sobre el género de la persona desaparecida, por lo que no se afirma una identificación. Los balances pueden variar mientras continúan las búsquedas y las inspecciones. No se obtuvo confirmación verificada de que la persona haya sido localizada. No se añadió una fotografía de archivo porque no fue posible completar la comprobación HTTP directa del JPEG.",
+        "slug": "tormentas-en-sao-paulo-dejan-34-desalojados-y-busqueda-en-el-rio-tamanduatei-2026-11-23"
+      },
+      "firstSeen": "2026-11-23T18:00:48-03:00"
+    },
+    {
       "id": "galipolo-defende-revisao-regras-gastos-inflacao-2026-11-23",
       "date": "2026-11-23",
       "category": "ECONOMIA",
