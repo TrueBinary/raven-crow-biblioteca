@@ -2,9 +2,41 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-22T20:56:19.588Z",
+  "updatedAt": "2026-11-23T00:55:10.000Z",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "temporais-parana-250-casas-907-afetados-2026-11-22",
+      "date": "2026-11-22",
+      "title": "TEMPORAIS NO PARANÁ DANIFICAM 250 CASAS E DEIXAM 907 PESSOAS AFETADAS",
+      "subtitle": "Defesa Civil contabiliza 18 desalojados e quatro edificações destruídas; quase 49 mil unidades consumidoras estavam sem luz.",
+      "category": "BRASIL",
+      "facts": "Tempestades que atingiram o Paraná desde sexta-feira, 20 de novembro de 2026, danificaram residências e provocaram interrupções de energia em diferentes municípios do estado, segundo balanço divulgado pela Defesa Civil estadual no domingo, 22 de novembro. Conforme os dados da Defesa Civil reproduzidos pela Agência Brasil, 250 casas foram danificadas, quatro edificações foram destruídas, 18 pessoas ficaram desalojadas e 907 foram afetadas. De acordo com os números da Companhia Paranaense de Energia (Copel) informados à Agência Brasil, às 16h09 de domingo havia 48.837 unidades consumidoras sem fornecimento de eletricidade, incluindo 23.099 no oeste do Paraná, enquanto 512 equipes atuavam no restabelecimento. A Defesa Civil registrou vendavais em nove municípios, granizo em São José dos Pinhais e tornado em Manoel Ribas.",
+      "analysis": "Os números descrevem efeitos diferentes e não devem ser somados: 'afetados' inclui pessoas que perderam serviços essenciais, enquanto 'desalojados' se refere àquelas que precisaram deixar a residência. A concentração de interrupções de energia na região oeste evidencia que os impactos dos temporais não se limitam às casas fisicamente danificadas. A Agência Brasil informa que a combinação de baixa pressão no norte do Paraguai com uma frente estacionária no Paraná poderia manter condições de instabilidade até a madrugada de segunda-feira, 23 de novembro. Para moradores, a evolução do restabelecimento de energia e os próximos boletins da Defesa Civil são os indicadores mais úteis para acompanhar a situação.",
+      "counterpoint": "Os balanços são preliminares e podem mudar conforme as prefeituras atualizem os levantamentos. A contagem de unidades consumidoras sem energia é um retrato das 16h09 de 22 de novembro, não uma medição permanente. O registro de tornado em Manoel Ribas não significa que todos os municípios afetados tenham sido atingidos pelo mesmo fenômeno.",
+      "sources": [
+        {
+          "name": "Agência Brasil — balanço da Defesa Civil e Copel (22/11/2026)",
+          "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/tempestades-no-parana-deixam-mais-de-250-casas-danificadas"
+        }
+      ],
+      "en": {
+        "title": "STORMS DAMAGE 250 HOMES AND AFFECT 907 PEOPLE IN PARANÁ, BRAZIL",
+        "subtitle": "Civil Defense reports 18 displaced residents and four destroyed buildings; nearly 49,000 electricity customers were without power.",
+        "facts": "Storms affecting Paraná state in southern Brazil since Friday, November 20, 2026, damaged homes and disrupted electricity supplies across several municipalities, according to a Civil Defense update issued on Sunday, November 22. According to Civil Defense figures reported by Agência Brasil, 250 homes were damaged, four buildings destroyed, 18 people displaced and 907 people affected. Paraná electricity utility Companhia Paranaense de Energia (Copel), as cited by Agência Brasil, reported 48,837 customers without power at 4:09 p.m. on Sunday, including 23,099 in western Paraná, with 512 crews working on restoration. Civil Defense recorded windstorms in nine municipalities, hail in São José dos Pinhais and a tornado in Manoel Ribas.",
+        "analysis": "These figures describe different impacts and should not be added together: 'affected' includes people experiencing disruptions to essential services, while 'displaced' refers to those forced to leave their homes. The concentration of power outages in western Paraná shows the disruption extends beyond properties physically damaged. Agência Brasil reported that low pressure over northern Paraguay and a stationary front over Paraná could sustain unstable weather into the early hours of Monday, November 23. Updated power-restoration and Civil Defense reports will be important for residents.",
+        "counterpoint": "The figures are preliminary and may change as local authorities complete their assessments. The outage count is a snapshot from 4:09 p.m. on November 22, not a permanent total. The tornado reported in Manoel Ribas does not mean the same weather phenomenon struck every affected municipality.",
+        "category": "BRAZIL"
+      },
+      "es": {
+        "title": "TEMPORALES DAÑAN 250 VIVIENDAS Y AFECTAN A 907 PERSONAS EN PARANÁ, BRASIL",
+        "subtitle": "Defensa Civil registra 18 desplazados y cuatro edificios destruidos; casi 49.000 usuarios estaban sin electricidad.",
+        "facts": "Los temporales que afectan al estado brasileño de Paraná desde el viernes 20 de noviembre de 2026 dañaron viviendas e interrumpieron el suministro eléctrico en varios municipios, según el balance de Defensa Civil divulgado el domingo 22 de noviembre. De acuerdo con las cifras de Defensa Civil publicadas por Agência Brasil, 250 viviendas sufrieron daños, cuatro edificios quedaron destruidos, 18 personas tuvieron que abandonar sus hogares y 907 resultaron afectadas. La empresa eléctrica Companhia Paranaense de Energia (Copel), citada por Agência Brasil, informó de 48.837 usuarios sin electricidad a las 16:09 del domingo, incluidos 23.099 en el oeste del estado, mientras 512 equipos trabajaban en la reposición. Defensa Civil registró vendavales en nueve municipios, granizo en São José dos Pinhais y un tornado en Manoel Ribas.",
+        "analysis": "Las cifras reflejan consecuencias distintas y no deben sumarse: los 'afectados' incluyen a quienes perdieron servicios esenciales, mientras que los 'desplazados' tuvieron que dejar sus viviendas. La concentración de cortes eléctricos en el oeste muestra que el impacto va más allá de los daños físicos en los inmuebles. Según Agência Brasil, una baja presión sobre el norte de Paraguay y un frente estacionario en Paraná podían mantener la inestabilidad hasta la madrugada del lunes 23 de noviembre. Los nuevos informes sobre la recuperación eléctrica y los daños serán fundamentales para los residentes.",
+        "counterpoint": "Los datos son preliminares y pueden cambiar conforme avancen las evaluaciones municipales. La cifra de usuarios sin electricidad corresponde a las 16:09 del 22 de noviembre y no representa un total permanente. El tornado registrado en Manoel Ribas no implica que todos los municipios hayan sufrido el mismo fenómeno.",
+        "category": "BRASIL"
+      }
+    },
     {
       "id": "marc-marquez-octacampeao-motogp-portugal-2026-11-22",
       "date": "2026-11-22",
