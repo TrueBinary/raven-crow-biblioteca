@@ -1,7 +1,64 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T10:00:00-03:00",
+  "updatedAt": "2026-11-23T19:00:00-03:00",
   "essays": [
+    {
+      "id": "a-porta-de-saida-tambem-e-liberdade-2026-11-23",
+      "section": "Política e sociedade",
+      "date": "2026-11-23",
+      "title": "A PORTA DE SAÍDA TAMBÉM É LIBERDADE.",
+      "subtitle": "Uma associação pode cobrar dívidas legítimas. Não pode transformar a filiação em prisão com mensalidade.",
+      "eyebrow": "OPINIÃO",
+      "paragraphs": [
+        "Há clubes dos quais a gente sai com saudade. De outros, sai porque descobriu que a reunião de terça-feira dura mais do que o próprio futebol. Em ambos os casos, a porta precisa abrir por dentro. Uma associação que só admite a entrada voluntária, mas transforma a saída numa negociação com o carcereiro, trocou o espírito comunitário por uma espécie de cativeiro com mensalidade.",
+        "A Constituição de 1988 teve o cuidado de escrever duas liberdades lado a lado. No artigo 5º, XVII, protege a associação para fins lícitos; no inciso XX, estabelece que ninguém pode ser obrigado a associar-se nem a permanecer associado. O segundo direito não é uma nota de rodapé do primeiro. É o teste de sinceridade de qualquer convite: quem realmente quer sua companhia aceita que você possa ir embora.",
+        "Essa discussão chegou ao Supremo Tribunal Federal em termos muito menos românticos. No Recurso Extraordinário 820.823, Tema 922, a Corte examinou a tentativa de condicionar a desfiliação ao pagamento de dívida ligada a benefício obtido por intermédio da associação ou de multa. A decisão protegeu o desligamento, sem transformar obrigações patrimoniais legítimas em pó: eventuais cobranças podem seguir pelos meios jurídicos adequados. É uma distinção civilizada. A entidade pode cobrar o que lhe seja devido; não pode usar a condição de associado como algema.",
+        "É claro que uma associação precisa de regras, recursos e compromisso. Se todos prometem contribuir e desaparecem diante da primeira despesa, o projeto comum vira uma vaquinha em que só o organizador aparece com a carteira. Mas compromisso não autoriza confundir dívida com pertencimento. O que se deve discutir é a obrigação concreta, sua origem e sua validade, não a possibilidade de manter alguém filiado até que aprenda a gostar da diretoria.",
+        "O detalhe me interessa para além dos tribunais. Há um vício curioso em instituições, grupos e movimentos: celebram a liberdade de adesão como prova de virtude, mas recebem a discordância como traição pessoal. O associado que pergunta pelo orçamento torna-se inconveniente; o que anuncia a saída passa a ser tratado como desertor. Quando a comunidade depende de impedir a despedida, talvez o problema não esteja na pessoa que procura a porta.",
+        "Não estou defendendo o individualismo de quem aceita benefícios e abandona toda responsabilidade. Estou defendendo algo mais exigente: vínculos que mereçam ser mantidos. Um clube, um sindicato, uma associação de bairro ou qualquer organização voluntária ganha legitimidade quando consegue convencer, prestar contas e respeitar a vontade dos integrantes. O cadeado pode garantir a permanência de um nome na lista. Não consegue fabricar lealdade. E, se a única maneira de conservar um membro é impedir sua saída, já não se tem um membro. Tem-se um refém com carteirinha."
+      ],
+      "sources": [
+        {
+          "title": "Constituição Federal, artigo 5º, incisos XVII a XX — Senado/Legislação",
+          "url": "https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Aconstituicao%3A1988-10-05%3B1988%21art5_cpt"
+        },
+        {
+          "title": "STF — Recurso Extraordinário 820.823, Tema 922, inteiro teor disponibilizado pelo TJPE",
+          "url": "https://portal.tjpe.jus.br/documents/29006/3271174/Tema%2B922%2B-%2Binteiro%2Bteor%2Bdo%2Bac%C3%B3rd%C3%A3o.pdf/3b3087d5-f162-dcf9-d5d1-41a70d33c364?download=true&t=1666696190485"
+        }
+      ],
+      "photos": [],
+      "en": {
+        "title": "THE EXIT DOOR IS FREEDOM TOO.",
+        "subtitle": "An association may pursue legitimate debts. It cannot turn membership into a prison with monthly dues.",
+        "eyebrow": "OPINION",
+        "section": "Politics and society",
+        "paragraphs": [
+          "Some clubs are hard to leave because you will miss them. Others are hard to leave because Tuesday's meeting lasts longer than the game itself. Either way, the door must open from the inside. An association that welcomes voluntary entry but turns departure into a negotiation with a jailer has replaced community with captivity on a subscription plan.",
+          "Brazil's 1988 Constitution deliberately protects two freedoms together. Article 5, item XVII, safeguards lawful association; item XX says nobody may be forced to join or remain in one. The second is not a footnote to the first. It is the sincerity test of every invitation: anyone who truly wants your company accepts that you can leave.",
+          "The issue reached Brazil's Supreme Federal Court in distinctly unromantic terms. In Extraordinary Appeal 820,823, Theme 922, the Court considered whether withdrawal could depend on paying a debt linked to a benefit obtained through an association or a penalty. It protected the right to leave without erasing legitimate financial obligations: claims may still be pursued through proper legal channels. The distinction matters. An organization may seek payment of what is owed; it cannot turn membership into handcuffs.",
+          "Associations do need rules, resources and commitment. If everyone promises to contribute and disappears when the bill arrives, the shared project becomes a fundraiser where only the organizer brings a wallet. But commitment does not justify confusing debt with belonging. The real questions concern the particular obligation, its origin and its validity, not whether someone must stay enrolled until they develop affection for the board.",
+          "What interests me goes beyond the courts. Institutions and movements often praise freedom of choice as evidence of their virtue, yet treat disagreement as personal betrayal. A member who asks about the budget becomes troublesome; one who announces a departure is branded a deserter. When a community survives by preventing goodbyes, perhaps the problem is not the person looking for the exit.",
+          "This is no defense of taking benefits and abandoning responsibilities. It is a defense of something more demanding: relationships worth maintaining. A club, union, neighborhood association or other voluntary organization earns legitimacy by persuading people, accounting for its decisions and respecting its members' choices. A padlock can keep a name on the register. It cannot manufacture loyalty. If the only way to keep a member is to stop them leaving, you no longer have a member. You have a hostage with a membership card."
+        ],
+        "photo_caption": ""
+      },
+      "es": {
+        "title": "LA PUERTA DE SALIDA TAMBIÉN ES LIBERTAD.",
+        "subtitle": "Una asociación puede reclamar deudas legítimas. No puede convertir la afiliación en una prisión con cuota mensual.",
+        "eyebrow": "OPINIÓN",
+        "section": "Política y sociedad",
+        "paragraphs": [
+          "Hay clubes de los que uno se marcha con nostalgia. De otros se va porque descubre que la reunión del martes dura más que el propio partido. En ambos casos, la puerta debe abrirse desde dentro. Una asociación que permite entrar voluntariamente, pero convierte la salida en una negociación con el carcelero, ha cambiado la comunidad por un cautiverio con cuota mensual.",
+          "La Constitución brasileña de 1988 protegió deliberadamente dos libertades juntas. El artículo 5, inciso XVII, garantiza la asociación con fines lícitos; el inciso XX establece que nadie puede ser obligado a asociarse ni a permanecer asociado. La segunda no es una nota al pie de la primera. Es la prueba de sinceridad de cualquier invitación: quien de verdad quiere tu compañía acepta que puedas marcharte.",
+          "El asunto llegó al Supremo Tribunal Federal de Brasil en términos bastante menos románticos. En el Recurso Extraordinario 820.823, Tema 922, el tribunal examinó si la salida podía condicionarse al pago de una deuda vinculada a un beneficio obtenido mediante la asociación o de una multa. Protegió la desvinculación sin borrar las obligaciones patrimoniales legítimas: las reclamaciones pueden tramitarse por las vías jurídicas correspondientes. La distinción importa. La entidad puede reclamar lo que se le deba; no puede convertir la afiliación en unas esposas.",
+          "Una asociación necesita normas, recursos y compromiso. Si todos prometen aportar y desaparecen cuando llega la primera factura, el proyecto común acaba siendo una colecta en la que solo el organizador saca la cartera. Pero el compromiso no permite confundir deuda con pertenencia. Hay que discutir la obligación concreta, su origen y su validez, no la posibilidad de retener a alguien hasta que aprenda a querer a la directiva.",
+          "Lo que me interesa va más allá de los tribunales. Instituciones y movimientos celebran la adhesión libre como muestra de virtud, pero reciben el desacuerdo como una traición personal. Quien pregunta por las cuentas se vuelve incómodo; quien anuncia su salida pasa a ser un desertor. Cuando una comunidad necesita impedir las despedidas para sobrevivir, quizá el problema no sea quien busca la puerta.",
+          "No defiendo a quien disfruta de los beneficios y abandona sus responsabilidades. Defiendo algo más exigente: vínculos que merezcan mantenerse. Un club, un sindicato, una asociación vecinal o cualquier organización voluntaria gana legitimidad cuando convence, rinde cuentas y respeta las decisiones de sus integrantes. Un candado puede mantener un nombre en la lista. No puede fabricar lealtad. Y si la única forma de conservar a un socio es impedirle salir, ya no tienes un socio. Tienes un rehén con carné."
+        ],
+        "photo_caption": ""
+      }
+    },
     {
       "id": "o-direito-de-reclamar-nao-tem-bilheteria-2026-11-23",
       "section": "Política e sociedade",
