@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "id": "receita-consulta-lote-residual-ir-223793-restituicoes-2026-11-23",
+      "date": "2026-11-23",
+      "title": "RECEITA ABRE CONSULTA A 223,8 MIL RESTITUIÇÕES DO IR; PAGAMENTO SERÁ EM 30 DE NOVEMBRO",
+      "subtitle": "Receita libera consulta a 223.793 restituições que somam R$ 666,3 milhões; depósito está previsto para 30 de novembro.",
+      "category": "ECONOMIA",
+      "facts": "A Receita Federal do Brasil abriu às 9h de 23 de novembro de 2026, em todo o país, a consulta ao lote residual de restituição do Imposto de Renda Pessoa Física (IRPF) de novembro. Segundo comunicado oficial publicado em Brasília pela Receita Federal, o lote contempla 223.793 restituições, no valor total de R$ 666.285.077,46, com pagamento programado para 30 de novembro de 2026. De acordo com a Receita, R$ 382.972.486,59 serão destinados a contribuintes com prioridade legal; o lote inclui declarações entregues fora do prazo, pendências regularizadas e créditos de exercícios anteriores. A abertura da consulta não significa que o dinheiro já tenha sido depositado.",
+      "analysis": "O contribuinte pode verificar o resultado em gov.br/receitafederal, na seção Meu Imposto de Renda > Consultar minha restituição, ou pelo aplicativo oficial. Em relação ao lote residual de outubro, que teve 184.442 restituições e R$ 531.601.793,51 segundo a Receita Federal, novembro traz 39.351 restituições a mais e aproximadamente R$ 134,7 milhões adicionais. A prioridade legal contempla idosos, pessoas com deficiência ou doença grave e profissionais do magistério nas condições previstas. A Receita também concede prioridade administrativa a usuários de declaração pré-preenchida e/ou Pix, sem confundi-la com prioridade legal. Se houver inconsistências, o contribuinte deve consultar o extrato no e-CAC e, quando cabível, retificar a declaração.",
+      "counterpoint": "O anúncio não comprova que cada restituição será efetivamente creditada em 30 de novembro: erros bancários podem impedir o depósito. Nesses casos, a Receita orienta reagendamento pelo Banco do Brasil em até um ano após a primeira tentativa. A consulta deve ser feita exclusivamente pelos canais oficiais, sem presumir que mensagens ou links recebidos de terceiros sejam legítimos.",
+      "sources": [
+        {
+          "name": "Receita Federal — lote residual de novembro, 23/11/2026",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-segunda-feira-23"
+        },
+        {
+          "name": "Receita Federal — lote residual de outubro, 22/10/2026",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-sexta-feira-23/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Pr%C3%A9dio_da_Inspetoria_da_Receita_Federal.JPG",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0",
+          "credit": "Eugenio Hansen, OFS / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Pr%C3%A9dio_da_Inspetoria_da_Receita_Federal.JPG",
+          "caption": "FOTO DE ARQUIVO (21/07/2015): fachada de uma Inspetoria da Receita Federal, fotografada por Eugenio Hansen, OFS (CC BY-SA 4.0). Não retrata a abertura da consulta em 23/11/2026."
+        }
+      ],
+      "en": {
+        "title": "BRAZIL OPENS CHECKS FOR 223,793 INCOME TAX REFUNDS; PAYMENT DUE NOVEMBER 30",
+        "subtitle": "Brazil opens checks for 223,793 tax refunds worth R$666.3 million, with payment scheduled for November 30.",
+        "category": "ECONOMY",
+        "facts": "Brazil's Federal Revenue Service opened nationwide checks for its November residual Personal Income Tax (IRPF) refunds at 9 a.m. on November 23, 2026. According to the agency's official statement issued in Brasília, the batch includes 223,793 refunds totalling R$666,285,077.46, with bank transfers scheduled for November 30, 2026. The Federal Revenue Service says R$382,972,486.59 is earmarked for legally prioritised taxpayers; the batch covers late returns, resolved filing issues and residual refunds from earlier years. The opening of the online check does not mean funds have already been deposited.",
+        "analysis": "Taxpayers can check the result through the Federal Revenue Service website under My Income Tax > Check my refund or through its official app. Compared with October's residual batch of 184,442 refunds totalling R$531,601,793.51, November has 39,351 more refunds and roughly R$134.7 million more in planned payments. Legal priority covers qualifying older people, people with disabilities or serious illnesses, and teachers; a separate administrative priority applies to pre-filled returns and/or Pix payments. Taxpayers with outstanding filing issues can check their records and submit corrections through the e-CAC portal.",
+        "counterpoint": "The announcement does not establish that every transfer will succeed on November 30. Incorrect bank details can prevent payment, in which case the agency allows rescheduling through Banco do Brasil within one year of the first attempt. Taxpayers should use official channels rather than links sent by third parties.",
+        "photo_captions": {
+          "1": "ARCHIVE PHOTO (July 21, 2015): façade of a Brazilian Federal Revenue Service inspectorate, photographed by Eugenio Hansen, OFS (CC BY-SA 4.0). Does not depict the November 23, 2026 refund announcement."
+        },
+        "slug": "brazil-opens-checks-for-223-793-income-tax-refunds-payment-due-november-30-2026-11-23"
+      },
+      "es": {
+        "title": "BRASIL ABRE LA CONSULTA DE 223.793 DEVOLUCIONES DEL IMPUESTO SOBRE LA RENTA",
+        "subtitle": "Brasil habilita la consulta de 223.793 devoluciones por R$666,3 millones; el pago está previsto para el 30 de noviembre.",
+        "category": "ECONOMÍA",
+        "facts": "La Receita Federal de Brasil habilitó en todo el país, a las 9:00 del 23 de noviembre de 2026, la consulta del lote residual de devoluciones del Impuesto sobre la Renta de las Personas Físicas (IRPF) de noviembre. Según el comunicado oficial publicado en Brasilia, el lote reúne 223.793 devoluciones por R$666.285.077,46, con abono bancario previsto para el 30 de noviembre de 2026. De acuerdo con la Receita Federal, R$382.972.486,59 se destinarán a contribuyentes con prioridad legal; se incluyen declaraciones tardías, incidencias subsanadas y devoluciones pendientes de ejercicios anteriores. La apertura de la consulta no implica que el dinero ya haya sido depositado.",
+        "analysis": "Los contribuyentes pueden consultar el resultado en la web oficial de la Receita Federal, en Mi Impuesto sobre la Renta > Consultar mi devolución, o en su aplicación. Frente al lote residual de octubre, con 184.442 devoluciones por R$531.601.793,51 según la autoridad tributaria, noviembre suma 39.351 devoluciones adicionales y unos R$134,7 millones más. La prioridad legal incluye a personas mayores, personas con discapacidad o enfermedad grave y docentes que cumplen los requisitos; existe una prioridad administrativa distinta para declaraciones precompletadas y/o pagos por Pix. Si hay incidencias, el contribuyente puede revisar su expediente y corregir la declaración mediante e-CAC.",
+        "counterpoint": "El anuncio no garantiza que todas las transferencias se concreten el 30 de noviembre. Los errores bancarios pueden impedir el ingreso y la Receita Federal permite reprogramarlo a través del Banco do Brasil dentro del año siguiente al primer intento. Conviene utilizar únicamente canales oficiales.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (21 de julio de 2015): fachada de una inspectoría de la Receita Federal de Brasil, fotografiada por Eugenio Hansen, OFS (CC BY-SA 4.0). No muestra el anuncio del 23 de noviembre de 2026."
+        },
+        "slug": "brasil-abre-la-consulta-de-223-793-devoluciones-del-impuesto-sobre-la-renta-2026-11-23"
+      },
+      "firstSeen": "2026-11-23T10:03:49-03:00"
+    },
+    {
       "id": "china-plano-cuidados-idosos-criancas-metas-2030-2026-11-23",
       "date": "2026-11-23",
       "title": "CHINA DIVULGA PLANO DE CUIDADOS COM IDOSOS E CRIANÇAS COM METAS ATÉ 2030",
