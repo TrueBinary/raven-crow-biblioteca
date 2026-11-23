@@ -1,7 +1,68 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T19:00:00-03:00",
+  "updatedAt": "2026-11-23T10:00:00-03:00",
   "essays": [
+    {
+      "id": "o-direito-de-reclamar-nao-tem-bilheteria-2026-11-23",
+      "section": "Política e sociedade",
+      "date": "2026-11-23",
+      "title": "O DIREITO DE RECLAMAR NÃO TEM BILHETERIA.",
+      "subtitle": "A Constituição permite questionar o poder sem pagar taxas. Ser ouvido não deveria depender de comprar ingresso.",
+      "eyebrow": "OPINIÃO",
+      "paragraphs": [
+        "Uma das frases mais bonitas da Constituição brasileira está escondida num inciso que quase ninguém recita: você pode reclamar do poder sem pagar ingresso. O artigo 5º, XXXIV, assegura o direito de petição aos poderes públicos, em defesa de direitos ou contra ilegalidade e abuso, independentemente de taxas. Não é um favor da autoridade. É justamente o direito de incomodá-la.",
+        "Existe algo de profundamente civilizado nessa pequena inversão. Durante séculos, súditos imploraram audiência, proteção e misericórdia. A República, pelo menos no papel, substitui o joelho dobrado por um cidadão que pode escrever: 'Isto está errado; examine'. O destinatário talvez use gravata, toga ou crachá. Nenhuma dessas peças de vestuário o transforma em proprietário do ouvido público.",
+        "Não se trata de uma senha para ganhar qualquer disputa. Peticionar não obriga a autoridade a concordar com o pedido, não dispensa requisitos legítimos de identificação e não substitui advogado em processos judiciais que exigem representação. O próprio Conselho Nacional de Justiça explica que cidadãos podem apresentar reclamações ao órgão sem advogado, mas precisam identificar-se e descrever o problema. Há uma diferença entre abrir a porta e prometer que tudo atrás dela será decidido a nosso favor.",
+        "O detalhe mais saboroso é a gratuidade. Se o Estado pudesse cobrar uma taxa para receber a queixa contra o próprio Estado, teríamos uma invenção admirável: o acusado venderia bilhetes para a audiência em que será questionado. O Supremo Tribunal Federal consolidou na Súmula Vinculante 21 que não se pode exigir depósito prévio de dinheiro ou bens como condição para admitir recurso administrativo. A defesa não deve começar no caixa.",
+        "Mas o direito formal pode ser estrangulado por um labirinto prático. Um canal incompreensível, uma resposta que não enfrenta o pedido ou exigências desproporcionais não precisam proibir a reclamação para esvaziá-la. É preciso distinguir procedimento necessário de obstáculo gratuito. Documentar os fatos e dirigir-se ao órgão competente são deveres razoáveis; transformar cada manifestação num teste de resistência é um modo elegante de continuar sem ouvir.",
+        "Meu caro leitor, não precisamos concordar sobre impostos, partidos ou decisões judiciais para reconhecer isto: a autoridade deve explicações, e o cidadão não precisa pedir licença para exigir que a lei seja respeitada. A Constituição não promete que toda reclamação vencerá. Promete algo anterior à vitória: ninguém deve comprar o direito de ser ouvido. Um poder que só escuta elogios não governa cidadãos. Coleciona plateia."
+      ],
+      "sources": [
+        {
+          "title": "Constituição Federal, artigo 5º, XXXIV — Planalto",
+          "url": "https://www4.planalto.gov.br/legislacao/legis-federal/constituicao"
+        },
+        {
+          "title": "Conselho Nacional de Justiça — Como acionar o CNJ",
+          "url": "https://www.cnj.jus.br/como-acionar-o-cnj/"
+        },
+        {
+          "title": "Supremo Tribunal Federal — Súmula Vinculante 21 (referência no Ministério Público de Goiás)",
+          "url": "https://www.mpgo.mp.br/portal/system/resources/W1siZiIsIjIwMTMvMDQvMjYvMTBfMDdfMDFfNDY4X0NGX0F0dWFsaXphZGEucGRmIl1d/CF%20Atualizada.pdf"
+        }
+      ],
+      "photos": [],
+      "en": {
+        "title": "THE RIGHT TO COMPLAIN HAS NO TICKET BOOTH.",
+        "subtitle": "Brazil's Constitution lets citizens challenge public power without paying fees. Being heard should not require admission.",
+        "eyebrow": "OPINION",
+        "section": "Politics and society",
+        "paragraphs": [
+          "One of the finest lines in Brazil's Constitution hides in a clause few people quote: you may challenge public power without buying a ticket. Article 5, item XXXIV, guarantees the right to petition public authorities to defend rights or challenge illegality and abuse, free of fees. This is no favor bestowed by an official. It is the right to trouble that official.",
+          "There is something deeply civilized about this reversal. For centuries, subjects begged for an audience, protection or mercy. A republic, at least on paper, replaces the bent knee with a citizen who can write: 'This is wrong; examine it.' The recipient may wear a tie, a robe or an ID badge. None makes them the owner of the public ear.",
+          "This is not a password that wins every dispute. A petition does not force officials to agree, waive legitimate identification requirements or replace a lawyer where judicial representation is required. Brazil's National Council of Justice explains that citizens can submit complaints to it without a lawyer, but must identify themselves and explain the problem. Opening a door is not the same as promising a favorable decision beyond it.",
+          "The most delightful detail is the absence of a fee. If the state could charge to receive complaints against itself, the accused would be selling tickets to the hearing where it faces scrutiny. Brazil's Supreme Federal Court established in Binding Precedent 21 that an advance deposit of money or assets cannot be required to admit an administrative appeal. A defense should not begin at the cashier.",
+          "Yet a formal right can be strangled by a practical maze. An unintelligible channel, a reply that ignores the substance or disproportionate demands can empty a complaint of meaning without formally banning it. Necessary procedure must be distinguished from pointless obstruction. Recording facts and addressing the competent body are reasonable responsibilities; turning every submission into an endurance test is a polished way of refusing to listen.",
+          "Dear reader, we need not agree on taxes, parties or court decisions to recognize this: public officials owe explanations, and citizens need no permission to demand respect for the law. The Constitution does not promise that every complaint will succeed. It promises something prior to victory: nobody should have to buy the right to be heard. Power that listens only to praise does not govern citizens. It collects an audience."
+        ],
+        "photo_caption": ""
+      },
+      "es": {
+        "title": "EL DERECHO A RECLAMAR NO TIENE TAQUILLA.",
+        "subtitle": "La Constitución permite cuestionar al poder sin pagar tasas. Ser escuchado no debería exigir entrada.",
+        "eyebrow": "OPINIÓN",
+        "section": "Política y sociedad",
+        "paragraphs": [
+          "Una de las frases más hermosas de la Constitución brasileña se esconde en un inciso que casi nadie cita: se puede cuestionar al poder sin comprar entrada. El artículo 5, inciso XXXIV, garantiza el derecho de petición ante las autoridades para defender derechos o denunciar ilegalidades y abusos, sin pagar tasas. No es un favor del funcionario. Es precisamente el derecho a incomodarlo.",
+          "Hay algo profundamente civilizado en esa inversión. Durante siglos, los súbditos suplicaron audiencia, protección y misericordia. La república, al menos sobre el papel, sustituye la rodilla doblada por un ciudadano capaz de escribir: 'Esto está mal; examínelo'. El destinatario quizá lleve corbata, toga o credencial. Ninguna de esas prendas lo convierte en dueño del oído público.",
+          "No es una contraseña para ganar cualquier disputa. Presentar una petición no obliga a la autoridad a dar la razón, no elimina requisitos legítimos de identificación ni sustituye al abogado en procesos judiciales que requieren representación. El Consejo Nacional de Justicia de Brasil explica que los ciudadanos pueden presentar quejas ante el organismo sin abogado, pero deben identificarse y explicar el problema. Abrir la puerta no equivale a prometer una decisión favorable.",
+          "Lo más delicioso es la gratuidad. Si el Estado pudiera cobrar por recibir una queja contra el propio Estado, el acusado vendería entradas para la audiencia donde será cuestionado. El Supremo Tribunal Federal estableció en su Súmula Vinculante 21 que no se puede exigir un depósito previo de dinero o bienes para admitir un recurso administrativo. La defensa no debería empezar en la caja.",
+          "Pero un derecho formal puede morir en un laberinto práctico. Un canal incomprensible, una respuesta que esquiva el fondo o exigencias desproporcionadas pueden vaciar una reclamación sin prohibirla. Hay que distinguir el procedimiento necesario del obstáculo gratuito. Documentar los hechos y acudir al organismo competente son responsabilidades razonables; convertir cada solicitud en una prueba de resistencia es una forma refinada de no escuchar.",
+          "Estimado lector, no tenemos que coincidir sobre impuestos, partidos o sentencias para reconocer esto: la autoridad debe explicaciones y el ciudadano no necesita permiso para exigir respeto a la ley. La Constitución no promete que toda queja triunfe. Promete algo anterior a la victoria: nadie debería comprar el derecho a ser escuchado. Un poder que solo oye elogios no gobierna ciudadanos. Colecciona público."
+        ],
+        "photo_caption": ""
+      }
+    },
     {
       "id": "a-meia-custa-vinte-reais-a-biografia-vai-de-brinde-2026-11-22",
       "section": "Política e sociedade",
