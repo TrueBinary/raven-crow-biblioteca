@@ -2,9 +2,62 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-26T02:00:00-03:00",
+  "updatedAt": "2026-11-26T04:04:04-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "governo-reduz-contencao-orcamento-34-bilhoes-2026-11-25",
+      "date": "2026-11-25",
+      "category": "ECONOMIA",
+      "title": "GOVERNO REDUZ CONTENÇÃO DO ORÇAMENTO EM R$ 3,4 BILHÕES",
+      "subtitle": "Revisão mantém R$ 12,6 bilhões em despesas retidas e incorpora exceção fiscal para subsídios ao diesel.",
+      "facts": "Em Brasília, em 25 de novembro de 2026, o governo federal apresentou a revisão bimestral do Orçamento e anunciou a redução das restrições sobre despesas. Segundo o Ministério do Planejamento e Orçamento (MPO), o montante retido caiu R$ 3,4 bilhões, ficando em R$ 12,6 bilhões. O ministério detalhou que R$ 12,3 bilhões permanecem contingenciados e R$ 300 milhões bloqueados. A Lei Complementar 239/2026, sancionada em 24 de novembro, permite descontar até R$ 10,5 bilhões em subvenções ao diesel na apuração da meta fiscal, conforme o MPO.",
+      "analysis": "O bloqueio atende ao limite de despesas, enquanto o contingenciamento busca compatibilizar a execução orçamentária com a meta de resultado primário. A redução das restrições amplia a margem para despesas autorizadas, mas não significa que todo o dinheiro será imediatamente gasto. A exclusão legal dos subsídios ao diesel altera o cálculo da meta sem eliminar o desembolso efetivo do Tesouro.",
+      "counterpoint": "O ministro Bruno Moretti defende que o governo mantém a trajetória de ajuste fiscal. Entretanto, a Agência Brasil informa que a projeção de déficit primário efetivo passou de R$ 67,26 bilhões para R$ 76,98 bilhões. O resultado definitivo dependerá da execução de receitas e despesas até dezembro.",
+      "sources": [
+        {
+          "name": "Ministério do Planejamento e Orçamento — 25/11/2026",
+          "url": "https://www.gov.br/planejamento/pt-br/assuntos/noticias/2026/governo-reduz-contencao-das-despesas-em-r-3-4-bilhoes-para-r-12-6-bilhoes-em-2026"
+        },
+        {
+          "name": "Agência Brasil — 25/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-libera-r-343-bilhoes-do-orcamento-apos-ajuste-fiscal"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bruno_Moretti_na_Comiss%C3%A3o_Mista_de_Or%C3%A7amento_%28novembro_de_2026%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 3.0 — https://creativecommons.org/licenses/by/3.0/",
+          "credit": "Vinicius Loures / Câmara dos Deputados",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Bruno_Moretti_na_Comiss%C3%A3o_Mista_de_Or%C3%A7amento_(novembro_de_2026).jpg",
+          "caption": "FOTO DE ARQUIVO (11/11/2026): Bruno Moretti em audiência da Comissão Mista de Orçamento. Vinicius Loures/Câmara dos Deputados, CC BY 3.0. Não retrata a coletiva de 25 de novembro."
+        }
+      ],
+      "en": {
+        "category": "ECONOMY",
+        "title": "BRAZIL EASES BUDGET SPENDING RESTRICTIONS BY R$3.4 BILLION",
+        "subtitle": "The revision leaves R$12.6 billion in spending restrictions and incorporates a fiscal exception for diesel subsidies.",
+        "facts": "In Brasília on November 25, 2026, Brazil's federal government presented its bimonthly budget review and announced reduced spending restrictions. According to the Ministry of Planning and Budget (MPO), the restricted amount fell by R$3.4 billion to R$12.6 billion. The ministry said R$12.3 billion remains subject to fiscal-target restrictions and R$300 million to spending-cap freezes. Complementary Law 239/2026, signed on November 24, allows up to R$10.5 billion in diesel subsidies to be excluded from the fiscal target calculation, according to the MPO.",
+        "analysis": "Spending-cap freezes enforce expenditure limits, while fiscal-target restrictions align budget execution with the primary balance target. Easing restrictions increases room for authorized spending but does not mean all funds will be spent immediately. The legal exclusion of diesel subsidies changes the target calculation without eliminating actual Treasury payments.",
+        "counterpoint": "Minister Bruno Moretti argues that fiscal consolidation remains on track. However, Agência Brasil reports that the projected actual primary deficit increased from R$67.26 billion to R$76.98 billion. The final outcome depends on revenue and spending through December.",
+        "photo_captions": {
+          "1": "FILE PHOTO (November 11, 2026): Bruno Moretti at a Joint Budget Committee hearing. Vinicius Loures/Chamber of Deputies, CC BY 3.0. Does not depict the November 25 press conference."
+        }
+      },
+      "es": {
+        "category": "ECONOMÍA",
+        "title": "BRASIL REDUCE LAS RESTRICCIONES PRESUPUESTARIAS EN R$ 3.400 MILLONES",
+        "subtitle": "La revisión mantiene R$ 12.600 millones en gastos restringidos e incorpora una excepción fiscal para los subsidios al diésel.",
+        "facts": "En Brasilia, el 25 de noviembre de 2026, el Gobierno federal presentó la revisión bimestral del presupuesto y anunció una reducción de las restricciones al gasto. Según el Ministerio de Planificación y Presupuesto (MPO), el importe restringido cayó R$ 3.400 millones hasta R$ 12.600 millones. El ministerio detalló que R$ 12.300 millones siguen sujetos a restricciones por la meta fiscal y R$ 300 millones a bloqueos por el límite de gasto. La Ley Complementaria 239/2026, promulgada el 24 de noviembre, permite excluir hasta R$ 10.500 millones en subsidios al diésel del cálculo de la meta fiscal, según el MPO.",
+        "analysis": "Los bloqueos responden al límite de gasto, mientras que las restricciones por la meta fiscal buscan ajustar la ejecución presupuestaria al objetivo de saldo primario. La reducción amplía el margen para gastos autorizados, pero no implica un desembolso inmediato de todos los recursos. La exclusión legal de los subsidios al diésel modifica el cálculo de la meta sin eliminar los pagos efectivos del Tesoro.",
+        "counterpoint": "El ministro Bruno Moretti sostiene que continúa la consolidación fiscal. Sin embargo, Agência Brasil informa que la previsión de déficit primario efectivo pasó de R$ 67.260 millones a R$ 76.980 millones. El resultado definitivo dependerá de los ingresos y gastos hasta diciembre.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (11/11/2026): Bruno Moretti en una audiencia de la Comisión Mixta de Presupuesto. Vinicius Loures/Cámara de Diputados, CC BY 3.0. No muestra la rueda de prensa del 25 de noviembre."
+        }
+      }
+    },
     {
       "id": "brasil-fluxo-cambial-negativo-novembro-2026-11-25",
       "date": "2026-11-25",
