@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "eua-propoem-tarifa-10-aeronaves-acucar-brasil-2026-11-25": "editorial/covers/eua-propoem-tarifa-10-aeronaves-acucar-brasil-2026-11-25.svg",
     "uniao-europeia-propoe-22-pacote-sancoes-russia-60-bancos-2026-11-23": "editorial/covers/uniao-europeia-propoe-22-pacote-sancoes-russia-60-bancos-2026-11-23.svg",
     "chuvas-sao-paulo-34-desalojados-buscas-tamanduatei-2026-11-23": "editorial/covers/chuvas-sao-paulo-34-desalojados-buscas-tamanduatei-2026-11-23.svg",
     "galipolo-defende-revisao-regras-gastos-inflacao-2026-11-23": "editorial/covers/galipolo-defende-revisao-regras-gastos-inflacao-2026-11-23.svg",
@@ -548,7 +549,17 @@
     "incendio-fabrica-doces-indonesia-banten-desaparecidos-2026-11-22": "editorial/photos/incendio-fabrica-doces-indonesia-banten-desaparecidos-2026-11-22.jpg",
     "ataque-iraniano-incendio-industria-bahrein-2026-11-21": "editorial/photos/ataque-iraniano-incendio-industria-bahrein-2026-11-21.jpg",
     "receita-consulta-lote-residual-ir-223793-restituicoes-2026-11-23": "editorial/photos/receita-consulta-lote-residual-ir-223793-restituicoes-2026-11-23.jpg",
-    "nvidia-reconduz-jensen-huang-ceo-acoes-disparam-2026-11-23": "editorial/photos/nvidia-reconduz-jensen-huang-ceo-acoes-disparam-2026-11-23.jpg"
+    "nvidia-reconduz-jensen-huang-ceo-acoes-disparam-2026-11-23": "editorial/photos/nvidia-reconduz-jensen-huang-ceo-acoes-disparam-2026-11-23.jpg",
+    "eua-propoem-tarifa-10-aeronaves-acucar-brasil-2026-11-25": "editorial/photos/eua-propoem-tarifa-10-aeronaves-acucar-brasil-2026-11-25.jpg",
+    "uniao-europeia-propoe-22-pacote-sancoes-russia-60-bancos-2026-11-23": "editorial/photos/uniao-europeia-propoe-22-pacote-sancoes-russia-60-bancos-2026-11-23.jpg",
+    "chuvas-sao-paulo-34-desalojados-buscas-tamanduatei-2026-11-23": "editorial/photos/chuvas-sao-paulo-34-desalojados-buscas-tamanduatei-2026-11-23.jpg",
+    "galipolo-defende-revisao-regras-gastos-inflacao-2026-11-23": "editorial/photos/galipolo-defende-revisao-regras-gastos-inflacao-2026-11-23.jpg",
+    "china-plano-cuidados-idosos-criancas-metas-2030-2026-11-23": "editorial/photos/china-plano-cuidados-idosos-criancas-metas-2030-2026-11-23.jpg",
+    "ataques-russos-regiao-kiev-15-mortos-dymer-2026-11-23": "editorial/photos/ataques-russos-regiao-kiev-15-mortos-dymer-2026-11-23.jpg",
+    "combates-ituri-ameacam-resposta-ebola-oms-2026-11-23": "editorial/photos/combates-ituri-ameacam-resposta-ebola-oms-2026-11-23.jpg",
+    "falha-sistema-delta-atrasa-mais-1600-voos-eua-2026-11-23": "editorial/photos/falha-sistema-delta-atrasa-mais-1600-voos-eua-2026-11-23.jpg",
+    "mexico-captura-chapo-isidro-guasave-11-mortos-2026-11-23": "editorial/photos/mexico-captura-chapo-isidro-guasave-11-mortos-2026-11-23.jpg",
+    "temporais-parana-250-casas-907-afetados-2026-11-22": "editorial/photos/temporais-parana-250-casas-907-afetados-2026-11-22.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -2182,6 +2193,66 @@
       "srcset": "editorial/photos/nvidia-reconduz-jensen-huang-ceo-acoes-disparam-2026-11-23-320.webp 320w, editorial/photos/nvidia-reconduz-jensen-huang-ceo-acoes-disparam-2026-11-23-640.webp 640w, editorial/photos/nvidia-reconduz-jensen-huang-ceo-acoes-disparam-2026-11-23-960.webp 960w, editorial/photos/nvidia-reconduz-jensen-huang-ceo-acoes-disparam-2026-11-23-1280.webp 1280w",
       "width": 1280,
       "height": 1388
+    },
+    "eua-propoem-tarifa-10-aeronaves-acucar-brasil-2026-11-25": {
+      "src": "editorial/photos/eua-propoem-tarifa-10-aeronaves-acucar-brasil-2026-11-25-1280.webp",
+      "srcset": "editorial/photos/eua-propoem-tarifa-10-aeronaves-acucar-brasil-2026-11-25-320.webp 320w, editorial/photos/eua-propoem-tarifa-10-aeronaves-acucar-brasil-2026-11-25-640.webp 640w, editorial/photos/eua-propoem-tarifa-10-aeronaves-acucar-brasil-2026-11-25-960.webp 960w, editorial/photos/eua-propoem-tarifa-10-aeronaves-acucar-brasil-2026-11-25-1280.webp 1280w",
+      "width": 1280,
+      "height": 823
+    },
+    "uniao-europeia-propoe-22-pacote-sancoes-russia-60-bancos-2026-11-23": {
+      "src": "editorial/photos/uniao-europeia-propoe-22-pacote-sancoes-russia-60-bancos-2026-11-23-1280.webp",
+      "srcset": "editorial/photos/uniao-europeia-propoe-22-pacote-sancoes-russia-60-bancos-2026-11-23-320.webp 320w, editorial/photos/uniao-europeia-propoe-22-pacote-sancoes-russia-60-bancos-2026-11-23-640.webp 640w, editorial/photos/uniao-europeia-propoe-22-pacote-sancoes-russia-60-bancos-2026-11-23-960.webp 960w, editorial/photos/uniao-europeia-propoe-22-pacote-sancoes-russia-60-bancos-2026-11-23-1280.webp 1280w",
+      "width": 1280,
+      "height": 853
+    },
+    "chuvas-sao-paulo-34-desalojados-buscas-tamanduatei-2026-11-23": {
+      "src": "editorial/photos/chuvas-sao-paulo-34-desalojados-buscas-tamanduatei-2026-11-23-1280.webp",
+      "srcset": "editorial/photos/chuvas-sao-paulo-34-desalojados-buscas-tamanduatei-2026-11-23-320.webp 320w, editorial/photos/chuvas-sao-paulo-34-desalojados-buscas-tamanduatei-2026-11-23-640.webp 640w, editorial/photos/chuvas-sao-paulo-34-desalojados-buscas-tamanduatei-2026-11-23-960.webp 960w, editorial/photos/chuvas-sao-paulo-34-desalojados-buscas-tamanduatei-2026-11-23-1280.webp 1280w",
+      "width": 1280,
+      "height": 853
+    },
+    "galipolo-defende-revisao-regras-gastos-inflacao-2026-11-23": {
+      "src": "editorial/photos/galipolo-defende-revisao-regras-gastos-inflacao-2026-11-23-1280.webp",
+      "srcset": "editorial/photos/galipolo-defende-revisao-regras-gastos-inflacao-2026-11-23-320.webp 320w, editorial/photos/galipolo-defende-revisao-regras-gastos-inflacao-2026-11-23-640.webp 640w, editorial/photos/galipolo-defende-revisao-regras-gastos-inflacao-2026-11-23-960.webp 960w, editorial/photos/galipolo-defende-revisao-regras-gastos-inflacao-2026-11-23-1280.webp 1280w",
+      "width": 1280,
+      "height": 1707
+    },
+    "china-plano-cuidados-idosos-criancas-metas-2030-2026-11-23": {
+      "src": "editorial/photos/china-plano-cuidados-idosos-criancas-metas-2030-2026-11-23-960.webp",
+      "srcset": "editorial/photos/china-plano-cuidados-idosos-criancas-metas-2030-2026-11-23-320.webp 320w, editorial/photos/china-plano-cuidados-idosos-criancas-metas-2030-2026-11-23-640.webp 640w, editorial/photos/china-plano-cuidados-idosos-criancas-metas-2030-2026-11-23-960.webp 960w",
+      "width": 960,
+      "height": 720
+    },
+    "ataques-russos-regiao-kiev-15-mortos-dymer-2026-11-23": {
+      "src": "editorial/photos/ataques-russos-regiao-kiev-15-mortos-dymer-2026-11-23-1280.webp",
+      "srcset": "editorial/photos/ataques-russos-regiao-kiev-15-mortos-dymer-2026-11-23-320.webp 320w, editorial/photos/ataques-russos-regiao-kiev-15-mortos-dymer-2026-11-23-640.webp 640w, editorial/photos/ataques-russos-regiao-kiev-15-mortos-dymer-2026-11-23-960.webp 960w, editorial/photos/ataques-russos-regiao-kiev-15-mortos-dymer-2026-11-23-1280.webp 1280w",
+      "width": 1280,
+      "height": 960
+    },
+    "combates-ituri-ameacam-resposta-ebola-oms-2026-11-23": {
+      "src": "editorial/photos/combates-ituri-ameacam-resposta-ebola-oms-2026-11-23-960.webp",
+      "srcset": "editorial/photos/combates-ituri-ameacam-resposta-ebola-oms-2026-11-23-320.webp 320w, editorial/photos/combates-ituri-ameacam-resposta-ebola-oms-2026-11-23-640.webp 640w, editorial/photos/combates-ituri-ameacam-resposta-ebola-oms-2026-11-23-960.webp 960w",
+      "width": 960,
+      "height": 633
+    },
+    "falha-sistema-delta-atrasa-mais-1600-voos-eua-2026-11-23": {
+      "src": "editorial/photos/falha-sistema-delta-atrasa-mais-1600-voos-eua-2026-11-23-1280.webp",
+      "srcset": "editorial/photos/falha-sistema-delta-atrasa-mais-1600-voos-eua-2026-11-23-320.webp 320w, editorial/photos/falha-sistema-delta-atrasa-mais-1600-voos-eua-2026-11-23-640.webp 640w, editorial/photos/falha-sistema-delta-atrasa-mais-1600-voos-eua-2026-11-23-960.webp 960w, editorial/photos/falha-sistema-delta-atrasa-mais-1600-voos-eua-2026-11-23-1280.webp 1280w",
+      "width": 1280,
+      "height": 960
+    },
+    "mexico-captura-chapo-isidro-guasave-11-mortos-2026-11-23": {
+      "src": "editorial/photos/mexico-captura-chapo-isidro-guasave-11-mortos-2026-11-23-960.webp",
+      "srcset": "editorial/photos/mexico-captura-chapo-isidro-guasave-11-mortos-2026-11-23-320.webp 320w, editorial/photos/mexico-captura-chapo-isidro-guasave-11-mortos-2026-11-23-640.webp 640w, editorial/photos/mexico-captura-chapo-isidro-guasave-11-mortos-2026-11-23-960.webp 960w",
+      "width": 960,
+      "height": 540
+    },
+    "temporais-parana-250-casas-907-afetados-2026-11-22": {
+      "src": "editorial/photos/temporais-parana-250-casas-907-afetados-2026-11-22-1280.webp",
+      "srcset": "editorial/photos/temporais-parana-250-casas-907-afetados-2026-11-22-320.webp 320w, editorial/photos/temporais-parana-250-casas-907-afetados-2026-11-22-640.webp 640w, editorial/photos/temporais-parana-250-casas-907-afetados-2026-11-22-960.webp 960w, editorial/photos/temporais-parana-250-casas-907-afetados-2026-11-22-1280.webp 1280w",
+      "width": 1280,
+      "height": 853
     }
   }
 }

@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "eua-propoem-tarifa-10-aeronaves-acucar-brasil-2026-11-25",
+      "date": "2026-11-25",
+      "category": "ECONOMIA",
+      "title": "EUA PROPÕEM TARIFA DE 10% SOBRE AVIÕES BRASILEIROS; BRASIL REAGE",
+      "subtitle": "Washington também propõe elevar tarifas sobre açúcar fora de cotas; Brasília contesta a medida e mantém aberta a negociação.",
+      "facts": "Em 25 de novembro de 2026, em Washington, o Escritório do Representante Comercial dos Estados Unidos (USTR) anunciou consulta sobre novas barreiras às importações de aeronaves e açúcar do Brasil. No mesmo dia, em Brasília, o governo brasileiro contestou a proposta e afirmou que continuará buscando uma solução negociada. Segundo o USTR, a taxa adicional cogitada para aeronaves acabadas brasileiras é de 10%, com a retirada da isenção existente na ação comercial da Seção 301. O órgão também informou que as manifestações escritas poderão ser enviadas até 30 de dezembro de 2026 e que a audiência está prevista para 14 de janeiro de 2027. O açúcar importado fora das cotas também é alvo da proposta, que ainda está em consulta.",
+      "analysis": "O risco para a indústria aeronáutica está na elevação do custo de entrada no mercado americano. A divisão desse custo entre fabricante, comprador e outros participantes dependerá dos contratos e da capacidade de negociar preços. No açúcar, a alteração de tarifas fora das cotas pode mudar a competitividade entre origens fornecedoras. O processo comercial americano começou em 2025 e envolve também questões regulatórias brasileiras, incluindo pagamentos digitais. A reação de Brasília mostra que o conflito extrapola os dois produtos e continua inserido numa negociação comercial mais ampla.",
+      "counterpoint": "Washington sustenta que as medidas aumentariam sua capacidade de negociação diante de práticas brasileiras que considera prejudiciais ao comércio americano. Brasília discorda e afirma que buscou negociar de boa-fé, sem descartar recursos à Organização Mundial do Comércio (OMC) ou medidas de reciprocidade. Não há confirmação de que a nova tarifa entrará em vigor nos termos propostos; a consulta precede a decisão final.",
+      "sources": [
+        {
+          "name": "USTR — anúncio oficial de 25/11/2026",
+          "url": "https://www.ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-invites-public-comment-proposed-modifications-section-301-action-regarding-brazils-unreasonable"
+        },
+        {
+          "name": "Secretaria de Comunicação Social — nota de 25/11/2026",
+          "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/nota-a-imprensa-sobre-as-tarifas-dos-estados-unidos-para-aeronaves-e-acucar-brasileiro"
+        },
+        {
+          "name": "Agência Brasil — 25/11/2026",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/amcham-participara-de-consulta-dos-eua-sobre-tarifas-ao-brasil"
+        }
+      ],
+      "en": {
+        "category": "ECONOMY",
+        "title": "US PROPOSES 10% TARIFF ON BRAZILIAN AIRCRAFT; BRAZIL OBJECTS",
+        "subtitle": "Washington also proposes higher out-of-quota sugar duties; Brasília disputes the measures and remains open to negotiations.",
+        "facts": "On November 25, 2026, in Washington, the Office of the United States Trade Representative (USTR) announced a consultation on new barriers to imports of Brazilian aircraft and sugar. That same day, in Brasília, Brazil's government objected to the proposal and said it would continue seeking a negotiated solution. According to USTR, the proposed additional duty on finished Brazilian aircraft is 10%, ending the existing exemption under the Section 301 trade action. The office also said written comments are due December 30, 2026, with a hearing scheduled for January 14, 2027. Out-of-quota sugar imports are also targeted by the proposal, which remains under consultation.",
+        "analysis": "Aircraft manufacturers face the prospect of higher costs to access the US market. How the burden is shared among producers, buyers and other participants will depend on contracts and pricing negotiations. Changes to out-of-quota sugar duties could alter competition among supplier countries. The US trade process began in 2025 and also concerns Brazilian regulatory issues, including digital payments. Brasília's response shows that the dispute extends beyond the two products and remains part of broader trade negotiations.",
+        "counterpoint": "Washington argues that the measures would strengthen its leverage over Brazilian practices it considers harmful to US commerce. Brasília disagrees and says it has negotiated in good faith, without ruling out World Trade Organization (WTO) proceedings or reciprocal measures. The proposed duties are not confirmed as final; the consultation precedes a decision.",
+        "photo_captions": {
+          "1": "FILE PHOTO (November 10, 2025): Azul Embraer E195-E2 at Teresina airport, Piauí. Alexandro Dias, CC BY-SA 4.0. Does not depict the 2026 tariff announcement."
+        },
+        "slug": "us-proposes-10-tariff-on-brazilian-aircraft-brazil-objects-2026-11-25"
+      },
+      "es": {
+        "category": "ECONOMÍA",
+        "title": "EE. UU. PROPONE UN ARANCEL DEL 10% A LOS AVIONES BRASILEÑOS; BRASIL PROTESTA",
+        "subtitle": "Washington también propone elevar los aranceles al azúcar fuera de cuota; Brasil cuestiona las medidas y mantiene abierta la negociación.",
+        "facts": "El 25 de noviembre de 2026, en Washington, la Oficina del Representante Comercial de Estados Unidos (USTR) anunció una consulta sobre nuevas barreras a las importaciones de aeronaves y azúcar de Brasil. Ese mismo día, en Brasilia, el Gobierno brasileño cuestionó la propuesta y afirmó que seguiría buscando una solución negociada. Según el USTR, el arancel adicional propuesto para aeronaves terminadas brasileñas es del 10%, lo que eliminaría la exención vigente en la acción comercial de la Sección 301. La oficina también informó que los comentarios escritos podrán presentarse hasta el 30 de diciembre de 2026 y que la audiencia está prevista para el 14 de enero de 2027. La propuesta, todavía en consulta, también afecta al azúcar importado fuera de cuota.",
+        "analysis": "La industria aeronáutica afronta el riesgo de mayores costos para acceder al mercado estadounidense. El reparto del costo entre fabricantes, compradores y otros participantes dependerá de los contratos y de la negociación de precios. En el azúcar, los cambios arancelarios fuera de cuota podrían alterar la competitividad de los proveedores. El procedimiento comercial estadounidense comenzó en 2025 y también abarca cuestiones regulatorias brasileñas, incluidos los pagos digitales. La reacción de Brasilia muestra que la disputa supera a los dos productos y forma parte de una negociación comercial más amplia.",
+        "counterpoint": "Washington sostiene que las medidas reforzarían su capacidad negociadora frente a prácticas brasileñas que considera perjudiciales para el comercio estadounidense. Brasilia discrepa y afirma que ha negociado de buena fe, sin descartar acciones ante la Organización Mundial del Comercio (OMC) o medidas de reciprocidad. Los nuevos aranceles no están confirmados como definitivos; la consulta precede a la decisión.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (10/11/2025): Embraer E195-E2 de Azul en el aeropuerto de Teresina, Piauí. Alexandro Dias, CC BY-SA 4.0. No muestra el anuncio arancelario de 2026."
+        },
+        "slug": "ee-uu-propone-un-arancel-del-10-a-los-aviones-brasilenos-brasil-protesta-2026-11-25"
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Embraer_E195-E2_PS-AEY_da_Azul_no_Aeroporto_de_Teresina_THE.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Alexandro Dias / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Embraer_E195-E2_PS-AEY_da_Azul_no_Aeroporto_de_Teresina_THE.jpg",
+          "caption": "FOTO DE ARQUIVO (10/11/2025): Embraer E195-E2 da Azul no aeroporto de Teresina, Piauí. Alexandro Dias, CC BY-SA 4.0. Não retrata o anúncio tarifário de 2026."
+        }
+      ],
+      "firstSeen": "2026-11-25T23:00:03-03:00"
+    },
+    {
       "id": "uniao-europeia-propoe-22-pacote-sancoes-russia-60-bancos-2026-11-23",
       "date": "2026-11-23",
       "category": "MUNDO",
@@ -30,6 +90,9 @@
         "facts": "The European Commission presented a proposal for the European Union's 22nd sanctions package against Russia in Strasbourg, France, on November 23, 2026, in response to the war in Ukraine, according to an official statement by Commission President Ursula von der Leyen. The Commission said the proposal would restrict transactions involving about 60 Russian banks and remove them from the SWIFT financial messaging network. It also proposed listing more than 70 additional vessels linked to Russia's shadow fleet, according to the Commission. Other proposed measures target energy services, cryptocurrency networks, visas for former Russian combatants and Russian-flag participation in European sporting events. The announcement did not bring the measures into force: approval by all 27 EU member states is required, the Associated Press reported.",
         "analysis": "The proposal seeks to raise the financial and logistical costs of Russia's war effort through different channels. Bank restrictions would complicate cross-border payments; shipping and energy-service restrictions would affect export logistics; sports and visa measures have diplomatic and security aims rather than the same effect as a trade embargo. The previous, 21st package was adopted in July 2026, according to the Council of the European Union. A Commission proposal, unanimous political agreement and actual enforcement are separate stages.",
         "counterpoint": "The announcement does not mean all 60 banks have already been disconnected from SWIFT or that more than 70 vessels are already subject to new restrictions. The measures may change during negotiations among the 27 governments. Their eventual economic or military impact cannot be quantified from the announcement alone.",
+        "photo_captions": {
+          "1": "FILE PHOTO (August 31, 2009): EU member flags outside the European Parliament in Brussels, Belgium. Marek Ślusarczyk, CC BY 3.0. Does not depict the 2026 sanctions announcement in Strasbourg."
+        },
         "slug": "eu-proposes-22nd-russia-sanctions-package-targeting-60-banks-2026-11-23"
       },
       "es": {
@@ -39,8 +102,22 @@
         "facts": "La Comisión Europea presentó en Estrasburgo, Francia, el 23 de noviembre de 2026 una propuesta para el 22.º paquete de sanciones de la Unión Europea contra Rusia por la guerra en Ucrania, según una declaración oficial de su presidenta, Ursula von der Leyen. Según la Comisión, la propuesta restringiría las transacciones de unos 60 bancos rusos y los excluiría de la red de mensajería financiera SWIFT. La Comisión también propone incorporar más de 70 buques vinculados a la llamada flota en la sombra rusa a las listas restrictivas. Otras medidas previstas afectan a servicios energéticos, redes de criptomonedas, visados para excombatientes rusos y participación bajo bandera rusa en eventos deportivos europeos. El anuncio no supone la entrada en vigor inmediata: se requiere el respaldo unánime de los 27 Estados miembros, informó Associated Press.",
         "analysis": "La propuesta pretende aumentar los costes financieros y logísticos de la guerra rusa mediante instrumentos distintos. Las restricciones bancarias dificultarían pagos internacionales; las medidas marítimas y energéticas afectarían a la logística de exportación; las prohibiciones deportivas y de visados responden a objetivos diplomáticos y de seguridad. El 21.º paquete fue aprobado en julio de 2026, según el Consejo de la Unión Europea. Una propuesta de la Comisión, el acuerdo político y la aplicación efectiva son etapas diferentes.",
         "counterpoint": "El anuncio no implica que los 60 bancos ya estén desconectados de SWIFT ni que más de 70 buques hayan recibido sanciones inmediatas. El texto podría modificarse durante las negociaciones entre los 27 gobiernos. Tampoco permite cuantificar todavía su impacto económico o militar.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (31/08/2009): banderas de países de la Unión Europea frente al Parlamento Europeo en Bruselas, Bélgica. Marek Ślusarczyk, CC BY 3.0. No muestra el anuncio de sanciones de 2026 en Estrasburgo."
+        },
         "slug": "la-ue-propone-su-22-o-paquete-de-sanciones-a-rusia-y-apunta-a-60-bancos-2026-11-23"
       },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/14_EU_Member_Flags_in_front_of_European_Parliament_in_Brussels.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 3.0 — https://creativecommons.org/licenses/by/3.0/",
+          "credit": "Marek Ślusarczyk / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:14_EU_Member_Flags_in_front_of_European_Parliament_in_Brussels.jpg",
+          "caption": "FOTO DE ARQUIVO (31/08/2009): bandeiras de países da União Europeia diante do Parlamento Europeu, Bruxelas, Bélgica. Marek Ślusarczyk, CC BY 3.0. Não retrata o anúncio das sanções de 2026 em Estrasburgo."
+        }
+      ],
       "firstSeen": "2026-11-23T19:00:08-03:00"
     },
     {
@@ -73,6 +150,9 @@
         "facts": "Storms in São Paulo on November 22–23, 2026 caused a retaining wall to collapse in the eastern Penha district and prompted a search for a person swept into the Tamanduateí River near Vila Monumento, Agência Brasil reported, citing the state Civil Defense agency. According to Agência Brasil, 34 people were displaced after 2 homes on Rua Malacacheta were closed as a precaution: 14 residents stayed with relatives, while the owner of the second property pledged to relocate 20 tenants. The same report said 3 people, including a child, were rescued after floodwaters swept them away in Jabaquara and were taken for medical care. On November 23, Folha de S.Paulo reported a new severe weather warning at 4:18 p.m. and, citing utility Enel, 49,255 properties without power in the city at 4:47 p.m. Search results and incident totals may change with further official updates.",
         "analysis": "The incidents highlight distinct risks: structural damage that requires professional inspection before residents return, and powerful urban flood currents capable of sweeping people away. The 34 displaced residents are not necessarily staying in public shelters. Renewed warnings on Monday afternoon show that the danger continued beyond Sunday's initial storm. Residents should avoid crossing floodwater and follow Civil Defense alerts.",
         "counterpoint": "Available accounts disagree on the missing person's gender, so this report does not assert an identification. Totals may change as searches and inspections continue. No verified confirmation of the person's recovery was available for this report. An archival image was not attached because a direct HTTP check of the JPEG could not be completed.",
+        "photo_captions": {
+          "1": "FILE PHOTO (November 22, 2011): a bus and passengers on a rainy evening in São Paulo. Jonathan dos Santos, CC BY 2.0. Does not depict the November 2026 storms, displaced residents or search efforts."
+        },
         "slug": "sao-paulo-storms-displace-34-people-as-search-continues-in-tamanduatei-river-2026-11-23"
       },
       "es": {
@@ -82,8 +162,22 @@
         "facts": "Las tormentas que afectaron São Paulo entre el 22 y el 23 de noviembre de 2026 provocaron el derrumbe de un muro de contención en Penha, en la zona este, y una búsqueda de una persona arrastrada por el río Tamanduateí cerca de Vila Monumento, según Agência Brasil, que citó a la Defensa Civil estatal. De acuerdo con Agência Brasil, 34 personas quedaron desalojadas tras la clausura preventiva de 2 viviendas en Rua Malacacheta: 14 residentes fueron acogidos por familiares y la propietaria del segundo inmueble se comprometió a reubicar a 20 inquilinos. El mismo medio informó que 3 personas, entre ellas un menor, fueron rescatadas después de ser arrastradas por una riada en Jabaquara y trasladadas para recibir atención médica. El 23 de noviembre, Folha de S.Paulo informó de una nueva alerta severa a las 16:18 y, citando a Enel, de 49.255 inmuebles sin electricidad en la capital a las 16:47. Las cifras y el resultado de la búsqueda pueden cambiar con nuevos boletines oficiales.",
         "analysis": "Los incidentes revelan riesgos diferentes: daños estructurales que requieren inspecciones antes de regresar a las viviendas y corrientes urbanas capaces de arrastrar personas. Los 34 desalojados no necesariamente están alojados en refugios públicos. Las nuevas alertas del lunes por la tarde indican que el peligro continuó después de la tormenta inicial. Se recomienda evitar cruzar zonas inundadas y seguir los avisos de Defensa Civil.",
         "counterpoint": "Los relatos disponibles discrepan sobre el género de la persona desaparecida, por lo que no se afirma una identificación. Los balances pueden variar mientras continúan las búsquedas y las inspecciones. No se obtuvo confirmación verificada de que la persona haya sido localizada. No se añadió una fotografía de archivo porque no fue posible completar la comprobación HTTP directa del JPEG.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (22/11/2011): autobús y pasajeros en una noche lluviosa en São Paulo. Jonathan dos Santos, CC BY 2.0. No muestra las tormentas, las personas desplazadas ni las búsquedas de noviembre de 2026."
+        },
         "slug": "tormentas-en-sao-paulo-dejan-34-desalojados-y-busqueda-en-el-rio-tamanduatei-2026-11-23"
       },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Chuva_em_S%C3%A3o_Paulo.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/",
+          "credit": "Jonathan dos Santos / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Chuva_em_S%C3%A3o_Paulo.jpg",
+          "caption": "FOTO DE ARQUIVO (22/11/2011): ônibus e passageiros em noite de chuva na cidade de São Paulo. Jonathan dos Santos, CC BY 2.0. Não retrata os temporais, os desalojados nem as buscas de novembro de 2026."
+        }
+      ],
       "firstSeen": "2026-11-23T18:00:48-03:00"
     },
     {
@@ -116,6 +210,9 @@
         "facts": "Gabriel Muricca Galípolo, president of the Central Bank of Brazil (BC), called for reviewing rules that automatically increase public spending without necessarily cutting social programs at the Itaú BBA Macro Vision 2026 event in São Paulo on November 23, 2026, Reuters and CNN Brasil reported. He argued that linking spending to revenue can add inflationary pressure when employment is high, complicating interest-rate cuts, according to Reuters. CNN Brasil reported that Galípolo ruled out any government discussion of changing Brazil's annual 3% inflation target, which has a tolerance band of 1.5 percentage points on either side. Reuters described the fiscal framework as limiting real spending growth to 70% of real revenue growth, with an annual ceiling of 2.5% and floor of 0.6%.",
         "analysis": "The remarks do not amount to a new law or an interest-rate decision. They distinguish preserving social protection from changing mechanisms that automatically turn additional tax revenue into expenditure. If revenues rise but linked spending rises as well, the resulting fiscal adjustment may be smaller than expected. That is why the central bank chief connected spending-rule design with inflation expectations and government borrowing costs. Any legislative change would require political decisions outside the central bank.",
         "counterpoint": "Galípolo offered no detailed legislative proposal and did not quantify how much inflation or interest rates might fall following changes to spending rules. The outcome would depend on the specific provisions, economic growth, revenues and safeguards for beneficiaries. His remarks express a risk assessment rather than a government policy decision.",
+        "photo_captions": {
+          "1": "FILE PHOTO (July 4, 2023): Gabriel Galípolo at Brazil's Senate in Brasília during a hearing for Central Bank nominees. Cropped photo: Pedro França/Agência Senado, CC BY 2.0. Does not depict the November 2026 remarks."
+        },
         "slug": "brazil-s-central-bank-chief-calls-for-spending-rule-changes-without-cutting-2026-11-23"
       },
       "es": {
@@ -125,8 +222,22 @@
         "facts": "Gabriel Muricca Galípolo, presidente del Banco Central de Brasil (BC), defendió el 23 de noviembre de 2026 en el evento Macro Vision 2026 de Itaú BBA, celebrado en São Paulo, la revisión de normas que aumentan automáticamente el gasto público sin necesariamente recortar programas sociales, según Reuters y CNN Brasil. Argumentó que vincular los gastos a la recaudación puede aumentar la presión inflacionaria en una economía con alto empleo y dificultar la reducción de los tipos de interés, de acuerdo con Reuters. CNN Brasil informó que Galípolo descartó conversaciones gubernamentales para modificar la meta anual de inflación del 3%, con una banda de tolerancia de 1,5 puntos porcentuales en cada dirección. Según Reuters, el marco fiscal limita el crecimiento real del gasto al 70% del aumento real de los ingresos, con un techo anual del 2,5% y un mínimo del 0,6%.",
         "analysis": "Las declaraciones no representan una nueva ley ni una decisión sobre los tipos de interés. Distinguen entre proteger los programas sociales y modificar mecanismos que convierten automáticamente mayores ingresos tributarios en más gastos. Si la recaudación crece y también lo hacen los compromisos vinculados, el ajuste fiscal puede ser menor de lo previsto. Esto explica la relación señalada entre las reglas de gasto, las expectativas inflacionarias y el costo de financiación de la deuda pública. Cualquier cambio legal correspondería al proceso político y legislativo.",
         "counterpoint": "Galípolo no presentó una propuesta legislativa detallada ni cuantificó cuánto bajarían la inflación o los tipos de interés con una revisión de las reglas. El resultado dependería de las normas concretas, la recaudación, el crecimiento económico y la protección de los beneficiarios. Sus palabras constituyen una evaluación de riesgos, no una decisión gubernamental.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (04/07/2023): Gabriel Galípolo en el Senado de Brasil, en Brasilia, durante una audiencia de candidatos al Banco Central. Foto recortada: Pedro França/Agência Senado, CC BY 2.0. No muestra las declaraciones de noviembre de 2026."
+        },
         "slug": "galipolo-propone-revisar-reglas-de-gasto-sin-recortar-programas-sociales-en-2026-11-23"
       },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gabriel_Gal%C3%ADpolo_in_2023.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/",
+          "credit": "Pedro França / Agência Senado / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Gabriel_Gal%C3%ADpolo_in_2023.jpg",
+          "caption": "FOTO DE ARQUIVO (04/07/2023): Gabriel Galípolo no Senado, em Brasília, durante sabatina de indicados ao Banco Central. Foto recortada: Pedro França/Agência Senado, CC BY 2.0. Não retrata a declaração de novembro de 2026."
+        }
+      ],
       "firstSeen": "2026-11-23T14:04:48-03:00"
     },
     {
@@ -279,6 +390,9 @@
         "facts": "China's National Development and Reform Commission published a national plan on November 23, 2026 to expand elderly care and childcare services by 2030 amid population ageing and declining births. According to the official plan, nursing-care beds are to account for 73% of beds in elderly care institutions by 2030, while community elderly care facilities are to reach 70% coverage. The commission also targets a 6-percentage-point increase in childcare enrolment for children under three compared with 2025. These are targets, not evidence that the services have already expanded to those levels.",
         "analysis": "The plan addresses two demographic pressures at once: rising demand for elderly assistance and falling births. It calls for upgrading institutions, improving neighbourhood services and encouraging workplace childcare, backed by central funding, local-government bonds and commercial credit. The 73% figure measures the share of nursing beds inside institutions, not the share of older people receiving care; the 70% figure concerns facility coverage, not guaranteed access for every resident.",
         "counterpoint": "The 2030 figures are policy targets rather than achieved outcomes. Implementation depends on staffing, funding and local administrative capacity; the plan does not establish equal access in urban and rural areas.",
+        "photo_captions": {
+          "1": "FILE PHOTO (February 24, 2023): Wangcheng District Elderly Care Center, Changsha, Hunan, China. Huangdan2060, CC BY 4.0; resized version. Does not depict the 2026 plan announcement."
+        },
         "slug": "china-sets-2030-targets-for-elderly-care-and-childcare-services-2026-11-23"
       },
       "es": {
@@ -288,8 +402,22 @@
         "facts": "La Comisión Nacional de Desarrollo y Reforma de China publicó el 23 de noviembre de 2026 un plan nacional para ampliar la atención a personas mayores y niños hasta 2030, ante el envejecimiento demográfico y la caída de la natalidad. Según el documento oficial, las camas de cuidados de enfermería deberán representar el 73% de las plazas en instituciones para mayores en 2030, mientras que la cobertura de centros comunitarios deberá alcanzar el 70%. La comisión también prevé aumentar en 6 puntos porcentuales, frente a 2025, la tasa de asistencia a servicios de cuidado para menores de tres años. Se trata de objetivos, no de resultados ya alcanzados.",
         "analysis": "El plan responde simultáneamente al aumento de la demanda de cuidados para mayores y al descenso de los nacimientos. Propone renovar centros, ampliar servicios de proximidad e impulsar guarderías en lugares de trabajo, con financiación del presupuesto central, bonos de gobiernos locales y crédito comercial. El 73% mide la proporción de camas de enfermería dentro de instituciones, no la proporción de mayores atendidos; el 70% se refiere a cobertura de instalaciones, no a acceso garantizado para cada persona.",
         "counterpoint": "Las cifras de 2030 son metas de política pública y no logros comprobados. Su cumplimiento dependerá de financiación, personal y capacidad local; el documento no demuestra una expansión uniforme entre zonas urbanas y rurales.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (24/02/2023): centro de atención a mayores del distrito de Wangcheng, Changsha, Hunan, China. Huangdan2060, CC BY 4.0; versión reducida. No muestra el anuncio del plan de 2026."
+        },
         "slug": "china-fija-metas-de-atencion-a-mayores-y-cuidado-infantil-para-2030-2026-11-23"
       },
+      "photos": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Wangcheng_District_Elderly_Care_Center_20230224.jpg/960px-Wangcheng_District_Elderly_Care_Center_20230224.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+          "credit": "Huangdan2060 / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Wangcheng_District_Elderly_Care_Center_20230224.jpg",
+          "caption": "FOTO DE ARQUIVO (24/02/2023): centro de cuidados para idosos do distrito de Wangcheng, Changsha, Hunan, China. Huangdan2060, CC BY 4.0; versão reduzida. Não retrata o anúncio do plano de 2026."
+        }
+      ],
       "firstSeen": "2026-11-23T06:02:45-03:00"
     },
     {
@@ -318,6 +446,9 @@
         "facts": "Russian air strikes on towns in Ukraine's Kyiv region killed at least 15 people by November 23, 2026, according to Ukrainian officials cited by AFP and Euronews. In Dymer, about 45 kilometres north of the capital, a five-storey residential building was hit; the death toll reached 11, according to regional official Tymur Tkachenko as reported by Reuters on November 23. Euronews, citing local officials, reported three additional deaths at a supermarket in Vyshneve and one at a home in Bila Tserkva. Searches through the rubble continued and the casualty figures could change.",
         "analysis": "The regional toll combines strikes in three locations rather than just the collapsed building in Dymer. This distinction matters: 11 deaths at the building and at least 15 across the region refer to different scopes of the same series of attacks. Searches for missing residents and further air alerts complicated rescue operations. The strikes come amid intensified Russian bombardment of Ukrainian towns and infrastructure ahead of winter, placing additional pressure on emergency services and civilians.",
         "counterpoint": "These are preliminary figures attributed to Ukrainian authorities and may be revised. Reuters reported the official toll of 11 in Dymer; AFP, carried by Euronews, reported at least 15 across the region. The final casualty count and all military circumstances of the strikes have not been independently established.",
+        "photo_captions": {
+          "1": "FILE PHOTO (November 25, 2022): Velyka Vasylkivska Street in Kyiv during a blackout following Russian strikes on electricity infrastructure. Bektour, CC BY 4.0. Does not show Dymer, the damaged buildings or the November 2026 strikes."
+        },
         "slug": "russian-strikes-kill-at-least-15-in-kyiv-region-as-dymer-rescue-continues-2026-11-23"
       },
       "es": {
@@ -327,8 +458,22 @@
         "facts": "Los ataques aéreos rusos contra localidades de la región de Kiev, Ucrania, dejaron al menos 15 muertos hasta el 23 de noviembre de 2026, según autoridades ucranianas citadas por AFP y Euronews. En Dymer, a unos 45 kilómetros al norte de la capital, fue alcanzado un edificio residencial de cinco plantas; el balance ascendió a 11 muertos, según el responsable regional Tymur Tkachenko, citado por Reuters el 23 de noviembre. Euronews, basándose en autoridades locales, informó de otras tres muertes en un supermercado de Vyshneve y una en una vivienda de Bila Tserkva. La búsqueda entre los escombros continuaba y el número de víctimas podía cambiar.",
         "analysis": "El balance regional reúne ataques en tres localidades y no solo el derrumbe de Dymer. La distinción importa: los 11 muertos del edificio y los al menos 15 de toda la región corresponden a ámbitos distintos de la misma ofensiva. La búsqueda de desaparecidos y las nuevas alertas aéreas dificultan el rescate. Los ataques se producen en medio de una intensificación de los bombardeos rusos contra ciudades e infraestructuras ucranianas antes del invierno, con mayor presión sobre los servicios de emergencia y la población.",
         "counterpoint": "Son cifras preliminares atribuidas a autoridades ucranianas y pueden revisarse. Reuters informó del balance oficial de 11 muertos en Dymer; AFP, a través de Euronews, informó de al menos 15 en toda la región. No se han confirmado de manera independiente el balance definitivo ni todas las circunstancias militares de los ataques.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (25/11/2022): calle Velyka Vasylkivska, en Kiev, durante un apagón tras ataques rusos a la infraestructura eléctrica. Bektour, CC BY 4.0. No muestra Dymer, los edificios afectados ni los ataques de noviembre de 2026."
+        },
         "slug": "ataques-rusos-dejan-al-menos-15-muertos-en-la-region-de-kiev-siguen-los-2026-11-23"
       },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Kyiv_during_the_blackout_caused_by_Russian_missile_attacks%2C_November_2022.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+          "credit": "Bektour / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Kyiv_during_the_blackout_caused_by_Russian_missile_attacks,_November_2022.jpg",
+          "caption": "FOTO DE ARQUIVO (25/11/2022): rua Velyka Vasylkivska, na capital Kiev, durante apagão após ataques russos à infraestrutura elétrica. Bektour, CC BY 4.0. Não mostra Dymer, os edifícios atingidos nem os ataques de novembro de 2026."
+        }
+      ],
       "firstSeen": "2026-11-23T01:57:38-03:00"
     },
     {
@@ -357,6 +502,9 @@
         "facts": "Fighting near a hospital in Ituri province, northeastern Democratic Republic of the Congo, disrupted the Ebola response, World Health Organization (WHO) Director-General Tedros Adhanom Ghebreyesus said on November 22, 2026. According to Tedros, WHO personnel and humanitarian partners sheltered in the hospital's maternity ward for more than 24 hours while the organization sought safe passage. Government figures reported by Reuters on November 22 showed that the outbreak declared on May 15, 2026 had caused more than 11,000 infections and 5,500 deaths; these are cumulative outbreak figures, not casualties from the fighting.",
         "analysis": "Disrupting a hospital in an outbreak area affects care, patient isolation and contact tracing at the same time. The danger extends beyond the sheltered workers because continuity of health operations requires safe access for teams and patients. The cumulative outbreak figures show the scale of the health emergency, but cannot establish how many additional infections might be attributable to this particular episode of violence.",
         "counterpoint": "The maternity-ward account came from the WHO director-general and was reported by Reuters and Al Jazeera. At the time of reporting, there was no independent confirmation of who was responsible for the fighting, how many people were sheltering, or whether a safe evacuation had been completed. Ebola outbreak totals must not be confused with casualties from the clashes.",
+        "photo_captions": {
+          "1": "FILE PHOTO (September 1, 2019): UN Secretary-General António Guterres visits the Mangina Ebola Treatment Centre, Democratic Republic of the Congo. MONUSCO Photos / UN/Martine Perret, CC BY-SA 2.0; resized version. Does not depict the Ituri hospital or the 2026 fighting."
+        },
         "slug": "fighting-near-congo-hospital-disrupts-ebola-response-who-chief-warns-2026-11-23"
       },
       "es": {
@@ -366,8 +514,22 @@
         "facts": "Los combates cerca de un hospital en la provincia de Ituri, noreste de la República Democrática del Congo, interrumpieron la respuesta al ébola, informó el 22 de noviembre de 2026 el director general de la Organización Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus. Según Tedros, trabajadores de la OMS y socios humanitarios permanecieron refugiados en la maternidad del hospital durante más de 24 horas mientras se buscaba un paso seguro. Según datos del Gobierno congoleño citados por Reuters el 22 de noviembre, el brote declarado el 15 de mayo de 2026 había causado más de 11.000 infecciones y 5.500 muertes; son cifras acumuladas del brote, no víctimas de los enfrentamientos.",
         "analysis": "La interrupción de un hospital en una zona de transmisión perjudica a la vez la atención, el aislamiento de pacientes y el rastreo de contactos. El riesgo va más allá del personal refugiado: la continuidad de las operaciones sanitarias exige acceso seguro para equipos y pacientes. Las cifras acumuladas muestran la magnitud de la emergencia, pero no permiten calcular cuántas infecciones adicionales pueden atribuirse a este episodio concreto de violencia.",
         "counterpoint": "El relato sobre la maternidad procede del director general de la OMS y fue recogido por Reuters y Al Jazeera. Al cierre de la información no había confirmación independiente sobre los responsables de los combates, el número de personas refugiadas ni la conclusión de una evacuación segura. Las cifras acumuladas de ébola no deben confundirse con víctimas de los enfrentamientos.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (01/09/2019): visita del secretario general de la ONU António Guterres al centro de tratamiento del ébola de Mangina, República Democrática del Congo. MONUSCO Photos / UN/Martine Perret, CC BY-SA 2.0; versión reducida. No muestra el hospital de Ituri ni los combates de 2026."
+        },
         "slug": "combates-cerca-de-hospital-en-congo-interrumpen-respuesta-al-ebola-advierte-la-2026-11-23"
       },
+      "photos": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/SECRETARY-GENERAL%E2%80%99S_VISIT_TO_THE_DEMOCRATIC_REPUBLIC_OF_THE_CONGO_%2848710365336%29.jpg/960px-SECRETARY-GENERAL%E2%80%99S_VISIT_TO_THE_DEMOCRATIC_REPUBLIC_OF_THE_CONGO_%2848710365336%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 2.0 — https://creativecommons.org/licenses/by-sa/2.0/",
+          "credit": "MONUSCO Photos / UN/Martine Perret / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:SECRETARY-GENERAL%E2%80%99S_VISIT_TO_THE_DEMOCRATIC_REPUBLIC_OF_THE_CONGO_(48710365336).jpg",
+          "caption": "FOTO DE ARQUIVO (01/09/2019): visita do secretário-geral da ONU António Guterres ao centro de tratamento de ebola de Mangina, República Democrática do Congo. MONUSCO Photos / UN/Martine Perret, CC BY-SA 2.0; versão reduzida. Não retrata o hospital de Ituri nem os combates de 2026."
+        }
+      ],
       "firstSeen": "2026-11-23T01:57:38-03:00"
     },
     {
@@ -400,6 +562,9 @@
         "facts": "Delta Air Lines experienced an automated aircraft weight-and-balance system outage on November 22, 2026, in the United States, with significant disruption in Atlanta. According to Delta, as reported by ABC News on November 22, more than 1,600 of its flights were delayed nationwide. FlightAware figures cited by the Associated Press showed 48% of Delta flights delayed by midday Sunday; the US Federal Aviation Administration (FAA) said its own air traffic systems did not cause the disruption. Delta later said its system was restored and that the incident was not a cyberattack.",
         "analysis": "Weight-and-balance calculations are essential to flight dispatch because load distribution affects operating limits and an aircraft's center of gravity. A disruption to a dispatch tool can therefore ripple across connecting flights even without an air traffic control failure. The outage came ahead of the busy US Thanksgiving travel period. Delayed flights are not the same as canceled flights, and not every delay can necessarily be attributed solely to this outage.",
         "counterpoint": "Delay totals changed throughout the day and differed by reporting time. Delta said the outage was not caused by a cyberattack, but that statement is not an independent technical audit. There is no confirmation of an FAA systems failure in this incident.",
+        "photo_captions": {
+          "1": "FILE PHOTO (September 12, 2012): Delta Air Lines Boeing 757 at Atlanta airport, US. redlegsfan21, CC BY-SA 2.0. Does not depict the November 2026 outage."
+        },
         "slug": "delta-system-failure-delays-more-than-1-600-us-flights-ahead-of-thanksgiving-2026-11-23"
       },
       "es": {
@@ -409,8 +574,22 @@
         "facts": "Delta Air Lines sufrió el 22 de noviembre de 2026, en Estados Unidos, una falla de su sistema automatizado de peso y equilibrio de aeronaves, con importantes consecuencias en Atlanta. Según Delta, citada por ABC News el 22 de noviembre, más de 1.600 vuelos de la compañía registraron retrasos en todo el país. Los datos de FlightAware citados por Associated Press indicaban que el 48% de los vuelos de Delta acumulaban retrasos al mediodía del domingo; la Administración Federal de Aviación de Estados Unidos (FAA) señaló que sus sistemas de control de tráfico aéreo no causaron la interrupción. Delta informó posteriormente que el sistema volvió a funcionar y que no se trató de un ciberataque.",
         "analysis": "Los cálculos de peso y equilibrio son esenciales antes del despegue porque la distribución de la carga afecta los límites operativos y el centro de gravedad del avión. Por eso, una falla en una herramienta de despacho puede repercutir en toda una red de conexiones incluso sin problemas en el control aéreo. El incidente ocurrió antes del período de viajes por Acción de Gracias. Un vuelo retrasado no equivale a uno cancelado, y no todos los retrasos pueden atribuirse necesariamente solo a esta falla.",
         "counterpoint": "Las cifras de retrasos cambiaron durante el día y varían según la hora de medición. Delta afirmó que no hubo un ciberataque, pero esa declaración no sustituye una auditoría técnica independiente. No hay confirmación de una falla en los sistemas de la FAA durante este incidente.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (12/09/2012): Boeing 757 de Delta Air Lines en el aeropuerto de Atlanta, EE. UU. redlegsfan21, CC BY-SA 2.0. No muestra el fallo de noviembre de 2026."
+        },
         "slug": "falla-en-delta-retrasa-mas-de-1-600-vuelos-en-ee-uu-antes-de-accion-de-gracias-2026-11-23"
       },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Delta_plane_and_Atlanta_skyline.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 2.0 — https://creativecommons.org/licenses/by-sa/2.0/",
+          "credit": "redlegsfan21 / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Delta_plane_and_Atlanta_skyline.jpg",
+          "caption": "FOTO DE ARQUIVO (12/09/2012): Boeing 757 da Delta Air Lines no aeroporto de Atlanta, EUA. redlegsfan21, CC BY-SA 2.0. Não retrata a falha de novembro de 2026."
+        }
+      ],
       "firstSeen": "2026-11-23T01:04:56-03:00"
     },
     {
@@ -447,6 +626,9 @@
         "facts": "Special forces from Mexico's Army and National Guard captured Fausto Isidro Meza Flores, known as 'Chapo Isidro', in Guasave, Sinaloa state, on November 20, 2026. According to Mexico's Secretariat of National Defense, 4 soldiers and 7 alleged attackers were killed; the figures were detailed in a November 21, 2026 statement. The same agency reported 8 arrests, including 3 suspects transferred to Mexico City, and said US intelligence agencies had cooperated. Federal prosecutors were to determine the detainees' legal status; the allegations remain subject to judicial proceedings.",
         "analysis": "Mexican authorities identify the detainee as a leader linked to the Beltrán Leyva organization and allied with the Pacific Cartel's 'Mayos' faction. His transfer to the capital underscores the scale of the operation, but arresting leaders does not necessarily dismantle trafficking and financing networks. For Guasave residents, the immediate issue is security following clashes and roadblocks; for both governments, the longer-term test is sustained reductions in violence and judicial accountability.",
         "counterpoint": "Allegations about criminal affiliations and the casualty count are attributed to Mexican authorities, not court findings. Officials said they had no reports of uninvolved civilian casualties at the time of their statement, but that assessment may change. The arrest alone does not establish that factional violence will end.",
+        "photo_captions": {
+          "1": "FILE PHOTO (April 11, 2022): tourist sign in Guasave, Sinaloa, Mexico. Daniel Ramirez, CC BY 2.0; resized version. Does not depict the specific operation site, detainees or the November 2026 arrest."
+        },
         "slug": "mexico-captures-chapo-isidro-in-sinaloa-operation-leaves-11-dead-2026-11-23"
       },
       "es": {
@@ -456,8 +638,22 @@
         "facts": "Fuerzas especiales del Ejército y de la Guardia Nacional de México capturaron a Fausto Isidro Meza Flores, conocido como 'Chapo Isidro', en Guasave, estado de Sinaloa, el 20 de noviembre de 2026. Según la Secretaría de la Defensa Nacional de México, murieron 4 militares y 7 presuntos agresores; las cifras se detallaron en un comunicado del 21 de noviembre de 2026. La misma institución informó de 8 detenidos, entre ellos 3 trasladados a Ciudad de México, y de cooperación de inteligencia con Estados Unidos. La situación jurídica de los detenidos quedaría a cargo del Ministerio Público Federal; las acusaciones están sujetas a resolución judicial.",
         "analysis": "Las autoridades mexicanas señalan al detenido como dirigente vinculado a la organización Beltrán Leyva y aliado de la facción 'Mayos' del Cártel del Pacífico. Su traslado a la capital refleja la magnitud del operativo, pero capturar líderes no significa necesariamente desmantelar las redes de tráfico y financiación. Para los habitantes de Guasave, la prioridad es la seguridad tras los enfrentamientos y bloqueos; para ambos gobiernos, la prueba será una reducción sostenida de la violencia y la rendición de cuentas judicial.",
         "counterpoint": "Las acusaciones sobre vínculos criminales y las cifras de fallecidos proceden de las autoridades mexicanas y no constituyen sentencias judiciales. La Secretaría afirmó que no tenía reportes de víctimas ajenas a los hechos en ese momento, algo que puede cambiar con nuevas investigaciones. La detención por sí sola no garantiza el fin de las disputas entre facciones.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (11/04/2022): letras monumentales de Guasave, Sinaloa, México. Daniel Ramirez, CC BY 2.0; versión reducida. No muestra el lugar específico del operativo, los detenidos ni la captura de noviembre de 2026."
+        },
         "slug": "mexico-captura-al-chapo-isidro-en-sinaloa-operativo-deja-11-muertos-2026-11-23"
       },
+      "photos": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Guasave.jpg/960px-Guasave.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/",
+          "credit": "Daniel Ramirez / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Guasave.jpg",
+          "caption": "FOTO DE ARQUIVO (11/04/2022): letreiro turístico de Guasave, Sinaloa, México. Daniel Ramirez, CC BY 2.0; versão reduzida. Não retrata o local específico da operação, os detidos nem a captura de novembro de 2026."
+        }
+      ],
       "firstSeen": "2026-11-23T03:15:00.000Z"
     },
     {
@@ -482,6 +678,9 @@
         "analysis": "These figures describe different impacts and should not be added together: 'affected' includes people experiencing disruptions to essential services, while 'displaced' refers to those forced to leave their homes. The concentration of power outages in western Paraná shows the disruption extends beyond properties physically damaged. Agência Brasil reported that low pressure over northern Paraguay and a stationary front over Paraná could sustain unstable weather into the early hours of Monday, November 23. Updated power-restoration and Civil Defense reports will be important for residents.",
         "counterpoint": "The figures are preliminary and may change as local authorities complete their assessments. The outage count is a snapshot from 4:09 p.m. on November 22, not a permanent total. The tornado reported in Manoel Ribas does not mean the same weather phenomenon struck every affected municipality.",
         "category": "BRAZIL",
+        "photo_captions": {
+          "1": "FILE PHOTO (November 8, 2025): aerial view of Rio Bonito do Iguaçu, Paraná, after a 2025 tornado. Ari Dias/AEN, CC0 1.0. Depicts a separate event, NOT the November 2026 storms or damaged homes."
+        },
         "slug": "storms-damage-250-homes-and-affect-907-people-in-parana-brazil-2026-11-22"
       },
       "es": {
@@ -491,8 +690,22 @@
         "analysis": "Las cifras reflejan consecuencias distintas y no deben sumarse: los 'afectados' incluyen a quienes perdieron servicios esenciales, mientras que los 'desplazados' tuvieron que dejar sus viviendas. La concentración de cortes eléctricos en el oeste muestra que el impacto va más allá de los daños físicos en los inmuebles. Según Agência Brasil, una baja presión sobre el norte de Paraguay y un frente estacionario en Paraná podían mantener la inestabilidad hasta la madrugada del lunes 23 de noviembre. Los nuevos informes sobre la recuperación eléctrica y los daños serán fundamentales para los residentes.",
         "counterpoint": "Los datos son preliminares y pueden cambiar conforme avancen las evaluaciones municipales. La cifra de usuarios sin electricidad corresponde a las 16:09 del 22 de noviembre y no representa un total permanente. El tornado registrado en Manoel Ribas no implica que todos los municipios hayan sufrido el mismo fenómeno.",
         "category": "BRASIL",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (08/11/2025): vista aérea de Rio Bonito do Iguaçu, Paraná, tras un tornado de 2025. Ari Dias/AEN, CC0 1.0. Registra otro episodio y NO muestra las tormentas ni las viviendas dañadas en noviembre de 2026."
+        },
         "slug": "temporales-danan-250-viviendas-y-afectan-a-907-personas-en-parana-brasil-2026-11-22"
-      }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tornado_em_Rio_Bonito_do_Igua%C3%A7u_01.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/",
+          "credit": "Ari Dias / Agência Estadual de Notícias do Paraná / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Tornado_em_Rio_Bonito_do_Igua%C3%A7u_01.jpg",
+          "caption": "FOTO DE ARQUIVO (08/11/2025): vista aérea de Rio Bonito do Iguaçu, Paraná, após um tornado de 2025. Ari Dias/AEN, CC0 1.0. A imagem registra outro episódio e NÃO mostra os temporais nem as casas danificadas em novembro de 2026."
+        }
+      ]
     },
     {
       "id": "marc-marquez-octacampeao-motogp-portugal-2026-11-22",
