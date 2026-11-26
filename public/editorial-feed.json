@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": "governo-bloqueia-3941-celulares-presidios-2026-11-26",
+      "date": "2026-11-26",
+      "category": "SEGURANÇA",
+      "title": "GOVERNO BLOQUEIA 3.941 CELULARES EM PRESÍDIOS E INAUGURA CENTRO DE INTELIGÊNCIA PENAL",
+      "subtitle": "Balanço apresentado em Brasília aponta bloqueios nas redes móveis; projeto de segurança contempla 138 unidades prisionais.",
+      "facts": "O Ministério da Justiça e Segurança Pública (MJSP) informou em Brasília, em 25 de novembro de 2026, que 3.941 celulares usados irregularmente em presídios brasileiros foram bloqueados entre 9 de outubro e 24 de novembro. O balanço foi apresentado na inauguração da sede do Centro Nacional de Inteligência Penal (CNIP) e reiterado pelo governo em 26 de novembro. Segundo a Secretaria de Comunicação Social, o projeto Padrão Segurança Máxima contempla 138 unidades prisionais.",
+      "analysis": "A integração de informações entre autoridades federais e estaduais pode ajudar a interromper comunicações criminosas e coordenar investigações. A eficácia depende também de impedir a entrada de novos aparelhos e de avaliar os resultados sobre crimes praticados fora das prisões.",
+      "counterpoint": "O número de bloqueios não equivale ao número de aparelhos apreendidos nem comprova, isoladamente, uma redução de crimes. O balanço oficial não apresenta uma avaliação causal do impacto sobre a segurança pública.",
+      "sources": [
+        {
+          "name": "Ministério da Justiça e Segurança Pública",
+          "url": "https://www.gov.br/mj/pt-br/assuntos/noticias/governo-bloqueia-quase-4-mil-celulares-em-presidios-e-inaugura-centro-nacional-de-inteligencia-penal-1"
+        },
+        {
+          "name": "Secretaria de Comunicação Social",
+          "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/governo-federal-bloqueia-quase-4-mil-celulares-em-presidios"
+        }
+      ],
+      "en": {
+        "category": "SECURITY",
+        "title": "BRAZIL BLOCKS 3,941 PHONES IN PRISONS AND OPENS PENAL INTELLIGENCE CENTER",
+        "subtitle": "Figures presented in Brasília show mobile network blocks; the security project covers 138 prisons.",
+        "facts": "Brazil's Ministry of Justice and Public Security (MJSP) reported in Brasília on November 25, 2026, that 3,941 phones used illegally in Brazilian prisons were blocked between October 9 and November 24. The figures were presented at the opening of the National Penal Intelligence Center (CNIP) headquarters and reiterated by the government on November 26. According to the Social Communication Secretariat, the Maximum Security Standard project covers 138 prisons.",
+        "analysis": "Information sharing between federal and state authorities may help disrupt criminal communications and coordinate investigations. Effectiveness also depends on preventing new devices from entering prisons and evaluating outcomes for crimes committed outside them.",
+        "counterpoint": "The number of blocks is not the number of devices seized and does not independently demonstrate a reduction in crime. The official report does not provide a causal assessment of the impact on public safety.",
+        "slug": "brazil-blocks-3-941-phones-in-prisons-and-opens-penal-intelligence-center-2026-11-26"
+      },
+      "es": {
+        "category": "SEGURIDAD",
+        "title": "BRASIL BLOQUEA 3.941 CELULARES EN PRISIONES E INAUGURA CENTRO DE INTELIGENCIA PENITENCIARIA",
+        "subtitle": "El balance presentado en Brasilia registra bloqueos en redes móviles; el proyecto de seguridad abarca 138 prisiones.",
+        "facts": "El Ministerio de Justicia y Seguridad Pública (MJSP) de Brasil informó en Brasilia el 25 de noviembre de 2026 que 3.941 celulares utilizados irregularmente en prisiones brasileñas fueron bloqueados entre el 9 de octubre y el 24 de noviembre. El balance se presentó durante la inauguración de la sede del Centro Nacional de Inteligencia Penitenciaria (CNIP) y fue reiterado por el gobierno el 26 de noviembre. Según la Secretaría de Comunicación Social, el proyecto Estándar de Seguridad Máxima abarca 138 prisiones.",
+        "analysis": "El intercambio de información entre autoridades federales y estatales puede ayudar a interrumpir comunicaciones delictivas y coordinar investigaciones. La eficacia también depende de impedir la entrada de nuevos dispositivos y evaluar los resultados sobre delitos cometidos fuera de las prisiones.",
+        "counterpoint": "El número de bloqueos no equivale al de dispositivos incautados ni demuestra por sí solo una reducción de delitos. El balance oficial no presenta una evaluación causal del impacto sobre la seguridad pública.",
+        "slug": "brasil-bloquea-3-941-celulares-en-prisiones-e-inaugura-centro-de-inteligencia-2026-11-26"
+      },
+      "firstSeen": "2026-11-26T19:58:22-03:00"
+    },
+    {
       "id": "ipca-15-novembro-022-alimentos-2026-11-26",
       "date": "2026-11-26",
       "category": "ECONOMIA",
