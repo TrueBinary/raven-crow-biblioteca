@@ -2,9 +2,49 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-26T04:55:21-03:00",
+  "updatedAt": "2026-11-26T15:58:27-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "ipca-15-novembro-022-alimentos-2026-11-26",
+      "date": "2026-11-26",
+      "category": "ECONOMIA",
+      "title": "PRÉVIA DA INFLAÇÃO DESACELERA A 0,22% EM NOVEMBRO, MAS ALIMENTOS SOBEM 1,51%",
+      "subtitle": "IPCA-15 acumula 4,64% em 12 meses; alimentação em casa fica mais cara enquanto transportes recuam.",
+      "facts": "O Instituto Brasileiro de Geografia e Estatística (IBGE) divulgou em 26 de novembro de 2026, no Brasil, alta de 0,22% no Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15), ante 0,32% em outubro. Segundo o instituto, alimentos e bebidas encareceram 1,51%, enquanto transportes ficaram 0,71% mais baratos. O acumulado em 12 meses chegou a 4,64%, ante 4,62% na leitura anterior, e o tomate registrou aumento de 38,92%, conforme os dados do IBGE.",
+      "analysis": "A desaceleração do índice agregado não significa que o custo de vida tenha diminuído. Famílias que destinam parcela maior da renda à alimentação podem perceber uma pressão diferente daquela indicada pela média nacional. Para a política monetária, a leitura mensal oferece um sinal de alívio, mas o avanço do acumulado anual recomenda cautela.",
+      "counterpoint": "O IPCA-15 tem período de coleta diferente do IPCA oficial e não determina sozinho a trajetória dos juros. A alta de um alimento também não permite concluir que todos os preços seguirão a mesma direção.",
+      "sources": [
+        {
+          "name": "Agência Gov — via IBGE",
+          "url": "https://agenciagov.ebc.com.br/noticias/202611/ibge-inflacao-perde-ritmo-na-previa-de-novembro"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.investing.com/news/economy-news/brazil-midnovember-inflation-eases-comes-in-below-expectations-5052504"
+        },
+        {
+          "name": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/11/ipca-15-desacelera-a-022-em-novembro-com-alivio-nas-passagens-aereas-e-nos-combustiveis.shtml"
+        }
+      ],
+      "en": {
+        "category": "ECONOMY",
+        "title": "BRAZIL'S MID-MONTH INFLATION SLOWS TO 0.22% IN NOVEMBER, BUT FOOD PRICES RISE 1.51%",
+        "subtitle": "IPCA-15 reaches 4.64% over 12 months; food at home becomes more expensive while transport prices fall.",
+        "facts": "Brazil's Institute of Geography and Statistics (IBGE) reported on November 26, 2026, that the country's Broad National Consumer Price Index 15 (IPCA-15) rose 0.22%, compared with 0.32% in October. According to the institute, food and beverage prices increased 1.51%, while transport prices fell 0.71%. The 12-month rate reached 4.64%, up from 4.62% in the previous reading, and tomato prices increased 38.92%, according to IBGE data.",
+        "analysis": "A slowdown in the aggregate index does not mean the cost of living has fallen. Households spending a larger share of income on food may experience different pressures from those reflected in the national average. For monetary policy, the monthly reading offers some relief, but the rise in annual inflation calls for caution.",
+        "counterpoint": "The IPCA-15 uses a different collection period from the official IPCA and does not determine interest rates on its own. An increase in one food price does not establish that all prices will move in the same direction."
+      },
+      "es": {
+        "category": "ECONOMÍA",
+        "title": "LA INFLACIÓN PRELIMINAR DE BRASIL BAJA AL 0,22% EN NOVIEMBRE, PERO LOS ALIMENTOS SUBEN UN 1,51%",
+        "subtitle": "El IPCA-15 acumula un 4,64% en 12 meses; comer en casa se encarece mientras bajan los precios del transporte.",
+        "facts": "El Instituto Brasileño de Geografía y Estadística (IBGE) informó el 26 de noviembre de 2026 que el Índice Nacional de Precios al Consumidor Amplio 15 (IPCA-15) de Brasil subió un 0,22%, frente al 0,32% de octubre. Según el instituto, los alimentos y bebidas se encarecieron un 1,51%, mientras que el transporte bajó un 0,71%. La tasa acumulada en 12 meses alcanzó el 4,64%, frente al 4,62% de la lectura anterior, y el tomate subió un 38,92%, según los datos del IBGE.",
+        "analysis": "La desaceleración del índice agregado no significa que haya disminuido el costo de vida. Los hogares que destinan una mayor proporción de sus ingresos a la alimentación pueden experimentar presiones distintas de las reflejadas en el promedio nacional. Para la política monetaria, la lectura mensual ofrece cierto alivio, pero el aumento de la inflación anual aconseja cautela.",
+        "counterpoint": "El IPCA-15 utiliza un período de recopilación distinto del IPCA oficial y no determina por sí solo la trayectoria de los tipos de interés. El aumento del precio de un alimento tampoco permite concluir que todos los precios seguirán la misma dirección."
+      }
+    },
     {
       "id": "case-2026-startups-usp-26-novembro",
       "date": "2026-11-26",
