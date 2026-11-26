@@ -28,6 +28,7 @@
     "2026-11-07-liberdade-negativa-positiva-brand-v2"
   ],
   "covers": {
+    "governo-reduz-contencao-orcamento-34-bilhoes-2026-11-25": "editorial/covers/governo-reduz-contencao-orcamento-34-bilhoes-2026-11-25.svg",
     "brasil-fluxo-cambial-negativo-novembro-2026-11-25": "editorial/covers/brasil-fluxo-cambial-negativo-novembro-2026-11-25.svg",
     "eua-propoem-tarifa-10-aeronaves-acucar-brasil-2026-11-25": "editorial/covers/eua-propoem-tarifa-10-aeronaves-acucar-brasil-2026-11-25.svg",
     "uniao-europeia-propoe-22-pacote-sancoes-russia-60-bancos-2026-11-23": "editorial/covers/uniao-europeia-propoe-22-pacote-sancoes-russia-60-bancos-2026-11-23.svg",
@@ -561,7 +562,8 @@
     "falha-sistema-delta-atrasa-mais-1600-voos-eua-2026-11-23": "editorial/photos/falha-sistema-delta-atrasa-mais-1600-voos-eua-2026-11-23.jpg",
     "mexico-captura-chapo-isidro-guasave-11-mortos-2026-11-23": "editorial/photos/mexico-captura-chapo-isidro-guasave-11-mortos-2026-11-23.jpg",
     "temporais-parana-250-casas-907-afetados-2026-11-22": "editorial/photos/temporais-parana-250-casas-907-afetados-2026-11-22.jpg",
-    "brasil-fluxo-cambial-negativo-novembro-2026-11-25": "editorial/photos/brasil-fluxo-cambial-negativo-novembro-2026-11-25.jpg"
+    "brasil-fluxo-cambial-negativo-novembro-2026-11-25": "editorial/photos/brasil-fluxo-cambial-negativo-novembro-2026-11-25.jpg",
+    "governo-reduz-contencao-orcamento-34-bilhoes-2026-11-25": "editorial/photos/governo-reduz-contencao-orcamento-34-bilhoes-2026-11-25.jpg"
   },
   "photoVariants": {
     "cmo-creditos-roraima-regra-de-ouro-2026": {
@@ -2261,6 +2263,12 @@
       "srcset": "editorial/photos/brasil-fluxo-cambial-negativo-novembro-2026-11-25-320.webp 320w, editorial/photos/brasil-fluxo-cambial-negativo-novembro-2026-11-25-640.webp 640w, editorial/photos/brasil-fluxo-cambial-negativo-novembro-2026-11-25-960.webp 960w, editorial/photos/brasil-fluxo-cambial-negativo-novembro-2026-11-25-1280.webp 1280w",
       "width": 1280,
       "height": 1923
+    },
+    "governo-reduz-contencao-orcamento-34-bilhoes-2026-11-25": {
+      "src": "editorial/photos/governo-reduz-contencao-orcamento-34-bilhoes-2026-11-25-438.webp",
+      "srcset": "editorial/photos/governo-reduz-contencao-orcamento-34-bilhoes-2026-11-25-320.webp 320w, editorial/photos/governo-reduz-contencao-orcamento-34-bilhoes-2026-11-25-438.webp 438w",
+      "width": 438,
+      "height": 436
     }
   }
 }
