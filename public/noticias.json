@@ -91,7 +91,10 @@
         "category": "WORLD",
         "facts": "The European Commission presented a proposal for the European Union's 22nd sanctions package against Russia in Strasbourg, France, on November 23, 2026, in response to the war in Ukraine, according to an official statement by Commission President Ursula von der Leyen. The Commission said the proposal would restrict transactions involving about 60 Russian banks and remove them from the SWIFT financial messaging network. It also proposed listing more than 70 additional vessels linked to Russia's shadow fleet, according to the Commission. Other proposed measures target energy services, cryptocurrency networks, visas for former Russian combatants and Russian-flag participation in European sporting events. The announcement did not bring the measures into force: approval by all 27 EU member states is required, the Associated Press reported.",
         "analysis": "The proposal seeks to raise the financial and logistical costs of Russia's war effort through different channels. Bank restrictions would complicate cross-border payments; shipping and energy-service restrictions would affect export logistics; sports and visa measures have diplomatic and security aims rather than the same effect as a trade embargo. The previous, 21st package was adopted in July 2026, according to the Council of the European Union. A Commission proposal, unanimous political agreement and actual enforcement are separate stages.",
-        "counterpoint": "The announcement does not mean all 60 banks have already been disconnected from SWIFT or that more than 70 vessels are already subject to new restrictions. The measures may change during negotiations among the 27 governments. Their eventual economic or military impact cannot be quantified from the announcement alone."
+        "counterpoint": "The announcement does not mean all 60 banks have already been disconnected from SWIFT or that more than 70 vessels are already subject to new restrictions. The measures may change during negotiations among the 27 governments. Their eventual economic or military impact cannot be quantified from the announcement alone.",
+        "photo_captions": {
+          "1": "FILE PHOTO (August 31, 2009): EU member flags outside the European Parliament in Brussels, Belgium. Marek Ślusarczyk, CC BY 3.0. Does not depict the 2026 sanctions announcement in Strasbourg."
+        }
       },
       "es": {
         "title": "LA UE PROPONE SU 22.º PAQUETE DE SANCIONES A RUSIA Y APUNTA A 60 BANCOS",
@@ -99,8 +102,22 @@
         "category": "MUNDO",
         "facts": "La Comisión Europea presentó en Estrasburgo, Francia, el 23 de noviembre de 2026 una propuesta para el 22.º paquete de sanciones de la Unión Europea contra Rusia por la guerra en Ucrania, según una declaración oficial de su presidenta, Ursula von der Leyen. Según la Comisión, la propuesta restringiría las transacciones de unos 60 bancos rusos y los excluiría de la red de mensajería financiera SWIFT. La Comisión también propone incorporar más de 70 buques vinculados a la llamada flota en la sombra rusa a las listas restrictivas. Otras medidas previstas afectan a servicios energéticos, redes de criptomonedas, visados para excombatientes rusos y participación bajo bandera rusa en eventos deportivos europeos. El anuncio no supone la entrada en vigor inmediata: se requiere el respaldo unánime de los 27 Estados miembros, informó Associated Press.",
         "analysis": "La propuesta pretende aumentar los costes financieros y logísticos de la guerra rusa mediante instrumentos distintos. Las restricciones bancarias dificultarían pagos internacionales; las medidas marítimas y energéticas afectarían a la logística de exportación; las prohibiciones deportivas y de visados responden a objetivos diplomáticos y de seguridad. El 21.º paquete fue aprobado en julio de 2026, según el Consejo de la Unión Europea. Una propuesta de la Comisión, el acuerdo político y la aplicación efectiva son etapas diferentes.",
-        "counterpoint": "El anuncio no implica que los 60 bancos ya estén desconectados de SWIFT ni que más de 70 buques hayan recibido sanciones inmediatas. El texto podría modificarse durante las negociaciones entre los 27 gobiernos. Tampoco permite cuantificar todavía su impacto económico o militar."
-      }
+        "counterpoint": "El anuncio no implica que los 60 bancos ya estén desconectados de SWIFT ni que más de 70 buques hayan recibido sanciones inmediatas. El texto podría modificarse durante las negociaciones entre los 27 gobiernos. Tampoco permite cuantificar todavía su impacto económico o militar.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (31/08/2009): banderas de países de la Unión Europea frente al Parlamento Europeo en Bruselas, Bélgica. Marek Ślusarczyk, CC BY 3.0. No muestra el anuncio de sanciones de 2026 en Estrasburgo."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/14_EU_Member_Flags_in_front_of_European_Parliament_in_Brussels.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 3.0 — https://creativecommons.org/licenses/by/3.0/",
+          "credit": "Marek Ślusarczyk / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:14_EU_Member_Flags_in_front_of_European_Parliament_in_Brussels.jpg",
+          "caption": "FOTO DE ARQUIVO (31/08/2009): bandeiras de países da União Europeia diante do Parlamento Europeu, Bruxelas, Bélgica. Marek Ślusarczyk, CC BY 3.0. Não retrata o anúncio das sanções de 2026 em Estrasburgo."
+        }
+      ]
     },
     {
       "id": "chuvas-sao-paulo-34-desalojados-buscas-tamanduatei-2026-11-23",
@@ -131,7 +148,10 @@
         "category": "CITIES",
         "facts": "Storms in São Paulo on November 22–23, 2026 caused a retaining wall to collapse in the eastern Penha district and prompted a search for a person swept into the Tamanduateí River near Vila Monumento, Agência Brasil reported, citing the state Civil Defense agency. According to Agência Brasil, 34 people were displaced after 2 homes on Rua Malacacheta were closed as a precaution: 14 residents stayed with relatives, while the owner of the second property pledged to relocate 20 tenants. The same report said 3 people, including a child, were rescued after floodwaters swept them away in Jabaquara and were taken for medical care. On November 23, Folha de S.Paulo reported a new severe weather warning at 4:18 p.m. and, citing utility Enel, 49,255 properties without power in the city at 4:47 p.m. Search results and incident totals may change with further official updates.",
         "analysis": "The incidents highlight distinct risks: structural damage that requires professional inspection before residents return, and powerful urban flood currents capable of sweeping people away. The 34 displaced residents are not necessarily staying in public shelters. Renewed warnings on Monday afternoon show that the danger continued beyond Sunday's initial storm. Residents should avoid crossing floodwater and follow Civil Defense alerts.",
-        "counterpoint": "Available accounts disagree on the missing person's gender, so this report does not assert an identification. Totals may change as searches and inspections continue. No verified confirmation of the person's recovery was available for this report. An archival image was not attached because a direct HTTP check of the JPEG could not be completed."
+        "counterpoint": "Available accounts disagree on the missing person's gender, so this report does not assert an identification. Totals may change as searches and inspections continue. No verified confirmation of the person's recovery was available for this report. An archival image was not attached because a direct HTTP check of the JPEG could not be completed.",
+        "photo_captions": {
+          "1": "FILE PHOTO (November 22, 2011): a bus and passengers on a rainy evening in São Paulo. Jonathan dos Santos, CC BY 2.0. Does not depict the November 2026 storms, displaced residents or search efforts."
+        }
       },
       "es": {
         "title": "TORMENTAS EN SÃO PAULO DEJAN 34 DESALOJADOS Y BÚSQUEDA EN EL RÍO TAMANDUATEÍ",
@@ -139,8 +159,22 @@
         "category": "CIUDADES",
         "facts": "Las tormentas que afectaron São Paulo entre el 22 y el 23 de noviembre de 2026 provocaron el derrumbe de un muro de contención en Penha, en la zona este, y una búsqueda de una persona arrastrada por el río Tamanduateí cerca de Vila Monumento, según Agência Brasil, que citó a la Defensa Civil estatal. De acuerdo con Agência Brasil, 34 personas quedaron desalojadas tras la clausura preventiva de 2 viviendas en Rua Malacacheta: 14 residentes fueron acogidos por familiares y la propietaria del segundo inmueble se comprometió a reubicar a 20 inquilinos. El mismo medio informó que 3 personas, entre ellas un menor, fueron rescatadas después de ser arrastradas por una riada en Jabaquara y trasladadas para recibir atención médica. El 23 de noviembre, Folha de S.Paulo informó de una nueva alerta severa a las 16:18 y, citando a Enel, de 49.255 inmuebles sin electricidad en la capital a las 16:47. Las cifras y el resultado de la búsqueda pueden cambiar con nuevos boletines oficiales.",
         "analysis": "Los incidentes revelan riesgos diferentes: daños estructurales que requieren inspecciones antes de regresar a las viviendas y corrientes urbanas capaces de arrastrar personas. Los 34 desalojados no necesariamente están alojados en refugios públicos. Las nuevas alertas del lunes por la tarde indican que el peligro continuó después de la tormenta inicial. Se recomienda evitar cruzar zonas inundadas y seguir los avisos de Defensa Civil.",
-        "counterpoint": "Los relatos disponibles discrepan sobre el género de la persona desaparecida, por lo que no se afirma una identificación. Los balances pueden variar mientras continúan las búsquedas y las inspecciones. No se obtuvo confirmación verificada de que la persona haya sido localizada. No se añadió una fotografía de archivo porque no fue posible completar la comprobación HTTP directa del JPEG."
-      }
+        "counterpoint": "Los relatos disponibles discrepan sobre el género de la persona desaparecida, por lo que no se afirma una identificación. Los balances pueden variar mientras continúan las búsquedas y las inspecciones. No se obtuvo confirmación verificada de que la persona haya sido localizada. No se añadió una fotografía de archivo porque no fue posible completar la comprobación HTTP directa del JPEG.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (22/11/2011): autobús y pasajeros en una noche lluviosa en São Paulo. Jonathan dos Santos, CC BY 2.0. No muestra las tormentas, las personas desplazadas ni las búsquedas de noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Chuva_em_S%C3%A3o_Paulo.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/",
+          "credit": "Jonathan dos Santos / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Chuva_em_S%C3%A3o_Paulo.jpg",
+          "caption": "FOTO DE ARQUIVO (22/11/2011): ônibus e passageiros em noite de chuva na cidade de São Paulo. Jonathan dos Santos, CC BY 2.0. Não retrata os temporais, os desalojados nem as buscas de novembro de 2026."
+        }
+      ]
     },
     {
       "id": "galipolo-defende-revisao-regras-gastos-inflacao-2026-11-23",
@@ -342,7 +376,10 @@
         "category": "WORLD",
         "facts": "China's National Development and Reform Commission published a national plan on November 23, 2026 to expand elderly care and childcare services by 2030 amid population ageing and declining births. According to the official plan, nursing-care beds are to account for 73% of beds in elderly care institutions by 2030, while community elderly care facilities are to reach 70% coverage. The commission also targets a 6-percentage-point increase in childcare enrolment for children under three compared with 2025. These are targets, not evidence that the services have already expanded to those levels.",
         "analysis": "The plan addresses two demographic pressures at once: rising demand for elderly assistance and falling births. It calls for upgrading institutions, improving neighbourhood services and encouraging workplace childcare, backed by central funding, local-government bonds and commercial credit. The 73% figure measures the share of nursing beds inside institutions, not the share of older people receiving care; the 70% figure concerns facility coverage, not guaranteed access for every resident.",
-        "counterpoint": "The 2030 figures are policy targets rather than achieved outcomes. Implementation depends on staffing, funding and local administrative capacity; the plan does not establish equal access in urban and rural areas."
+        "counterpoint": "The 2030 figures are policy targets rather than achieved outcomes. Implementation depends on staffing, funding and local administrative capacity; the plan does not establish equal access in urban and rural areas.",
+        "photo_captions": {
+          "1": "FILE PHOTO (February 24, 2023): Wangcheng District Elderly Care Center, Changsha, Hunan, China. Huangdan2060, CC BY 4.0; resized version. Does not depict the 2026 plan announcement."
+        }
       },
       "es": {
         "title": "CHINA FIJA METAS DE ATENCIÓN A MAYORES Y CUIDADO INFANTIL PARA 2030",
@@ -350,8 +387,22 @@
         "category": "MUNDO",
         "facts": "La Comisión Nacional de Desarrollo y Reforma de China publicó el 23 de noviembre de 2026 un plan nacional para ampliar la atención a personas mayores y niños hasta 2030, ante el envejecimiento demográfico y la caída de la natalidad. Según el documento oficial, las camas de cuidados de enfermería deberán representar el 73% de las plazas en instituciones para mayores en 2030, mientras que la cobertura de centros comunitarios deberá alcanzar el 70%. La comisión también prevé aumentar en 6 puntos porcentuales, frente a 2025, la tasa de asistencia a servicios de cuidado para menores de tres años. Se trata de objetivos, no de resultados ya alcanzados.",
         "analysis": "El plan responde simultáneamente al aumento de la demanda de cuidados para mayores y al descenso de los nacimientos. Propone renovar centros, ampliar servicios de proximidad e impulsar guarderías en lugares de trabajo, con financiación del presupuesto central, bonos de gobiernos locales y crédito comercial. El 73% mide la proporción de camas de enfermería dentro de instituciones, no la proporción de mayores atendidos; el 70% se refiere a cobertura de instalaciones, no a acceso garantizado para cada persona.",
-        "counterpoint": "Las cifras de 2030 son metas de política pública y no logros comprobados. Su cumplimiento dependerá de financiación, personal y capacidad local; el documento no demuestra una expansión uniforme entre zonas urbanas y rurales."
-      }
+        "counterpoint": "Las cifras de 2030 son metas de política pública y no logros comprobados. Su cumplimiento dependerá de financiación, personal y capacidad local; el documento no demuestra una expansión uniforme entre zonas urbanas y rurales.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (24/02/2023): centro de atención a mayores del distrito de Wangcheng, Changsha, Hunan, China. Huangdan2060, CC BY 4.0; versión reducida. No muestra el anuncio del plan de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Wangcheng_District_Elderly_Care_Center_20230224.jpg/960px-Wangcheng_District_Elderly_Care_Center_20230224.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+          "credit": "Huangdan2060 / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Wangcheng_District_Elderly_Care_Center_20230224.jpg",
+          "caption": "FOTO DE ARQUIVO (24/02/2023): centro de cuidados para idosos do distrito de Wangcheng, Changsha, Hunan, China. Huangdan2060, CC BY 4.0; versão reduzida. Não retrata o anúncio do plano de 2026."
+        }
+      ]
     },
     {
       "id": "ataques-russos-regiao-kiev-15-mortos-dymer-2026-11-23",
@@ -378,7 +429,10 @@
         "category": "WORLD",
         "facts": "Russian air strikes on towns in Ukraine's Kyiv region killed at least 15 people by November 23, 2026, according to Ukrainian officials cited by AFP and Euronews. In Dymer, about 45 kilometres north of the capital, a five-storey residential building was hit; the death toll reached 11, according to regional official Tymur Tkachenko as reported by Reuters on November 23. Euronews, citing local officials, reported three additional deaths at a supermarket in Vyshneve and one at a home in Bila Tserkva. Searches through the rubble continued and the casualty figures could change.",
         "analysis": "The regional toll combines strikes in three locations rather than just the collapsed building in Dymer. This distinction matters: 11 deaths at the building and at least 15 across the region refer to different scopes of the same series of attacks. Searches for missing residents and further air alerts complicated rescue operations. The strikes come amid intensified Russian bombardment of Ukrainian towns and infrastructure ahead of winter, placing additional pressure on emergency services and civilians.",
-        "counterpoint": "These are preliminary figures attributed to Ukrainian authorities and may be revised. Reuters reported the official toll of 11 in Dymer; AFP, carried by Euronews, reported at least 15 across the region. The final casualty count and all military circumstances of the strikes have not been independently established."
+        "counterpoint": "These are preliminary figures attributed to Ukrainian authorities and may be revised. Reuters reported the official toll of 11 in Dymer; AFP, carried by Euronews, reported at least 15 across the region. The final casualty count and all military circumstances of the strikes have not been independently established.",
+        "photo_captions": {
+          "1": "FILE PHOTO (November 25, 2022): Velyka Vasylkivska Street in Kyiv during a blackout following Russian strikes on electricity infrastructure. Bektour, CC BY 4.0. Does not show Dymer, the damaged buildings or the November 2026 strikes."
+        }
       },
       "es": {
         "title": "ATAQUES RUSOS DEJAN AL MENOS 15 MUERTOS EN LA REGIÓN DE KIEV; SIGUEN LOS RESCATES EN DYMER",
@@ -386,8 +440,22 @@
         "category": "MUNDO",
         "facts": "Los ataques aéreos rusos contra localidades de la región de Kiev, Ucrania, dejaron al menos 15 muertos hasta el 23 de noviembre de 2026, según autoridades ucranianas citadas por AFP y Euronews. En Dymer, a unos 45 kilómetros al norte de la capital, fue alcanzado un edificio residencial de cinco plantas; el balance ascendió a 11 muertos, según el responsable regional Tymur Tkachenko, citado por Reuters el 23 de noviembre. Euronews, basándose en autoridades locales, informó de otras tres muertes en un supermercado de Vyshneve y una en una vivienda de Bila Tserkva. La búsqueda entre los escombros continuaba y el número de víctimas podía cambiar.",
         "analysis": "El balance regional reúne ataques en tres localidades y no solo el derrumbe de Dymer. La distinción importa: los 11 muertos del edificio y los al menos 15 de toda la región corresponden a ámbitos distintos de la misma ofensiva. La búsqueda de desaparecidos y las nuevas alertas aéreas dificultan el rescate. Los ataques se producen en medio de una intensificación de los bombardeos rusos contra ciudades e infraestructuras ucranianas antes del invierno, con mayor presión sobre los servicios de emergencia y la población.",
-        "counterpoint": "Son cifras preliminares atribuidas a autoridades ucranianas y pueden revisarse. Reuters informó del balance oficial de 11 muertos en Dymer; AFP, a través de Euronews, informó de al menos 15 en toda la región. No se han confirmado de manera independiente el balance definitivo ni todas las circunstancias militares de los ataques."
-      }
+        "counterpoint": "Son cifras preliminares atribuidas a autoridades ucranianas y pueden revisarse. Reuters informó del balance oficial de 11 muertos en Dymer; AFP, a través de Euronews, informó de al menos 15 en toda la región. No se han confirmado de manera independiente el balance definitivo ni todas las circunstancias militares de los ataques.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (25/11/2022): calle Velyka Vasylkivska, en Kiev, durante un apagón tras ataques rusos a la infraestructura eléctrica. Bektour, CC BY 4.0. No muestra Dymer, los edificios afectados ni los ataques de noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Kyiv_during_the_blackout_caused_by_Russian_missile_attacks%2C_November_2022.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/",
+          "credit": "Bektour / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Kyiv_during_the_blackout_caused_by_Russian_missile_attacks,_November_2022.jpg",
+          "caption": "FOTO DE ARQUIVO (25/11/2022): rua Velyka Vasylkivska, na capital Kiev, durante apagão após ataques russos à infraestrutura elétrica. Bektour, CC BY 4.0. Não mostra Dymer, os edifícios atingidos nem os ataques de novembro de 2026."
+        }
+      ]
     },
     {
       "id": "combates-ituri-ameacam-resposta-ebola-oms-2026-11-23",
@@ -414,7 +482,10 @@
         "category": "WORLD",
         "facts": "Fighting near a hospital in Ituri province, northeastern Democratic Republic of the Congo, disrupted the Ebola response, World Health Organization (WHO) Director-General Tedros Adhanom Ghebreyesus said on November 22, 2026. According to Tedros, WHO personnel and humanitarian partners sheltered in the hospital's maternity ward for more than 24 hours while the organization sought safe passage. Government figures reported by Reuters on November 22 showed that the outbreak declared on May 15, 2026 had caused more than 11,000 infections and 5,500 deaths; these are cumulative outbreak figures, not casualties from the fighting.",
         "analysis": "Disrupting a hospital in an outbreak area affects care, patient isolation and contact tracing at the same time. The danger extends beyond the sheltered workers because continuity of health operations requires safe access for teams and patients. The cumulative outbreak figures show the scale of the health emergency, but cannot establish how many additional infections might be attributable to this particular episode of violence.",
-        "counterpoint": "The maternity-ward account came from the WHO director-general and was reported by Reuters and Al Jazeera. At the time of reporting, there was no independent confirmation of who was responsible for the fighting, how many people were sheltering, or whether a safe evacuation had been completed. Ebola outbreak totals must not be confused with casualties from the clashes."
+        "counterpoint": "The maternity-ward account came from the WHO director-general and was reported by Reuters and Al Jazeera. At the time of reporting, there was no independent confirmation of who was responsible for the fighting, how many people were sheltering, or whether a safe evacuation had been completed. Ebola outbreak totals must not be confused with casualties from the clashes.",
+        "photo_captions": {
+          "1": "FILE PHOTO (September 1, 2019): UN Secretary-General António Guterres visits the Mangina Ebola Treatment Centre, Democratic Republic of the Congo. MONUSCO Photos / UN/Martine Perret, CC BY-SA 2.0; resized version. Does not depict the Ituri hospital or the 2026 fighting."
+        }
       },
       "es": {
         "title": "COMBATES CERCA DE HOSPITAL EN CONGO INTERRUMPEN RESPUESTA AL ÉBOLA, ADVIERTE LA OMS",
@@ -422,8 +493,22 @@
         "category": "MUNDO",
         "facts": "Los combates cerca de un hospital en la provincia de Ituri, noreste de la República Democrática del Congo, interrumpieron la respuesta al ébola, informó el 22 de noviembre de 2026 el director general de la Organización Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus. Según Tedros, trabajadores de la OMS y socios humanitarios permanecieron refugiados en la maternidad del hospital durante más de 24 horas mientras se buscaba un paso seguro. Según datos del Gobierno congoleño citados por Reuters el 22 de noviembre, el brote declarado el 15 de mayo de 2026 había causado más de 11.000 infecciones y 5.500 muertes; son cifras acumuladas del brote, no víctimas de los enfrentamientos.",
         "analysis": "La interrupción de un hospital en una zona de transmisión perjudica a la vez la atención, el aislamiento de pacientes y el rastreo de contactos. El riesgo va más allá del personal refugiado: la continuidad de las operaciones sanitarias exige acceso seguro para equipos y pacientes. Las cifras acumuladas muestran la magnitud de la emergencia, pero no permiten calcular cuántas infecciones adicionales pueden atribuirse a este episodio concreto de violencia.",
-        "counterpoint": "El relato sobre la maternidad procede del director general de la OMS y fue recogido por Reuters y Al Jazeera. Al cierre de la información no había confirmación independiente sobre los responsables de los combates, el número de personas refugiadas ni la conclusión de una evacuación segura. Las cifras acumuladas de ébola no deben confundirse con víctimas de los enfrentamientos."
-      }
+        "counterpoint": "El relato sobre la maternidad procede del director general de la OMS y fue recogido por Reuters y Al Jazeera. Al cierre de la información no había confirmación independiente sobre los responsables de los combates, el número de personas refugiadas ni la conclusión de una evacuación segura. Las cifras acumuladas de ébola no deben confundirse con víctimas de los enfrentamientos.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (01/09/2019): visita del secretario general de la ONU António Guterres al centro de tratamiento del ébola de Mangina, República Democrática del Congo. MONUSCO Photos / UN/Martine Perret, CC BY-SA 2.0; versión reducida. No muestra el hospital de Ituri ni los combates de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/SECRETARY-GENERAL%E2%80%99S_VISIT_TO_THE_DEMOCRATIC_REPUBLIC_OF_THE_CONGO_%2848710365336%29.jpg/960px-SECRETARY-GENERAL%E2%80%99S_VISIT_TO_THE_DEMOCRATIC_REPUBLIC_OF_THE_CONGO_%2848710365336%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 2.0 — https://creativecommons.org/licenses/by-sa/2.0/",
+          "credit": "MONUSCO Photos / UN/Martine Perret / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:SECRETARY-GENERAL%E2%80%99S_VISIT_TO_THE_DEMOCRATIC_REPUBLIC_OF_THE_CONGO_(48710365336).jpg",
+          "caption": "FOTO DE ARQUIVO (01/09/2019): visita do secretário-geral da ONU António Guterres ao centro de tratamento de ebola de Mangina, República Democrática do Congo. MONUSCO Photos / UN/Martine Perret, CC BY-SA 2.0; versão reduzida. Não retrata o hospital de Ituri nem os combates de 2026."
+        }
+      ]
     },
     {
       "id": "falha-sistema-delta-atrasa-mais-1600-voos-eua-2026-11-23",
@@ -515,7 +600,10 @@
         "category": "WORLD",
         "facts": "Special forces from Mexico's Army and National Guard captured Fausto Isidro Meza Flores, known as 'Chapo Isidro', in Guasave, Sinaloa state, on November 20, 2026. According to Mexico's Secretariat of National Defense, 4 soldiers and 7 alleged attackers were killed; the figures were detailed in a November 21, 2026 statement. The same agency reported 8 arrests, including 3 suspects transferred to Mexico City, and said US intelligence agencies had cooperated. Federal prosecutors were to determine the detainees' legal status; the allegations remain subject to judicial proceedings.",
         "analysis": "Mexican authorities identify the detainee as a leader linked to the Beltrán Leyva organization and allied with the Pacific Cartel's 'Mayos' faction. His transfer to the capital underscores the scale of the operation, but arresting leaders does not necessarily dismantle trafficking and financing networks. For Guasave residents, the immediate issue is security following clashes and roadblocks; for both governments, the longer-term test is sustained reductions in violence and judicial accountability.",
-        "counterpoint": "Allegations about criminal affiliations and the casualty count are attributed to Mexican authorities, not court findings. Officials said they had no reports of uninvolved civilian casualties at the time of their statement, but that assessment may change. The arrest alone does not establish that factional violence will end."
+        "counterpoint": "Allegations about criminal affiliations and the casualty count are attributed to Mexican authorities, not court findings. Officials said they had no reports of uninvolved civilian casualties at the time of their statement, but that assessment may change. The arrest alone does not establish that factional violence will end.",
+        "photo_captions": {
+          "1": "FILE PHOTO (April 11, 2022): tourist sign in Guasave, Sinaloa, Mexico. Daniel Ramirez, CC BY 2.0; resized version. Does not depict the specific operation site, detainees or the November 2026 arrest."
+        }
       },
       "es": {
         "title": "MÉXICO CAPTURA AL 'CHAPO ISIDRO' EN SINALOA; OPERATIVO DEJA 11 MUERTOS",
@@ -523,8 +611,22 @@
         "category": "MUNDO",
         "facts": "Fuerzas especiales del Ejército y de la Guardia Nacional de México capturaron a Fausto Isidro Meza Flores, conocido como 'Chapo Isidro', en Guasave, estado de Sinaloa, el 20 de noviembre de 2026. Según la Secretaría de la Defensa Nacional de México, murieron 4 militares y 7 presuntos agresores; las cifras se detallaron en un comunicado del 21 de noviembre de 2026. La misma institución informó de 8 detenidos, entre ellos 3 trasladados a Ciudad de México, y de cooperación de inteligencia con Estados Unidos. La situación jurídica de los detenidos quedaría a cargo del Ministerio Público Federal; las acusaciones están sujetas a resolución judicial.",
         "analysis": "Las autoridades mexicanas señalan al detenido como dirigente vinculado a la organización Beltrán Leyva y aliado de la facción 'Mayos' del Cártel del Pacífico. Su traslado a la capital refleja la magnitud del operativo, pero capturar líderes no significa necesariamente desmantelar las redes de tráfico y financiación. Para los habitantes de Guasave, la prioridad es la seguridad tras los enfrentamientos y bloqueos; para ambos gobiernos, la prueba será una reducción sostenida de la violencia y la rendición de cuentas judicial.",
-        "counterpoint": "Las acusaciones sobre vínculos criminales y las cifras de fallecidos proceden de las autoridades mexicanas y no constituyen sentencias judiciales. La Secretaría afirmó que no tenía reportes de víctimas ajenas a los hechos en ese momento, algo que puede cambiar con nuevas investigaciones. La detención por sí sola no garantiza el fin de las disputas entre facciones."
-      }
+        "counterpoint": "Las acusaciones sobre vínculos criminales y las cifras de fallecidos proceden de las autoridades mexicanas y no constituyen sentencias judiciales. La Secretaría afirmó que no tenía reportes de víctimas ajenas a los hechos en ese momento, algo que puede cambiar con nuevas investigaciones. La detención por sí sola no garantiza el fin de las disputas entre facciones.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (11/04/2022): letras monumentales de Guasave, Sinaloa, México. Daniel Ramirez, CC BY 2.0; versión reducida. No muestra el lugar específico del operativo, los detenidos ni la captura de noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Guasave.jpg/960px-Guasave.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/",
+          "credit": "Daniel Ramirez / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Guasave.jpg",
+          "caption": "FOTO DE ARQUIVO (11/04/2022): letreiro turístico de Guasave, Sinaloa, México. Daniel Ramirez, CC BY 2.0; versão reduzida. Não retrata o local específico da operação, os detidos nem a captura de novembro de 2026."
+        }
+      ]
     },
     {
       "id": "temporais-parana-250-casas-907-afetados-2026-11-22",
@@ -547,7 +649,10 @@
         "facts": "Storms affecting Paraná state in southern Brazil since Friday, November 20, 2026, damaged homes and disrupted electricity supplies across several municipalities, according to a Civil Defense update issued on Sunday, November 22. According to Civil Defense figures reported by Agência Brasil, 250 homes were damaged, four buildings destroyed, 18 people displaced and 907 people affected. Paraná electricity utility Companhia Paranaense de Energia (Copel), as cited by Agência Brasil, reported 48,837 customers without power at 4:09 p.m. on Sunday, including 23,099 in western Paraná, with 512 crews working on restoration. Civil Defense recorded windstorms in nine municipalities, hail in São José dos Pinhais and a tornado in Manoel Ribas.",
         "analysis": "These figures describe different impacts and should not be added together: 'affected' includes people experiencing disruptions to essential services, while 'displaced' refers to those forced to leave their homes. The concentration of power outages in western Paraná shows the disruption extends beyond properties physically damaged. Agência Brasil reported that low pressure over northern Paraguay and a stationary front over Paraná could sustain unstable weather into the early hours of Monday, November 23. Updated power-restoration and Civil Defense reports will be important for residents.",
         "counterpoint": "The figures are preliminary and may change as local authorities complete their assessments. The outage count is a snapshot from 4:09 p.m. on November 22, not a permanent total. The tornado reported in Manoel Ribas does not mean the same weather phenomenon struck every affected municipality.",
-        "category": "BRAZIL"
+        "category": "BRAZIL",
+        "photo_captions": {
+          "1": "FILE PHOTO (November 8, 2025): aerial view of Rio Bonito do Iguaçu, Paraná, after a 2025 tornado. Ari Dias/AEN, CC0 1.0. Depicts a separate event, NOT the November 2026 storms or damaged homes."
+        }
       },
       "es": {
         "title": "TEMPORALES DAÑAN 250 VIVIENDAS Y AFECTAN A 907 PERSONAS EN PARANÁ, BRASIL",
@@ -555,8 +660,22 @@
         "facts": "Los temporales que afectan al estado brasileño de Paraná desde el viernes 20 de noviembre de 2026 dañaron viviendas e interrumpieron el suministro eléctrico en varios municipios, según el balance de Defensa Civil divulgado el domingo 22 de noviembre. De acuerdo con las cifras de Defensa Civil publicadas por Agência Brasil, 250 viviendas sufrieron daños, cuatro edificios quedaron destruidos, 18 personas tuvieron que abandonar sus hogares y 907 resultaron afectadas. La empresa eléctrica Companhia Paranaense de Energia (Copel), citada por Agência Brasil, informó de 48.837 usuarios sin electricidad a las 16:09 del domingo, incluidos 23.099 en el oeste del estado, mientras 512 equipos trabajaban en la reposición. Defensa Civil registró vendavales en nueve municipios, granizo en São José dos Pinhais y un tornado en Manoel Ribas.",
         "analysis": "Las cifras reflejan consecuencias distintas y no deben sumarse: los 'afectados' incluyen a quienes perdieron servicios esenciales, mientras que los 'desplazados' tuvieron que dejar sus viviendas. La concentración de cortes eléctricos en el oeste muestra que el impacto va más allá de los daños físicos en los inmuebles. Según Agência Brasil, una baja presión sobre el norte de Paraguay y un frente estacionario en Paraná podían mantener la inestabilidad hasta la madrugada del lunes 23 de noviembre. Los nuevos informes sobre la recuperación eléctrica y los daños serán fundamentales para los residentes.",
         "counterpoint": "Los datos son preliminares y pueden cambiar conforme avancen las evaluaciones municipales. La cifra de usuarios sin electricidad corresponde a las 16:09 del 22 de noviembre y no representa un total permanente. El tornado registrado en Manoel Ribas no implica que todos los municipios hayan sufrido el mismo fenómeno.",
-        "category": "BRASIL"
-      }
+        "category": "BRASIL",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (08/11/2025): vista aérea de Rio Bonito do Iguaçu, Paraná, tras un tornado de 2025. Ari Dias/AEN, CC0 1.0. Registra otro episodio y NO muestra las tormentas ni las viviendas dañadas en noviembre de 2026."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tornado_em_Rio_Bonito_do_Igua%C3%A7u_01.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/",
+          "credit": "Ari Dias / Agência Estadual de Notícias do Paraná / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Tornado_em_Rio_Bonito_do_Igua%C3%A7u_01.jpg",
+          "caption": "FOTO DE ARQUIVO (08/11/2025): vista aérea de Rio Bonito do Iguaçu, Paraná, após um tornado de 2025. Ari Dias/AEN, CC0 1.0. A imagem registra outro episódio e NÃO mostra os temporais nem as casas danificadas em novembro de 2026."
+        }
+      ]
     },
     {
       "id": "marc-marquez-octacampeao-motogp-portugal-2026-11-22",
