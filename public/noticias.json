@@ -2,9 +2,49 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-26T04:04:04-03:00",
+  "updatedAt": "2026-11-26T04:55:21-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "case-2026-startups-usp-26-novembro",
+      "date": "2026-11-26",
+      "category": "ECONOMIA",
+      "title": "CONFERÊNCIA DE STARTUPS COMEÇA NESTA QUINTA NA USP COM MAIS DE 10 MIL INSCRITOS",
+      "subtitle": "CASE 2026 reúne empreendedores e investidores em São Paulo nos dias 26 e 27 de novembro.",
+      "facts": "A Associação Brasileira de Startups (ABStartups) programou para 26 e 27 de novembro de 2026 a Conferência Anual de Startups e Empreendedorismo (CASE), na Faculdade de Economia, Administração, Contabilidade e Atuária da Universidade de São Paulo (FEA-USP), na capital paulista. A página oficial do evento registra mais de 10.430 inscritos. Segundo a organização, a divulgação dos vencedores regionais do Startup Awards está prevista para 26 de novembro, e a das categorias nacionais para 27 de novembro. A programação inclui apresentações sobre inteligência artificial e o mapeamento do ecossistema empreendedor.",
+      "analysis": "A reunião de empresas jovens, investidores e comunidades regionais em uma universidade pode facilitar contatos entre pesquisa acadêmica e negócios. Para empreendedores, o valor prático está na possibilidade de identificar parceiros e clientes, além de conhecer iniciativas de outras regiões. A programação descentralizada permite que comunidades tenham atividades próprias dentro da conferência.",
+      "counterpoint": "O número divulgado corresponde a inscrições, não a presença efetiva. A realização de encontros e apresentações tampouco garante contratos ou investimentos. Os resultados comerciais e o público efetivo ainda não são conhecidos.",
+      "sources": [
+        {
+          "name": "ABStartups — programação oficial CASE26",
+          "url": "https://case.abstartups.com.br/"
+        },
+        {
+          "name": "ABStartups — formato CASE Aberto",
+          "url": "https://case.abstartups.com.br/hosts"
+        },
+        {
+          "name": "UOL — 23/11/2026",
+          "url": "https://economia.uol.com.br/noticias/redacao/2026/11/23/abstartups-anuncia-case-2026-na-fea-usp-em-novembro.ghtm"
+        }
+      ],
+      "en": {
+        "category": "ECONOMY",
+        "title": "STARTUP CONFERENCE OPENS THURSDAY AT USP WITH OVER 10,000 REGISTRATIONS",
+        "subtitle": "CASE 2026 brings entrepreneurs and investors together in São Paulo on November 26 and 27.",
+        "facts": "The Brazilian Startup Association (ABStartups) scheduled its annual startup and entrepreneurship conference (CASE) for November 26–27, 2026, at the University of São Paulo's School of Economics, Business, Accounting and Actuarial Science (FEA-USP), in São Paulo. The official event website reports more than 10,430 registrations. According to the organizers, regional Startup Awards winners are scheduled to be announced on November 26 and national winners on November 27. The program includes presentations on artificial intelligence and mapping the startup ecosystem.",
+        "analysis": "Bringing young companies, investors and regional communities together at a university may facilitate links between academic research and business. Entrepreneurs can identify potential partners and customers and learn about initiatives from other regions. The decentralized format lets communities organize their own activities within the conference.",
+        "counterpoint": "The reported figure represents registrations, not actual attendance. Meetings and presentations do not guarantee contracts or investment. Commercial outcomes and actual attendance remain unknown."
+      },
+      "es": {
+        "category": "ECONOMÍA",
+        "title": "CONFERENCIA DE STARTUPS COMIENZA EL JUEVES EN LA USP CON MÁS DE 10.000 INSCRITOS",
+        "subtitle": "CASE 2026 reúne a emprendedores e inversores en São Paulo los días 26 y 27 de noviembre.",
+        "facts": "La Asociación Brasileña de Startups (ABStartups) programó para el 26 y 27 de noviembre de 2026 su conferencia anual de startups y emprendimiento (CASE), en la Facultad de Economía, Administración, Contabilidad y Actuaría de la Universidad de São Paulo (FEA-USP), en São Paulo. La página oficial del evento registra más de 10.430 inscritos. Según los organizadores, el anuncio de los ganadores regionales de los Startup Awards está previsto para el 26 de noviembre y el de los nacionales para el 27 de noviembre. El programa incluye presentaciones sobre inteligencia artificial y el mapeo del ecosistema emprendedor.",
+        "analysis": "Reunir empresas jóvenes, inversores y comunidades regionales en una universidad puede facilitar los vínculos entre investigación académica y negocios. Los emprendedores pueden identificar posibles socios y clientes y conocer iniciativas de otras regiones. El formato descentralizado permite que las comunidades organicen actividades propias dentro de la conferencia.",
+        "counterpoint": "La cifra divulgada corresponde a inscripciones, no a asistencia efectiva. Las reuniones y presentaciones tampoco garantizan contratos ni inversiones. Los resultados comerciales y la asistencia efectiva aún se desconocen."
+      }
+    },
     {
       "id": "governo-reduz-contencao-orcamento-34-bilhoes-2026-11-25",
       "date": "2026-11-25",
