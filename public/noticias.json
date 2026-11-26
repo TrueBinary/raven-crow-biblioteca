@@ -2,9 +2,62 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-25T23:00:03-03:00",
+  "updatedAt": "2026-11-26T02:00:00-03:00",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "brasil-fluxo-cambial-negativo-novembro-2026-11-25",
+      "date": "2026-11-25",
+      "category": "ECONOMIA",
+      "title": "BRASIL REGISTRA SAÍDA LÍQUIDA DE US$ 2,301 BILHÕES NO CÂMBIO EM NOVEMBRO",
+      "subtitle": "Saldo até o dia 19 ficou negativo, mas o acumulado de 2026 permanece positivo.",
+      "facts": "O Banco Central do Brasil (BC) divulgou em Brasília, em 25 de novembro de 2026, o balanço preliminar do câmbio contratado no país até o dia 19. Segundo o BC, o saldo de novembro foi negativo em US$ 2,301 bilhões. Os dados da instituição indicam que o segmento financeiro teve saldo negativo de US$ 6,045 bilhões, enquanto o comercial apresentou superávit de US$ 3,744 bilhões. No acumulado do ano, o saldo permaneceu positivo em US$ 26,421 bilhões.",
+      "analysis": "A diferença entre os dois canais ajuda a entender por que receitas comerciais não garantem um saldo cambial positivo. Operações financeiras incluem investimentos, remessas e pagamentos de juros, enquanto as comerciais estão relacionadas às exportações e importações. Para empresas com compromissos em moeda estrangeira, acompanhar ambos os canais pode ajudar a contextualizar a exposição cambial, sem substituir a avaliação de seus próprios contratos.",
+      "counterpoint": "O levantamento é preliminar e cobre apenas parte de novembro. O saldo de câmbio contratado não equivale à variação das reservas internacionais nem determina sozinho a cotação do dólar; também não permite atribuir toda a saída financeira a uma única causa.",
+      "sources": [
+        {
+          "name": "Reuters / InfoMoney — 25/11/2026",
+          "url": "https://www.infomoney.com.br/economia/brasil-tem-fluxo-cambial-negativo-de-us-2301-bilhoes-em-novembro-ate-dia-19-diz-bc/"
+        },
+        {
+          "name": "Estadão Conteúdo / UOL — 25/11/2026",
+          "url": "https://economia.uol.com.br/noticias/estadao-conteudo/2026/11/25/fluxo-cambial-total-em-novembro-ate-dia-19-esta-negativo-em-us-2301-bilhoes-revela-bc.htm"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Edif%C3%ADcio_sede_do_Banco_Central_do_Brasil_%2816011635094%29.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/",
+          "credit": "Jonas Pereira / Agência Senado",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio_sede_do_Banco_Central_do_Brasil_(16011635094).jpg",
+          "caption": "FOTO DE ARQUIVO (23/02/2015): sede do Banco Central do Brasil, Brasília. Jonas Pereira/Agência Senado, CC BY 2.0. Não retrata a divulgação de novembro de 2026."
+        }
+      ],
+      "en": {
+        "category": "ECONOMY",
+        "title": "BRAZIL RECORDS NET FOREIGN EXCHANGE OUTFLOW OF US$2.301 BILLION IN NOVEMBER",
+        "subtitle": "The balance through November 19 was negative, but the 2026 year-to-date figure remains positive.",
+        "facts": "On November 25, 2026, in Brasília, the Central Bank of Brazil (BC) released preliminary figures for contracted foreign exchange transactions through November 19. According to the BC, November's balance was negative by US$2.301 billion. The institution's figures show a US$6.045 billion financial-channel deficit and a US$3.744 billion commercial-channel surplus. The year-to-date balance remained positive at US$26.421 billion.",
+        "analysis": "The difference between the two channels helps explain why trade receipts do not guarantee a positive foreign exchange balance. Financial transactions include investments, remittances and interest payments, whereas commercial transactions relate to exports and imports. Companies with foreign-currency obligations can monitor both channels to contextualize their exchange-rate exposure, without replacing an assessment of their own contracts.",
+        "counterpoint": "The figures are preliminary and cover only part of November. Contracted foreign exchange flows are not equivalent to changes in international reserves and do not alone determine the dollar exchange rate; nor can the entire financial outflow be attributed to a single cause.",
+        "photo_captions": {
+          "1": "FILE PHOTO (February 23, 2015): Central Bank of Brazil headquarters, Brasília. Jonas Pereira/Agência Senado, CC BY 2.0. Does not depict the November 2026 release."
+        }
+      },
+      "es": {
+        "category": "ECONOMÍA",
+        "title": "BRASIL REGISTRA UNA SALIDA NETA DE US$ 2.301 MILLONES EN EL MERCADO CAMBIARIO EN NOVIEMBRE",
+        "subtitle": "El saldo hasta el 19 de noviembre fue negativo, pero el acumulado de 2026 sigue siendo positivo.",
+        "facts": "El Banco Central de Brasil (BC) divulgó en Brasilia, el 25 de noviembre de 2026, las cifras preliminares de las operaciones cambiarias contratadas hasta el día 19. Según el BC, el saldo de noviembre fue negativo en US$ 2.301 millones. Los datos de la institución muestran un déficit de US$ 6.045 millones en el canal financiero y un superávit de US$ 3.744 millones en el comercial. El saldo acumulado del año siguió siendo positivo, con US$ 26.421 millones.",
+        "analysis": "La diferencia entre ambos canales explica por qué los ingresos comerciales no garantizan un saldo cambiario positivo. Las operaciones financieras incluyen inversiones, remesas y pagos de intereses, mientras que las comerciales se relacionan con exportaciones e importaciones. Las empresas con obligaciones en moneda extranjera pueden seguir ambos canales para contextualizar su exposición cambiaria, sin sustituir la evaluación de sus propios contratos.",
+        "counterpoint": "Las cifras son preliminares y abarcan solo parte de noviembre. El flujo cambiario contratado no equivale a la variación de las reservas internacionales ni determina por sí solo la cotización del dólar; tampoco permite atribuir toda la salida financiera a una sola causa.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (23/02/2015): sede del Banco Central de Brasil, Brasilia. Jonas Pereira/Agência Senado, CC BY 2.0. No muestra la divulgación de noviembre de 2026."
+        }
+      }
+    },
     {
       "id": "eua-propoem-tarifa-10-aeronaves-acucar-brasil-2026-11-25",
       "date": "2026-11-25",
