@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "trabuco-aceita-ministerio-fazenda-2027-2026-11-27",
+      "date": "2026-11-27",
+      "category": "ECONOMIA",
+      "title": "TRABUCO ACEITA CONVITE DE LULA PARA COMANDAR A FAZENDA EM 2027",
+      "subtitle": "Planalto confirmou a escolha em 26 de novembro; Bradesco comunicou a decisão aos investidores.",
+      "facts": "Em Brasília, no dia 26 de novembro de 2026, o Palácio do Planalto confirmou que Luiz Carlos Trabuco Cappi, presidente do conselho do Bradesco, aceitou assumir o Ministério da Fazenda em 2027. Segundo a Agência Brasil, naquele pregão o Ibovespa avançou 6,07% e o dólar comercial fechou em R$ 5,744. O Bradesco também comunicou a decisão aos investidores, conforme noticiou o UOL na manhã de 27 de novembro.",
+      "analysis": "A escolha coloca um executivo com experiência no sistema financeiro no centro da futura política econômica. Empresas e famílias serão afetadas pelas decisões sobre orçamento, tributação e condições de financiamento. A reação dos ativos sinaliza expectativas favoráveis de investidores, não resultados econômicos já alcançados.",
+      "counterpoint": "O aceite do convite não equivale à posse nem garante aprovação de medidas fiscais pelo Congresso. A valorização da bolsa em uma sessão não assegura redução permanente dos juros ou melhora da renda.",
+      "sources": [
+        {
+          "name": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/trabuco-aceita-convite-de-lula-para-comandar-fazenda-diz-planalto"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/planalto-confirma-que-trabuco-aceitou-convite-para-comandar-fazenda/"
+        },
+        {
+          "name": "UOL",
+          "url": "https://economia.uol.com.br/noticias/redacao/2026/11/27/bradesco-confirma-que-luiz-carlos-trabuco-aceitou-fazenda.ghtm"
+        }
+      ],
+      "en": {
+        "category": "ECONOMY",
+        "title": "TRABUCO ACCEPTS LULA'S INVITATION TO LEAD BRAZIL'S FINANCE MINISTRY IN 2027",
+        "subtitle": "The presidential office confirmed the choice on November 26; Bradesco notified investors.",
+        "facts": "In Brasília on November 26, 2026, Brazil's presidential office confirmed that Luiz Carlos Trabuco Cappi, chairman of Bradesco, accepted the invitation to lead the Finance Ministry in 2027. According to Agência Brasil, the Ibovespa rose 6.07% that trading session and the commercial dollar closed at R$5.744. Bradesco also notified investors, as UOL reported on November 27.",
+        "analysis": "The choice places an executive with financial-sector experience at the center of future economic policy. Businesses and households will be affected by budget, tax and financing decisions. Asset prices signal favorable investor expectations, not economic results already achieved.",
+        "counterpoint": "Accepting the invitation does not constitute taking office or guarantee congressional approval of fiscal measures. A single session of stock market gains does not ensure permanently lower interest rates or higher incomes.",
+        "slug": "trabuco-accepts-lula-s-invitation-to-lead-brazil-s-finance-ministry-in-2027-2026-11-27"
+      },
+      "es": {
+        "category": "ECONOMÍA",
+        "title": "TRABUCO ACEPTA LA INVITACIÓN DE LULA PARA DIRIGIR HACIENDA EN 2027",
+        "subtitle": "La Presidencia confirmó la elección el 26 de noviembre; Bradesco informó a los inversores.",
+        "facts": "En Brasilia, el 26 de noviembre de 2026, la Presidencia de Brasil confirmó que Luiz Carlos Trabuco Cappi, presidente del consejo de Bradesco, aceptó dirigir el Ministerio de Hacienda en 2027. Según Agência Brasil, el Ibovespa subió un 6,07% en esa sesión y el dólar comercial cerró en 5,744 reales. Bradesco también informó a los inversores, según publicó UOL el 27 de noviembre.",
+        "analysis": "La elección sitúa a un ejecutivo con experiencia financiera en el centro de la futura política económica. Las empresas y los hogares se verán afectados por las decisiones presupuestarias, tributarias y de financiación. La reacción de los activos refleja expectativas favorables de los inversores, no resultados económicos ya obtenidos.",
+        "counterpoint": "Aceptar la invitación no equivale a asumir el cargo ni garantiza la aprobación de medidas fiscales por el Congreso. Una sesión de ganancias bursátiles no asegura una reducción permanente de los tipos de interés ni una mejora de los ingresos.",
+        "slug": "trabuco-acepta-la-invitacion-de-lula-para-dirigir-hacienda-en-2027-2026-11-27"
+      },
+      "firstSeen": "2026-11-27T08:56:00-03:00"
+    },
+    {
       "id": "brasil-recorde-106-milhoes-graduacao-censo-2025-2026-11-27",
       "date": "2026-11-27",
       "category": "EDUCAÇÃO",
