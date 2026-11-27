@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": "ibge-desemprego-51-outubro-2026-11-27",
+      "date": "2026-11-27",
+      "category": "ECONOMIA",
+      "title": "DESEMPREGO CAI A 5,1% NO BRASIL E IGUALA MÍNIMA HISTÓRICA",
+      "subtitle": "Pesquisa do IBGE aponta 103,7 milhões de ocupados e rendimento médio real de R$ 3.812 no trimestre até outubro.",
+      "facts": "O Instituto Brasileiro de Geografia e Estatística (IBGE) divulgou em 27 de novembro de 2026 que a taxa de desemprego no Brasil foi de 5,1% entre agosto e outubro, ante 5,3% no trimestre anterior. Segundo a Pesquisa Nacional por Amostra de Domicílios (PNAD) Contínua, havia 103,7 milhões de pessoas ocupadas e 5,6 milhões de desocupadas. O rendimento médio real habitual atingiu R$ 3.812, com crescimento anual de 3,5%.",
+      "analysis": "A redução da desocupação e o aumento do poder de compra dos rendimentos favorecem o consumo das famílias. O levantamento também mostra expansão da ocupação em transporte e em atividades que incluem educação e saúde. Para empresas, a evolução da renda é relevante para a demanda, embora os resultados variem entre setores.",
+      "counterpoint": "O recorde não significa pleno emprego: a taxa de subutilização ainda era de 12,7%, segundo o IBGE. A ocupação total ficou estatisticamente estável frente ao trimestre anterior, assim como o emprego privado com carteira assinada. Os dados não garantem que a melhora continuará nos próximos meses.",
+      "sources": [
+        {
+          "name": "Agência Gov / IBGE",
+          "url": "https://agenciagov.ebc.com.br/noticias/202611/desemprego-cai-no-pais-e-iguala-menor-patamar-da-serie"
+        },
+        {
+          "name": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/taxa-de-desemprego-fica-em-51-no-trimestre-encerrado-em-outubro"
+        }
+      ],
+      "en": {
+        "category": "ECONOMY",
+        "title": "BRAZIL'S UNEMPLOYMENT FALLS TO 5.1%, MATCHING RECORD LOW",
+        "subtitle": "IBGE reports 103.7 million employed people and average real earnings of R$3,812 in the quarter through October.",
+        "facts": "On November 27, 2026, the Brazilian Institute of Geography and Statistics (IBGE) reported that Brazil's unemployment rate was 5.1% from August through October, down from 5.3% in the previous quarter. According to the Continuous National Household Sample Survey (PNAD), 103.7 million people were employed and 5.6 million were unemployed. Average usual real earnings reached R$3,812, up 3.5% year on year.",
+        "analysis": "Lower unemployment and increased purchasing power support household consumption. The survey also shows employment growth in transport and activities including education and health. For businesses, earnings trends matter for demand, although outcomes vary across sectors.",
+        "counterpoint": "The record does not mean full employment: labor underutilization remained at 12.7%, according to IBGE. Total employment was statistically stable compared with the previous quarter, as was formal private-sector employment. The data do not guarantee continued improvement in coming months.",
+        "slug": "brazil-s-unemployment-falls-to-5-1-matching-record-low-2026-11-27"
+      },
+      "es": {
+        "category": "ECONOMÍA",
+        "title": "EL DESEMPLEO EN BRASIL BAJA AL 5,1% E IGUALA SU MÍNIMO HISTÓRICO",
+        "subtitle": "El IBGE registra 103,7 millones de ocupados e ingresos reales medios de 3.812 reales en el trimestre hasta octubre.",
+        "facts": "El Instituto Brasileño de Geografía y Estadística (IBGE) informó el 27 de noviembre de 2026 que el desempleo en Brasil fue del 5,1% entre agosto y octubre, frente al 5,3% del trimestre anterior. Según la Encuesta Nacional Continua por Muestreo de Hogares (PNAD), había 103,7 millones de ocupados y 5,6 millones de desempleados. Los ingresos reales habituales medios alcanzaron 3.812 reales, con un crecimiento interanual del 3,5%.",
+        "analysis": "La reducción del desempleo y el aumento del poder adquisitivo favorecen el consumo de los hogares. La encuesta también muestra un crecimiento del empleo en transporte y actividades que incluyen educación y salud. Para las empresas, la evolución de los ingresos es relevante para la demanda, aunque los resultados varían entre sectores.",
+        "counterpoint": "El récord no significa pleno empleo: la subutilización laboral seguía en el 12,7%, según el IBGE. La ocupación total se mantuvo estadísticamente estable frente al trimestre anterior, al igual que el empleo formal privado. Los datos no garantizan que la mejora continúe en los próximos meses.",
+        "slug": "el-desempleo-en-brasil-baja-al-5-1-e-iguala-su-minimo-historico-2026-11-27"
+      },
+      "firstSeen": "2026-11-27T21:04:23.484Z"
+    },
+    {
       "id": "ibge-expectativa-de-vida-brasil-76-9-anos-2025-2026-11-27",
       "date": "2026-11-27",
       "category": "BRASIL",
