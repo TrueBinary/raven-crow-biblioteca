@@ -2,9 +2,66 @@
   "schemaVersion": 1,
   "editorial": "O Corvo Investigador",
   "edition": "12/11/2026",
-  "updatedAt": "2026-11-27T14:03:49.810Z",
+  "updatedAt": "2026-11-27T20:07:12.077Z",
   "tz": "America/Sao_Paulo",
   "articles": [
+    {
+      "id": "ibge-expectativa-de-vida-brasil-76-9-anos-2025-2026-11-27",
+      "date": "2026-11-27",
+      "category": "BRASIL",
+      "title": "EXPECTATIVA DE VIDA NO BRASIL CHEGA A 76,9 ANOS, RECORDE DA SÉRIE DO IBGE",
+      "subtitle": "Dado de 2025 ficou 3,1 meses acima do ano anterior, e a diferença entre mulheres e homens se manteve em 6,6 anos.",
+      "facts": "O Instituto Brasileiro de Geografia e Estatística (IBGE) divulgou em 27 de novembro de 2026 as Tábuas Completas de Mortalidade do Brasil referentes a 2025. Segundo o instituto, a expectativa de vida ao nascer chegou a 76,9 anos, ante 76,6 em 2024, uma alta de 3,1 meses na comparação sem arredondar os valores em anos. A estimativa para mulheres foi de 80,1 anos, enquanto a dos homens ficou em 73,5 anos.",
+      "analysis": "A longevidade também avançou para quem já passou dos primeiros anos de vida. Segundo os dados divulgados pela Agência Gov, uma pessoa que chegava aos 60 anos podia esperar viver mais 22,7 anos em 2025, ante 13,2 anos em 1940. A mortalidade infantil caiu de 146,6 para 12 óbitos antes do primeiro aniversário por mil nascidos vivos nesse intervalo. As duas medidas ajudam a entender como a queda da mortalidade na infância e em idades mais avançadas elevou a média nacional.",
+      "counterpoint": "A expectativa ao nascer é uma estimativa baseada nas taxas de mortalidade observadas em cada idade. Ela não prevê quantos anos uma pessoa específica vai viver. A média nacional também não descreve toda a população da mesma forma: a diferença entre mulheres e homens permaneceu em 6,6 anos, apesar do avanço dos dois grupos em 2025.",
+      "sources": [
+        {
+          "name": "Agência Gov / Secom",
+          "url": "https://agenciagov.ebc.com.br/noticias/202611/expectativa-de-vida-no-brasil-alcanca-76-9-anos-e-bate-recorde-historico"
+        },
+        {
+          "name": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/expectativa-de-vida-no-brasil-sobe-para-769-anos-diz-ibge"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/brasil/expectativa-de-vida-sobe-para-769-anos-no-brasil-mostra-ibge/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Centro_do_Rio_de_Janeiro-01.jpg/960px-Centro_do_Rio_de_Janeiro-01.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/",
+          "credit": "Rodrigo Soldon / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:Centro_do_Rio_de_Janeiro-01.jpg",
+          "caption": "FOTO DE ARQUIVO (30/10/2009): Centro do Rio de Janeiro. Rodrigo Soldon / Wikimedia Commons, CC BY 2.0, versão reduzida. Não retrata a divulgação de 2026."
+        }
+      ],
+      "en": {
+        "category": "BRAZIL",
+        "title": "BRAZIL'S LIFE EXPECTANCY HITS A RECORD 76.9 YEARS, IBGE SAYS",
+        "subtitle": "Life expectancy in 2025 rose by 3.1 months from a year earlier. The gap between women and men stayed at 6.6 years.",
+        "facts": "The Brazilian Institute of Geography and Statistics (IBGE) released Brazil's 2025 life tables on November 27, 2026. The institute put life expectancy at birth at 76.9 years, up from 76.6 in 2024. The increase was 3.1 months before rounding the yearly figures, with life expectancy reaching 80.1 years for women and 73.5 years for men.",
+        "analysis": "Longevity also improved for people who had already reached adulthood. According to figures reported by Agência Gov, a 60-year-old could expect to live another 22.7 years in 2025, up from 13.2 in 1940. Infant mortality fell from 146.6 to 12 deaths before the first birthday per thousand live births over the same period. Together, the measures show how lower mortality in infancy and at older ages lifted the national average.",
+        "counterpoint": "Life expectancy at birth is an estimate based on observed death rates at each age. It cannot predict an individual's lifespan. The national average also masks differences within the population: the gap between women and men stayed at 6.6 years even as both groups made gains in 2025.",
+        "photo_captions": {
+          "1": "FILE PHOTO (October 30, 2009): Downtown Rio de Janeiro. Rodrigo Soldon / Wikimedia Commons, CC BY 2.0, resized. This photo does not depict the 2026 release."
+        }
+      },
+      "es": {
+        "category": "BRASIL",
+        "title": "LA ESPERANZA DE VIDA EN BRASIL ALCANZA UN RÉCORD DE 76,9 AÑOS, SEGÚN EL IBGE",
+        "subtitle": "La esperanza de vida aumentó 3,1 meses en 2025 frente al año anterior. La brecha entre mujeres y hombres se mantuvo en 6,6 años.",
+        "facts": "El Instituto Brasileño de Geografía y Estadística (IBGE) publicó el 27 de noviembre de 2026 las tablas completas de mortalidad de Brasil correspondientes a 2025. Según el instituto, la esperanza de vida al nacer alcanzó los 76,9 años, frente a los 76,6 de 2024. El aumento fue de 3,1 meses antes de redondear los valores expresados en años, y la estimación llegó a 80,1 años para las mujeres y a 73,5 para los hombres.",
+        "analysis": "La longevidad también mejoró para quienes ya habían llegado a la edad adulta. Según las cifras difundidas por Agência Gov, una persona de 60 años podía esperar vivir otros 22,7 años en 2025, frente a 13,2 en 1940. En el mismo período, la mortalidad infantil bajó de 146,6 a 12 muertes antes del primer año por cada mil nacidos vivos. Ambos indicadores muestran cómo la reducción de la mortalidad en la infancia y en edades avanzadas elevó el promedio nacional.",
+        "counterpoint": "La esperanza de vida al nacer se estima a partir de las tasas de mortalidad observadas a cada edad. No permite predecir cuántos años vivirá una persona concreta. El promedio nacional también oculta diferencias: la brecha entre mujeres y hombres se mantuvo en 6,6 años pese a los avances de ambos grupos en 2025.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (30/10/2009): Centro de Río de Janeiro. Rodrigo Soldon / Wikimedia Commons, CC BY 2.0, versión reducida. La imagen no corresponde a la publicación de 2026."
+        }
+      }
+    },
     {
       "id": "bndes-desembolsa-2664-bilhoes-latam-2026-11-27",
       "date": "2026-11-27",
