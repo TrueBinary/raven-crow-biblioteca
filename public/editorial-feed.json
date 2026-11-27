@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": "brasil-recorde-106-milhoes-graduacao-censo-2025-2026-11-27",
+      "date": "2026-11-27",
+      "category": "EDUCAÇÃO",
+      "title": "BRASIL ATINGE RECORDE DE 10,6 MILHÕES DE ESTUDANTES NA GRADUAÇÃO",
+      "subtitle": "Censo de 2025 divulgado em 26 de novembro registra expansão do acesso, mas aponta desafios na conclusão dos cursos.",
+      "facts": "O Ministério da Educação (MEC) divulgou no Brasil, em 26 de novembro de 2026, os resultados do Censo da Educação Superior de 2025. Segundo o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), as matrículas na graduação chegaram a 10,6 milhões, recorde da série histórica. O instituto também informou que 29% dos jovens de 18 a 24 anos cursavam ou haviam concluído a graduação.",
+      "analysis": "A expansão amplia as possibilidades de qualificação profissional, mas exige atenção à qualidade do ensino e à permanência dos alunos. Para estudantes que conciliam trabalho e formação, a flexibilidade dos cursos pode facilitar o acesso, sem eliminar a necessidade de apoio acadêmico.",
+      "counterpoint": "O recorde de matrículas não equivale a um recorde de diplomas. Segundo o Inep, a desistência acumulada alcançou 69% nos cursos a distância e 60% nos presenciais; esses indicadores não demonstram, isoladamente, que a modalidade seja a causa da diferença.",
+      "sources": [
+        {
+          "name": "Inep",
+          "url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/censo-da-educacao-superior/brasil-tem-recorde-de-estudantes-na-graduacao"
+        },
+        {
+          "name": "Secretaria de Comunicação Social",
+          "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/censo-da-educacao-superior-brasil-bate-recorde-de-10-6-milhoes-de-alunos-na-graduacao"
+        }
+      ],
+      "en": {
+        "category": "EDUCATION",
+        "title": "BRAZIL REACHES RECORD 10.6 MILLION UNDERGRADUATE STUDENTS",
+        "subtitle": "The 2025 census released on November 26 shows wider access but highlights challenges in completing degrees.",
+        "facts": "Brazil's Ministry of Education (MEC) released the 2025 Higher Education Census results on November 26, 2026. According to the Anísio Teixeira National Institute for Educational Studies and Research (Inep), undergraduate enrollment reached a record 10.6 million. The institute also reported that 29% of people aged 18 to 24 were pursuing or had completed an undergraduate degree.",
+        "analysis": "Expansion creates more opportunities for professional qualifications, but requires attention to teaching quality and student retention. For students balancing work and education, flexible courses may improve access without eliminating the need for academic support.",
+        "counterpoint": "Record enrollment does not mean record degree completion. According to Inep, cumulative dropout reached 69% in distance learning and 60% in in-person courses; these figures alone do not establish that the delivery mode caused the difference.",
+        "slug": "brazil-reaches-record-10-6-million-undergraduate-students-2026-11-27"
+      },
+      "es": {
+        "category": "EDUCACIÓN",
+        "title": "BRASIL ALCANZA UN RÉCORD DE 10,6 MILLONES DE ESTUDIANTES DE GRADO",
+        "subtitle": "El censo de 2025 divulgado el 26 de noviembre muestra mayor acceso, pero señala dificultades para concluir los estudios.",
+        "facts": "El Ministerio de Educación (MEC) de Brasil divulgó el 26 de noviembre de 2026 los resultados del Censo de Educación Superior de 2025. Según el Instituto Nacional de Estudios e Investigaciones Educativas Anísio Teixeira (Inep), las matrículas de grado alcanzaron un récord de 10,6 millones. El instituto también informó que el 29% de los jóvenes de 18 a 24 años cursaban o habían concluido estudios de grado.",
+        "analysis": "La expansión amplía las oportunidades de cualificación profesional, pero exige atención a la calidad de la enseñanza y la permanencia estudiantil. Para quienes compaginan trabajo y estudios, la flexibilidad puede facilitar el acceso sin eliminar la necesidad de apoyo académico.",
+        "counterpoint": "El récord de matrículas no equivale a un récord de titulaciones. Según el Inep, el abandono acumulado alcanzó el 69% en cursos a distancia y el 60% en los presenciales; estas cifras por sí solas no demuestran que la modalidad sea la causa de la diferencia.",
+        "slug": "brasil-alcanza-un-record-de-10-6-millones-de-estudiantes-de-grado-2026-11-27"
+      },
+      "firstSeen": "2026-11-27T03:56:31-03:00"
+    },
+    {
       "id": "governo-bloqueia-3941-celulares-presidios-2026-11-26",
       "date": "2026-11-26",
       "category": "SEGURANÇA",
