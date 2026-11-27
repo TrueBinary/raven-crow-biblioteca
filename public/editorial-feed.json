@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "bndes-desembolsa-2664-bilhoes-latam-2026-11-27",
+      "date": "2026-11-27",
+      "category": "ECONOMIA",
+      "title": "BNDES LIBERA R$ 2,664 BILHÕES EM CRÉDITO PARA A LATAM BRASIL",
+      "subtitle": "Empréstimo do fundo de aviação tem custo anual de 5,6% e busca aliviar a pressão do combustível sobre o caixa da companhia.",
+      "facts": "Em 26 de novembro de 2026, o Banco Nacional de Desenvolvimento Econômico e Social (BNDES) liberou R$ 2,664 bilhões em financiamento para a operação brasileira da LATAM Airlines. Segundo comunicado do banco, o dinheiro vem do Fundo Nacional de Aviação Civil (FNAC), ligado ao Ministério de Portos e Aeroportos, e integra uma linha de capital de giro para empresas que operam voos domésticos no Brasil. O BNDES informou que o contrato tem custo anual de 5,6%, pagamentos mensais de amortização e vencimento em julho de 2031. O objetivo declarado é reduzir a pressão dos custos operacionais, especialmente do combustível de aviação. O banco também esclareceu que a Lei nº 14.978, de 18 de setembro de 2024, autorizou o uso do fundo para apoiar as companhias aéreas.",
+      "analysis": "Ao financiar capital de giro, a operação oferece recursos para sustentar as despesas correntes da empresa e distribuir no tempo a pressão sobre seu caixa. Isso é diferente de financiar diretamente a compra de uma aeronave. A medida pode ajudar a companhia a preservar capacidade operacional diante do encarecimento do combustível, mas seus efeitos sobre rotas, oferta de assentos e tarifas dependerão das decisões comerciais da empresa. O uso de um fundo público também torna relevante acompanhar os pagamentos, a exposição financeira do fundo e os resultados da política de apoio à aviação.",
+      "counterpoint": "O desembolso é um empréstimo, não uma doação. A nota do BNDES não demonstra que o financiamento resultará em passagens mais baratas nem informa, por si só, o custo fiscal líquido da operação. O grupo LATAM registrou lucro líquido de US$ 441 milhões no terceiro trimestre de 2026, segundo o portal especializado Airway; esse resultado do grupo não equivale ao balanço isolado da operação brasileira. A rentabilidade não elimina os riscos de custos, mas reforça a importância de avaliar as condições e os benefícios públicos do crédito.",
+      "sources": [
+        {
+          "name": "Agência BNDES de Notícias — 26/11/2026",
+          "url": "https://agenciadenoticias.bndes.gov.br/noticia/BNDES-desembolsa-R%24-27-bi-em-linha-de-capital-de-giro-para-a-LATAM-Airlines-Brasil/"
+        },
+        {
+          "name": "Reuters — 26/11/2026",
+          "url": "https://br.investing.com/news/stock-market-news/bndes-aprova-quase-r27-bi-para-capital-de-giro-da-latam-brasil-2138895"
+        },
+        {
+          "name": "Airway — 27/11/2026",
+          "url": "https://www.airway.com.br/latam-recebe-r-2-66-bilhoes-do-governo-mesmo-com-lucro-e-planos-de-expansao/"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/PT-MXN_LATAM_Airlines_Brasil_Airbus_A321-200%2C_Guarulhos_International_Airport.jpg/960px-PT-MXN_LATAM_Airlines_Brasil_Airbus_A321-200%2C_Guarulhos_International_Airport.jpg",
+          "slot": 1,
+          "uso_liberado": true,
+          "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Wilfredor / Wikimedia Commons",
+          "source_article": "https://commons.wikimedia.org/wiki/File:PT-MXN_LATAM_Airlines_Brasil_Airbus_A321-200,_Guarulhos_International_Airport.jpg",
+          "caption": "FOTO DE ARQUIVO (31/12/2016): Airbus A321 da LATAM Brasil com pintura da TAM, no aeroporto de Guarulhos, São Paulo. Wilfredor/Wikimedia Commons, CC BY-SA 4.0; versão reduzida. Não retrata o desembolso de 2026."
+        }
+      ],
+      "en": {
+        "category": "ECONOMY",
+        "title": "BNDES RELEASES R$2.664 BILLION IN CREDIT TO LATAM BRAZIL",
+        "subtitle": "The aviation fund loan carries an annual cost of 5.6% and seeks to ease fuel-related pressure on the airline's cash flow.",
+        "facts": "On November 26, 2026, the Brazilian National Bank for Economic and Social Development (BNDES) released R$2.664 billion in financing to LATAM Airlines' Brazilian operations. According to the bank's announcement, the funds come from the National Civil Aviation Fund (FNAC), linked to the Ministry of Ports and Airports, under a working capital facility for airlines operating domestic flights in Brazil. BNDES said the contract carries an annual cost of 5.6%, monthly principal repayments and a July 2031 maturity. The stated purpose is to ease operating cost pressures, particularly from aviation fuel. The bank also explained that Law No. 14,978 of September 18, 2024, authorized the fund's use to support airlines.",
+        "analysis": "Working capital financing provides resources to cover ongoing expenses and spread cash flow pressure over time. This differs from directly financing an aircraft purchase. The measure may help the airline maintain operating capacity as fuel costs rise, but its effects on routes, seat availability and fares will depend on commercial decisions. The use of a public fund also makes it important to monitor repayments, the fund's financial exposure and the results of aviation support policy.",
+        "counterpoint": "The disbursement is a loan, not a grant. The BNDES announcement does not establish that the financing will lead to lower fares or disclose the operation's net fiscal cost. LATAM Group posted net income of US$441 million in the third quarter of 2026, according to aviation publication Airway; this group-level result is not the standalone financial result of the Brazilian operation. Profitability does not eliminate cost risks, but underscores the importance of assessing the credit terms and public benefits.",
+        "photo_captions": {
+          "1": "FILE PHOTO (December 31, 2016): LATAM Brazil Airbus A321 in TAM livery at Guarulhos airport, São Paulo. Wilfredor/Wikimedia Commons, CC BY-SA 4.0; resized version. Does not depict the 2026 disbursement."
+        },
+        "slug": "bndes-releases-r-2-664-billion-in-credit-to-latam-brazil-2026-11-27"
+      },
+      "es": {
+        "category": "ECONOMÍA",
+        "title": "BNDES DESEMBOLSA 2.664 MILLONES DE REALES EN CRÉDITO PARA LATAM BRASIL",
+        "subtitle": "El préstamo del fondo de aviación tiene un coste anual del 5,6% y busca aliviar la presión del combustible sobre la liquidez de la aerolínea.",
+        "facts": "El 26 de noviembre de 2026, el Banco Nacional de Desarrollo Económico y Social de Brasil (BNDES) desembolsó 2.664 millones de reales en financiación para la operación brasileña de LATAM Airlines. Según el comunicado del banco, los recursos proceden del Fondo Nacional de Aviación Civil (FNAC), vinculado al Ministerio de Puertos y Aeropuertos, y forman parte de una línea de capital circulante para aerolíneas que operan vuelos nacionales en Brasil. El BNDES informó que el contrato tiene un coste anual del 5,6%, amortizaciones mensuales y vencimiento en julio de 2031. El objetivo declarado es aliviar la presión de los costes operativos, especialmente del combustible de aviación. El banco también explicó que la Ley n.º 14.978, del 18 de septiembre de 2024, autorizó el uso del fondo para apoyar a las aerolíneas.",
+        "analysis": "La financiación del capital circulante aporta recursos para cubrir gastos corrientes y distribuir en el tiempo la presión sobre la liquidez. Esto difiere de financiar directamente la compra de una aeronave. La medida puede ayudar a preservar la capacidad operativa ante el encarecimiento del combustible, pero sus efectos sobre las rutas, la oferta de plazas y las tarifas dependerán de las decisiones comerciales de la empresa. El uso de un fondo público también hace relevante vigilar las amortizaciones, la exposición financiera del fondo y los resultados de la política de apoyo a la aviación.",
+        "counterpoint": "El desembolso es un préstamo, no una donación. El comunicado del BNDES no demuestra que la financiación genere billetes más baratos ni informa por sí solo del coste fiscal neto de la operación. El grupo LATAM registró un beneficio neto de 441 millones de dólares estadounidenses en el tercer trimestre de 2026, según el medio especializado Airway; ese resultado del grupo no equivale al balance individual de la operación brasileña. La rentabilidad no elimina los riesgos de costes, pero refuerza la importancia de evaluar las condiciones y los beneficios públicos del crédito.",
+        "photo_captions": {
+          "1": "FOTO DE ARCHIVO (31/12/2016): Airbus A321 de LATAM Brasil con los colores de TAM en el aeropuerto de Guarulhos, São Paulo. Wilfredor/Wikimedia Commons, CC BY-SA 4.0; versión reducida. No muestra el desembolso de 2026."
+        },
+        "slug": "bndes-desembolsa-2-664-millones-de-reales-en-credito-para-latam-brasil-2026-11-27"
+      },
+      "firstSeen": "2026-11-27T14:03:49.810Z"
+    },
+    {
       "id": "trabuco-aceita-ministerio-fazenda-2027-2026-11-27",
       "date": "2026-11-27",
       "category": "ECONOMIA",
