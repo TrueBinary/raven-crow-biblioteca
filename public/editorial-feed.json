@@ -1,6 +1,44 @@
 {
   "articles": [
     {
+      "id": "fgv-confianca-servicos-novembro-2026-11-27",
+      "date": "2026-11-27",
+      "category": "ECONOMIA",
+      "title": "CONFIANÇA DOS SERVIÇOS CAI AO MENOR NÍVEL DESDE ABRIL DE 2021",
+      "subtitle": "Indicador da FGV chega a 84,3 pontos em novembro, enquanto expectativas empresariais recuam 7,2 pontos.",
+      "facts": "A Fundação Getulio Vargas (FGV) divulgou em 27 de novembro de 2026 que o Índice de Confiança de Serviços (ICS) brasileiro caiu 3,9 pontos no mês, para 84,3. Segundo a FGV, o componente de expectativas perdeu 7,2 pontos e chegou a 80,6. A Reuters informou que o índice geral atingiu seu menor nível desde abril de 2021.",
+      "analysis": "A deterioração das perspectivas pode levar empresas de serviços a adiar investimentos e contratações. A FGV relaciona o pessimismo à revisão do cenário pós-eleitoral e das projeções econômicas, incluindo juros, inflação e câmbio.",
+      "counterpoint": "A percepção da situação presente variou pouco: segundo a FGV, seu indicador caiu apenas 0,3 ponto, para 88,4. A sondagem mede confiança, não uma contração efetivamente observada da produção ou do emprego.",
+      "sources": [
+        {
+          "name": "FGV IBRE",
+          "url": "https://portalibre.fgv.br/noticias/confianca-de-servicos-voltou-cair-em-novembro"
+        },
+        {
+          "name": "Reuters / CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/fgv-confianca-de-servicos-no-brasil-atinge-nivel-mais-baixo-em-5-anos/"
+        }
+      ],
+      "en": {
+        "category": "ECONOMY",
+        "title": "BRAZIL'S SERVICES CONFIDENCE FALLS TO LOWEST LEVEL SINCE APRIL 2021",
+        "subtitle": "FGV's index reaches 84.3 points in November as business expectations fall 7.2 points.",
+        "facts": "On November 27, 2026, Fundação Getulio Vargas (FGV) reported that Brazil's Services Confidence Index (ICS) fell 3.9 points in the month to 84.3. According to FGV, the expectations component dropped 7.2 points to 80.6. Reuters reported that the overall index reached its lowest level since April 2021.",
+        "analysis": "Worsening expectations may prompt service companies to postpone investment and hiring. FGV links the pessimism to reassessments of the post-election outlook and economic forecasts, including interest rates, inflation and exchange rates.",
+        "counterpoint": "Perceptions of current conditions changed little: according to FGV, that indicator fell only 0.3 points to 88.4. The survey measures confidence, not an observed contraction in output or employment.",
+        "slug": "brazil-s-services-confidence-falls-to-lowest-level-since-april-2021-2026-11-27"
+      },
+      "es": {
+        "category": "ECONOMÍA",
+        "title": "LA CONFIANZA DE LOS SERVICIOS EN BRASIL CAE A SU MÍNIMO DESDE ABRIL DE 2021",
+        "subtitle": "El índice de la FGV llega a 84,3 puntos en noviembre y las expectativas empresariales retroceden 7,2 puntos.",
+        "facts": "La Fundación Getulio Vargas (FGV) informó el 27 de noviembre de 2026 que el Índice de Confianza de Servicios (ICS) de Brasil cayó 3,9 puntos en el mes, hasta 84,3. Según la FGV, el componente de expectativas perdió 7,2 puntos y llegó a 80,6. Reuters informó que el índice general alcanzó su nivel más bajo desde abril de 2021.",
+        "analysis": "El deterioro de las perspectivas puede llevar a las empresas de servicios a aplazar inversiones y contrataciones. La FGV vincula el pesimismo con la revisión del escenario poselectoral y de las previsiones económicas, incluidos los tipos de interés, la inflación y el tipo de cambio.",
+        "counterpoint": "La percepción de la situación actual varió poco: según la FGV, su indicador cayó solo 0,3 puntos, hasta 88,4. La encuesta mide confianza, no una contracción observada de la producción o del empleo.",
+        "slug": "la-confianza-de-los-servicios-en-brasil-cae-a-su-minimo-desde-abril-de-2021-2026-11-27"
+      }
+    },
+    {
       "id": "ibge-desemprego-51-outubro-2026-11-27",
       "date": "2026-11-27",
       "category": "ECONOMIA",
